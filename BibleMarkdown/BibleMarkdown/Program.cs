@@ -176,6 +176,7 @@ namespace BibleMarkdown
 				ImportFromUSFM(path, srcpath);
 				ImportFromTXT(path, srcpath);
 				ImportFromZefania(path, srcpath);
+				ImportFromXmlOther(path, srcpath);
 				ImportFramework(path);
 			}
 			CreateFramework(path);

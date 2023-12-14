@@ -330,6 +330,8 @@ namespace BibleMarkdown
 					{
 						var root = XElement.Load(stream);
 
+						if (root.Name != "XMLBIBLE") continue;
+
 						Parallel.ForEach(root.Elements("BIBLEBOOK"), book =>
 						{
 							Imported = true;
@@ -362,6 +364,71 @@ namespace BibleMarkdown
 							LogFile(md);
 
 						});
+					}
+				}
+			}
+		}
+
+		public static void ImportFromXmlOther(string mdpath, string srcpath)
+		{
+			var sources = Directory.EnumerateFiles(srcpath)
+				.Where(file => file.EndsWith(".xml"));
+
+			//var mdtimes = Directory.EnumerateFiles(mdpath)
+			//	.Select(file => File.GetLastWriteTimeUtc(file));
+			//var sourcetimes = sources.Select(file => File.GetLastWriteTimeUtc(file));
+
+			//var mdtime = DateTime.MinValue;
+			//var sourcetime = DateTime.MinValue;
+
+			//foreach (var time in mdtimes) mdtime = time > mdtime ? time : mdtime;
+			//foreach (var time in sourcetimes) sourcetime = time > sourcetime ? time : sourcetime;
+
+			if (FromSource)
+			{
+
+				foreach (var source in sources)
+				{
+					using (var stream = File.Open(source, FileMode.Open, FileAccess.Read))
+					{
+						var root = XElement.Load(stream);
+
+						if (root.Name != "bible") continue;
+
+						int booknumber = 1;
+						foreach (var book in root.Elements("b"))
+						{
+							Imported = true;
+
+							StringBuilder text = new StringBuilder();
+							var file = $"{booknumber:D2}-{(string)book.Attribute("n")}.md";
+							var firstchapter = true;
+
+							foreach (var chapter in book.Elements("c"))
+							{
+								if (!firstchapter)
+								{
+									text.AppendLine(""); text.AppendLine();
+								}
+								firstchapter = false;
+								text.Append($"# {((int)chapter.Attribute("n"))}{Environment.NewLine}");
+								var firstverse = true;
+
+								foreach (var verse in chapter.Elements("v"))
+								{
+									if (!firstverse) text.Append(" ");
+									firstverse = false;
+									text.Append($"^{((int)verse.Attribute("n"))}^ ");
+									text.Append(verse.Value);
+								}
+							}
+
+							var md = Path.Combine(mdpath, file);
+							File.WriteAllText(md, text.ToString());
+							LogFile(md);
+
+							booknumber++;
+						}
 					}
 				}
 			}
