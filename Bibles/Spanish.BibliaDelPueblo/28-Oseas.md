@@ -220,23 +220,24 @@
 ^9^ No ejecutaré el furor de mi ira, no volveré para destruir á Ephraim: porque Dios soy, y no hombre; el Santo en medio de ti: y no entraré en la ciudad. 
 ^10^ En pos de Jehová caminarán: él bramará como león: cual león rugirá él de cierto, y los hijos se moverán azorados del occidente. 
 ^11^ Como ave se moverán velozmente de Egipto, y de la tierra de Asiria como paloma; y pondrélos en sus casas, dice Jehová. 
+^12^ Cercóme Ephraim con mentira, y la casa de Israel con engaño: mas Judá aun domina con Dios, y es fiel con los santos.
 
 # 12 
 ## El ejemplo de su antepasado Jacob, característico de los infieles
-^1^ Cercóme Ephraim con mentira, y la casa de Israel con engaño: mas Judá aun domina con Dios, y es fiel con los santos. 
-^2^ Ephraim se apacienta del viento, y sigue al solano: mentira y destrucción aumenta continuamente; porque hicieron alianza con los Asirios, y aceite se lleva á Egipto. 
-^3^ Pleito tiene Jehová con Judá para visitar á Jacob conforme á sus caminos: pagarále conforme á sus obras. 
-^4^ En el vientre tomó por el calcañar á su hermano, y con su fortaleza venció al ángel. 
-^5^ Venció al ángel, y prevaleció; lloró, y rogóle: en Beth-el le halló, y allí habló con nosotros. 
-^6^ Mas Jehová es Dios de los ejércitos: Jehová es su memorial. 
-^7^ Tú pues, conviértete á tu Dios: guarda misericordia y juicio, y en tu Dios espera siempre. 
-^8^ Es mercader que tiene en su mano peso falso, amador de opresión. 
-^9^ Y dijo Ephraim: Ciertamente yo he enriquecido, hallado he riquezas para mí: nadie hallará en mí iniquidad, ni pecado en todos mis trabajos. 
-^10^ Empero yo soy Jehová tu Dios desde la tierra de Egipto: aun te haré morar en tiendas, como en los días de la fiesta. 
-^11^ Y hablado he á los profetas, y yo aumenté la profecía, y por mano de los profetas puse semejanzas. 
-^12^ ¿Es Galaad iniquidad? Ciertamente vanidad han sido: en Gilgal sacrificaron bueyes: y aun son sus altares como montones en los surcos del campo. 
-^13^ Mas Jacob huyó á tierra de Aram, y sirvió Israel por mujer, y por mujer fué pastor. 
-^14^ Y por profeta hizo subir Jehová á Israel de Egipto, y por profeta fué guardado. Enojado ha Ephraim á Dios con amarguras; por tanto, sus sangres se derramarán sobre él, y su Señor le pagará su oprobio. 
+^1^ Ephraim se apacienta del viento, y sigue al solano: mentira y destrucción aumenta continuamente; porque hicieron alianza con los Asirios, y aceite se lleva á Egipto. 
+^2^ Pleito tiene Jehová con Judá para visitar á Jacob conforme á sus caminos: pagarále conforme á sus obras. 
+^3^ En el vientre tomó por el calcañar á su hermano, y con su fortaleza venció al ángel. 
+^4^ Venció al ángel, y prevaleció; lloró, y rogóle: en Beth-el le halló, y allí habló con nosotros. 
+^5^ Mas Jehová es Dios de los ejércitos: Jehová es su memorial. 
+^6^ Tú pues, conviértete á tu Dios: guarda misericordia y juicio, y en tu Dios espera siempre. 
+^7^ Es mercader que tiene en su mano peso falso, amador de opresión. 
+^8^ Y dijo Ephraim: Ciertamente yo he enriquecido, hallado he riquezas para mí: nadie hallará en mí iniquidad, ni pecado en todos mis trabajos. 
+^9^ Empero yo soy Jehová tu Dios desde la tierra de Egipto: aun te haré morar en tiendas, como en los días de la fiesta. 
+^10^ Y hablado he á los profetas, y yo aumenté la profecía, y por mano de los profetas puse semejanzas. 
+^11^ ¿Es Galaad iniquidad? Ciertamente vanidad han sido: en Gilgal sacrificaron bueyes: y aun son sus altares como montones en los surcos del campo. 
+^12^ Mas Jacob huyó á tierra de Aram, y sirvió Israel por mujer, y por mujer fué pastor. 
+^13^ Y por profeta hizo subir Jehová á Israel de Egipto, y por profeta fué guardado. 
+^14^ Enojado ha Ephraim á Dios con amarguras; por tanto, sus sangres se derramarán sobre él, y su Señor le pagará su oprobio. 
 
 # 13 
 ## Los fracasos de Efraín como causa de la ira divina y la ineludible caída

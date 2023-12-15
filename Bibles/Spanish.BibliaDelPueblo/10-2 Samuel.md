@@ -920,7 +920,8 @@
 ## Los altos funcionarios de David
 ^23^ Así quedó Joab sobre todo el ejército de Israel; y Benaía hijo de Joiada sobre los Ceretheos y Peletheos; 
 ^24^ Y Adoram sobre los tributos; y Josaphat hijo de Ahillud, el canciller; 
-^25^ Y Seba, escriba; y Sadoc y Abiathar, sacerdotes; é Ira Jaireo fué un jefe principal cerca de David. 
+^25^ Y Seba, escriba; y Sadoc y Abiathar, sacerdotes;
+^26^ é Ira Jaireo fué un jefe principal cerca de David. 
 
 # 21 
 ## Declaración de la deuda de Saúl; el requisito de los gabaonitas

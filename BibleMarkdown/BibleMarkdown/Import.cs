@@ -296,7 +296,7 @@ namespace BibleMarkdown
 
 							string verse = m.Groups[3].Value;
 							string text = Regex.Replace(m.Groups[4].Value, @"\r?\n", " ").Trim();
-							s.Append($"{(verse == "1" ? "" : " ")}^{verse}^ {text}");
+							s.Append($"{(verse == "1" ? "" : (EachVerseOnNewLine ? $"{Environment.NewLine}" : " "))}^{verse}^ {text}");
 						}
 					}
 					md = Path.Combine(mdpath, $"{bookno++:D2}-{book}.md");
@@ -352,7 +352,11 @@ namespace BibleMarkdown
 
 								foreach (var verse in chapter.Elements("VERS"))
 								{
-									if (!firstverse) text.Append(" ");
+									if (!firstverse)
+									{
+										if (EachVerseOnNewLine) text.AppendLine();
+										else text.Append(" ");
+									}
 									firstverse = false;
 									text.Append($"^{((int)verse.Attribute("vnumber"))}^ ");
 									text.Append(verse.Value);
@@ -416,7 +420,11 @@ namespace BibleMarkdown
 
 								foreach (var verse in chapter.Elements("v"))
 								{
-									if (!firstverse) text.Append(" ");
+									if (!firstverse)
+									{
+										if (EachVerseOnNewLine) text.AppendLine();
+										else text.Append(" ");
+									}
 									firstverse = false;
 									text.Append($"^{((int)verse.Attribute("n"))}^ ");
 									text.Append(verse.Value);

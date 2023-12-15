@@ -1089,7 +1089,8 @@
 ^12^ Allí clamarán, y él no oirá, por la soberbia de los malos. 
 ^13^ Ciertamente Dios no oirá la vanidad, ni la mirará el Omnipotente. 
 ^14^ Aunque más digas, No lo mirará; haz juicio delante de él, y en él espera. 
-^15^ Mas ahora, porque en su ira no visita, ni conoce con rigor, por eso Job abrió su boca vanamente, y multiplica palabras sin sabiduría. 
+^15^ Mas ahora, porque en su ira no visita, ni conoce con rigor,
+^16^ por eso Job abrió su boca vanamente, y multiplica palabras sin sabiduría. 
 
 # 36 
 ## Eliú justifica su siguiente enseñanza con referencia a su perfecto conocimiento
@@ -1202,61 +1203,70 @@
 ^35^ ¿Enviarás tú los relámpagos, para que ellos vayan? ¿y diránte ellos: Henos aquí? 
 ^36^ ¿Quién puso la sabiduría en el interior? ¿ó quién dió al entendimiento la inteligencia? 
 ^37^ ¿Quién puso por cuenta los cielos con sabiduría? y los odres de los cielos, ¿quién los hace parar, 
-^38^ Cuando el polvo se ha convertido en dureza, y los terrones se han pegado unos con otros? 
+^38^ Cuando el polvo se ha convertido en dureza, y los terrones se han pegado unos con otros?  
+^39^ ¿Cazarás tú la presa para el león? ¿y saciarás el hambre de los leoncillos, 
+^40^ Cuando están echados en las cuevas, ó se están en sus guaridas para acechar? 
+^41^ ¿Quién preparó al cuervo su alimento, cuando sus pollos claman á Dios, bullendo de un lado á otro por carecer de comida? 
 
-# 39 
-^1^ ¿Cazarás tú la presa para el león? ¿y saciarás el hambre de los leoncillos, 
-^2^ Cuando están echados en las cuevas, ó se están en sus guaridas para acechar? 
-^3^ ¿Quién preparó al cuervo su alimento, cuando sus pollos claman á Dios, bullendo de un lado á otro por carecer de comida? 
-^4^ ¿Sabes tú el tiempo en que paren las cabras monteses? ¿ó miraste tú las ciervas cuando están pariendo? 
-^5^ ¿Contaste tú los meses de su preñez, y sabes el tiempo cuando han de parir? 
-^6^ Encórvanse, hacen salir sus hijos, pasan sus dolores. 
-^7^ Sus hijos están sanos, crecen con el pasto: salen y no vuelven á ellas. 
-^8^ ¿Quién echó libre al asno montés, y quién soltó sus ataduras? 
-^9^ Al cual yo puse casa en la soledad, y sus moradas en lugares estériles. 
-^10^ Búrlase de la multitud de la ciudad: no oye las voces del arriero. 
-^11^ Lo oculto de los montes es su pasto, y anda buscando todo lo que está verde. 
-^12^ ¿Querrá el unicornio servirte á ti, ni quedar á tu pesebre? 
-^13^ ¿Atarás tú al unicornio con su coyunda para el surco? ¿labrará los valles en pos de ti? 
-^14^ ¿Confiarás tú en él, por ser grande su fortaleza, y le fiarás tu labor? 
-^15^ ¿Fiarás de él que te tornará tu simiente, y que la allegará en tu era? 
-^16^ ¿Diste tú hermosas alas al pavo real, ó alas y plumas al avestruz? 
-^17^ El cual desampara en la tierra sus huevos, y sobre el polvo los calienta, 
-^18^ Y olvídase de que los pisará el pie, y que los quebrará bestia del campo. 
-^19^ Endurécese para con sus hijos, como si no fuesen suyos, no temiendo que su trabajo haya sido en vano: 
-^20^ Porque le privó Dios de sabiduría, y no le dió inteligencia. 
-^21^ Luego que se levanta en alto, búrlase del caballo y de su jinete. 
-^22^ ¿Diste tú al caballo la fortaleza? ¿vestiste tú su cerviz de relincho? 
-^23^ ¿Le intimidarás tú como á alguna langosta? El resoplido de su nariz es formidable: 
-^24^ Escarba la tierra, alégrase en su fuerza, sale al encuentro de las armas: 
-^25^ Hace burla del espanto, y no teme, ni vuelve el rostro delante de la espada. 
-^26^ Contra él suena la aljaba, el hierro de la lanza y de la pica: 
-^27^ Y él con ímpetu y furor escarba la tierra, sin importarle el sonido de la bocina; 
-^28^ Antes como que dice entre los clarines: ¡Ea!, y desde lejos huele la batalla, el grito de los capitanes, y la vocería. 
-^29^ ¿Vuela el gavilán por tu industria, y extiende hacia el mediodía sus alas? 
-^30^ ¿Se remonta el águila por tu mandamiento, y pone en alto su nido? Ella habita y está en la piedra, en la cumbre del peñasco y de la roca. Desde allí acecha la comida: sus ojos observan de muy lejos. Sus pollos chupan la sangre: y donde hubiere cadáveres, allí está. A más de eso respondió Jehová á Job, y dijo: ¿Es sabiduría contender con el Omnipotente? El que disputa con Dios, responda á esto. Y respondió Job á Jehová, y dijo: He aquí que yo soy vil, ¿qué te responderé? Mi mano pongo sobre mi boca. Una vez hablé, y no responderé: aun dos veces, mas no tornaré á hablar. 
+# 39
+^1^ ¿Sabes tú el tiempo en que paren las cabras monteses? ¿ó miraste tú las ciervas cuando están pariendo? 
+^2^ ¿Contaste tú los meses de su preñez, y sabes el tiempo cuando han de parir? 
+^3^ Encórvanse, hacen salir sus hijos, pasan sus dolores. 
+^4^ Sus hijos están sanos, crecen con el pasto: salen y no vuelven á ellas. 
+^5^ ¿Quién echó libre al asno montés, y quién soltó sus ataduras? 
+^6^ Al cual yo puse casa en la soledad, y sus moradas en lugares estériles. 
+^7^ Búrlase de la multitud de la ciudad: no oye las voces del arriero. 
+^8^ Lo oculto de los montes es su pasto, y anda buscando todo lo que está verde. 
+^9^ ¿Querrá el unicornio servirte á ti, ni quedar á tu pesebre? 
+^10^ ¿Atarás tú al unicornio con su coyunda para el surco? ¿labrará los valles en pos de ti? 
+^11^ ¿Confiarás tú en él, por ser grande su fortaleza, y le fiarás tu labor? 
+^12^ ¿Fiarás de él que te tornará tu simiente, y que la allegará en tu era? 
+^13^ ¿Diste tú hermosas alas al pavo real, ó alas y plumas al avestruz? 
+^14^ El cual desampara en la tierra sus huevos, y sobre el polvo los calienta, 
+^15^ Y olvídase de que los pisará el pie, y que los quebrará bestia del campo. 
+^16^ Endurécese para con sus hijos, como si no fuesen suyos, no temiendo que su trabajo haya sido en vano: 
+^17^ Porque le privó Dios de sabiduría, y no le dió inteligencia. 
+^18^ Luego que se levanta en alto, búrlase del caballo y de su jinete. 
+^19^ ¿Diste tú al caballo la fortaleza? ¿vestiste tú su cerviz de relincho? 
+^20^ ¿Le intimidarás tú como á alguna langosta? El resoplido de su nariz es formidable: 
+^21^ Escarba la tierra, alégrase en su fuerza, sale al encuentro de las armas: 
+^22^ Hace burla del espanto, y no teme, ni vuelve el rostro delante de la espada. 
+^23^ Contra él suena la aljaba, el hierro de la lanza y de la pica: 
+^24^ Y él con ímpetu y furor escarba la tierra, sin importarle el sonido de la bocina; 
+^25^ Antes como que dice entre los clarines: ¡Ea!, y desde lejos huele la batalla, el grito de los capitanes, y la vocería. 
+^26^ ¿Vuela el gavilán por tu industria, y extiende hacia el mediodía sus alas? 
+^27^ ¿Se remonta el águila por tu mandamiento, y pone en alto su nido?
+^28^ Ella habita y está en la piedra, en la cumbre del peñasco y de la roca.
+^29^ Desde allí acecha la comida: sus ojos observan de muy lejos.
+^30^ Sus pollos chupan la sangre: y donde hubiere cadáveres, allí está.
 
 # 40 
 ## La invitación de Dios a Job para entablar un litigio con él; Job renuncia a sus cargos contra Dios
-^1^ Entonces respondió Jehová á Job desde la oscuridad, y dijo: 
-^2^ Cíñete ahora como varón tus lomos; yo te preguntaré, y explícame. 
-^3^ ¿Invalidarás tú también mi juicio? ¿me condenarás á mí, para justificarte á ti? 
-^4^ ¿Tienes tú brazo como Dios? ¿y tronarás tú con voz como él? 
-^5^ Atavíate ahora de majestad y de alteza: y vístete de honra y de hermosura. 
-^6^ Esparce furores de tu ira: y mira á todo soberbio, y abátelo. 
-^7^ Mira á todo soberbio, y humíllalo, y quebranta á los impíos en su asiento. 
-^8^ Encúbrelos á todos en el polvo, venda sus rostros en la oscuridad; 
-^9^ Y yo también te confesaré que podrá salvarte tu diestra. 
-^10^ He aquí ahora behemoth, al cual yo hice contigo; hierba come como buey. 
-^11^ He aquí ahora que su fuerza está en sus lomos, y su fortaleza en el ombligo de su vientre. 
-^12^ Su cola mueve como un cedro, y los nervios de sus genitales son entretejidos. 
-^13^ Sus huesos son fuertes como bronce, y sus miembros como barras de hierro. 
-^14^ El es la cabeza de los caminos de Dios: el que lo hizo, puede hacer que su cuchillo á él se acerque. 
-^15^ Ciertamente los montes producen hierba para él: y toda bestia del campo retoza allá. 
-^16^ Echaráse debajo de las sombras, en lo oculto de las cañas, y de los lugares húmedos. 
-^17^ Los árboles sombríos lo cubren con su sombra; los sauces del arroyo lo cercan. 
-^18^ He aquí que él tomará el río sin inmutarse: y confíase que el Jordán pasará por su boca. 
-^19^ ¿Tomarálo alguno por sus ojos en armadijos, y horadará su nariz? 
+^1^ A más de eso respondió Jehová á Job, y dijo:
+^2^ ¿Es sabiduría contender con el Omnipotente? El que disputa con Dios, responda á esto.
+^3^ Y respondió Job á Jehová, y dijo:
+^4^ He aquí que yo soy vil, ¿qué te responderé? Mi mano pongo sobre mi boca.
+^5^ Una vez hablé, y no responderé: aun dos veces, mas no tornaré á hablar. 
+
+^6^ Entonces respondió Jehová á Job desde la oscuridad, y dijo: 
+^7^ Cíñete ahora como varón tus lomos; yo te preguntaré, y explícame. 
+^8^ ¿Invalidarás tú también mi juicio? ¿me condenarás á mí, para justificarte á ti? 
+^9^ ¿Tienes tú brazo como Dios? ¿y tronarás tú con voz como él? 
+^10^ Atavíate ahora de majestad y de alteza: y vístete de honra y de hermosura. 
+^11^ Esparce furores de tu ira: y mira á todo soberbio, y abátelo. 
+^12^ Mira á todo soberbio, y humíllalo, y quebranta á los impíos en su asiento. 
+^13^ Encúbrelos á todos en el polvo, venda sus rostros en la oscuridad; 
+^14^ Y yo también te confesaré que podrá salvarte tu diestra. 
+^15^ He aquí ahora behemoth, al cual yo hice contigo; hierba come como buey. 
+^16^ He aquí ahora que su fuerza está en sus lomos, y su fortaleza en el ombligo de su vientre. 
+^17^ Su cola mueve como un cedro, y los nervios de sus genitales son entretejidos. 
+^18^ Sus huesos son fuertes como bronce, y sus miembros como barras de hierro. 
+^19^ El es la cabeza de los caminos de Dios: el que lo hizo, puede hacer que su cuchillo á él se acerque. 
+^20^ Ciertamente los montes producen hierba para él: y toda bestia del campo retoza allá. 
+^21^ Echaráse debajo de las sombras, en lo oculto de las cañas, y de los lugares húmedos. 
+^22^ Los árboles sombríos lo cubren con su sombra; los sauces del arroyo lo cercan. 
+^23^ He aquí que él tomará el río sin inmutarse: y confíase que el Jordán pasará por su boca. 
+^24^ ¿Tomarálo alguno por sus ojos en armadijos, y horadará su nariz? 
 
 # 41 
 ## La respuesta final de Job: su reconocimiento de la grandeza de Dios y su arrepentida retractación

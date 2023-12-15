@@ -23,21 +23,21 @@
 ^14^ Entonces clamaron á Jehová, y dijeron: Rogámoste ahora, Jehová, que no perezcamos nosotros por la vida de aqueste hombre, ni pongas sobre nosotros la sangre inocente: porque tú, Jehová, has hecho como has querido. 
 ^15^ Y tomaron á Jonás, y echáronlo á la mar; y la mar se quietó de su furia. 
 ^16^ Y temieron aquellos hombres á Jehová con gran temor; y ofrecieron sacrificio á Jehová, y prometieron votos. 
+^17^ Mas Jehová había prevenido un gran pez que tragase á Jonás: y estuvo Jonás en el vientre del pez tres días y tres noches.
 
 # 2 
 ## Jonás oración y salvación
-^1^ Mas Jehová había prevenido un gran pez que tragase á Jonás: y estuvo Jonás en el vientre del pez tres días y tres noches.
+^1^ Y oró Jonás desde el vientre del pez á Jehová su Dios, 
+^2^ Y dijo: Clamé de mi tribulación á Jehová, y él me oyó; del vientre del sepulcro clamé, y mi voz oiste. 
+^3^ Echásteme en el profundo, en medio de los mares, y rodeóme la corriente; todas tus ondas y tus olas pasaron sobre mí. 
+^4^ Y yo dije: Echado soy de delante de tus ojos: mas aun veré tu santo templo. 
+^5^ Las aguas me rodearon hasta el alma, rodeóme el abismo; la ova se enredó á mi cabeza. 
+^6^ Descendí á las raíces de los montes; la tierra echó sus cerraduras sobre mí para siempre: mas tú sacaste mi vida de la sepultura, oh Jehová Dios mío. 
+^7^ Cuando mi alma desfallecía en mí, acordéme de Jehová; y mi oración entró hasta ti en tu santo templo. 
+^8^ Los que guardan las vanidades ilusorias, su misericordia abandonan.
 
-^2^ Y oró Jonás desde el vientre del pez á Jehová su Dios, 
-^3^ Y dijo: Clamé de mi tribulación á Jehová, y él me oyó; del vientre del sepulcro clamé, y mi voz oiste. 
-^4^ Echásteme en el profundo, en medio de los mares, y rodeóme la corriente; todas tus ondas y tus olas pasaron sobre mí. 
-^5^ Y yo dije: Echado soy de delante de tus ojos: mas aun veré tu santo templo. 
-^6^ Las aguas me rodearon hasta el alma, rodeóme el abismo; la ova se enredó á mi cabeza. 
-^7^ Descendí á las raíces de los montes; la tierra echó sus cerraduras sobre mí para siempre: mas tú sacaste mi vida de la sepultura, oh Jehová Dios mío. 
-^8^ Cuando mi alma desfallecía en mí, acordéme de Jehová; y mi oración entró hasta ti en tu santo templo. 
-^9^ Los que guardan las vanidades ilusorias, su misericordia abandonan.
-
-^10^ Yo empero con voz de alabanza te sacrificaré; pagaré lo que prometí. La salvación pertenece á Jehová. Y mandó Jehová al pez, y vomitó á Jonás en tierra. 
+^9^ Yo empero con voz de alabanza te sacrificaré; pagaré lo que prometí. La salvación pertenece á Jehová.
+^10^ Y mandó Jehová al pez, y vomitó á Jonás en tierra. 
 
 # 3 
 ## Jonás exitoso sermón penitencial en Nínive

@@ -366,6 +366,7 @@
 
 ## Advertencias finales, saludos y bendiciones
 ^11^ Resta, hermanos, que tengáis gozo, seáis perfectos, tengáis consolación, sintáis una misma cosa, tengáis paz; y el Dios de paz y de caridad será con vosotros. 
-^12^ Saludaos los unos á los otros con ósculo santo. Todos los santos os saludan.
+^12^ Saludaos los unos á los otros con ósculo santo.
+^13^ Todos los santos os saludan.
 
-^13^ La gracia del Señor Jesucristo, y el amor de Dios, y la participación del Espíritu Santo sea con vosotros todos. Amén. La segunda Epístola á los Corintios fué enviada de Filipos de Macedonia con Tito y Lucas. 
+^14^ La gracia del Señor Jesucristo, y el amor de Dios, y la participación del Espíritu Santo sea con vosotros todos. Amén. La segunda Epístola á los Corintios fué enviada de Filipos de Macedonia con Tito y Lucas. 

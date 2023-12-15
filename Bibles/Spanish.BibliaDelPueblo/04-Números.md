@@ -730,52 +730,52 @@
 ^14^ Respondió Jehová á Moisés: Pues si su padre hubiera escupido en su cara, ¿no se avergonzaría por siete días?: sea echada fuera del real por siete días, y después se reunirá.
 
 ^15^ Así María fué echada del real siete días; y el pueblo no pasó adelante hasta que se le reunió María. 
+^16^ Y después movió el pueblo de Haseroth, y asentaron el campo en el desierto de Parán. 
 
 # 13 
 ## Envío de los doce exploradores
-^1^ Y después movió el pueblo de Haseroth, y asentaron el campo en el desierto de Parán. 
-^2^ Y Jehová habló á Moisés, diciendo:
-
-^3^ Envía tú hombres que reconozcan la tierra de Canaán, la cual yo doy á los hijos de Israel: de cada tribu de sus padres enviaréis un varón, cada uno príncipe entre ellos. 
-^4^ Y Moisés los envió desde el desierto de Parán, conforme á la palabra de Jehová: y todos aquellos varones eran príncipes de los hijos de Israel. 
-^5^ Los nombres de los cuales son éstos: De la tribu de Rubén, Sammua hijo de Zaccur. 
-^6^ De la tribu de Simeón, Saphat hijo de Hurí. 
-^7^ De la tribu de Judá, Caleb hijo de Jephone. 
-^8^ De la tribu de Issachâr, Igal hijo de Joseph. 
-^9^ De la tribu de Ephraim, Oseas hijo de Nun. 
-^10^ De la tribu de Benjamín, Palti hijo de Raphu. 
-^11^ De la tribu de Zabulón, Gaddiel hijo de Sodi. 
-^12^ De la tribu de José, de la tribu de Manasés, Gaddi hijo de Susi. 
-^13^ De la tribu de Dan, Ammiel hijo de Gemalli. 
-^14^ De la tribu de Aser, Sethur hijo de Michâel. 
-^15^ De la tribu de Nephtalí, Nahabí hijo de Vapsi. 
-^16^ De la tribu de Gad, Geuel hijo de Machî. 
-^17^ Estos son los nombres de los varones que Moisés envió á reconocer la tierra: y á Oseas hijo de Nun, le puso Moisés el nombre de Josué.
+^1^ Y Jehová habló á Moisés, diciendo:
+^2^ Envía tú hombres que reconozcan la tierra de Canaán, la cual yo doy á los hijos de Israel: de cada tribu de sus padres enviaréis un varón, cada uno príncipe entre ellos. 
+^3^ Y Moisés los envió desde el desierto de Parán, conforme á la palabra de Jehová: y todos aquellos varones eran príncipes de los hijos de Israel. 
+^4^ Los nombres de los cuales son éstos: De la tribu de Rubén, Sammua hijo de Zaccur. 
+^5^ De la tribu de Simeón, Saphat hijo de Hurí. 
+^6^ De la tribu de Judá, Caleb hijo de Jephone. 
+^7^ De la tribu de Issachâr, Igal hijo de Joseph. 
+^8^ De la tribu de Ephraim, Oseas hijo de Nun. 
+^9^ De la tribu de Benjamín, Palti hijo de Raphu. 
+^10^ De la tribu de Zabulón, Gaddiel hijo de Sodi. 
+^11^ De la tribu de José, de la tribu de Manasés, Gaddi hijo de Susi. 
+^12^ De la tribu de Dan, Ammiel hijo de Gemalli. 
+^13^ De la tribu de Aser, Sethur hijo de Michâel. 
+^14^ De la tribu de Nephtalí, Nahabí hijo de Vapsi. 
+^15^ De la tribu de Gad, Geuel hijo de Machî. 
+^16^ Estos son los nombres de los varones que Moisés envió á reconocer la tierra: y á Oseas hijo de Nun, le puso Moisés el nombre de Josué.
 
 ## La instrucción de Moisés a los espías
-^18^ Enviólos, pues, Moisés á reconocer la tierra de Canaán, diciéndoles: Subid por aquí, por el mediodía, y subid al monte: 
-^19^ Y observad la tierra qué tal es; y el pueblo que la habita, si es fuerte ó débil, si poco ó numeroso; 
-^20^ Qué tal la tierra habitada, si es buena ó mala; y qué tales son las ciudades habitadas, si de tiendas ó de fortalezas; 
-^21^ Y cuál sea el terreno, si es pingüe ó flaco, si en él hay ó no árboles: y esforzaos, y coged del fruto del país. Y el tiempo era el tiempo de las primeras uvas.
+^17^ Enviólos, pues, Moisés á reconocer la tierra de Canaán, diciéndoles: Subid por aquí, por el mediodía, y subid al monte: 
+^18^ Y observad la tierra qué tal es; y el pueblo que la habita, si es fuerte ó débil, si poco ó numeroso; 
+^19^ Qué tal la tierra habitada, si es buena ó mala; y qué tales son las ciudades habitadas, si de tiendas ó de fortalezas; 
+^20^ Y cuál sea el terreno, si es pingüe ó flaco, si en él hay ó no árboles: y esforzaos, y coged del fruto del país. Y el tiempo era el tiempo de las primeras uvas.
 
 ## Explorando la tierra
-^22^ Y ellos subieron, y reconocieron la tierra desde el desierto de Zin hasta Rehob, entrando en Emath. 
-^23^ Y subieron por el mediodía, y vinieron hasta Hebrón: y allí estaban Aimán, y Sesai, y Talmai, hijos de Anac. Hebrón fué edificada siete años antes de Zoán, la de Egipto. 
-^24^ Y llegaron hasta el arroyo de Escol, y de allí cortaron un sarmiento con un racimo de uvas, el cual trajeron dos en un palo, y de las granadas y de los higos. 
-^25^ Y llamóse aquel lugar Nahal-escol, por el racimo que cortaron de allí los hijos de Israel.
+^21^ Y ellos subieron, y reconocieron la tierra desde el desierto de Zin hasta Rehob, entrando en Emath. 
+^22^ Y subieron por el mediodía, y vinieron hasta Hebrón: y allí estaban Aimán, y Sesai, y Talmai, hijos de Anac. Hebrón fué edificada siete años antes de Zoán, la de Egipto. 
+^23^ Y llegaron hasta el arroyo de Escol, y de allí cortaron un sarmiento con un racimo de uvas, el cual trajeron dos en un palo, y de las granadas y de los higos. 
+^24^ Y llamóse aquel lugar Nahal-escol, por el racimo que cortaron de allí los hijos de Israel.
 
 ## Regreso e informe de los emisarios
-^26^ Y volvieron de reconocer la tierra al cabo de cuarenta días. 
-^27^ Y anduvieron y vinieron á Moisés y á Aarón, y á toda la congregación de los hijos de Israel, en el desierto de Parán, en Cades, y diéronles la respuesta, y á toda la congregación, y les mostraron el fruto de la tierra. 
-^28^ Y le contaron, y dijeron: Nosotros llegamos á la tierra á la cual nos enviaste, la que ciertamente fluye leche y miel; y este es el fruto de ella. 
-^29^ Mas el pueblo que habita aquella tierra es fuerte, y las ciudades muy grandes y fuertes; y también vimos allí los hijos de Anac.
+^25^ Y volvieron de reconocer la tierra al cabo de cuarenta días. 
+^26^ Y anduvieron y vinieron á Moisés y á Aarón, y á toda la congregación de los hijos de Israel, en el desierto de Parán, en Cades, y diéronles la respuesta, y á toda la congregación, y les mostraron el fruto de la tierra. 
+^27^ Y le contaron, y dijeron: Nosotros llegamos á la tierra á la cual nos enviaste, la que ciertamente fluye leche y miel; y este es el fruto de ella. 
+^28^ Mas el pueblo que habita aquella tierra es fuerte, y las ciudades muy grandes y fuertes; y también vimos allí los hijos de Anac.
 
-^30^ Amalec habita la tierra del mediodía; y el Hetheo, y el Jebuseo, y el Amorrheo, habitan en el monte; y el Cananeo habita junto á la mar, y á la ribera del Jordán.
+^29^ Amalec habita la tierra del mediodía; y el Hetheo, y el Jebuseo, y el Amorrheo, habitan en el monte; y el Cananeo habita junto á la mar, y á la ribera del Jordán.
 
 ## Las palabras tranquilizadoras de Caleb y las palabras desalentadoras de los otros exploradores
-^31^ Entonces Caleb hizo callar el pueblo delante de Moisés, y dijo: Subamos luego, y poseámosla; que más podremos que ella. 
-^32^ Mas los varones que subieron con él, dijeron: No podremos subir contra aquel pueblo; porque es más fuerte que nosotros. 
-^33^ Y vituperaron entre los hijos de Israel la tierra que habían reconocido, diciendo: La tierra por donde pasamos para reconocerla, es tierra que traga á sus moradores; y todo el pueblo que vimos en medio de ella, son hombres de grande estatura. También vimos allí gigantes, hijos de Anac, raza de los gigantes: y éramos nosotros, á nuestro parecer, como langostas; y así les parecíamos á ellos. 
+^30^ Entonces Caleb hizo callar el pueblo delante de Moisés, y dijo: Subamos luego, y poseámosla; que más podremos que ella. 
+^31^ Mas los varones que subieron con él, dijeron: No podremos subir contra aquel pueblo; porque es más fuerte que nosotros. 
+^32^ Y vituperaron entre los hijos de Israel la tierra que habían reconocido, diciendo: La tierra por donde pasamos para reconocerla, es tierra que traga á sus moradores; y todo el pueblo que vimos en medio de ella, son hombres de grande estatura.
+^33^ También vimos allí gigantes, hijos de Anac, raza de los gigantes: y éramos nosotros, á nuestro parecer, como langostas; y así les parecíamos á ellos. 
 
 # 14 
 ## El efecto del informe en la gente
@@ -1583,33 +1583,33 @@
 
 ## Sentencia final de las leyes de víctimas
 ^39^ Estas cosas ofreceréis á Jehová en vuestras solemnidades, además de vuestros votos, y de vuestras ofrendas libres, para vuestros holocaustos, y para vuestros presentes, y para vuestras libaciones, y para vuestras paces. 
+^40^ Y Moisés dijo á los hijos de Israel, conforme á todo lo que Jehová le había mandado.
 
 # 30 
-^1^ Y Moisés dijo á los hijos de Israel, conforme á todo lo que Jehová le había mandado.
-
 ## Reglamento sobre la vinculación o nulidad de los votos
-^2^ Y habló Moisés á los príncipes de las tribus de los hijos de Israel, diciendo: Esto es lo que Jehová ha mandado.
+^1^ Y habló Moisés á los príncipes de las tribus de los hijos de Israel, diciendo: Esto es lo que Jehová ha mandado.
 
-^3^ Cuando alguno hiciere voto á Jehová, ó hiciere juramento ligando su alma con obligación, no violará su palabra: hará conforme á todo lo que salió de su boca. 
-^4^ Mas la mujer, cuando hiciere voto á Jehová, y se ligare con obligación en casa de su padre, en su mocedad; 
-^5^ Si su padre oyere su voto, y la obligación con que ligó su alma, y su padre callare á ello, todos los votos de ella serán firmes, y toda obligación con que hubiere ligado su alma, firme será.
+^2^ Cuando alguno hiciere voto á Jehová, ó hiciere juramento ligando su alma con obligación, no violará su palabra: hará conforme á todo lo que salió de su boca. 
+^3^ Mas la mujer, cuando hiciere voto á Jehová, y se ligare con obligación en casa de su padre, en su mocedad; 
+^4^ Si su padre oyere su voto, y la obligación con que ligó su alma, y su padre callare á ello, todos los votos de ella serán firmes, y toda obligación con que hubiere ligado su alma, firme será.
 
-^6^ Mas si su padre le vedare el día que oyere todos sus votos y sus obligaciones, con que ella hubiere ligado su alma, no serán firmes; y Jehová la perdonará, por cuanto su padre le vedó. 
-^7^ Empero si fuere casada, é hiciere votos, ó pronunciare de sus labios cosa con que obligue su alma; 
-^8^ Si su marido lo oyere, y cuando lo oyere callare á ello, los votos de ella serán firmes, y la obligación con que ligó su alma, firme será.
+^5^ Mas si su padre le vedare el día que oyere todos sus votos y sus obligaciones, con que ella hubiere ligado su alma, no serán firmes; y Jehová la perdonará, por cuanto su padre le vedó. 
+^6^ Empero si fuere casada, é hiciere votos, ó pronunciare de sus labios cosa con que obligue su alma; 
+^7^ Si su marido lo oyere, y cuando lo oyere callare á ello, los votos de ella serán firmes, y la obligación con que ligó su alma, firme será.
 
-^9^ Pero si cuando su marido lo oyó, le vedó, entonces el voto que ella hizo, y lo que pronunció de sus labios con que ligó su alma, será nulo; y Jehová lo perdonará.
+^8^ Pero si cuando su marido lo oyó, le vedó, entonces el voto que ella hizo, y lo que pronunció de sus labios con que ligó su alma, será nulo; y Jehová lo perdonará.
 
-^10^ Mas todo voto de viuda, ó repudiada, con que ligare su alma, será firme. 
-^11^ Y si hubiere hecho voto en casa de su marido, y hubiere ligado su alma con obligación de juramento, 
-^12^ Si su marido oyó, y calló á ello, y no le vedó; entonces todos sus votos serán firmes, y toda obligación con que hubiere ligado su alma, firme será. 
-^13^ Mas si su marido los anuló el día que los oyó; todo lo que salió de sus labios cuanto á sus votos, y cuanto á la obligación de su alma, será nulo; su marido los anuló, y Jehová la perdonará.
+^9^ Mas todo voto de viuda, ó repudiada, con que ligare su alma, será firme. 
+^10^ Y si hubiere hecho voto en casa de su marido, y hubiere ligado su alma con obligación de juramento, 
+^11^ Si su marido oyó, y calló á ello, y no le vedó; entonces todos sus votos serán firmes, y toda obligación con que hubiere ligado su alma, firme será. 
+^12^ Mas si su marido los anuló el día que los oyó; todo lo que salió de sus labios cuanto á sus votos, y cuanto á la obligación de su alma, será nulo; su marido los anuló, y Jehová la perdonará.
 
 ## Promulgación renovada de los derechos del marido
-^14^ Todo voto, ó todo juramento obligándose á afligir el alma, su marido lo confirmará, ó su marido lo anulará. 
-^15^ Empero si su marido callare á ello de día en día, entonces confirmó todos sus votos, y todas las obligaciones que están sobre ella: confirmólas, por cuanto calló á ello el día que lo oyó.
+^13^ Todo voto, ó todo juramento obligándose á afligir el alma, su marido lo confirmará, ó su marido lo anulará. 
+^14^ Empero si su marido callare á ello de día en día, entonces confirmó todos sus votos, y todas las obligaciones que están sobre ella: confirmólas, por cuanto calló á ello el día que lo oyó.
 
-^16^ Mas si las anulare después de haberlas oído, entonces él llevará el pecado de ella. Estas son las ordenanzas que Jehová mandó á Moisés entre el varón y su mujer, entre el padre y su hija, durante su mocedad en casa de su padre. 
+^15^ Mas si las anulare después de haberlas oído, entonces él llevará el pecado de ella.
+^16^ Estas son las ordenanzas que Jehová mandó á Moisés entre el varón y su mujer, entre el padre y su hija, durante su mocedad en casa de su padre. 
 
 # 31 
 ## Guerra de venganza de los israelitas contra los madianitas

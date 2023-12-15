@@ -990,7 +990,8 @@
 ^37^ Pues habéis traído á estos hombres, sin ser sacrílegos ni blasfemadores de vuestra diosa. 
 ^38^ Que si Demetrio y los oficiales que están con él tienen negocio con alguno, audiencias se hacen, y procónsules hay; acúsense los unos á los otros. 
 ^39^ Y si demandáis alguna otra cosa, en legítima asamblea se pueda decidir. 
-^40^ Porque peligro hay de que seamos argüidos de sedición por hoy, no habiendo ninguna causa por la cual podamos dar razón de este concurso. Y habiendo dicho esto, despidió la concurrencia. 
+^40^ Porque peligro hay de que seamos argüidos de sedición por hoy, no habiendo ninguna causa por la cual podamos dar razón de este concurso.
+^41^ Y habiendo dicho esto, despidió la concurrencia. 
 
 # 20 
 ## Viaje a Grecia y regresa a Troas
