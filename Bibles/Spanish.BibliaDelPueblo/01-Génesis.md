@@ -13,7 +13,7 @@
 ^7^ E hizo Dios la expansión, y apartó las aguas que estaban debajo de la expansión, de las aguas que estaban sobre la expansión: y fué así. 
 ^8^ Y llamó Dios á la expansión Cielos: y fué la tarde y la mañana el día segundo.
 
-## La separacion de la tierra y el mar y la creación de las plantas
+## La separación de la tierra y el mar y la creación de las plantas
 ^9^ Y dijo Dios: Júntense las aguas que están debajo de los cielos en un lugar, y descúbrase la seca: y fué así. 
 ^10^ Y llamó Dios á la seca Tierra, y á la reunión de las aguas llamó Mares: y vió Dios que era bueno. 
 ^11^ Y dijo Dios: Produzca la tierra hierba verde, hierba que dé simiente; árbol de fruto que dé fruto según su género, que su simiente esté en él, sobre la tierra: y fué así. 
