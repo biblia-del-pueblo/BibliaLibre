@@ -7,7 +7,7 @@
    width="701.95276"
    height="701.95276"
    viewBox="0 0 701.95276 701.95276"
-   sodipodi:docname="BibliaDelPuebloLogoRound.png.svg"
+   sodipodi:docname="BibliaDelPuebloLogoRound.svg"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -81,7 +81,7 @@
      id="namedview3884"
      showgrid="false"
      inkscape:zoom="0.73214286"
-     inkscape:cx="206.92683"
+     inkscape:cx="208.29268"
      inkscape:cy="348.97561"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -91,7 +91,18 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     showguides="false" />
+  <rect
+     style="fill:#000000;fill-rule:evenodd;stroke:#ffffa0;fill-opacity:0"
+     id="rect982"
+     width="703.41461"
+     height="704.78046"
+     x="0"
+     y="-1.3658537"
+     inkscape:export-filename="C:\GitHub\BibliaLibre\Graphics\BibliaDelPuebloLogoSquare.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <image
      width="392"
      height="278"
