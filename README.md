@@ -7,7 +7,6 @@ Biblia Libre is a collection of OpenSource & Public Domain Bibles. The Bibles us
 - Verse numbers are noted with superscript Markdown notation, like this ^1^ In the beginning was the Word and the Word was with God and the Word was God. ^2^ This was in the beginning...
 - if the text contains the comment //!verse-paragraphs, each verse is rendered in a paragraph. For use in Psalms and Proverbs.
 - Chapter numbers are denoted with a # markdown title and Chapter headings with a ## markdown title
-- A special comment //!verse-paragraphs can be placed in the text, so that for this document, all verses are placed in a separate paragraph
 - A special comment //!replace /regularexpression/replacement/regularexpression/replacement/... can be placed in the text. All the regular expressions will be replaced. You can choose another delimiter char than /, the first character encountered will be used as delimiter.
 
 To edit the Markdown of the Bibles, you can use a normal editor like Typora, stackedit.io or VisualStudio Code.
