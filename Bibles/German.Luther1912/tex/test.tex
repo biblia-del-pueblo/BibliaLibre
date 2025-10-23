@@ -1,0 +1,87 @@
+\documentclass[14pt, b5paper, twoside]{extbook}
+\usepackage[german]{babel}
+\usepackage[twoside,bindingoffset=10mm,verbose,marginratio={4:3,5:3},%
+textwidth=143.3mm,height=218.6mm, nofoot, showframe]{geometry}
+
+\input{../../../tex/preamble.tex}
+
+\begin{document}
+
+\includepdf{HardCover.pdf}
+
+\null\vfill
+\input{../out/tex/00.0-Impressum.tex}
+\newpage
+
+\null\vfill
+\begin{center}
+\begin{minipage}[c]{\textwidth}
+  \begin{center}
+  \includegraphics{Titel.pdf}
+  \end{center}
+\end{minipage}
+\end{center}
+\newpage
+
+
+
+\titleformat{\section}[hang]{\bfseries\huge}{}{0ex}{}[]
+\input{../out/tex/00.1-Preface.tex}
+\titleformat{\section}[wrap]{\bfseries\huge}{}{0ex}{}[]
+
+\tableofcontents
+\newpage
+
+\null\vfill
+\begin{center}
+\begin{minipage}[c]{\textwidth}
+  \begin{center}
+  \includegraphics{AltesTestamentTitel.pdf}
+  \end{center}
+\end{minipage}
+\end{center}
+\null\vfill
+\newpage
+
+\pagestyle{bible}
+
+\renewcommand{\cleardoublepage}{}
+\renewcommand{\clearpage}{}
+
+\chapter{1. Mose}
+\begin{multicols}{2}
+  \input{../out/tex/01-1. Mose.tex}
+\end{multicols}
+
+\chapter{Psalmen}
+\begin{multicols}{2}
+  \input{../out/tex/19-Psalm.tex}
+\end{multicols}
+
+\chapter{Sprüche}
+\begin{multicols}{2}
+  \input{../out/tex/20-Sprüche.tex}
+\end{multicols}
+\newpage
+
+\pagestyle{empty}
+
+\null\vfill
+\begin{center}
+\begin{minipage}[c]{\textwidth}
+  \begin{center}
+  \includegraphics{NeuesTestamentTitel.pdf}
+  \end{center}
+\end{minipage}
+\end{center}
+\null\vfill
+\newpage
+
+\chapter{Offenbarung}
+\begin{multicols}{2}
+  \parskip=0pt \relax
+  \input{../out/tex/66-Offenbarung.tex}
+\end{multicols}
+\newpage
+
+\end{document}
