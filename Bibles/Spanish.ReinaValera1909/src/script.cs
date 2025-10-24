@@ -9,10 +9,10 @@ using System.Text.RegularExpressions;
 // Epub.TableOfContentsPage = "ch001.xhtml";
 
 Epub.OmitParagraphs = false;
-Epub.Page = book => {
-    book = book+3;
-    return $"ch{book:d3}.xhtml";
-};
+Epub.Page = book => $"ch{(book + 3):d3}.xhtml";
+Epub.OmitTitles = true;
+Epub.OmitFootnotes = true;
+
 Program.Language = "spanish";
 Program.Replace = "/SEÑOR/[Señor]{.smallcaps}";
 // replace uppercase words with smallcaps
