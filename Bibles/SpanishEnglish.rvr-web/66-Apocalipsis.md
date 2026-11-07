@@ -38,7 +38,7 @@
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 1
-## The title indicating the origin, purpose and meaning of this font
+## The title indicating the origin, purpose and meaning of this letter
 @1 This is the Revelation of Jesus Christ,^a^ which God gave him to show to his servants the things which must happen soon, which he sent and made known by his angel^b^ to his servant, John, 
 @2 who testified to God’s word and of the testimony of Jesus Christ, about everything that he saw. 
 ^a^[**1:1** “Christ” means “Anointed One”.] ^b^[**1:1** or, messenger (here and wherever angel is mentioned)]

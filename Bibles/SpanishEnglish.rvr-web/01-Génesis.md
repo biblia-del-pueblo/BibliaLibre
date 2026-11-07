@@ -2330,7 +2330,7 @@ Isaac said to him, “Because I said, ‘Lest I die because of her.’”
 
 @11 Abimelech commanded all the people, saying, “He who touches this man or his wife will surely be put to death.”
 
-## Isaac's growing wealth; Font disputes;
+## Isaac's growing wealth; Well disputes;
 @12 Isaac sowed in that land, and reaped in the same year one hundred times what he planted. Yahweh blessed him. 
 @13 The man grew great, and grew more and more until he became very great. 
 @14 He had possessions of flocks, possessions of herds, and a great household. The Philistines envied him. 

@@ -209,7 +209,7 @@
 ^-1^
 ### Isaac moves to Gerar when there is hunger
 ^11^
-### Isaac's growing wealth; Font disputes;
+### Isaac's growing wealth; Well disputes;
 ^25^
 ### The covenant between Isaac and Abimelech at Beersheba
 ^33^
@@ -9995,7 +9995,7 @@
 # apocalypse
 ## 1
 ^-1^
-### The title indicating the origin, purpose and meaning of this font
+### The title indicating the origin, purpose and meaning of this letter
 ^3^
 ### Blessings to the seven parishes of the Roman province of Asia
 ^6^
