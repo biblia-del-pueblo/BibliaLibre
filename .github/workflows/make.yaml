@@ -90,11 +90,32 @@ jobs:
     - name: Publish the Bibles for the BibleReader
       run: dotnet bibmark-bin/bibmark.dll -publish Bibles www
 
-    - name: Install MikTeX
-      uses: xu-cheng/texlive-action@v2
-      with:
-        install-miktex: true
-        miktex-packages: "collection-basic,collection-latexrecommended,collection-fontsrecommended,collection-langenglish,collection-langgerman,collection-langspanish"
+    # TeX Live from the Ubuntu packages, on the runner itself. (xu-cheng/texlive-action does not install anything on the
+    # runner: it runs the command of its "run" input inside a docker image, and it has no install-miktex input; that is why
+    # xelatex was not found.) Windows is not needed: make.sh, bibmark and pandoc all run on Linux.
+    - name: Install TeX Live
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y --no-install-recommends \
+          texlive-xetex texlive-latex-recommended texlive-latex-extra \
+          texlive-fonts-recommended texlive-fonts-extra texlive-lang-english texlive-lang-german texlive-lang-spanish \
+          texlive-lang-greek texlive-lang-other \
+          fontconfig
+
+    # The tex files use the fonts of the Fonts folder (BibleRoman ...), by name, so they have to be installed.
+    - name: Install the fonts
+      run: |
+        mkdir -p ~/.fonts
+        find Fonts -type f \( -iname '*.ttf' -o -iname '*.otf' \) -exec cp {} ~/.fonts/ \;
+        fc-cache -f
+        fc-list | grep -ci "BibleRoman"
+        fc-list | grep -ciE "Cardo|Frank Ruehl" || echo "Cardo or Frank Ruehl CLM was not found"
+
+    # make.sh calls bibmark. Having /usr/bin/bibmark also keeps bibmark from trying to install itself there.
+    - name: Install bibmark
+      run: |
+        printf '#!/bin/bash\nexec dotnet "%s/bibmark-bin/bibmark.dll" "$@"\n' "$GITHUB_WORKSPACE" | sudo tee /usr/bin/bibmark > /dev/null
+        sudo chmod +x /usr/bin/bibmark
 
     - name: Setup Pandoc
       uses: r-lib/actions/setup-pandoc@v2
@@ -118,7 +139,7 @@ jobs:
     # the site, and its own index.html (the www/index.html listing is not deployed), stay as they are.
     # The secret PAGES_DEPLOY_TOKEN is a personal access token (a fine grained one with "Contents: read and write" on the
     # repository biblia-del-pueblo.github.io) that has to be added to the secrets of this repository.
-    - name: Publish books to biblia-del-pueblo.github.io
+    - name: Publish www to biblia-del-pueblo.github.io
       if: github.event_name == 'push' && github.ref == 'refs/heads/publish'
       uses: peaceiris/actions-gh-pages@v4
       with:
