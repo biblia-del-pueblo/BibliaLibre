@@ -81,6 +81,7 @@ jobs:
 
     # bibmark is built from the BibleMarkdown submodule (PackAsTool makes it the executable bibmark.dll).
     - name: Build bibmark
+      shell: bash
       working-directory: BibleMarkdown/BibleMarkdown
       run: dotnet publish BibleMarkdown.csproj -c ${{ matrix.configuration }} -p:PackAsTool=true -o bibmark-bin
 
