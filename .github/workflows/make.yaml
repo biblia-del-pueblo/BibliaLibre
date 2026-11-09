@@ -41,9 +41,9 @@ run-name: ${{ github.event.head_commit.message }} by @${{ github.actor }}
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "publish" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "publish" ]
 
 jobs:
 
@@ -73,6 +73,16 @@ jobs:
       with:
         dotnet-version: 10.0.x
 
+    # bibmark is built from the BibleMarkdown submodule (PackAsTool makes it the executable bibmark.dll).
+    - name: Build bibmark
+      run: dotnet publish BibleMarkdown/BibleMarkdown/BibleMarkdown.csproj -c ${{ matrix.configuration }} -p:PackAsTool=true -o bibmark-bin
+
+    # Zips every Bible folder of Bibles into www/books and writes www/books/index.json, which lists the zips and the
+    # info.json of each: the Bibles that the BibleReader offers for download (BibliaLibre in its list of online Bibles).
+    # The pdf, md, epub, html, xml and zip files of the out folders go to www/out/<Bible>.
+    - name: Publish the Bibles for the BibleReader
+      run: dotnet bibmark-bin/bibmark.dll -publish Bibles www
+
     - name: Install MikTeX
       uses: xu-cheng/texlive-action@v2
       with:
@@ -80,7 +90,7 @@ jobs:
         miktex-packages: "collection-basic,collection-latexrecommended,collection-fontsrecommended,collection-langenglish,collection-langgerman,collection-langspanish"
 
     - name: Setup Pandoc
-    - uses: r-lib/actions/setup-pandoc@v2
+      uses: r-lib/actions/setup-pandoc@v2
       with:
         pandoc-version: '3.8.3'
 
@@ -95,6 +105,43 @@ jobs:
       with:
         fetch-depth: 0
         submodules: recursive
+
+    # Publishes the books and the out folder to the GitHub Pages site of the organization, biblia-del-pueblo.github.io
+    # (https://biblia-del-pueblo.github.io/books/index.json is what the BibleReader reads). Only push builds of main
+    # publish, not pull requests. Each folder is deployed on its own so that only its old content is replaced: the rest of
+    # the site, and its own index.html (the www/index.html listing is not deployed), stay as they are.
+    # The secret PAGES_DEPLOY_TOKEN is a personal access token (a fine grained one with "Contents: read and write" on the
+    # repository biblia-del-pueblo.github.io) that has to be added to the secrets of this repository.
+    - name: Publish books to biblia-del-pueblo.github.io
+      if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        personal_token: ${{ secrets.PAGES_DEPLOY_TOKEN }}
+        external_repository: biblia-del-pueblo/biblia-del-pueblo.github.io
+        publish_branch: main
+        publish_dir: ./www/books
+        destination_dir: books
+        commit_message: 'books: ${{ github.event.head_commit.message }}'
+
+    - name: Publish out to biblia-del-pueblo.github.io
+      if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        personal_token: ${{ secrets.PAGES_DEPLOY_TOKEN }}
+        external_repository: biblia-del-pueblo/biblia-del-pueblo.github.io
+        publish_branch: main
+        publish_dir: ./www/out
+        destination_dir: out
+        commit_message: 'out: ${{ github.event.head_commit.message }}'
+
+    - name: Upload the published Bibles
+      uses: actions/upload-artifact@v4
+      with:
+        name: www
+        path: |
+          www/books
+          www/out
+        retention-days: 1
 
     - name: Sanitize Artifact Name
       id: sanitize_name_step
@@ -127,7 +174,7 @@ jobs:
     - name: Run make.sh
       run: |
         chmod +x make.sh
-        .\make.sh
+        ./make.sh
 
     - name: Publish build artifacts
       uses: actions/upload-artifact@v4
