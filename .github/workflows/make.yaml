@@ -117,6 +117,7 @@ jobs:
         dotnet --info
         xelatex --version
         pandoc --version
+        bibmark --version
 
     - name: Run make.sh
       run: |
