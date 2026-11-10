@@ -82,7 +82,9 @@ jobs:
     # bibmark is built from the BibleMarkdown submodule (PackAsTool makes it the executable bibmark.dll).
     - name: Build bibmark
       shell: bash
-      run: dotnet publish BibleMarkdown/BibleMarkdown/BibleMarkdown.csproj -c ${{ matrix.configuration }} -p:PackAsTool=true -o bibmark-bin
+      run: |
+        dotnet pack BibleMarkdown/BibleMarkdown/BibleMarkdown.csproj -c ${{ matrix.configuration }} -p:PackAsTool=true
+        dotnet tool install -g BibleMarkdown --add-source BibleMarkdown/nupkg
 
     # TeX Live from the Ubuntu packages, on the runner itself. (xu-cheng/texlive-action does not install anything on the
     # runner: it runs the command of its "run" input inside a docker image, and it has no install-miktex input; that is why
@@ -104,12 +106,6 @@ jobs:
         fc-cache -f
         fc-list | grep -ci "BibleRoman"
         fc-list | grep -ciE "Cardo|Frank Ruehl" || echo "Cardo or Frank Ruehl CLM was not found"
-
-    # make.sh calls bibmark. Having /usr/bin/bibmark also keeps bibmark from trying to install itself there.
-    - name: Install bibmark
-      run: |
-        printf '#!/bin/bash\nexec dotnet "%s/bibmark-bin/bibmark.dll" "$@"\n' "$GITHUB_WORKSPACE" | sudo tee /usr/bin/bibmark > /dev/null
-        sudo chmod +x /usr/bin/bibmark
 
     - name: Setup Pandoc
       uses: r-lib/actions/setup-pandoc@v2
