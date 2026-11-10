@@ -65,6 +65,7 @@ jobs:
     env:
       Configuration: ${{ matrix.configuration }}
       GitHubAction: true
+      BibmarkVersion: 5.0.0
 
     steps:    
     - name: Checkout
@@ -83,7 +84,10 @@ jobs:
     - name: Build bibmark
       shell: bash
       run: |
-        dotnet pack BibleMarkdown/BibleMarkdown/BibleMarkdown.csproj -c ${{ matrix.configuration }} -p:PackAsTool=true
+        dotnet pack BibleMarkdown/BibleMarkdown/BibleMarkdown.csproj -c ${{ matrix.configuration }} \
+          -p:PackAsTool=true -p:Version=$BibmarkVersion \
+          -p:FileVersion=$BibmarkVersion.0 \
+          -p:AssemblyVersion=$BibmarkVersion
         dotnet tool install -g BibleMarkdown --add-source BibleMarkdown/nupkg
 
     # TeX Live from the Ubuntu packages, on the runner itself. (xu-cheng/texlive-action does not install anything on the
