@@ -133,19 +133,27 @@ jobs:
     - name: Publish the Bibles for the BibleReader
       run: dotnet bibmark-bin/bibmark.dll -publish Bibles www
 
-    # Publishes the books and the out folder to the GitHub Pages site of the organization, biblia-del-pueblo.github.io
-    # (https://biblia-del-pueblo.github.io/books/index.json is what the BibleReader reads). Only push builds of main
-    # publish, not pull requests. Each folder is deployed on its own so that only its old content is replaced: the rest of
-    # the site, and its own index.html (the www/index.html listing is not deployed), stay as they are.
-    # The secret PAGES_DEPLOY_TOKEN is a personal access token (a fine grained one with "Contents: read and write" on the
-    # repository biblia-del-pueblo.github.io) that has to be added to the secrets of this repository.
-    - name: Publish www to biblia-del-pueblo.github.io
+    # The www folder becomes the GitHub Pages site of this repository (https://<owner>.github.io/BibliaLibre/, so
+    # .../books/index.json is what the BibleReader reads). No token is needed: the deploy job below uses the
+    # permissions of the workflow. In the settings of the repository, Pages > Source has to be "GitHub Actions".
+    - name: Upload www as the Pages artifact
       if: github.event_name == 'push' && github.ref == 'refs/heads/publish'
-      uses: peaceiris/actions-gh-pages@v4
+      uses: actions/upload-pages-artifact@v3
       with:
-        personal_token: ${{ secrets.PAGES_DEPLOY_TOKEN }}
-        external_repository: biblia-del-pueblo/biblia-del-pueblo.github.io
-        publish_branch: publish
-        publish_dir: ./www
-        destination_dir: .
-        commit_message: 'www: ${{ github.event.head_commit.message }}'
+        path: ./www
+
+  # Only push builds of publish deploy, not pull requests.
+  deploy:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/publish'
+    needs: make
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write      # to deploy to Pages
+      id-token: write   # to verify that the deployment comes from this workflow
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
