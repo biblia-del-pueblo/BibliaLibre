@@ -2,10 +2,10 @@ using System;
 using System.Text;
 using System.Text.RegularExpressions;
 
-Program.Language = "english";
-//Program.Replace = "/LORD/[Lord]{.smallcaps}";
+Language = "english";
+//Replace = "/LORD/[Lord]{.smallcaps}";
 // replace uppercase words with smallcaps
-Program.Preprocess = txt => Regex.Replace(txt, @"(?<!(^|\n)#[^\n]*?)[A-Z][A-Z]+", m =>
+Create.Preprocess = txt => Regex.Replace(txt, @"(?<!(^|\n)#[^\n]*?)[A-Z][A-Z]+", m =>
 {
 
     if (Regex.IsMatch(m.Value, "^(?:[IVXCD]+|ISBN)$", RegexOptions.Singleline))
