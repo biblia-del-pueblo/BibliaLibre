@@ -75,17 +75,19 @@ jobs:
         submodules: recursive
 
     # Install the .NET Core workload
-    - name: Install .NET 10
+    - name: Install .NET 11
       uses: actions/setup-dotnet@v4
       with:
-        dotnet-version: 10.0.x
+        dotnet-version: 11.0.x
 
     # bibmark is built from the BibleMarkdown submodule (PackAsTool makes it the executable bibmark.dll).
     - name: Build bibmark
       shell: bash
       run: |
-        dotnet pack BibleMarkdown/BibleMarkdown/BibleMarkdown.csproj -c ${{ matrix.configuration }} \
-          -p:PackAsTool=true -p:Version=$BibmarkVersion \
+        dotnet pack BibleMarkdown/BibleMarkdown/BibleMarkdown.csproj \
+          -c ${{ matrix.configuration }} \
+          -p:PackAsTool=true \
+          -p:Version=$BibmarkVersion \
           -p:FileVersion=$BibmarkVersion.0 \
           -p:AssemblyVersion=$BibmarkVersion
         dotnet tool install -g BibleMarkdown --add-source BibleMarkdown/nupkg
@@ -114,7 +116,7 @@ jobs:
     - name: Setup Pandoc
       uses: r-lib/actions/setup-pandoc@v2
       with:
-        pandoc-version: '3.8.3'
+        pandoc-version: '3.13'
 
     - name: Verify Installations
       run: |
@@ -132,7 +134,7 @@ jobs:
     # info.json of each: the Bibles that the BibleReader offers for download (BibliaLibre in its list of online Bibles).
     # The pdf, md, epub, html, xml and zip files of the out folders go to www/out/<Bible>.
     - name: Publish the Bibles for the BibleReader
-      run: dotnet bibmark-bin/bibmark.dll -publish Bibles www
+      run: bibmark publish Bibles www
 
     # The www folder becomes the GitHub Pages site of this repository (https://<owner>.github.io/BibliaLibre/, so
     # .../books/index.json is what the BibleReader reads). No token is needed: the deploy job below uses the
