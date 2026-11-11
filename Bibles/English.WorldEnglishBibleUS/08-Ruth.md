@@ -1,10 +1,13 @@
 # 1 
+## Naomi's fate in the land of the Moabites
 ^1^ In the days when the judges judged, there was a famine in the land. A certain man of Bethlehem Judah went to live in the country of Moab with his wife and his two sons. 
 ^2^ The name of the man was Elimelech, and the name of his wife Naomi. The names of his two sons were Mahlon and Chilion, Ephrathites of Bethlehem Judah. They came into the country of Moab and lived there. 
 ^3^ Elimelech, Naomi’s husband, died; and she was left with her two sons. 
 ^4^ They took for themselves wives of the women of Moab. The name of the one was Orpah, and the name of the other was Ruth. They lived there about ten years. 
 ^5^ Mahlon and Chilion both died, and the woman was bereaved of her two children and of her husband. 
-^6^ Then she arose with her daughters-in-law, that she might return from the country of Moab; for she had heard in the country of Moab how Yahweh^a^ had visited his people in giving them bread. 
+^6^ Then she arose with her daughters-in-law, that she might return from the country of Moab; for she had heard in the country of Moab how Yahweh^a^ had visited his people in giving them bread.
+
+## Naomi and her two daughters-in-law leave to return to Bethlehem; Orpa's Farewell, Ruth's Loyalty
 ^7^ She went out of the place where she was, and her two daughters-in-law with her. They went on the way to return to the land of Judah. 
 ^8^ Naomi said to her two daughters-in-law, “Go, return each of you to her mother’s house. May Yahweh deal kindly with you, as you have dealt with the dead and with me. 
 ^9^ May Yahweh grant you that you may find rest, each of you in the house of her husband.” 
@@ -25,8 +28,9 @@ Then she kissed them, and they lifted up their voices, and wept.
 ^17^ Where you die, I will die, and there I will be buried. May Yahweh do so to me, and more also, if anything but death parts you and me.” 
 ^a^[**1:16** The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).]
 
-^18^ When Naomi saw that she was determined to go with her, she stopped urging her. 
+^18^ When Naomi saw that she was determined to go with her, she stopped urging her.
 
+## Arrival and reception of the two women in Bethlehem
 ^19^ So they both went until they came to Bethlehem. When they had come to Bethlehem, all the city was excited about them, and they asked, “Is this Naomi?” 
 
 ^20^ She said to them, “Don’t call me Naomi.^a^ Call me Mara,^b^ for the Almighty has dealt very bitterly with me. 
@@ -35,6 +39,7 @@ Then she kissed them, and they lifted up their voices, and wept.
 ^a^[**1:20** “Naomi” means “pleasant”.] ^b^[**1:20** “Mara” means “bitter”.] 
 
 # 2 
+## Ruth comes to pick ears of corn in Boaz's field, who asks for her and receives her kindly
 ^1^ Naomi had a relative of her husband’s, a mighty man of wealth, of the family of Elimelech, and his name was Boaz. 
 ^2^ Ruth the Moabitess said to Naomi, “Let me now go to the field, and glean among the ears of grain after him in whose sight I find favor.” 
 
@@ -58,8 +63,9 @@ They answered him, “May Yahweh bless you.”
 ^11^ Boaz answered her, “I have been told all about what you have done for your mother-in-law since the death of your husband, and how you have left your father, your mother, and the land of your birth, and have come to a people that you didn’t know before. 
 ^12^ May Yahweh repay your work, and a full reward be given to you from Yahweh, the God of Israel, under whose wings you have come to take refuge.” 
 
-^13^ Then she said, “Let me find favor in your sight, my lord, because you have comforted me, and because you have spoken kindly to your servant, though I am not as one of your servants.” 
+^13^ Then she said, “Let me find favor in your sight, my lord, because you have comforted me, and because you have spoken kindly to your servant, though I am not as one of your servants.”
 
+## Ruth continues to be treated kindly by Boaz, comes home with a rich harvest, and receives information about Boaz from her mother-in-law
 ^14^ At meal time Boaz said to her, “Come here, and eat some bread, and dip your morsel in the vinegar.” 
 
 She sat beside the reapers, and they passed her parched grain. She ate, was satisfied, and left some of it. 
@@ -81,6 +87,7 @@ She told her mother-in-law with whom she had worked, “The man’s name with wh
 ^23^ So she stayed close to the maidens of Boaz, to glean to the end of barley harvest and of wheat harvest; and she lived with her mother-in-law. 
 
 # 3 
+## Following Naomi's advice, Ruth goes to Boaz's threshing floor and lies down at his feet
 ^1^ Naomi her mother-in-law said to her, “My daughter, shall I not seek rest for you, that it may be well with you? 
 ^2^ Now isn’t Boaz our kinsman, with whose maidens you were? Behold, he will be winnowing barley tonight on the threshing floor. 
 ^3^ Therefore wash yourself, anoint yourself, get dressed, and go down to the threshing floor; but don’t make yourself known to the man until he has finished eating and drinking. 
@@ -88,7 +95,9 @@ She told her mother-in-law with whom she had worked, “The man’s name with wh
 
 ^5^ She said to her, “All that you say, I will do.” 
 ^6^ She went down to the threshing floor, and did everything that her mother-in-law told her. 
-^7^ When Boaz had eaten and drunk, and his heart was merry, he went to lie down at the end of the heap of grain. She came softly, uncovered his feet, and lay down. 
+^7^ When Boaz had eaten and drunk, and his heart was merry, he went to lie down at the end of the heap of grain. She came softly, uncovered his feet, and lay down.
+
+## Ruth speaks with Boaz, receives the requested confirmation and returns to Naomi with a gift
 ^8^ At midnight, the man was startled and turned himself; and behold, a woman lay at his feet. 
 ^9^ He said, “Who are you?” 
 
@@ -110,6 +119,7 @@ She told her all that the man had done for her.
 ^18^ Then she said, “Wait, my daughter, until you know what will happen; for the man will not rest until he has settled this today.” 
 
 # 4 
+## The public negotiation between Booz and the Solver
 ^1^ Now Boaz went up to the gate and sat down there. Behold, the near kinsman of whom Boaz spoke came by. Boaz said to him, “Come over here, friend, and sit down!” He came over, and sat down. 
 ^2^ Boaz took ten men of the elders of the city, and said, “Sit down here,” and they sat down. 
 ^3^ He said to the near kinsman, “Naomi, who has come back out of the country of Moab, is selling the parcel of land, which was our brother Elimelech’s. 
@@ -131,6 +141,7 @@ He said, “I will redeem it.”
 ^12^ Let your house be like the house of Perez, whom Tamar bore to Judah, of the offspring^a^ which Yahweh will give you by this young woman.” 
 ^a^[**4:12** or, seed]
 
+## Des Boaz's marriage to Ruth was completed and blessed with the birth of Obed; Gender index from Pérez to David
 ^13^ So Boaz took Ruth and she became his wife; and he went in to her, and Yahweh enabled her to conceive, and she bore a son. 
 ^14^ The women said to Naomi, “Blessed be Yahweh, who has not left you today without a near kinsman. Let his name be famous in Israel. 
 ^15^ He shall be to you a restorer of life and sustain you in your old age; for your daughter-in-law, who loves you, who is better to you than seven sons, has given birth to him.” 

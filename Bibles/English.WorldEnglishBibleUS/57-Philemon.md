@@ -1,14 +1,17 @@
 # 1 
+## Blessings
 ^1^ Paul, a prisoner of Christ^a^ Jesus, and Timothy our brother, to Philemon, our beloved fellow worker, 
 ^2^ to the beloved Apphia, to Archippus our fellow soldier, and to the assembly in your house: 
 ^3^ Grace to you and peace from God our Father and the Lord Jesus Christ. 
 ^a^[**1:1** “Christ” means “Anointed One”.]
 
+## Thank God and intercession for Filemon
 ^4^ I thank my God always, making mention of you in my prayers, 
 ^5^ hearing of your love and of the faith which you have toward the Lord Jesus and toward all the saints, 
 ^6^ that the fellowship of your faith may become effective in the knowledge of every good thing which is in us in Christ Jesus. 
-^7^ For we have much joy and comfort in your love, because the hearts of the saints have been refreshed through you, brother. 
+^7^ For we have much joy and comfort in your love, because the hearts of the saints have been refreshed through you, brother.
 
+## Defense of Onesimus
 ^8^ Therefore though I have all boldness in Christ to command you that which is appropriate, 
 ^9^ yet for love’s sake I rather appeal to you, being such a one as Paul, the aged, but also a prisoner of Jesus Christ. 
 ^10^ I appeal to you for my child Onesimus, whom I have become the father of in my chains,^a^ 
@@ -23,8 +26,9 @@
 ^17^ If then you count me a partner, receive him as you would receive me. 
 ^18^ But if he has wronged you at all or owes you anything, put that to my account. 
 ^19^ I, Paul, write this with my own hand: I will repay it (not to mention to you that you owe to me even your own self besides). 
-^20^ Yes, brother, let me have joy from you in the Lord. Refresh my heart in the Lord. 
+^20^ Yes, brother, let me have joy from you in the Lord. Refresh my heart in the Lord.
 
+## Closing letters, announcement of visit, greetings and blessings
 ^21^ Having confidence in your obedience, I write to you, knowing that you will do even beyond what I say. 
 
 ^22^ Also, prepare a guest room for me, for I hope that through your prayers I will be restored to you. 

@@ -1,14 +1,19 @@
 # 1 
+## Letter and blessing; Purpose and reason for writing
 ^1^ Jude,^a^ a servant of Jesus Christ,^b^ and brother of James, to those who are called, sanctified by God the Father, and kept for Jesus Christ: 
 ^2^ May mercy, peace, and love be multiplied to you. 
 ^a^[**1:1** or, Judah] ^b^[**1:1** “Christ” means “Anointed One”.]
 
+## The need to fight vicious false teachers
 ^3^ Beloved, while I was very eager to write to you about our common salvation, I was constrained to write to you exhorting you to contend earnestly for the faith which was once for all delivered to the saints. 
-^4^ For there are certain men who crept in secretly, even those who were long ago written about for this condemnation: ungodly men, turning the grace of our God into indecency, and denying our only Master, God, and Lord, Jesus Christ. 
+^4^ For there are certain men who crept in secretly, even those who were long ago written about for this condemnation: ungodly men, turning the grace of our God into indecency, and denying our only Master, God, and Lord, Jesus Christ.
 
+## Description of vicious seducers and threatening criminal court
 ^5^ Now I desire to remind you, though you already know this, that the Lord, having saved a people out of the land of Egypt, afterward destroyed those who didn’t believe. 
 ^6^ Angels who didn’t keep their first domain, but deserted their own dwelling place, he has kept in everlasting bonds under darkness for the judgment of the great day. 
-^7^ Even as Sodom and Gomorrah and the cities around them, having in the same way as these given themselves over to sexual immorality and gone after strange flesh, are shown as an example, suffering the punishment of eternal fire. 
+^7^ Even as Sodom and Gomorrah and the cities around them, having in the same way as these given themselves over to sexual immorality and gone after strange flesh, are shown as an example, suffering the punishment of eternal fire.
+
+## Description of the arrogance and depravity of these evildoers
 ^8^ Yet in the same way, these also in their dreaming defile the flesh, despise authority, and slander celestial beings. 
 ^9^ But Michael, the archangel, when contending with the devil and arguing about the body of Moses, dared not bring against him an abusive condemnation, but said, “May the Lord rebuke you!” 
 ^10^ But these speak evil of whatever things they don’t know. They are destroyed in these things that they understand naturally, like the creatures without reason. 
@@ -20,6 +25,7 @@
 ^16^ These are murmurers and complainers, walking after their lusts—and their mouth speaks proud things—showing respect of persons to gain advantage. 
 ^a^[**1:14** “Behold”, from “ἰδοὺ”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.]
 
+## Reference to the apostolic proclamation; Final warnings, especially regarding the treatment of the seduced; Praise God like the end of a letter
 ^17^ But you, beloved, remember the words which have been spoken before by the apostles of our Lord Jesus Christ. 
 ^18^ They said to you, “In the last time there will be mockers, walking after their own ungodly lusts.” 
 ^19^ These are those who cause divisions and are sensual, not having the Spirit. 

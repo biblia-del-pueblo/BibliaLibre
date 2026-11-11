@@ -1,4 +1,5 @@
 # 1 
+## First count of the men of war
 ^1^ Yahweh^a^ spoke to Moses in the wilderness of Sinai, in the Tent of Meeting, on the first day of the second month, in the second year after they had come out of the land of Egypt, saying, 
 ^2^ “Take a census of all the congregation of the children of Israel, by their families, by their fathers’ houses, according to the number of the names, every male, one by one, 
 ^3^ from twenty years old and upward, all who are able to go out to war in Israel. You and Aaron shall count them by their divisions. 
@@ -34,6 +35,7 @@ Of Reuben: Elizur the son of Shedeur.
 ^19^ As Yahweh commanded Moses, so he counted them in the wilderness of Sinai. 
 ^a^[**1:16** or, chiefs, or, leaders]
 
+## Census results
 ^20^ The children of Reuben, Israel’s firstborn, their generations, by their families, by their fathers’ houses, according to the number of the names, one by one, every male from twenty years old and upward, all who were able to go out to war: 
 ^21^ those who were counted of them, of the tribe of Reuben, were forty-six thousand five hundred. 
 
@@ -72,7 +74,9 @@ Of Reuben: Elizur the son of Shedeur.
 
 ^44^ These are those who were counted, whom Moses and Aaron counted, and the twelve men who were princes of Israel, each one for his fathers’ house. 
 ^45^ So all those who were counted of the children of Israel by their fathers’ houses, from twenty years old and upward, all who were able to go out to war in Israel— 
-^46^ all those who were counted were six hundred three thousand five hundred fifty. 
+^46^ all those who were counted were six hundred three thousand five hundred fifty.
+
+## The exceptional position of the Levites
 ^47^ But the Levites after the tribe of their fathers were not counted among them. 
 ^48^ For Yahweh spoke to Moses, saying, 
 ^49^ “Only the tribe of Levi you shall not count, neither shall you take a census of them among the children of Israel; 
@@ -84,6 +88,7 @@ Of Reuben: Elizur the son of Shedeur.
 ^54^ Thus the children of Israel did. According to all that Yahweh commanded Moses, so they did. 
 
 # 2 
+## The camping order of the tribes
 ^1^ Yahweh spoke to Moses and to Aaron, saying, 
 ^2^ “The children of Israel shall encamp every man by his own standard, with the banners of their fathers’ houses. They shall encamp around the Tent of Meeting at a distance from it. 
 
@@ -139,24 +144,28 @@ Of Reuben: Elizur the son of Shedeur.
 ^34^ Thus the children of Israel did. According to all that Yahweh commanded Moses, so they encamped by their standards, and so they set out, everyone by their families, according to their fathers’ houses. 
 
 # 3 
+## Sons of Aaron
 ^1^ Now this is the history of the generations of Aaron and Moses in the day that Yahweh spoke with Moses in Mount Sinai. 
 ^2^ These are the names of the sons of Aaron: Nadab the firstborn, and Abihu, Eleazar, and Ithamar. 
 
 ^3^ These are the names of the sons of Aaron, the priests who were anointed, whom he consecrated to minister in the priest’s office. 
-^4^ Nadab and Abihu died before Yahweh when they offered strange fire before Yahweh in the wilderness of Sinai, and they had no children. Eleazar and Ithamar ministered in the priest’s office in the presence of Aaron their father. 
+^4^ Nadab and Abihu died before Yahweh when they offered strange fire before Yahweh in the wilderness of Sinai, and they had no children. Eleazar and Ithamar ministered in the priest’s office in the presence of Aaron their father.
 
+## The Levites were appointed to assist the priests and serve in the sanctuary
 ^5^ Yahweh spoke to Moses, saying, 
 ^6^ “Bring the tribe of Levi near, and set them before Aaron the priest, that they may minister to him. 
 ^7^ They shall keep his requirements, and the requirements of the whole congregation before the Tent of Meeting, to do the service of the tabernacle. 
 ^8^ They shall keep all the furnishings of the Tent of Meeting, and the obligations of the children of Israel, to do the service of the tabernacle. 
 ^9^ You shall give the Levites to Aaron and to his sons. They are wholly given to him on the behalf of the children of Israel. 
-^10^ You shall appoint Aaron and his sons, and they shall keep their priesthood, but the stranger who comes near shall be put to death.” 
+^10^ You shall appoint Aaron and his sons, and they shall keep their priesthood, but the stranger who comes near shall be put to death.”
 
+## The Levites were appointed to redeem the firstborn Israelite
 ^11^ Yahweh spoke to Moses, saying, 
 ^12^ “Behold,^a^ I have taken the Levites from among the children of Israel instead of all the firstborn who open the womb among the children of Israel; and the Levites shall be mine, 
 ^13^ for all the firstborn are mine. On the day that I struck down all the firstborn in the land of Egypt I made holy to me all the firstborn in Israel, both man and animal. They shall be mine. I am Yahweh.” 
 ^a^[**3:12** “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.]
 
+## Count, place of storage, leader and regulations of the male Levites
 ^14^ Yahweh spoke to Moses in the wilderness of Sinai, saying, 
 ^15^ “Count the children of Levi by their fathers’ houses, by their families. You shall count every male from a month old and upward.” 
 
@@ -199,8 +208,9 @@ These are the families of the Levites according to their fathers’ houses.
 ^37^ the pillars of the court around it, their sockets, their pins, and their cords. 
 
 ^38^ Those who encamp before the tabernacle eastward, in front of the Tent of Meeting toward the sunrise, shall be Moses, with Aaron and his sons, keeping the requirements of the sanctuary for the duty of the children of Israel. The outsider who comes near shall be put to death. 
-^39^ All who were counted of the Levites, whom Moses and Aaron counted at the commandment of Yahweh, by their families, all the males from a month old and upward, were twenty-two thousand. 
+^39^ All who were counted of the Levites, whom Moses and Aaron counted at the commandment of Yahweh, by their families, all the males from a month old and upward, were twenty-two thousand.
 
+## Examination and resolution of the firstborn male in Israel
 ^40^ Yahweh said to Moses, “Count all the firstborn males of the children of Israel from a month old and upward, and take the number of their names. 
 ^41^ You shall take the Levites for me—I am Yahweh—instead of all the firstborn among the children of Israel; and the livestock of the Levites instead of all the firstborn among the livestock of the children of Israel.” 
 
@@ -220,6 +230,7 @@ These are the families of the Levites according to their fathers’ houses.
 ^a^[**3:50** A shekel is about 10 grams or about 0.35 ounces, so 1365 shekels is about 13.65 kilograms or about 30 pounds.] 
 
 # 4 
+## Examination of Levites fit for service, including standards of service
 ^1^ Yahweh spoke to Moses and to Aaron, saying, 
 ^2^ “Take a census of the sons of Kohath from among the sons of Levi, by their families, by their fathers’ houses, 
 ^3^ from thirty years old and upward even until fifty years old, all who enter into the service to do the work in the Tent of Meeting. 
@@ -264,8 +275,9 @@ These are the families of the Levites according to their fathers’ houses.
 ^30^ you shall count them from thirty years old and upward even to fifty years old—everyone who enters on the service, to do the work of the Tent of Meeting. 
 ^31^ This is the duty of their burden, according to all their service in the Tent of Meeting: the tabernacle’s boards, its bars, its pillars, its sockets, 
 ^32^ the pillars of the court around it, their sockets, their pins, their cords, with all their instruments, and with all their service. You shall appoint the instruments of the duty of their burden to them by name. 
-^33^ This is the service of the families of the sons of Merari, according to all their service in the Tent of Meeting, under the hand of Ithamar the son of Aaron the priest.” 
+^33^ This is the service of the families of the sons of Merari, according to all their service in the Tent of Meeting, under the hand of Ithamar the son of Aaron the priest.”
 
+## Inspection Results
 ^34^ Moses and Aaron and the princes of the congregation counted the sons of the Kohathites by their families, and by their fathers’ houses, 
 ^35^ from thirty years old and upward even to fifty years old, everyone who entered into the service for work in the Tent of Meeting. 
 ^36^ Those who were counted of them by their families were two thousand seven hundred fifty. 
@@ -287,19 +299,22 @@ These are the families of the Levites according to their fathers’ houses.
 ^49^ According to the commandment of Yahweh they were counted by Moses, everyone according to his service and according to his burden. Thus they were counted by him, as Yahweh commanded Moses. 
 
 # 5 
+## Removal of the unclean from the camp
 ^1^ Yahweh spoke to Moses, saying, 
 ^2^ “Command the children of Israel that they put out of the camp every leper, everyone who has a discharge, and whoever is unclean by a corpse. 
 ^3^ You shall put both male and female outside of the camp so that they don’t defile their camp, in the midst of which I dwell.” 
 
-^4^ The children of Israel did so, and put them outside of the camp; as Yahweh spoke to Moses, so the children of Israel did. 
+^4^ The children of Israel did so, and put them outside of the camp; as Yahweh spoke to Moses, so the children of Israel did.
 
+## Embezzlement and its atonement
 ^5^ Yahweh spoke to Moses, saying, 
 ^6^ “Speak to the children of Israel: ‘When a man or woman commits any sin that men commit, so as to trespass against Yahweh, and that soul is guilty, 
 ^7^ then he shall confess his sin which he has done; and he shall make restitution for his guilt in full, add to it the fifth part of it, and give it to him in respect of whom he has been guilty. 
 ^8^ But if the man has no kinsman to whom restitution may be made for the guilt, the restitution for guilt which is made to Yahweh shall be the priest’s, in addition to the ram of the atonement, by which atonement shall be made for him. 
 ^9^ Every heave offering of all the holy things of the children of Israel, which they present to the priest, shall be his. 
-^10^ Every man’s holy things shall be his; whatever any man gives the priest, it shall be his.’” 
+^10^ Every man’s holy things shall be his; whatever any man gives the priest, it shall be his.’”
 
+## Sacrifice of zeal and curse water of a woman suspected of adultery
 ^11^ Yahweh spoke to Moses, saying, 
 ^12^ “Speak to the children of Israel, and tell them: ‘If any man’s wife goes astray and is unfaithful to him, 
 ^13^ and a man lies with her carnally, and it is hidden from the eyes of her husband and this is kept concealed, and she is defiled, there is no witness against her, and she isn’t taken in the act; 
@@ -327,6 +342,7 @@ These are the families of the Levites according to their fathers’ houses.
 ^31^ The man shall be free from iniquity, and that woman shall bear her iniquity.’” 
 
 # 6 
+## Rules regarding Nazirites
 ^1^ Yahweh spoke to Moses, saying, 
 ^2^ “Speak to the children of Israel, and tell them: ‘When either man or woman shall make a special vow, the vow of a Nazirite, to separate himself to Yahweh, 
 ^3^ he shall separate himself from wine and strong drink. He shall drink no vinegar of wine, or vinegar of fermented drink, neither shall he drink any juice of grapes, nor eat fresh grapes or dried. 
@@ -339,11 +355,13 @@ These are the families of the Levites according to their fathers’ houses.
 ^8^ All the days of his separation he is holy to Yahweh. 
 ^a^[**6:7** The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).]
 
+## Regulations regarding Nazirite contamination
 ^9^ “‘If any man dies very suddenly beside him, and he defiles the head of his separation, then he shall shave his head in the day of his cleansing. On the seventh day he shall shave it. 
 ^10^ On the eighth day he shall bring two turtledoves or two young pigeons to the priest, to the door of the Tent of Meeting. 
 ^11^ The priest shall offer one for a sin offering, and the other for a burnt offering, and make atonement for him, because he sinned by reason of the dead, and shall make his head holy that same day. 
-^12^ He shall separate to Yahweh the days of his separation, and shall bring a male lamb a year old for a trespass offering; but the former days shall be void, because his separation was defiled. 
+^12^ He shall separate to Yahweh the days of his separation, and shall bring a male lamb a year old for a trespass offering; but the former days shall be void, because his separation was defiled.
 
+## Ordinances on the sacrificial ceremony at the end of the Nazirite
 ^13^ “‘This is the law of the Nazirite: when the days of his separation are fulfilled, he shall be brought to the door of the Tent of Meeting, 
 ^14^ and he shall offer his offering to Yahweh: one male lamb a year old without defect for a burnt offering, one ewe lamb a year old without defect for a sin offering, one ram without defect for peace offerings, 
 ^15^ a basket of unleavened bread, cakes of fine flour mixed with oil, and unleavened wafers anointed with oil with their meal offering and their drink offerings. 
@@ -353,8 +371,9 @@ These are the families of the Levites according to their fathers’ houses.
 ^19^ The priest shall take the boiled shoulder of the ram, one unleavened cake out of the basket, and one unleavened wafer, and shall put them on the hands of the Nazirite after he has shaved the head of his separation; 
 ^20^ and the priest shall wave them for a wave offering before Yahweh. They are holy for the priest, together with the breast that is waved and the thigh that is offered. After that the Nazirite may drink wine. 
 
-^21^ “‘This is the law of the Nazirite who vows and of his offering to Yahweh for his separation, in addition to that which he is able to afford. According to his vow which he vows, so he must do after the law of his separation.’” 
+^21^ “‘This is the law of the Nazirite who vows and of his offering to Yahweh for his separation, in addition to that which he is able to afford. According to his vow which he vows, so he must do after the law of his separation.’”
 
+## Order of Priestly Blessing
 ^22^ Yahweh spoke to Moses, saying, 
 ^23^ “Speak to Aaron and to his sons, saying, ‘This is how you shall bless the children of Israel.’ You shall tell them, 
 ^24^ ‘Yahweh bless you, and keep you. 
@@ -364,6 +383,7 @@ These are the families of the Levites according to their fathers’ houses.
 ^27^ “So they shall put my name on the children of Israel; and I will bless them.” 
 
 # 7 
+## The tribal chiefs' consecration gifts for the shrine
 ^1^ On the day that Moses had finished setting up the tabernacle, and had anointed it and sanctified it with all its furniture, and the altar with all its vessels, and had anointed and sanctified them; 
 ^2^ the princes of Israel, the heads of their fathers’ houses, gave offerings. These were the princes of the tribes. These are they who were over those who were counted; 
 ^3^ and they brought their offering before Yahweh, six covered wagons and twelve oxen; a wagon for every two of the princes, and for each one an ox. They presented them before the tabernacle. 
@@ -617,12 +637,14 @@ one male lamb a year old, for a burnt offering;
 ^89^ When Moses went into the Tent of Meeting to speak with Yahweh, he heard his voice speaking to him from above the mercy seat that was on the ark of the Testimony, from between the two cherubim; and he spoke to him. 
 
 # 8 
+## The seven lamps of the lampstand
 ^1^ Yahweh spoke to Moses, saying, 
 ^2^ “Speak to Aaron, and tell him, ‘When you light the lamps, the seven lamps shall give light in front of the lamp stand.’” 
 
 ^3^ Aaron did so. He lit its lamps to light the area in front of the lamp stand, as Yahweh commanded Moses. 
-^4^ This was the workmanship of the lamp stand, beaten work of gold. From its base to its flowers, it was beaten work. He made the lamp stand according to the pattern which Yahweh had shown Moses. 
+^4^ This was the workmanship of the lamp stand, beaten work of gold. From its base to its flowers, it was beaten work. He made the lamp stand according to the pattern which Yahweh had shown Moses.
 
+## The consecration of the Levites as a holy gift to God
 ^5^ Yahweh spoke to Moses, saying, 
 ^6^ “Take the Levites from among the children of Israel, and cleanse them. 
 ^7^ You shall do this to them to cleanse them: sprinkle the water of cleansing on them, let them shave their whole bodies with a razor, let them wash their clothes, and cleanse themselves. 
@@ -643,14 +665,16 @@ one male lamb a year old, for a burnt offering;
 
 ^20^ Moses, and Aaron, and all the congregation of the children of Israel did so to the Levites. According to all that Yahweh commanded Moses concerning the Levites, so the children of Israel did to them. 
 ^21^ The Levites purified themselves from sin, and they washed their clothes; and Aaron offered them for a wave offering before Yahweh and Aaron made atonement for them to cleanse them. 
-^22^ After that, the Levites went in to do their service in the Tent of Meeting before Aaron and before his sons: as Yahweh had commanded Moses concerning the Levites, so they did to them. 
+^22^ After that, the Levites went in to do their service in the Tent of Meeting before Aaron and before his sons: as Yahweh had commanded Moses concerning the Levites, so they did to them.
 
+## The time of duty of the Levites
 ^23^ Yahweh spoke to Moses, saying, 
 ^24^ “This is what is assigned to the Levites: from twenty-five years old and upward they shall go in to wait on the service in the work of the Tent of Meeting; 
 ^25^ and from the age of fifty years they shall retire from doing the work, and shall serve no more, 
 ^26^ but shall assist their brothers in the Tent of Meeting, to perform the duty, and shall perform no service. This is how you shall have the Levites do their duties.” 
 
 # 9 
+## The post-Passover celebration for the unclean and travellers; strangers easter
 ^1^ Yahweh spoke to Moses in the wilderness of Sinai, in the first month of the second year after they had come out of the land of Egypt, saying, 
 ^2^ “Let the children of Israel keep the Passover in its appointed season. 
 ^3^ On the fourteenth day of this month, at evening, you shall keep it in its appointed season. You shall keep it according to all its statutes and according to all its ordinances.” 
@@ -668,8 +692,9 @@ one male lamb a year old, for a burnt offering;
 ^12^ They shall leave none of it until the morning, nor break a bone of it. According to all the statute of the Passover they shall keep it. 
 ^13^ But the man who is clean, and is not on a journey, and fails to keep the Passover, that soul shall be cut off from his people. Because he didn’t offer the offering of Yahweh in its appointed season, that man shall bear his sin. 
 
-^14^ “‘If a foreigner lives among you and desires to keep the Passover to Yahweh, then he shall do so according to the statute of the Passover, and according to its ordinance. You shall have one statute, both for the foreigner and for him who is born in the land.’” 
+^14^ “‘If a foreigner lives among you and desires to keep the Passover to Yahweh, then he shall do so according to the statute of the Passover, and according to its ordinance. You shall have one statute, both for the foreigner and for him who is born in the land.’”
 
+## The appearance of the pillar of clouds and fire over the sanctuary
 ^15^ On the day that the tabernacle was raised up, the cloud covered the tabernacle, even the Tent of the Testimony. At evening it was over the tabernacle, as it were the appearance of fire, until morning. 
 ^16^ So it was continually. The cloud covered it, and the appearance of fire by night. 
 ^17^ Whenever the cloud was taken up from over the Tent, then after that the children of Israel traveled; and in the place where the cloud remained, there the children of Israel encamped. 
@@ -681,6 +706,7 @@ one male lamb a year old, for a burnt offering;
 ^23^ At the commandment of Yahweh they encamped, and at the commandment of Yahweh they traveled. They kept Yahweh’s command, at the commandment of Yahweh by Moses. 
 
 # 10 
+## Ordinance on two silver trumpets
 ^1^ Yahweh spoke to Moses, saying, 
 ^2^ “Make two trumpets of silver. You shall make them of beaten work. You shall use them for the calling of the congregation and for the journeying of the camps. 
 ^3^ When they blow them, all the congregation shall gather themselves to you at the door of the Tent of Meeting. 
@@ -692,10 +718,13 @@ one male lamb a year old, for a burnt offering;
 ^8^ “The sons of Aaron, the priests, shall blow the trumpets. This shall be to you for a statute forever throughout your generations. 
 ^9^ When you go to war in your land against the adversary who oppresses you, then you shall sound an alarm with the trumpets. Then you will be remembered before Yahweh your God, and you will be saved from your enemies. 
 
-^10^ “Also in the day of your gladness, and in your set feasts, and in the beginnings of your months, you shall blow the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; and they shall be to you for a memorial before your God. I am Yahweh your God.” 
+^10^ “Also in the day of your gladness, and in your set feasts, and in the beginnings of your months, you shall blow the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; and they shall be to you for a memorial before your God. I am Yahweh your God.”
 
+## Departure from Sinai to the Paran desert
 ^11^ In the second year, in the second month, on the twentieth day of the month, the cloud was taken up from over the tabernacle of the covenant. 
-^12^ The children of Israel went forward on their journeys out of the wilderness of Sinai; and the cloud stayed in the wilderness of Paran. 
+^12^ The children of Israel went forward on their journeys out of the wilderness of Sinai; and the cloud stayed in the wilderness of Paran.
+
+## Train Order Description
 ^13^ They first went forward according to the commandment of Yahweh by Moses. 
 
 ^14^ First, the standard of the camp of the children of Judah went forward according to their armies. Nahshon the son of Amminadab was over his army. 
@@ -715,26 +744,30 @@ one male lamb a year old, for a burnt offering;
 ^25^ The standard of the camp of the children of Dan, which was the rear guard of all the camps, set forward according to their armies. Ahiezer the son of Ammishaddai was over his army. 
 ^26^ Pagiel the son of Ochran was over the army of the tribe of the children of Asher. 
 ^27^ Ahira the son of Enan was over the army of the tribe of the children of Naphtali. 
-^28^ Thus were the travels of the children of Israel according to their armies; and they went forward. 
+^28^ Thus were the travels of the children of Israel according to their armies; and they went forward.
 
+## Moses tries to win over his brother-in-law Hobab as a guide for the journey forward
 ^29^ Moses said to Hobab, the son of Reuel the Midianite, Moses’ father-in-law, “We are journeying to the place of which Yahweh said, ‘I will give it to you.’ Come with us, and we will treat you well; for Yahweh has spoken good concerning Israel.” 
 
 ^30^ He said to him, “I will not go; but I will depart to my own land, and to my relatives.” 
 
 ^31^ Moses said, “Don’t leave us, please; because you know how we are to encamp in the wilderness, and you can be our eyes. 
-^32^ It shall be, if you go with us—yes, it shall be—that whatever good Yahweh does to us, we will do the same to you.” 
+^32^ It shall be, if you go with us—yes, it shall be—that whatever good Yahweh does to us, we will do the same to you.”
 
+## The departure from the mountain of God under the guidance of the ark
 ^33^ They set forward from the Mount of Yahweh three days’ journey. The ark of Yahweh’s covenant went before them three days’ journey, to seek out a resting place for them. 
 ^34^ The cloud of Yahweh was over them by day, when they set forward from the camp. 
 ^35^ When the ark went forward, Moses said, “Rise up, Yahweh, and let your enemies be scattered! Let those who hate you flee before you!” 
 ^36^ When it rested, he said, “Return, Yahweh, to the ten thousands of the thousands of Israel.” 
 
 # 11 
+## The murmur of people and the campfire in Thabera
 ^1^ The people were complaining in the ears of Yahweh. When Yahweh heard it, his anger burned; and Yahweh’s fire burned among them, and consumed some of the outskirts of the camp. 
 ^2^ The people cried to Moses; and Moses prayed to Yahweh, and the fire abated. 
 ^3^ The name of that place was called Taberah,^a^ because Yahweh’s fire burned among them. 
 ^a^[**11:3** Taberah means “burning” ]
 
+## People complain about the food
 ^4^ The mixed multitude that was among them lusted exceedingly; and the children of Israel also wept again, and said, “Who will give us meat to eat? 
 ^5^ We remember the fish, which we ate in Egypt for nothing; the cucumbers, and the melons, and the leeks, and the onions, and the garlic; 
 ^6^ but now we have lost our appetite. There is nothing at all except this manna to look at.” 
@@ -743,13 +776,15 @@ one male lamb a year old, for a burnt offering;
 ^9^ When the dew fell on the camp in the night, the manna fell on it. 
 ^a^[**11:7** Bdellium is a resin extracted from certain African trees.]
 
+## Moses' lament before God
 ^10^ Moses heard the people weeping throughout their families, every man at the door of his tent; and Yahweh’s anger burned greatly; and Moses was displeased. 
 ^11^ Moses said to Yahweh, “Why have you treated your servant so badly? Why haven’t I found favor in your sight, that you lay the burden of all this people on me? 
 ^12^ Have I conceived all this people? Have I brought them out, that you should tell me, ‘Carry them in your bosom, as a nurse carries a nursing infant, to the land which you swore to their fathers?’ 
 ^13^ Where could I get meat to give all these people? For they weep before me, saying, ‘Give us meat, that we may eat.’ 
 ^14^ I am not able to bear all this people alone, because it is too heavy for me. 
-^15^ If you treat me this way, please kill me right now, if I have found favor in your sight; and don’t let me see my wretchedness.” 
+^15^ If you treat me this way, please kill me right now, if I have found favor in your sight; and don’t let me see my wretchedness.”
 
+## Ordinance of God (appointment of seventy attendants of Moses) God's promise of donated meat; Moses' incredulous response
 ^16^ Yahweh said to Moses, “Gather to me seventy men of the elders of Israel, whom you know to be the elders of the people and officers over them; and bring them to the Tent of Meeting, that they may stand there with you. 
 ^17^ I will come down and talk with you there. I will take of the Spirit which is on you, and will put it on them; and they shall bear the burden of the people with you, that you don’t bear it yourself alone. 
 
@@ -760,8 +795,9 @@ one male lamb a year old, for a burnt offering;
 ^21^ Moses said, “The people, among whom I am, are six hundred thousand men on foot; and you have said, ‘I will give them meat, that they may eat a whole month.’ 
 ^22^ Shall flocks and herds be slaughtered for them, to be sufficient for them? Shall all the fish of the sea be gathered together for them, to be sufficient for them?” 
 
-^23^ Yahweh said to Moses, “Has Yahweh’s hand grown short? Now you will see whether my word will happen to you or not.” 
+^23^ Yahweh said to Moses, “Has Yahweh’s hand grown short? Now you will see whether my word will happen to you or not.”
 
+## The prophetic enthusiasm of the seventy elders
 ^24^ Moses went out, and told the people Yahweh’s words; and he gathered seventy men of the elders of the people, and set them around the Tent. 
 ^25^ Yahweh came down in the cloud, and spoke to him, and took of the Spirit that was on him, and put it on the seventy elders. When the Spirit rested on them, they prophesied, but they did so no more. 
 ^26^ But two men remained in the camp. The name of one was Eldad, and the name of the other Medad; and the Spirit rested on them. They were of those who were written, but had not gone out to the Tent; and they prophesied in the camp. 
@@ -771,7 +807,9 @@ one male lamb a year old, for a burnt offering;
 
 ^29^ Moses said to him, “Are you jealous for my sake? I wish that all Yahweh’s people were prophets, that Yahweh would put his Spirit on them!” 
 
-^30^ Moses went into the camp, he and the elders of Israel. 
+^30^ Moses went into the camp, he and the elders of Israel.
+
+## Quail feeding; God's Judgment; the tombs of pleasure
 ^31^ A wind from Yahweh went out and brought quails from the sea, and let them fall by the camp, about a day’s journey on this side, and a day’s journey on the other side, around the camp, and about two cubits^a^ above the surface of the earth. 
 ^32^ The people rose up all that day, and all of that night, and all the next day, and gathered the quails. He who gathered least gathered ten homers;^b^ and they spread them all out for themselves around the camp. 
 ^33^ While the meat was still between their teeth, before it was chewed, Yahweh’s anger burned against the people, and Yahweh struck the people with a very great plague. 
@@ -781,10 +819,13 @@ one male lamb a year old, for a burnt offering;
 ^35^ From Kibroth Hattaavah the people traveled to Hazeroth; and they stayed at Hazeroth. 
 
 # 12 
+## The rebellion of Miriam and Aaron against Moses
 ^1^ Miriam and Aaron spoke against Moses because of the Cushite woman whom he had married; for he had married a Cushite woman. 
 ^2^ They said, “Has Yahweh indeed spoken only with Moses? Hasn’t he spoken also with us?” And Yahweh heard it. 
 
-^3^ Now the man Moses was very humble, more than all the men who were on the surface of the earth. 
+^3^ Now the man Moses was very humble, more than all the men who were on the surface of the earth.
+
+## God is defending Moses; Miriam's punishment
 ^4^ Yahweh spoke suddenly to Moses, to Aaron, and to Miriam, “You three come out to the Tent of Meeting!” 
 
 The three of them came out. 
@@ -794,8 +835,9 @@ The three of them came out.
 ^8^ With him, I will speak mouth to mouth, even plainly, and not in riddles; and he shall see Yahweh’s form. Why then were you not afraid to speak against my servant, against Moses?” 
 ^9^ Yahweh’s anger burned against them; and he departed. 
 
-^10^ The cloud departed from over the Tent; and behold, Miriam was leprous, as white as snow. Aaron looked at Miriam, and behold, she was leprous. 
+^10^ The cloud departed from over the Tent; and behold, Miriam was leprous, as white as snow. Aaron looked at Miriam, and behold, she was leprous.
 
+## The intercession of Aaron and Moses; God's answer; Miriam's healing; Arrival in the Paran desert
 ^11^ Aaron said to Moses, “Oh, my lord, please don’t count this sin against us, in which we have done foolishly, and in which we have sinned. 
 ^12^ Let her not, I pray, be as one dead, of whom the flesh is half consumed when he comes out of his mother’s womb.” 
 
@@ -807,6 +849,7 @@ The three of them came out.
 ^16^ Afterward the people traveled from Hazeroth, and encamped in the wilderness of Paran. 
 
 # 13 
+## Dispatch of the Twelve Scouts
 ^1^ Yahweh spoke to Moses, saying, 
 ^2^ “Send men, that they may spy out the land of Canaan, which I give to the children of Israel. Of every tribe of their fathers, you shall send a man, every one a prince among them.” 
 
@@ -824,41 +867,51 @@ The three of them came out.
 ^14^ Of the tribe of Naphtali, Nahbi the son of Vophsi. 
 ^15^ Of the tribe of Gad, Geuel the son of Machi. 
 ^16^ These are the names of the men who Moses sent to spy out the land. Moses called Hoshea the son of Nun Joshua. 
-^17^ Moses sent them to spy out the land of Canaan, and said to them, “Go up this way by the South, and go up into the hill country. 
+^17^ Moses sent them to spy out the land of Canaan, and said to them, “Go up this way by the South, and go up into the hill country.
+
+## Moses' instruction to the spies
 ^18^ See the land, what it is; and the people who dwell therein, whether they are strong or weak, whether they are few or many; 
 ^19^ and what the land is that they dwell in, whether it is good or bad; and what cities they are that they dwell in, whether in camps, or in strongholds; 
 ^20^ and what the land is, whether it is fertile or poor, whether there is wood therein, or not. Be courageous, and bring some of the fruit of the land.” Now the time was the time of the first-ripe grapes. 
 
-^21^ So they went up, and spied out the land from the wilderness of Zin to Rehob, to the entrance of Hamath. 
+^21^ So they went up, and spied out the land from the wilderness of Zin to Rehob, to the entrance of Hamath.
+
+## Exploring the Earth
 ^22^ They went up by the South, and came to Hebron; and Ahiman, Sheshai, and Talmai, the children of Anak, were there. (Now Hebron was built seven years before Zoan in Egypt.) 
 ^23^ They came to the valley of Eshcol, and cut down from there a branch with one cluster of grapes, and they bore it on a staff between two. They also brought some of the pomegranates and figs. 
 ^24^ That place was called the valley of Eshcol, because of the cluster which the children of Israel cut down from there. 
-^25^ They returned from spying out the land at the end of forty days. 
+^25^ They returned from spying out the land at the end of forty days.
+
+## Return and report of the emissaries
 ^26^ They went and came to Moses, to Aaron, and to all the congregation of the children of Israel, to the wilderness of Paran, to Kadesh; and brought back word to them and to all the congregation. They showed them the fruit of the land. 
 ^27^ They told him, and said, “We came to the land where you sent us. Surely it flows with milk and honey, and this is its fruit. 
 ^28^ However, the people who dwell in the land are strong, and the cities are fortified and very large. Moreover, we saw the children of Anak there. 
 ^29^ Amalek dwells in the land of the South. The Hittite, the Jebusite, and the Amorite dwell in the hill country. The Canaanite dwells by the sea, and along the side of the Jordan.” 
 
-^30^ Caleb stilled the people before Moses, and said, “Let’s go up at once, and possess it; for we are well able to overcome it!” 
+^30^ Caleb stilled the people before Moses, and said, “Let’s go up at once, and possess it; for we are well able to overcome it!”
 
+## Caleb's reassuring words and the discouraging words of the other explorers
 ^31^ But the men who went up with him said, “We aren’t able to go up against the people; for they are stronger than we.” 
 ^32^ They brought up an evil report of the land which they had spied out to the children of Israel, saying, “The land, through which we have gone to spy it out, is a land that eats up its inhabitants; and all the people who we saw in it are men of great stature. 
 ^33^ There we saw the Nephilim,^a^ the sons of Anak, who come from the Nephilim.^b^ We were in our own sight as grasshoppers, and so we were in their sight.”
 ^a^[**13:33** or, giants] ^b^[**13:33** or, giants] 
 
 # 14 
+## The effect of the report on people
 ^1^ All the congregation lifted up their voice, and cried; and the people wept that night. 
 ^2^ All the children of Israel murmured against Moses and against Aaron. The whole congregation said to them, “We wish that we had died in the land of Egypt, or that we had died in this wilderness! 
 ^3^ Why does Yahweh bring us to this land, to fall by the sword? Our wives and our little ones will be captured or killed! Wouldn’t it be better for us to return into Egypt?” 
 ^4^ They said to one another, “Let’s choose a leader, and let’s return into Egypt.” 
 
-^5^ Then Moses and Aaron fell on their faces before all the assembly of the congregation of the children of Israel. 
+^5^ Then Moses and Aaron fell on their faces before all the assembly of the congregation of the children of Israel.
 
+## Joshua and Caleb's failed appeasement attempt
 ^6^ Joshua the son of Nun and Caleb the son of Jephunneh, who were of those who spied out the land, tore their clothes. 
 ^7^ They spoke to all the congregation of the children of Israel, saying, “The land, which we passed through to spy it out, is an exceedingly good land. 
 ^8^ If Yahweh delights in us, then he will bring us into this land, and give it to us: a land which flows with milk and honey. 
-^9^ Only don’t rebel against Yahweh, neither fear the people of the land; for they are bread for us. Their defense is removed from over them, and Yahweh is with us. Don’t fear them.” 
+^9^ Only don’t rebel against Yahweh, neither fear the people of the land; for they are bread for us. Their defense is removed from over them, and Yahweh is with us. Don’t fear them.”
 
+## God's wrath; the successful intercession of Moses; divine judgment
 ^10^ But all the congregation threatened to stone them with stones. 
 
 Yahweh’s glory appeared in the Tent of Meeting to all the children of Israel. 
@@ -879,7 +932,9 @@ Yahweh’s glory appeared in the Tent of Meeting to all the children of Israel.
 ^22^ because all those men who have seen my glory and my signs, which I worked in Egypt and in the wilderness, yet have tempted me these ten times, and have not listened to my voice; 
 ^23^ surely they shall not see the land which I swore to their fathers, neither shall any of those who despised me see it. 
 ^24^ But my servant Caleb, because he had another spirit with him, and has followed me fully, him I will bring into the land into which he went. His offspring shall possess it. 
-^25^ Since the Amalekite and the Canaanite dwell in the valley, tomorrow turn and go into the wilderness by the way to the Red Sea.” 
+^25^ Since the Amalekite and the Canaanite dwell in the valley, tomorrow turn and go into the wilderness by the way to the Red Sea.”
+
+## God's punishment for people and spies is specified in more detail
 ^26^ Yahweh spoke to Moses and to Aaron, saying, 
 ^27^ “How long shall I bear with this evil congregation that complain against me? I have heard the complaints of the children of Israel, which they complain against me. 
 ^28^ Tell them, ‘As I live, says Yahweh, surely as you have spoken in my ears, so I will do to you. 
@@ -889,12 +944,14 @@ Yahweh’s glory appeared in the Tent of Meeting to all the children of Israel.
 ^32^ But as for you, your dead bodies shall fall in this wilderness. 
 ^33^ Your children shall be wanderers in the wilderness forty years, and shall bear your prostitution, until your dead bodies are consumed in the wilderness. 
 ^34^ After the number of the days in which you spied out the land, even forty days, for every day a year, you will bear your iniquities, even forty years, and you will know my alienation.’ 
-^35^ I, Yahweh, have spoken. I will surely do this to all this evil congregation who are gathered together against me. In this wilderness they shall be consumed, and there they shall die.” 
+^35^ I, Yahweh, have spoken. I will surely do this to all this evil congregation who are gathered together against me. In this wilderness they shall be consumed, and there they shall die.”
 
+## Sudden death of the spies except Joshua and Caleb
 ^36^ The men whom Moses sent to spy out the land, who returned and made all the congregation to murmur against him by bringing up an evil report against the land, 
 ^37^ even those men who brought up an evil report of the land, died by the plague before Yahweh. 
-^38^ But Joshua the son of Nun and Caleb the son of Jephunneh remained alive of those men who went to spy out the land. 
+^38^ But Joshua the son of Nun and Caleb the son of Jephunneh remained alive of those men who went to spy out the land.
 
+## Repentance of the people; the unsuccessful attempt to penetrate the enemy country
 ^39^ Moses told these words to all the children of Israel, and the people mourned greatly. 
 ^40^ They rose up early in the morning and went up to the top of the mountain, saying, “Behold, we are here, and will go up to the place which Yahweh has promised; for we have sinned.” 
 
@@ -906,6 +963,7 @@ Yahweh’s glory appeared in the Tent of Meeting to all the children of Israel.
 ^45^ Then the Amalekites came down, and the Canaanites who lived in that mountain, and struck them and beat them down even to Hormah. 
 
 # 15 
+## Regulations Regarding Food and Drink Offerings in Addition to Burnt Offerings and Salvation Offerings
 ^1^ Yahweh spoke to Moses, saying, 
 ^2^ “Speak to the children of Israel, and tell them, ‘When you have come into the land of your habitations, which I give to you, 
 ^3^ and will make an offering by fire to Yahweh—a burnt offering, or a sacrifice, to accomplish a vow, or as a free will offering, or in your set feasts, to make a pleasant aroma to Yahweh, of the herd, or of the flock— 
@@ -925,14 +983,16 @@ Yahweh’s glory appeared in the Tent of Meeting to all the children of Israel.
 ^13^ “‘All who are native-born shall do these things in this way, in offering an offering made by fire, of a pleasant aroma to Yahweh. 
 ^14^ If a stranger lives as a foreigner with you, or whoever may be among you throughout your generations, and will offer an offering made by fire, of a pleasant aroma to Yahweh, as you do, so he shall do. 
 ^15^ For the assembly, there shall be one statute for you and for the stranger who lives as a foreigner, a statute forever throughout your generations. As you are, so the foreigner shall be before Yahweh. 
-^16^ One law and one ordinance shall be for you and for the stranger who lives as a foreigner with you.’” 
+^16^ One law and one ordinance shall be for you and for the stranger who lives as a foreigner with you.’”
 
+## Arrangement on the first cakes
 ^17^ Yahweh spoke to Moses, saying, 
 ^18^ “Speak to the children of Israel, and tell them, ‘When you come into the land where I bring you, 
 ^19^ then it shall be that when you eat of the bread of the land, you shall offer up a wave offering to Yahweh. 
 ^20^ Of the first of your dough you shall offer up a cake for a wave offering. As the wave offering of the threshing floor, so you shall heave it. 
-^21^ Of the first of your dough, you shall give to Yahweh a wave offering throughout your generations. 
+^21^ Of the first of your dough, you shall give to Yahweh a wave offering throughout your generations.
 
+## Rules regarding sin offerings for unintentionally doing wrong; Impunity for intentional violations
 ^22^ “‘When you err, and don’t observe all these commandments which Yahweh has spoken to Moses— 
 ^23^ even all that Yahweh has commanded you by Moses, from the day that Yahweh gave commandment and onward throughout your generations— 
 ^24^ then it shall be, if it was done unwittingly, without the knowledge of the congregation, that all the congregation shall offer one young bull for a burnt offering, for a pleasant aroma to Yahweh, with its meal offering and its drink offering, according to the ordinance, and one male goat for a sin offering. 
@@ -944,15 +1004,17 @@ Yahweh’s glory appeared in the Tent of Meeting to all the children of Israel.
 ^29^ You shall have one law for him who does anything unwittingly, for him who is native-born among the children of Israel, and for the stranger who lives as a foreigner among them. 
 
 ^30^ “‘But the soul who does anything with a high hand, whether he is native-born or a foreigner, blasphemes Yahweh. That soul shall be cut off from among his people. 
-^31^ Because he has despised Yahweh’s word, and has broken his commandment, that soul shall be utterly cut off. His iniquity shall be on him.’” 
+^31^ Because he has despised Yahweh’s word, and has broken his commandment, that soul shall be utterly cut off. His iniquity shall be on him.’”
 
+## Saturday abuser stoning report
 ^32^ While the children of Israel were in the wilderness, they found a man gathering sticks on the Sabbath day. 
 ^33^ Those who found him gathering sticks brought him to Moses and Aaron, and to all the congregation. 
 ^34^ They put him in custody, because it had not been declared what should be done to him. 
 
 ^35^ Yahweh said to Moses, “The man shall surely be put to death. All the congregation shall stone him with stones outside of the camp.” 
-^36^ All the congregation brought him outside of the camp, and stoned him to death with stones, as Yahweh commanded Moses. 
+^36^ All the congregation brought him outside of the camp, and stoned him to death with stones, as Yahweh commanded Moses.
 
+## Ordinance on tassels to be attached to the ends of clothing
 ^37^ Yahweh spoke to Moses, saying, 
 ^38^ “Speak to the children of Israel, and tell them that they should make themselves fringes^a^ on the borders of their garments throughout their generations, and that they put on the fringe^b^ of each border a cord of blue. 
 ^39^ It shall be to you for a fringe,^c^ that you may see it, and remember all Yahweh’s commandments, and do them; and that you don’t follow your own heart and your own eyes, after which you used to play the prostitute; 
@@ -961,10 +1023,12 @@ Yahweh’s glory appeared in the Tent of Meeting to all the children of Israel.
 ^a^[**15:38** or, tassels (Hebrew צִיצִ֛ת)] ^b^[**15:38** or, tassel] ^c^[**15:39** or, tassel] 
 
 # 16 
+## The outrage of Korah and the Reubenites
 ^1^ Now Korah, the son of Izhar, the son of Kohath, the son of Levi, with Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took some men. 
 ^2^ They rose up before Moses, with some of the children of Israel, two hundred fifty princes of the congregation, called to the assembly, men of renown. 
-^3^ They assembled themselves together against Moses and against Aaron, and said to them, “You take too much on yourself, since all the congregation are holy, everyone of them, and Yahweh is among them! Why do you lift yourselves up above Yahweh’s assembly?” 
+^3^ They assembled themselves together against Moses and against Aaron, and said to them, “You take too much on yourself, since all the congregation are holy, everyone of them, and Yahweh is among them! Why do you lift yourselves up above Yahweh’s assembly?”
 
+## Moses confronts Korah's group and announces a divine judgment in the sanctuary
 ^4^ When Moses heard it, he fell on his face. 
 ^5^ He said to Korah and to all his company, “In the morning, Yahweh will show who are his, and who is holy, and will cause him to come near to him. Even him whom he shall choose, he will cause to come near to him. 
 ^6^ Do this: have Korah and all his company take censers, 
@@ -973,14 +1037,16 @@ Yahweh’s glory appeared in the Tent of Meeting to all the children of Israel.
 ^8^ Moses said to Korah, “Hear now, you sons of Levi! 
 ^9^ Is it a small thing to you that the God of Israel has separated you from the congregation of Israel, to bring you near to himself, to do the service of Yahweh’s tabernacle, and to stand before the congregation to minister to them; 
 ^10^ and that he has brought you near, and all your brothers the sons of Levi with you? Do you seek the priesthood also? 
-^11^ Therefore you and all your company have gathered together against Yahweh! What is Aaron that you complain against him?” 
+^11^ Therefore you and all your company have gathered together against Yahweh! What is Aaron that you complain against him?”
 
+## Dathan and Abiram scoff at Moses' invitation; Moses prayer to God
 ^12^ Moses sent to call Dathan and Abiram, the sons of Eliab; and they said, “We won’t come up! 
 ^13^ Is it a small thing that you have brought us up out of a land flowing with milk and honey, to kill us in the wilderness, but you must also make yourself a prince over us? 
 ^14^ Moreover you haven’t brought us into a land flowing with milk and honey, nor given us inheritance of fields and vineyards. Will you put out the eyes of these men? We won’t come up.” 
 
-^15^ Moses was very angry, and said to Yahweh, “Don’t respect their offering. I have not taken one donkey from them, neither have I hurt one of them.” 
+^15^ Moses was very angry, and said to Yahweh, “Don’t respect their offering. I have not taken one donkey from them, neither have I hurt one of them.”
 
+## Moses summons Korah and his companions to perform the sacrifice; The appearance of the glory of God; Intercession of Moses
 ^16^ Moses said to Korah, “You and all your company go before Yahweh, you, and they, and Aaron, tomorrow. 
 ^17^ Each man take his censer and put incense on it, and each man bring before Yahweh his censer, two hundred fifty censers; you also, and Aaron, each with his censer.” 
 
@@ -994,8 +1060,9 @@ Yahweh’s glory appeared to all the congregation.
 ^22^ They fell on their faces, and said, “God, the God of the spirits of all flesh, shall one man sin, and will you be angry with all the congregation?” 
 
 ^23^ Yahweh spoke to Moses, saying, 
-^24^ “Speak to the congregation, saying, ‘Get away from around the tent of Korah, Dathan, and Abiram!’” 
+^24^ “Speak to the congregation, saying, ‘Get away from around the tent of Korah, Dathan, and Abiram!’”
 
+## Moses with Dathan and Abiram; divine judgment on them and on Korah's 250 companions
 ^25^ Moses rose up and went to Dathan and Abiram; and the elders of Israel followed him. 
 ^26^ He spoke to the congregation, saying, “Depart, please, from the tents of these wicked men, and touch nothing of theirs, lest you be consumed in all their sins!” 
 
@@ -1013,13 +1080,15 @@ Yahweh’s glory appeared to all the congregation.
 ^35^ Fire came out from Yahweh, and devoured the two hundred fifty men who offered the incense. 
 ^a^[**16:33** Sheol is the place of the dead.]
 
+## The use of the 250 steaming pots by Korah and his companions as a cover for the sacrificial altar
 ^36^ Yahweh spoke to Moses, saying, 
 ^37^ “Speak to Eleazar the son of Aaron the priest, that he take up the censers out of the burning, and scatter the fire away from the camp; for they are holy, 
 ^38^ even the censers of those who sinned against their own lives. Let them be beaten into plates for a covering of the altar, for they offered them before Yahweh. Therefore they are holy. They shall be a sign to the children of Israel.” 
 
 ^39^ Eleazar the priest took the bronze censers which those who were burned had offered; and they beat them out for a covering of the altar, 
-^40^ to be a memorial to the children of Israel, to the end that no stranger who isn’t of the offspring of Aaron, would come near to burn incense before Yahweh, that he not be as Korah and as his company; as Yahweh spoke to him by Moses. 
+^40^ to be a memorial to the children of Israel, to the end that no stranger who isn’t of the offspring of Aaron, would come near to burn incense before Yahweh, that he not be as Korah and as his company; as Yahweh spoke to him by Moses.
 
+## Punishment of the community complaining about the disappearance of the rioters; the atonement made by Moses and Aaron
 ^41^ But on the next day all the congregation of the children of Israel complained against Moses and against Aaron, saying, “You have killed Yahweh’s people!” 
 
 ^42^ When the congregation was assembled against Moses and against Aaron, they looked toward the Tent of Meeting. Behold, the cloud covered it, and Yahweh’s glory appeared. 
@@ -1035,6 +1104,7 @@ Yahweh’s glory appeared to all the congregation.
 ^50^ Aaron returned to Moses to the door of the Tent of Meeting, and the plague was stopped. 
 
 # 17 
+## Proof of Aaron's priestly right by the wonderful rungs of his staff
 ^1^ Yahweh spoke to Moses, saying, 
 ^2^ “Speak to the children of Israel, and take rods from them, one for each fathers’ house, of all their princes according to their fathers’ houses, twelve rods. Write each man’s name on his rod. 
 ^3^ You shall write Aaron’s name on Levi’s rod. There shall be one rod for each head of their fathers’ houses. 
@@ -1054,6 +1124,7 @@ Yahweh’s glory appeared to all the congregation.
 ^13^ Everyone who keeps approaching Yahweh’s tabernacle, dies! Will we all perish?” 
 
 # 18 
+## General ordinances on the duties of the priests and their assistants, the Levites
 ^1^ Yahweh said to Aaron, “You and your sons and your fathers’ house with you shall bear the iniquity of the sanctuary; and you and your sons with you shall bear the iniquity of your priesthood. 
 ^2^ Bring your brothers also, the tribe of Levi, the tribe of your father, near with you, that they may be joined to you, and minister to you; but you and your sons with you shall be before the Tent of the Testimony. 
 ^3^ They shall keep your commands and the duty of the whole Tent; only they shall not come near to the vessels of the sanctuary and to the altar, that they not die, neither they nor you. 
@@ -1061,8 +1132,9 @@ Yahweh’s glory appeared to all the congregation.
 
 ^5^ “You shall perform the duty of the sanctuary and the duty of the altar, that there be no more wrath on the children of Israel. 
 ^6^ Behold, I myself have taken your brothers the Levites from among the children of Israel. They are a gift to you, dedicated to Yahweh, to do the service of the Tent of Meeting. 
-^7^ You and your sons with you shall keep your priesthood for everything of the altar, and for that within the veil. You shall serve. I give you the service of the priesthood as a gift. The stranger who comes near shall be put to death.” 
+^7^ You and your sons with you shall keep your priesthood for everything of the altar, and for that within the veil. You shall serve. I give you the service of the priesthood as a gift. The stranger who comes near shall be put to death.”
 
+## The income of the priests
 ^8^ Yahweh spoke to Aaron, “Behold, I myself have given you the command of my wave offerings, even all the holy things of the children of Israel. I have given them to you by reason of the anointing, and to your sons, as a portion forever. 
 ^9^ This shall be yours of the most holy things from the fire: every offering of theirs, even every meal offering of theirs, and every sin offering of theirs, and every trespass offering of theirs, which they shall render to me, shall be most holy for you and for your sons. 
 ^10^ You shall eat of it like the most holy things. Every male shall eat of it. It shall be holy to you. 
@@ -1079,15 +1151,17 @@ Yahweh’s glory appeared to all the congregation.
 
 ^17^ “But you shall not redeem the firstborn of a cow, or the firstborn of a sheep, or the firstborn of a goat. They are holy. You shall sprinkle their blood on the altar, and shall burn their fat for an offering made by fire, for a pleasant aroma to Yahweh. 
 ^18^ Their meat shall be yours, as the wave offering breast and as the right thigh, it shall be yours. 
-^19^ All the wave offerings of the holy things which the children of Israel offer to Yahweh, I have given you and your sons and your daughters with you, as a portion forever. It is a covenant of salt forever before Yahweh to you and to your offspring with you.” 
+^19^ All the wave offerings of the holy things which the children of Israel offer to Yahweh, I have given you and your sons and your daughters with you, as a portion forever. It is a covenant of salt forever before Yahweh to you and to your offspring with you.”
 
+## Assignment of the tithe to the Levites for the denial of the land
 ^20^ Yahweh said to Aaron, “You shall have no inheritance in their land, neither shall you have any portion among them. I am your portion and your inheritance among the children of Israel. 
 
 ^21^ “To the children of Levi, behold, I have given all the tithe in Israel for an inheritance, in return for their service which they serve, even the service of the Tent of Meeting. 
 ^22^ Henceforth the children of Israel shall not come near the Tent of Meeting, lest they bear sin, and die. 
 ^23^ But the Levites shall do the service of the Tent of Meeting, and they shall bear their iniquity. It shall be a statute forever throughout your generations. Among the children of Israel, they shall have no inheritance. 
-^24^ For the tithe of the children of Israel, which they offer as a wave offering to Yahweh, I have given to the Levites for an inheritance. Therefore I have said to them, ‘Among the children of Israel they shall have no inheritance.’” 
+^24^ For the tithe of the children of Israel, which they offer as a wave offering to Yahweh, I have given to the Levites for an inheritance. Therefore I have said to them, ‘Among the children of Israel they shall have no inheritance.’”
 
+## The tithe of the income of the Levites to the priests
 ^25^ Yahweh spoke to Moses, saying, 
 ^26^ “Moreover you shall speak to the Levites, and tell them, ‘When you take of the children of Israel the tithe which I have given you from them for your inheritance, then you shall offer up a wave offering of it for Yahweh, a tithe of the tithe. 
 ^27^ Your wave offering shall be credited to you, as though it were the grain of the threshing floor, and as the fullness of the wine press. 
@@ -1099,6 +1173,7 @@ Yahweh’s glory appeared to all the congregation.
 ^32^ You shall bear no sin by reason of it, when you have heaved from it its best. You shall not profane the holy things of the children of Israel, that you not die.’” 
 
 # 19 
+## Preparation and use of cleaning water
 ^1^ Yahweh spoke to Moses and to Aaron, saying, 
 ^2^ “This is the statute of the law which Yahweh has commanded. Tell the children of Israel to bring you a red heifer without spot, in which is no defect, and which was never yoked. 
 ^3^ You shall give her to Eleazar the priest, and he shall bring her outside of the camp, and one shall kill her before his face. 
@@ -1113,8 +1188,9 @@ Yahweh’s glory appeared to all the congregation.
 
 ^11^ “He who touches the dead body of any man shall be unclean seven days. 
 ^12^ He shall purify himself with water on the third day, and on the seventh day he shall be clean; but if he doesn’t purify himself the third day, then the seventh day he shall not be clean. 
-^13^ Whoever touches a dead person, the body of a man who has died, and doesn’t purify himself, defiles Yahweh’s tabernacle; and that soul shall be cut off from Israel; because the water for impurity was not sprinkled on him, he shall be unclean. His uncleanness is yet on him. 
+^13^ Whoever touches a dead person, the body of a man who has died, and doesn’t purify himself, defiles Yahweh’s tabernacle; and that soul shall be cut off from Israel; because the water for impurity was not sprinkled on him, he shall be unclean. His uncleanness is yet on him.
 
+## Instructions on specific cases of contamination and their treatment
 ^14^ “This is the law when a man dies in a tent: everyone who comes into the tent, and everyone who is in the tent, shall be unclean seven days. 
 ^15^ Every open vessel, which has no covering bound on it, is unclean. 
 
@@ -1129,6 +1205,7 @@ Yahweh’s glory appeared to all the congregation.
 ^22^ “Whatever the unclean person touches shall be unclean; and the soul that touches it shall be unclean until evening.” 
 
 # 20 
+## Arrival at Kade and death of Miriam; renewed complaint of the people; the fateful donation of water from the rock for Moses and Aaron
 ^1^ The children of Israel, even the whole congregation, came into the wilderness of Zin in the first month. The people stayed in Kadesh. Miriam died there, and was buried there. 
 ^2^ There was no water for the congregation; and they assembled themselves together against Moses and against Aaron. 
 ^3^ The people quarreled with Moses, and spoke, saying, “We wish that we had died when our brothers died before Yahweh! 
@@ -1148,6 +1225,7 @@ Yahweh’s glory appeared to all the congregation.
 ^13^ These are the waters of Meribah;^a^ because the children of Israel strove with Yahweh, and he was sanctified in them. 
 ^a^[**20:13** “Meribah” means “quarreling”.]
 
+## The Edomites refuse to allow passage; Aaron's death
 ^14^ Moses sent messengers from Kadesh to the king of Edom, saying: 
 
 “Your brother Israel says: You know all the travail that has happened to us; 
@@ -1161,8 +1239,9 @@ Yahweh’s glory appeared to all the congregation.
 ^19^ The children of Israel said to him, “We will go up by the highway; and if we drink your water, I and my livestock, then I will give its price. Only let me, without doing anything else, pass through on my feet.” 
 
 ^20^ He said, “You shall not pass through.” Edom came out against him with many people, and with a strong hand. 
-^21^ Thus Edom refused to give Israel passage through his border, so Israel turned away from him. 
+^21^ Thus Edom refused to give Israel passage through his border, so Israel turned away from him.
 
+## The train from Kades to Mount Hor; Aaron's death
 ^22^ They traveled from Kadesh, and the children of Israel, even the whole congregation, came to Mount Hor. 
 ^23^ Yahweh spoke to Moses and Aaron in Mount Hor, by the border of the land of Edom, saying, 
 ^24^ “Aaron shall be gathered to his people; for he shall not enter into the land which I have given to the children of Israel, because you rebelled against my word at the waters of Meribah. 
@@ -1174,11 +1253,13 @@ Yahweh’s glory appeared to all the congregation.
 ^29^ When all the congregation saw that Aaron was dead, they wept for Aaron thirty days, even all the house of Israel. 
 
 # 21 
+## Victorious battle with the King of Arad
 ^1^ The Canaanite, the king of Arad, who lived in the South, heard that Israel came by the way of Atharim. He fought against Israel, and took some of them captive. 
 ^2^ Israel vowed a vow to Yahweh, and said, “If you will indeed deliver this people into my hand, then I will utterly destroy their cities.” 
 ^3^ Yahweh listened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities. The name of the place was called Hormah.^a^ 
 ^a^[**21:3** “Hormah” means “destruction”.]
 
+## Murmurs of the people; poisonous snakes and the bronze snake
 ^4^ They traveled from Mount Hor by the way to the Red Sea, to go around the land of Edom. The soul of the people was very discouraged because of the journey. 
 ^5^ The people spoke against God and against Moses: “Why have you brought us up out of Egypt to die in the wilderness? For there is no bread, there is no water, and our soul loathes this disgusting food!” 
 
@@ -1186,8 +1267,9 @@ Yahweh’s glory appeared to all the congregation.
 ^7^ The people came to Moses, and said, “We have sinned, because we have spoken against Yahweh and against you. Pray to Yahweh, that he take away the serpents from us.” Moses prayed for the people. 
 
 ^8^ Yahweh said to Moses, “Make a venomous snake, and set it on a pole. It shall happen that everyone who is bitten, when he sees it, shall live.” 
-^9^ Moses made a serpent of bronze, and set it on the pole. If a serpent had bitten any man, when he looked at the serpent of bronze, he lived. 
+^9^ Moses made a serpent of bronze, and set it on the pole. If a serpent had bitten any man, when he looked at the serpent of bronze, he lived.
 
+## The train to the Arnon and the steppes of the Moabites; the fountain song
 ^10^ The children of Israel traveled, and encamped in Oboth. 
 ^11^ They traveled from Oboth, and encamped at Iyeabarim, in the wilderness which is before Moab, toward the sunrise. 
 ^12^ From there they traveled, and encamped in the valley of Zered. 
@@ -1202,7 +1284,9 @@ Yahweh’s glory appeared to all the congregation.
 
 From the wilderness they traveled to Mattanah; 
 ^19^ and from Mattanah to Nahaliel; and from Nahaliel to Bamoth; 
-^20^ and from Bamoth to the valley that is in the field of Moab, to the top of Pisgah, which looks down on the desert. 
+^20^ and from Bamoth to the valley that is in the field of Moab, to the top of Pisgah, which looks down on the desert.
+
+## Defeat of the Amorite king Sihon and conquest of his country; Israelite Triumph Song
 ^21^ Israel sent messengers to Sihon king of the Amorites, saying, 
 ^22^ “Let me pass through your land. We will not turn away into field or vineyard. We will not drink of the water of the wells. We will go by the king’s highway, until we have passed your border.” 
 
@@ -1213,8 +1297,9 @@ From the wilderness they traveled to Mattanah;
 ^27^ Therefore those who speak in proverbs say, “Come to Heshbon. Let the city of Sihon be built and established; 
 ^28^ for a fire has gone out of Heshbon, a flame from the city of Sihon. It has devoured Ar of Moab, The lords of the high places of the Arnon. 
 ^29^ Woe to you, Moab! You are undone, people of Chemosh! He has given his sons as fugitives, and his daughters into captivity, to Sihon king of the Amorites. 
-^30^ We have shot at them. Heshbon has perished even to Dibon. We have laid waste even to Nophah, Which reaches to Medeba.” 
+^30^ We have shot at them. Heshbon has perished even to Dibon. We have laid waste even to Nophah, Which reaches to Medeba.”
 
+## Greater advance of the Israelites; Defeat of King Og of Basan
 ^31^ Thus Israel lived in the land of the Amorites. 
 ^32^ Moses sent to spy out Jazer. They took its villages, and drove out the Amorites who were there. 
 ^33^ They turned and went up by the way of Bashan. Og the king of Bashan went out against them, he and all his people, to battle at Edrei. 
@@ -1224,6 +1309,7 @@ From the wilderness they traveled to Mattanah;
 ^35^ So they struck him, with his sons and all his people, until there were no survivors; and they possessed his land. 
 
 # 22 
+## Der Moabiterkönig Balak beschließt, Gesandte an Bileam zu schicken
 ^1^ The children of Israel traveled, and encamped in the plains of Moab beyond the Jordan at Jericho. 
 ^2^ Balak the son of Zippor saw all that Israel had done to the Amorites. 
 ^3^ Moab was very afraid of the people, because they were many. Moab was distressed because of the children of Israel. 
@@ -1231,8 +1317,9 @@ From the wilderness they traveled to Mattanah;
 
 Balak the son of Zippor was king of Moab at that time. 
 ^5^ He sent messengers to Balaam the son of Beor, to Pethor, which is by the River, to the land of the children of his people, to call him, saying, “Behold, there is a people who came out of Egypt. Behold, they cover the surface of the earth, and they are staying opposite me. 
-^6^ Please come now therefore, and curse this people for me; for they are too mighty for me. Perhaps I shall prevail, that we may strike them, and that I may drive them out of the land; for I know that he whom you bless is blessed, and he whom you curse is cursed.” 
+^6^ Please come now therefore, and curse this people for me; for they are too mighty for me. Perhaps I shall prevail, that we may strike them, and that I may drive them out of the land; for I know that he whom you bless is blessed, and he whom you curse is cursed.”
 
+## Balak's first embassy to Balaam unsuccessful; your repeated message
 ^7^ The elders of Moab and the elders of Midian departed with the rewards of divination in their hand. They came to Balaam, and spoke to him the words of Balak. 
 
 ^8^ He said to them, “Lodge here this night, and I will bring you word again, as Yahweh shall speak to me.” The princes of Moab stayed with Balaam. 
@@ -1257,7 +1344,9 @@ Balak the son of Zippor was king of Moab at that time.
 
 ^20^ God came to Balaam at night, and said to him, “If the men have come to call you, rise up, go with them; but only the word which I speak to you, that you shall do.” 
 
-^21^ Balaam rose up in the morning, and saddled his donkey, and went with the princes of Moab. 
+^21^ Balaam rose up in the morning, and saddled his donkey, and went with the princes of Moab.
+
+## Balaam's journey to Moab and the incident with the donkey
 ^22^ God’s anger burned because he went; and Yahweh’s angel placed himself in the way as an adversary against him. Now he was riding on his donkey, and his two servants were with him. 
 ^23^ The donkey saw Yahweh’s angel standing in the way, with his sword drawn in his hand; and the donkey turned out of the path, and went into the field. Balaam struck the donkey, to turn her into the path. 
 ^24^ Then Yahweh’s angel stood in a narrow path between the vineyards, a wall being on this side, and a wall on that side. 
@@ -1282,7 +1371,9 @@ He said, “No.”
 
 ^35^ Yahweh’s angel said to Balaam, “Go with the men; but you shall only speak the word that I shall speak to you.” 
 
-So Balaam went with the princes of Balak. 
+So Balaam went with the princes of Balak.
+
+## Balaam's arrival at Balak
 ^36^ When Balak heard that Balaam had come, he went out to meet him to the City of Moab, which is on the border of the Arnon, which is in the utmost part of the border. 
 ^37^ Balak said to Balaam, “Didn’t I earnestly send for you to summon you? Why didn’t you come to me? Am I not able indeed to promote you to honor?” 
 
@@ -1293,6 +1384,7 @@ So Balaam went with the princes of Balak.
 ^41^ In the morning, Balak took Balaam, and brought him up into the high places of Baal; and he saw from there part of the people. 
 
 # 23 
+## Preparations for divine revelation; Balaam's first saying
 ^1^ Balaam said to Balak, “Build here seven altars for me, and prepare here seven bulls and seven rams for me.” 
 
 ^2^ Balak did as Balaam had spoken; and Balak and Balaam offered on every altar a bull and a ram. 
@@ -1303,7 +1395,9 @@ He went to a bare height.
 
 ^5^ Yahweh put a word in Balaam’s mouth, and said, “Return to Balak, and thus you shall speak.” 
 
-^6^ He returned to him, and behold, he was standing by his burnt offering, he, and all the princes of Moab. 
+^6^ He returned to him, and behold, he was standing by his burnt offering, he, and all the princes of Moab.
+
+## Balaam blesses Israel from Bamot-Baal
 ^7^ He took up his parable, and said, “From Aram has Balak brought me, the king of Moab from the mountains of the East. Come, curse Jacob for me. Come, defy Israel. 
 ^8^ How shall I curse whom God has not cursed? How shall I defy whom Yahweh has not defied? 
 ^9^ For from the top of the rocks I see him. From the hills I see him. Behold, it is a people that dwells alone, and shall not be listed among the nations. 
@@ -1311,8 +1405,9 @@ He went to a bare height.
 
 ^11^ Balak said to Balaam, “What have you done to me? I took you to curse my enemies, and behold, you have blessed them altogether.” 
 
-^12^ He answered and said, “Must I not take heed to speak that which Yahweh puts in my mouth?” 
+^12^ He answered and said, “Must I not take heed to speak that which Yahweh puts in my mouth?”
 
+## Preparations for the new divine revelation; Balaam's second saying
 ^13^ Balak said to him, “Please come with me to another place, where you may see them. You shall see just part of them, and shall not see them all. Curse them from there for me.” 
 
 ^14^ He took him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered up a bull and a ram on every altar. 
@@ -1320,8 +1415,9 @@ He went to a bare height.
 
 ^16^ Yahweh met Balaam, and put a word in his mouth, and said, “Return to Balak, and say this.” 
 
-^17^ He came to him, and behold, he was standing by his burnt offering, and the princes of Moab with him. Balak said to him, “What has Yahweh spoken?” 
+^17^ He came to him, and behold, he was standing by his burnt offering, and the princes of Moab with him. Balak said to him, “What has Yahweh spoken?”
 
+## Balaam blesses Israel from Mount Pisgah
 ^18^ He took up his parable, and said, “Rise up, Balak, and hear! Listen to me, you son of Zippor. 
 ^19^ God is not a man, that he should lie, nor a son of man, that he should repent. Has he said, and he won’t do it? Or has he spoken, and he won’t make it good? 
 ^20^ Behold, I have received a command to bless. He has blessed, and I can’t reverse it. 
@@ -1332,8 +1428,9 @@ He went to a bare height.
 
 ^25^ Balak said to Balaam, “Neither curse them at all, nor bless them at all.” 
 
-^26^ But Balaam answered Balak, “Didn’t I tell you, saying, ‘All that Yahweh speaks, that I must do?’” 
+^26^ But Balaam answered Balak, “Didn’t I tell you, saying, ‘All that Yahweh speaks, that I must do?’”
 
+## Preparations for the third divine revelation; Balaam's third saying
 ^27^ Balak said to Balaam, “Come now, I will take you to another place; perhaps it will please God that you may curse them for me from there.” 
 
 ^28^ Balak took Balaam to the top of Peor, that looks down on the desert. 
@@ -1342,6 +1439,7 @@ He went to a bare height.
 ^30^ Balak did as Balaam had said, and offered up a bull and a ram on every altar. 
 
 # 24 
+## Balaam blesses Israel from Mount Peor
 ^1^ When Balaam saw that it pleased Yahweh to bless Israel, he didn’t go, as at the other times, to use divination, but he set his face toward the wilderness. 
 ^2^ Balaam lifted up his eyes, and he saw Israel dwelling according to their tribes; and the Spirit of God came on him. 
 ^3^ He took up his parable, and said, “Balaam the son of Beor says, the man whose eyes are open says; 
@@ -1350,21 +1448,24 @@ He went to a bare height.
 ^6^ As valleys they are spread out, as gardens by the riverside, as aloes which Yahweh has planted, as cedar trees beside the waters. 
 ^7^ Water shall flow from his buckets. His seed shall be in many waters. His king shall be higher than Agag. His kingdom shall be exalted. 
 ^8^ God brings him out of Egypt. He has as it were the strength of the wild ox. He shall consume the nations his adversaries, shall break their bones in pieces, and pierce them with his arrows. 
-^9^ He couched, he lay down as a lion, as a lioness; who shall rouse him up? Everyone who blesses you is blessed. Everyone who curses you is cursed.” 
+^9^ He couched, he lay down as a lion, as a lioness; who shall rouse him up? Everyone who blesses you is blessed. Everyone who curses you is cursed.”
 
+## Balak's anger and Balaam's apology
 ^10^ Balak’s anger burned against Balaam, and he struck his hands together. Balak said to Balaam, “I called you to curse my enemies, and, behold, you have altogether blessed them these three times. 
 ^11^ Therefore, flee to your place, now! I thought to promote you to great honor; but, behold, Yahweh has kept you back from honor.” 
 
 ^12^ Balaam said to Balak, “Didn’t I also tell your messengers whom you sent to me, saying, 
 ^13^ ‘If Balak would give me his house full of silver and gold, I can’t go beyond Yahweh’s word, to do either good or bad from my own mind. I will say what Yahweh says’? 
-^14^ Now, behold, I go to my people. Come, I will inform you what this people shall do to your people in the latter days.” 
+^14^ Now, behold, I go to my people. Come, I will inform you what this people shall do to your people in the latter days.”
 
+## Balaam's fourth saying: the star of Jacob; whose victory over Moab and Edom
 ^15^ He took up his parable, and said, “Balaam the son of Beor says, the man whose eyes are open says; 
 ^16^ he says, who hears the words of God, knows the knowledge of the Most High, and who sees the vision of the Almighty, falling down, and having his eyes open: 
 ^17^ I see him, but not now. I see him, but not near. A star will come out of Jacob. A scepter will rise out of Israel, and shall strike through the corners of Moab, and crush all the sons of Sheth. 
 ^18^ Edom shall be a possession. Seir, his enemy, also shall be a possession, while Israel does valiantly. 
-^19^ Out of Jacob shall one have dominion, and shall destroy the remnant from the city.” 
+^19^ Out of Jacob shall one have dominion, and shall destroy the remnant from the city.”
 
+## Proverbs about the Amalekites, Kenites and Assyrians; End of Balaam's story
 ^20^ He looked at Amalek, and took up his parable, and said, “Amalek was the first of the nations, but his latter end shall come to destruction.” 
 
 ^21^ He looked at the Kenite, and took up his parable, and said, “Your dwelling place is strong. Your nest is set in the rock. 
@@ -1376,13 +1477,15 @@ He went to a bare height.
 ^25^ Balaam rose up, and went and returned to his place; and Balak also went his way. 
 
 # 25 
+## Israel's debt through fornication and idolatry
 ^1^ Israel stayed in Shittim; and the people began to play the prostitute with the daughters of Moab; 
 ^2^ for they called the people to the sacrifices of their gods. The people ate and bowed down to their gods. 
 ^3^ Israel joined himself to Baal Peor, and Yahweh’s anger burned against Israel. 
 ^4^ Yahweh said to Moses, “Take all the chiefs of the people, and hang them up to Yahweh before the sun, that the fierce anger of Yahweh may turn away from Israel.” 
 
-^5^ Moses said to the judges of Israel, “Everyone kill his men who have joined themselves to Baal Peor.” 
+^5^ Moses said to the judges of Israel, “Everyone kill his men who have joined themselves to Baal Peor.”
 
+## Phinehas' intervention; his alienation from God with an everlasting priesthood
 ^6^ Behold, one of the children of Israel came and brought to his brothers a Midianite woman in the sight of Moses, and in the sight of all the congregation of the children of Israel, while they were weeping at the door of the Tent of Meeting. 
 ^7^ When Phinehas, the son of Eleazar, the son of Aaron the priest, saw it, he rose up from the middle of the congregation, and took a spear in his hand. 
 ^8^ He went after the man of Israel into the pavilion, and thrust both of them through, the man of Israel, and the woman through her body. So the plague was stopped among the children of Israel. 
@@ -1394,19 +1497,23 @@ He went to a bare height.
 ^13^ It shall be to him, and to his offspring after him, the covenant of an everlasting priesthood, because he was jealous for his God, and made atonement for the children of Israel.’” 
 
 ^14^ Now the name of the man of Israel that was slain, who was slain with the Midianite woman, was Zimri, the son of Salu, a prince of a fathers’ house among the Simeonites. 
-^15^ The name of the Midianite woman who was slain was Cozbi, the daughter of Zur. He was head of the people of a fathers’ house in Midian. 
+^15^ The name of the Midianite woman who was slain was Cozbi, the daughter of Zur. He was head of the people of a fathers’ house in Midian.
 
+## Gottes Gebot, an den Midianitern Rache zu nehmen
 ^16^ Yahweh spoke to Moses, saying, 
 ^17^ “Harass the Midianites, and strike them; 
 ^18^ for they harassed you with their wiles, wherein they have deceived you in the matter of Peor, and in the incident regarding Cozbi, the daughter of the prince of Midian, their sister, who was slain on the day of the plague in the matter of Peor.” 
 
 # 26 
+## The second census of the people in the plain of the Moabites for the purpose of distributing the land
 ^1^ After the plague, Yahweh spoke to Moses and to Eleazar the son of Aaron the priest, saying, 
 ^2^ “Take a census of all the congregation of the children of Israel, from twenty years old and upward, by their fathers’ houses, all who are able to go out to war in Israel.” 
 ^3^ Moses and Eleazar the priest spoke with them in the plains of Moab by the Jordan at Jericho, saying, 
 ^4^ “Take a census, from twenty years old and upward, as Yahweh commanded Moses and the children of Israel.” 
 
-These are those who came out of the land of Egypt. 
+These are those who came out of the land of Egypt.
+
+## Census results
 ^5^ Reuben, the firstborn of Israel; the sons of Reuben: of Hanoch, the family of the Hanochites; of Pallu, the family of the Palluites; 
 ^6^ of Hezron, the family of the Hezronites; of Carmi, the family of the Carmites. 
 ^7^ These are the families of the Reubenites; and those who were counted of them were forty-three thousand seven hundred thirty. 
@@ -1453,14 +1560,16 @@ These are those who came out of the land of Egypt.
 ^48^ The sons of Naphtali after their families: of Jahzeel, the family of the Jahzeelites; of Guni, the family of the Gunites; 
 ^49^ of Jezer, the family of the Jezerites; of Shillem, the family of the Shillemites. 
 ^50^ These are the families of Naphtali according to their families; and those who were counted of them were forty-five thousand four hundred. 
-^51^ These are those who were counted of the children of Israel, six hundred one thousand seven hundred thirty. 
+^51^ These are those who were counted of the children of Israel, six hundred one thousand seven hundred thirty.
 
+## Instruction on land distribution
 ^52^ Yahweh spoke to Moses, saying, 
 ^53^ “To these the land shall be divided for an inheritance according to the number of names. 
 ^54^ To the more you shall give the more inheritance, and to the fewer you shall give the less inheritance. To everyone according to those who were counted of him shall his inheritance be given. 
 ^55^ Notwithstanding, the land shall be divided by lot. According to the names of the tribes of their fathers they shall inherit. 
-^56^ According to the lot shall their inheritance be divided between the more and the fewer.” 
+^56^ According to the lot shall their inheritance be divided between the more and the fewer.”
 
+## The counting of the Levites
 ^57^ These are those who were counted of the Levites after their families: of Gershon, the family of the Gershonites; of Kohath, the family of the Kohathites; of Merari, the family of the Merarites. 
 ^58^ These are the families of Levi: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, and the family of the Korahites. Kohath became the father of Amram. 
 ^59^ The name of Amram’s wife was Jochebed, the daughter of Levi, who was born to Levi in Egypt. She bore to Amram Aaron and Moses, and Miriam their sister. 
@@ -1472,6 +1581,7 @@ These are those who came out of the land of Egypt.
 ^65^ For Yahweh had said of them, “They shall surely die in the wilderness.” There was not a man left of them, except Caleb the son of Jephunneh, and Joshua the son of Nun. 
 
 # 27 
+## Provisions relating to the property of heirs
 ^1^ Then the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph came near. These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah. 
 ^2^ They stood before Moses, before Eleazar the priest, and before the princes and all the congregation, at the door of the Tent of Meeting, saying, 
 ^3^ “Our father died in the wilderness. He was not among the company of those who gathered themselves together against Yahweh in the company of Korah, but he died in his own sin. He had no sons. 
@@ -1483,8 +1593,9 @@ These are those who came out of the land of Egypt.
 ^8^ You shall speak to the children of Israel, saying, ‘If a man dies, and has no son, then you shall cause his inheritance to pass to his daughter. 
 ^9^ If he has no daughter, then you shall give his inheritance to his brothers. 
 ^10^ If he has no brothers, then you shall give his inheritance to his father’s brothers. 
-^11^ If his father has no brothers, then you shall give his inheritance to his kinsman who is next to him of his family, and he shall possess it. This shall be a statute and ordinance for the children of Israel, as Yahweh commanded Moses.’” 
+^11^ If his father has no brothers, then you shall give his inheritance to his kinsman who is next to him of his family, and he shall possess it. This shall be a statute and ordinance for the children of Israel, as Yahweh commanded Moses.’”
 
+## Announcement of imminent death to Moses; Installation of Joshua as his successor
 ^12^ Yahweh said to Moses, “Go up into this mountain of Abarim, and see the land which I have given to the children of Israel. 
 ^13^ When you have seen it, you also shall be gathered to your people, as Aaron your brother was gathered; 
 ^14^ because in the strife of the congregation, you rebelled against my word in the wilderness of Zin, to honor me as holy at the waters before their eyes.” (These are the waters of Meribah of Kadesh in the wilderness of Zin.) 
@@ -1502,8 +1613,11 @@ These are those who came out of the land of Egypt.
 ^23^ He laid his hands on him and commissioned him, as Yahweh spoke by Moses. 
 
 # 28 
+## Regulations on daily and daily community slaughter
 ^1^ Yahweh spoke to Moses, saying, 
-^2^ “Command the children of Israel, and tell them, ‘See that you present my offering, my food for my offerings made by fire, as a pleasant aroma to me, in their due season.’ 
+^2^ “Command the children of Israel, and tell them, ‘See that you present my offering, my food for my offerings made by fire, as a pleasant aroma to me, in their due season.’
+
+## The daily morning and evening holocaust
 ^3^ You shall tell them, ‘This is the offering made by fire which you shall offer to Yahweh: male lambs a year old without defect, two day by day, for a continual burnt offering. 
 ^4^ You shall offer the one lamb in the morning, and you shall offer the other lamb at evening, 
 ^5^ with one tenth of an ephah^a^ of fine flour for a meal offering, mixed with the fourth part of a hin^b^ of beaten oil. 
@@ -1512,10 +1626,12 @@ These are those who came out of the land of Egypt.
 ^8^ The other lamb you shall offer at evening. As the meal offering of the morning, and as its drink offering, you shall offer it, an offering made by fire, for a pleasant aroma to Yahweh. 
 ^a^[**28:5** 1 ephah is about 22 liters or about 2/3 of a bushel] ^b^[**28:5** A hin is about 6.5 liters or 1.7 gallons.] ^c^[**28:7** One hin is about 6.5 liters, so 1/4 hin is about 1.6 liters or 1.7 quarts.]
 
+## The Additional Sabbath Offering
 ^9^ “‘On the Sabbath day, you shall offer two male lambs a year old without defect, and two tenths of an ephah^a^ of fine flour for a meal offering mixed with oil, and its drink offering: 
 ^10^ this is the burnt offering of every Sabbath, in addition to the continual burnt offering and its drink offering. 
 ^a^[**28:9** 1 ephah is about 22 liters or about 2/3 of a bushel]
 
+## The additional sacrifice on the new moon day
 ^11^ “‘In the beginnings of your months, you shall offer a burnt offering to Yahweh: two young bulls, one ram, seven male lambs a year old without defect, 
 ^12^ and three tenths of an ephah^a^ of fine flour for a meal offering mixed with oil, for each bull; and two tenth parts of fine flour for a meal offering mixed with oil, for the one ram; 
 ^13^ and one tenth part of fine flour mixed with oil for a meal offering to every lamb, as a burnt offering of a pleasant aroma, an offering made by fire to Yahweh. 
@@ -1523,6 +1639,7 @@ These are those who came out of the land of Egypt.
 ^15^ Also, one male goat for a sin offering to Yahweh shall be offered in addition to the continual burnt offering and its drink offering. 
 ^a^[**28:12** 1 ephah is about 22 liters or about 2/3 of a bushel]
 
+## Additional offerings for the seven days of the Feast of Unleavened Bread
 ^16^ “‘In the first month, on the fourteenth day of the month, is Yahweh’s Passover. 
 ^17^ On the fifteenth day of this month shall be a feast. Unleavened bread shall be eaten for seven days. 
 ^18^ In the first day shall be a holy convocation. You shall do no regular work, 
@@ -1532,8 +1649,9 @@ These are those who came out of the land of Egypt.
 ^22^ and one male goat for a sin offering, to make atonement for you. 
 ^23^ You shall offer these in addition to the burnt offering of the morning, which is for a continual burnt offering. 
 ^24^ In this way you shall offer daily, for seven days, the food of the offering made by fire, of a pleasant aroma to Yahweh. It shall be offered in addition to the continual burnt offering and its drink offering. 
-^25^ On the seventh day you shall have a holy convocation. You shall do no regular work. 
+^25^ On the seventh day you shall have a holy convocation. You shall do no regular work.
 
+## Additional sacrifices at the Feast of Firstfruits
 ^26^ “‘Also in the day of the first fruits, when you offer a new meal offering to Yahweh in your feast of weeks, you shall have a holy convocation. You shall do no regular work; 
 ^27^ but you shall offer a burnt offering for a pleasant aroma to Yahweh: two young bulls, one ram, seven male lambs a year old; 
 ^28^ and their meal offering, fine flour mixed with oil, three tenths for each bull, two tenths for the one ram, 
@@ -1542,19 +1660,22 @@ These are those who came out of the land of Egypt.
 ^31^ Besides the continual burnt offering and its meal offering, you shall offer them and their drink offerings. See that they are without defect. 
 
 # 29 
+## Additional sacrifices on New Year's Day
 ^1^ “‘In the seventh month, on the first day of the month, you shall have a holy convocation; you shall do no regular work. It is a day of blowing of trumpets to you. 
 ^2^ You shall offer a burnt offering for a pleasant aroma to Yahweh: one young bull, one ram, seven male lambs a year old without defect; 
 ^3^ and their meal offering, fine flour mixed with oil: three tenths for the bull, two tenths for the ram, 
 ^4^ and one tenth for every lamb of the seven lambs; 
 ^5^ and one male goat for a sin offering, to make atonement for you; 
-^6^ in addition to the burnt offering of the new moon with its meal offering, and the continual burnt offering with its meal offering, and their drink offerings, according to their ordinance, for a pleasant aroma, an offering made by fire to Yahweh. 
+^6^ in addition to the burnt offering of the new moon with its meal offering, and the continual burnt offering with its meal offering, and their drink offerings, according to their ordinance, for a pleasant aroma, an offering made by fire to Yahweh.
 
+## Additional sacrifices on the great day of atonement
 ^7^ “‘On the tenth day of this seventh month you shall have a holy convocation. You shall afflict your souls. You shall do no kind of work; 
 ^8^ but you shall offer a burnt offering to Yahweh for a pleasant aroma: one young bull, one ram, seven male lambs a year old, all without defect; 
 ^9^ and their meal offering, fine flour mixed with oil: three tenths for the bull, two tenths for the one ram, 
 ^10^ one tenth for every lamb of the seven lambs; 
-^11^ one male goat for a sin offering, in addition to the sin offering of atonement, and the continual burnt offering, and its meal offering, and their drink offerings. 
+^11^ one male goat for a sin offering, in addition to the sin offering of atonement, and the continual burnt offering, and its meal offering, and their drink offerings.
 
+## The additional offerings for the seven days of the Feast of Tabernacles
 ^12^ “‘On the fifteenth day of the seventh month you shall have a holy convocation. You shall do no regular work. You shall keep a feast to Yahweh seven days. 
 ^13^ You shall offer a burnt offering, an offering made by fire, of a pleasant aroma to Yahweh: thirteen young bulls, two rams, fourteen male lambs a year old, all without defect; 
 ^14^ and their meal offering, fine flour mixed with oil: three tenths for every bull of the thirteen bulls, two tenths for each ram of the two rams, 
@@ -1588,13 +1709,15 @@ These are those who came out of the land of Egypt.
 ^35^ “‘On the eighth day you shall have a solemn assembly. You shall do no regular work; 
 ^36^ but you shall offer a burnt offering, an offering made by fire, a pleasant aroma to Yahweh: one bull, one ram, seven male lambs a year old without defect; 
 ^37^ their meal offering and their drink offerings for the bull, for the ram, and for the lambs, shall be according to their number, after the ordinance, 
-^38^ and one male goat for a sin offering, in addition to the continual burnt offering, with its meal offering, and its drink offering. 
+^38^ and one male goat for a sin offering, in addition to the continual burnt offering, with its meal offering, and its drink offering.
 
+## Final judgment of the victims' laws
 ^39^ “‘You shall offer these to Yahweh in your set feasts—in addition to your vows and your free will offerings—for your burnt offerings, your meal offerings, your drink offerings, and your peace offerings.’” 
 
 ^40^ Moses told the children of Israel according to all that Yahweh commanded Moses. 
 
 # 30 
+## Regulation on binding or nullity of votes
 ^1^ Moses spoke to the heads of the tribes of the children of Israel, saying, “This is the thing which Yahweh has commanded. 
 ^2^ When a man vows a vow to Yahweh, or swears an oath to bind his soul with a bond, he shall not break his word. He shall do according to all that proceeds out of his mouth. 
 
@@ -1611,13 +1734,16 @@ These are those who came out of the land of Egypt.
 ^10^ “If she vowed in her husband’s house or bound her soul by a bond with an oath, 
 ^11^ and her husband heard it, and held his peace at her and didn’t disallow her, then all her vows shall stand, and every pledge with which she bound her soul shall stand. 
 ^12^ But if her husband made them null and void in the day that he heard them, then whatever proceeded out of her lips concerning her vows, or concerning the bond of her soul, shall not stand. Her husband has made them void. Yahweh will forgive her. 
-^13^ Every vow, and every binding oath to afflict the soul, her husband may establish it, or her husband may make it void. 
+^13^ Every vow, and every binding oath to afflict the soul, her husband may establish it, or her husband may make it void.
+
+## Renewed enactment of husband's rights
 ^14^ But if her husband says nothing to her from day to day, then he establishes all her vows or all her pledges which are on her. He has established them, because he said nothing to her in the day that he heard them. 
 ^15^ But if he makes them null and void after he has heard them, then he shall bear her iniquity.” 
 
 ^16^ These are the statutes which Yahweh commanded Moses, between a man and his wife, between a father and his daughter, being in her youth, in her father’s house. 
 
 # 31 
+## War of revenge of the Israelites against the Midianites
 ^1^ Yahweh spoke to Moses, saying, 
 ^2^ “Avenge the children of Israel on the Midianites. Afterward you shall be gathered to your people.” 
 
@@ -1630,7 +1756,9 @@ These are those who came out of the land of Egypt.
 ^9^ The children of Israel took the women of Midian captive with their little ones; and all their livestock, all their flocks, and all their goods, they took as plunder. 
 ^10^ All their cities in the places in which they lived, and all their encampments, they burned with fire. 
 ^11^ They took all the captives, and all the plunder, both of man and of animal. 
-^12^ They brought the captives with the prey and the plunder, to Moses, and to Eleazar the priest, and to the congregation of the children of Israel, to the camp at the plains of Moab, which are by the Jordan at Jericho. 
+^12^ They brought the captives with the prey and the plunder, to Moses, and to Eleazar the priest, and to the congregation of the children of Israel, to the camp at the plains of Moab, which are by the Jordan at Jericho.
+
+## Ordinance on the killing of all male children, on the treatment of female prisoners and children, and on the cleaning to be carried out before return
 ^13^ Moses and Eleazar the priest, with all the princes of the congregation, went out to meet them outside of the camp. 
 ^14^ Moses was angry with the officers of the army, the captains of thousands and the captains of hundreds, who came from the service of the war. 
 ^15^ Moses said to them, “Have you saved all the women alive? 
@@ -1644,8 +1772,9 @@ These are those who came out of the land of Egypt.
 ^21^ Eleazar the priest said to the men of war who went to the battle, “This is the statute of the law which Yahweh has commanded Moses. 
 ^22^ However the gold, and the silver, the bronze, the iron, the tin, and the lead, 
 ^23^ everything that may withstand the fire, you shall make to go through the fire, and it shall be clean; nevertheless it shall be purified with the water for impurity. All that doesn’t withstand the fire you shall make to go through the water. 
-^24^ You shall wash your clothes on the seventh day, and you shall be clean. Afterward you shall come into the camp.” 
+^24^ You shall wash your clothes on the seventh day, and you shall be clean. Afterward you shall come into the camp.”
 
+## Distribution of live prey (humans and livestock); Leaders Christmas Gift
 ^25^ Yahweh spoke to Moses, saying, 
 ^26^ “Count the plunder that was taken, both of man and of animal, you, and Eleazar the priest, and the heads of the fathers’ households of the congregation; 
 ^27^ and divide the plunder into two parts: between the men skilled in war, who went out to battle, and all the congregation. 
@@ -1683,6 +1812,7 @@ These are those who came out of the land of Egypt.
 ^a^[**31:52** A shekel is about 10 grams or about 0.35 ounces, so 16,750 shekels is about 167.5 kilograms or about 368.5 pounds.] 
 
 # 32 
+## The request of the Reubenites and Gadites was rejected by Moses in a punitive speech
 ^1^ Now the children of Reuben and the children of Gad had a very great multitude of livestock. They saw the land of Jazer, and the land of Gilead. Behold, the place was a place for livestock. 
 ^2^ Then the children of Gad and the children of Reuben came and spoke to Moses, and to Eleazar the priest, and to the princes of the congregation, saying, 
 ^3^ “Ataroth, Dibon, Jazer, Nimrah, Heshbon, Elealeh, Sebam, Nebo, and Beon, 
@@ -1699,13 +1829,15 @@ These are those who came out of the land of Egypt.
 ^13^ Yahweh’s anger burned against Israel, and he made them wander back and forth in the wilderness forty years, until all the generation who had done evil in Yahweh’s sight was consumed. 
 
 ^14^ “Behold, you have risen up in your fathers’ place, an increase of sinful men, to increase the fierce anger of Yahweh toward Israel. 
-^15^ For if you turn away from after him, he will yet again leave them in the wilderness; and you will destroy all these people.” 
+^15^ For if you turn away from after him, he will yet again leave them in the wilderness; and you will destroy all these people.”
 
+## The response of the Reubenites and Gadites
 ^16^ They came near to him, and said, “We will build sheepfolds here for our livestock, and cities for our little ones; 
 ^17^ but we ourselves will be ready armed to go before the children of Israel, until we have brought them to their place. Our little ones shall dwell in the fortified cities because of the inhabitants of the land. 
 ^18^ We will not return to our houses until the children of Israel have all received their inheritance. 
-^19^ For we will not inherit with them on the other side of the Jordan and beyond, because our inheritance has come to us on this side of the Jordan eastward.” 
+^19^ For we will not inherit with them on the other side of the Jordan and beyond, because our inheritance has come to us on this side of the Jordan eastward.”
 
+## The promise of Moses, stating the conditions; Awarding the Country East of the Jordan to the Supplicating Tribes
 ^20^ Moses said to them: “If you will do this thing, if you will arm yourselves to go before Yahweh to the war, 
 ^21^ and every one of your armed men will pass over the Jordan before Yahweh until he has driven out his enemies from before him, 
 ^22^ and the land is subdued before Yahweh; then afterward you shall return, and be clear of obligation to Yahweh and to Israel. Then this land shall be your possession before Yahweh. 
@@ -1724,18 +1856,23 @@ These are those who came out of the land of Egypt.
 ^31^ The children of Gad and the children of Reuben answered, saying, “As Yahweh has said to your servants, so will we do. 
 ^32^ We will pass over armed before Yahweh into the land of Canaan, and the possession of our inheritance shall remain with us beyond the Jordan.” 
 
-^33^ Moses gave to them, even to the children of Gad, and to the children of Reuben, and to the half-tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan; the land, according to its cities and borders, even the cities of the surrounding land. 
+^33^ Moses gave to them, even to the children of Gad, and to the children of Reuben, and to the half-tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan; the land, according to its cities and borders, even the cities of the surrounding land.
+
+## Summary of the cities rebuilt by the Gadites and Reubenites
 ^34^ The children of Gad built Dibon, Ataroth, Aroer, 
 ^35^ Atroth-shophan, Jazer, Jogbehah, 
 ^36^ Beth Nimrah, and Beth Haran: fortified cities and folds for sheep. 
 ^37^ The children of Reuben built Heshbon, Elealeh, Kiriathaim, 
-^38^ Nebo, and Baal Meon, (their names being changed), and Sibmah. They gave other names to the cities which they built. 
+^38^ Nebo, and Baal Meon, (their names being changed), and Sibmah. They gave other names to the cities which they built.
+
+## Descendants of Manasseh settled in the East Bank
 ^39^ The children of Machir the son of Manasseh went to Gilead, took it, and dispossessed the Amorites who were therein. 
 ^40^ Moses gave Gilead to Machir the son of Manasseh; and he lived therein. 
 ^41^ Jair the son of Manasseh went and took its villages, and called them Havvoth Jair. 
 ^42^ Nobah went and took Kenath and its villages, and called it Nobah, after his own name. 
 
 # 33 
+## List of the camps in which the Israelites spent during the forty years of the desert
 ^1^ These are the journeys of the children of Israel, when they went out of the land of Egypt by their armies under the hand of Moses and Aaron. 
 ^2^ Moses wrote the starting points of their journeys by the commandment of Yahweh. These are their journeys according to their starting points. 
 ^3^ They traveled from Rameses in the first month, on the fifteenth day of the first month; on the next day after the Passover, the children of Israel went out with a high hand in the sight of all the Egyptians, 
@@ -1784,7 +1921,9 @@ These are those who came out of the land of Egypt.
 ^46^ They traveled from Dibon Gad, and encamped in Almon Diblathaim. 
 ^47^ They traveled from Almon Diblathaim, and encamped in the mountains of Abarim, before Nebo. 
 ^48^ They traveled from the mountains of Abarim, and encamped in the plains of Moab by the Jordan at Jericho. 
-^49^ They encamped by the Jordan, from Beth Jeshimoth even to Abel Shittim in the plains of Moab. 
+^49^ They encamped by the Jordan, from Beth Jeshimoth even to Abel Shittim in the plains of Moab.
+
+## Provisional Ordinances of God regarding the conquest and distribution of the West Bank from Canaan
 ^50^ Yahweh spoke to Moses in the plains of Moab by the Jordan at Jericho, saying, 
 ^51^ Speak to the children of Israel, and tell them, “When you pass over the Jordan into the land of Canaan, 
 ^52^ then you shall drive out all the inhabitants of the land from before you, destroy all their stone idols, destroy all their molten images, and demolish all their high places. 
@@ -1795,6 +1934,7 @@ These are those who came out of the land of Egypt.
 ^56^ It shall happen that as I thought to do to them, so I will do to you.” 
 
 # 34 
+## Set the boundaries of the land of Canaan to be taken
 ^1^ Yahweh spoke to Moses, saying, 
 ^2^ “Command the children of Israel, and tell them, ‘When you come into the land of Canaan (this is the land that shall fall to you for an inheritance, even the land of Canaan according to its borders), 
 ^3^ then your south quarter shall be from the wilderness of Zin along by the side of Edom, and your south border shall be from the end of the Salt Sea eastward. 
@@ -1813,8 +1953,9 @@ These are those who came out of the land of Egypt.
 
 ^13^ Moses commanded the children of Israel, saying, “This is the land which you shall inherit by lot, which Yahweh has commanded to give to the nine tribes, and to the half-tribe; 
 ^14^ for the tribe of the children of Reuben according to their fathers’ houses, the tribe of the children of Gad according to their fathers’ houses, and the half-tribe of Manasseh have received their inheritance. 
-^15^ The two tribes and the half-tribe have received their inheritance beyond the Jordan at Jericho eastward, toward the sunrise.” 
+^15^ The two tribes and the half-tribe have received their inheritance beyond the Jordan at Jericho eastward, toward the sunrise.”
 
+## List of men who will be in charge of land distribution
 ^16^ Yahweh spoke to Moses, saying, 
 ^17^ “These are the names of the men who shall divide the land to you for inheritance: Eleazar the priest, and Joshua the son of Nun. 
 ^18^ You shall take one prince of every tribe, to divide the land for inheritance. 
@@ -1831,6 +1972,7 @@ These are those who came out of the land of Egypt.
 ^29^ These are they whom Yahweh commanded to divide the inheritance to the children of Israel in the land of Canaan. 
 
 # 35 
+## Regulations Concerning the Levitical Cities and the Six Free Cities Designated for Assassins
 ^1^ Yahweh spoke to Moses in the plains of Moab by the Jordan at Jericho, saying, 
 ^2^ “Command the children of Israel to give to the Levites cities to dwell in out of their inheritance. You shall give pasture lands for the cities around them to the Levites. 
 ^3^ They shall have the cities to dwell in. Their pasture lands shall be for their livestock, and for their possessions, and for all their animals. 
@@ -1848,8 +1990,9 @@ These are those who came out of the land of Egypt.
 ^12^ The cities shall be for your refuge from the avenger, that the man slayer not die until he stands before the congregation for judgment. 
 ^13^ The cities which you shall give shall be for you six cities of refuge. 
 ^14^ You shall give three cities beyond the Jordan, and you shall give three cities in the land of Canaan. They shall be cities of refuge. 
-^15^ These six cities shall be refuge for the children of Israel, for the stranger, and for the foreigner living among them, that everyone who kills any person unwittingly may flee there. 
+^15^ These six cities shall be refuge for the children of Israel, for the stranger, and for the foreigner living among them, that everyone who kills any person unwittingly may flee there.
 
+## Killer's Punishment
 ^16^ “‘But if he struck him with an instrument of iron, so that he died, he is a murderer. The murderer shall surely be put to death. 
 ^17^ If he struck him with a stone in the hand, by which a man may die, and he died, he is a murderer. The murderer shall surely be put to death. 
 ^18^ Or if he struck him with a weapon of wood in the hand, by which a man may die, and he died, he is a murderer. The murderer shall surely be put to death. 
@@ -1878,11 +2021,13 @@ These are those who came out of the land of Egypt.
 ^34^ You shall not defile the land which you inhabit, where I dwell; for I, Yahweh, dwell among the children of Israel.’” 
 
 # 36 
+## Addendum to the Law of Relics
 ^1^ The heads of the fathers’ households of the family of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near and spoke before Moses and before the princes, the heads of the fathers’ households of the children of Israel. 
 ^2^ They said, “Yahweh commanded my lord to give the land for inheritance by lot to the children of Israel. My lord was commanded by Yahweh to give the inheritance of Zelophehad our brother to his daughters. 
 ^3^ If they are married to any of the sons of the other tribes of the children of Israel, then their inheritance will be taken away from the inheritance of our fathers, and will be added to the inheritance of the tribe to which they shall belong. So it will be taken away from the lot of our inheritance. 
-^4^ When the jubilee of the children of Israel comes, then their inheritance will be added to the inheritance of the tribe to which they shall belong. So their inheritance will be taken away from the inheritance of the tribe of our fathers.” 
+^4^ When the jubilee of the children of Israel comes, then their inheritance will be added to the inheritance of the tribe to which they shall belong. So their inheritance will be taken away from the inheritance of the tribe of our fathers.”
 
+## The new generally applicable regulation on heirloom marriage
 ^5^ Moses commanded the children of Israel according to Yahweh’s word, saying, “The tribe of the sons of Joseph speak what is right. 
 ^6^ This is the thing which Yahweh commands concerning the daughters of Zelophehad, saying, ‘Let them be married to whom they think best, only they shall marry into the family of the tribe of their father. 
 ^7^ So shall no inheritance of the children of Israel move from tribe to tribe; for the children of Israel shall all keep the inheritance of the tribe of his fathers. 

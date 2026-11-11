@@ -1,8 +1,11 @@
 # 1 
+## The unique sovereignty of the Son of God over the Old Testament messengers of God
 ^1^ God, having in the past spoken to the fathers through the prophets at many times and in various ways, 
 ^2^ has at the end of these days spoken to us by his Son, whom he appointed heir of all things, through whom also he made the worlds. 
 ^3^ His Son is the radiance of his glory, the very image of his substance, and upholding all things by the word of his power, who, when he had by himself purified us of our sins, sat down on the right hand of the Majesty on high, 
-^4^ having become as much better than the angels as the more excellent name he has inherited is better than theirs. 
+^4^ having become as much better than the angels as the more excellent name he has inherited is better than theirs.
+
+## Old Testament evidence for the exaltation of the Son of God over the angels
 ^5^ For to which of the angels did he say at any time, “You are my Son. Today I have become your father?”^a^ and again, “I will be to him a Father, and he will be to me a Son?”^b^ 
 ^a^[**1:5** Psalm 2:7] ^b^[**1:5** 2 Samuel 7:14; 1 Chronicles 17:13]
 
@@ -25,11 +28,13 @@
 ^14^ Aren’t they all serving spirits, sent out to do service for the sake of those who will inherit salvation? 
 
 # 2 
+## From there arises the obligation that we voluntarily obey the words that this Son has said to us
 ^1^ Therefore we ought to pay greater attention to the things that were heard, lest perhaps we drift away. 
 ^2^ For if the word spoken through angels proved steadfast, and every transgression and disobedience received a just penalty, 
 ^3^ how will we escape if we neglect so great a salvation—which at the first having been spoken through the Lord, was confirmed to us by those who heard, 
-^4^ God also testifying with them, both by signs and wonders, by various works of power, and by gifts of the Holy Spirit, according to his own will? 
+^4^ God also testifying with them, both by signs and wonders, by various works of power, and by gifts of the Holy Spirit, according to his own will?
 
+## His humiliation, incarnation and suffering of death, does not limit his sublimity
 ^5^ For he didn’t subject the world to come, of which we speak, to angels. 
 ^6^ But one has somewhere testified, saying, “What is man, that you think of him? Or the son of man, that you care for him? 
 ^7^ You made him a little lower than the angels. You crowned him with glory and honor.^a^ 
@@ -37,14 +42,17 @@
 ^a^[**2:7** TR adds “and set him over the works of your hands”] ^b^[**2:8** Psalm 8:4-6 ]
 
 For in that he subjected all things to him, he left nothing that is not subject to him. But now we don’t yet see all things subjected to him. 
-^9^ But we see him who has been made a little lower than the angels, Jesus, because of the suffering of death crowned with glory and honor, that by the grace of God he should taste of death for everyone. 
+^9^ But we see him who has been made a little lower than the angels, Jesus, because of the suffering of death crowned with glory and honor, that by the grace of God he should taste of death for everyone.
 
+## The need for humiliation, especially the suffering of death
 ^10^ For it became him, for whom are all things and through whom are all things, in bringing many children to glory, to make the author of their salvation perfect through sufferings. 
 ^11^ For both he who sanctifies and those who are sanctified are all from one, for which cause he is not ashamed to call them brothers,^a^ 
 ^12^ saying, “I will declare your name to my brothers. Among the congregation I will sing your praise.”^b^ 
 ^a^[**2:11** The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.”] ^b^[**2:12** Psalm 22:22]
 
-^13^ Again, “I will put my trust in him.” Again, “Behold, here I am with the children whom God has given me.”^a^ 
+^13^ Again, “I will put my trust in him.” Again, “Behold, here I am with the children whom God has given me.”^a^
+
+## The beneficial consequences of humiliation
 ^14^ Since then the children have shared in flesh and blood, he also himself in the same way partook of the same, that through death he might bring to nothing him who had the power of death, that is, the devil, 
 ^15^ and might deliver all of them who through fear of death were all their lifetime subject to bondage. 
 ^16^ For most certainly, he doesn’t give help to angels, but he gives help to the offspring^b^ of Abraham. 
@@ -53,12 +61,15 @@ For in that he subjected all things to him, he left nothing that is not subject 
 ^a^[**2:13** Isaiah 8:18] ^b^[**2:16** or, seed] 
 
 # 3 
+## The Son of God Jesus in his majesty over the minister of God Moses
 ^1^ Therefore, holy brothers, partakers of a heavenly calling, consider the Apostle and High Priest of our confession: Jesus, 
 ^2^ who was faithful to him who appointed him, as also Moses was in all his house. 
 ^3^ For he has been counted worthy of more glory than Moses, because he who built the house has more honor than the house. 
 ^4^ For every house is built by someone; but he who built all things is God. 
 ^5^ Moses indeed was faithful in all his house as a servant, for a testimony of those things which were afterward to be spoken, 
-^6^ but Christ^a^ is faithful as a Son over his house. We are his house, if we hold fast our confidence and the glorying of our hope firm to the end. 
+^6^ but Christ^a^ is faithful as a Son over his house. We are his house, if we hold fast our confidence and the glorying of our hope firm to the end.
+
+## The psalmist's warning against unbelief and apostasy
 ^7^ Therefore, even as the Holy Spirit says, “Today if you will hear his voice, 
 ^8^ don’t harden your hearts as in the rebellion, in the day of the trial in the wilderness, 
 ^9^ where your fathers tested me and tried me, and saw my deeds for forty years. 
@@ -67,7 +78,9 @@ For in that he subjected all things to him, he left nothing that is not subject 
 ^a^[**3:6** “Christ” means “Anointed One”.] ^b^[**3:11** Psalm 95:7-11]
 
 ^12^ Beware, brothers, lest perhaps there might be in any one of you an evil heart of unbelief, in falling away from the living God; 
-^13^ but exhort one another day by day, so long as it is called “today”, lest any one of you be hardened by the deceitfulness of sin. 
+^13^ but exhort one another day by day, so long as it is called “today”, lest any one of you be hardened by the deceitfulness of sin.
+
+## The warning example of the Israelites in the desert
 ^14^ For we have become partakers of Christ, if we hold the beginning of our confidence firm to the end, 
 ^15^ while it is said, “Today if you will hear his voice, don’t harden your hearts, as in the rebellion.”^a^ 
 ^a^[**3:15** Psalm 95:7-8]
@@ -78,6 +91,7 @@ For in that he subjected all things to him, he left nothing that is not subject 
 ^19^ We see that they weren’t able to enter in because of unbelief. 
 
 # 4 
+## Interpretation of the promise of the psalm on the rest of God's people
 ^1^ Let’s fear therefore, lest perhaps anyone of you should seem to have come short of a promise of entering into his rest. 
 ^2^ For indeed we have had good news preached to us, even as they also did, but the word they heard didn’t profit them, because it wasn’t mixed with faith by those who heard. 
 ^3^ For we who have believed do enter into that rest, even as he has said, “As I swore in my wrath, they will not enter into my rest;”^a^ although the works were finished from the foundation of the world. 
@@ -91,16 +105,20 @@ For in that he subjected all things to him, he left nothing that is not subject 
 
 ^8^ For if Joshua had given them rest, he would not have spoken afterward of another day. 
 ^9^ There remains therefore a Sabbath rest for the people of God. 
-^10^ For he who has entered into his rest has himself also rested from his works, as God did from his. 
+^10^ For he who has entered into his rest has himself also rested from his works, as God did from his.
+
+## Final exhortation regarding the seriousness and power of the word of God
 ^11^ Let’s therefore give diligence to enter into that rest, lest anyone fall after the same example of disobedience. 
 ^12^ For the word of God is living and active, and sharper than any two-edged sword, piercing even to the dividing of soul and spirit, of both joints and marrow, and is able to discern the thoughts and intentions of the heart. 
-^13^ There is no creature that is hidden from his sight, but all things are naked and laid open before the eyes of him to whom we must give an account. 
+^13^ There is no creature that is hidden from his sight, but all things are naked and laid open before the eyes of him to whom we must give an account.
 
+## Jesus knows human weaknesses from personal experience
 ^14^ Having then a great high priest who has passed through the heavens, Jesus, the Son of God, let’s hold tightly to our confession. 
 ^15^ For we don’t have a high priest who can’t be touched with the feeling of our infirmities, but one who has been in all points tempted like we are, yet without sin. 
 ^16^ Let’s therefore draw near with boldness to the throne of grace, that we may receive mercy and may find grace for help in time of need. 
 
 # 5 
+## With Christ are the necessary requirements of the high priest suggested in Melchizedek
 ^1^ For every high priest, being taken from among men, is appointed for men in things pertaining to God, that he may offer both gifts and sacrifices for sins. 
 ^2^ The high priest can deal gently with those who are ignorant and going astray, because he himself is also surrounded with weakness. 
 ^3^ Because of this, he must offer sacrifices for sins for the people, as well as for himself. 
@@ -114,14 +132,16 @@ For in that he subjected all things to him, he left nothing that is not subject 
 ^7^ He, in the days of his flesh, having offered up prayers and petitions with strong crying and tears to him who was able to save him from death, and having been heard for his godly fear, 
 ^8^ though he was a Son, yet learned obedience by the things which he suffered. 
 ^9^ Having been made perfect, he became to all of those who obey him the author of eternal salvation, 
-^10^ named by God a high priest after the order of Melchizedek. 
+^10^ named by God a high priest after the order of Melchizedek.
 
+## Complain about the immaturity, intellectual indolence and backwardness of readers
 ^11^ About him we have many words to say, and hard to interpret, seeing you have become dull of hearing. 
 ^12^ For although by this time you should be teachers, you again need to have someone teach you the rudiments of the first principles of the revelations of God. You have come to need milk, and not solid food. 
 ^13^ For everyone who lives on milk is not experienced in the word of righteousness, for he is a baby. 
 ^14^ But solid food is for those who are full grown, who by reason of use have their senses exercised to discern good and evil. 
 
 # 6 
+## It's a matter of progress; Relapse is dangerous and can cause incurable damage
 ^1^ Therefore leaving the teaching of the first principles of Christ, let’s press on to perfection—not laying again a foundation of repentance from dead works, of faith toward God, 
 ^2^ of the teaching of baptisms, of laying on of hands, of resurrection of the dead, and of eternal judgment. 
 ^3^ This will we do, if God permits. 
@@ -129,13 +149,15 @@ For in that he subjected all things to him, he left nothing that is not subject 
 ^5^ and tasted the good word of God and the powers of the age to come, 
 ^6^ and then fell away, it is impossible to renew them again to repentance; seeing they crucify the Son of God for themselves again, and put him to open shame. 
 ^7^ For the land which has drunk the rain that comes often on it and produces a crop suitable for them for whose sake it is also tilled, receives blessing from God; 
-^8^ but if it bears thorns and thistles, it is rejected and near being cursed, whose end is to be burned. 
+^8^ but if it bears thorns and thistles, it is rejected and near being cursed, whose end is to be burned.
 
+## Confident hope of overcoming this distressing state of readers and the danger that threatens them
 ^9^ But, beloved, we are persuaded of better things for you, and things that accompany salvation, even though we speak like this. 
 ^10^ For God is not unrighteous, so as to forget your work and the labor of love which you showed toward his name, in that you served the saints, and still do serve them. 
 ^11^ We desire that each one of you may show the same diligence to the fullness of hope even to the end, 
-^12^ that you won’t be sluggish, but imitators of those who through faith and perseverance inherited the promises. 
+^12^ that you won’t be sluggish, but imitators of those who through faith and perseverance inherited the promises.
 
+## The firm foundation of hope in the glory that is surely to be expected lies in the trustworthy promises of God
 ^13^ For when God made a promise to Abraham, since he could swear by no one greater, he swore by himself, 
 ^14^ saying, “Surely blessing I will bless you, and multiplying I will multiply you.”^a^ 
 ^15^ Thus, having patiently endured, he obtained the promise. 
@@ -147,18 +169,21 @@ For in that he subjected all things to him, he left nothing that is not subject 
 ^a^[**6:14** Genesis 22:17] 
 
 # 7 
+## Jesus, the perfect high priest forever after the order of Melchizedek
 ^1^ For this Melchizedek, king of Salem, priest of God Most High, who met Abraham returning from the slaughter of the kings and blessed him, 
 ^2^ to whom also Abraham divided a tenth part of all (being first, by interpretation, “king of righteousness”, and then also “king of Salem”, which means “king of peace”, 
-^3^ without father, without mother, without genealogy, having neither beginning of days nor end of life, but made like the Son of God), remains a priest continually. 
+^3^ without father, without mother, without genealogy, having neither beginning of days nor end of life, but made like the Son of God), remains a priest continually.
 
+## Melchizedek is more worthy than the Levitical priests
 ^4^ Now consider how great this man was, to whom even Abraham the patriarch gave a tenth out of the best plunder. 
 ^5^ They indeed of the sons of Levi who receive the priest’s office have a commandment to take tithes from the people according to the law, that is, of their brothers, though these have come out of the body of Abraham, 
 ^6^ but he whose genealogy is not counted from them has accepted tithes from Abraham, and has blessed him who has the promises. 
 ^7^ But without any dispute the lesser is blessed by the greater. 
 ^8^ Here people who die receive tithes, but there one receives tithes of whom it is testified that he lives. 
 ^9^ We can say that through Abraham even Levi, who receives tithes, has paid tithes, 
-^10^ for he was yet in the body of his father when Melchizedek met him. 
+^10^ for he was yet in the body of his father when Melchizedek met him.
 
+## The change and abolition of the priesthood caused by the peculiar priesthood of Jesus
 ^11^ Now if perfection was through the Levitical priesthood (for under it the people have received the law), what further need was there for another priest to arise after the order of Melchizedek, and not be called after the order of Aaron? 
 ^12^ For the priesthood being changed, there is of necessity a change made also in the law. 
 ^13^ For he of whom these things are said belongs to another tribe, from which no one has officiated at the altar. 
@@ -168,6 +193,7 @@ For in that he subjected all things to him, he left nothing that is not subject 
 ^17^ for it is testified, “You are a priest forever, according to the order of Melchizedek.”^a^ 
 ^a^[**7:17** Psalm 110:4]
 
+## The reason for the change in the order of the priests is that Jesus should be the guarantor of a higher covenant
 ^18^ For there is an annulling of a foregoing commandment because of its weakness and uselessness 
 ^19^ (for the law made nothing perfect), and a bringing in of a better hope, through which we draw near to God. 
 ^20^ Inasmuch as he was not made priest without the taking of an oath 
@@ -178,13 +204,15 @@ For in that he subjected all things to him, he left nothing that is not subject 
 
 ^23^ Many, indeed, have been made priests, because they are hindered from continuing by death. 
 ^24^ But he, because he lives forever, has his priesthood unchangeable. 
-^25^ Therefore he is also able to save to the uttermost those who draw near to God through him, seeing that he lives forever to make intercession for them. 
+^25^ Therefore he is also able to save to the uttermost those who draw near to God through him, seeing that he lives forever to make intercession for them.
 
+## Jesus as the perfect and eternal high priest
 ^26^ For such a high priest was fitting for us: holy, guiltless, undefiled, separated from sinners, and made higher than the heavens; 
 ^27^ who doesn’t need, like those high priests, to offer up sacrifices daily, first for his own sins, and then for the sins of the people. For he did this once for all, when he offered up himself. 
 ^28^ For the law appoints men as high priests who have weakness, but the word of the oath, which came after the law, appoints a Son forever who has been perfected. 
 
 # 8 
+## The superiority of Jesus' heavenly high priestly ministry and the new covenant of which he mediates
 ^1^ Now in the things which we are saying, the main point is this: we have such a high priest, who sat down on the right hand of the throne of the Majesty in the heavens, 
 ^2^ a servant of the sanctuary and of the true tabernacle which the Lord pitched, not man. 
 ^3^ For every high priest is appointed to offer both gifts and sacrifices. Therefore it is necessary that this high priest also have something to offer. 
@@ -204,6 +232,7 @@ For in that he subjected all things to him, he left nothing that is not subject 
 ^13^ In that he says, “A new covenant”, he has made the first obsolete. But that which is becoming obsolete and grows aged is near to vanishing away. 
 
 # 9 
+## The imperfection of the Levitical priestly ministry and the perfection (or superiority) of the high priestly ministry of Christ
 ^1^ Now indeed even the first^a^ covenant had ordinances of divine service and an earthly sanctuary. 
 ^2^ For a tabernacle was prepared. In the first part were the lamp stand, the table, and the show bread, which is called the Holy Place. 
 ^3^ After the second veil was the tabernacle which is called the Holy of Holies, 
@@ -220,7 +249,9 @@ For in that he subjected all things to him, he left nothing that is not subject 
 ^11^ But Christ having come as a high priest of the coming good things, through the greater and more perfect tabernacle, not made with hands, that is to say, not of this creation, 
 ^12^ nor yet through the blood of goats and calves, but through his own blood, entered in once for all into the Holy Place, having obtained eternal redemption. 
 ^13^ For if the blood of goats and bulls, and the ashes of a heifer sprinkling those who have been defiled, sanctify to the cleanness of the flesh, 
-^14^ how much more will the blood of Christ, who through the eternal Spirit offered himself without defect to God, cleanse your conscience from dead works to serve the living God? 
+^14^ how much more will the blood of Christ, who through the eternal Spirit offered himself without defect to God, cleanse your conscience from dead works to serve the living God?
+
+## Christ as mediator of a new covenant and his unique sacrificial death as the eternal means of his heavenly service as high priest
 ^15^ For this reason he is the mediator of a new covenant, since a death has occurred for the redemption of the transgressions that were under the first covenant, that those who have been called may receive the promise of the eternal inheritance. 
 ^16^ For where a last will and testament is, there must of necessity be the death of him who made it. 
 ^17^ For a will is in force where there has been death, for it is never in force while he who made it lives. 
@@ -230,8 +261,9 @@ For in that he subjected all things to him, he left nothing that is not subject 
 ^a^[**9:20** Exodus 24:8]
 
 ^21^ He sprinkled the tabernacle and all the vessels of the ministry in the same way with the blood. 
-^22^ According to the law, nearly everything is cleansed with blood, and apart from shedding of blood there is no remission. 
+^22^ According to the law, nearly everything is cleansed with blood, and apart from shedding of blood there is no remission.
 
+## The unique and bloody self-sacrifice of Christ and its tremendous meaning of salvation for believers
 ^23^ It was necessary therefore that the copies of the things in the heavens should be cleansed with these, but the heavenly things themselves with better sacrifices than these. 
 ^24^ For Christ hasn’t entered into holy places made with hands, which are representations of the true, but into heaven itself, now to appear in the presence of God for us; 
 ^25^ nor yet that he should offer himself often, as the high priest enters into the holy place year by year with blood not his own, 
@@ -240,6 +272,7 @@ For in that he subjected all things to him, he left nothing that is not subject 
 ^28^ so Christ also, having been offered once to bear the sins of many, will appear a second time, not to deal with sin, but to save those who are eagerly waiting for him. 
 
 # 10 
+## The bleak example and inadequacy of the Levitical high priest's annual sacrifice of reconciliation; the perfection of Jesus' sacrifice
 ^1^ For the law, having a shadow of the good to come, not the very image of the things, can never with the same sacrifices year by year, which they offer continually, make perfect those who draw near. 
 ^2^ Or else wouldn’t they have ceased to be offered, because the worshipers, having been once cleansed, would have had no more consciousness of sins? 
 ^3^ But in those sacrifices there is a yearly reminder of sins. 
@@ -251,8 +284,9 @@ For in that he subjected all things to him, he left nothing that is not subject 
 
 ^8^ Previously saying, “Sacrifices and offerings and whole burnt offerings and sacrifices for sin you didn’t desire, neither had pleasure in them” (those which are offered according to the law), 
 ^9^ then he has said, “Behold, I have come to do your will.” He takes away the first, that he may establish the second, 
-^10^ by which will we have been sanctified through the offering of the body of Jesus Christ once for all. 
+^10^ by which will we have been sanctified through the offering of the body of Jesus Christ once for all.
 
+## Jesus' unique and perfectly valid self-sacrifice makes all other sacrifices for sin unnecessary because it made believers completely perfect before God
 ^11^ Every priest indeed stands day by day serving and offering often the same sacrifices, which can never take away sins, 
 ^12^ but he, when he had offered one sacrifice for sins forever, sat down on the right hand of God, 
 ^13^ from that time waiting until his enemies are made the footstool of his feet. 
@@ -265,8 +299,9 @@ then he says,
 ^17^ “I will remember their sins and their iniquities no more.”^a^ 
 ^a^[**10:17** Jeremiah 31:34]
 
-^18^ Now where remission of these is, there is no more offering for sin. 
+^18^ Now where remission of these is, there is no more offering for sin.
 
+## General warning to persevere in faith, hope and love, in community with the whole community
 ^19^ Having therefore, brothers, boldness to enter into the holy place by the blood of Jesus, 
 ^20^ by the way which he dedicated for us, a new and living way, through the veil, that is to say, his flesh, 
 ^21^ and having a great priest over God’s house, 
@@ -274,8 +309,9 @@ then he says,
 ^23^ let’s hold fast the confession of our hope without wavering; for he who promised is faithful. 
 
 ^24^ Let’s consider how to provoke one another to love and good works, 
-^25^ not forsaking our own assembling together, as the custom of some is, but exhorting one another, and so much the more as you see the Day approaching. 
+^25^ not forsaking our own assembling together, as the custom of some is, but exhorting one another, and so much the more as you see the Day approaching.
 
+## Warning of apostasy and divine judgment that will strike those who mock grace
 ^26^ For if we sin willfully after we have received the knowledge of the truth, there remains no more a sacrifice for sins, 
 ^27^ but a certain fearful expectation of judgment, and a fierceness of fire which will devour the adversaries. 
 ^28^ A man who disregards Moses’ law dies without compassion on the word of two or three witnesses. 
@@ -284,6 +320,7 @@ then he says,
 ^31^ It is a fearful thing to fall into the hands of the living God. 
 ^a^[**10:30** Deuteronomy 32:35] ^b^[**10:30** Deuteronomy 32:36; Psalm 135:14]
 
+## Reminder to be faithful and confident in hope in the face of increasing suffering in view of the promised reward
 ^32^ But remember the former days, in which, after you were enlightened, you endured a great struggle with sufferings: 
 ^33^ partly, being exposed to both reproaches and oppressions, and partly, becoming partakers with those who were treated so. 
 ^34^ For you both had compassion on me in my chains and joyfully accepted the plundering of your possessions, knowing that you have for yourselves a better possession and an enduring one in the heavens. 
@@ -296,10 +333,13 @@ then he says,
 ^39^ But we are not of those who shrink back to destruction, but of those who have faith to the saving of the soul. 
 
 # 11 
-^1^ Now faith is assurance of things hoped for, proof of things not seen. 
-^2^ For by this, the elders obtained approval. 
-^3^ By faith we understand that the universe has been framed by the word of God, so that what is seen has not been made out of things which are visible. 
+^1^ Now faith is assurance of things hoped for, proof of things not seen.
 
+## Old Testament models of such faith
+^2^ For by this, the elders obtained approval. 
+^3^ By faith we understand that the universe has been framed by the word of God, so that what is seen has not been made out of things which are visible.
+
+## Three examples of heroes of the faith from the time of the ancestors from Abel to Noé
 ^4^ By faith Abel offered to God a more excellent sacrifice than Cain, through which he had testimony given to him that he was righteous, God testifying with respect to his gifts; and through it he, being dead, still speaks. 
 
 ^5^ By faith Enoch was taken away, so that he wouldn’t see death, and he was not found, because God translated him. For he has had testimony given to him that before his translation he had been well pleasing to God. 
@@ -308,6 +348,7 @@ then he says,
 ^7^ By faith Noah, being warned about things not yet seen, moved with godly fear,^a^ prepared a ship for the saving of his house, through which he condemned the world and became heir of the righteousness which is according to faith. 
 ^a^[**11:7** or, reverence]
 
+## Examples from the time of Abraham and his family
 ^8^ By faith Abraham, when he was called, obeyed to go out to the place which he was to receive for an inheritance. He went out, not knowing where he went. 
 ^9^ By faith he lived as an alien in the land of promise, as in a land not his own, dwelling in tents with Isaac and Jacob, the heirs with him of the same promise. 
 ^10^ For he was looking for the city which has foundations, whose builder and maker is God. 
@@ -330,8 +371,9 @@ then he says,
 
 ^21^ By faith Jacob, when he was dying, blessed each of the sons of Joseph, and worshiped, leaning on the top of his staff. 
 
-^22^ By faith Joseph, when his end was near, made mention of the departure of the children of Israel, and gave instructions concerning his bones. 
+^22^ By faith Joseph, when his end was near, made mention of the departure of the children of Israel, and gave instructions concerning his bones.
 
+## Examples from the time of Moses and Joshua
 ^23^ By faith Moses, when he was born, was hidden for three months by his parents, because they saw that he was a beautiful child; and they were not afraid of the king’s commandment. 
 
 ^24^ By faith Moses, when he had grown up, refused to be called the son of Pharaoh’s daughter, 
@@ -344,8 +386,9 @@ then he says,
 
 ^30^ By faith the walls of Jericho fell down after they had been encircled for seven days. 
 
-^31^ By faith Rahab the prostitute didn’t perish with those who were disobedient, having received the spies in peace. 
+^31^ By faith Rahab the prostitute didn’t perish with those who were disobedient, having received the spies in peace.
 
+## Examples of Heroes of the Faith from Israel's Later History
 ^32^ What more shall I say? For the time would fail me if I told of Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets— 
 ^33^ who through faith subdued kingdoms, worked out righteousness, obtained promises, stopped the mouths of lions,^a^ 
 ^34^ quenched the power of fire,^b^ escaped the edge of the sword,^c^ from weakness were made strong, grew mighty in war, and caused foreign armies to flee. 
@@ -359,10 +402,13 @@ then he says,
 ^40^ God having provided some better thing concerning us, so that apart from us they should not be made perfect. 
 
 # 12 
+## Exhortation to remain faithful, especially with regard to the example of Jesus
 ^1^ Therefore let’s also, seeing we are surrounded by so great a cloud of witnesses, lay aside every weight and the sin which so easily entangles us, and let’s run with perseverance the race that is set before us, 
 ^2^ looking to Jesus, the author and perfecter of faith, who for the joy that was set before him endured the cross, despising its shame, and has sat down at the right hand of the throne of God. 
 
-^3^ For consider him who has endured such contradiction of sinners against himself, that you don’t grow weary, fainting in your souls. 
+^3^ For consider him who has endured such contradiction of sinners against himself, that you don’t grow weary, fainting in your souls.
+
+## Reminder to allow the challenges of suffering to serve as a means to promote the life of faith
 ^4^ You have not yet resisted to blood, striving against sin. 
 ^5^ You have forgotten the exhortation which reasons with you as with children, “My son, don’t take lightly the chastening of the Lord, nor faint when you are reproved by him; 
 ^6^ for whom the Lord loves, he disciplines, and chastises every son whom he receives.”^a^ 
@@ -372,7 +418,9 @@ then he says,
 ^8^ But if you are without discipline, of which all have been made partakers, then you are illegitimate, and not children. 
 ^9^ Furthermore, we had the fathers of our flesh to chasten us, and we paid them respect. Shall we not much rather be in subjection to the Father of spirits and live? 
 ^10^ For they indeed for a few days disciplined us as seemed good to them, but he for our profit, that we may be partakers of his holiness. 
-^11^ All chastening seems for the present to be not joyous but grievous; yet afterward it yields the peaceful fruit of righteousness to those who have been trained by it. 
+^11^ All chastening seems for the present to be not joyous but grievous; yet afterward it yields the peaceful fruit of righteousness to those who have been trained by it.
+
+## A warning to the community to stand up and take care of the weak and vulnerable members
 ^12^ Therefore lift up the hands that hang down and the feeble knees, ^a^ 
 ^13^ and make straight paths for your feet,^b^ so what is lame may not be dislocated, but rather be healed. 
 ^a^[**12:12** Isaiah 35:3] ^b^[**12:13** Proverbs 4:26]
@@ -380,8 +428,9 @@ then he says,
 ^14^ Follow after peace with all men, and the sanctification without which no man will see the Lord, 
 ^15^ looking carefully lest there be any man who falls short of the grace of God, lest any root of bitterness springing up trouble you and many be defiled by it, 
 ^16^ lest there be any sexually immoral person or profane person, like Esau, who sold his birthright for one meal. 
-^17^ For you know that even when he afterward desired to inherit the blessing, he was rejected, for he found no place for a change of mind though he sought it diligently with tears. 
+^17^ For you know that even when he afterward desired to inherit the blessing, he was rejected, for he found no place for a change of mind though he sought it diligently with tears.
 
+## Another reference to the sovereignty of the new covenant and the imminent final decision
 ^18^ For you have not come to a mountain that might be touched and that burned with fire, and to blackness, darkness, storm, 
 ^19^ the sound of a trumpet, and the voice of words; which those who heard it begged that not one more word should be spoken to them, 
 ^20^ for they could not stand that which was commanded, “If even an animal touches the mountain, it shall be stoned”.^a^ ^b^ 
@@ -393,6 +442,7 @@ then he says,
 ^24^ to Jesus, the mediator of a new covenant,^a^ and to the blood of sprinkling that speaks better than that of Abel. 
 ^a^[**12:24** Jeremiah 31:31]
 
+## The glory of the end times, terrifying for the reluctant and blissful for the obedient
 ^25^ See that you don’t refuse him who speaks. For if they didn’t escape when they refused him who warned on the earth, how much more will we not escape who turn away from him who warns from heaven, 
 ^26^ whose voice shook the earth then, but now he has promised, saying, “Yet once more I will shake not only the earth, but also the heavens.”^a^ 
 ^27^ This phrase, “Yet once more” signifies the removing of those things that are shaken, as of things that have been made, that those things which are not shaken may remain. 
@@ -401,6 +451,7 @@ then he says,
 ^a^[**12:26** Haggai 2:6] ^b^[**12:29** Deuteronomy 4:24] 
 
 # 13 
+## Individual warnings for fraternal love, moral purity and the promotion of community life
 ^1^ Let brotherly love continue. 
 ^2^ Don’t forget to show hospitality to strangers, for in doing so, some have entertained angels without knowing it. 
 ^3^ Remember those who are in bonds, as bound with them, and those who are ill-treated, since you are also in the body. 
@@ -410,6 +461,7 @@ then he says,
 ^6^ So that with good courage we say, “The Lord is my helper. I will not fear. What can man do to me?”^b^ 
 ^a^[**13:5** Deuteronomy 31:6] ^b^[**13:6** Psalm 118:6-7]
 
+## Main admonition to be faithful to the rulers and to Jesus, the one who remains in eternity and the end of the service of the sacrifice for Jewish sin
 ^7^ Remember your leaders, men who spoke to you the word of God, and considering the results of their conduct, imitate their faith. 
 ^8^ Jesus Christ is the same yesterday, today, and forever. 
 ^9^ Don’t be carried away by various and strange teachings, for it is good that the heart be established by grace, not by foods, through which those who were so occupied were not benefited. 
@@ -419,15 +471,18 @@ then he says,
 ^12^ Therefore Jesus also, that he might sanctify the people through his own blood, suffered outside of the gate. 
 ^13^ Let’s therefore go out to him outside of the camp, bearing his reproach. 
 ^14^ For we don’t have here an enduring city, but we seek that which is to come. 
-^15^ Through him, then, let’s offer up a sacrifice of praise to God ^b^ continually, that is, the fruit of lips which proclaim allegiance to his name. 
+^15^ Through him, then, let’s offer up a sacrifice of praise to God ^b^ continually, that is, the fruit of lips which proclaim allegiance to his name.
+
+## Repeated individual warnings, especially regarding behavior against community leaders
 ^16^ But don’t forget to be doing good and sharing, for with such sacrifices God is well pleased. 
 ^a^[**13:11** Leviticus 16:27] ^b^[**13:15** Psalm 50:23]
 
 ^17^ Obey your leaders and submit to them, for they watch on behalf of your souls, as those who will give account, that they may do this with joy and not with groaning, for that would be unprofitable for you. 
 
 ^18^ Pray for us, for we are persuaded that we have a good conscience, desiring to live honorably in all things. 
-^19^ I strongly urge you to do this, that I may be restored to you sooner. 
+^19^ I strongly urge you to do this, that I may be restored to you sooner.
 
+## Closing of the letter, blessing, personal messages, greetings
 ^20^ Now may the God of peace, who brought again from the dead the great shepherd of the sheep with the blood of an eternal covenant, our Lord Jesus, 
 ^21^ make you complete in every good work to do his will, working in you that which is well pleasing in his sight, through Jesus Christ, to whom be the glory forever and ever. Amen. 
 

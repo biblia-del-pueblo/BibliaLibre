@@ -1,24 +1,29 @@
 # 1 
+## Blessings
 ^1^ Paul, an apostle of Christ^a^ Jesus through the will of God, and Timothy our brother, to the assembly of God which is at Corinth, with all the saints who are in the whole of Achaia: 
 ^2^ Grace to you and peace from God our Father and the Lord Jesus Christ. 
 ^a^[**1:1** “Christ” means “Anointed One”.]
 
+## The apostle's prayer of thanksgiving for the consolation he and his readers receive from God in suffering
 ^3^ Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, 
 ^4^ who comforts us in all our affliction, that we may be able to comfort those who are in any affliction, through the comfort with which we ourselves are comforted by God. 
 ^5^ For as the sufferings of Christ abound to us, even so our comfort also abounds through Christ. 
 ^6^ But if we are afflicted, it is for your comfort and salvation. If we are comforted, it is for your comfort, which produces in you the patient enduring of the same sufferings which we also suffer. 
-^7^ Our hope for you is steadfast, knowing that, since you are partakers of the sufferings, so you are also of the comfort. 
+^7^ Our hope for you is steadfast, knowing that, since you are partakers of the sufferings, so you are also of the comfort.
 
+## Message on the salvation of Paul and his collaborators from the danger of death
 ^8^ For we don’t desire to have you uninformed, brothers,^a^ concerning our affliction which happened to us in Asia: that we were weighed down exceedingly, beyond our power, so much that we despaired even of life. 
 ^9^ Yes, we ourselves have had the sentence of death within ourselves, that we should not trust in ourselves, but in God who raises the dead, 
 ^10^ who delivered us out of so great a death, and does deliver, on whom we have set our hope that he will also still deliver us, 
 ^11^ you also helping together on our behalf by your supplication; that, for the gift given to us by means of many, thanks may be given by many persons on your behalf. 
 ^a^[**1:8** The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.”]
 
+## The honest way of life of the apostle and his truthfulness in correspondence
 ^12^ For our boasting is this: the testimony of our conscience that in holiness and sincerity of God, not in fleshly wisdom but in the grace of God, we behaved ourselves in the world, and more abundantly toward you. 
 ^13^ For we write no other things to you than what you read or even acknowledge, and I hope you will acknowledge to the end— 
-^14^ as also you acknowledged us in part—that we are your boasting, even as you also are ours, in the day of our Lord Jesus. 
+^14^ as also you acknowledged us in part—that we are your boasting, even as you also are ours, in the day of our Lord Jesus.
 
+## The apostle's account of the change in his travel plans; Indication of his trustworthiness as an apostle of Christ and faithful God
 ^15^ In this confidence, I was determined to come first to you, that you might have a second benefit, 
 ^16^ and by you to pass into Macedonia, and again from Macedonia to come to you, and to be sent forward by you on my journey to Judea. 
 ^17^ When I therefore planned this, did I show fickleness? Or the things that I plan, do I plan according to the flesh, that with me there should be the “Yes, yes” and the “No, no?” 
@@ -27,8 +32,9 @@
 ^20^ For however many are the promises of God, in him is the “Yes.” Therefore also through him is the “Amen”, to the glory of God through us. 
 
 ^21^ Now he who establishes us with you in Christ and anointed us is God, 
-^22^ who also sealed us and gave us the down payment of the Spirit in our hearts. 
+^22^ who also sealed us and gave us the down payment of the Spirit in our hearts.
 
+## Statement of the real reason Paul did not come to Corinth
 ^23^ But I call God for a witness to my soul, that to spare you, I didn’t come to Corinth. 
 ^24^ We don’t control your faith, but are fellow workers with you for your joy. For you stand firm in faith. 
 
@@ -36,16 +42,18 @@
 ^1^ But I determined this for myself, that I would not come to you again in sorrow. 
 ^2^ For if I make you grieve, then who will make me glad but he who is made to grieve by me? 
 ^3^ And I wrote this very thing to you, so that when I came, I wouldn’t have sorrow from them of whom I ought to rejoice; having confidence in you all that my joy would be shared by all of you. 
-^4^ For out of much affliction and anguish of heart I wrote to you with many tears, not that you should be made to grieve, but that you might know the love that I have so abundantly for you. 
+^4^ For out of much affliction and anguish of heart I wrote to you with many tears, not that you should be made to grieve, but that you might know the love that I have so abundantly for you.
 
+## Closing the gap between Paul and the Corinthians; Recommendation of leniency against the repentant malefactor
 ^5^ But if any has caused sorrow, he has caused sorrow not to me, but in part (that I not press too heavily) to you all. 
 ^6^ This punishment which was inflicted by the many is sufficient for such a one; 
 ^7^ so that, on the contrary, you should rather forgive him and comfort him, lest by any means such a one should be swallowed up with his excessive sorrow. 
 ^8^ Therefore I beg you to confirm your love toward him. 
 ^9^ For to this end I also wrote, that I might know the proof of you, whether you are obedient in all things. 
 ^10^ Now I also forgive whomever you forgive anything. For if indeed I have forgiven anything, I have forgiven that one for your sakes in the presence of Christ, 
-^11^ that no advantage may be gained over us by Satan, for we are not ignorant of his schemes. 
+^11^ that no advantage may be gained over us by Satan, for we are not ignorant of his schemes.
 
+## The experiences of the apostle in Troas and Macedonia; His praise to God for the victorious effect of the proclamation of salvation
 ^12^ Now when I came to Troas for the Good News of Christ, and when a door was opened to me in the Lord, 
 ^13^ I had no relief for my spirit, because I didn’t find Titus my brother, but taking my leave of them, I went out into Macedonia. 
 
@@ -55,20 +63,24 @@
 ^17^ For we are not as so many, peddling the word of God. But as of sincerity, but as of God, in the sight of God, we speak in Christ. 
 
 # 3 
+## The church of Corinth as a letter of recommendation for Paul and God as a sure foundation of trust for the apostle
 ^1^ Are we beginning again to commend ourselves? Or do we need, as do some, letters of commendation to you or from you? 
 ^2^ You are our letter, written in our hearts, known and read by all men, 
 ^3^ being revealed that you are a letter of Christ, served by us, written not with ink, but with the Spirit of the living God; not in tablets of stone, but in tablets that are hearts of flesh. 
 
 ^4^ Such confidence we have through Christ toward God, 
-^5^ not that we are sufficient of ourselves to account anything as from ourselves; but our sufficiency is from God, 
+^5^ not that we are sufficient of ourselves to account anything as from ourselves; but our sufficiency is from God,
+
+## The glory of the new covenant and the apostolic ministry over the old covenant and the ministry of Moses
 ^6^ who also made us sufficient as servants of a new covenant, not of the letter but of the Spirit. For the letter kills, but the Spirit gives life. 
 
 ^7^ But if the service of death, written engraved on stones, came with glory, so that the children of Israel could not look steadfastly on the face of Moses for the glory of his face, which was passing away, 
 ^8^ won’t service of the Spirit be with much more glory? 
 ^9^ For if the service of condemnation has glory, the service of righteousness exceeds much more in glory. 
 ^10^ For most certainly that which has been made glorious has not been made glorious in this respect, by reason of the glory that surpasses. 
-^11^ For if that which passes away was with glory, much more that which remains is in glory. 
+^11^ For if that which passes away was with glory, much more that which remains is in glory.
 
+## The difference between the two types of services is evident both in their servers and in their effects
 ^12^ Having therefore such a hope, we use great boldness of speech, 
 ^13^ and not as Moses, who put a veil on his face so that the children of Israel wouldn’t look steadfastly on the end of that which was passing away. 
 ^14^ But their minds were hardened, for until this very day at the reading of the old covenant the same veil remains, because in Christ it passes away. 
@@ -78,6 +90,7 @@
 ^18^ But we all, with unveiled face seeing the glory of the Lord as in a mirror, are transformed into the same image from glory to glory, even as from the Lord, the Spirit. 
 
 # 4 
+## Paul and his followers appear as true messengers of Christ with courage, truthfulness and divine illumination
 ^1^ Therefore, seeing we have this ministry, even as we obtained mercy, we don’t faint. 
 ^2^ But we have renounced the hidden things of shame, not walking in craftiness nor handling the word of God deceitfully, but by the manifestation of the truth commending ourselves to every man’s conscience in the sight of God. 
 ^3^ Even if our Good News is veiled, it is veiled in those who are dying, 
@@ -86,6 +99,7 @@
 ^6^ seeing it is God who said, “Light will shine out of darkness,”^a^ who has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ. 
 ^a^[**4:6** Genesis 1:3]
 
+## The external suffering of the apostles in addition to their trust in faith
 ^7^ But we have this treasure in clay vessels, that the exceeding greatness of the power may be of God and not from ourselves. 
 ^8^ We are pressed on every side, yet not crushed; perplexed, yet not to despair; 
 ^9^ pursued, yet not forsaken; struck down, yet not destroyed; 
@@ -98,11 +112,13 @@
 ^15^ For all things are for your sakes, that the grace, being multiplied through the many, may cause the thanksgiving to abound to the glory of God. 
 ^a^[**4:13** Psalm 116:10]
 
+## The renewal of the spiritual man takes place at the death of the outer man
 ^16^ Therefore we don’t faint, but though our outward person is decaying, yet our inward person is renewed day by day. 
 ^17^ For our light affliction, which is for the moment, works for us more and more exceedingly an eternal weight of glory, 
 ^18^ while we don’t look at the things which are seen, but at the things which are not seen. For the things which are seen are temporal, but the things which are not seen are eternal. 
 
 # 5 
+## Paul's hope and longing for heavenly embodiment and heavenly home
 ^1^ For we know that if the earthly house of our tent is dissolved, we have a building from God, a house not made with hands, eternal, in the heavens. 
 ^2^ For most certainly in this we groan, longing to be clothed with our habitation which is from heaven, 
 ^3^ if indeed being clothed, we will not be found naked. 
@@ -113,11 +129,14 @@
 ^7^ for we walk by faith, not by sight. 
 ^8^ We are courageous, I say, and are willing rather to be absent from the body and to be at home with the Lord. 
 ^9^ Therefore also we make it our aim, whether at home or absent, to be well pleasing to him. 
-^10^ For we must all be revealed before the judgment seat of Christ that each one may receive the things in the body according to what he has done, whether good or bad. 
+^10^ For we must all be revealed before the judgment seat of Christ that each one may receive the things in the body according to what he has done, whether good or bad.
 
+## Personal comments, especially about your relationship with the community
 ^11^ Knowing therefore the fear of the Lord, we persuade men, but we are revealed to God, and I hope that we are revealed also in your consciences. 
 ^12^ For we are not commending ourselves to you again, but speak as giving you occasion of boasting on our behalf, that you may have something to answer those who boast in appearance and not in heart. 
-^13^ For if we are beside ourselves, it is for God. Or if we are of sober mind, it is for you. 
+^13^ For if we are beside ourselves, it is for God. Or if we are of sober mind, it is for you.
+
+## Reference to the peculiar content of his sermon and the glory of his service of reconciliation
 ^14^ For the love of Christ compels us; because we judge thus: that one died for all, therefore all died. 
 ^15^ He died for all, that those who live should no longer live to themselves, but to him who for their sakes died and rose again. 
 
@@ -131,6 +150,7 @@
 ^21^ For him who knew no sin he made to be sin on our behalf, so that in him we might become the righteousness of God. 
 
 # 6 
+## Paul, as an apostle, is exemplary for his self-sacrifice and selfless professional accomplishment in the service of God
 ^1^ Working together, we entreat also that you do not receive the grace of God in vain. 
 ^2^ For he says, “At an acceptable time I listened to you. In a day of salvation I helped you.”^a^ 
 ^a^[**6:2** Isaiah 49:8]
@@ -143,12 +163,14 @@ Behold, now is the acceptable time. Behold, now is the day of salvation.
 ^7^ in the word of truth, in the power of God, by the armor of righteousness on the right hand and on the left, 
 ^8^ by glory and dishonor, by evil report and good report, as deceivers and yet true, 
 ^9^ as unknown and yet well known, as dying and behold—we live, as punished and not killed, 
-^10^ as sorrowful yet always rejoicing, as poor yet making many rich, as having nothing and yet possessing all things. 
+^10^ as sorrowful yet always rejoicing, as poor yet making many rich, as having nothing and yet possessing all things.
 
+## Solemn and loving petition to the Corinthians for full restoration of fellowship
 ^11^ Our mouth is open to you, Corinthians. Our heart is enlarged. 
 ^12^ You are not restricted by us, but you are restricted by your own affections. 
-^13^ Now in return—I speak as to my children—you also open your hearts. 
+^13^ Now in return—I speak as to my children—you also open your hearts.
 
+## Warning against pagan beings and demand for perfect sanctification
 ^14^ Don’t be unequally yoked with unbelievers, for what fellowship do righteousness and iniquity have? Or what fellowship does light have with darkness? 
 ^15^ What agreement does Christ have with Belial? Or what portion does a believer have with an unbeliever? 
 ^16^ What agreement does a temple of God have with idols? For you are a temple of the living God. Even as God said, “I will dwell in them and walk in them. I will be their God and they will be my people.”^a^ 
@@ -160,16 +182,19 @@ says the Lord Almighty.”^a^
 ^a^[**6:18** 2 Samuel 7:14; 7:8] 
 
 # 7 
-^1^ Having therefore these promises, beloved, let’s cleanse ourselves from all defilement of flesh and spirit, perfecting holiness in the fear of God. 
+^1^ Having therefore these promises, beloved, let’s cleanse ourselves from all defilement of flesh and spirit, perfecting holiness in the fear of God.
 
+## The request of the apostle of love, affirmation of love and testimony of trust
 ^2^ Open your hearts to us. We wronged no one. We corrupted no one. We took advantage of no one. 
 ^3^ I say this not to condemn you, for I have said before that you are in our hearts to die together and live together. 
-^4^ Great is my boldness of speech toward you. Great is my boasting on your behalf. I am filled with comfort. I overflow with joy in all our affliction. 
+^4^ Great is my boldness of speech toward you. Great is my boasting on your behalf. I am filled with comfort. I overflow with joy in all our affliction.
 
+## Joy of the apostle for the arrival and message of Titus
 ^5^ For even when we had come into Macedonia, our flesh had no relief, but we were afflicted on every side. Fightings were outside. Fear was inside. 
 ^6^ Nevertheless, he who comforts the lowly, God, comforted us by the coming of Titus, 
-^7^ and not by his coming only, but also by the comfort with which he was comforted in you while he told us of your longing, your mourning, and your zeal for me, so that I rejoiced still more. 
+^7^ and not by his coming only, but also by the comfort with which he was comforted in you while he told us of your longing, your mourning, and your zeal for me, so that I rejoiced still more.
 
+## The apostle's joy at the salutary effect of the penal letter, at the fully restored understanding, and at the favorable report of Titus
 ^8^ For though I grieved you with my letter, I do not regret it, though I did regret it. For I see that my letter made you grieve, though just for a while. 
 ^9^ I now rejoice, not that you were grieved, but that you were grieved to repentance. For you were grieved in a godly way, that you might suffer loss by us in nothing. 
 ^10^ For godly sorrow produces repentance leading to salvation, which brings no regret. But the sorrow of the world produces death. 
@@ -181,11 +206,14 @@ says the Lord Almighty.”^a^
 ^16^ I rejoice that in everything I am confident concerning you. 
 
 # 8 
+## The gratifying (exemplary) success of the collection with Macedonian communities
 ^1^ Moreover, brothers, we make known to you the grace of God which has been given in the assemblies of Macedonia, 
 ^2^ how in a severe ordeal of affliction, the abundance of their joy and their deep poverty abounded to the riches of their generosity. 
 ^3^ For according to their power, I testify, yes and beyond their power, they gave of their own accord, 
 ^4^ begging us with much entreaty to receive this grace and the fellowship in the service to the saints. 
-^5^ This was not as we had expected, but first they gave their own selves to the Lord, and to us through the will of God. 
+^5^ This was not as we had expected, but first they gave their own selves to the Lord, and to us through the will of God.
+
+## Invitation to the Corinthians to actively participate in the collection
 ^6^ So we urged Titus, that as he had made a beginning before, so he would also complete in you this grace. 
 ^7^ But as you abound in everything—in faith, utterance, knowledge, all earnestness, and in your love to us—see that you also abound in this grace. 
 
@@ -199,6 +227,7 @@ says the Lord Almighty.”^a^
 ^15^ As it is written, “He who gathered much had nothing left over, and he who gathered little had no lack.”^a^ 
 ^a^[**8:15** Exodus 16:18]
 
+## Recommendation of Tito and the other two deputies of Pablo
 ^16^ But thanks be to God, who puts the same earnest care for you into the heart of Titus. 
 ^17^ For he indeed accepted our exhortation, but being himself very earnest, he went out to you of his own accord. 
 ^18^ We have sent together with him the brother whose praise in the Good News is known throughout all the assemblies. 
@@ -210,12 +239,14 @@ says the Lord Almighty.”^a^
 ^24^ Therefore show the proof of your love to them before the assemblies, and of our boasting on your behalf. 
 
 # 9 
+## What Paul has so far praised of the Corinthians and now expects and what reasons have determined him to send the brothers ahead
 ^1^ It is indeed unnecessary for me to write to you concerning the service to the saints, 
 ^2^ for I know your readiness, of which I boast on your behalf to those of Macedonia, that Achaia has been prepared for the past year. Your zeal has stirred up very many of them. 
 ^3^ But I have sent the brothers so that our boasting on your behalf may not be in vain in this respect, that, just as I said, you may be prepared, 
 ^4^ lest by any means, if anyone from Macedonia comes there with me and finds you unprepared, we (to say nothing of you) would be disappointed in this confident boasting. 
-^5^ I thought it necessary therefore to entreat the brothers that they would go before to you and arrange ahead of time the generous gift that you promised before, that the same might be ready as a matter of generosity, and not of greediness. 
+^5^ I thought it necessary therefore to entreat the brothers that they would go before to you and arrange ahead of time the generous gift that you promised before, that the same might be ready as a matter of generosity, and not of greediness.
 
+## Another invitation to actively participate in the collection in reference to the beneficial effects of labor of love
 ^6^ Remember this: he who sows sparingly will also reap sparingly. He who sows bountifully will also reap bountifully. 
 ^7^ Let each man give according as he has determined in his heart, not grudgingly or under compulsion, for God loves a cheerful giver. 
 ^8^ And God is able to make all grace abound to you, that you, always having all sufficiency in everything, may abound to every good work. 
@@ -230,19 +261,22 @@ says the Lord Almighty.”^a^
 ^15^ Now thanks be to God for his unspeakable gift! 
 
 # 10 
+## In contrast to the accusation of weakness of character and carnal change, Paul points out the tried and tested power of his work to his opponents
 ^1^ Now I Paul, myself, entreat you by the humility and gentleness of Christ, I who in your presence am lowly among you, but being absent am bold toward you. 
 ^2^ Yes, I beg you that I may not, when present, show courage with the confidence with which I intend to be bold against some, who consider us to be walking according to the flesh. 
 ^3^ For though we walk in the flesh, we don’t wage war according to the flesh; 
 ^4^ for the weapons of our warfare are not of the flesh, but mighty before God to the throwing down of strongholds, 
 ^5^ throwing down imaginations and every high thing that is exalted against the knowledge of God and bringing every thought into captivity to the obedience of Christ, 
-^6^ and being in readiness to avenge all disobedience when your obedience is made full. 
+^6^ and being in readiness to avenge all disobedience when your obedience is made full.
 
+## The apostle's right to boast in his office and defend himself against charges of personal worthlessness
 ^7^ Do you look at things only as they appear in front of your face? If anyone trusts in himself that he is Christ’s, let him consider this again with himself, that even as he is Christ’s, so we also are Christ’s. 
 ^8^ For even if I boast somewhat abundantly concerning our authority, which the Lord gave for building you up and not for casting you down, I will not be ashamed, 
 ^9^ that I may not seem as if I desire to terrify you by my letters. 
 ^10^ For, “His letters”, they say, “are weighty and strong, but his bodily presence is weak, and his speech is despised.” 
-^11^ Let such a person consider this, that what we are in word by letters when we are absent, such are we also in deed when we are present. 
+^11^ Let such a person consider this, that what we are in word by letters when we are absent, such are we also in deed when we are present.
 
+## The difference between the self-fame correctly practiced by Pablo and the conceit of his opponents
 ^12^ For we are not bold to number or compare ourselves with some of those who commend themselves. But they themselves, measuring themselves by themselves, and comparing themselves with themselves, are without understanding. 
 ^13^ But we will not boast beyond proper limits, but within the boundaries with which God appointed to us, which reach even to you. 
 ^14^ For we don’t stretch ourselves too much, as though we didn’t reach to you. For we came even as far as to you with the Good News of Christ, 
@@ -253,13 +287,15 @@ says the Lord Almighty.”^a^
 ^a^[**10:17** Jeremiah 9:24 ] 
 
 # 11 
+## Why and with what right does the apostle praise himself
 ^1^ I wish that you would bear with me in a little foolishness, but indeed you do bear with me. 
 ^2^ For I am jealous over you with a godly jealousy. For I promised you in marriage to one husband, that I might present you as a pure virgin to Christ. 
 ^3^ But I am afraid that somehow, as the serpent deceived Eve in his craftiness, so your minds might be corrupted from the simplicity that is in Christ. 
 ^4^ For if he who comes preaches another Jesus whom we didn’t preach, or if you receive a different spirit which you didn’t receive, or a different “good news” which you didn’t accept, you put up with that well enough. 
 ^5^ For I reckon that I am not at all behind the very best apostles. 
-^6^ But though I am unskilled in speech, yet I am not unskilled in knowledge. No, in every way we have been revealed to you in all things. 
+^6^ But though I am unskilled in speech, yet I am not unskilled in knowledge. No, in every way we have been revealed to you in all things.
 
+## The glory of their selfless (gratuitous) efficacy in contrast to the opponents who work in the service of Satan
 ^7^ Or did I commit a sin in humbling myself that you might be exalted, because I preached to you God’s Good News free of charge? 
 ^8^ I robbed other assemblies, taking wages from them that I might serve you. 
 ^9^ When I was present with you and was in need, I wasn’t a burden on anyone, for the brothers, when they came from Macedonia, supplied the measure of my need. In everything I kept myself from being burdensome to you, and I will continue to do so. 
@@ -269,13 +305,16 @@ says the Lord Almighty.”^a^
 ^12^ But what I do, that I will continue to do, that I may cut off opportunity from those who desire an opportunity, that in which they boast, they may be recognized just like us. 
 ^13^ For such men are false apostles, deceitful workers, masquerading as Christ’s apostles. 
 ^14^ And no wonder, for even Satan masquerades as an angel of light. 
-^15^ It is no great thing therefore if his servants also masquerade as servants of righteousness, whose end will be according to their works. 
+^15^ It is no great thing therefore if his servants also masquerade as servants of righteousness, whose end will be according to their works.
 
+## Another request from the apostle for his own silly fame
 ^16^ I say again, let no one think me foolish. But if so, yet receive me as foolish, that I also may boast a little. 
 ^17^ That which I speak, I don’t speak according to the Lord, but as in foolishness, in this confidence of boasting. 
 ^18^ Seeing that many boast after the flesh, I will also boast. 
 ^19^ For you bear with the foolish gladly, being wise. 
-^20^ For you bear with a man if he brings you into bondage, if he devours you, if he takes you captive, if he exalts himself, or if he strikes you on the face. 
+^20^ For you bear with a man if he brings you into bondage, if he devours you, if he takes you captive, if he exalts himself, or if he strikes you on the face.
+
+## The apostle boasts of his ancestry, of his office, of the fullness of his sufferings in apostolic service
 ^21^ To my shame, I speak as though we had been weak. Yet in whatever way anyone is bold (I speak in foolishness), I am bold also. 
 ^22^ Are they Hebrews? So am I. Are they Israelites? So am I. Are they the offspring^a^ of Abraham? So am I. 
 ^23^ Are they servants of Christ? (I speak as one beside himself.) I am more so: in labors more abundantly, in prisons more abundantly, in stripes above measure, and in deaths often. 
@@ -294,6 +333,7 @@ says the Lord Almighty.”^a^
 ^33^ I was let down in a basket through a window by the wall, and escaped his hands. 
 
 # 12 
+## The apostle boasts of the highest graces (through heavenly revelations) and the deepest humiliation (through physical suffering)
 ^1^ It is doubtless not profitable for me to boast, but I will come to visions and revelations of the Lord. 
 ^2^ I know a man in Christ who was caught up into the third heaven fourteen years ago—whether in the body, I don’t know, or whether out of the body, I don’t know; God knows. 
 ^3^ I know such a man (whether in the body, or outside of the body, I don’t know; God knows), 
@@ -304,22 +344,27 @@ says the Lord Almighty.”^a^
 ^8^ Concerning this thing, I begged the Lord three times that it might depart from me. 
 ^9^ He has said to me, [“My grace is sufficient for you, for my power is made perfect in weakness.”]{.wj} Most gladly therefore I will rather glory in my weaknesses, that the power of Christ may rest on me. 
 
-^10^ Therefore I take pleasure in weaknesses, in injuries, in necessities, in persecutions, and in distresses, for Christ’s sake. For when I am weak, then am I strong. 
+^10^ Therefore I take pleasure in weaknesses, in injuries, in necessities, in persecutions, and in distresses, for Christ’s sake. For when I am weak, then am I strong.
+
+## Reference to the injustice of the Corinthians
 ^11^ I have become foolish in boasting. You compelled me, for I ought to have been commended by you, for I am in no way inferior to the very best apostles, though I am nothing. 
 ^12^ Truly the signs of an apostle were worked among you in all perseverance, in signs and wonders and mighty works. 
-^13^ For what is there in which you were made inferior to the rest of the assemblies, unless it is that I myself was not a burden to you? Forgive me this wrong! 
+^13^ For what is there in which you were made inferior to the rest of the assemblies, unless it is that I myself was not a burden to you? Forgive me this wrong!
 
+## Announcement of the imminent arrival of the apostle; rejection of a libel
 ^14^ Behold, this is the third time I am ready to come to you, and I will not be a burden to you; for I seek not your possessions, but you. For the children ought not to save up for the parents, but the parents for the children. 
 ^15^ I will most gladly spend and be spent for your souls. If I love you more abundantly, am I loved the less? 
 ^16^ Even so, I myself didn’t burden you. But you might say that being crafty, I caught you with deception. 
 ^17^ Did I take advantage of you by anyone of those whom I have sent to you? 
-^18^ I exhorted Titus, and I sent the brother with him. Did Titus take any advantage of you? Didn’t we walk in the same spirit? Didn’t we walk in the same steps? 
+^18^ I exhorted Titus, and I sent the brother with him. Did Titus take any advantage of you? Didn’t we walk in the same spirit? Didn’t we walk in the same steps?
 
+## Rectification of an opinion of the Corinthians; Apostle's fear for the moral status of the community
 ^19^ Again, do you think that we are excusing ourselves to you? In the sight of God we speak in Christ. But all things, beloved, are for your edifying. 
 ^20^ For I am afraid that perhaps when I come, I might find you not the way I want to, and that I might be found by you as you don’t desire, that perhaps there would be strife, jealousy, outbursts of anger, factions, slander, whisperings, proud thoughts, or riots, 
 ^21^ that again when I come my God would humble me before you, and I would mourn for many of those who have sinned before now, and not repented of the uncleanness, sexual immorality, and lustfulness which they committed. 
 
 # 13 
+## Announcement of impartial judgment and ruthless judgment
 ^1^ This is the third time I am coming to you. “At the mouth of two or three witnesses shall every word be established.”^a^ 
 ^2^ I have warned previously, and I warn again, as when I was present the second time, so now, being absent, I write to those who have sinned before now and to all the rest that if I come again, I will not spare, 
 ^3^ seeing that you seek a proof of Christ who speaks in me who is not weak, but is powerful in you. 
@@ -332,8 +377,9 @@ says the Lord Almighty.”^a^
 ^7^ Now I pray to God that you do no evil; not that we may appear approved, but that you may do that which is honorable, though we may seem to have failed. 
 ^8^ For we can do nothing against the truth, but for the truth. 
 ^9^ For we rejoice when we are weak and you are strong. We also pray for this: your becoming perfect. 
-^10^ For this cause I write these things while absent, that I may not deal sharply when present, according to the authority which the Lord gave me for building up and not for tearing down. 
+^10^ For this cause I write these things while absent, that I may not deal sharply when present, according to the authority which the Lord gave me for building up and not for tearing down.
 
+## Final warnings, greetings and blessings
 ^11^ Finally, brothers, rejoice! Be perfected. Be comforted. Be of the same mind. Live in peace, and the God of love and peace will be with you. 
 ^12^ Greet one another with a holy kiss. 
 

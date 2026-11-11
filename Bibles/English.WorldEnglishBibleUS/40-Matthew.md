@@ -1,4 +1,5 @@
 # 1 
+## Family tree of Jesus as a descendant of Abraham and David
 ^1^ The book of the genealogy of Jesus Christ,^a^ the son of David, the son of Abraham. 
 ^a^[**1:1** Messiah (Hebrew) and Christ (Greek) both mean “Anointed One”]
 
@@ -21,8 +22,9 @@
 ^16^ Jacob became the father of Joseph, the husband of Mary, from whom was born Jesus,^a^ who is called Christ. 
 ^a^[**1:16** “Jesus” means “Salvation”.]
 
-^17^ So all the generations from Abraham to David are fourteen generations; from David to the exile to Babylon fourteen generations; and from the carrying away to Babylon to the Christ, fourteen generations. 
+^17^ So all the generations from Abraham to David are fourteen generations; from David to the exile to Babylon fourteen generations; and from the carrying away to Babylon to the Christ, fourteen generations.
 
+## Birth and name of Jesus
 ^18^ Now the birth of Jesus Christ was like this: After his mother, Mary, was engaged to Joseph, before they came together, she was found pregnant by the Holy Spirit. 
 ^19^ Joseph, her husband, being a righteous man, and not willing to make her a public example, intended to put her away secretly. 
 ^20^ But when he thought about these things, behold,^a^ an angel of the Lord appeared to him in a dream, saying, “Joseph, son of David, don’t be afraid to take to yourself Mary as your wife, for that which is conceived in her is of the Holy Spirit. 
@@ -37,6 +39,7 @@
 ^25^ and didn’t know her sexually until she had given birth to her firstborn son. He named him Jesus. 
 
 # 2 
+## The wise men from the east come to the baby Jesus and pay homage to him
 ^1^ Now when Jesus was born in Bethlehem of Judea in the days of King Herod, behold, wise men^a^ from the east came to Jerusalem, saying, 
 ^2^ “Where is he who is born King of the Jews? For we saw his star in the east, and have come to worship him.” 
 ^3^ When King Herod heard it, he was troubled, and all Jerusalem with him. 
@@ -51,19 +54,22 @@
 ^9^ They, having heard the king, went their way; and behold, the star, which they saw in the east, went before them until it came and stood over where the young child was. 
 ^10^ When they saw the star, they rejoiced with exceedingly great joy. 
 ^11^ They came into the house and saw the young child with Mary, his mother, and they fell down and worshiped him. Opening their treasures, they offered to him gifts: gold, frankincense, and myrrh. 
-^12^ Being warned in a dream not to return to Herod, they went back to their own country another way. 
+^12^ Being warned in a dream not to return to Herod, they went back to their own country another way.
 
+## Joseph's Flight into Egypt
 ^13^ Now when they had departed, behold, an angel of the Lord appeared to Joseph in a dream, saying, “Arise and take the young child and his mother, and flee into Egypt, and stay there until I tell you, for Herod will seek the young child to destroy him.” 
 
 ^14^ He arose and took the young child and his mother by night and departed into Egypt, 
 ^15^ and was there until the death of Herod, that it might be fulfilled which was spoken by the Lord through the prophet, saying, “Out of Egypt I called my son.”^a^ 
 ^a^[**2:15** Hosea 11:1]
 
+## The murder of Herod's child in Bethlehem
 ^16^ Then Herod, when he saw that he was mocked by the wise men, was exceedingly angry, and sent out and killed all the male children who were in Bethlehem and in all the surrounding countryside, from two years old and under, according to the exact time which he had learned from the wise men. 
 ^17^ Then that which was spoken by Jeremiah the prophet was fulfilled, saying, 
 ^18^ “A voice was heard in Ramah, lamentation, weeping and great mourning, Rachel weeping for her children; she wouldn’t be comforted, because they are no more.”^a^ 
 ^a^[**2:18** Jeremiah 31:15]
 
+## The return of Joseph from Egypt and his settlement in Nazareth
 ^19^ But when Herod was dead, behold, an angel of the Lord appeared in a dream to Joseph in Egypt, saying, 
 ^20^ “Arise and take the young child and his mother, and go into the land of Israel, for those who sought the young child’s life are dead.” 
 
@@ -72,6 +78,7 @@
 ^23^ and came and lived in a city called Nazareth; that it might be fulfilled which was spoken through the prophets that he will be called a Nazarene. 
 
 # 3 
+## Apparition and penitential sermon of John the Baptist
 ^1^ In those days, John the Baptizer came, preaching in the wilderness of Judea, saying, 
 ^2^ “Repent, for the Kingdom of Heaven is at hand!” 
 ^3^ For this is he who was spoken of by Isaiah the prophet, saying, “The voice of one crying in the wilderness, make the way of the Lord ready! Make his paths straight!”^a^ 
@@ -90,6 +97,7 @@
 ^12^ His winnowing fork is in his hand, and he will thoroughly cleanse his threshing floor. He will gather his wheat into the barn, but the chaff he will burn up with unquenchable fire.” 
 ^a^[**3:11** TR and NU add “and with fire” ]
 
+## Baptism and consecration of the Messiah of Jesus
 ^13^ Then Jesus came from Galilee to the Jordan^a^ to John, to be baptized by him. 
 ^14^ But John would have hindered him, saying, “I need to be baptized by you, and you come to me?” 
 ^a^[**3:13** i. e., the Jordan River]
@@ -100,6 +108,7 @@
 ^17^ Behold, a voice out of the heavens said, “This is my beloved Son, with whom I am well pleased.” 
 
 # 4 
+## The temptation of Jesus as proof of Messiah
 ^1^ Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil. 
 ^2^ When he had fasted forty days and forty nights, he was hungry afterward. 
 ^3^ The tempter came and said to him, “If you are the Son of God, command that these stones become bread.” 
@@ -120,8 +129,9 @@
 ^10^ Then Jesus said to him, [“Get behind me,]{.wj}^a^ [Satan! For it is written, ‘You shall worship the Lord your God, and you shall serve him only.’”]{.wj} ^b^ 
 ^a^[**4:10** TR and NU read “Go away” instead of “Get behind me”] ^b^[**4:10** Deuteronomy 6:13]
 
-^11^ Then the devil left him, and behold, angels came and served him. 
+^11^ Then the devil left him, and behold, angels came and served him.
 
+## Jesus assumes teaching in Capernaum
 ^12^ Now when Jesus heard that John was delivered up, he withdrew into Galilee. 
 ^13^ Leaving Nazareth, he came and lived in Capernaum, which is by the sea, in the region of Zebulun and Naphtali, 
 ^14^ that it might be fulfilled which was spoken through Isaiah the prophet, saying, 
@@ -129,23 +139,28 @@
 ^16^ the people who sat in darkness saw a great light; to those who sat in the region and shadow of death, to them light has dawned.”^a^ 
 ^a^[**4:16** Isaiah 9:1-2]
 
-^17^ From that time, Jesus began to preach, and to say, [“Repent! For the Kingdom of Heaven is at hand.”]{.wj} 
+^17^ From that time, Jesus began to preach, and to say, [“Repent! For the Kingdom of Heaven is at hand.”]{.wj}
 
+## Jesus calls the first two pairs of disciples
 ^18^ Walking by the sea of Galilee, he^a^ saw two brothers: Simon, who is called Peter, and Andrew, his brother, casting a net into the sea; for they were fishermen. 
 ^19^ He said to them, [“Come after me, and I will make you fishers for men.”]{.wj} 
 ^a^[**4:18** TR reads “Jesus” instead of “he” ]
 
 ^20^ They immediately left their nets and followed him. 
 ^21^ Going on from there, he saw two other brothers, James the son of Zebedee, and John his brother, in the boat with Zebedee their father, mending their nets. He called them. 
-^22^ They immediately left the boat and their father, and followed him. 
+^22^ They immediately left the boat and their father, and followed him.
 
+## Description of the teaching and healing effects of Jesus and his success
 ^23^ Jesus went about in all Galilee, teaching in their synagogues, preaching the Good News of the Kingdom, and healing every disease and every sickness among the people. 
 ^24^ The report about him went out into all Syria. They brought to him all who were sick, afflicted with various diseases and torments, possessed with demons, epileptics, and paralytics; and he healed them. 
 ^25^ Great multitudes from Galilee, Decapolis, Jerusalem, Judea, and from beyond the Jordan followed him. 
 
 # 5 
+## The Sermon on the Mount
 ^1^ Seeing the multitudes, he went up onto the mountain. When he had sat down, his disciples came to him. 
-^2^ He opened his mouth and taught them, saying, 
+^2^ He opened his mouth and taught them, saying,
+
+## The beatitudes
 ^3^ [“Blessed are the poor in spirit,]{.wj} [for theirs is the Kingdom of Heaven.]{.wj}^a^ 
 ^4^ [Blessed are those who mourn,]{.wj} [for they shall be comforted.]{.wj}^b^ 
 ^5^ [Blessed are the gentle,]{.wj} [for they shall inherit the earth.]{.wj}^c^ ^d^ 
@@ -157,20 +172,23 @@
 ^a^[**5:3** Isaiah 57:15; 66:2] ^b^[**5:4** Isaiah 61:2; 66:10,13] ^c^[**5:5** or, land.] ^d^[**5:5** Psalm 37:11]
 
 ^11^ [“Blessed are you when people reproach you, persecute you, and say all kinds of evil against you falsely, for my sake.]{.wj} 
-^12^ [Rejoice, and be exceedingly glad, for great is your reward in heaven. For that is how they persecuted the prophets who were before you.]{.wj} 
+^12^ [Rejoice, and be exceedingly glad, for great is your reward in heaven. For that is how they persecuted the prophets who were before you.]{.wj}
 
+## Salt of the earth, light of the world
 ^13^ [“You are the salt of the earth, but if the salt has lost its flavor, with what will it be salted? It is then good for nothing, but to be cast out and trodden under the feet of men.]{.wj} 
 
 ^14^ [You are the light of the world. A city located on a hill can’t be hidden.]{.wj} 
 ^15^ [Neither do you light a lamp and put it under a measuring basket, but on a stand; and it shines to all who are in the house.]{.wj} 
-^16^ [Even so, let your light shine before men, that they may see your good works and glorify your Father who is in heaven.]{.wj} 
+^16^ [Even so, let your light shine before men, that they may see your good works and glorify your Father who is in heaven.]{.wj}
 
+## Perfection compared to the demands of the old covenant
 ^17^ [“Don’t think that I came to destroy the law or the prophets. I didn’t come to destroy, but to fulfill.]{.wj} 
 ^18^ [For most certainly, I tell you, until heaven and earth pass away, not even one smallest letter]{.wj}^a^ [or one tiny pen stroke]{.wj}^b^ [shall in any way pass away from the law, until all things are accomplished.]{.wj} 
 ^19^ [Therefore, whoever shall break one of these least commandments and teach others to do so, shall be called least in the Kingdom of Heaven; but whoever shall do and teach them shall be called great in the Kingdom of Heaven.]{.wj} 
 ^20^ [For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, there is no way you will enter into the Kingdom of Heaven.]{.wj} 
 ^a^[**5:18** literally, iota] ^b^[**5:18** or, serif]
 
+## About killing and judging
 ^21^ [“You have heard that it was said to the ancient ones, ‘You shall not murder;’]{.wj}^a^ [and ‘Whoever murders will be in danger of the judgment.’]{.wj} 
 ^22^ [But I tell you that everyone who is angry with his brother without a cause]{.wj}^b^ [will be in danger of the judgment. Whoever says to his brother, ‘Raca!’]{.wj}^c^ [will be in danger of the council. Whoever says, ‘You fool!’ will be in danger of the fire of Gehenna.]{.wj}^d^ 
 ^a^[**5:21** Exodus 20:13] ^b^[**5:22** NU omits “without a cause”.] ^c^[**5:22** “Raca” is an Aramaic insult, related to the word for “empty” and conveying the idea of empty-headedness.] ^d^[**5:22** or, Hell]
@@ -181,6 +199,7 @@
 ^26^ [Most certainly I tell you, you shall by no means get out of there until you have paid the last penny.]{.wj}^a^ 
 ^a^[**5:26** literally, kodrantes. A kodrantes was a small copper coin worth about 2 lepta (widow’s mites)—not enough to buy very much of anything.]
 
+## About Adultery
 ^27^ [“You have heard that it was said,]{.wj}^a^ [‘You shall not commit adultery;’]{.wj}^b^ 
 ^28^ [but I tell you that everyone who gazes at a woman to lust after her has committed adultery with her already in his heart.]{.wj} 
 ^29^ [If your right eye causes you to stumble, pluck it out and throw it away from you. For it is more profitable for you that one of your members should perish than for your whole body to be cast into Gehenna.]{.wj}^c^ 
@@ -191,6 +210,7 @@
 ^32^ [but I tell you that whoever puts away his wife, except for the cause of sexual immorality, makes her an adulteress; and whoever marries her when she is put away commits adultery.]{.wj} 
 ^a^[**5:31** Deuteronomy 24:1]
 
+## About Swearing
 ^33^ [“Again you have heard that it was said to the ancient ones, ‘You shall not make false vows, but shall perform to the Lord your vows,’]{.wj}^a^ 
 ^34^ [but I tell you, don’t swear at all: neither by heaven, for it is the throne of God;]{.wj} 
 ^35^ [nor by the earth, for it is the footstool of his feet; nor by Jerusalem, for it is the city of the great King.]{.wj} 
@@ -198,6 +218,7 @@
 ^37^ [But let your ‘Yes’ be ‘Yes’ and your ‘No’ be ‘No.’ Whatever is more than these is of the evil one.]{.wj} 
 ^a^[**5:33** Numbers 30:2; Deuteronomy 23:21; Ecclesiastes 5:4]
 
+## On love of neighbor and enemy
 ^38^ [“You have heard that it was said, ‘An eye for an eye, and a tooth for a tooth.’]{.wj}^a^ 
 ^39^ [But I tell you, don’t resist him who is evil; but whoever strikes you on your right cheek, turn to him the other also.]{.wj} 
 ^40^ [If anyone sues you to take away your coat, let him have your cloak also.]{.wj} 
@@ -214,12 +235,14 @@
 ^a^[**5:43** Leviticus 19:18] ^b^[**5:43** not in the Bible, but see Qumran Manual of Discipline Ix, 21-26] ^c^[**5:47** NU reads “Gentiles” instead of “tax collectors”.] 
 
 # 6 
+## Be careful when giving alms
 ^1^ [“Be careful that you don’t do your charitable giving]{.wj}^a^ [before men, to be seen by them, or else you have no reward from your Father who is in heaven.]{.wj} 
 ^2^ [Therefore, when you do merciful deeds, don’t sound a trumpet before yourself, as the hypocrites do in the synagogues and in the streets, that they may get glory from men. Most certainly I tell you, they have received their reward.]{.wj} 
 ^3^ [But when you do merciful deeds, don’t let your left hand know what your right hand does,]{.wj} 
 ^4^ [so that your merciful deeds may be in secret, then your Father who sees in secret will reward you openly.]{.wj} 
 ^a^[**6:1** NU reads “acts of righteousness” instead of “charitable giving”]
 
+## Be careful when you pray
 ^5^ [“When you pray, you shall not be as the hypocrites, for they love to stand and pray in the synagogues and in the corners of the streets, that they may be seen by men. Most certainly, I tell you, they have received their reward.]{.wj} 
 ^6^ [But you, when you pray, enter into your inner room, and having shut your door, pray to your Father who is in secret; and your Father who sees in secret will reward you openly.]{.wj} 
 ^7^ [In praying, don’t use vain repetitions as the Gentiles do; for they think that they will be heard for their much speaking.]{.wj} 
@@ -232,12 +255,14 @@
 ^a^[**6:13** NU omits “For yours is the Kingdom, the power, and the glory forever. Amen.”]
 
 ^14^ [“For if you forgive men their trespasses, your heavenly Father will also forgive you.]{.wj} 
-^15^ [But if you don’t forgive men their trespasses, neither will your Father forgive your trespasses.]{.wj} 
+^15^ [But if you don’t forgive men their trespasses, neither will your Father forgive your trespasses.]{.wj}
 
+## Be careful when fasting
 ^16^ [“Moreover when you fast, don’t be like the hypocrites, with sad faces. For they disfigure their faces that they may be seen by men to be fasting. Most certainly I tell you, they have received their reward.]{.wj} 
 ^17^ [But you, when you fast, anoint your head and wash your face,]{.wj} 
-^18^ [so that you are not seen by men to be fasting, but by your Father who is in secret; and your Father, who sees in secret, will reward you.]{.wj} 
+^18^ [so that you are not seen by men to be fasting, but by your Father who is in secret; and your Father, who sees in secret, will reward you.]{.wj}
 
+## Collect treasures in the sky
 ^19^ [“Don’t lay up treasures for yourselves on the earth, where moth and rust consume, and where thieves break through and steal;]{.wj} 
 ^20^ [but lay up for yourselves treasures in heaven, where neither moth nor rust consume, and where thieves don’t break through and steal;]{.wj} 
 ^21^ [for where your treasure is, there your heart will be also.]{.wj} 
@@ -245,7 +270,9 @@
 ^22^ [“The lamp of the body is the eye. If therefore your eye is sound, your whole body will be full of light.]{.wj} 
 ^23^ [But if your eye is evil, your whole body will be full of darkness. If therefore the light that is in you is darkness, how great is the darkness!]{.wj} 
 
-^24^ [“No one can serve two masters, for either he will hate the one and love the other, or else he will be devoted to one and despise the other. You can’t serve both God and Mammon.]{.wj} 
+^24^ [“No one can serve two masters, for either he will hate the one and love the other, or else he will be devoted to one and despise the other. You can’t serve both God and Mammon.]{.wj}
+
+## Seek the kingdom of God first
 ^25^ [Therefore I tell you, don’t be anxious for your life: what you will eat, or what you will drink; nor yet for your body, what you will wear. Isn’t life more than food, and the body more than clothing?]{.wj} 
 ^26^ [See the birds of the sky, that they don’t sow, neither do they reap, nor gather into barns. Your heavenly Father feeds them. Aren’t you of much more value than they?]{.wj} 
 
@@ -261,32 +288,38 @@
 ^34^ [Therefore don’t be anxious for tomorrow, for tomorrow will be anxious for itself. Each day’s own evil is sufficient.]{.wj} 
 
 # 7 
+## Don't judge
 ^1^ [“Don’t judge, so that you won’t be judged.]{.wj} 
 ^2^ [For with whatever judgment you judge, you will be judged; and with whatever measure you measure, it will be measured to you.]{.wj} 
 ^3^ [Why do you see the speck that is in your brother’s eye, but don’t consider the beam that is in your own eye?]{.wj} 
 ^4^ [Or how will you tell your brother, ‘Let me remove the speck from your eye,’ and behold, the beam is in your own eye?]{.wj} 
 ^5^ [You hypocrite! First remove the beam out of your own eye, and then you can see clearly to remove the speck out of your brother’s eye.]{.wj} 
 
-^6^ [“Don’t give that which is holy to the dogs, neither throw your pearls before the pigs, lest perhaps they trample them under their feet, and turn and tear you to pieces.]{.wj} 
+^6^ [“Don’t give that which is holy to the dogs, neither throw your pearls before the pigs, lest perhaps they trample them under their feet, and turn and tear you to pieces.]{.wj}
 
+## Ask, seek, call
 ^7^ [“Ask, and it will be given you. Seek, and you will find. Knock, and it will be opened for you.]{.wj} 
 ^8^ [For everyone who asks receives. He who seeks finds. To him who knocks it will be opened.]{.wj} 
 ^9^ [Or who is there among you who, if his son asks him for bread, will give him a stone?]{.wj} 
 ^10^ [Or if he asks for a fish, who will give him a serpent?]{.wj} 
-^11^ [If you then, being evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!]{.wj} 
+^11^ [If you then, being evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!]{.wj}
+
+## The golden rule of charity
 ^12^ [Therefore, whatever you desire for men to do to you, you shall also do to them; for this is the law and the prophets.]{.wj} 
 
 ^13^ [“Enter in by the narrow gate; for the gate is wide and the way is broad that leads to destruction, and there are many who enter in by it.]{.wj} 
 ^14^ [How]{.wj}^a^ [narrow is the gate and the way is restricted that leads to life! There are few who find it.]{.wj} 
 ^a^[**7:14** TR reads “Because” instead of “How”]
 
+## Beware of false prophets
 ^15^ [“Beware of false prophets, who come to you in sheep’s clothing, but inwardly are ravening wolves.]{.wj} 
 ^16^ [By their fruits you will know them. Do you gather grapes from thorns or figs from thistles?]{.wj} 
 ^17^ [Even so, every good tree produces good fruit, but the corrupt tree produces evil fruit.]{.wj} 
 ^18^ [A good tree can’t produce evil fruit, neither can a corrupt tree produce good fruit.]{.wj} 
 ^19^ [Every tree that doesn’t grow good fruit is cut down and thrown into the fire.]{.wj} 
-^20^ [Therefore by their fruits you will know them.]{.wj} 
+^20^ [Therefore by their fruits you will know them.]{.wj}
 
+## Be the doer of the word, not just a listener
 ^21^ [“Not everyone who says to me, ‘Lord, Lord,’ will enter into the Kingdom of Heaven, but he who does the will of my Father who is in heaven.]{.wj} 
 ^22^ [Many will tell me in that day, ‘Lord, Lord, didn’t we prophesy in your name, in your name cast out demons, and in your name do many mighty works?’]{.wj} 
 ^23^ [Then I will tell them, ‘I never knew you. Depart from me, you who work iniquity.’]{.wj} 
@@ -300,12 +333,14 @@
 ^29^ for he taught them with authority, and not like the scribes. 
 
 # 8 
+## Healing a leper
 ^1^ When he came down from the mountain, great multitudes followed him. 
 ^2^ Behold, a leper came to him and worshiped him, saying, “Lord, if you want to, you can make me clean.” 
 
 ^3^ Jesus stretched out his hand and touched him, saying, [“I want to. Be made clean.”]{.wj} Immediately his leprosy was cleansed. 
-^4^ Jesus said to him, [“See that you tell nobody; but go, show yourself to the priest, and offer the gift that Moses commanded, as a testimony to them.”]{.wj} 
+^4^ Jesus said to him, [“See that you tell nobody; but go, show yourself to the priest, and offer the gift that Moses commanded, as a testimony to them.”]{.wj}
 
+## Capernaum Centurion's Servant Healing
 ^5^ When he came into Capernaum, a centurion came to him, asking him for help, 
 ^6^ saying, “Lord, my servant lies in the house paralyzed, grievously tormented.” 
 
@@ -317,14 +352,16 @@
 ^10^ When Jesus heard it, he marveled and said to those who followed, [“Most certainly I tell you, I haven’t found so great a faith, not even in Israel.]{.wj} 
 ^11^ [I tell you that many will come from the east and the west, and will sit down with Abraham, Isaac, and Jacob in the Kingdom of Heaven,]{.wj} 
 ^12^ [but the children of the Kingdom will be thrown out into the outer darkness. There will be weeping and gnashing of teeth.”]{.wj} 
-^13^ Jesus said to the centurion, [“Go your way. Let it be done for you as you have believed.”]{.wj} His servant was healed in that hour. 
+^13^ Jesus said to the centurion, [“Go your way. Let it be done for you as you have believed.”]{.wj} His servant was healed in that hour.
 
+## Healing of Peter's mother-in-law and many other sick people in Capernaum
 ^14^ When Jesus came into Peter’s house, he saw his wife’s mother lying sick with a fever. 
 ^15^ He touched her hand, and the fever left her. So she got up and served him.^a^ 
 ^16^ When evening came, they brought to him many possessed with demons. He cast out the spirits with a word, and healed all who were sick, 
 ^17^ that it might be fulfilled which was spoken through Isaiah the prophet, saying, “He took our infirmities and bore our diseases.”^b^ 
 ^a^[**8:15** TR reads “them” instead of “him”] ^b^[**8:17** Isaiah 53:4 ]
 
+## Jesus escapes to the other shore of the lake; Proverbs about following Jesus
 ^18^ Now when Jesus saw great multitudes around him, he gave the order to depart to the other side. 
 
 ^19^ A scribe came and said to him, “Teacher, I will follow you wherever you go.” 
@@ -333,16 +370,18 @@
 
 ^21^ Another of his disciples said to him, “Lord, allow me first to go and bury my father.” 
 
-^22^ But Jesus said to him, [“Follow me, and leave the dead to bury their own dead.”]{.wj} 
+^22^ But Jesus said to him, [“Follow me, and leave the dead to bury their own dead.”]{.wj}
 
+## Jesus calms the storm of the sea
 ^23^ When he got into a boat, his disciples followed him. 
 ^24^ Behold, a violent storm came up on the sea, so much that the boat was covered with the waves; but he was asleep. 
 ^25^ The disciples came to him and woke him up, saying, “Save us, Lord! We are dying!” 
 
 ^26^ He said to them, [“Why are you fearful, O you of little faith?”]{.wj} Then he got up, rebuked the wind and the sea, and there was a great calm. 
 
-^27^ The men marveled, saying, “What kind of man is this, that even the wind and the sea obey him?” 
+^27^ The men marveled, saying, “What kind of man is this, that even the wind and the sea obey him?”
 
+## Healing of two possessed in the land of the Gadarenes
 ^28^ When he came to the other side, into the country of the Gergesenes,^a^ two people possessed by demons met him there, coming out of the tombs, exceedingly fierce, so that nobody could pass that way. 
 ^29^ Behold, they cried out, saying, “What do we have to do with you, Jesus, Son of God? Have you come here to torment us before the time?” 
 ^30^ Now there was a herd of many pigs feeding far away from them. 
@@ -356,6 +395,7 @@ They came out and went into the herd of pigs; and behold, the whole herd of pigs
 ^34^ Behold, all the city came out to meet Jesus. When they saw him, they begged that he would depart from their borders. 
 
 # 9 
+## Healing of a paralytic in Capernaum; Jesus forgives sins
 ^1^ He entered into a boat and crossed over, and came into his own city. 
 ^2^ Behold, they brought to him a man who was paralyzed, lying on a bed. Jesus, seeing their faith, said to the paralytic, [“Son, cheer up! Your sins are forgiven you.”]{.wj} 
 
@@ -366,8 +406,9 @@ They came out and went into the herd of pigs; and behold, the whole herd of pigs
 ^6^ [But that you may know that the Son of Man has authority on earth to forgive sins—”]{.wj} (then he said to the paralytic), [“Get up, and take up your mat, and go to your house.”]{.wj} 
 
 ^7^ He arose and departed to his house. 
-^8^ But when the multitudes saw it, they marveled and glorified God, who had given such authority to men. 
+^8^ But when the multitudes saw it, they marveled and glorified God, who had given such authority to men.
 
+## Call from Tax Collector Mattew; Jesus as a table companion for tax collectors and sinners
 ^9^ As Jesus passed by from there, he saw a man called Matthew sitting at the tax collection office. He said to him, [“Follow me.”]{.wj} He got up and followed him. 
 ^10^ As he sat in the house, behold, many tax collectors and sinners came and sat down with Jesus and his disciples. 
 ^11^ When the Pharisees saw it, they said to his disciples, “Why does your teacher eat with tax collectors and sinners?” 
@@ -376,12 +417,14 @@ They came out and went into the herd of pigs; and behold, the whole herd of pigs
 ^13^ [But you go and learn what this means: ‘I desire mercy, and not sacrifice,’]{.wj}^a^ [for I came not to call the righteous, but sinners to repentance.”]{.wj}^b^ 
 ^a^[**9:13** Hosea 6:6] ^b^[**9:13** NU omits “to repentance”.]
 
+## The question of the fast of John's disciples
 ^14^ Then John’s disciples came to him, saying, “Why do we and the Pharisees fast often, but your disciples don’t fast?” 
 
 ^15^ Jesus said to them, [“Can the friends of the bridegroom mourn as long as the bridegroom is with them? But the days will come when the bridegroom will be taken away from them, and then they will fast.]{.wj} 
 ^16^ [No one puts a piece of unshrunk cloth on an old garment; for the patch would tear away from the garment, and a worse hole is made.]{.wj} 
-^17^ [Neither do people put new wine into old wine skins, or else the skins would burst, and the wine be spilled, and the skins ruined. No, they put new wine into fresh wine skins, and both are preserved.”]{.wj} 
+^17^ [Neither do people put new wine into old wine skins, or else the skins would burst, and the wine be spilled, and the skins ruined. No, they put new wine into fresh wine skins, and both are preserved.”]{.wj}
 
+## Resurrect the daughter of Jairus and heal the blood-stricken woman
 ^18^ While he told these things to them, behold, a ruler came and worshiped him, saying, “My daughter has just died, but come and lay your hand on her, and she will live.” 
 
 ^19^ Jesus got up and followed him, as did his disciples. 
@@ -396,8 +439,9 @@ They came out and went into the herd of pigs; and behold, the whole herd of pigs
 
 They were ridiculing him. 
 ^25^ But when the crowd was sent out, he entered in, took her by the hand, and the girl arose. 
-^26^ The report of this went out into all that land. 
+^26^ The report of this went out into all that land.
 
+## Healing of two blind men and a dumb demoniac; Graduation
 ^27^ As Jesus passed by from there, two blind men followed him, calling out and saying, “Have mercy on us, son of David!” 
 ^28^ When he had come into the house, the blind men came to him. Jesus said to them, [“Do you believe that I am able to do this?”]{.wj} 
 
@@ -412,19 +456,23 @@ They told him, “Yes, Lord.”
 
 ^34^ But the Pharisees said, “By the prince of the demons, he casts out demons.” 
 
-^35^ Jesus went about all the cities and the villages, teaching in their synagogues and preaching the Good News of the Kingdom, and healing every disease and every sickness among the people. 
+^35^ Jesus went about all the cities and the villages, teaching in their synagogues and preaching the Good News of the Kingdom, and healing every disease and every sickness among the people.
+
+## The compassion of Jesus in the sight of the people; the harvest word
 ^36^ But when he saw the multitudes, he was moved with compassion for them because they were harassed^a^ and scattered, like sheep without a shepherd. 
 ^37^ Then he said to his disciples, [“The harvest indeed is plentiful, but the laborers are few.]{.wj} 
 ^38^ [Pray therefore that the Lord of the harvest will send out laborers into his harvest.”]{.wj}
 ^a^[**9:36** TR reads “weary” instead of “harassed” ] 
 
 # 10 
+## Calls and names of the twelve disciples
 ^1^ He called to himself his twelve disciples, and gave them authority over unclean spirits, to cast them out, and to heal every disease and every sickness. 
 ^2^ Now the names of the twelve apostles are these. The first, Simon, who is called Peter; Andrew, his brother; James the son of Zebedee; John, his brother; 
 ^3^ Philip; Bartholomew; Thomas; Matthew the tax collector; James the son of Alphaeus; Lebbaeus, who was also called^a^ Thaddaeus; 
 ^4^ Simon the Zealot; and Judas Iscariot, who also betrayed him. 
 ^a^[**10:3** NU omits “Lebbaeus, who was also called”]
 
+## The message sent to the twelve disciples
 ^5^ Jesus sent these twelve out and commanded them, saying, [“Don’t go among the Gentiles, and don’t enter into any city of the Samaritans.]{.wj} 
 ^6^ [Rather, go to the lost sheep of the house of Israel.]{.wj} 
 ^7^ [As you go, preach, saying, ‘The Kingdom of Heaven is at hand!’]{.wj} 
@@ -438,7 +486,9 @@ They told him, “Yes, Lord.”
 ^15^ [Most certainly I tell you, it will be more tolerable for the land of Sodom and Gomorrah in the day of judgment than for that city.]{.wj} 
 ^a^[**10:8** TR adds “raise the dead,”]
 
-^16^ [“Behold, I send you out as sheep among wolves. Therefore be wise as serpents and harmless as doves.]{.wj} 
+^16^ [“Behold, I send you out as sheep among wolves. Therefore be wise as serpents and harmless as doves.]{.wj}
+
+## Announcement of the sufferings that will come to the disciples
 ^17^ [But beware of men, for they will deliver you up to councils, and in their synagogues they will scourge you.]{.wj} 
 ^18^ [Yes, and you will be brought before governors and kings for my sake, for a testimony to them and to the nations.]{.wj} 
 ^19^ [But when they deliver you up, don’t be anxious how or what you will say, for it will be given you in that hour what you will say.]{.wj} 
@@ -449,7 +499,9 @@ They told him, “Yes, Lord.”
 ^23^ [But when they persecute you in this city, flee into the next, for most certainly I tell you, you will not have gone through the cities of Israel until the Son of Man has come.]{.wj} 
 
 ^24^ [“A disciple is not above his teacher, nor a servant above his lord.]{.wj} 
-^25^ [It is enough for the disciple that he be like his teacher, and the servant like his lord. If they have called the master of the house Beelzebul,]{.wj}^a^ [how much more those of his household!]{.wj} 
+^25^ [It is enough for the disciple that he be like his teacher, and the servant like his lord. If they have called the master of the house Beelzebul,]{.wj}^a^ [how much more those of his household!]{.wj}
+
+## Encouragement to persevere faithfully and comfort in times of tribulation
 ^26^ [Therefore don’t be afraid of them, for there is nothing covered that will not be revealed, or hidden that will not be known.]{.wj} 
 ^27^ [What I tell you in the darkness, speak in the light; and what you hear whispered in the ear, proclaim on the housetops.]{.wj} 
 ^28^ [Don’t be afraid of those who kill the body, but are not able to kill the soul. Rather, fear him who is able to destroy both soul and body in Gehenna.]{.wj}^b^ 
@@ -462,6 +514,7 @@ They told him, “Yes, Lord.”
 ^33^ [But whoever denies me before men, I will also deny him before my Father who is in heaven.]{.wj} 
 ^a^[**10:29** An assarion is a small coin worth one tenth of a drachma or a sixteenth of a denarius. An assarion is approximately the wages of one half hour of agricultural labor.]
 
+## Peace and sword, loss and gain
 ^34^ [“Don’t think that I came to send peace on the earth. I didn’t come to send peace, but a sword.]{.wj} 
 ^35^ [For I came to set a man at odds against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law.]{.wj} 
 ^36^ [A man’s foes will be those of his own household.]{.wj}^a^ 
@@ -470,13 +523,15 @@ They told him, “Yes, Lord.”
 ^39^ [He who seeks his life will lose it; and he who loses his life for my sake will find it.]{.wj} 
 ^a^[**10:36** Micah 7:6]
 
+## Pledges of brotherly help
 ^40^ [“He who receives you receives me, and he who receives me receives him who sent me.]{.wj} 
 ^41^ [He who receives a prophet in the name of a prophet will receive a prophet’s reward. He who receives a righteous man in the name of a righteous man will receive a righteous man’s reward.]{.wj} 
 ^42^ [Whoever gives one of these little ones just a cup of cold water to drink in the name of a disciple, most certainly I tell you, he will in no way lose his reward.”]{.wj} 
 
 # 11 
-^1^ When Jesus had finished directing his twelve disciples, he departed from there to teach and preach in their cities. 
+^1^ When Jesus had finished directing his twelve disciples, he departed from there to teach and preach in their cities.
 
+## Embassy of John the Baptist from prison; Jesus' response and testimony about John
 ^2^ Now when John heard in the prison the works of Christ, he sent two of his disciples 
 ^3^ and said to him, “Are you he who comes, or should we look for another?” 
 
@@ -502,6 +557,7 @@ They told him, “Yes, Lord.”
 ^19^ [The Son of Man came eating and drinking, and they say, ‘Behold, a gluttonous man and a drunkard, a friend of tax collectors and sinners!’ But wisdom is justified by her children.”]{.wj}^a^ 
 ^a^[**11:19** NU reads “actions” instead of “children”]
 
+## Lament of Jesus for the unrepentant Galilean cities
 ^20^ Then he began to denounce the cities in which most of his mighty works had been done, because they didn’t repent. 
 ^21^ [“Woe to you, Chorazin! Woe to you, Bethsaida! For if the mighty works had been done in Tyre and Sidon which were done in you, they would have repented long ago in sackcloth and ashes.]{.wj} 
 ^22^ [But I tell you, it will be more tolerable for Tyre and Sidon on the day of judgment than for you.]{.wj} 
@@ -509,15 +565,18 @@ They told him, “Yes, Lord.”
 ^24^ [But I tell you that it will be more tolerable for the land of Sodom on the day of judgment, than for you.”]{.wj} 
 ^a^[**11:23** or, Hell]
 
+## The joy and praise of Jesus for the Father
 ^25^ At that time, Jesus answered, [“I thank you, Father, Lord of heaven and earth, that you hid these things from the wise and understanding, and revealed them to infants.]{.wj} 
 ^26^ [Yes, Father, for so it was well-pleasing in your sight.]{.wj} 
-^27^ [All things have been delivered to me by my Father. No one knows the Son, except the Father; neither does anyone know the Father, except the Son and he to whom the Son desires to reveal him.]{.wj} 
+^27^ [All things have been delivered to me by my Father. No one knows the Son, except the Father; neither does anyone know the Father, except the Son and he to whom the Son desires to reveal him.]{.wj}
 
+## The Savior's call to the weary and burdened
 ^28^ [“Come to me, all you who labor and are heavily burdened, and I will give you rest.]{.wj} 
 ^29^ [Take my yoke upon you and learn from me, for I am gentle and humble in heart; and you will find rest for your souls.]{.wj} 
 ^30^ [For my yoke is easy, and my burden is light.”]{.wj} 
 
 # 12 
+## The ears of the disciples on the Sabbath; Jesus' first dispute with the Pharisees over the sanctification of the Sabbath
 ^1^ At that time, Jesus went on the Sabbath day through the grain fields. His disciples were hungry and began to pluck heads of grain and to eat. 
 ^2^ But the Pharisees, when they saw it, said to him, “Behold, your disciples do what is not lawful to do on the Sabbath.” 
 
@@ -529,14 +588,16 @@ They told him, “Yes, Lord.”
 ^8^ [For the Son of Man is Lord of the Sabbath.”]{.wj} 
 ^a^[**12:4** 1 Samuel 21:3-6] ^b^[**12:7** Hosea 6:6]
 
+## Healing of man with paralyzed arm on Sabbath; The Second Argument About Sabbath Keeping
 ^9^ He departed from there and went into their synagogue. 
 ^10^ And behold, there was a man with a withered hand. They asked him, “Is it lawful to heal on the Sabbath day?” so that they might accuse him. 
 
 ^11^ He said to them, [“What man is there among you who has one sheep, and if this one falls into a pit on the Sabbath day, won’t he grab on to it and lift it out?]{.wj} 
 ^12^ [Of how much more value then is a man than a sheep! Therefore it is lawful to do good on the Sabbath day.”]{.wj} 
 ^13^ Then he told the man, [“Stretch out your hand.”]{.wj} He stretched it out; and it was restored whole, just like the other. 
-^14^ But the Pharisees went out and conspired against him, how they might destroy him. 
+^14^ But the Pharisees went out and conspired against him, how they might destroy him.
 
+## Jesus evades persecution; his pious healing activity
 ^15^ Jesus, perceiving that, withdrew from there. Great multitudes followed him; and he healed them all, 
 ^16^ and commanded them that they should not make him known, 
 ^17^ that it might be fulfilled which was spoken through Isaiah the prophet, saying, 
@@ -546,6 +607,7 @@ They told him, “Yes, Lord.”
 ^21^ In his name, the nations will hope.”^a^ 
 ^a^[**12:21** Isaiah 42:1-4]
 
+## Jesus defends himself against the blasphemy of the Pharisees against Beelzebul
 ^22^ Then one possessed by a demon, blind and mute, was brought to him; and he healed him, so that the blind and mute man both spoke and saw. 
 ^23^ All the multitudes were amazed, and said, “Can this be the son of David?” 
 ^24^ But when the Pharisees heard it, they said, “This man does not cast out demons except by Beelzebul, the prince of the demons.” 
@@ -556,7 +618,9 @@ They told him, “Yes, Lord.”
 ^28^ [But if I by the Spirit of God cast out demons, then God’s Kingdom has come upon you.]{.wj} 
 ^29^ [Or how can one enter into the house of the strong man and plunder his goods, unless he first bind the strong man? Then he will plunder his house.]{.wj} 
 
-^30^ [“He who is not with me is against me, and he who doesn’t gather with me, scatters.]{.wj} 
+^30^ [“He who is not with me is against me, and he who doesn’t gather with me, scatters.]{.wj}
+
+## Warning of the blasphemy of the spirit; of the tree and the fruits
 ^31^ [Therefore I tell you, every sin and blasphemy will be forgiven men, but the blasphemy against the Spirit will not be forgiven men.]{.wj} 
 ^32^ [Whoever speaks a word against the Son of Man, it will be forgiven him; but whoever speaks against the Holy Spirit, it will not be forgiven him, either in this age, or in that which is to come.]{.wj} 
 
@@ -567,6 +631,7 @@ They told him, “Yes, Lord.”
 ^37^ [For by your words you will be justified, and by your words you will be condemned.”]{.wj} 
 ^a^[**12:35** TR adds “of the heart”]
 
+## Jesus' rejection of the demand for signs; the sign of Jonah; the parable of the relapse
 ^38^ Then certain of the scribes and Pharisees answered, “Teacher, we want to see a sign from you.” 
 
 ^39^ But he answered them, [“An evil and adulterous generation seeks after a sign, but no sign will be given to it but the sign of Jonah the prophet.]{.wj} 
@@ -576,8 +641,9 @@ They told him, “Yes, Lord.”
 
 ^43^ [“When an unclean spirit has gone out of a man, he passes through waterless places seeking rest, and doesn’t find it.]{.wj} 
 ^44^ [Then he says, ‘I will return into my house from which I came;’ and when he has come back, he finds it empty, swept, and put in order.]{.wj} 
-^45^ [Then he goes and takes with himself seven other spirits more evil than he is, and they enter in and dwell there. The last state of that man becomes worse than the first. Even so will it be also to this evil generation.”]{.wj} 
+^45^ [Then he goes and takes with himself seven other spirits more evil than he is, and they enter in and dwell there. The last state of that man becomes worse than the first. Even so will it be also to this evil generation.”]{.wj}
 
+## The true relatives of Jesus
 ^46^ While he was yet speaking to the multitudes, behold, his mother and his brothers stood outside, seeking to speak to him. 
 ^47^ One said to him, “Behold, your mother and your brothers stand outside, seeking to speak to you.” 
 
@@ -586,6 +652,7 @@ They told him, “Yes, Lord.”
 ^50^ [For whoever does the will of my Father who is in heaven, he is my brother, and sister, and mother.”]{.wj} 
 
 # 13 
+## The parable of the sower and the fourfold field
 ^1^ On that day Jesus went out of the house and sat by the seaside. 
 ^2^ Great multitudes gathered to him, so that he entered into a boat and sat; and all the multitude stood on the beach. 
 ^3^ He spoke to them many things in parables, saying, [“Behold, a farmer went out to sow.]{.wj} 
@@ -594,8 +661,9 @@ They told him, “Yes, Lord.”
 ^6^ [When the sun had risen, they were scorched. Because they had no root, they withered away.]{.wj} 
 ^7^ [Others fell among thorns. The thorns grew up and choked them.]{.wj} 
 ^8^ [Others fell on good soil and yielded fruit: some one hundred times as much, some sixty, and some thirty.]{.wj} 
-^9^ [He who has ears to hear, let him hear.”]{.wj} 
+^9^ [He who has ears to hear, let him hear.”]{.wj}
 
+## Jesus' explanation of the reason and purpose of his parables
 ^10^ The disciples came, and said to him, “Why do you speak to them in parables?” 
 
 ^11^ He answered them, [“To you it is given to know the mysteries of the Kingdom of Heaven, but it is not given to them.]{.wj} 
@@ -606,15 +674,17 @@ They told him, “Yes, Lord.”
 ^a^[**13:15** Isaiah 6:9-10]
 
 ^16^ [“But blessed are your eyes, for they see; and your ears, for they hear.]{.wj} 
-^17^ [For most certainly I tell you that many prophets and righteous men desired to see the things which you see, and didn’t see them; and to hear the things which you hear, and didn’t hear them.]{.wj} 
+^17^ [For most certainly I tell you that many prophets and righteous men desired to see the things which you see, and didn’t see them; and to hear the things which you hear, and didn’t hear them.]{.wj}
 
+## Interpretation of the parable of the sower
 ^18^ [“Hear, then, the parable of the farmer.]{.wj} 
 ^19^ [When anyone hears the word of the Kingdom and doesn’t understand it, the evil one comes and snatches away that which has been sown in his heart. This is what was sown by the roadside.]{.wj} 
 ^20^ [What was sown on the rocky places, this is he who hears the word and immediately with joy receives it;]{.wj} 
 ^21^ [yet he has no root in himself, but endures for a while. When oppression or persecution arises because of the word, immediately he stumbles.]{.wj} 
 ^22^ [What was sown among the thorns, this is he who hears the word, but the cares of this age and the deceitfulness of riches choke the word, and he becomes unfruitful.]{.wj} 
-^23^ [What was sown on the good ground, this is he who hears the word and understands it, who most certainly bears fruit and produces, some one hundred times as much, some sixty, and some thirty.”]{.wj} 
+^23^ [What was sown on the good ground, this is he who hears the word and understands it, who most certainly bears fruit and produces, some one hundred times as much, some sixty, and some thirty.”]{.wj}
 
+## The parable of the tares among the wheat
 ^24^ He set another parable before them, saying, [“The Kingdom of Heaven is like a man who sowed good seed in his field,]{.wj} 
 ^25^ [but while people slept, his enemy came and sowed darnel weeds]{.wj}^a^ [also among the wheat, and went away.]{.wj} 
 ^26^ [But when the blade sprang up and produced grain, then the darnel weeds appeared also.]{.wj} 
@@ -626,14 +696,16 @@ They told him, “Yes, Lord.”
 [“The servants asked him, ‘Do you want us to go and gather them up?’]{.wj} 
 
 ^29^ [“But he said, ‘No, lest perhaps while you gather up the darnel weeds, you root up the wheat with them.]{.wj} 
-^30^ [Let both grow together until the harvest, and in the harvest time I will tell the reapers, “First, gather up the darnel weeds, and bind them in bundles to burn them; but gather the wheat into my barn.”’”]{.wj} 
+^30^ [Let both grow together until the harvest, and in the harvest time I will tell the reapers, “First, gather up the darnel weeds, and bind them in bundles to burn them; but gather the wheat into my barn.”’”]{.wj}
 
+## The two parables of the mustard seed and the yeast
 ^31^ He set another parable before them, saying, [“The Kingdom of Heaven is like a grain of mustard seed which a man took, and sowed in his field,]{.wj} 
 ^32^ [which indeed is smaller than all seeds. But when it is grown, it is greater than the herbs and becomes a tree, so that the birds of the air come and lodge in its branches.”]{.wj} 
 
 ^33^ He spoke another parable to them. [“The Kingdom of Heaven is like yeast which a woman took and hid in three measures]{.wj}^a^ [of meal, until it was all leavened.”]{.wj} 
 ^a^[**13:33** literally, three sata. Three sata is about 39 liters or a bit more than a bushel]
 
+## Interpretation of the parable of the tares of the wheat
 ^34^ Jesus spoke all these things in parables to the multitudes; and without a parable, he didn’t speak to them, 
 ^35^ that it might be fulfilled which was spoken through the prophet, saying, “I will open my mouth in parables; I will utter things hidden from the foundation of the world.”^a^ 
 ^a^[**13:35** Psalm 78:2]
@@ -646,8 +718,9 @@ They told him, “Yes, Lord.”
 ^40^ [As therefore the darnel weeds are gathered up and burned with fire; so will it be at the end of this age.]{.wj} 
 ^41^ [The Son of Man will send out his angels, and they will gather out of his Kingdom all things that cause stumbling and those who do iniquity,]{.wj} 
 ^42^ [and will cast them into the furnace of fire. There will be weeping and gnashing of teeth.]{.wj} 
-^43^ [Then the righteous will shine like the sun in the Kingdom of their Father. He who has ears to hear, let him hear.]{.wj} 
+^43^ [Then the righteous will shine like the sun in the Kingdom of their Father. He who has ears to hear, let him hear.]{.wj}
 
+## The last three parables (treasure in the field; precious pearl; fishing net); Conclusion of the parable
 ^44^ [“Again, the Kingdom of Heaven is like treasure hidden in the field, which a man found and hid. In his joy, he goes and sells all that he has and buys that field.]{.wj} 
 
 ^45^ [“Again, the Kingdom of Heaven is like a man who is a merchant seeking fine pearls,]{.wj} 
@@ -662,8 +735,9 @@ They told him, “Yes, Lord.”
 
 They answered him, “Yes, Lord.” 
 
-^52^ He said to them, [“Therefore every scribe who has been made a disciple in the Kingdom of Heaven is like a man who is a householder, who brings out of his treasure new and old things.”]{.wj} 
+^52^ He said to them, [“Therefore every scribe who has been made a disciple in the Kingdom of Heaven is like a man who is a householder, who brings out of his treasure new and old things.”]{.wj}
 
+## Rejection and failure of Jesus in his native Nazareth
 ^53^ When Jesus had finished these parables, he departed from there. 
 ^54^ Coming into his own country, he taught them in their synagogue, so that they were astonished and said, “Where did this man get this wisdom and these mighty works? 
 ^55^ Isn’t this the carpenter’s son? Isn’t his mother called Mary, and his brothers James, Joses, Simon, and Judas?^a^ 
@@ -675,6 +749,7 @@ But Jesus said to them, [“A prophet is not without honor, except in his own co
 ^58^ He didn’t do many mighty works there because of their unbelief. 
 
 # 14 
+## Jesus and Herod; the end of John the Baptist
 ^1^ At that time, Herod the tetrarch heard the report concerning Jesus, 
 ^2^ and said to his servants, “This is John the Baptizer. He is risen from the dead. That is why these powers work in him.” 
 ^3^ For Herod had arrested John, bound him, and put him in prison for the sake of Herodias, his brother Philip’s wife. 
@@ -687,7 +762,9 @@ But Jesus said to them, [“A prophet is not without honor, except in his own co
 ^9^ The king was grieved, but for the sake of his oaths and of those who sat at the table with him, he commanded it to be given, 
 ^10^ and he sent and beheaded John in the prison. 
 ^11^ His head was brought on a platter and given to the young lady; and she brought it to her mother. 
-^12^ His disciples came, took the body, and buried it. Then they went and told Jesus. 
+^12^ His disciples came, took the body, and buried it. Then they went and told Jesus.
+
+## Feeding the Five Thousand
 ^13^ Now when Jesus heard this, he withdrew from there in a boat to a deserted place apart. When the multitudes heard it, they followed him on foot from the cities. 
 
 ^14^ Jesus went out, and he saw a great multitude. He had compassion on them and healed their sick. 
@@ -700,8 +777,9 @@ But Jesus said to them, [“A prophet is not without honor, except in his own co
 ^18^ He said, [“Bring them here to me.”]{.wj} 
 ^19^ He commanded the multitudes to sit down on the grass; and he took the five loaves and the two fish, and looking up to heaven, he blessed, broke and gave the loaves to the disciples; and the disciples gave to the multitudes. 
 ^20^ They all ate and were filled. They took up twelve baskets full of that which remained left over from the broken pieces. 
-^21^ Those who ate were about five thousand men, in addition to women and children. 
+^21^ Those who ate were about five thousand men, in addition to women and children.
 
+## Return of the disciples to the other side of the lake at night; the walk of Jesus on the lake; landing at Gennesaret
 ^22^ Immediately Jesus made the disciples get into the boat and go ahead of him to the other side, while he sent the multitudes away. 
 ^23^ After he had sent the multitudes away, he went up into the mountain by himself to pray. When evening had come, he was there alone. 
 ^24^ But the boat was now in the middle of the sea, distressed by the waves, for the wind was contrary. 
@@ -719,14 +797,16 @@ Peter stepped down from the boat and walked on the waters to come to Jesus.
 
 ^31^ Immediately Jesus stretched out his hand, took hold of him, and said to him, [“You of little faith, why did you doubt?”]{.wj} 
 ^32^ When they got up into the boat, the wind ceased. 
-^33^ Those who were in the boat came and worshiped him, saying, “You are truly the Son of God!” 
+^33^ Those who were in the boat came and worshiped him, saying, “You are truly the Son of God!”
 
+## The gathering of people and the healing of the sick in Gennesaret
 ^34^ When they had crossed over, they came to the land of Gennesaret. 
 ^35^ When the people of that place recognized him, they sent into all that surrounding region and brought to him all who were sick; 
 ^36^ and they begged him that they might just touch the fringe^a^ of his garment. As many as touched it were made whole.
 ^a^[**14:36** or, tassel] 
 
 # 15 
+## Jesus' dispute with his opponents over washing his hands; his warning of human statutes and the mark of true impurity
 ^1^ Then Pharisees and scribes came to Jesus from Jerusalem, saying, 
 ^2^ “Why do your disciples disobey the tradition of the elders? For they don’t wash their hands when they eat bread.” 
 
@@ -753,8 +833,9 @@ Peter stepped down from the boat and walked on the waters to come to Jesus.
 ^17^ [Don’t you understand that whatever goes into the mouth passes into the belly and then out of the body?]{.wj} 
 ^18^ [But the things which proceed out of the mouth come out of the heart, and they defile the man.]{.wj} 
 ^19^ [For out of the heart come evil thoughts, murders, adulteries, sexual sins, thefts, false testimony, and blasphemies.]{.wj} 
-^20^ [These are the things which defile the man; but to eat with unwashed hands doesn’t defile the man.”]{.wj} 
+^20^ [These are the things which defile the man; but to eat with unwashed hands doesn’t defile the man.”]{.wj}
 
+## Jesus and the Canaanite woman in the Tire and Sidon area
 ^21^ Jesus went out from there and withdrew into the region of Tyre and Sidon. 
 ^22^ Behold, a Canaanite woman came out from those borders and cried, saying, “Have mercy on me, Lord, you son of David! My daughter is severely possessed by a demon!” 
 
@@ -770,8 +851,9 @@ His disciples came and begged him, saying, “Send her away; for she cries after
 
 ^27^ But she said, “Yes, Lord, but even the dogs eat the crumbs which fall from their masters’ table.” 
 
-^28^ Then Jesus answered her, [“Woman, great is your faith! Be it done to you even as you desire.”]{.wj} And her daughter was healed from that hour. 
+^28^ Then Jesus answered her, [“Woman, great is your faith! Be it done to you even as you desire.”]{.wj} And her daughter was healed from that hour.
 
+## Healing activity of Jesus in Galilee on the eastern shore of the lake; Feeding the four thousand
 ^29^ Jesus departed from there and came near to the sea of Galilee; and he went up on the mountain and sat there. 
 ^30^ Great multitudes came to him, having with them the lame, blind, mute, maimed, and many others, and they put them down at his feet. He healed them, 
 ^31^ so that the multitude wondered when they saw the mute speaking, the injured healed, the lame walking, and the blind seeing—and they glorified the God of Israel. 
@@ -791,6 +873,7 @@ They said, “Seven, and a few small fish.”
 ^39^ Then he sent away the multitudes, got into the boat, and came into the borders of Magdala. 
 
 # 16 
+## Rejection of opponents' demand for signs and warning against the leaven of the Pharisees
 ^1^ The Pharisees and Sadducees came, and testing him, asked him to show them a sign from heaven. 
 ^2^ But he answered them, [“When it is evening, you say, ‘It will be fair weather, for the sky is red.’]{.wj} 
 ^3^ [In the morning, ‘It will be foul weather today, for the sky is red and threatening.’ Hypocrites! You know how to discern the appearance of the sky, but you can’t discern the signs of the times!]{.wj} 
@@ -807,8 +890,9 @@ He left them and departed.
 ^10^ [or the seven loaves for the four thousand, and how many baskets you took up?]{.wj} 
 ^11^ [How is it that you don’t perceive that I didn’t speak to you concerning bread? But beware of the yeast of the Pharisees and Sadducees.”]{.wj} 
 
-^12^ Then they understood that he didn’t tell them to beware of the yeast of bread, but of the teaching of the Pharisees and Sadducees. 
+^12^ Then they understood that he didn’t tell them to beware of the yeast of bread, but of the teaching of the Pharisees and Sadducees.
 
+## Peter's Confession of the Messiah at Caesarea Philippi; Calling Peter to be the founder and leader of the church
 ^13^ Now when Jesus came into the parts of Caesarea Philippi, he asked his disciples, saying, [“Who do men say that I, the Son of Man, am?”]{.wj} 
 
 ^14^ They said, “Some say John the Baptizer, some, Elijah, and others, Jeremiah or one of the prophets.” 
@@ -823,12 +907,14 @@ He left them and departed.
 ^20^ Then he commanded the disciples that they should tell no one that he was Jesus the Christ. 
 ^a^[**16:18** Peter’s name, Petros in Greek, is the word for a specific rock or stone.] ^b^[**16:18** Greek, petra, a rock mass or bedrock.] ^c^[**16:18** or, Hell]
 
+## First announcement of suffering
 ^21^ From that time, Jesus began to show his disciples that he must go to Jerusalem and suffer many things from the elders, chief priests, and scribes, and be killed, and the third day be raised up. 
 
 ^22^ Peter took him aside and began to rebuke him, saying, “Far be it from you, Lord! This will never be done to you.” 
 
-^23^ But he turned and said to Peter, [“Get behind me, Satan! You are a stumbling block to me, for you are not setting your mind on the things of God, but on the things of men.”]{.wj} 
+^23^ But he turned and said to Peter, [“Get behind me, Satan! You are a stumbling block to me, for you are not setting your mind on the things of God, but on the things of men.”]{.wj}
 
+## Proverbs about following the disciples in suffering
 ^24^ Then Jesus said to his disciples, [“If anyone desires to come after me, let him deny himself, take up his cross, and follow me.]{.wj} 
 ^25^ [For whoever desires to save his life will lose it, and whoever will lose his life for my sake will find it.]{.wj} 
 ^26^ [For what will it profit a man if he gains the whole world and forfeits his life? Or what will a man give in exchange for his life?]{.wj} 
@@ -836,6 +922,7 @@ He left them and departed.
 ^28^ [Most certainly I tell you, there are some standing here who will in no way taste of death until they see the Son of Man coming in his Kingdom.”]{.wj} 
 
 # 17 
+## The transfiguration of Jesus on the mountain
 ^1^ After six days, Jesus took with him Peter, James, and John his brother, and brought them up into a high mountain by themselves. 
 ^2^ He was changed^a^ before them. His face shone like the sun, and his garments became as white as the light. 
 ^3^ Behold, Moses and Elijah appeared to them talking with him. 
@@ -855,8 +942,9 @@ He left them and departed.
 
 ^11^ Jesus answered them, [“Elijah indeed comes first, and will restore all things;]{.wj} 
 ^12^ [but I tell you that Elijah has come already, and they didn’t recognize him, but did to him whatever they wanted to. Even so the Son of Man will also suffer by them.”]{.wj} 
-^13^ Then the disciples understood that he spoke to them of John the Baptizer. 
+^13^ Then the disciples understood that he spoke to them of John the Baptizer.
 
+## Cure of an epileptic child; Teaching about the failure of the disciples
 ^14^ When they came to the multitude, a man came to him, kneeling down to him and saying, 
 ^15^ “Lord, have mercy on my son, for he is epileptic and suffers grievously; for he often falls into the fire, and often into the water. 
 ^16^ So I brought him to your disciples, and they could not cure him.” 
@@ -870,11 +958,13 @@ He left them and departed.
 ^21^ [But this kind doesn’t go out except by prayer and fasting.”]{.wj}^a^ 
 ^a^[**17:21** NU omits verse 21.]
 
+## Second announcement of suffering in Galilee
 ^22^ While they were staying in Galilee, Jesus said to them, [“The Son of Man is about to be delivered up into the hands of men,]{.wj} 
 ^23^ [and they will kill him, and the third day he will be raised up.”]{.wj} 
 
-They were exceedingly sorry. 
+They were exceedingly sorry.
 
+## The temple tax and its wonderful payment in Capernaum
 ^24^ When they had come to Capernaum, those who collected the didrachma coins^a^ came to Peter, and said, “Doesn’t your teacher pay the didrachma?” 
 ^25^ He said, “Yes.” 
 ^a^[**17:24** A didrachma is a Greek silver coin worth 2 drachmas, about as much as 2 Roman denarii, or about 2 days’ wages. It was commonly used to pay the half-shekel temple tax, because 2 drachmas were worth one half shekel of silver. A shekel is about 10 grams or about 0.35 ounces.]
@@ -888,12 +978,15 @@ Jesus said to him, [“Therefore the children are exempt.]{.wj}
 ^a^[**17:27** A stater is a silver coin equivalent to four Attic or two Alexandrian drachmas, or a Jewish shekel: just exactly enough to cover the half-shekel temple tax for two people. A shekel is about 10 grams or about 0.35 ounces, usually in the form of a silver coin.] 
 
 # 18 
+## Controversy between disciples; Jesus' exhortation to humility
 ^1^ In that hour the disciples came to Jesus, saying, “Who then is greatest in the Kingdom of Heaven?” 
 
 ^2^ Jesus called a little child to himself, and set him in the middle of them 
 ^3^ and said, [“Most certainly I tell you, unless you turn and become as little children, you will in no way enter into the Kingdom of Heaven.]{.wj} 
 ^4^ [Whoever therefore humbles himself as this little child is the greatest in the Kingdom of Heaven.]{.wj} 
-^5^ [Whoever receives one such little child in my name receives me,]{.wj} 
+^5^ [Whoever receives one such little child in my name receives me,]{.wj}
+
+## Jesus' concern for the little ones and the weak; Warning against the seducers of evil
 ^6^ [but whoever causes one of these little ones who believe in me to stumble, it would be better for him if a huge millstone were hung around his neck and that he were sunk in the depths of the sea.]{.wj} 
 
 ^7^ [“Woe to the world because of occasions of stumbling! For it must be that the occasions come, but woe to that person through whom the occasion comes!]{.wj} 
@@ -903,10 +996,12 @@ Jesus said to him, [“Therefore the children are exempt.]{.wj}
 ^11^ [For the Son of Man came to save that which was lost.]{.wj}^b^ 
 ^a^[**18:9** or, Hell] ^b^[**18:11** NU omits verse 11.]
 
+## The parable of the lost sheep
 ^12^ [“What do you think? If a man has one hundred sheep, and one of them goes astray, doesn’t he leave the ninety-nine, go to the mountains, and seek that which has gone astray?]{.wj} 
 ^13^ [If he finds it, most certainly I tell you, he rejoices over it more than over the ninety-nine which have not gone astray.]{.wj} 
-^14^ [Even so it is not the will of your Father who is in heaven that one of these little ones should perish.]{.wj} 
+^14^ [Even so it is not the will of your Father who is in heaven that one of these little ones should perish.]{.wj}
 
+## Of behavior towards the sinful brother; on the effect of the church's judgment and prayer
 ^15^ [“If your brother sins against you, go, show him his fault between you and him alone. If he listens to you, you have gained back your brother.]{.wj} 
 ^16^ [But if he doesn’t listen, take one or two more with you, that at the mouth of two or three witnesses every word may be established.]{.wj}^a^ 
 ^17^ [If he refuses to listen to them, tell it to the assembly. If he refuses to hear the assembly also, let him be to you as a Gentile or a tax collector.]{.wj} 
@@ -915,6 +1010,7 @@ Jesus said to him, [“Therefore the children are exempt.]{.wj}
 ^20^ [For where two or three are gathered together in my name, there I am in the middle of them.”]{.wj} 
 ^a^[**18:16** Deuteronomy 19:15]
 
+## Of forgiveness; the parable of the scoundrel
 ^21^ Then Peter came and said to him, “Lord, how often shall my brother sin against me, and I forgive him? Until seven times?” 
 
 ^22^ Jesus said to him, [“I don’t tell you until seven times, but, until seventy times seven.]{.wj} 
@@ -937,6 +1033,7 @@ Jesus said to him, [“Therefore the children are exempt.]{.wj}
 ^35^ [So my heavenly Father will also do to you, if you don’t each forgive your brother from your hearts for his misdeeds.”]{.wj} 
 
 # 19 
+## Depart for Jerusalem and walk along the East Bank; Conversations on marriage, on divorce and renunciation of marriage
 ^1^ When Jesus had finished these words, he departed from Galilee and came into the borders of Judea beyond the Jordan. 
 ^2^ Great multitudes followed him, and he healed them there. 
 
@@ -955,12 +1052,14 @@ Jesus said to him, [“Therefore the children are exempt.]{.wj}
 ^10^ His disciples said to him, “If this is the case of the man with his wife, it is not expedient to marry.” 
 
 ^11^ But he said to them, [“Not all men can receive this saying, but those to whom it is given.]{.wj} 
-^12^ [For there are eunuchs who were born that way from their mother’s womb, and there are eunuchs who were made eunuchs by men; and there are eunuchs who made themselves eunuchs for the Kingdom of Heaven’s sake. He who is able to receive it, let him receive it.”]{.wj} 
+^12^ [For there are eunuchs who were born that way from their mother’s womb, and there are eunuchs who were made eunuchs by men; and there are eunuchs who made themselves eunuchs for the Kingdom of Heaven’s sake. He who is able to receive it, let him receive it.”]{.wj}
 
+## Jesus blesses the children
 ^13^ Then little children were brought to him that he should lay his hands on them and pray; and the disciples rebuked them. 
 ^14^ But Jesus said, [“Allow the little children, and don’t forbid them to come to me; for the Kingdom of Heaven belongs to ones like these.”]{.wj} 
-^15^ He laid his hands on them, and departed from there. 
+^15^ He laid his hands on them, and departed from there.
 
+## Jesus' conversation with the rich young ruler; the danger of wealth
 ^16^ Behold, one came to him and said, “Good teacher, what good thing shall I do, that I may have eternal life?” 
 
 ^17^ He said to him, [“Why do you call me good?]{.wj}^a^ [No one is good but one, that is, God. But if you want to enter into life, keep the commandments.”]{.wj} 
@@ -982,8 +1081,9 @@ Jesus said, [“‘You shall not murder.’ ‘You shall not commit adultery.’
 
 ^25^ When the disciples heard it, they were exceedingly astonished, saying, “Who then can be saved?” 
 
-^26^ Looking at them, Jesus said, [“With men this is impossible, but with God all things are possible.”]{.wj} 
+^26^ Looking at them, Jesus said, [“With men this is impossible, but with God all things are possible.”]{.wj}
 
+## The reward of following Jesus and renunciation
 ^27^ Then Peter answered, “Behold, we have left everything and followed you. What then will we have?” 
 
 ^28^ Jesus said to them, [“Most certainly I tell you that you who have followed me, in the regeneration when the Son of Man will sit on the throne of his glory, you also will sit on twelve thrones, judging the twelve tribes of Israel.]{.wj} 
@@ -991,6 +1091,7 @@ Jesus said, [“‘You shall not murder.’ ‘You shall not commit adultery.’
 ^30^ [But many will be last who are first, and first who are last.]{.wj} 
 
 # 20 
+## Parable of the workers in the vineyard
 ^1^ [“For the Kingdom of Heaven is like a man who was the master of a household, who went out early in the morning to hire laborers for his vineyard.]{.wj} 
 ^2^ [When he had agreed with the laborers for a denarius]{.wj}^a^ [a day, he sent them into his vineyard.]{.wj} 
 ^3^ [He went out about the third hour,]{.wj}^b^ [and saw others standing idle in the marketplace.]{.wj} 
@@ -1012,12 +1113,14 @@ Jesus said, [“‘You shall not murder.’ ‘You shall not commit adultery.’
 ^13^ [“But he answered one of them, ‘Friend, I am doing you no wrong. Didn’t you agree with me for a denarius?]{.wj} 
 ^14^ [Take that which is yours, and go your way. It is my desire to give to this last just as much as to you.]{.wj} 
 ^15^ [Isn’t it lawful for me to do what I want to with what I own? Or is your eye evil, because I am good?’]{.wj} 
-^16^ [So the last will be first, and the first last. For many are called, but few are chosen.”]{.wj} 
+^16^ [So the last will be first, and the first last. For many are called, but few are chosen.”]{.wj}
 
+## Depart for Jerusalem; third announcement of the suffering of Jesus
 ^17^ As Jesus was going up to Jerusalem, he took the twelve disciples aside, and on the way he said to them, 
 ^18^ [“Behold, we are going up to Jerusalem, and the Son of Man will be delivered to the chief priests and scribes, and they will condemn him to death,]{.wj} 
-^19^ [and will hand him over to the Gentiles to mock, to scourge, and to crucify; and the third day he will be raised up.”]{.wj} 
+^19^ [and will hand him over to the Gentiles to mock, to scourge, and to crucify; and the third day he will be raised up.”]{.wj}
 
+## Salomé's ambitious request for her sons James and John
 ^20^ Then the mother of the sons of Zebedee came to him with her sons, kneeling and asking a certain thing of him. 
 ^21^ He said to her, [“What do you want?”]{.wj} 
 
@@ -1027,8 +1130,9 @@ She said to him, “Command that these, my two sons, may sit, one on your right 
 
 They said to him, “We are able.” 
 
-^23^ He said to them, [“You will indeed drink my cup, and be baptized with the baptism that I am baptized with; but to sit on my right hand and on my left hand is not mine to give, but it is for whom it has been prepared by my Father.”]{.wj} 
+^23^ He said to them, [“You will indeed drink my cup, and be baptized with the baptism that I am baptized with; but to sit on my right hand and on my left hand is not mine to give, but it is for whom it has been prepared by my Father.”]{.wj}
 
+## Of the duty to serve for the kingdom of heaven
 ^24^ When the ten heard it, they were indignant with the two brothers. 
 
 ^25^ But Jesus summoned them, and said, [“You know that the rulers of the nations lord it over them, and their great ones exercise authority over them.]{.wj} 
@@ -1037,6 +1141,7 @@ They said to him, “We are able.”
 ^28^ [even as the Son of Man came not to be served, but to serve, and to give his life as a ransom for many.”]{.wj} 
 ^a^[**20:26** TR reads “let him be” instead of “shall be” ]
 
+## Healing of two blind men near Jericho
 ^29^ As they went out from Jericho, a great multitude followed him. 
 ^30^ Behold, two blind men sitting by the road, when they heard that Jesus was passing by, cried out, “Lord, have mercy on us, you son of David!” 
 ^31^ The multitude rebuked them, telling them that they should be quiet, but they cried out even more, “Lord, have mercy on us, you son of David!” 
@@ -1048,6 +1153,7 @@ They said to him, “We are able.”
 ^34^ Jesus, being moved with compassion, touched their eyes; and immediately their eyes received their sight, and they followed him. 
 
 # 21 
+## Entry of Jesus into Jerusalem
 ^1^ When they came near to Jerusalem and came to Bethsphage,^a^ to the Mount of Olives, then Jesus sent two disciples, 
 ^2^ saying to them, [“Go into the village that is opposite you, and immediately you will find a donkey tied, and a colt with her. Untie them and bring them to me.]{.wj} 
 ^3^ [If anyone says anything to you, you shall say, ‘The Lord needs them,’ and immediately he will send them.”]{.wj} 
@@ -1065,12 +1171,14 @@ They said to him, “We are able.”
 
 ^10^ When he had come into Jerusalem, all the city was stirred up, saying, “Who is this?” 
 
-^11^ The multitudes said, “This is the prophet, Jesus, from Nazareth of Galilee.” 
+^11^ The multitudes said, “This is the prophet, Jesus, from Nazareth of Galilee.”
 
+## The cleansing of the temple
 ^12^ Jesus entered into the temple of God and drove out all of those who sold and bought in the temple, and overthrew the money changers’ tables and the seats of those who sold the doves. 
 ^13^ He said to them, [“It is written, ‘My house shall be called a house of prayer,’]{.wj}^a^ [but you have made it a den of robbers!”]{.wj}^b^ 
 ^a^[**21:13** Isaiah 56:7] ^b^[**21:13** Jeremiah 7:11]
 
+## Healings in the temple and tribute to children
 ^14^ The lame and the blind came to him in the temple, and he healed them. 
 ^15^ But when the chief priests and the scribes saw the wonderful things that he did, and the children who were crying in the temple and saying, “Hosanna to the son of David!” they were indignant, 
 ^16^ and said to him, “Do you hear what these are saying?” 
@@ -1078,8 +1186,9 @@ They said to him, “We are able.”
 Jesus said to them, [“Yes. Did you never read, ‘Out of the mouth of children and nursing babies, you have perfected praise?’”]{.wj}^a^ 
 ^a^[**21:16** Psalm 8:2]
 
-^17^ He left them and went out of the city to Bethany, and camped there. 
+^17^ He left them and went out of the city to Bethany, and camped there.
 
+## The curse of the barren fig tree
 ^18^ Now in the morning, as he returned to the city, he was hungry. 
 ^19^ Seeing a fig tree by the road, he came to it and found nothing on it but leaves. He said to it, [“Let there be no fruit from you forever!”]{.wj} 
 
@@ -1088,8 +1197,9 @@ Immediately the fig tree withered away.
 ^20^ When the disciples saw it, they marveled, saying, “How did the fig tree immediately wither away?” 
 
 ^21^ Jesus answered them, [“Most certainly I tell you, if you have faith and don’t doubt, you will not only do what was done to the fig tree, but even if you told this mountain, ‘Be taken up and cast into the sea,’ it would be done.]{.wj} 
-^22^ [All things, whatever you ask in prayer, believing, you will receive.”]{.wj} 
+^22^ [All things, whatever you ask in prayer, believing, you will receive.”]{.wj}
 
+## The High Council Question on the Authority of Jesus
 ^23^ When he had come into the temple, the chief priests and the elders of the people came to him as he was teaching, and said, “By what authority do you do these things? Who gave you this authority?” 
 
 ^24^ Jesus answered them, [“I also will ask you one question, which if you tell me, I likewise will tell you by what authority I do these things.]{.wj} 
@@ -1099,7 +1209,9 @@ They reasoned with themselves, saying, “If we say, ‘From heaven,’ he will 
 ^26^ But if we say, ‘From men,’ we fear the multitude, for all hold John as a prophet.” 
 ^27^ They answered Jesus, and said, “We don’t know.” 
 
-He also said to them, [“Neither will I tell you by what authority I do these things.]{.wj} 
+He also said to them, [“Neither will I tell you by what authority I do these things.]{.wj}
+
+## The parable of the two unequal sons
 ^28^ [But what do you think? A man had two sons, and he came to the first, and said, ‘Son, go work today in my vineyard.’]{.wj} 
 ^29^ [He answered, ‘I will not,’ but afterward he changed his mind, and went.]{.wj} 
 ^30^ [He came to the second, and said the same thing. He answered, ‘I’m going, sir,’ but he didn’t go.]{.wj} 
@@ -1108,8 +1220,9 @@ He also said to them, [“Neither will I tell you by what authority I do these t
 They said to him, “The first.” 
 
 Jesus said to them, [“Most certainly I tell you that the tax collectors and the prostitutes are entering into God’s Kingdom before you.]{.wj} 
-^32^ [For John came to you in the way of righteousness, and you didn’t believe him; but the tax collectors and the prostitutes believed him. When you saw it, you didn’t even repent afterward, that you might believe him.]{.wj} 
+^32^ [For John came to you in the way of righteousness, and you didn’t believe him; but the tax collectors and the prostitutes believed him. When you saw it, you didn’t even repent afterward, that you might believe him.]{.wj}
 
+## The parable of the unfaithful winegrowers
 ^33^ [“Hear another parable. There was a man who was a master of a household who planted a vineyard, set a hedge about it, dug a wine press in it, built a tower, leased it out to farmers, and went into another country.]{.wj} 
 ^34^ [When the season for the fruit came near, he sent his servants to the farmers to receive his fruit.]{.wj} 
 ^35^ [The farmers took his servants, beat one, killed another, and stoned another.]{.wj} 
@@ -1131,6 +1244,7 @@ Jesus said to them, [“Most certainly I tell you that the tax collectors and th
 ^46^ When they sought to seize him, they feared the multitudes, because they considered him to be a prophet. 
 
 # 22 
+## The Parable of the Royal Wedding Supper
 ^1^ Jesus answered and spoke to them again in parables, saying, 
 ^2^ [“The Kingdom of Heaven is like a certain king, who made a wedding feast for his son,]{.wj} 
 ^3^ [and sent out his servants to call those who were invited to the wedding feast, but they would not come.]{.wj} 
@@ -1146,8 +1260,9 @@ Jesus said to them, [“Most certainly I tell you that the tax collectors and th
 ^11^ [“But when the king came in to see the guests, he saw there a man who didn’t have on wedding clothing,]{.wj} 
 ^12^ [and he said to him, ‘Friend, how did you come in here not wearing wedding clothing?’ He was speechless.]{.wj} 
 ^13^ [Then the king said to the servants, ‘Bind him hand and foot, take him away, and throw him into the outer darkness. That is where the weeping and grinding of teeth will be.’]{.wj} 
-^14^ [For many are called, but few chosen.”]{.wj} 
+^14^ [For many are called, but few chosen.”]{.wj}
 
+## The tax issue of the Pharisees
 ^15^ Then the Pharisees went and took counsel how they might entrap him in his talk. 
 ^16^ They sent their disciples to him, along with the Herodians, saying, “Teacher, we know that you are honest, and teach the way of God in truth, no matter whom you teach; for you aren’t partial to anyone. 
 ^17^ Tell us therefore, what do you think? Is it lawful to pay taxes to Caesar, or not?” 
@@ -1163,8 +1278,9 @@ They brought to him a denarius.
 
 Then he said to them, [“Give therefore to Caesar the things that are Caesar’s, and to God the things that are God’s.”]{.wj} 
 
-^22^ When they heard it, they marveled, and left him and went away. 
+^22^ When they heard it, they marveled, and left him and went away.
 
+## On the resurrection of the dead
 ^23^ On that day Sadducees (those who say that there is no resurrection) came to him. They asked him, 
 ^24^ saying, “Teacher, Moses said, ‘If a man dies, having no children, his brother shall marry his wife and raise up offspring^a^ for his brother.’ 
 ^25^ Now there were with us seven brothers. The first married and died, and having no offspring left his wife to his brother. 
@@ -1179,8 +1295,9 @@ Then he said to them, [“Give therefore to Caesar the things that are Caesar’
 ^32^ [‘I am the God of Abraham, and the God of Isaac, and the God of Jacob?’]{.wj}^a^ [God is not the God of the dead, but of the living.”]{.wj} 
 ^a^[**22:32** Exodus 3:6]
 
-^33^ When the multitudes heard it, they were astonished at his teaching. 
+^33^ When the multitudes heard it, they were astonished at his teaching.
 
+## A Lawyer's Question about the Noblest Commandment
 ^34^ But the Pharisees, when they heard that he had silenced the Sadducees, gathered themselves together. 
 ^35^ One of them, a lawyer, asked him a question, testing him. 
 ^36^ “Teacher, which is the greatest commandment in the law?” 
@@ -1191,6 +1308,7 @@ Then he said to them, [“Give therefore to Caesar the things that are Caesar’
 ^40^ [The whole law and the prophets depend on these two commandments.”]{.wj} 
 ^a^[**22:37** Deuteronomy 6:5 ] ^b^[**22:39** Leviticus 19:18]
 
+## Jesus' counter question about the Messiah as son of David
 ^41^ Now while the Pharisees were gathered together, Jesus asked them a question, 
 ^42^ saying, [“What do you think of the Christ? Whose son is he?”]{.wj} 
 
@@ -1205,7 +1323,10 @@ They said to him, “Of David.”
 ^46^ No one was able to answer him a word, neither did any man dare ask him any more questions from that day forward. 
 
 # 23 
-^1^ Then Jesus spoke to the multitudes and to his disciples, 
+## Jesus' great punishment speech against the scribes and Pharisees
+^1^ Then Jesus spoke to the multitudes and to his disciples,
+
+## Reprimand for the reprehensible behavior of the spiritual leaders of the people in their high office
 ^2^ saying, [“The scribes and the Pharisees sit on Moses’ seat.]{.wj} 
 ^3^ [All things therefore whatever they tell you to observe, observe and do, but don’t do their works; for they say, and don’t do.]{.wj} 
 ^4^ [For they bind heavy burdens that are grievous to be borne, and lay them on men’s shoulders; but they themselves will not lift a finger to help them.]{.wj} 
@@ -1219,6 +1340,7 @@ They said to him, “Of David.”
 ^12^ [Whoever exalts himself will be humbled, and whoever humbles himself will be exalted.]{.wj} 
 ^a^[**23:5** phylacteries (tefillin in Hebrew) are small leather pouches that some Jewish men wear on their forehead and arm in prayer. They are used to carry a small scroll with some Scripture in it. See Deuteronomy 6:8.] ^b^[**23:5** or, tassels] ^c^[**23:7** NU omits the second “Rabbi”. ]
 
+## The seven woes of the scribes and Pharisees
 ^13^ [“Woe to you, scribes and Pharisees, hypocrites! For you devour widows’ houses, and as a pretense you make long prayers. Therefore you will receive greater condemnation.]{.wj} 
 
 ^14^ [“But woe to you, scribes and Pharisees, hypocrites! Because you shut up the Kingdom of Heaven against men; for you don’t enter in yourselves, neither do you allow those who are entering in to enter.]{.wj}^a^ 
@@ -1249,36 +1371,43 @@ They said to him, “Of David.”
 ^30^ [and say, ‘If we had lived in the days of our fathers, we wouldn’t have been partakers with them in the blood of the prophets.’]{.wj} 
 ^31^ [Therefore you testify to yourselves that you are children of those who killed the prophets.]{.wj} 
 ^32^ [Fill up, then, the measure of your fathers.]{.wj} 
-^33^ [You serpents, you offspring of vipers, how will you escape the judgment of Gehenna?]{.wj}^a^ 
+^33^ [You serpents, you offspring of vipers, how will you escape the judgment of Gehenna?]{.wj}^a^
+
+## Threat against bloodstained people who resist their salvation
 ^34^ [Therefore, behold, I send to you prophets, wise men, and scribes. Some of them you will kill and crucify; and some of them you will scourge in your synagogues and persecute from city to city,]{.wj} 
 ^35^ [that on you may come all the righteous blood shed on the earth, from the blood of righteous Abel to the blood of Zachariah son of Barachiah, whom you killed between the sanctuary and the altar.]{.wj} 
 ^36^ [Most certainly I tell you, all these things will come upon this generation.]{.wj} 
 ^a^[**23:33** or, Hell]
 
+## Departure of Jesus from the city of Jerusalem and announcement of his return
 ^37^ [“Jerusalem, Jerusalem, who kills the prophets and stones those who are sent to her! How often I would have gathered your children together, even as a hen gathers her chicks under her wings, and you would not!]{.wj} 
 ^38^ [Behold, your house is left to you desolate.]{.wj} 
 ^39^ [For I tell you, you will not see me from now on, until you say, ‘Blessed is he who comes in the name of the Lord!’”]{.wj}^a^
 ^a^[**23:39** Psalm 118:26 ] 
 
 # 24 
+## The Mount of Olives of Jesus to his disciples since the destruction of the temple, since the end of this world, since his second coming and since the judgment on the peoples
 ^1^ Jesus went out from the temple, and was going on his way. His disciples came to him to show him the buildings of the temple. 
 ^2^ But he answered them, [“You see all of these things, don’t you? Most certainly I tell you, there will not be left here one stone on another, that will not be thrown down.”]{.wj} 
 
-^3^ As he sat on the Mount of Olives, the disciples came to him privately, saying, “Tell us, when will these things be? What is the sign of your coming, and of the end of the age?” 
+^3^ As he sat on the Mount of Olives, the disciples came to him privately, saying, “Tell us, when will these things be? What is the sign of your coming, and of the end of the age?”
 
+## The end of this world time; the first signs
 ^4^ Jesus answered them, [“Be careful that no one leads you astray.]{.wj} 
 ^5^ [For many will come in my name, saying, ‘I am the Christ,’ and will lead many astray.]{.wj} 
 ^6^ [You will hear of wars and rumors of wars. See that you aren’t troubled, for all this must happen, but the end is not yet.]{.wj} 
 ^7^ [For nation will rise against nation, and kingdom against kingdom; and there will be famines, plagues, and earthquakes in various places.]{.wj} 
-^8^ [But all these things are the beginning of birth pains.]{.wj} 
+^8^ [But all these things are the beginning of birth pains.]{.wj}
 
+## The persecutions of the disciples
 ^9^ [“Then they will deliver you up to oppression and will kill you. You will be hated by all of the nations for my name’s sake.]{.wj} 
 ^10^ [Then many will stumble, and will deliver up one another, and will hate one another.]{.wj} 
 ^11^ [Many false prophets will arise and will lead many astray.]{.wj} 
 ^12^ [Because iniquity will be multiplied, the love of many will grow cold.]{.wj} 
 ^13^ [But he who endures to the end will be saved.]{.wj} 
-^14^ [This Good News of the Kingdom will be preached in the whole world for a testimony to all the nations, and then the end will come.]{.wj} 
+^14^ [This Good News of the Kingdom will be preached in the whole world for a testimony to all the nations, and then the end will come.]{.wj}
 
+## The climax of the tribulation in Judea
 ^15^ [“When, therefore, you see the abomination of desolation,]{.wj}^a^ [which was spoken of through Daniel the prophet, standing in the holy place (let the reader understand),]{.wj} 
 ^16^ [then let those who are in Judea flee to the mountains.]{.wj} 
 ^17^ [Let him who is on the housetop not go down to take out the things that are in his house.]{.wj} 
@@ -1289,6 +1418,7 @@ They said to him, “Of David.”
 ^22^ [Unless those days had been shortened, no flesh would have been saved. But for the sake of the chosen ones, those days will be shortened.]{.wj} 
 ^a^[**24:15** Daniel 9:27; 11:31; 12:11] ^b^[**24:21** or, oppression]
 
+## Prophecy of false prophets
 ^23^ [“Then if any man tells you, ‘Behold, here is the Christ!’ or, ‘There!’ don’t believe it.]{.wj} 
 ^24^ [For false christs and false prophets will arise, and they will show great signs and wonders, so as to lead astray, if possible, even the chosen ones.]{.wj} 
 
@@ -1299,6 +1429,7 @@ They said to him, “Of David.”
 ^28^ [For wherever the carcass is, that is where the vultures]{.wj}^a^ [gather together.]{.wj} 
 ^a^[**24:28** or, eagles]
 
+## The last omens and the second coming of the Son of Man with the accompanying phenomena
 ^29^ [“But immediately after the suffering]{.wj}^a^ [of those days, the sun will be darkened, the moon will not give its light, the stars will fall from the sky, and the powers of the heavens will be shaken;]{.wj}^b^ 
 ^30^ [and then the sign of the Son of Man will appear in the sky. Then all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds of the sky with power and great glory.]{.wj} 
 ^31^ [He will send out his angels with a great sound of a trumpet, and they will gather together his chosen ones from the four winds, from one end of the sky to the other.]{.wj} 
@@ -1315,12 +1446,15 @@ They said to him, “Of David.”
 ^38^ [For as in those days which were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noah entered into the ship,]{.wj} 
 ^39^ [and they didn’t know until the flood came and took them all away, so will the coming of the Son of Man be.]{.wj} 
 ^40^ [Then two men will be in the field: one will be taken and one will be left.]{.wj} 
-^41^ [Two women will be grinding at the mill: one will be taken and one will be left.]{.wj} 
+^41^ [Two women will be grinding at the mill: one will be taken and one will be left.]{.wj}
+
+## Warning to be alert in general
 ^42^ [Watch therefore, for you don’t know in what hour your Lord comes.]{.wj} 
 ^43^ [But know this, that if the master of the house had known in what watch of the night the thief was coming, he would have watched, and would not have allowed his house to be broken into.]{.wj} 
 ^44^ [Therefore also be ready, for in an hour that you don’t expect, the Son of Man will come.]{.wj} 
 ^a^[**24:36** NU adds “nor the son”]
 
+## Parable of the faithful servant and the unfaithful
 ^45^ [“Who then is the faithful and wise servant, whom his lord has set over his household, to give them their food in due season?]{.wj} 
 ^46^ [Blessed is that servant whom his lord finds doing so when he comes.]{.wj} 
 ^47^ [Most certainly I tell you that he will set him over all that he has.]{.wj} 
@@ -1330,6 +1464,7 @@ They said to him, “Of David.”
 ^51^ [and will cut him in pieces and appoint his portion with the hypocrites. That is where the weeping and grinding of teeth will be.]{.wj} 
 
 # 25 
+## The parable of the ten wise and foolish virgins
 ^1^ [“Then the Kingdom of Heaven will be like ten virgins who took their lamps and went out to meet the bridegroom.]{.wj} 
 ^2^ [Five of them were foolish, and five were wise.]{.wj} 
 ^3^ [Those who were foolish, when they took their lamps, took no oil with them,]{.wj} 
@@ -1345,6 +1480,7 @@ They said to him, “Of David.”
 ^13^ [Watch therefore, for you don’t know the day nor the hour in which the Son of Man is coming.]{.wj} 
 ^a^[**25:7** The end of the wick of an oil lamp needs to be cut off periodically to avoid having it become clogged with carbon deposits. The wick height is also adjusted so that the flame burns evenly and gives good light without producing a lot of smoke.]
 
+## Parable of the Confident Talents
 ^14^ [“For it is like a man going into another country, who called his own servants and entrusted his goods to them.]{.wj} 
 ^15^ [To one he gave five talents,]{.wj}^a^ [to another two, to another one, to each according to his own ability. Then he went on his journey.]{.wj} 
 ^16^ [Immediately he who received the five talents went and traded with them, and made another five talents.]{.wj} 
@@ -1368,8 +1504,9 @@ They said to him, “Of David.”
 ^27^ [You ought therefore to have deposited my money with the bankers, and at my coming I should have received back my own with interest.]{.wj} 
 ^28^ [Take away therefore the talent from him and give it to him who has the ten talents.]{.wj} 
 ^29^ [For to everyone who has will be given, and he will have abundance, but from him who doesn’t have, even that which he has will be taken away.]{.wj} 
-^30^ [Throw out the unprofitable servant into the outer darkness, where there will be weeping and gnashing of teeth.’]{.wj} 
+^30^ [Throw out the unprofitable servant into the outer darkness, where there will be weeping and gnashing of teeth.’]{.wj}
 
+## The judgment of Jesus on peoples and individuals; the separation of the sheep from the goats
 ^31^ [“But when the Son of Man comes in his glory, and all the holy angels with him, then he will sit on the throne of his glory.]{.wj} 
 ^32^ [Before him all the nations will be gathered, and he will separate them one from another, as a shepherd separates the sheep from the goats.]{.wj} 
 ^33^ [He will set the sheep on his right hand, but the goats on the left.]{.wj} 
@@ -1393,13 +1530,15 @@ They said to him, “Of David.”
 ^46^ [These will go away into eternal punishment, but the righteous into eternal life.”]{.wj} 
 
 # 26 
+## Last announcement of the suffering of Jesus; Assassination attempt by village leaders
 ^1^ When Jesus had finished all these words, he said to his disciples, 
 ^2^ [“You know that after two days the Passover is coming, and the Son of Man will be delivered up to be crucified.”]{.wj} 
 
 ^3^ Then the chief priests, the scribes, and the elders of the people were gathered together in the court of the high priest, who was called Caiaphas. 
 ^4^ They took counsel together that they might take Jesus by deceit and kill him. 
-^5^ But they said, “Not during the feast, lest a riot occur among the people.” 
+^5^ But they said, “Not during the feast, lest a riot occur among the people.”
 
+## Anointing of Jesus in Bethany
 ^6^ Now when Jesus was in Bethany, in the house of Simon the leper, 
 ^7^ a woman came to him having an alabaster jar of very expensive ointment, and she poured it on his head as he sat at the table. 
 ^8^ But when his disciples saw this, they were indignant, saying, “Why this waste? 
@@ -1408,18 +1547,21 @@ They said to him, “Of David.”
 ^10^ However, knowing this, Jesus said to them, [“Why do you trouble the woman? She has done a good work for me.]{.wj} 
 ^11^ [For you always have the poor with you, but you don’t always have me.]{.wj} 
 ^12^ [For in pouring this ointment on my body, she did it to prepare me for burial.]{.wj} 
-^13^ [Most certainly I tell you, wherever this Good News is preached in the whole world, what this woman has done will also be spoken of as a memorial of her.”]{.wj} 
+^13^ [Most certainly I tell you, wherever this Good News is preached in the whole world, what this woman has done will also be spoken of as a memorial of her.”]{.wj}
 
+## Betrayal of Judas
 ^14^ Then one of the twelve, who was called Judas Iscariot, went to the chief priests 
 ^15^ and said, “What are you willing to give me if I deliver him to you?” So they weighed out for him thirty pieces of silver. 
-^16^ From that time he sought opportunity to betray him. 
+^16^ From that time he sought opportunity to betray him.
 
+## Easter meal preparation
 ^17^ Now on the first day of unleavened bread, the disciples came to Jesus, saying to him, “Where do you want us to prepare for you to eat the Passover?” 
 
 ^18^ He said, [“Go into the city to a certain person, and tell him, ‘The Teacher says, “My time is at hand. I will keep the Passover at your house with my disciples.”’”]{.wj} 
 
-^19^ The disciples did as Jesus commanded them, and they prepared the Passover. 
+^19^ The disciples did as Jesus commanded them, and they prepared the Passover.
 
+## The last supper of Jesus in the circle of the disciples; Exposition of the betrayal of Judas; Institution of Holy Communion
 ^20^ Now when evening had come, he was reclining at the table with the twelve disciples. 
 ^21^ As they were eating, he said, [“Most certainly I tell you that one of you will betray me.”]{.wj} 
 
@@ -1438,6 +1580,7 @@ He said to him, [“You said it.”]{.wj}
 ^29^ [But I tell you that I will not drink of this fruit of the vine from now on, until that day when I drink it anew with you in my Father’s Kingdom.”]{.wj} 
 ^a^[**26:26** TR reads “blessed” instead of “gave thanks for”]
 
+## Walk to Gethsemane
 ^30^ When they had sung a hymn, they went out to the Mount of Olives. 
 
 ^31^ Then Jesus said to them, [“All of you will be made to stumble because of me tonight, for it is written, ‘I will strike the shepherd, and the sheep of the flock will be scattered.’]{.wj}^a^ 
@@ -1448,8 +1591,9 @@ He said to him, [“You said it.”]{.wj}
 
 ^34^ Jesus said to him, [“Most certainly I tell you that tonight, before the rooster crows, you will deny me three times.”]{.wj} 
 
-^35^ Peter said to him, “Even if I must die with you, I will not deny you.” All of the disciples also said likewise. 
+^35^ Peter said to him, “Even if I must die with you, I will not deny you.” All of the disciples also said likewise.
 
+## The conflict and the prayer of Jesus in Gethsemane; Weakness of the disciples
 ^36^ Then Jesus came with them to a place called Gethsemane, and said to his disciples, [“Sit here, while I go there and pray.”]{.wj} 
 ^37^ He took with him Peter and the two sons of Zebedee, and began to be sorrowful and severely troubled. 
 ^38^ Then he said to them, [“My soul is exceedingly sorrowful, even to death. Stay here and watch with me.”]{.wj} 
@@ -1464,8 +1608,9 @@ He said to him, [“You said it.”]{.wj}
 ^43^ He came again and found them sleeping, for their eyes were heavy. 
 ^44^ He left them again, went away, and prayed a third time, saying the same words. 
 ^45^ Then he came to his disciples and said to them, [“Are you still sleeping and resting? Behold, the hour is at hand, and the Son of Man is betrayed into the hands of sinners.]{.wj} 
-^46^ [Arise, let’s be going. Behold, he who betrays me is at hand.”]{.wj} 
+^46^ [Arise, let’s be going. Behold, he who betrays me is at hand.”]{.wj}
 
+## Imprisonment of Jesus; Disciples Escape
 ^47^ While he was still speaking, behold, Judas, one of the twelve, came, and with him a great multitude with swords and clubs, from the chief priests and elders of the people. 
 ^48^ Now he who betrayed him had given them a sign, saying, “Whoever I kiss, he is the one. Seize him.” 
 ^49^ Immediately he came to Jesus, and said, “Greetings, Rabbi!” and kissed him. 
@@ -1482,8 +1627,9 @@ Then they came and laid hands on Jesus, and took him.
 ^55^ In that hour Jesus said to the multitudes, [“Have you come out as against a robber with swords and clubs to seize me? I sat daily in the temple teaching, and you didn’t arrest me.]{.wj} 
 ^56^ [But all this has happened that the Scriptures of the prophets might be fulfilled.”]{.wj} 
 
-Then all the disciples left him and fled. 
+Then all the disciples left him and fled.
 
+## The questioning and condemnation of Jesus before the high priest and the council
 ^57^ Those who had taken Jesus led him away to Caiaphas the high priest, where the scribes and the elders were gathered together. 
 ^58^ But Peter followed him from a distance to the court of the high priest, and entered in and sat with the officers, to see the end. 
 
@@ -1501,8 +1647,9 @@ Then all the disciples left him and fled.
 
 They answered, “He is worthy of death!” 
 ^67^ Then they spat in his face and beat him with their fists, and some slapped him, 
-^68^ saying, “Prophesy to us, you Christ! Who hit you?” 
+^68^ saying, “Prophesy to us, you Christ! Who hit you?”
 
+## Peter's denial and repentance
 ^69^ Now Peter was sitting outside in the court, and a maid came to him, saying, “You were also with Jesus, the Galilean!” 
 
 ^70^ But he denied it before them all, saying, “I don’t know what you are talking about.” 
@@ -1519,6 +1666,7 @@ Immediately the rooster crowed.
 ^75^ Peter remembered the word which Jesus had said to him, [“Before the rooster crows, you will deny me three times.”]{.wj} Then he went out and wept bitterly. 
 
 # 27 
+## Last deliberation of the high council; Extradition of the condemned to the Roman governor Pilate
 ^1^ Now when morning had come, all the chief priests and the elders of the people took counsel against Jesus to put him to death. 
 ^2^ They bound him, led him away, and delivered him up to Pontius Pilate, the governor. 
 
@@ -1536,6 +1684,7 @@ But they said, “What is that to us? You see to it.”
 ^10^ and they gave them for the potter’s field, as the Lord commanded me.”^b^ 
 ^a^[**27:9** some manuscripts omit “Jeremiah”] ^b^[**27:10** Zechariah 11:12-13; Jeremiah 19:1-13; 32:6-9]
 
+## Examination of Jesus before Pilate; Jesus rejected by the people; his damnation and scourging
 ^11^ Now Jesus stood before the governor; and the governor asked him, saying, “Are you the King of the Jews?” 
 
 Jesus said to him, [“So you say.”]{.wj} 
@@ -1543,8 +1692,9 @@ Jesus said to him, [“So you say.”]{.wj}
 ^12^ When he was accused by the chief priests and elders, he answered nothing. 
 ^13^ Then Pilate said to him, “Don’t you hear how many things they testify against you?” 
 
-^14^ He gave him no answer, not even one word, so that the governor marveled greatly. 
+^14^ He gave him no answer, not even one word, so that the governor marveled greatly.
 
+## Jesus and Barabbas
 ^15^ Now at the feast the governor was accustomed to release to the multitude one prisoner whom they desired. 
 ^16^ They had then a notable prisoner called Barabbas. 
 ^17^ When therefore they were gathered together, Pilate said to them, “Whom do you want me to release to you? Barabbas, or Jesus who is called Christ?” 
@@ -1569,14 +1719,16 @@ But they cried out exceedingly, saying, “Let him be crucified!”
 
 ^25^ All the people answered, “May his blood be on us and on our children!” 
 
-^26^ Then he released Barabbas to them, but Jesus he flogged and delivered to be crucified. 
+^26^ Then he released Barabbas to them, but Jesus he flogged and delivered to be crucified.
 
+## The mockery and mistreatment of Jesus by the Roman soldiers
 ^27^ Then the governor’s soldiers took Jesus into the Praetorium, and gathered the whole garrison together against him. 
 ^28^ They stripped him and put a scarlet robe on him. 
 ^29^ They braided a crown of thorns and put it on his head, and a reed in his right hand; and they kneeled down before him and mocked him, saying, “Hail, King of the Jews!” 
 ^30^ They spat on him, and took the reed and struck him on the head. 
-^31^ When they had mocked him, they took the robe off him, and put his clothes on him, and led him away to crucify him. 
+^31^ When they had mocked him, they took the robe off him, and put his clothes on him, and led him away to crucify him.
 
+## The course of Jesus' death after Golgotha, his crucifixion and his death
 ^32^ As they came out, they found a man of Cyrene, Simon by name, and they compelled him to go with them, that he might carry his cross. 
 ^33^ When they came to a place called “Golgotha”, that is to say, “The place of a skull,” 
 ^34^ they gave him sour wine^a^ to drink mixed with gall.^b^ When he had tasted it, he would not drink. 
@@ -1596,6 +1748,7 @@ But they cried out exceedingly, saying, “Let him be crucified!”
 ^44^ The robbers also who were crucified with him cast on him the same reproach. 
 ^a^[**27:41** TR omits “the Pharisees”]
 
+## Jesus' death; the miraculous signs of his death
 ^45^ Now from the sixth hour^a^ there was darkness over all the land until the ninth hour.^b^ 
 ^46^ About the ninth hour Jesus cried with a loud voice, saying, [“Eli, Eli, lima]{.wj}^c^ [sabachthani?”]{.wj} That is, [“My God, my God, why have you forsaken me?”]{.wj}^d^ 
 ^a^[**27:45** noon] ^b^[**27:45** 3:00 p. m.] ^c^[**27:46** TR reads “lama” instead of “lima”] ^d^[**27:46** Psalm 22:1]
@@ -1614,8 +1767,9 @@ But they cried out exceedingly, saying, “Let him be crucified!”
 ^54^ Now the centurion and those who were with him watching Jesus, when they saw the earthquake and the things that were done, were terrified, saying, “Truly this was the Son of God!” 
 
 ^55^ Many women were there watching from afar, who had followed Jesus from Galilee, serving him. 
-^56^ Among them were Mary Magdalene, Mary the mother of James and Joses, and the mother of the sons of Zebedee. 
+^56^ Among them were Mary Magdalene, Mary the mother of James and Joses, and the mother of the sons of Zebedee.
 
+## Burial of Jesus; Order of the Tomb Guards
 ^57^ When evening had come, a rich man from Arimathaea named Joseph, who himself was also Jesus’ disciple, came. 
 ^58^ This man went to Pilate and asked for Jesus’ body. Then Pilate commanded the body to be given up. 
 ^59^ Joseph took the body and wrapped it in a clean linen cloth 
@@ -1630,6 +1784,7 @@ But they cried out exceedingly, saying, “Let him be crucified!”
 ^66^ So they went with the guard and made the tomb secure, sealing the stone. 
 
 # 28 
+## The two women by the empty tomb on Easter morning; The first appearance of Jesus; Trick the village leader
 ^1^ Now after the Sabbath, as it began to dawn on the first day of the week, Mary Magdalene and the other Mary came to see the tomb. 
 ^2^ Behold, there was a great earthquake, for an angel of the Lord descended from the sky and came and rolled away the stone from the door and sat on it. 
 ^3^ His appearance was like lightning, and his clothing white as snow. 
@@ -1646,12 +1801,14 @@ They came and took hold of his feet, and worshiped him.
 ^10^ Then Jesus said to them, [“Don’t be afraid. Go tell my brothers]{.wj}^a^ [that they should go into Galilee, and there they will see me.”]{.wj} 
 ^a^[**28:10** The word for “brothers” here may be also correctly translated “brothers and sisters” or “siblings.”]
 
+## The false claim of the village leaders of the stolen body of Jesus
 ^11^ Now while they were going, behold, some of the guards came into the city and told the chief priests all the things that had happened. 
 ^12^ When they were assembled with the elders and had taken counsel, they gave a large amount of silver to the soldiers, 
 ^13^ saying, “Say that his disciples came by night and stole him away while we slept. 
 ^14^ If this comes to the governor’s ears, we will persuade him and make you free of worry.” 
-^15^ So they took the money and did as they were told. This saying was spread abroad among the Jews, and continues until today. 
+^15^ So they took the money and did as they were told. This saying was spread abroad among the Jews, and continues until today.
 
+## Jesus appeared on the mountain of Galilee; his last command to the eleven disciples
 ^16^ But the eleven disciples went into Galilee, to the mountain where Jesus had sent them. 
 ^17^ When they saw him, they bowed down to him; but some doubted. 
 ^18^ Jesus came to them and spoke to them, saying, [“All authority has been given to me in heaven and on earth.]{.wj} 

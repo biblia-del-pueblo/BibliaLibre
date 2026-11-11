@@ -1,11 +1,14 @@
 # 1 
+## Nehemiah as cupbearer to King Artaxerxes in Susa; his sorrow for the misfortune of his country
 ^1^ The words of Nehemiah the son of Hacaliah. 
 
 Now in the month Chislev, in the twentieth year, as I was in Susa the palace, 
 ^2^ Hanani, one of my brothers, came, he and certain men out of Judah; and I asked them about the Jews who had escaped, who were left of the captivity, and concerning Jerusalem. 
 ^3^ They said to me, “The remnant who are left of the captivity there in the province are in great affliction and reproach. The wall of Jerusalem is also broken down, and its gates are burned with fire.” 
 
-^4^ When I heard these words, I sat down and wept, and mourned several days; and I fasted and prayed before the God^a^ of heaven, 
+^4^ When I heard these words, I sat down and wept, and mourned several days; and I fasted and prayed before the God^a^ of heaven,
+
+## Nehemiah's penance and supplication
 ^5^ and said, “I beg you, Yahweh,^b^ the God of heaven, the great and awesome God who keeps covenant and loving kindness with those who love him and keep his commandments, 
 ^6^ let your ear now be attentive and your eyes open, that you may listen to the prayer of your servant which I pray before you at this time, day and night, for the children of Israel your servants, while I confess the sins of the children of Israel which we have sinned against you. Yes, I and my father’s house have sinned. 
 ^7^ We have dealt very corruptly against you, and have not kept the commandments, nor the statutes, nor the ordinances, which you commanded your servant Moses. 
@@ -21,6 +24,7 @@ Now in the month Chislev, in the twentieth year, as I was in Susa the palace,
 Now I was cup bearer to the king. 
 
 # 2 
+## Nehemiah receives permission and authority from Persian King Artaxerxes to restore Jerusalem
 ^1^ In the month Nisan, in the twentieth year of Artaxerxes the king, when wine was before him, I picked up the wine, and gave it to the king. Now I had not been sad before in his presence. 
 ^2^ The king said to me, “Why is your face sad, since you are not sick? This is nothing else but sorrow of heart.” 
 
@@ -40,8 +44,9 @@ So it pleased the king to send me, and I set a time for him.
 
 The king granted my requests, because of the good hand of my God on me. 
 ^9^ Then I came to the governors beyond the River, and gave them the king’s letters. Now the king had sent captains of the army and horsemen with me. 
-^10^ When Sanballat the Horonite and Tobiah the Ammonite servant heard of it, it grieved them exceedingly, because a man had come to seek the welfare of the children of Israel. 
+^10^ When Sanballat the Horonite and Tobiah the Ammonite servant heard of it, it grieved them exceedingly, because a man had come to seek the welfare of the children of Israel.
 
+## Nehemiah's night tour of the city walls; his call to the national comrades to restore the wall
 ^11^ So I came to Jerusalem, and was there three days. 
 ^12^ I arose in the night, I and a few men with me. I didn’t tell anyone what my God put into my heart to do for Jerusalem. There wasn’t any animal with me except the animal that I rode on. 
 ^13^ I went out by night by the valley gate toward the jackal’s well, then to the dung gate; and I inspected the walls of Jerusalem, which were broken down, and its gates were consumed with fire. 
@@ -49,7 +54,9 @@ The king granted my requests, because of the good hand of my God on me.
 ^15^ Then I went up in the night by the brook and inspected the wall; and I turned back, and entered by the valley gate, and so returned. 
 ^16^ The rulers didn’t know where I went, or what I did. I had not as yet told it to the Jews, nor to the priests, nor to the nobles, nor to the rulers, nor to the rest who did the work. 
 
-^17^ Then I said to them, “You see the bad situation that we are in, how Jerusalem lies waste, and its gates are burned with fire. Come, let’s build up the wall of Jerusalem, that we won’t be disgraced.” 
+^17^ Then I said to them, “You see the bad situation that we are in, how Jerusalem lies waste, and its gates are burned with fire. Come, let’s build up the wall of Jerusalem, that we won’t be disgraced.”
+
+## Commitment of the head of community; the ridicule of the three pagan opponents rejected by Nehemiah
 ^18^ I told them about the hand of my God which was good on me, and also about the king’s words that he had spoken to me. 
 
 They said, “Let’s rise up and build.” So they strengthened their hands for the good work. 
@@ -59,6 +66,7 @@ They said, “Let’s rise up and build.” So they strengthened their hands for
 ^20^ Then I answered them, and said to them, “The God of heaven will prosper us. Therefore we, his servants, will arise and build; but you have no portion, nor right, nor memorial in Jerusalem.” 
 
 # 3 
+## Construction piece by piece of the wall; List of those involved in the construction of the wall
 ^1^ Then Eliashib the high priest rose up with his brothers the priests, and they built the sheep gate. They sanctified it, and set up its doors. They sanctified it even to the tower of Hammeah, to the tower of Hananel. 
 ^2^ Next to him the men of Jericho built. Next to them Zaccur the son of Imri built. 
 
@@ -100,6 +108,7 @@ They said, “Let’s rise up and build.” So they strengthened their hands for
 ^32^ Between the ascent of the corner and the sheep gate, the goldsmiths and the merchants made repairs. 
 
 # 4 
+## Continuation of wall construction despite ridicule and hostility from pagan opponents
 ^1^ But when Sanballat heard that we were building the wall, he was angry, and was very indignant, and mocked the Jews. 
 ^2^ He spoke before his brothers and the army of Samaria, and said, “What are these feeble Jews doing? Will they fortify themselves? Will they sacrifice? Will they finish in a day? Will they revive the stones out of the heaps of rubbish, since they are burned?” 
 
@@ -108,8 +117,9 @@ They said, “Let’s rise up and build.” So they strengthened their hands for
 ^4^ “Hear, our God, for we are despised. Turn back their reproach on their own head. Give them up for a plunder in a land of captivity. 
 ^5^ Don’t cover their iniquity. Don’t let their sin be blotted out from before you; for they have insulted the builders.” 
 
-^6^ So we built the wall; and all the wall was joined together to half its height, for the people had a mind to work. 
+^6^ So we built the wall; and all the wall was joined together to half its height, for the people had a mind to work.
 
+## New attacks by opponents on the building; Nehemia's successful measures against him
 ^7^ But when Sanballat, Tobiah, the Arabians, the Ammonites, and the Ashdodites heard that the repairing of the walls of Jerusalem went forward, and that the breaches began to be filled, they were very angry; 
 ^8^ and they all conspired together to come and fight against Jerusalem, and to cause confusion among us. 
 ^9^ But we made our prayer to our God, and set a watch against them day and night because of them. 
@@ -134,6 +144,7 @@ They said, “Let’s rise up and build.” So they strengthened their hands for
 ^23^ So neither I, nor my brothers, nor my servants, nor the men of the guard who followed me took off our clothes. Everyone took his weapon to the water. 
 
 # 5 
+## Relief from the plight of ordinary people through debt relief; Nehemiah's Selfless Rule
 ^1^ Then there arose a great cry of the people and of their wives against their brothers the Jews. 
 ^2^ For there were some who said, “We, our sons and our daughters, are many. Let us get grain, that we may eat and live.” 
 ^3^ There were also some who said, “We are mortgaging our fields, our vineyards, and our houses. Let us get grain, because of the famine.” 
@@ -141,6 +152,7 @@ They said, “Let’s rise up and build.” So they strengthened their hands for
 ^5^ Yet now our flesh is as the flesh of our brothers, our children as their children. Behold,^a^ we bring our sons and our daughters into bondage to be servants, and some of our daughters have been brought into bondage. It is also not in our power to help it, because other men have our fields and our vineyards.” 
 ^a^[**5:5** “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.]
 
+## Elimination of evils through the resolutions of the popular assembly
 ^6^ I was very angry when I heard their cry and these words. 
 ^7^ Then I consulted with myself, and contended with the nobles and the rulers, and said to them, “You exact usury, everyone of his brother.” I held a great assembly against them. 
 ^8^ I said to them, “We, after our ability, have redeemed our brothers the Jews that were sold to the nations; and would you even sell your brothers, and should they be sold to us?” Then they held their peace, and found not a word to say. 
@@ -153,8 +165,9 @@ They said, “Let’s rise up and build.” So they strengthened their hands for
 Then I called the priests, and took an oath of them, that they would do according to this promise. 
 ^13^ Also I shook out my lap, and said, “So may God shake out every man from his house, and from his labor, that doesn’t perform this promise; even may he be shaken out and emptied like this.” 
 
-All the assembly said, “Amen,” and praised Yahweh. The people did according to this promise. 
+All the assembly said, “Amen,” and praised Yahweh. The people did according to this promise.
 
+## Nehemiah's altruism while in office
 ^14^ Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentieth year even to the thirty-second year of Artaxerxes the king, that is, twelve years, I and my brothers have not eaten the bread of the governor. 
 ^15^ But the former governors who were before me were supported by the people, and took bread and wine from them, plus forty shekels^a^ of silver; yes, even their servants ruled over the people, but I didn’t do so, because of the fear of God. 
 ^16^ Yes, I also continued in the work of this wall. We didn’t buy any land. All my servants were gathered there to the work. 
@@ -164,6 +177,7 @@ All the assembly said, “Amen,” and praised Yahweh. The people did according 
 ^a^[**5:15** A shekel is about 10 grams or about 0.35 ounces.] 
 
 # 6 
+## Schemes (and assassinations) of Sanballat and his comrades; his rejection by Nehemiah
 ^1^ Now when it was reported to Sanballat, Tobiah, Geshem the Arabian, and to the rest of our enemies that I had built the wall, and that there was no breach left in it (though even to that time I had not set up the doors in the gates), 
 ^2^ Sanballat and Geshem sent to me, saying, “Come! Let’s meet together in the villages in the plain of Ono.” But they intended to harm me. 
 
@@ -175,15 +189,17 @@ All the assembly said, “Amen,” and praised Yahweh. The people did according 
 ^7^ You have also appointed prophets to proclaim of you at Jerusalem, saying, ‘There is a king in Judah!’ Now it will be reported to the king according to these words. Come now therefore, and let’s take counsel together.” 
 
 ^8^ Then I sent to him, saying, “There are no such things done as you say, but you imagine them out of your own heart.” 
-^9^ For they all would have made us afraid, saying, “Their hands will be weakened from the work, that it not be done.” But now, strengthen my hands. 
+^9^ For they all would have made us afraid, saying, “Their hands will be weakened from the work, that it not be done.” But now, strengthen my hands.
 
+## Exposing a false prophet
 ^10^ I went to the house of Shemaiah the son of Delaiah the son of Mehetabel, who was shut in at his home; and he said, “Let us meet together in God’s house, within the temple, and let’s shut the doors of the temple; for they will come to kill you. Yes, in the night they will come to kill you.” 
 
 ^11^ I said, “Should a man like me flee? Who is there that, being such as I, would go into the temple to save his life? I will not go in.” 
 ^12^ I discerned, and behold, God had not sent him, but he pronounced this prophecy against me. Tobiah and Sanballat had hired him. 
 ^13^ He was hired so that I would be afraid, do so, and sin, and that they might have material for an evil report, that they might reproach me. 
-^14^ “Remember, my God, Tobiah and Sanballat according to these their works, and also the prophetess Noadiah and the rest of the prophets that would have put me in fear.” 
+^14^ “Remember, my God, Tobiah and Sanballat according to these their works, and also the prophetess Noadiah and the rest of the prophets that would have put me in fear.”
 
+## Completion of wall construction; suspicious correspondence between Tobija and many Jews dedicated to him
 ^15^ So the wall was finished in the twenty-fifth day of Elul, in fifty-two days. 
 ^16^ When all our enemies heard of it, all the nations that were around us were afraid, and they lost their confidence; for they perceived that this work was done by our God. 
 ^17^ Moreover in those days the nobles of Judah sent many letters to Tobiah, and Tobiah’s letters came to them. 
@@ -191,10 +207,12 @@ All the assembly said, “Amen,” and praised Yahweh. The people did according 
 ^19^ Also they spoke of his good deeds before me, and reported my words to him. Tobiah sent letters to put me in fear. 
 
 # 7 
+## Nehemiah's concern for the safety of the city
 ^1^ Now when the wall was built and I had set up the doors, and the gatekeepers and the singers and the Levites were appointed, 
 ^2^ I put my brother Hanani, and Hananiah the governor of the fortress, in charge of Jerusalem; for he was a faithful man and feared God above many. 
-^3^ I said to them, “Don’t let the gates of Jerusalem be opened until the sun is hot; and while they stand guard, let them shut the doors, and you bar them; and appoint watches of the inhabitants of Jerusalem, everyone in his watch, with everyone near his house.” 
+^3^ I said to them, “Don’t let the gates of Jerusalem be opened until the sun is hot; and while they stand guard, let them shut the doors, and you bar them; and appoint watches of the inhabitants of Jerusalem, everyone in his watch, with everyone near his house.”
 
+## Nehemiah's concern to increase the population of Jerusalem; List of Israelites who previously returned from captivity with Zerubbabel
 ^4^ Now the city was wide and large; but the people were few therein, and the houses were not built. 
 
 ^5^ My God put into my heart to gather together the nobles, and the rulers, and the people, that they might be listed by genealogy. I found the book of the genealogy of those who came up at the first, and I found this written in it: 
@@ -282,6 +300,7 @@ The number of the men of the people of Israel:
 When the seventh month had come, the children of Israel were in their cities. 
 
 # 8 
+## Reading of the law by Ezra and celebration of the Feast of Tabernacles
 ^1^ All the people gathered themselves together as one man into the wide place that was in front of the water gate; and they spoke to Ezra the scribe to bring the book of the law of Moses, which Yahweh had commanded to Israel. 
 ^2^ Ezra the priest brought the law before the assembly, both men and women, and all who could hear with understanding, on the first day of the seventh month. 
 ^3^ He read from it before the wide place that was in front of the water gate from early morning until midday, in the presence of the men and the women, and of those who could understand. The ears of all the people were attentive to the book of the law. 
@@ -291,15 +310,17 @@ When the seventh month had come, the children of Israel were in their cities.
 
 All the people answered, “Amen, Amen,” with the lifting up of their hands. They bowed their heads, and worshiped Yahweh with their faces to the ground. 
 ^7^ Also Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, and the Levites, caused the people to understand the law; and the people stayed in their place. 
-^8^ They read in the book, in the law of God, distinctly; and they gave the sense, so that they understood the reading. 
+^8^ They read in the book, in the law of God, distinctly; and they gave the sense, so that they understood the reading.
 
+## Nehemiah and Ezra's invitation to mourners to celebrate the day with festive cheer
 ^9^ Nehemiah, who was the governor, Ezra the priest and scribe, and the Levites who taught the people said to all the people, “Today is holy to Yahweh your God. Don’t mourn, nor weep.” For all the people wept when they heard the words of the law. 
 ^10^ Then he said to them, “Go your way. Eat the fat, drink the sweet, and send portions to him for whom nothing is prepared, for today is holy to our Lord. Don’t be grieved, for the joy of Yahweh is your strength.” 
 
 ^11^ So the Levites calmed all the people, saying, “Hold your peace, for the day is holy. Don’t be grieved.” 
 
-^12^ All the people went their way to eat, to drink, to send portions, and to celebrate, because they had understood the words that were declared to them. 
+^12^ All the people went their way to eat, to drink, to send portions, and to celebrate, because they had understood the words that were declared to them.
 
+## Celebration of the Feast of Tabernacles with constant reading of the law
 ^13^ On the second day, the heads of fathers’ households of all the people, the priests, and the Levites were gathered together to Ezra the scribe, to study the words of the law. 
 ^14^ They found written in the law how Yahweh had commanded by Moses that the children of Israel should dwell in booths in the feast of the seventh month; 
 ^15^ and that they should publish and proclaim in all their cities and in Jerusalem, saying, “Go out to the mountain, and get olive branches, branches of wild olive, myrtle branches, palm branches, and branches of thick trees, to make temporary shelters,^a^ as it is written.” 
@@ -311,11 +332,13 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 ^a^[**8:16** or, booths] ^b^[**8:17** or, booths] 
 
 # 9 
+## Celebration of the day of penance with several hours of reading the law and several hours of confession
 ^1^ Now in the twenty-fourth day of this month the children of Israel were assembled with fasting, with sackcloth, and dirt on them. 
 ^2^ The offspring of Israel separated themselves from all foreigners and stood and confessed their sins and the iniquities of their fathers. 
 ^3^ They stood up in their place, and read in the book of the law of Yahweh their God a fourth part of the day; and a fourth part they confessed and worshiped Yahweh their God. 
-^4^ Then Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani of the Levites stood up on the stairs, and cried with a loud voice to Yahweh their God. 
+^4^ Then Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani of the Levites stood up on the stairs, and cried with a loud voice to Yahweh their God.
 
+## Invitation to praise God; Reference to the wonderful acts of power and grace of God in prehistoric times until the introduction of his people in the promised land
 ^5^ Then the Levites, Jeshua, and Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah, said, “Stand up and bless Yahweh your God from everlasting to everlasting! Blessed be your glorious name, which is exalted above all blessing and praise! 
 ^6^ You are Yahweh, even you alone. You have made heaven, the heaven of heavens, with all their army, the earth and all things that are on it, the seas and all that is in them, and you preserve them all. The army of heaven worships you. 
 ^7^ You are Yahweh, the God who chose Abram, brought him out of Ur of the Chaldees, gave him the name of Abraham, 
@@ -341,16 +364,18 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 ^23^ You also multiplied their children as the stars of the sky, and brought them into the land concerning which you said to their fathers that they should go in to possess it. 
 
 ^24^ “So the children went in and possessed the land; and you subdued before them the inhabitants of the land, the Canaanites, and gave them into their hands, with their kings and the peoples of the land, that they might do with them as they pleased. 
-^25^ They took fortified cities and a rich land, and possessed houses full of all good things, cisterns dug out, vineyards, olive groves, and fruit trees in abundance. So they ate, were filled, became fat, and delighted themselves in your great goodness. 
+^25^ They took fortified cities and a rich land, and possessed houses full of all good things, cisterns dug out, vineyards, olive groves, and fruit trees in abundance. So they ate, were filled, became fat, and delighted themselves in your great goodness.
 
+## In possession of the land, the people, with contempt for the prophets and divine patience, continue their sinful conduct until God hands them over to the Gentiles
 ^26^ “Nevertheless they were disobedient and rebelled against you, cast your law behind their back, killed your prophets that testified against them to turn them again to you, and they committed awful blasphemies. 
 ^27^ Therefore you delivered them into the hand of their adversaries, who distressed them. In the time of their trouble, when they cried to you, you heard from heaven; and according to your manifold mercies you gave them saviors who saved them out of the hands of their adversaries. 
 ^28^ But after they had rest, they did evil again before you; therefore you left them in the hands of their enemies, so that they had the dominion over them; yet when they returned and cried to you, you heard from heaven; and many times you delivered them according to your mercies, 
 ^29^ and testified against them, that you might bring them again to your law. Yet they were arrogant, and didn’t listen to your commandments, but sinned against your ordinances (which if a man does, he shall live in them), turned their backs, stiffened their neck, and would not hear. 
 ^30^ Yet many years you put up with them, and testified against them by your Spirit through your prophets. Yet they would not listen. Therefore you gave them into the hand of the peoples of the lands. 
 
-^31^ “Nevertheless in your manifold mercies you didn’t make a full end of them, nor forsake them; for you are a gracious and merciful God. 
+^31^ “Nevertheless in your manifold mercies you didn’t make a full end of them, nor forsake them; for you are a gracious and merciful God.
 
+## Ask for new grace and loyalty and relief from well-deserved suffering from Assyrian rule to the present
 ^32^ Now therefore, our God, the great, the mighty, and the awesome God, who keeps covenant and loving kindness, don’t let all the travail seem little before you that has come on us, on our kings, on our princes, on our priests, on our prophets, on our fathers, and on all your people, since the time of the kings of Assyria to this day. 
 ^33^ However you are just in all that has come on us; for you have dealt truly, but we have done wickedly. 
 ^34^ Also our kings, our princes, our priests, and our fathers have not kept your law, nor listened to your commandments and your testimonies with which you testified against them. 
@@ -361,6 +386,7 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 ^38^ Yet for all this, we make a sure covenant, and write it; and our princes, our Levites, and our priests, seal it.” 
 
 # 10 
+## Federal renewal through written and signed contract of the heads (especially heads of families) of the town
 ^1^ Now those who sealed were: Nehemiah the governor, the son of Hacaliah, and Zedekiah, 
 ^2^ Seraiah, Azariah, Jeremiah, 
 ^3^ Pashhur, Amariah, Malchijah, 
@@ -387,13 +413,15 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 ^24^ Hallohesh, Pilha, Shobek, 
 ^25^ Rehum, Hashabnah, Maaseiah, 
 ^26^ Ahiah, Hanan, Anan, 
-^27^ Malluch, Harim, and Baanah. 
+^27^ Malluch, Harim, and Baanah.
 
+## Avoid mixed marriages and not drink on the Sabbath
 ^28^ The rest of the people, the priests, the Levites, the gatekeepers, the singers, the temple servants, and all those who had separated themselves from the peoples of the lands to the law of God, their wives, their sons, and their daughters—everyone who had knowledge and understanding— 
 ^29^ joined with their brothers, their nobles, and entered into a curse and into an oath, to walk in God’s law, which was given by Moses the servant of God, and to observe and do all the commandments of Yahweh our Lord, and his ordinances and his statutes; 
 ^30^ and that we would not give our daughters to the peoples of the land, nor take their daughters for our sons; 
-^31^ and if the peoples of the land bring wares or any grain on the Sabbath day to sell, that we would not buy from them on the Sabbath, or on a holy day; and that we would forego the seventh year crops and the exaction of every debt. 
+^31^ and if the peoples of the land bring wares or any grain on the Sabbath day to sell, that we would not buy from them on the Sabbath, or on a holy day; and that we would forego the seventh year crops and the exaction of every debt.
 
+## Timely and abundant payment of all duties and obligations related to worship and the priesthood
 ^32^ Also we made ordinances for ourselves, to charge ourselves yearly with the third part of a shekel^a^ for the service of the house of our God: 
 ^33^ for the show bread, for the continual meal offering, for the continual burnt offering, for the Sabbaths, for the new moons, for the set feasts, for the holy things, for the sin offerings to make atonement for Israel, and for all the work of the house of our God. 
 ^34^ We, the priests, the Levites, and the people, cast lots for the wood offering, to bring it into the house of our God, according to our fathers’ houses, at times appointed year by year, to burn on Yahweh our God’s altar, as it is written in the law; 
@@ -405,9 +433,11 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 ^a^[**10:32** A shekel is about 10 grams or about 0.35 ounces.] 
 
 # 11 
+## A tenth of the rural population is determined by lot to move to Jerusalem
 ^1^ The princes of the people lived in Jerusalem. The rest of the people also cast lots to bring one of ten to dwell in Jerusalem, the holy city, and nine parts in the other cities. 
-^2^ The people blessed all the men who willingly offered themselves to dwell in Jerusalem. 
+^2^ The people blessed all the men who willingly offered themselves to dwell in Jerusalem.
 
+## Lists of the heads of the Jews and Benjaminites who lived in Jerusalem (including priests, gatekeepers, etc.)
 ^3^ Now these are the chiefs of the province who lived in Jerusalem; but in the cities of Judah, everyone lived in his possession in their cities—Israel, the priests, the Levites, the temple servants, and the children of Solomon’s servants. 
 ^4^ Some of the children of Judah and of the children of Benjamin lived in Jerusalem. Of the children of Judah: Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalalel, of the children of Perez; 
 ^5^ and Maaseiah the son of Baruch, the son of Colhozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, the son of the Shilonite. 
@@ -434,8 +464,9 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 
 ^22^ The overseer also of the Levites at Jerusalem was Uzzi the son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Mica, of the sons of Asaph, the singers, was over the business of God’s house. 
 ^23^ For there was a commandment from the king concerning them, and a settled provision for the singers, as every day required. 
-^24^ Pethahiah the son of Meshezabel, of the children of Zerah the son of Judah, was at the king’s hand in all matters concerning the people. 
+^24^ Pethahiah the son of Meshezabel, of the children of Zerah the son of Judah, was at the king’s hand in all matters concerning the people.
 
+## List of places later settled by Jews, Benjaminites, and Levites
 ^25^ As for the villages with their fields, some of the children of Judah lived in Kiriath Arba and its towns, in Dibon and its towns, in Jekabzeel and its villages, 
 ^26^ in Jeshua, in Moladah, Beth Pelet, 
 ^27^ in Hazar Shual, in Beersheba and its towns, 
@@ -450,6 +481,7 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 ^36^ Of the Levites, certain divisions in Judah settled in Benjamin’s territory. 
 
 # 12 
+## Classes of priests and Levites who returned with Zerubbabel and Jesus
 ^1^ Now these are the priests and the Levites who went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra, 
 ^2^ Amariah, Malluch, Hattush, 
 ^3^ Shecaniah, Rehum, Meremoth, 
@@ -459,10 +491,13 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 ^7^ Sallu, Amok, Hilkiah, and Jedaiah. These were the chiefs of the priests and of their brothers in the days of Jeshua. 
 
 ^8^ Moreover the Levites were Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who was over the thanksgiving songs, he and his brothers. 
-^9^ Also Bakbukiah and Unno, their brothers, were close to them according to their offices. 
-^10^ Jeshua became the father of Joiakim, and Joiakim became the father of Eliashib, and Eliashib became the father of Joiada, 
-^11^ and Joiada became the father of Jonathan, and Jonathan became the father of Jaddua. 
+^9^ Also Bakbukiah and Unno, their brothers, were close to them according to their offices.
 
+## The high priest line
+^10^ Jeshua became the father of Joiakim, and Joiakim became the father of Eliashib, and Eliashib became the father of Joiada, 
+^11^ and Joiada became the father of Jonathan, and Jonathan became the father of Jaddua.
+
+## Heads of priestly families since the time of High Priest Jehoiakim
 ^12^ In the days of Joiakim were priests, heads of fathers’ households: of Seraiah, Meraiah; of Jeremiah, Hananiah; 
 ^13^ of Ezra, Meshullam; of Amariah, Jehohanan; 
 ^14^ of Malluchi, Jonathan; of Shebaniah, Joseph; 
@@ -472,14 +507,16 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 ^18^ of Bilgah, Shammua; of Shemaiah, Jehonathan; 
 ^19^ of Joiarib, Mattenai; of Jedaiah, Uzzi; 
 ^20^ of Sallai, Kallai; of Amok, Eber; 
-^21^ of Hilkiah, Hashabiah; of Jedaiah, Nethanel. 
+^21^ of Hilkiah, Hashabiah; of Jedaiah, Nethanel.
 
+## List of Levites up to the time of High Priest Johanan
 ^22^ As for the Levites, in the days of Eliashib, Joiada, Johanan, and Jaddua, there were recorded the heads of fathers’ households; also the priests, in the reign of Darius the Persian. 
 ^23^ The sons of Levi, heads of fathers’ households, were written in the book of the chronicles, even until the days of Johanan the son of Eliashib. 
 ^24^ The chiefs of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brothers close to them, to praise and give thanks according to the commandment of David the man of God, section next to section. 
 ^25^ Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon, and Akkub were gatekeepers keeping the watch at the storehouses of the gates. 
-^26^ These were in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest and scribe. 
+^26^ These were in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest and scribe.
 
+## Inauguration of the city wall
 ^27^ At the dedication of the wall of Jerusalem, they sought the Levites out of all their places, to bring them to Jerusalem to keep the dedication with gladness, both with giving thanks and with singing, with cymbals, stringed instruments, and with harps. 
 ^28^ The sons of the singers gathered themselves together, both out of the plain around Jerusalem and from the villages of the Netophathites; 
 ^29^ also from Beth Gilgal and out of the fields of Geba and Azmaveth, for the singers had built themselves villages around Jerusalem. 
@@ -498,32 +535,37 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 ^40^ So the two companies of those who gave thanks in God’s house stood, and I and the half of the rulers with me; 
 ^41^ and the priests, Eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah, and Hananiah, with trumpets; 
 ^42^ and Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malchijah, Elam, and Ezer. The singers sang loud, with Jezrahiah their overseer. 
-^43^ They offered great sacrifices that day, and rejoiced, for God had made them rejoice with great joy; and the women and the children also rejoiced, so that the joy of Jerusalem was heard even far away. 
+^43^ They offered great sacrifices that day, and rejoiced, for God had made them rejoice with great joy; and the women and the children also rejoiced, so that the joy of Jerusalem was heard even far away.
 
+## Employment of officials to supervise the income of the priests and Levites
 ^44^ On that day, men were appointed over the rooms for the treasures, for the wave offerings, for the first fruits, and for the tithes, to gather into them according to the fields of the cities the portions appointed by the law for the priests and Levites; for Judah rejoiced for the priests and for the Levites who served. 
 ^45^ They performed the duty of their God and the duty of the purification, and so did the singers and the gatekeepers, according to the commandment of David and of Solomon his son. 
 ^46^ For in the days of David and Asaph of old there was a chief of the singers, and songs of praise and thanksgiving to God. 
 ^47^ All Israel in the days of Zerubbabel and in the days of Nehemiah gave the portions of the singers and the gatekeepers, as every day required; and they set apart that which was for the Levites; and the Levites set apart that which was for the sons of Aaron. 
 
 # 13 
+## Elimination of pagan components (especially Ammonites and Moabites) from the community
 ^1^ On that day they read in the book of Moses in the hearing of the people; and it was found written in it that an Ammonite and a Moabite should not enter into the assembly of God forever, 
 ^2^ because they didn’t meet the children of Israel with bread and with water, but hired Balaam against them to curse them; however, our God turned the curse into a blessing. 
-^3^ It came to pass, when they had heard the law, that they separated all the mixed multitude from Israel. 
+^3^ It came to pass, when they had heard the law, that they separated all the mixed multitude from Israel.
 
+## Removal of Tobija's cell in the temple
 ^4^ Now before this, Eliashib the priest, who was appointed over the rooms of the house of our God, being allied to Tobiah, 
 ^5^ had prepared for him a great room, where before they laid the meal offerings, the frankincense, the vessels, and the tithes of the grain, the new wine, and the oil, which were given by commandment to the Levites, the singers, and the gatekeepers; and the wave offerings for the priests. 
 ^6^ But in all this, I was not at Jerusalem; for in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king, 
 ^7^ and I came to Jerusalem, and understood the evil that Eliashib had done for Tobiah, in preparing him a room in the courts of God’s house. 
 ^8^ It grieved me severely. Therefore I threw all Tobiah’s household stuff out of the room. 
-^9^ Then I commanded, and they cleansed the rooms. I brought into them the vessels of God’s house, with the meal offerings and the frankincense again. 
+^9^ Then I commanded, and they cleansed the rooms. I brought into them the vessels of God’s house, with the meal offerings and the frankincense again.
 
+## Ensuring the proper delivery of tributes to the Levites
 ^10^ I perceived that the portions of the Levites had not been given them, so that the Levites and the singers, who did the work, had each fled to his field. 
 ^11^ Then I contended with the rulers, and said, “Why is God’s house forsaken?” I gathered them together, and set them in their place. 
 ^12^ Then all Judah brought the tithe of the grain, the new wine, and the oil to the treasuries. 
 ^13^ I made treasurers over the treasuries, Shelemiah the priest, and Zadok the scribe, and of the Levites, Pedaiah: and next to them was Hanan the son of Zaccur, the son of Mattaniah; for they were counted faithful, and their business was to distribute to their brothers. 
 
-^14^ Remember me, my God, concerning this, and don’t wipe out my good deeds that I have done for the house of my God, and for its observances. 
+^14^ Remember me, my God, concerning this, and don’t wipe out my good deeds that I have done for the house of my God, and for its observances.
 
+## Eliminate the desecration of the Sabbath by businessmen and merchants
 ^15^ In those days I saw some men treading wine presses on the Sabbath in Judah, bringing in sheaves, and loading donkeys with wine, grapes, figs, and all kinds of burdens which they brought into Jerusalem on the Sabbath day; and I testified against them in the day in which they sold food. 
 ^16^ Some men of Tyre also lived there, who brought in fish and all kinds of wares, and sold on the Sabbath to the children of Judah, and in Jerusalem. 
 ^17^ Then I contended with the nobles of Judah, and said to them, “What evil thing is this that you do, and profane the Sabbath day? 
@@ -532,8 +574,9 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 ^19^ It came to pass that when the gates of Jerusalem began to be dark before the Sabbath, I commanded that the doors should be shut, and commanded that they should not be opened until after the Sabbath. I set some of my servants over the gates, so that no burden should be brought in on the Sabbath day. 
 ^20^ So the merchants and sellers of all kinds of wares camped outside of Jerusalem once or twice. 
 ^21^ Then I testified against them, and said to them, “Why do you stay around the wall? If you do so again, I will lay hands on you.” From that time on, they didn’t come on the Sabbath. 
-^22^ I commanded the Levites that they should purify themselves, and that they should come and keep the gates, to sanctify the Sabbath day. Remember me for this also, my God, and spare me according to the greatness of your loving kindness. 
+^22^ I commanded the Levites that they should purify themselves, and that they should come and keep the gates, to sanctify the Sabbath day. Remember me for this also, my God, and spare me according to the greatness of your loving kindness.
 
+## Measures against mixed marriages; Rejection of the son of a high priest
 ^23^ In those days I also saw the Jews who had married women of Ashdod, of Ammon, and of Moab; 
 ^24^ and their children spoke half in the speech of Ashdod, and could not speak in the Jews’ language, but according to the language of each people. 
 ^25^ I contended with them, cursed them, struck certain of them, plucked off their hair, and made them swear by God, “You shall not give your daughters to their sons, nor take their daughters for your sons, or for yourselves. 
@@ -541,7 +584,8 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 ^27^ Shall we then listen to you to do all this great evil, to trespass against our God in marrying foreign women?” 
 
 ^28^ One of the sons of Joiada, the son of Eliashib the high priest, was son-in-law to Sanballat the Horonite; therefore I chased him from me. 
-^29^ Remember them, my God, because they have defiled the priesthood and the covenant of the priesthood and of the Levites. 
+^29^ Remember them, my God, because they have defiled the priesthood and the covenant of the priesthood and of the Levites.
 
+## End of memo
 ^30^ Thus I cleansed them from all foreigners and appointed duties for the priests and for the Levites, everyone in his work; 
 ^31^ and for the wood offering, at appointed times, and for the first fruits. Remember me, my God, for good. 

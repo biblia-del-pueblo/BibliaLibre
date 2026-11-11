@@ -1,4 +1,5 @@
 # 1 
+## The futility of all human effort as a result of the constant monotony in the cycle of things
 ^1^ The words of the Preacher, the son of David, king in Jerusalem: 
 
 ^2^ “Vanity of vanities,” says the Preacher; “Vanity of vanities, all is vanity.” 
@@ -13,16 +14,20 @@
 ^11^ There is no memory of the former; neither shall there be any memory of the latter that are to come, among those that shall come after. 
 ^a^[**1:10** “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.]
 
+## The futility of striving for wisdom and knowledge; Human life is useless to the viewer
 ^12^ I, the Preacher, was king over Israel in Jerusalem. 
 ^13^ I applied my heart to seek and to search out by wisdom concerning all that is done under the sky. It is a heavy burden that God^a^ has given to the sons of men to be afflicted with. 
 ^14^ I have seen all the works that are done under the sun; and behold, all is vanity and a chasing after wind. 
-^15^ That which is crooked can’t be made straight; and that which is lacking can’t be counted. 
+^15^ That which is crooked can’t be made straight; and that which is lacking can’t be counted.
+
+## Seeking clear knowledge leads to disappointment
 ^16^ I said to myself, “Behold, I have obtained for myself great wisdom above all who were before me in Jerusalem. Yes, my heart has had great experience of wisdom and knowledge.” 
 ^17^ I applied my heart to know wisdom, and to know madness and folly. I perceived that this also was a chasing after wind. 
 ^18^ For in much wisdom is much grief; and he who increases knowledge increases sorrow.
 ^a^[**1:13** The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).] 
 
 # 2 
+## The futility of trying to gain satisfaction through sensual pleasures and enjoyment of life or through creative activity
 ^1^ I said in my heart, “Come now, I will test you with mirth; therefore enjoy pleasure;” and behold, this also was vanity. 
 ^2^ I said of laughter, “It is foolishness;” and of mirth, “What does it accomplish?” 
 
@@ -34,27 +39,33 @@
 ^8^ I also gathered silver and gold for myself, and the treasure of kings and of the provinces. I got myself male and female singers, and the delights of the sons of men: musical instruments of all sorts. 
 ^9^ So I was great, and increased more than all who were before me in Jerusalem. My wisdom also remained with me. 
 ^10^ Whatever my eyes desired, I didn’t keep from them. I didn’t withhold my heart from any joy, for my heart rejoiced because of all my labor, and this was my portion from all my labor. 
-^11^ Then I looked at all the works that my hands had worked, and at the labor that I had labored to do; and behold, all was vanity and a chasing after wind, and there was no profit under the sun. 
+^11^ Then I looked at all the works that my hands had worked, and at the labor that I had labored to do; and behold, all was vanity and a chasing after wind, and there was no profit under the sun.
 
+## In the end, wisdom is as empty as madness, because the final destiny of the wise and the foolish is the same
 ^12^ I turned myself to consider wisdom, madness, and folly; for what can the king’s successor do? Just that which has been done long ago. 
 ^13^ Then I saw that wisdom excels folly, as far as light excels darkness. 
 ^14^ The wise man’s eyes are in his head, and the fool walks in darkness—and yet I perceived that one event happens to them all. 
 ^15^ Then I said in my heart, “As it happens to the fool, so will it happen even to me; and why was I then more wise?” Then I said in my heart that this also is vanity. 
 ^16^ For of the wise man, even as of the fool, there is no memory forever, since in the days to come all will have been long forgotten. Indeed, the wise man must die just like the fool! 
 
-^17^ So I hated life, because the work that is worked under the sun was grievous to me; for all is vanity and a chasing after wind. 
+^17^ So I hated life, because the work that is worked under the sun was grievous to me; for all is vanity and a chasing after wind.
+
+## Reference to the evil that the wise man must leave the benefit and enjoyment of his laborious work to a perhaps foolish heir
 ^18^ I hated all my labor in which I labored under the sun, because I must leave it to the man who comes after me. 
 ^19^ Who knows whether he will be a wise man or a fool? Yet he will have rule over all of my labor in which I have labored, and in which I have shown myself wise under the sun. This also is vanity. 
 
 ^20^ Therefore I began to cause my heart to despair concerning all the labor in which I had labored under the sun. 
 ^21^ For there is a man whose labor is with wisdom, with knowledge, and with skillfulness; yet he shall leave it for his portion to a man who has not labored for it. This also is vanity and a great evil. 
 ^22^ For what does a man have of all his labor and of the striving of his heart, in which he labors under the sun? 
-^23^ For all his days are sorrows, and his travail is grief; yes, even in the night his heart takes no rest. This also is vanity. 
+^23^ For all his days are sorrows, and his travail is grief; yes, even in the night his heart takes no rest. This also is vanity.
+
+## Then the best thing for man is to enjoy the moment to the extent that God grants it
 ^24^ There is nothing better for a man than that he should eat and drink, and make his soul enjoy good in his labor. This also I saw, that it is from the hand of God. 
 ^25^ For who can eat, or who can have enjoyment, more than I? 
 ^26^ For to the man who pleases him, God gives wisdom, knowledge, and joy; but to the sinner he gives travail, to gather and to heap up, that he may give to him who pleases God. This also is vanity and a chasing after wind. 
 
 # 3 
+## Everything has its time
 ^1^ For everything there is a season, and a time for every purpose under heaven: 
 ^2^ a time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted; 
 ^3^ a time to kill, and a time to heal; a time to break down, and a time to build up; 
@@ -62,18 +73,22 @@
 ^5^ a time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing; 
 ^6^ a time to seek, and a time to lose; a time to keep, and a time to cast away; 
 ^7^ a time to tear, and a time to sew; a time to keep silence, and a time to speak; 
-^8^ a time to love, and a time to hate; a time for war, and a time for peace. 
+^8^ a time to love, and a time to hate; a time for war, and a time for peace.
 
+## But man does not know the time set by God and is powerless against it
 ^9^ What profit has he who works in that in which he labors? 
 ^10^ I have seen the burden which God has given to the sons of men to be afflicted with. 
 ^11^ He has made everything beautiful in its time. He has also set eternity in their hearts, yet so that man can’t find out the work that God has done from the beginning even to the end. 
 ^12^ I know that there is nothing better for them than to rejoice, and to do good as long as they live. 
 ^13^ Also that every man should eat and drink, and enjoy good in all his labor, is the gift of God. 
 ^14^ I know that whatever God does, it shall be forever. Nothing can be added to it, nor anything taken from it; and God has done it, that men should fear before him. 
-^15^ That which is has been long ago, and that which is to be has been long ago. God seeks again that which is passed away. 
+^15^ That which is has been long ago, and that which is to be has been long ago. God seeks again that which is passed away.
 
+## In the human world there is evil and injustice, but God is the world judge
 ^16^ Moreover I saw under the sun, in the place of justice, that wickedness was there; and in the place of righteousness, that wickedness was there. 
-^17^ I said in my heart, “God will judge the righteous and the wicked; for there is a time there for every purpose and for every work.” 
+^17^ I said in my heart, “God will judge the righteous and the wicked; for there is a time there for every purpose and for every work.”
+
+## The law of impermanence exists for both humans and animals and exhorts to enjoy life
 ^18^ I said in my heart, “As for the sons of men, God tests them, so that they may see that they themselves are like animals. 
 ^19^ For that which happens to the sons of men happens to animals. Even one thing happens to them. As the one dies, so the other dies. Yes, they have all one breath; and man has no advantage over the animals, for all is vanity. 
 ^20^ All go to one place. All are from the dust, and all turn to dust again. 
@@ -82,39 +97,45 @@
 ^22^ Therefore I saw that there is nothing better than that a man should rejoice in his works, for that is his portion; for who can bring him to see what will be after him? 
 
 # 4 
+## Oppression, jealousy and partly restless work, partly slow calm devalue life
 ^1^ Then I returned and saw all the oppressions that are done under the sun: and behold, the tears of those who were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter. 
 ^2^ Therefore I praised the dead who have been long dead more than the living who are yet alive. 
 ^3^ Yes, better than them both is him who has not yet been, who has not seen the evil work that is done under the sun. 
 ^4^ Then I saw all the labor and achievement that is the envy of a man’s neighbor. This also is vanity and a striving after wind. 
 
 ^5^ The fool folds his hands together and ruins himself. 
-^6^ Better is a handful, with quietness, than two handfuls with labor and chasing after wind. 
+^6^ Better is a handful, with quietness, than two handfuls with labor and chasing after wind.
 
+## The effort of the single person is useless; two workers who work together are better off
 ^7^ Then I returned and saw vanity under the sun. 
 ^8^ There is one who is alone, and he has neither son nor brother. There is no end to all of his labor, neither are his eyes satisfied with wealth. “For whom then do I labor and deprive my soul of enjoyment?” This also is vanity. Yes, it is a miserable business. 
 
 ^9^ Two are better than one, because they have a good reward for their labor. 
 ^10^ For if they fall, the one will lift up his fellow; but woe to him who is alone when he falls, and doesn’t have another to lift him up. 
 ^11^ Again, if two lie together, then they have warmth; but how can one keep warm alone? 
-^12^ If a man prevails against one who is alone, two shall withstand him; and a threefold cord is not quickly broken. 
+^12^ If a man prevails against one who is alone, two shall withstand him; and a threefold cord is not quickly broken.
 
+## Communication of a historical event confirming the preacher's observation that popular favor is unreliable
 ^13^ Better is a poor and wise youth than an old and foolish king who doesn’t know how to receive admonition any more. 
 ^14^ For out of prison he came out to be king; yes, even in his kingdom he was born poor. 
 ^15^ I saw all the living who walk under the sun, that they were with the youth, the other, who succeeded him. 
 ^16^ There was no end of all the people, even of all them over whom he was—yet those who come after shall not rejoice in him. Surely this also is vanity and a chasing after wind. 
 
 # 5 
+## Reminder to be careful when performing religious duties (with sacrifices, prayer and vows)
 ^1^ Guard your steps when you go to God’s house; for to draw near to listen is better than to give the sacrifice of fools, for they don’t know that they do evil. 
 ^2^ Don’t be rash with your mouth, and don’t let your heart be hasty to utter anything before God; for God is in heaven, and you on earth. Therefore let your words be few. 
 ^3^ For as a dream comes with a multitude of cares, so a fool’s speech with a multitude of words. 
 ^4^ When you vow a vow to God, don’t defer to pay it; for he has no pleasure in fools. Pay that which you vow. 
 ^5^ It is better that you should not vow, than that you should vow and not pay. 
 ^6^ Don’t allow your mouth to lead you into sin. Don’t protest before the messenger that this was a mistake. Why should God be angry at your voice, and destroy the work of your hands? 
-^7^ For in the multitude of dreams there are vanities, as well as in many words; but you must fear God. 
+^7^ For in the multitude of dreams there are vanities, as well as in many words; but you must fear God.
 
+## The oppressions in the state are unfortunate, but understandable; Royalty Blessings for Farm States
 ^8^ If you see the oppression of the poor, and the violent taking away of justice and righteousness in a district, don’t marvel at the matter, for one official is eyed by a higher one, and there are officials over them. 
-^9^ Moreover the profit of the earth is for all. The king profits from the field. 
+^9^ Moreover the profit of the earth is for all. The king profits from the field.
 
+## Nullity and complaints of riches
 ^10^ He who loves silver shall not be satisfied with silver, nor he who loves abundance, with increase. This also is vanity. 
 ^11^ When goods increase, those who eat them are increased; and what advantage is there to its owner, except to feast on them with his eyes? 
 
@@ -124,28 +145,35 @@
 ^14^ Those riches perish by misfortune, and if he has fathered a son, there is nothing in his hand. 
 ^15^ As he came out of his mother’s womb, naked shall he go again as he came, and shall take nothing for his labor, which he may carry away in his hand. 
 ^16^ This also is a grievous evil, that in all points as he came, so shall he go. And what profit does he have who labors for the wind? 
-^17^ All his days he also eats in darkness, he is frustrated, and has sickness and wrath. 
+^17^ All his days he also eats in darkness, he is frustrated, and has sickness and wrath.
 
+## Recommendation of the enjoyment of life in addition to work and wealth
 ^18^ Behold, that which I have seen to be good and proper is for one to eat and to drink, and to enjoy good in all his labor, in which he labors under the sun, all the days of his life which God has given him; for this is his portion. 
 ^19^ Every man also to whom God has given riches and wealth, and has given him power to eat of it, and to take his portion, and to rejoice in his labor—this is the gift of God. 
 ^20^ For he shall not often reflect on the days of his life, because God occupies him with the joy of his heart. 
 
 # 6 
+## Someone has rich goods but does not enjoy them
 ^1^ There is an evil which I have seen under the sun, and it is heavy on men: 
 ^2^ a man to whom God gives riches, wealth, and honor, so that he lacks nothing for his soul of all that he desires, yet God gives him no power to eat of it, but an alien eats it. This is vanity, and it is an evil disease. 
 
 ^3^ If a man fathers a hundred children, and lives many years, so that the days of his years are many, but his soul is not filled with good, and moreover he has no burial, I say that a stillborn child is better than he; 
 ^4^ for it comes in vanity, and departs in darkness, and its name is covered with darkness. 
 ^5^ Moreover it has not seen the sun nor known it. This has rest rather than the other. 
-^6^ Yes, though he live a thousand years twice told, and yet fails to enjoy good, don’t all go to one place? 
+^6^ Yes, though he live a thousand years twice told, and yet fails to enjoy good, don’t all go to one place?
+
+## The insatiability of desire and the search for pleasure
 ^7^ All the labor of man is for his mouth, and yet the appetite is not filled. 
 ^8^ For what advantage has the wise more than the fool? What has the poor man, that knows how to walk before the living? 
-^9^ Better is the sight of the eyes than the wandering of the desire. This also is vanity and a chasing after wind. 
+^9^ Better is the sight of the eyes than the wandering of the desire. This also is vanity and a chasing after wind.
+
+## Human powerlessness in relation to the divine predestination of all things (especially the lives of individual persons)
 ^10^ Whatever has been, its name was given long ago; and it is known what man is; neither can he contend with him who is mightier than he. 
 ^11^ For there are many words that create vanity. What does that profit man? 
 ^12^ For who knows what is good for man in life, all the days of his vain life which he spends like a shadow? For who can tell a man what will be after him under the sun? 
 
 # 7 
+## Warnings to be serious with life and patiently submit to divine decrees
 ^1^ A good name is better than fine perfume; and the day of death better than the day of one’s birth. 
 ^2^ It is better to go to the house of mourning than to go to the house of feasting; for that is the end of all men, and the living should take this to heart. 
 ^3^ Sorrow is better than laughter; for by the sadness of the face the heart is made good. 
@@ -163,8 +191,9 @@ The patient in spirit is better than the proud in spirit.
 ^12^ For wisdom is a defense, even as money is a defense; but the excellency of knowledge is that wisdom preserves the life of him who has it. 
 
 ^13^ Consider the work of God, for who can make that straight which he has made crooked? 
-^14^ In the day of prosperity be joyful, and in the day of adversity consider; yes, God has made the one side by side with the other, to the end that man should not find out anything after him. 
+^14^ In the day of prosperity be joyful, and in the day of adversity consider; yes, God has made the one side by side with the other, to the end that man should not find out anything after him.
 
+## Warning against all excess and admonition of true wisdom
 ^15^ All this I have seen in my days of vanity: there is a righteous man who perishes in his righteousness, and there is a wicked man who lives long in his evildoing. 
 ^16^ Don’t be overly righteous, neither make yourself overly wise. Why should you destroy yourself? 
 ^17^ Don’t be too wicked, neither be foolish. Why should you die before your time? 
@@ -174,7 +203,9 @@ The patient in spirit is better than the proud in spirit.
 ^21^ Also don’t take heed to all words that are spoken, lest you hear your servant curse you; 
 ^22^ for often your own heart knows that you yourself have likewise cursed others. 
 ^23^ All this I have proved in wisdom. I said, “I will be wise;” but it was far from me. 
-^24^ That which is, is far off and exceedingly deep. Who can find it out? 
+^24^ That which is, is far off and exceedingly deep. Who can find it out?
+
+## The preacher's bad experiences with women
 ^25^ I turned around, and my heart sought to know and to search out, and to seek wisdom and the scheme of things, and to know that wickedness is stupidity, and that foolishness is madness. 
 
 ^26^ I find more bitter than death the woman whose heart is snares and traps, whose hands are chains. Whoever pleases God shall escape from her; but the sinner will be ensnared by her. 
@@ -184,16 +215,20 @@ The patient in spirit is better than the proud in spirit.
 ^29^ Behold, I have only found this: that God made mankind upright; but they search for many inventions.” 
 
 # 8 
+## The conduct of the sage towards the ruler and in days of oppression
 ^1^ Who is like the wise man? And who knows the interpretation of a thing? A man’s wisdom makes his face shine, and the hardness of his face is changed. 
 
 ^2^ I say, “Keep the king’s command!” because of the oath to God. 
 ^3^ Don’t be hasty to go out of his presence. Don’t persist in an evil thing, for he does whatever pleases him, 
 ^4^ for the king’s word is supreme. Who can say to him, “What are you doing?” 
-^5^ Whoever keeps the commandment shall not come to harm, and his wise heart will know the time and procedure. 
+^5^ Whoever keeps the commandment shall not come to harm, and his wise heart will know the time and procedure.
+
+## Impotence and disorientation of man
 ^6^ For there is a time and procedure for every purpose, although the misery of man is heavy on him. 
 ^7^ For he doesn’t know that which will be; for who can tell him how it will be? 
-^8^ There is no man who has power over the spirit to contain the spirit; neither does he have power over the day of death. There is no discharge in war; neither shall wickedness deliver those who practice it. 
+^8^ There is no man who has power over the spirit to contain the spirit; neither does he have power over the day of death. There is no discharge in war; neither shall wickedness deliver those who practice it.
 
+## Righteous and wicked usually meet the same fate in a single violence; It belongs when one has guidelines for the enjoyment of life at work
 ^9^ All this I have seen, and applied my mind to every work that is done under the sun. There is a time in which one man has power over another to his hurt. 
 ^10^ So I saw the wicked buried. Indeed they came also from holiness. They went and were forgotten in the city where they did this. This also is vanity. 
 ^11^ Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil. 
@@ -201,12 +236,14 @@ The patient in spirit is better than the proud in spirit.
 ^13^ But it shall not be well with the wicked, neither shall he lengthen days like a shadow, because he doesn’t fear God. 
 
 ^14^ There is a vanity which is done on the earth, that there are righteous men to whom it happens according to the work of the wicked. Again, there are wicked men to whom it happens according to the work of the righteous. I said that this also is vanity. 
-^15^ Then I commended mirth, because a man has no better thing under the sun than to eat, to drink, and to be joyful: for that will accompany him in his labor all the days of his life which God has given him under the sun. 
+^15^ Then I commended mirth, because a man has no better thing under the sun than to eat, to drink, and to be joyful: for that will accompany him in his labor all the days of his life which God has given him under the sun.
 
+## The government of God in the world government is unfathomable to man
 ^16^ When I applied my heart to know wisdom, and to see the business that is done on the earth (even though eyes see no sleep day or night), 
 ^17^ then I saw all the work of God, that man can’t find out the work that is done under the sun, because however much a man labors to seek it out, yet he won’t find it. Yes even though a wise man thinks he can comprehend it, he won’t be able to find it. 
 
 # 9 
+## The same fate for all in life and in death; human impotence against deity; Pious enjoyment of life before death sets a goal for all enjoyment and activity
 ^1^ For all this I laid to my heart, even to explore all this: that the righteous, and the wise, and their works, are in the hand of God; whether it is love or hatred, man doesn’t know it; all is before them. 
 ^2^ All things come alike to all. There is one event to the righteous and to the wicked; to the good, to the clean, to the unclean, to him who sacrifices, and to him who doesn’t sacrifice. As is the good, so is the sinner; he who takes an oath, as he who fears an oath. 
 ^3^ This is an evil in all that is done under the sun, that there is one event to all. Yes also, the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that they go to the dead. 
@@ -220,9 +257,11 @@ The patient in spirit is better than the proud in spirit.
 ^10^ Whatever your hand finds to do, do it with your might; for there is no work, nor plan, nor knowledge, nor wisdom, in Sheol,^a^ where you are going. 
 ^a^[**9:10** Sheol is the place of the dead.]
 
+## Man's Dependence on Destiny
 ^11^ I returned and saw under the sun that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favor to men of skill; but time and chance happen to them all. 
-^12^ For man also doesn’t know his time. As the fish that are taken in an evil net, and as the birds that are caught in the snare, even so are the sons of men snared in an evil time, when it falls suddenly on them. 
+^12^ For man also doesn’t know his time. As the fish that are taken in an evil net, and as the birds that are caught in the snare, even so are the sons of men snared in an evil time, when it falls suddenly on them.
 
+## More life experiences and wisdom sayings
 ^13^ I have also seen wisdom under the sun in this way, and it seemed great to me. 
 ^14^ There was a little city, and few men within it; and a great king came against it, besieged it, and built great bulwarks against it. 
 ^15^ Now a poor wise man was found in it, and he by his wisdom delivered the city; yet no man remembered that same poor man. 
@@ -257,6 +296,7 @@ Man doesn’t know what will be; and that which will be after him, who can tell 
 ^20^ Don’t curse the king, no, not in your thoughts; and don’t curse the rich in your bedroom, for a bird of the sky may carry your voice, and that which has wings may tell the matter. 
 
 # 11 
+## Intelligent and profitable action in the face of the uncertainty of everything earthly
 ^1^ Cast your bread on the waters; for you shall find it after many days. 
 ^2^ Give a portion to seven, yes, even to eight; for you don’t know what evil will be on the earth. 
 ^3^ If the clouds are full of rain, they empty themselves on the earth; and if a tree falls toward the south, or toward the north, in the place where the tree falls, there shall it be. 
@@ -264,12 +304,16 @@ Man doesn’t know what will be; and that which will be after him, who can tell 
 ^5^ As you don’t know what is the way of the wind, nor how the bones grow in the womb of her who is with child; even so you don’t know the work of God who does all. 
 ^6^ In the morning sow your seed, and in the evening don’t withhold your hand; for you don’t know which will prosper, whether this or that, or whether they both will be equally good. 
 ^7^ Truly the light is sweet, and it is a pleasant thing for the eyes to see the sun. 
-^8^ Yes, if a man lives many years, let him rejoice in them all; but let him remember the days of darkness, for they shall be many. All that comes is vanity. 
+^8^ Yes, if a man lives many years, let him rejoice in them all; but let him remember the days of darkness, for they shall be many. All that comes is vanity.
+
+## Reminder to fully enjoy life in youth, but please God
 ^9^ Rejoice, young man, in your youth, and let your heart cheer you in the days of your youth, and walk in the ways of your heart, and in the sight of your eyes; but know that for all these things God will bring you into judgment. 
 ^10^ Therefore remove sorrow from your heart, and put away evil from your flesh; for youth and the dawn of life are vanity. 
 
 # 12 
-^1^ Remember also your Creator in the days of your youth, before the evil days come, and the years draw near, when you will say, “I have no pleasure in them;” 
+^1^ Remember also your Creator in the days of your youth, before the evil days come, and the years draw near, when you will say, “I have no pleasure in them;”
+
+## Description of the ailments of old age
 ^2^ Before the sun, the light, the moon, and the stars are darkened, and the clouds return after the rain; 
 ^3^ in the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those who look out of the windows are darkened, 
 ^4^ and the doors shall be shut in the street; when the sound of the grinding is low, and one shall rise up at the voice of a bird, and all the daughters of music shall be brought low; 
@@ -280,7 +324,9 @@ Man doesn’t know what will be; and that which will be after him, who can tell 
 
 ^9^ Further, because the Preacher was wise, he still taught the people knowledge. Yes, he pondered, sought out, and set in order many proverbs. 
 ^10^ The Preacher sought to find out acceptable words, and that which was written blamelessly, words of truth. 
-^11^ The words of the wise are like goads; and like nails well fastened are words from the masters of assemblies, which are given from one shepherd. 
+^11^ The words of the wise are like goads; and like nails well fastened are words from the masters of assemblies, which are given from one shepherd.
+
+## Warning against useless musings; End result list
 ^12^ Furthermore, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh. 
 
 ^13^ This is the end of the matter. All has been heard. Fear God and keep his commandments; for this is the whole duty of man. 

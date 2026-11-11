@@ -1,18 +1,23 @@
 # 1 
+## Blessings
 ^1^ Paul, an apostle of Jesus Christ^a^ through the will of God, according to the promise of the life which is in Christ Jesus, 
 ^2^ to Timothy, my beloved child: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord. 
 ^a^[**1:1** “Christ” means “Anointed One”.]
 
+## Thanksgiving of the apostle for the firmness of Timothy's faith
 ^3^ I thank God, whom I serve as my forefathers did, with a pure conscience. How unceasing is my memory of you in my petitions, night and day 
 ^4^ longing to see you, remembering your tears, that I may be filled with joy; 
-^5^ having been reminded of the sincere faith that is in you, which lived first in your grandmother Lois and your mother Eunice and, I am persuaded, in you also. 
+^5^ having been reminded of the sincere faith that is in you, which lived first in your grandmother Lois and your mother Eunice and, I am persuaded, in you also.
 
+## God's gift keeps Timothy and Paul connected
 ^6^ For this cause, I remind you that you should stir up the gift of God which is in you through the laying on of my hands. 
 ^7^ For God didn’t give us a spirit of fear, but of power, love, and self-control. 
 ^8^ Therefore don’t be ashamed of the testimony of our Lord, nor of me his prisoner; but endure hardship for the Good News according to the power of God, 
 ^9^ who saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before times eternal, 
 ^10^ but has now been revealed by the appearing of our Savior, Christ Jesus, who abolished death, and brought life and immortality to light through the Good News. 
-^11^ For this I was appointed as a preacher, an apostle, and a teacher of the Gentiles. 
+^11^ For this I was appointed as a preacher, an apostle, and a teacher of the Gentiles.
+
+## Reference to the example of the apostle, the infidelity of some brothers and the glorious behavior of Onesiphorus
 ^12^ For this cause I also suffer these things. 
 
 Yet I am not ashamed, for I know him whom I have believed, and I am persuaded that he is able to guard that which I have committed to him against that day. 
@@ -26,14 +31,16 @@ Yet I am not ashamed, for I know him whom I have believed, and I am persuaded th
 ^18^ (the Lord grant to him to find the Lord’s mercy in that day); and in how many things he served at Ephesus, you know very well. 
 
 # 2 
+## Exhortation to Timothy to concern himself with the preaching of the doctrine of salvation and to be strong in battle and suffering
 ^1^ You therefore, my child, be strengthened in the grace that is in Christ Jesus. 
 ^2^ The things which you have heard from me among many witnesses, commit the same things to faithful men who will be able to teach others also. 
 ^3^ You therefore must endure hardship as a good soldier of Christ Jesus. 
 ^4^ No soldier on duty entangles himself in the affairs of life, that he may please him who enrolled him as a soldier. 
 ^5^ Also, if anyone competes in athletics, he isn’t crowned unless he has competed by the rules. 
 ^6^ The farmer who labors must be the first to get a share of the crops. 
-^7^ Consider what I say, and may the Lord give you understanding in all things. 
+^7^ Consider what I say, and may the Lord give you understanding in all things.
 
+## Strength and consolation of the warrior of Christ in the battle of suffering
 ^8^ Remember Jesus Christ, risen from the dead, of the offspring^a^ of David, according to my Good News, 
 ^9^ in which I suffer hardship to the point of chains as a criminal. But God’s word isn’t chained. 
 ^10^ Therefore I endure all things for the chosen ones’ sake, that they also may obtain the salvation which is in Christ Jesus with eternal glory. 
@@ -42,12 +49,15 @@ Yet I am not ashamed, for I know him whom I have believed, and I am persuaded th
 ^13^ If we are faithless, he remains faithful; for he can’t deny himself.” 
 ^a^[**2:8** or, seed]
 
+## Warning of useless verbiage, empty talk and falsehoods of false teachers
 ^14^ Remind them of these things, charging them in the sight of the Lord that they don’t argue about words to no profit, to the subverting of those who hear. 
 
 ^15^ Give diligence to present yourself approved by God, a workman who doesn’t need to be ashamed, properly handling the Word of Truth. 
 ^16^ But shun empty chatter, for it will go further in ungodliness, 
 ^17^ and those words will consume like gangrene, of whom is Hymenaeus and Philetus: 
-^18^ men who have erred concerning the truth, saying that the resurrection is already past, and overthrowing the faith of some. 
+^18^ men who have erred concerning the truth, saying that the resurrection is already past, and overthrowing the faith of some.
+
+## The hopelessness of the false teachers due to the solid foundation of the church laid by God
 ^19^ However, God’s firm foundation stands, having this seal: “The Lord knows those who are his,”^a^ and, “Let every one who names the name of the Lord^b^ depart from unrighteousness.” 
 ^a^[**2:19** Numbers 16:5] ^b^[**2:19** TR reads “Christ” instead of “the Lord”]
 
@@ -61,6 +71,7 @@ Yet I am not ashamed, for I know him whom I have believed, and I am persuaded th
 ^26^ and they may recover themselves out of the devil’s snare, having been taken captive by him to do his will. 
 
 # 3 
+## Description of the future false teachers and the moral corruption of the last time
 ^1^ But know this: that in the last days, grievous times will come. 
 ^2^ For men will be lovers of self, lovers of money, boastful, arrogant, blasphemers, disobedient to parents, unthankful, unholy, 
 ^3^ without natural affection, unforgiving, slanderers, without self-control, fierce, not lovers of good, 
@@ -69,8 +80,9 @@ Yet I am not ashamed, for I know him whom I have believed, and I am persuaded th
 ^6^ For some of these are people who creep into houses and take captive gullible women loaded down with sins, led away by various lusts, 
 ^7^ always learning and never able to come to the knowledge of the truth. 
 ^8^ Even as Jannes and Jambres opposed Moses, so these also oppose the truth, men corrupted in mind, who concerning the faith are rejected. 
-^9^ But they will proceed no further. For their folly will be evident to all men, as theirs also came to be. 
+^9^ But they will proceed no further. For their folly will be evident to all men, as theirs also came to be.
 
+## Reference to the example of Paul and a reminder to persevere and hold fast to traditional teachings and Holy Scripture despite all suffering
 ^10^ But you followed my teaching, conduct, purpose, faith, patience, love, steadfastness, 
 ^11^ persecutions, and sufferings—those things that happened to me at Antioch, Iconium, and Lystra. I endured those persecutions. The Lord delivered me out of them all. 
 ^12^ Yes, and all who desire to live godly in Christ Jesus will suffer persecution. 
@@ -82,16 +94,19 @@ Yet I am not ashamed, for I know him whom I have believed, and I am persuaded th
 ^a^[**3:16** or, Every writing inspired by God is] 
 
 # 4 
+## Another call to Timothy to be true to his craft
 ^1^ I command you therefore before God and the Lord Jesus Christ, who will judge the living and the dead at his appearing and his Kingdom: 
 ^2^ preach the word; be urgent in season and out of season; reprove, rebuke, and exhort with all patience and teaching. 
 ^3^ For the time will come when they will not listen to the sound doctrine, but having itching ears, will heap up for themselves teachers after their own lusts, 
 ^4^ and will turn away their ears from the truth, and turn away to fables. 
-^5^ But you be sober in all things, suffer hardship, do the work of an evangelist, and fulfill your ministry. 
+^5^ But you be sober in all things, suffer hardship, do the work of an evangelist, and fulfill your ministry.
 
+## Solemn reference of the apostle to the near end of his life; his self-testimony and his hope
 ^6^ For I am already being offered, and the time of my departure has come. 
 ^7^ I have fought the good fight. I have finished the course. I have kept the faith. 
-^8^ From now on, the crown of righteousness is stored up for me, which the Lord, the righteous judge, will give to me on that day; and not to me only, but also to all those who have loved his appearing. 
+^8^ From now on, the crown of righteousness is stored up for me, which the Lord, the righteous judge, will give to me on that day; and not to me only, but also to all those who have loved his appearing.
 
+## Personal situation of the apostle, last orders, petitions, messages, greetings and blessings
 ^9^ Be diligent to come to me soon, 
 ^10^ for Demas left me, having loved this present world, and went to Thessalonica; Crescens to Galatia; and Titus to Dalmatia. 
 ^11^ Only Luke is with me. Take Mark and bring him with you, for he is useful to me for service. 

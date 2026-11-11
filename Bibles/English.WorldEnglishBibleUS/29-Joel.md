@@ -1,4 +1,5 @@
 # 1 
+## Call to mourn the devastation caused by locusts
 ^1^ Yahweh’s^a^ word that came to Joel, the son of Pethuel. 
 ^2^ Hear this, you elders, and listen, all you inhabitants of the land! Has this ever happened in your days, or in the days of your fathers? 
 ^3^ Tell your children about it, and have your children tell their children, and their children, another generation. 
@@ -10,7 +11,9 @@
 ^9^ The meal offering and the drink offering are cut off from Yahweh’s house. The priests, Yahweh’s ministers, mourn. 
 ^10^ The field is laid waste. The land mourns, for the grain is destroyed, The new wine has dried up, and the oil languishes. 
 ^11^ Be confounded, you farmers! Wail, you vineyard keepers, for the wheat and for the barley; for the harvest of the field has perished. 
-^12^ The vine has dried up, and the fig tree withered— the pomegranate tree, the palm tree also, and the apple tree, even all of the trees of the field are withered; for joy has withered away from the sons of men. 
+^12^ The vine has dried up, and the fig tree withered— the pomegranate tree, the palm tree also, and the apple tree, even all of the trees of the field are withered; for joy has withered away from the sons of men.
+
+## First invitation to organize a day of penance
 ^13^ Put on sackcloth and mourn, you priests! Wail, you ministers of the altar. Come, lie all night in sackcloth, you ministers of my God,^b^ for the meal offering and the drink offering are withheld from your God’s house. 
 ^14^ Sanctify a fast. Call a solemn assembly. Gather the elders and all the inhabitants of the land to the house of Yahweh, your God, and cry to Yahweh. 
 ^15^ Alas for the day! For the day of Yahweh is at hand, and it will come as destruction from the Almighty. 
@@ -22,6 +25,7 @@
 ^a^[**1:1** “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.] ^b^[**1:13** The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).]
 
 # 2 
+## Irresistible locust attack on land
 ^1^ Blow the trumpet in Zion, and sound an alarm in my holy mountain! Let all the inhabitants of the land tremble, for the day of Yahweh comes, for it is close at hand: 
 ^2^ A day of darkness and gloominess, a day of clouds and thick darkness. As the dawn spreading on the mountains, a great and strong people; there has never been the like, neither will there be any more after them, even to the years of many generations. 
 ^3^ A fire devours before them, and behind them, a flame burns. The land is as the garden of Eden before them, and behind them, a desolate wilderness. Yes, and no one has escaped them. 
@@ -32,13 +36,17 @@
 ^8^ One doesn’t jostle another. They each march in their own path. They burst through the defenses and don’t break ranks. 
 ^9^ They rush on the city. They run on the wall. They climb up into the houses. They enter in at the windows like thieves. 
 ^10^ The earth quakes before them. The heavens tremble. The sun and the moon are darkened, and the stars withdraw their shining. 
-^11^ Yahweh thunders his voice before his army, for his forces are very great; for he is strong who obeys his command; for the day of Yahweh is great and very awesome, and who can endure it? 
+^11^ Yahweh thunders his voice before his army, for his forces are very great; for he is strong who obeys his command; for the day of Yahweh is great and very awesome, and who can endure it?
+
+## God's exhortation to repentance; renewed request to celebrate a day of penance
 ^12^ “Yet even now,” says Yahweh, “turn to me with all your heart, and with fasting, and with weeping, and with mourning.” 
 ^13^ Tear your heart and not your garments, and turn to Yahweh, your God; for he is gracious and merciful, slow to anger, and abundant in loving kindness, and relents from sending calamity. 
 ^14^ Who knows? He may turn and relent, and leave a blessing behind him, even a meal offering and a drink offering to Yahweh, your God. 
 ^15^ Blow the trumpet in Zion! Sanctify a fast. Call a solemn assembly. 
 ^16^ Gather the people. Sanctify the assembly. Assemble the elders. Gather the children, and those who nurse from breasts. Let the bridegroom go out of his room, and the bride out of her chamber. 
-^17^ Let the priests, the ministers of Yahweh, weep between the porch and the altar, and let them say, “Spare your people, Yahweh, and don’t give your heritage to reproach, that the nations should rule over them. Why should they say among the peoples, ‘Where is their God?’” 
+^17^ Let the priests, the ministers of Yahweh, weep between the porch and the altar, and let them say, “Spare your people, Yahweh, and don’t give your heritage to reproach, that the nations should rule over them. Why should they say among the peoples, ‘Where is their God?’”
+
+## Answer the prayer; God's Comforting Promise
 ^18^ Then Yahweh was jealous for his land, and had pity on his people. 
 ^19^ Yahweh answered his people, “Behold,^a^ I will send you grain, new wine, and oil, and you will be satisfied with them; and I will no more make you a reproach among the nations. 
 ^20^ But I will remove the northern army far away from you, and will drive it into a barren and desolate land, its front into the eastern sea, and its back into the western sea; and its stench will come up, and its bad smell will rise.” Surely he has done great things. 
@@ -48,7 +56,9 @@
 ^24^ The threshing floors will be full of wheat, and the vats will overflow with new wine and oil. 
 ^25^ I will restore to you the years that the swarming locust has eaten, the great locust, the grasshopper, and the caterpillar, my great army, which I sent among you. 
 ^26^ You will have plenty to eat and be satisfied, and will praise the name of Yahweh, your God, who has dealt wondrously with you; and my people will never again be disappointed. 
-^27^ You will know that I am among Israel, and that I am Yahweh, your God, and there is no one else; and my people will never again be disappointed. 
+^27^ You will know that I am among Israel, and that I am Yahweh, your God, and there is no one else; and my people will never again be disappointed.
+
+## The outpouring of the divine spirit on all the people and the omens of world judgment
 ^28^ “It will happen afterward, that I will pour out my Spirit on all flesh; and your sons and your daughters will prophesy. Your old men will dream dreams. Your young men will see visions. 
 ^29^ And also on the servants and on the handmaids in those days, I will pour out my Spirit. 
 ^30^ I will show wonders in the heavens and in the earth: blood, fire, and pillars of smoke. 
@@ -57,6 +67,7 @@
 ^a^[**2:19** “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.]
 
 # 3 
+## The day of the Lord as the day of judgment for the Gentiles and as the glorification of the church of Zion
 ^1^ “For, behold, in those days, and in that time, when I restore the fortunes of Judah and Jerusalem, 
 ^2^ I will gather all nations, and will bring them down into the valley of Jehoshaphat; and I will execute judgment on them there for my people, and for my heritage, Israel, whom they have scattered among the nations. They have divided my land, 
 ^3^ and have cast lots for my people, and have given a boy for a prostitute, and sold a girl for wine, that they may drink. 
@@ -64,7 +75,9 @@
 ^5^ Because you have taken my silver and my gold, and have carried my finest treasures into your temples, 
 ^6^ and have sold the children of Judah and the children of Jerusalem to the sons of the Greeks, that you may remove them far from their border. 
 ^7^ Behold, I will stir them up out of the place where you have sold them, and will return your repayment on your own head; 
-^8^ and I will sell your sons and your daughters into the hands of the children of Judah, and they will sell them to the men of Sheba, to a faraway nation, for Yahweh has spoken it.” 
+^8^ and I will sell your sons and your daughters into the hands of the children of Judah, and they will sell them to the men of Sheba, to a faraway nation, for Yahweh has spoken it.”
+
+## Execution of judgment on the Gentiles
 ^9^ Proclaim this among the nations: “Prepare for war! Stir up the mighty men. Let all the warriors draw near. Let them come up. 
 ^10^ Beat your plowshares into swords, and your pruning hooks into spears. Let the weak say, ‘I am strong.’ 
 ^11^ Hurry and come, all you surrounding nations, and gather yourselves together.” Cause your mighty ones to come down there, Yahweh. 
@@ -73,7 +86,9 @@
 ^14^ Multitudes, multitudes in the valley of decision! For the day of Yahweh is near in the valley of decision. 
 ^15^ The sun and the moon are darkened, and the stars withdraw their shining. 
 ^16^ Yahweh will roar from Zion, and thunder from Jerusalem; and the heavens and the earth will shake; but Yahweh will be a refuge to his people, and a stronghold to the children of Israel. 
-^17^ “So you will know that I am Yahweh, your God, dwelling in Zion, my holy mountain. Then Jerusalem will be holy, and no strangers will pass through her any more. 
+^17^ “So you will know that I am Yahweh, your God, dwelling in Zion, my holy mountain. Then Jerusalem will be holy, and no strangers will pass through her any more.
+
+## The time of blessing for Judah
 ^18^ It will happen in that day, that the mountains will drop down sweet wine, the hills will flow with milk, all the brooks of Judah will flow with waters; and a fountain will flow out from Yahweh’s house, and will water the valley of Shittim. 
 ^19^ Egypt will be a desolation and Edom will be a desolate wilderness, for the violence done to the children of Judah, because they have shed innocent blood in their land. 
 ^20^ But Judah will be inhabited forever, and Jerusalem from generation to generation. 

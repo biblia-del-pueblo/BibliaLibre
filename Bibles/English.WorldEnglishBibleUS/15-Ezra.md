@@ -1,12 +1,16 @@
 # 1 
+## Cyrus's permission for the return of the remaining Jews and for the construction of the temple
 ^1^ Now in the first year of Cyrus king of Persia, that Yahweh’s^a^ word by Jeremiah’s mouth might be accomplished, Yahweh stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and put it also in writing, saying, 
 ^2^ “Cyrus king of Persia says, ‘Yahweh, the God^b^ of heaven, has given me all the kingdoms of the earth; and he has commanded me to build him a house in Jerusalem, which is in Judah. 
 ^3^ Whoever there is among you of all his people, may his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of Yahweh, the God of Israel (he is God), which is in Jerusalem. 
 ^4^ Whoever is left, in any place where he lives, let the men of his place help him with silver, with gold, with goods, and with animals, in addition to the free will offering for God’s house which is in Jerusalem.’” 
 ^a^[**1:1** “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.] ^b^[**1:2** The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).]
 
+## The effect and execution of the provision
 ^5^ Then the heads of fathers’ households of Judah and Benjamin, the priests and the Levites, all whose spirit God had stirred to go up, rose up to build Yahweh’s house which is in Jerusalem. 
-^6^ All those who were around them strengthened their hands with vessels of silver, with gold, with goods, with animals, and with precious things, in addition to all that was willingly offered. 
+^6^ All those who were around them strengthened their hands with vessels of silver, with gold, with goods, with animals, and with precious things, in addition to all that was willingly offered.
+
+## Publication and listing of the temple implements given to Shesbassar (Zerubbabel)
 ^7^ Also Cyrus the king brought out the vessels of Yahweh’s house, which Nebuchadnezzar had brought out of Jerusalem, and had put in the house of his gods; 
 ^8^ even those, Cyrus king of Persia brought out by the hand of Mithredath the treasurer, and counted them out to Sheshbazzar the prince of Judah. 
 ^9^ This is the number of them: thirty platters of gold, one thousand platters of silver, twenty-nine knives, 
@@ -14,7 +18,10 @@
 ^11^ All the vessels of gold and of silver were five thousand four hundred. Sheshbazzar brought all these up when the captives were brought up from Babylon to Jerusalem. 
 
 # 2 
-^1^ Now these are the children of the province who went up out of the captivity of those who had been carried away, whom Nebuchadnezzar the king of Babylon had carried away to Babylon, and who returned to Jerusalem and Judah, everyone to his city; 
+## Directory of Returning Jews
+^1^ Now these are the children of the province who went up out of the captivity of those who had been carried away, whom Nebuchadnezzar the king of Babylon had carried away to Babylon, and who returned to Jerusalem and Judah, everyone to his city;
+
+## List of returnees
 ^2^ who came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah. 
 
 The number of the men of the people of Israel: 
@@ -86,11 +93,13 @@ The number of the men of the people of Israel:
 ^63^ The governor told them that they should not eat of the most holy things until a priest stood up to serve with Urim and with Thummim. 
 ^a^[**2:59** or, seed]
 
+## Total number of people and pack animals in the municipality
 ^64^ The whole assembly together was forty-two thousand three hundred sixty, 
 ^65^ in addition to their male servants and their female servants, of whom there were seven thousand three hundred thirty-seven; and they had two hundred singing men and singing women. 
 ^66^ Their horses were seven hundred thirty-six; their mules, two hundred forty-five; 
-^67^ their camels, four hundred thirty-five; their donkeys, six thousand seven hundred twenty. 
+^67^ their camels, four hundred thirty-five; their donkeys, six thousand seven hundred twenty.
 
+## Contributions to the construction of the temple in Jerusalem; final word
 ^68^ Some of the heads of fathers’ households, when they came to Yahweh’s house which is in Jerusalem, offered willingly for God’s house to set it up in its place. 
 ^69^ They gave according to their ability into the treasury of the work sixty-one thousand darics of gold,^a^ five thousand minas^b^ of silver, and one hundred priests’ garments. 
 ^a^[**2:69** a daric was a gold coin issued by a Persian king, weighing about 8.4 grams or about 0.27 troy ounces each.] ^b^[**2:69** A mina is about 600 grams or 1.3 U. S. pounds, so 5,000 minas is about 3 metric tons.]
@@ -98,12 +107,15 @@ The number of the men of the people of Israel:
 ^70^ So the priests and the Levites, with some of the people, the singers, the gatekeepers, and the temple servants, lived in their cities, and all Israel in their cities. 
 
 # 3 
+## Construction of the altar of burnt offerings and establishment of the regular sacrificial service; Celebration of the Feast of Tabernacles
 ^1^ When the seventh month had come, and the children of Israel were in the cities, the people gathered themselves together as one man to Jerusalem. 
 ^2^ Then Jeshua the son of Jozadak stood up with his brothers the priests and Zerubbabel the son of Shealtiel and his relatives, and built the altar of the God of Israel, to offer burnt offerings on it, as it is written in the law of Moses the man of God. 
 ^3^ In spite of their fear because of the peoples of the surrounding lands, they set the altar on its base; and they offered burnt offerings on it to Yahweh, even burnt offerings morning and evening. 
 ^4^ They kept the feast of booths, as it is written, and offered the daily burnt offerings by number, according to the ordinance, as the duty of every day required; 
 ^5^ and afterward the continual burnt offering, the offerings of the new moons, of all the set feasts of Yahweh that were consecrated, and of everyone who willingly offered a free will offering to Yahweh. 
-^6^ From the first day of the seventh month, they began to offer burnt offerings to Yahweh; but the foundation of Yahweh’s temple was not yet laid. 
+^6^ From the first day of the seventh month, they began to offer burnt offerings to Yahweh; but the foundation of Yahweh’s temple was not yet laid.
+
+## Preparations for the construction of temples; Ceremonial laying of the foundation stone
 ^7^ They also gave money to the masons and to the carpenters. They also gave food, drink, and oil to the people of Sidon and Tyre to bring cedar trees from Lebanon to the sea, to Joppa, according to the grant that they had from Cyrus King of Persia. 
 
 ^8^ Now in the second year of their coming to God’s house at Jerusalem, in the second month, Zerubbabel the son of Shealtiel, Jeshua the son of Jozadak, and the rest of their brothers the priests and the Levites, and all those who had come out of the captivity to Jerusalem, began the work and appointed the Levites, from twenty years old and upward, to have the oversight of the work of Yahweh’s house. 
@@ -116,13 +128,16 @@ The number of the men of the people of Israel:
 ^13^ so that the people could not discern the noise of the shout of joy from the noise of the weeping of the people; for the people shouted with a loud shout, and the noise was heard far away. 
 
 # 4 
+## Refusal of the Samaritans to participate in the construction of the temple
 ^1^ Now when the adversaries of Judah and Benjamin heard that the children of the captivity were building a temple to Yahweh, the God of Israel, 
 ^2^ they came near to Zerubbabel, and to the heads of fathers’ households, and said to them, “Let us build with you, for we seek your God as you do; and we have been sacrificing to him since the days of Esar Haddon king of Assyria, who brought us up here.” 
 
 ^3^ But Zerubbabel, Jeshua, and the rest of the heads of fathers’ households of Israel said to them, “You have nothing to do with us in building a house to our God; but we ourselves together will build to Yahweh, the God of Israel, as King Cyrus the king of Persia has commanded us.” 
 
 ^4^ Then the people of the land weakened the hands of the people of Judah, and troubled them in building. 
-^5^ They hired counselors against them to frustrate their purpose all the days of Cyrus king of Persia, even until the reign of Darius king of Persia. 
+^5^ They hired counselors against them to frustrate their purpose all the days of Cyrus king of Persia, even until the reign of Darius king of Persia.
+
+## Various accusations against the Jews and their temple and the construction of walls under the rule of Xerxes and Artaxerxes
 ^6^ In the reign of Ahasuerus, in the beginning of his reign, they wrote an accusation against the inhabitants of Judah and Jerusalem. 
 
 ^7^ In the days of Artaxerxes, Bishlam, Mithredath, Tabeel, and the rest of his companions wrote to Artaxerxes king of Persia; and the writing of the letter was written in Syrian and delivered in the Syrian language. 
@@ -137,8 +152,9 @@ i1
 ^13^ Be it known now to the king that if this city is built and the walls finished, they will not pay tribute, custom, or toll, and in the end it will be hurtful to the kings. 
 ^14^ Now because we eat the salt of the palace and it is not appropriate for us to see the king’s dishonor, therefore we have sent and informed the king, 
 ^15^ that search may be made in the book of the records of your fathers. You will see in the book of the records, and know that this city is a rebellious city, and hurtful to kings and provinces, and that they have started rebellions within it in the past. That is why this city was destroyed. 
-^16^ We inform the king that if this city is built and the walls finished, then you will have no possession beyond the River. 
+^16^ We inform the king that if this city is built and the walls finished, then you will have no possession beyond the River.
 
+## The construction of the temple was paralyzed as a result of a royal decree
 ^17^ Then the king sent an answer to Rehum the chancellor, and to Shimshai the scribe, and to the rest of their companions who live in Samaria, and in the rest of the country beyond the River: Peace. 
 
 i1 
@@ -152,13 +168,15 @@ i1
 ^24^ Then work stopped on God’s house which is at Jerusalem. It stopped until the second year of the reign of Darius king of Persia. 
 
 # 5 
+## Favorable prophecies of two prophets; Governor's permission to resume construction
 ^1^ Now the prophets, Haggai the prophet and Zechariah the son of Iddo, prophesied to the Jews who were in Judah and Jerusalem. They prophesied to them in the name of the God of Israel. 
 ^2^ Then Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak rose up and began to build God’s house which is at Jerusalem; and with them were the prophets of God, helping them. 
 
 ^3^ At the same time Tattenai, the governor beyond the River, came to them, with Shetharbozenai and their companions, and asked them, “Who gave you a decree to build this house and to finish this wall?” 
 ^4^ They also asked for the names of the men were who were making this building. 
-^5^ But the eye of their God was on the elders of the Jews, and they didn’t make them cease until the matter should come to Darius, and an answer should be returned by letter concerning it. 
+^5^ But the eye of their God was on the elders of the Jews, and they didn’t make them cease until the matter should come to Darius, and an answer should be returned by letter concerning it.
 
+## Governor's report and investigation to King Darius on the construction of the temple
 ^6^ The copy of the letter that Tattenai, the governor beyond the River, and Shetharbozenai, and his companions the Apharsachites who were beyond the River, sent to Darius the king follows. 
 ^7^ They sent a letter to him, in which was written: To Darius the king, all peace. 
 
@@ -177,6 +195,7 @@ i1
 ^17^ Now therefore, if it seems good to the king, let a search be made in the king’s treasure house, which is there at Babylon, whether it is so that a decree was made by Cyrus the king to build this house of God at Jerusalem; and let the king send his pleasure to us concerning this matter.” 
 
 # 6 
+## Find Cyrus decree in Ekbatana and information about it
 ^1^ Then Darius the king made a decree, and the house of the archives, where the treasures were laid up in Babylon, was searched. 
 ^2^ A scroll was found at Achmetha, in the palace that is in the province of Media, and in it this was written for a record: 
 
@@ -186,15 +205,18 @@ i1
 ^5^ Also let the gold and silver vessels of God’s house, which Nebuchadnezzar took out of the temple which is at Jerusalem and brought to Babylon, be restored and brought again to the temple which is at Jerusalem, everything to its place. You shall put them in God’s house. 
 ^a^[**6:3** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters.]
 
-i1 
+i1
+
+## Decree of Darius to continue unhindered and promote the construction of the temple
 ^6^ Now therefore, Tattenai, governor beyond the River, Shetharbozenai, and your companions the Apharsachites, who are beyond the River, you must stay far from there. 
 ^7^ Leave the work of this house of God alone; let the governor of the Jews and the elders of the Jews build this house of God in its place. 
 ^8^ Moreover I make a decree regarding what you shall do for these elders of the Jews for the building of this house of God: that of the king’s goods, even of the tribute beyond the River, expenses must be given with all diligence to these men, that they not be hindered. 
 ^9^ That which they have need of, including young bulls, rams, and lambs, for burnt offerings to the God of heaven; also wheat, salt, wine, and oil, according to the word of the priests who are at Jerusalem, let it be given them day by day without fail, 
 ^10^ that they may offer sacrifices of pleasant aroma to the God of heaven, and pray for the life of the king and of his sons. 
 ^11^ I have also made a decree that whoever alters this message, let a beam be pulled out from his house, and let him be lifted up and fastened on it; and let his house be made a dunghill for this. 
-^12^ May the God who has caused his name to dwell there overthrow all kings and peoples who stretch out their hand to alter this, to destroy this house of God which is at Jerusalem. I Darius have made a decree. Let it be done with all diligence. 
+^12^ May the God who has caused his name to dwell there overthrow all kings and peoples who stretch out their hand to alter this, to destroy this house of God which is at Jerusalem. I Darius have made a decree. Let it be done with all diligence.
 
+## Completion and solemn dedication of the temple
 ^13^ Then Tattenai, the governor beyond the River, Shetharbozenai, and their companions did accordingly with all diligence, because Darius the king had sent a decree. 
 
 ^14^ The elders of the Jews built and prospered, through the prophesying of Haggai the prophet and Zechariah the son of Iddo. They built and finished it, according to the commandment of the God of Israel, and according to the decree of Cyrus, Darius, and Artaxerxes king of Persia. 
@@ -202,14 +224,16 @@ i1
 
 ^16^ The children of Israel, the priests, the Levites, and the rest of the children of the captivity, kept the dedication of this house of God with joy. 
 ^17^ They offered at the dedication of this house of God one hundred bulls, two hundred rams, four hundred lambs; and for a sin offering for all Israel, twelve male goats, according to the number of the tribes of Israel. 
-^18^ They set the priests in their divisions and the Levites in their courses, for the service of God which is at Jerusalem, as it is written in the book of Moses. 
+^18^ They set the priests in their divisions and the Levites in their courses, for the service of God which is at Jerusalem, as it is written in the book of Moses.
 
+## Easter Celebration
 ^19^ The children of the captivity kept the Passover on the fourteenth day of the first month. 
 ^20^ Because the priests and the Levites had purified themselves together, all of them were pure. They killed the Passover for all the children of the captivity, for their brothers the priests, and for themselves. 
 ^21^ The children of Israel who had returned out of the captivity, and all who had separated themselves to them from the filthiness of the nations of the land to seek Yahweh, the God of Israel, ate, 
 ^22^ and kept the feast of unleavened bread seven days with joy; because Yahweh had made them joyful, and had turned the heart of the king of Assyria to them, to strengthen their hands in the work of God, the God of Israel’s house. 
 
 # 7 
+## The return of Ezra and his band from Babylon to Jerusalem
 ^1^ Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah, 
 ^2^ the son of Shallum, the son of Zadok, the son of Ahitub, 
 ^3^ the son of Amariah, the son of Azariah, the son of Meraioth, 
@@ -219,8 +243,9 @@ i1
 ^7^ Some of the children of Israel, including some of the priests, the Levites, the singers, the gatekeepers, and the temple servants went up to Jerusalem in the seventh year of Artaxerxes the king. 
 ^8^ He came to Jerusalem in the fifth month, which was in the seventh year of the king. 
 ^9^ For on the first day of the first month he began to go up from Babylon; and on the first day of the fifth month he came to Jerusalem, according to the good hand of his God on him. 
-^10^ For Ezra had set his heart to seek Yahweh’s law, and to do it, and to teach statutes and ordinances in Israel. 
+^10^ For Ezra had set his heart to seek Yahweh’s law, and to do it, and to teach statutes and ordinances in Israel.
 
+## Drafting of the royal letter (= letter of safe conduct) with details of the powers granted to Ezra
 ^11^ Now this is the copy of the letter that King Artaxerxes gave to Ezra the priest, the scribe, even the scribe of the words of Yahweh’s commandments, and of his statutes to Israel: 
 ^12^ Artaxerxes, king of kings, To Ezra the priest, the scribe of the law of the perfect God of heaven. 
 
@@ -245,12 +270,14 @@ i1
 
 i1 
 ^25^ You, Ezra, according to the wisdom of your God that is in your hand, appoint magistrates and judges who may judge all the people who are beyond the River, who all know the laws of your God; and teach him who doesn’t know them. 
-^26^ Whoever will not do the law of your God and the law of the king, let judgment be executed on him with all diligence, whether it is to death, or to banishment, or to confiscation of goods, or to imprisonment. 
+^26^ Whoever will not do the law of your God and the law of the king, let judgment be executed on him with all diligence, whether it is to death, or to banishment, or to confiscation of goods, or to imprisonment.
 
+## Ezra's thanksgiving prayer and start of his activity
 ^27^ Blessed be Yahweh, the God of our fathers, who has put such a thing as this in the king’s heart, to beautify Yahweh’s house which is in Jerusalem; 
 ^28^ and has extended loving kindness to me before the king and his counselors, and before all the king’s mighty princes. I was strengthened according to Yahweh my God’s hand on me, and I gathered together chief men out of Israel to go up with me. 
 
 # 8 
+## Directory of heads of Judean families returning with Ezra
 ^1^ Now these are the heads of their fathers’ households, and this is the genealogy of those who went up with me from Babylon, in the reign of Artaxerxes the king: 
 ^2^ Of the sons of Phinehas, Gershom. Of the sons of Ithamar, Daniel. Of the sons of David, Hattush. 
 ^3^ Of the sons of Shecaniah, of the sons of Parosh, Zechariah; and with him were listed by genealogy of the males one hundred fifty. 
@@ -264,15 +291,17 @@ i1
 ^11^ Of the sons of Bebai, Zechariah the son of Bebai; and with him twenty-eight males. 
 ^12^ Of the sons of Azgad, Johanan the son of Hakkatan; and with him one hundred ten males. 
 ^13^ Of the sons of Adonikam, who were the last, their names are: Eliphelet, Jeuel, and Shemaiah; and with them sixty males. 
-^14^ Of the sons of Bigvai, Uthai and Zabbud; and with them seventy males. 
+^14^ Of the sons of Bigvai, Uthai and Zabbud; and with them seventy males.
 
+## Final preparations for departure
 ^15^ I gathered them together to the river that runs to Ahava; and there we encamped three days. Then I looked around at the people and the priests, and found there were none of the sons of Levi. 
 ^16^ Then I sent for Eliezer, for Ariel, for Shemaiah, for Elnathan, for Jarib, for Elnathan, for Nathan, for Zechariah, and for Meshullam, chief men; also for Joiarib and for Elnathan, who were teachers. 
 ^17^ I sent them out to Iddo the chief at the place Casiphia; and I told them what they should tell Iddo and his brothers the temple servants at the place Casiphia, that they should bring to us ministers for the house of our God. 
 ^18^ According to the good hand of our God on us they brought us a man of discretion, of the sons of Mahli, the son of Levi, the son of Israel, namely Sherebiah, with his sons and his brothers, eighteen; 
 ^19^ and Hashabiah, and with him Jeshaiah of the sons of Merari, his brothers and their sons, twenty; 
-^20^ and of the temple servants, whom David and the princes had given for the service of the Levites, two hundred twenty temple servants. All of them were mentioned by name. 
+^20^ and of the temple servants, whom David and the princes had given for the service of the Levites, two hundred twenty temple servants. All of them were mentioned by name.
 
+## Fasting and prayer of those returning home; Giving of temple gifts to trustworthy men
 ^21^ Then I proclaimed a fast there at the river Ahava, that we might humble ourselves before our God, to seek from him a straight way for us, for our little ones, and for all our possessions. 
 ^22^ For I was ashamed to ask of the king a band of soldiers and horsemen to help us against the enemy on the way, because we had spoken to the king, saying, “The hand of our God is on all those who seek him, for good; but his power and his wrath is against all those who forsake him.” 
 ^23^ So we fasted and begged our God for this, and he granted our request. 
@@ -285,8 +314,9 @@ i1
 ^29^ Watch and keep them until you weigh them before the chiefs of the priests, the Levites, and the princes of the fathers’ households of Israel at Jerusalem, in the rooms of Yahweh’s house.” 
 ^a^[**8:26** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces] ^b^[**8:27** a daric was a gold coin issued by a Persian king, weighing about 8.4 grams or about 0.27 troy ounces each.]
 
-^30^ So the priests and the Levites received the weight of the silver, the gold, and the vessels, to bring them to Jerusalem to the house of our God. 
+^30^ So the priests and the Levites received the weight of the silver, the gold, and the vessels, to bring them to Jerusalem to the house of our God.
 
+## Arrival in Jerusalem; Delivery of votive gifts; make offerings; Support from royal officials
 ^31^ Then we departed from the river Ahava on the twelfth day of the first month, to go to Jerusalem. The hand of our God was on us, and he delivered us from the hand of the enemy and the bandits by the way. 
 ^32^ We came to Jerusalem, and stayed there three days. 
 ^33^ On the fourth day the silver and the gold and the vessels were weighed in the house of our God into the hand of Meremoth the son of Uriah the priest; and with him was Eleazar the son of Phinehas; and with them were Jozabad the son of Jeshua, and Noadiah the son of Binnui, the Levites. 
@@ -296,12 +326,14 @@ i1
 ^36^ They delivered the king’s commissions to the king’s local governors and to the governors beyond the River. So they supported the people and God’s house. 
 
 # 9 
+## Esra notices mixed marriages; his dismay at these officials
 ^1^ Now when these things were done, the princes came near to me, saying, “The people of Israel, the priests, and the Levites have not separated themselves from the peoples of the lands, following their abominations, even those of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites. 
 ^2^ For they have taken of their daughters for themselves and for their sons, so that the holy offspring have mixed themselves with the peoples of the lands. Yes, the hand of the princes and rulers has been chief in this trespass.” 
 
 ^3^ When I heard this thing, I tore my garment and my robe, and pulled the hair out of my head and of my beard, and sat down confounded. 
-^4^ Then everyone who trembled at the words of the God of Israel were assembled to me because of the trespass of the exiles; and I sat confounded until the evening offering. 
+^4^ Then everyone who trembled at the words of the God of Israel were assembled to me because of the trespass of the exiles; and I sat confounded until the evening offering.
 
+## Ezra's penitential prayer
 ^5^ At the evening offering I rose up from my humiliation, even with my garment and my robe torn; and I fell on my knees, and spread out my hands to Yahweh my God; 
 ^6^ and I said, “My God, I am ashamed and blush to lift up my face to you, my God, for our iniquities have increased over our head, and our guiltiness has grown up to the heavens. 
 ^7^ Since the days of our fathers we have been exceedingly guilty to this day; and for our iniquities we, our kings, and our priests have been delivered into the hand of the kings of the lands, to the sword, to captivity, to plunder, and to confusion of face, as it is this day. 
@@ -318,6 +350,7 @@ i1
 ^a^[**9:15** “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.] 
 
 # 10 
+## The action against mixed marriages
 ^1^ Now while Ezra prayed and made confession, weeping and casting himself down before God’s house, there was gathered together to him out of Israel a very great assembly of men and women and children; for the people wept very bitterly. 
 ^2^ Shecaniah the son of Jehiel, one of the sons of Elam, answered Ezra, “We have trespassed against our God, and have married foreign women of the peoples of the land. Yet now there is hope for Israel concerning this thing. 
 ^3^ Now therefore let’s make a covenant with our God to put away all the wives and those who are born of them, according to the counsel of my lord and of those who tremble at the commandment of our God. Let it be done according to the law. 
@@ -340,8 +373,9 @@ i1
 ^15^ Only Jonathan the son of Asahel and Jahzeiah the son of Tikvah stood up against this; and Meshullam and Shabbethai the Levite helped them. 
 
 ^16^ The children of the captivity did so. Ezra the priest, with certain heads of fathers’ households, after their fathers’ houses, and all of them by their names, were set apart; and they sat down in the first day of the tenth month to examine the matter. 
-^17^ They finished with all the men who had married foreign women by the first day of the first month. 
+^17^ They finished with all the men who had married foreign women by the first day of the first month.
 
+## List of priests, Levites and laity who married strange women
 ^18^ Among the sons of the priests there were found who had married foreign women: of the sons of Jeshua, the son of Jozadak, and his brothers: Maaseiah, Eliezer, Jarib, and Gedaliah. 
 ^19^ They gave their hand that they would put away their wives; and being guilty, they offered a ram of the flock for their guilt. 
 ^20^ Of the sons of Immer: Hanani and Zebadiah. 

@@ -1,8 +1,10 @@
 # 1 
+## Blessings
 ^1^ Paul, an apostle of Christ^a^ Jesus through the will of God, to the saints who are at Ephesus, and the faithful in Christ Jesus: 
 ^2^ Grace to you and peace from God our Father and the Lord Jesus Christ. 
 ^a^[**1:1** “Christ” means “Anointed One”.]
 
+## Praise the grace of God for the salvation given in Christ
 ^3^ Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ, 
 ^4^ even as he chose us in him before the foundation of the world, that we would be holy and without defect before him in love, 
 ^5^ having predestined us for adoption as children through Jesus Christ to himself, according to the good pleasure of his desire, 
@@ -14,8 +16,9 @@
 ^11^ We were also assigned an inheritance in him, having been foreordained according to the purpose of him who does all things after the counsel of his will, 
 ^12^ to the end that we should be to the praise of his glory, we who had before hoped in Christ. 
 ^13^ In him you also, having heard the word of the truth, the Good News of your salvation—in whom, having also believed, you were sealed with the promised Holy Spirit, 
-^14^ who is a pledge of our inheritance, to the redemption of God’s own possession, to the praise of his glory. 
+^14^ who is a pledge of our inheritance, to the redemption of God’s own possession, to the praise of his glory.
 
+## Intercession for the congregation for the full knowledge of the greatness of salvation given by the grace of God in Christ
 ^15^ For this cause I also, having heard of the faith in the Lord Jesus which is among you and the love which you have toward all the saints, 
 ^16^ don’t cease to give thanks for you, making mention of you in my prayers, 
 ^17^ that the God of our Lord Jesus Christ, the Father of glory, may give to you a spirit of wisdom and revelation in the knowledge of him, 
@@ -28,6 +31,7 @@
 ^a^[**1:18** TR reads “understanding” instead of “hearts”] 
 
 # 2 
+## Previously dead in sin, the believer now recognizes himself as God's work of grace and a new formation in the risen Christ Jesus
 ^1^ You were made alive when you were dead in transgressions and sins, 
 ^2^ in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the children of disobedience. 
 ^3^ We also all once lived among them in the lusts of our flesh, doing the desires of the flesh and of the mind, and were by nature children of wrath, even as the rest. 
@@ -37,8 +41,9 @@
 ^7^ that in the ages to come he might show the exceeding riches of his grace in kindness toward us in Christ Jesus; 
 ^8^ for by grace you have been saved through faith, and that not of yourselves; it is the gift of God, 
 ^9^ not of works, that no one would boast. 
-^10^ For we are his workmanship, created in Christ Jesus for good works, which God prepared before that we would walk in them. 
+^10^ For we are his workmanship, created in Christ Jesus for good works, which God prepared before that we would walk in them.
 
+## As a new formation of God in Christ Jesus, the Jewish believers are heirs of the promise and of the house of God, but with them also the Gentile believers
 ^11^ Therefore remember that once you, the Gentiles in the flesh, who are called “uncircumcision” by that which is called “circumcision” (in the flesh, made by hands), 
 ^12^ that you were at that time separate from Christ, alienated from the commonwealth of Israel, and strangers from the covenants of the promise, having no hope and without God in the world. 
 ^13^ But now in Christ Jesus you who once were far off are made near in the blood of Christ. 
@@ -53,6 +58,7 @@
 ^22^ in whom you also are built together for a habitation of God in the Spirit. 
 
 # 3 
+## The glorious office of the apostle to proclaim the message of salvation to the Gentiles as the secret revealed to him of his right to partake of the promises of Israel
 ^1^ For this cause I, Paul, am the prisoner of Christ Jesus on behalf of you Gentiles, 
 ^2^ if it is so that you have heard of the administration of that grace of God which was given me toward you, 
 ^3^ how that by revelation the mystery was made known to me, as I wrote before in few words, 
@@ -68,17 +74,20 @@
 ^13^ Therefore I ask that you may not lose heart at my troubles for you, which are your glory. 
 ^a^[**3:9** TR reads “fellowship” instead of “administration”]
 
+## The intercession of the Apostle for readers to strengthen them in faith, love and knowledge
 ^14^ For this cause, I bow my knees to the Father of our Lord Jesus Christ, 
 ^15^ from whom every family in heaven and on earth is named, 
 ^16^ that he would grant you, according to the riches of his glory, that you may be strengthened with power through his Spirit in the inner person, 
 ^17^ that Christ may dwell in your hearts through faith, to the end that you, being rooted and grounded in love, 
 ^18^ may be strengthened to comprehend with all the saints what is the width and length and height and depth, 
-^19^ and to know Christ’s love which surpasses knowledge, that you may be filled with all the fullness of God. 
+^19^ and to know Christ’s love which surpasses knowledge, that you may be filled with all the fullness of God.
 
+## God be the glory
 ^20^ Now to him who is able to do exceedingly abundantly above all that we ask or think, according to the power that works in us, 
 ^21^ to him be the glory in the assembly and in Christ Jesus to all generations, forever and ever. Amen. 
 
 # 4 
+## Exhortation to unity and growth of faith in the community with all the diversity of gifts
 ^1^ I therefore, the prisoner in the Lord, beg you to walk worthily of the calling with which you were called, 
 ^2^ with all lowliness and humility, with patience, bearing with one another in love, 
 ^3^ being eager to keep the unity of the Spirit in the bond of peace. 
@@ -99,6 +108,7 @@
 ^16^ from whom all the body, being fitted and knit together through that which every joint supplies, according to the working in measure of each individual part, makes the body increase to the building up of itself in love. 
 ^a^[**4:11** or, pastors]
 
+## Of new and old people in general; Difference Between Pagan and Christian Lifestyle
 ^17^ This I say therefore, and testify in the Lord, that you no longer walk as the rest of the Gentiles also walk, in the futility of their mind, 
 ^18^ being darkened in their understanding, alienated from the life of God because of the ignorance that is in them, because of the hardening of their hearts. 
 ^19^ They, having become callous, gave themselves up to lust, to work all uncleanness with greediness. 
@@ -106,8 +116,9 @@
 ^21^ if indeed you heard him and were taught in him, even as truth is in Jesus: 
 ^22^ that you put away, as concerning your former way of life, the old man that grows corrupt after the lusts of deceit, 
 ^23^ and that you be renewed in the spirit of your mind, 
-^24^ and put on the new man, who in the likeness of God has been created in righteousness and holiness of truth. 
+^24^ and put on the new man, who in the likeness of God has been created in righteousness and holiness of truth.
 
+## Warnings about behavior in traffic between them
 ^25^ Therefore, putting away falsehood, speak truth each one with his neighbor, for we are members of one another. 
 ^26^ “Be angry, and don’t sin.”^a^ Don’t let the sun go down on your wrath, 
 ^27^ and don’t give place^b^ to the devil. 
@@ -120,13 +131,15 @@
 
 # 5 
 ^1^ Be therefore imitators of God, as beloved children. 
-^2^ Walk in love, even as Christ also loved us and gave himself up for us, an offering and a sacrifice to God for a sweet-smelling fragrance. 
+^2^ Walk in love, even as Christ also loved us and gave himself up for us, an offering and a sacrifice to God for a sweet-smelling fragrance.
 
+## Warning of fornication, covetousness and inappropriate language
 ^3^ But sexual immorality, and all uncleanness or covetousness, let it not even be mentioned among you, as becomes saints; 
 ^4^ nor filthiness, nor foolish talking, nor jesting, which are not appropriate, but rather giving of thanks. 
 
-^5^ Know this for sure, that no sexually immoral person, nor unclean person, nor covetous man (who is an idolater), has any inheritance in the Kingdom of Christ and God. 
+^5^ Know this for sure, that no sexually immoral person, nor unclean person, nor covetous man (who is an idolater), has any inheritance in the Kingdom of Christ and God.
 
+## Walk carefully as children of light
 ^6^ Let no one deceive you with empty words, for because of these things the wrath of God comes on the children of disobedience. 
 ^7^ Therefore don’t be partakers with them. 
 ^8^ For you were once darkness, but are now light in the Lord. Walk as children of light, 
@@ -142,7 +155,9 @@
 ^17^ Therefore, don’t be foolish, but understand what the will of the Lord is. 
 ^18^ Don’t be drunken with wine, in which is dissipation, but be filled with the Spirit, 
 ^19^ speaking to one another in psalms, hymns, and spiritual songs; singing and making melody in your heart to the Lord; 
-^20^ giving thanks always concerning all things in the name of our Lord Jesus Christ to God, even the Father; 
+^20^ giving thanks always concerning all things in the name of our Lord Jesus Christ to God, even the Father;
+
+## Obligations of spouses
 ^21^ subjecting yourselves to one another in the fear of Christ. 
 
 ^22^ Wives, be subject to your own husbands, as to the Lord. 
@@ -161,20 +176,23 @@
 ^a^[**5:31** Genesis 2:24] 
 
 # 6 
+## Duties of children and parents
 ^1^ Children, obey your parents in the Lord, for this is right. 
 ^2^ “Honor your father and mother,” which is the first commandment with a promise: 
 ^3^ “that it may be well with you, and you may live long on the earth.” ^a^ 
 ^a^[**6:3** Deuteronomy 5:16]
 
-^4^ You fathers, don’t provoke your children to wrath, but nurture them in the discipline and instruction of the Lord. 
+^4^ You fathers, don’t provoke your children to wrath, but nurture them in the discipline and instruction of the Lord.
 
+## Duties of servants, slaves and masters
 ^5^ Servants, be obedient to those who according to the flesh are your masters, with fear and trembling, in singleness of your heart, as to Christ, 
 ^6^ not in the way of service only when eyes are on you, as men pleasers, but as servants of Christ, doing the will of God from the heart, 
 ^7^ with good will doing service as to the Lord and not to men, 
 ^8^ knowing that whatever good thing each one does, he will receive the same good again from the Lord, whether he is bound or free. 
 
-^9^ You masters, do the same things to them, and give up threatening, knowing that he who is both their Master and yours is in heaven, and there is no partiality with him. 
+^9^ You masters, do the same things to them, and give up threatening, knowing that he who is both their Master and yours is in heaven, and there is no partiality with him.
 
+## Final warning to the right-wing Christian struggle; the spiritual armor of the Christian; personal request of the apostle
 ^10^ Finally, be strong in the Lord and in the strength of his might. 
 ^11^ Put on the whole armor of God, that you may be able to stand against the wiles of the devil. 
 ^12^ For our wrestling is not against flesh and blood, but against the principalities, against the powers, against the world’s rulers of the darkness of this age, and against the spiritual forces of wickedness in the heavenly places. 
@@ -188,6 +206,7 @@
 ^20^ for which I am an ambassador in chains; that in it I may speak boldly, as I ought to speak. 
 ^a^[**6:17** from the Greek “ῥῆμα” (rhema), which means “spoken word”]
 
+## Tychicus Quest Announcement; Blessing
 ^21^ But that you also may know my affairs, how I am doing, Tychicus, the beloved brother and faithful servant in the Lord, will make known to you all things. 
 ^22^ I have sent him to you for this very purpose, that you may know our state and that he may comfort your hearts. 
 

@@ -1,8 +1,10 @@
 # 1 
+## Blessings
 ^1^ Paul and Timothy, servants of Jesus Christ,^a^ to all the saints in Christ Jesus who are at Philippi, with the overseers^b^ and servants:^c^ 
 ^2^ Grace to you and peace from God our Father and the Lord Jesus Christ. 
 ^a^[**1:1** “Christ” means “Anointed One”.] ^b^[**1:1** or, superintendents, or bishops] ^c^[**1:1** Or, deacons]
 
+## Thanksgiving, trust and intercession of the apostle for the church
 ^3^ I thank my God whenever I remember you, 
 ^4^ always in every request of mine on behalf of you all, making my requests with joy, 
 ^5^ for your partnership^a^ in furtherance of the Good News from the first day until now; 
@@ -13,8 +15,9 @@
 
 ^9^ This I pray, that your love may abound yet more and more in knowledge and all discernment, 
 ^10^ so that you may approve the things that are excellent, that you may be sincere and without offense to the day of Christ, 
-^11^ being filled with the fruits of righteousness which are through Jesus Christ, to the glory and praise of God. 
+^11^ being filled with the fruits of righteousness which are through Jesus Christ, to the glory and praise of God.
 
+## The pains of the apostle and the overwhelming joys in Rome
 ^12^ Now I desire to have you know, brothers,^a^ that the things which happened to me have turned out rather to the progress of the Good News, 
 ^13^ so that it became evident to the whole palace^b^ guard, and to all the rest, that my bonds are in Christ, 
 ^14^ and that most of the brothers in the Lord, being confident through my bonds, are more abundantly bold to speak the word of God without fear. 
@@ -23,6 +26,7 @@
 ^17^ but the latter out of love, knowing that I am appointed for the defense of the Good News. 
 ^a^[**1:12** The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.”] ^b^[**1:13** or, praetorian ]
 
+## Both the testimony of Paul's death and his continued life will serve to glorify Christ
 ^18^ What does it matter? Only that in every way, whether in pretense or in truth, Christ is proclaimed. I rejoice in this, yes, and will rejoice. 
 ^19^ For I know that this will turn out to my salvation through your prayers and the supply of the Spirit of Jesus Christ, 
 ^20^ according to my earnest expectation and hope, that I will in no way be disappointed, but with all boldness, as always, now also Christ will be magnified in my body, whether by life or by death. 
@@ -34,12 +38,14 @@
 ^26^ that your boasting^a^ may abound in Christ Jesus in me through my presence with you again. 
 ^a^[**1:26** or, rejoicing]
 
+## Reminder to walk with dignity and fight unanimously for the message of salvation under all external hostility
 ^27^ Only let your way of life be worthy of the Good News of Christ, that whether I come and see you or am absent, I may hear of your state, that you stand firm in one spirit, with one soul striving for the faith of the Good News; 
 ^28^ and in nothing frightened by the adversaries, which is for them a proof of destruction, but to you of salvation, and that from God. 
 ^29^ Because it has been granted to you on behalf of Christ, not only to believe in him, but also to suffer on his behalf, 
 ^30^ having the same conflict which you saw in me and now hear is in me. 
 
 # 2 
+## Reminder of unity within the community, of self-sacrifice and willingness to suffer according to the example of Christ
 ^1^ If therefore there is any exhortation in Christ, if any consolation of love, if any fellowship of the Spirit, if any tender mercies and compassion, 
 ^2^ make my joy full by being like-minded, having the same love, being of one accord, of one mind; 
 ^3^ doing nothing through rivalry or through conceit, but in humility, each counting others better than himself; 
@@ -51,8 +57,9 @@
 ^8^ And being found in human form, he humbled himself, becoming obedient to the point of death, yes, the death of the cross. 
 ^9^ Therefore God also highly exalted him, and gave to him the name which is above every name, 
 ^10^ that at the name of Jesus every knee should bow, of those in heaven, those on earth, and those under the earth, 
-^11^ and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father. 
+^11^ and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.
 
+## Admonishment to willing obedience and to be completely serious about Christianity
 ^12^ So then, my beloved, even as you have always obeyed, not only in my presence, but now much more in my absence, work out your own salvation with fear and trembling. 
 ^13^ For it is God who works in you both to will and to work for his good pleasure. 
 
@@ -60,8 +67,9 @@
 ^15^ that you may become blameless and harmless, children of God without defect in the middle of a crooked and perverse generation, among whom you are seen as lights in the world, 
 ^16^ holding up the word of life, that I may have something to boast in the day of Christ that I didn’t run in vain nor labor in vain. 
 ^17^ Yes, and if I am poured out on the sacrifice and service of your faith, I am glad and rejoice with you all. 
-^18^ In the same way, you also should be glad and rejoice with me. 
+^18^ In the same way, you also should be glad and rejoice with me.
 
+## Information on Timothy's intended mission and Epaphroditus's return
 ^19^ But I hope in the Lord Jesus to send Timothy to you soon, that I also may be cheered up when I know how you are doing. 
 ^20^ For I have no one else like-minded, who will truly care about you. 
 ^21^ For they all seek their own, not the things of Jesus Christ. 
@@ -77,6 +85,7 @@
 ^30^ because for the work of Christ he came near to death, risking his life to supply that which was lacking in your service toward me. 
 
 # 3 
+## Cry out for joy in the Lord; Invalidity of the external virtues and justice of the law in comparison with the knowledge of salvation in Christ; Warning Against Judaist False Teachers
 ^1^ Finally, my brothers, rejoice in the Lord! To write the same things to you, to me indeed is not tiresome, but for you it is safe. 
 
 ^2^ Beware of the dogs; beware of the evil workers; beware of the false circumcision. 
@@ -89,14 +98,17 @@
 ^8^ Yes most certainly, and I count all things to be a loss for the excellency of the knowledge of Christ Jesus, my Lord, for whom I suffered the loss of all things, and count them nothing but refuse, that I may gain Christ 
 ^9^ and be found in him, not having a righteousness of my own, that which is of the law, but that which is through faith in Christ, the righteousness which is from God by faith, 
 ^10^ that I may know him and the power of his resurrection, and the fellowship of his sufferings, becoming conformed to his death, 
-^11^ if by any means I may attain to the resurrection from the dead. 
+^11^ if by any means I may attain to the resurrection from the dead.
+
+## The apostle strives for this perfection; Encouragement to continue walking successfully in firm fidelity
 ^12^ Not that I have already obtained, or am already made perfect; but I press on, that I may take hold of that for which also I was taken hold of by Christ Jesus. 
 
 ^13^ Brothers, I don’t regard myself as yet having taken hold, but one thing I do: forgetting the things which are behind and stretching forward to the things which are before, 
 ^14^ I press on toward the goal for the prize of the high calling of God in Christ Jesus. 
 ^15^ Let us therefore, as many as are perfect, think this way. If in anything you think otherwise, God will also reveal that to you. 
-^16^ Nevertheless, to the extent that we have already attained, let’s walk by the same rule. Let’s be of the same mind. 
+^16^ Nevertheless, to the extent that we have already attained, let’s walk by the same rule. Let’s be of the same mind.
 
+## Admonitions to switch to the sky
 ^17^ Brothers, be imitators together of me, and note those who walk this way, even as you have us for an example. 
 ^18^ For many walk, of whom I told you often, and now tell you even weeping, as the enemies of the cross of Christ, 
 ^19^ whose end is destruction, whose god is the belly, and whose glory is in their shame, who think about earthly things. 
@@ -104,8 +116,9 @@
 ^21^ who will change the body of our humiliation to be conformed to the body of his glory, according to the working by which he is able even to subject all things to himself. 
 
 # 4 
-^1^ Therefore, my brothers, beloved and longed for, my joy and crown, stand firm in the Lord in this way, my beloved. 
+^1^ Therefore, my brothers, beloved and longed for, my joy and crown, stand firm in the Lord in this way, my beloved.
 
+## Warning to individual parishioners; Invitation to joy in the Lord; Promise of God's peace as a reward for continuous prayer and virtuous walk
 ^2^ I exhort Euodia, and I exhort Syntyche, to think the same way in the Lord. 
 ^3^ Yes, I beg you also, true partner, help these women, for they labored with me in the Good News with Clement also, and the rest of my fellow workers, whose names are in the book of life. 
 
@@ -115,8 +128,9 @@
 ^7^ And the peace of God, which surpasses all understanding, will guard your hearts and your thoughts in Christ Jesus. 
 
 ^8^ Finally, brothers, whatever things are true, whatever things are honorable, whatever things are just, whatever things are pure, whatever things are lovely, whatever things are of good report: if there is any virtue and if there is anything worthy of praise, think about these things. 
-^9^ Do the things which you learned, received, heard, and saw in me, and the God of peace will be with you. 
+^9^ Do the things which you learned, received, heard, and saw in me, and the God of peace will be with you.
 
+## Expression of joy and gratitude for the gift of love sent by the congregation
 ^10^ But I rejoice in the Lord greatly that now at length you have revived your thought for me; in which you did indeed take thought, but you lacked opportunity. 
 ^11^ Not that I speak because of lack, for I have learned in whatever state I am, to be content in it. 
 ^12^ I know how to be humbled, and I also know how to abound. In any and all circumstances I have learned the secret both to be filled and to be hungry, both to abound and to be in need. 
@@ -127,8 +141,9 @@
 ^17^ Not that I seek for the gift, but I seek for the fruit that increases to your account. 
 ^18^ But I have all things and abound. I am filled, having received from Epaphroditus the things that came from you, a sweet-smelling fragrance, an acceptable and well-pleasing sacrifice to God. 
 ^19^ My God will supply every need of yours according to his riches in glory in Christ Jesus. 
-^20^ Now to our God and Father be the glory forever and ever! Amen. 
+^20^ Now to our God and Father be the glory forever and ever! Amen.
 
+## Conclusion: greetings and blessing
 ^21^ Greet every saint in Christ Jesus. The brothers who are with me greet you. 
 ^22^ All the saints greet you, especially those who are of Caesar’s household. 
 

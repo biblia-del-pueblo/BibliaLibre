@@ -1,7 +1,9 @@
 # 1 
+## Blessings
 ^1^ Paul, Silvanus, and Timothy, to the assembly of the Thessalonians in God the Father and the Lord Jesus Christ:^a^ Grace to you and peace from God our Father and the Lord Jesus Christ. 
 ^a^[**1:1** “Christ” means “Anointed One”.]
 
+## Thanksgiving for the work of God in Thessaloniki and expression of joy for the exemplary life of faith in the community
 ^2^ We always give thanks to God for all of you, mentioning you in our prayers, 
 ^3^ remembering without ceasing your work of faith and labor of love and perseverance of hope in our Lord Jesus Christ, before our God and Father. 
 ^4^ We know, brothers^a^ loved by God, that you are chosen, 
@@ -14,6 +16,7 @@
 ^a^[**1:4** The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.” ] 
 
 # 2 
+## Reminder of the energetic, selfless and loving efficacy of God's messengers in Thessalonica
 ^1^ For you yourselves know, brothers, our visit to you wasn’t in vain, 
 ^2^ but having suffered before and been shamefully treated, as you know, at Philippi, we grew bold in our God to tell you the Good News of God in much conflict. 
 ^3^ For our exhortation is not of error, nor of uncleanness, nor in deception. 
@@ -26,13 +29,15 @@
 ^9^ For you remember, brothers, our labor and travail; for working night and day, that we might not burden any of you, we preached to you the Good News of God. 
 ^10^ You are witnesses with God how holy, righteously, and blamelessly we behaved ourselves toward you who believe. 
 ^11^ As you know, we exhorted, comforted, and implored every one of you, as a father does his own children, 
-^12^ to the end that you should walk worthily of God, who calls you into his own Kingdom and glory. 
+^12^ to the end that you should walk worthily of God, who calls you into his own Kingdom and glory.
 
+## Thanksgiving for the voluntary reception of the message of salvation by the community and praise for their constancy in suffering
 ^13^ For this cause we also thank God without ceasing that when you received from us the word of the message of God, you accepted it not as the word of men, but as it is in truth, God’s word, which also works in you who believe. 
 ^14^ For you, brothers, became imitators of the assemblies of God which are in Judea in Christ Jesus; for you also suffered the same things from your own countrymen, even as they did from the Jews 
 ^15^ who killed both the Lord Jesus and their own prophets, and drove us out, and don’t please God, and are contrary to all men, 
-^16^ forbidding us to speak to the Gentiles that they may be saved, to fill up their sins always. But wrath has come on them to the uttermost. 
+^16^ forbidding us to speak to the Gentiles that they may be saved, to fill up their sins always. But wrath has come on them to the uttermost.
 
+## Longing of the apostle; your frustrated travel plans
 ^17^ But we, brothers, being bereaved of you for a short season in presence, not in heart, tried even harder to see your face with great desire, 
 ^18^ because we wanted to come to you—indeed, I, Paul, once and again—but Satan hindered us. 
 ^19^ For what is our hope, or joy, or crown of rejoicing? Isn’t it even you, before our Lord Jesus^a^ at his coming? 
@@ -40,6 +45,7 @@
 ^a^[**2:19** TR adds “Christ”] 
 
 # 3 
+## Information about Timoteo's mission and the favorable outcome of his mission; the thanks of the apostle and his desire for prayer
 ^1^ Therefore when we couldn’t stand it any longer, we thought it good to be left behind at Athens alone, 
 ^2^ and sent Timothy, our brother and God’s servant in the Good News of Christ, to establish you and to comfort you concerning your faith, 
 ^3^ that no one would be moved by these afflictions. For you know that we are appointed to this task. 
@@ -57,6 +63,7 @@
 ^13^ to the end he may establish your hearts blameless in holiness before our God and Father at the coming of our Lord Jesus with all his saints. 
 
 # 4 
+## Reminder of chastity and honesty in business life
 ^1^ Finally then, brothers, we beg and exhort you in the Lord Jesus, that as you received from us how you ought to walk and to please God, that you abound more and more. 
 ^2^ For you know what instructions we gave you through the Lord Jesus. 
 ^3^ For this is the will of God: your sanctification, that you abstain from sexual immorality, 
@@ -67,11 +74,13 @@
 ^8^ Therefore he who rejects this doesn’t reject man, but God, who has also given his Holy Spirit to you. 
 ^a^[**4:4** literally, possess his own vessel]
 
+## Reminder of brotherly love and quiet hard work
 ^9^ But concerning brotherly love, you have no need that one write to you. For you yourselves are taught by God to love one another, 
 ^10^ for indeed you do it toward all the brothers who are in all Macedonia. But we exhort you, brothers, that you abound more and more; 
 ^11^ and that you make it your ambition to lead a quiet life, and to do your own business, and to work with your own hands, even as we instructed you, 
-^12^ that you may walk properly toward those who are outside, and may have need of nothing. 
+^12^ that you may walk properly toward those who are outside, and may have need of nothing.
 
+## No pain desperate for the dead
 ^13^ But we don’t want you to be ignorant, brothers, concerning those who have fallen asleep, so that you don’t grieve like the rest, who have no hope. 
 ^14^ For if we believe that Jesus died and rose again, even so God will bring with him those who have fallen asleep in Jesus. 
 ^15^ For this we tell you by the word of the Lord, that we who are alive, who are left until the coming of the Lord, will in no way precede those who have fallen asleep. 
@@ -80,6 +89,7 @@
 ^18^ Therefore comfort one another with these words. 
 
 # 5 
+## Reminder to be alert and sober about the uncertainty of the timing of Christ's return
 ^1^ But concerning the times and the seasons, brothers, you have no need that anything be written to you. 
 ^2^ For you yourselves know well that the day of the Lord comes like a thief in the night. 
 ^3^ For when they are saying, “Peace and safety,” then sudden destruction will come on them, like birth pains on a pregnant woman. Then they will in no way escape. 
@@ -90,27 +100,33 @@
 ^8^ But since we belong to the day, let’s be sober, putting on the breastplate of faith and love, and for a helmet, the hope of salvation. 
 ^9^ For God didn’t appoint us to wrath, but to the obtaining of salvation through our Lord Jesus Christ, 
 ^10^ who died for us, that, whether we wake or sleep, we should live together with him. 
-^11^ Therefore exhort one another, and build each other up, even as you also do. 
+^11^ Therefore exhort one another, and build each other up, even as you also do.
 
+## Duties of Parishioners to Parish Leaders
 ^12^ But we beg you, brothers, to know those who labor among you, and are over you in the Lord and admonish you, 
 ^13^ and to respect and honor them in love for their work’s sake. 
 
-Be at peace among yourselves. 
-^14^ We exhort you, brothers: Admonish the disorderly; encourage the faint-hearted; support the weak; be patient toward all. 
-^15^ See that no one returns evil for evil to anyone, but always follow after that which is good for one another and for all. 
+Be at peace among yourselves.
 
+## Duties of community leaders towards community members
+^14^ We exhort you, brothers: Admonish the disorderly; encourage the faint-hearted; support the weak; be patient toward all. 
+^15^ See that no one returns evil for evil to anyone, but always follow after that which is good for one another and for all.
+
+## Obligations of the entire community in attitude and efficiency
 ^16^ Always rejoice. 
 ^17^ Pray without ceasing. 
 ^18^ In everything give thanks, for this is the will of God in Christ Jesus toward you. 
 ^19^ Don’t quench the Spirit. 
 ^20^ Don’t despise prophecies. 
 ^21^ Test all things, and hold firmly that which is good. 
-^22^ Abstain from every form of evil. 
+^22^ Abstain from every form of evil.
 
+## Closing Prayer Request
 ^23^ May the God of peace himself sanctify you completely. May your whole spirit, soul, and body be preserved blameless at the coming of our Lord Jesus Christ. 
 
-^24^ He who calls you is faithful, who will also do it. 
+^24^ He who calls you is faithful, who will also do it.
 
+## End of letter; Peace and blessings
 ^25^ Brothers, pray for us. 
 
 ^26^ Greet all the brothers with a holy kiss. 

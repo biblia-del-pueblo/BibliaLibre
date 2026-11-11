@@ -1,4 +1,5 @@
 # 1 
+## The final ordinances of Jesus and his promise to the disciples; Ascension
 ^1^ The first book I wrote, Theophilus, concerned all that Jesus began both to do and to teach, 
 ^2^ until the day in which he was received up, after he had given commandment through the Holy Spirit to the apostles whom he had chosen. 
 ^3^ To these he also showed himself alive after he suffered, by many proofs, appearing to them over a period of forty days and speaking about God’s Kingdom. 
@@ -17,8 +18,9 @@
 
 ^12^ Then they returned to Jerusalem from the mountain called Olivet, which is near Jerusalem, a Sabbath day’s journey away. 
 ^13^ When they had come in, they went up into the upper room where they were staying, that is Peter, John, James, Andrew, Philip, Thomas, Bartholomew, Matthew, James the son of Alphaeus, Simon the Zealot, and Judas the son of James. 
-^14^ All these with one accord continued steadfastly in prayer and supplication, along with the women and Mary the mother of Jesus, and with his brothers. 
+^14^ All these with one accord continued steadfastly in prayer and supplication, along with the women and Mary the mother of Jesus, and with his brothers.
 
+## Replacement of an apostle (Mathias) in place of the traitor Judas Iscariot
 ^15^ In these days, Peter stood up in the middle of the disciples (and the number of names was about one hundred twenty), and said, 
 ^16^ “Brothers, it was necessary that this Scripture should be fulfilled, which the Holy Spirit spoke before by the mouth of David concerning Judas, who was guide to those who took Jesus. 
 ^17^ For he was counted with us, and received his portion in this ministry. 
@@ -39,6 +41,7 @@ and, ‘Let another take his office.’^a^
 ^26^ They drew lots for them, and the lot fell on Matthias; and he was counted with the eleven apostles. 
 
 # 2 
+## The miracle of Pentecost: the outpouring of the Holy Spirit and its tremendous testimony of the great works of God
 ^1^ Now when the day of Pentecost had come, they were all with one accord in one place. 
 ^2^ Suddenly there came from the sky a sound like the rushing of a mighty wind, and it filled all the house where they were sitting. 
 ^3^ Tongues like fire appeared and were distributed to them, and one sat on each of them. 
@@ -52,8 +55,9 @@ and, ‘Let another take his office.’^a^
 ^10^ Phrygia, Pamphylia, Egypt, the parts of Libya around Cyrene, visitors from Rome, both Jews and proselytes, 
 ^11^ Cretans and Arabians—we hear them speaking in our languages the mighty works of God!” 
 ^12^ They were all amazed and were perplexed, saying to one another, “What does this mean?” 
-^13^ Others, mocking, said, “They are filled with new wine.” 
+^13^ Others, mocking, said, “They are filled with new wine.”
 
+## Explanation of the miracle of Pentecost as the fulfillment of the ancient prophetic word of Joel
 ^14^ But Peter, standing up with the eleven, lifted up his voice and spoke out to them, “You men of Judea and all you who dwell at Jerusalem, let this be known to you, and listen to my words. 
 ^15^ For these aren’t drunken, as you suppose, seeing it is only the third hour of the day.^a^ 
 ^16^ But this is what has been spoken through the prophet Joel: 
@@ -64,6 +68,7 @@ and, ‘Let another take his office.’^a^
 ^21^ It will be that whoever will call on the name of the Lord will be saved.’^b^ 
 ^a^[**2:15** about 9:00 a. m.] ^b^[**2:21** Joel 2:28-32]
 
+## Jesus, crucified, risen and exalted by God, has the two words of David
 ^22^ “Men of Israel, hear these words! Jesus of Nazareth, a man approved by God to you by mighty works and wonders and signs which God did by him among you, even as you yourselves know, 
 ^23^ him, being delivered up by the determined counsel and foreknowledge of God, you have taken by the hand of lawless men, crucified and killed; 
 ^24^ whom God raised up, having freed him from the agony of death, because it was not possible that he should be held by it. 
@@ -82,15 +87,18 @@ and, ‘Let another take his office.’^a^
 ^35^ until I make your enemies a footstool for your feet.”’^c^ 
 ^a^[**2:30** “Christ” means “Anointed One”.] ^b^[**2:31** or, Hell] ^c^[**2:35** Psalm 110:1 ]
 
-^36^ “Let all the house of Israel therefore know certainly that God has made him both Lord and Christ, this Jesus whom you crucified.” 
+^36^ “Let all the house of Israel therefore know certainly that God has made him both Lord and Christ, this Jesus whom you crucified.”
 
+## Speech effect; Peter's first pastoral ministry; Foundation of the first church
 ^37^ Now when they heard this, they were cut to the heart, and said to Peter and the rest of the apostles, “Brothers, what shall we do?” 
 
 ^38^ Peter said to them, “Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of sins, and you will receive the gift of the Holy Spirit. 
 ^39^ For the promise is to you and to your children, and to all who are far off, even as many as the Lord our God will call to himself.” 
 ^40^ With many other words he testified and exhorted them, saying, “Save yourselves from this crooked generation!” 
 
-^41^ Then those who gladly received his word were baptized. There were added that day about three thousand souls. 
+^41^ Then those who gladly received his word were baptized. There were added that day about three thousand souls.
+
+## The life of believers in the early church
 ^42^ They continued steadfastly in the apostles’ teaching and fellowship, in the breaking of bread, and prayer. 
 ^43^ Fear came on every soul, and many wonders and signs were done through the apostles. 
 ^44^ All who believed were together, and had all things in common. 
@@ -99,6 +107,7 @@ and, ‘Let another take his office.’^a^
 ^47^ praising God and having favor with all the people. The Lord added to the assembly day by day those who were being saved. 
 
 # 3 
+## Peter and John heal a lame man from birth
 ^1^ Peter and John were going up into the temple at the hour of prayer, the ninth hour.^a^ 
 ^2^ A certain man who was lame from his mother’s womb was being carried, whom they laid daily at the door of the temple which is called Beautiful, to ask gifts for the needy of those who entered into the temple. 
 ^3^ Seeing Peter and John about to go into the temple, he asked to receive gifts for the needy. 
@@ -112,6 +121,7 @@ and, ‘Let another take his office.’^a^
 ^11^ As the lame man who was healed held on to Peter and John, all the people ran together to them in the porch that is called Solomon’s, greatly wondering. 
 ^a^[**3:1** 3:00 p. m.]
 
+## Discourse in the temple, Peter's penitential sermon after healing the lame
 ^12^ When Peter saw it, he responded to the people, “You men of Israel, why do you marvel at this man? Why do you fasten your eyes on us, as though by our own power or godliness we had made him walk? 
 ^13^ The God of Abraham, Isaac, and Jacob, the God of our fathers, has glorified his Servant Jesus, whom you delivered up and denied in the presence of Pilate, when he had determined to release him. 
 ^14^ But you denied the Holy and Righteous One and asked for a murderer to be granted to you, 
@@ -133,6 +143,7 @@ and, ‘Let another take his office.’^a^
 ^a^[**3:23** Deuteronomy 18:15,18-19 ] ^b^[**3:25** or, seed] ^c^[**3:25** Genesis 22:18; 26:4] 
 
 # 4 
+## Peter and John in jail and before the council
 ^1^ As they spoke to the people, the priests and the captain of the temple and the Sadducees came to them, 
 ^2^ being upset because they taught the people and proclaimed in Jesus the resurrection from the dead. 
 ^3^ They laid hands on them, and put them in custody until the next day, for it was now evening. 
@@ -160,8 +171,9 @@ and, ‘Let another take his office.’^a^
 ^20^ for we can’t help telling the things which we saw and heard.” 
 
 ^21^ When they had further threatened them, they let them go, finding no way to punish them, because of the people; for everyone glorified God for that which was done. 
-^22^ For the man on whom this miracle of healing was performed was more than forty years old. 
+^22^ For the man on whom this miracle of healing was performed was more than forty years old.
 
+## Return of the apostles; Thanksgiving and Supplication of the Congregation
 ^23^ Being let go, they came to their own company and reported all that the chief priests and the elders had said to them. 
 ^24^ When they heard it, they lifted up their voice to God with one accord and said, “O Lord, you are God, who made the heaven, the earth, the sea, and all that is in them; 
 ^25^ who by the mouth of your servant David, said, ‘Why do the nations rage, and the peoples plot a vain thing? 
@@ -174,8 +186,9 @@ and, ‘Let another take his office.’^a^
 ^30^ while you stretch out your hand to heal; and that signs and wonders may be done through the name of your holy Servant Jesus.” 
 ^a^[**4:27** nu adds “in this city,”]
 
-^31^ When they had prayed, the place was shaken where they were gathered together. They were all filled with the Holy Spirit, and they spoke the word of God with boldness. 
+^31^ When they had prayed, the place was shaken where they were gathered together. They were all filled with the Holy Spirit, and they spoke the word of God with boldness.
 
+## Community property
 ^32^ The multitude of those who believed were of one heart and soul. Not one of them claimed that anything of the things which he possessed was his own, but they had all things in common. 
 ^33^ With great power, the apostles gave their testimony of the resurrection of the Lord Jesus. Great grace was on them all. 
 ^34^ For neither was there among them any who lacked, for as many as were owners of lands or houses sold them, and brought the proceeds of the things that were sold, 
@@ -185,6 +198,7 @@ and, ‘Let another take his office.’^a^
 ^37^ having a field, sold it and brought the money and laid it at the apostles’ feet. 
 
 # 5 
+## An example of serious church discipline: Ananias and Sapphira
 ^1^ But a certain man named Ananias, with Sapphira his wife, sold a possession, 
 ^2^ and kept back part of the price, his wife also being aware of it, then brought a certain part and laid it at the apostles’ feet. 
 ^3^ But Peter said, “Ananias, why has Satan filled your heart to lie to the Holy Spirit and to keep back part of the price of the land? 
@@ -200,14 +214,16 @@ She said, “Yes, for so much.”
 ^9^ But Peter asked her, “How is it that you have agreed together to tempt the Spirit of the Lord? Behold, the feet of those who have buried your husband are at the door, and they will carry you out.” 
 
 ^10^ She fell down immediately at his feet and died. The young men came in and found her dead, and they carried her out and buried her by her husband. 
-^11^ Great fear came on the whole assembly, and on all who heard these things. 
+^11^ Great fear came on the whole assembly, and on all who heard these things.
 
+## Miracles (especially the healing of the sick) of the apostles; further community growth
 ^12^ By the hands of the apostles many signs and wonders were done among the people. They were all with one accord in Solomon’s porch. 
 ^13^ None of the rest dared to join them; however, the people honored them. 
 ^14^ More believers were added to the Lord, multitudes of both men and women. 
 ^15^ They even carried out the sick into the streets and laid them on cots and mattresses, so that as Peter came by, at least his shadow might overshadow some of them. 
-^16^ The multitude also came together from the cities around Jerusalem, bringing sick people and those who were tormented by unclean spirits; and they were all healed. 
+^16^ The multitude also came together from the cities around Jerusalem, bringing sick people and those who were tormented by unclean spirits; and they were all healed.
 
+## The arrest; Deliverance through an angel
 ^17^ But the high priest rose up, and all those who were with him (which is the sect of the Sadducees), and they were filled with jealousy 
 ^18^ and laid hands on the apostles, then put them in public custody. 
 ^19^ But an angel of the Lord opened the prison doors by night, and brought them out and said, 
@@ -219,8 +235,9 @@ She said, “Yes, for so much.”
 
 ^24^ Now when the high priest, the captain of the temple, and the chief priests heard these words, they were very perplexed about them and what might become of this. 
 ^25^ One came and told them, “Behold, the men whom you put in prison are in the temple, standing and teaching the people.” 
-^26^ Then the captain went with the officers, and brought them without violence, for they were afraid that the people might stone them. 
+^26^ Then the captain went with the officers, and brought them without violence, for they were afraid that the people might stone them.
 
+## The Apostle's Courageous Testimony of Christ's Resurrection
 ^27^ When they had brought them, they set them before the council. The high priest questioned them, 
 ^28^ saying, “Didn’t we strictly command you not to teach in this name? Behold, you have filled Jerusalem with your teaching, and intend to bring this man’s blood on us.” 
 
@@ -229,7 +246,9 @@ She said, “Yes, for so much.”
 ^31^ God exalted him with his right hand to be a Prince and a Savior, to give repentance to Israel, and remission of sins. 
 ^32^ We are his witnesses of these things; and so also is the Holy Spirit, whom God has given to those who obey him.” 
 
-^33^ But they, when they heard this, were cut to the heart, and were determined to kill them. 
+^33^ But they, when they heard this, were cut to the heart, and were determined to kill them.
+
+## Defense and advice of Gamaliel
 ^34^ But one stood up in the council, a Pharisee named Gamaliel, a teacher of the law, honored by all the people, and commanded to put the apostles out for a little while. 
 ^35^ He said to them, “You men of Israel, be careful concerning these men, what you are about to do. 
 ^36^ For before these days Theudas rose up, making himself out to be somebody; to whom a number of men, about four hundred, joined themselves. He was slain; and all, as many as obeyed him, were dispersed and came to nothing. 
@@ -243,6 +262,7 @@ She said, “Yes, for so much.”
 ^42^ Every day, in the temple and at home, they never stopped teaching and preaching Jesus, the Christ. 
 
 # 6 
+## Separation from the office of preaching and helping the poor; Election and appointment of the seven poor keepers
 ^1^ Now in those days, when the number of the disciples was multiplying, a complaint arose from the Hellenists^a^ against the Hebrews, because their widows were neglected in the daily service. 
 ^2^ The twelve summoned the multitude of the disciples and said, “It is not appropriate for us to forsake the word of God and serve tables. 
 ^3^ Therefore, select from among you, brothers, seven men of good report, full of the Holy Spirit and of wisdom, whom we may appoint over this business. 
@@ -252,8 +272,9 @@ She said, “Yes, for so much.”
 ^5^ These words pleased the whole multitude. They chose Stephen, a man full of faith and of the Holy Spirit, Philip, Prochorus, Nicanor, Timon, Parmenas, and Nicolaus, a proselyte of Antioch, 
 ^6^ whom they set before the apostles. When they had prayed, they laid their hands on them. 
 
-^7^ The word of God increased and the number of the disciples greatly multiplied in Jerusalem. A great company of the priests were obedient to the faith. 
+^7^ The word of God increased and the number of the disciples greatly multiplied in Jerusalem. A great company of the priests were obedient to the faith.
 
+## Accusation and death of Stephen, the first martyr
 ^8^ Stephen, full of faith and power, performed great wonders and signs among the people. 
 ^9^ But some of those who were of the synagogue called “The Libertines”, and of the Cyrenians, of the Alexandrians, and of those of Cilicia and Asia arose, disputing with Stephen. 
 ^10^ They weren’t able to withstand the wisdom and the Spirit by which he spoke. 
@@ -264,6 +285,7 @@ She said, “Yes, for so much.”
 ^15^ All who sat in the council, fastening their eyes on him, saw his face like it was the face of an angel. 
 
 # 7 
+## Speech defending Stephen: the time of the patriarchs
 ^1^ The high priest said, “Are these things so?” 
 
 ^2^ He said, “Brothers and fathers, listen. The God of glory appeared to our father Abraham when he was in Mesopotamia, before he lived in Haran, 
@@ -282,8 +304,9 @@ She said, “Yes, for so much.”
 ^13^ On the second time Joseph was made known to his brothers, and Joseph’s family was revealed to Pharaoh. 
 ^14^ Joseph sent and summoned Jacob his father and all his relatives, seventy-five souls. 
 ^15^ Jacob went down into Egypt and he died, himself and our fathers; 
-^16^ and they were brought back to Shechem and laid in the tomb that Abraham bought for a price in silver from the children of Hamor of Shechem. 
+^16^ and they were brought back to Shechem and laid in the tomb that Abraham bought for a price in silver from the children of Hamor of Shechem.
 
+## Mosaic time
 ^17^ “But as the time of the promise came close which God had sworn to Abraham, the people grew and multiplied in Egypt, 
 ^18^ until there arose a different king who didn’t know Joseph. 
 ^19^ The same took advantage of our race and mistreated our fathers, and forced them to abandon their babies, so that they wouldn’t stay alive. 
@@ -319,6 +342,7 @@ She said, “Yes, for so much.”
 ^43^ You took up the tabernacle of Moloch, the star of your god Rephan, the figures which you made to worship, so I will carry you away^e^ beyond Babylon.’ 
 ^a^[**7:37** TR adds “You shall listen to him.”] ^b^[**7:37** Deuteronomy 18:15] ^c^[**7:40** Exodus 32:1] ^d^[**7:42** This idiom could also be translated “host of heaven”, or “angelic beings”, or “heavenly bodies.”] ^e^[**7:43** Amos 5:25-27]
 
+## The time of the tabernacle and the construction of the temple
 ^44^ “Our fathers had the tabernacle of the testimony in the wilderness, even as he who spoke to Moses commanded him to make it according to the pattern that he had seen; 
 ^45^ which also our fathers, in their turn, brought in with Joshua when they entered into the possession of the nations whom God drove out before the face of our fathers to the days of David, 
 ^46^ who found favor in the sight of God, and asked to find a habitation for the God of Jacob. 
@@ -328,10 +352,12 @@ She said, “Yes, for so much.”
 ^50^ Didn’t my hand make all these things?’^a^ 
 ^a^[**7:50** Isaiah 66:1-2]
 
+## End of speech; accusation of the people
 ^51^ “You stiff-necked and uncircumcised in heart and ears, you always resist the Holy Spirit! As your fathers did, so you do. 
 ^52^ Which of the prophets didn’t your fathers persecute? They killed those who foretold the coming of the Righteous One, of whom you have now become betrayers and murderers. 
-^53^ You received the law as it was ordained by angels, and didn’t keep it!” 
+^53^ You received the law as it was ordained by angels, and didn’t keep it!”
 
+## Stephen's Martyrdom
 ^54^ Now when they heard these things, they were cut to the heart, and they gnashed at him with their teeth. 
 ^55^ But he, being full of the Holy Spirit, looked up steadfastly into heaven and saw the glory of God, and Jesus standing on the right hand of God, 
 ^56^ and said, “Behold, I see the heavens opened and the Son of Man standing at the right hand of God!” 
@@ -342,21 +368,26 @@ She said, “Yes, for so much.”
 ^60^ He kneeled down and cried with a loud voice, “Lord, don’t hold this sin against them!” When he had said this, he fell asleep. 
 
 # 8 
+## The first persecution of the Christian community in Jerusalem
 ^1^ Saul was consenting to his death. A great persecution arose against the assembly which was in Jerusalem in that day. They were all scattered abroad throughout the regions of Judea and Samaria, except for the apostles. 
 ^2^ Devout men buried Stephen and lamented greatly over him. 
-^3^ But Saul ravaged the assembly, entering into every house and dragged both men and women off to prison. 
+^3^ But Saul ravaged the assembly, entering into every house and dragged both men and women off to prison.
+
+## Philip preaches and heals
 ^4^ Therefore those who were scattered abroad went around preaching the word. 
 ^5^ Philip went down to the city of Samaria and proclaimed to them the Christ. 
 ^6^ The multitudes listened with one accord to the things that were spoken by Philip when they heard and saw the signs which he did. 
 ^7^ For unclean spirits came out of many of those who had them. They came out, crying with a loud voice. Many who had been paralyzed and lame were healed. 
-^8^ There was great joy in that city. 
+^8^ There was great joy in that city.
 
+## Simon the magician in Samaria
 ^9^ But there was a certain man, Simon by name, who used to practice sorcery in the city and amazed the people of Samaria, making himself out to be some great one, 
 ^10^ to whom they all listened, from the least to the greatest, saying, “This man is that great power of God.” 
 ^11^ They listened to him because for a long time he had amazed them with his sorceries. 
 ^12^ But when they believed Philip preaching good news concerning God’s Kingdom and the name of Jesus Christ, they were baptized, both men and women. 
-^13^ Simon himself also believed. Being baptized, he continued with Philip. Seeing signs and great miracles occurring, he was amazed. 
+^13^ Simon himself also believed. Being baptized, he continued with Philip. Seeing signs and great miracles occurring, he was amazed.
 
+## Work of Peter and John in Samaria
 ^14^ Now when the apostles who were at Jerusalem heard that Samaria had received the word of God, they sent Peter and John to them, 
 ^15^ who, when they had come down, prayed for them, that they might receive the Holy Spirit; 
 ^16^ for as yet he had fallen on none of them. They had only been baptized in the name of Christ Jesus. 
@@ -370,8 +401,9 @@ She said, “Yes, for so much.”
 
 ^24^ Simon answered, “Pray for me to the Lord, that none of the things which you have spoken happen to me.” 
 
-^25^ They therefore, when they had testified and spoken the word of the Lord, returned to Jerusalem, and preached the Good News to many villages of the Samaritans. 
+^25^ They therefore, when they had testified and spoken the word of the Lord, returned to Jerusalem, and preached the Good News to many villages of the Samaritans.
 
+## Conversion and Baptism of Ethiopian Court Official by Philip
 ^26^ Then an angel of the Lord spoke to Philip, saying, “Arise, and go toward the south to the way that goes down from Jerusalem to Gaza. This is a desert.” 
 
 ^27^ He arose and went; and behold, there was a man of Ethiopia, a eunuch of great authority under Candace, queen of the Ethiopians, who was over all her treasure, who had come to Jerusalem to worship. 
@@ -399,6 +431,7 @@ She said, “Yes, for so much.”
 ^40^ But Philip was found at Azotus. Passing through, he preached the Good News to all the cities until he came to Caesarea. 
 
 # 9 
+## Saul's experience on the road to Damascus
 ^1^ But Saul, still breathing threats and slaughter against the disciples of the Lord, went to the high priest 
 ^2^ and asked for letters from him to the synagogues of Damascus, that if he found any who were of the Way, whether men or women, he might bring them bound to Jerusalem. 
 ^3^ As he traveled, he got close to Damascus, and suddenly a light from the sky shone around him. 
@@ -412,8 +445,9 @@ The Lord said, [“I am Jesus, whom you are persecuting.]{.wj}^a^
 
 ^7^ The men who traveled with him stood speechless, hearing the sound, but seeing no one. 
 ^8^ Saul arose from the ground, and when his eyes were opened, he saw no one. They led him by the hand and brought him into Damascus. 
-^9^ He was without sight for three days, and neither ate nor drank. 
+^9^ He was without sight for three days, and neither ate nor drank.
 
+## Saul's healing and baptism by Ananias
 ^10^ Now there was a certain disciple at Damascus named Ananias. The Lord said to him in a vision, [“Ananias!”]{.wj} 
 
 He said, “Behold, it’s me, Lord.” 
@@ -432,15 +466,18 @@ He said, “Behold, it’s me, Lord.”
 ^18^ Immediately something like scales fell from his eyes, and he received his sight. He arose and was baptized. 
 ^19^ He took food and was strengthened. 
 
-Saul stayed several days with the disciples who were at Damascus. 
+Saul stayed several days with the disciples who were at Damascus.
+
+## Paul's effectiveness in Damascus and his flight
 ^20^ Immediately in the synagogues he proclaimed the Christ, that he is the Son of God. 
 ^21^ All who heard him were amazed, and said, “Isn’t this he who in Jerusalem made havoc of those who called on this name? And he had come here intending to bring them bound before the chief priests!” 
 
 ^22^ But Saul increased more in strength, and confounded the Jews who lived at Damascus, proving that this is the Christ. 
 ^23^ When many days were fulfilled, the Jews conspired together to kill him, 
 ^24^ but their plot became known to Saul. They watched the gates both day and night that they might kill him, 
-^25^ but his disciples took him by night and let him down through the wall, lowering him in a basket. 
+^25^ but his disciples took him by night and let him down through the wall, lowering him in a basket.
 
+## Paul for the first time as a Christian in Jerusalem
 ^26^ When Saul had come to Jerusalem, he tried to join himself to the disciples; but they were all afraid of him, not believing that he was a disciple. 
 ^27^ But Barnabas took him and brought him to the apostles, and declared to them how he had seen the Lord on the way, and that he had spoken to him, and how at Damascus he had preached boldly in the name of Jesus. 
 ^28^ He was with them entering into^a^ Jerusalem, 
@@ -448,13 +485,16 @@ Saul stayed several days with the disciples who were at Damascus.
 ^30^ When the brothers^d^ knew it, they brought him down to Caesarea and sent him off to Tarsus. 
 ^a^[**9:28** TR and NU add “and going out” ] ^b^[**9:29** TR and NU omit “Jesus” and reverse the order of verses 28 & 29.] ^c^[**9:29** The Hellenists were Hebrews who used Greek language and culture.] ^d^[**9:30** The word for “brothers” here and where the context allows may also be correctly translated “brothers and sisters” or “siblings.” ]
 
-^31^ So the assemblies throughout all Judea, Galilee, and Samaria had peace and were built up. They were multiplied, walking in the fear of the Lord and in the comfort of the Holy Spirit. 
+## Miracles of Peter at Lydda and Joppa
+^31^ So the assemblies throughout all Judea, Galilee, and Samaria had peace and were built up. They were multiplied, walking in the fear of the Lord and in the comfort of the Holy Spirit.
 
+## Healing of the paralyzed Aeneas in Lydda
 ^32^ As Peter went throughout all those parts, he came down also to the saints who lived at Lydda. 
 ^33^ There he found a certain man named Aeneas, who had been bedridden for eight years because he was paralyzed. 
 ^34^ Peter said to him, “Aeneas, Jesus Christ heals you. Get up and make your bed!” Immediately he arose. 
-^35^ All who lived at Lydda and in Sharon saw him, and they turned to the Lord. 
+^35^ All who lived at Lydda and in Sharon saw him, and they turned to the Lord.
 
+## Raising Tabitha in Joppe
 ^36^ Now there was at Joppa a certain disciple named Tabitha, which when translated means Dorcas.^a^ This woman was full of good works and acts of mercy which she did. 
 ^37^ In those days, she became sick and died. When they had washed her, they laid her in an upper room. 
 ^38^ As Lydda was near Joppa, the disciples, hearing that Peter was there, sent two men^b^ to him, imploring him not to delay in coming to them. 
@@ -466,6 +506,7 @@ Saul stayed several days with the disciples who were at Damascus.
 ^a^[**9:36** “Dorcas” is Greek for “Gazelle.”] ^b^[**9:38** Reading from NU, TR; MT omits “two men”] 
 
 # 10 
+## Cornelius' vision at Caesarea
 ^1^ Now there was a certain man in Caesarea, Cornelius by name, a centurion of what was called the Italian Regiment, 
 ^2^ a devout man, and one who feared God with all his house, who gave gifts for the needy generously to the people, and always prayed to God. 
 ^3^ At about the ninth hour of the day,^a^ he clearly saw in a vision an angel of God coming to him and saying to him, “Cornelius!” 
@@ -479,8 +520,9 @@ He said to him, “Your prayers and your gifts to the needy have gone up for a m
 ^a^[**10:6** TR adds “This one will tell you what it is necessary for you to do.”]
 
 ^7^ When the angel who spoke to him had departed, Cornelius called two of his household servants and a devout soldier of those who waited on him continually. 
-^8^ Having explained everything to them, he sent them to Joppa. 
+^8^ Having explained everything to them, he sent them to Joppa.
 
+## Vision of Peter at Joppa; Arrival of messengers from Cornelius to Peter
 ^9^ Now on the next day as they were on their journey and got close to the city, Peter went up on the housetop to pray at about noon. 
 ^10^ He became hungry and desired to eat, but while they were preparing, he fell into a trance. 
 ^11^ He saw heaven opened and a certain container descending to him, like a great sheet let down by four corners on the earth, 
@@ -500,7 +542,9 @@ He said to him, “Your prayers and your gifts to the needy have gone up for a m
 
 ^21^ Peter went down to the men, and said, “Behold, I am he whom you seek. Why have you come?” 
 
-^22^ They said, “Cornelius, a centurion, a righteous man and one who fears God, and well spoken of by all the nation of the Jews, was directed by a holy angel to invite you to his house, and to listen to what you say.” 
+^22^ They said, “Cornelius, a centurion, a righteous man and one who fears God, and well spoken of by all the nation of the Jews, was directed by a holy angel to invite you to his house, and to listen to what you say.”
+
+## Peter in the house of Cornelius
 ^23^ So he called them in and provided a place to stay. 
 
 On the next day Peter arose and went out with them, and some of the brothers from Joppa accompanied him. 
@@ -538,6 +582,7 @@ Then Peter answered,
 ^48^ He commanded them to be baptized in the name of Jesus Christ. Then they asked him to stay some days. 
 
 # 11 
+## Peter justifies pagan baptism in Jerusalem
 ^1^ Now the apostles and the brothers^a^ who were in Judea heard that the Gentiles had also received the word of God. 
 ^2^ When Peter had come up to Jerusalem, those who were of the circumcision contended with him, 
 ^3^ saying, “You went in to uncircumcised men and ate with them!” 
@@ -558,8 +603,9 @@ Then Peter answered,
 ^16^ I remembered the word of the Lord, how he said, [‘John indeed baptized in water, but you will be baptized in the Holy Spirit.’]{.wj} 
 ^17^ If then God gave to them the same gift as us when we believed in the Lord Jesus Christ, who was I, that I could withstand God?” 
 
-^18^ When they heard these things, they held their peace and glorified God, saying, “Then God has also granted to the Gentiles repentance to life!” 
+^18^ When they heard these things, they held their peace and glorified God, saying, “Then God has also granted to the Gentiles repentance to life!”
 
+## Foundation of the first gentile Christian community in Antioch in Syria; your help for Christians in need in Judea
 ^19^ They therefore who were scattered abroad by the oppression that arose about Stephen traveled as far as Phoenicia, Cyprus, and Antioch, speaking the word to no one except to Jews only. 
 ^20^ But there were some of them, men of Cyprus and Cyrene, who, when they had come to Antioch, spoke to the Hellenists,^a^ preaching the Lord Jesus. 
 ^21^ The hand of the Lord was with them, and a great number believed and turned to the Lord. 
@@ -577,11 +623,14 @@ Then Peter answered,
 ^30^ which they also did, sending it to the elders by the hands of Barnabas and Saul. 
 
 # 12 
+## Death of James, arrest of Peter
 ^1^ Now about that time, King Herod stretched out his hands to oppress some of the assembly. 
 ^2^ He killed James, the brother of John, with the sword. 
 ^3^ When he saw that it pleased the Jews, he proceeded to seize Peter also. This was during the days of unleavened bread. 
 ^4^ When he had arrested him, he put him in prison and delivered him to four squads of four soldiers each to guard him, intending to bring him out to the people after the Passover. 
-^5^ Peter therefore was kept in the prison, but constant prayer was made by the assembly to God for him. 
+^5^ Peter therefore was kept in the prison, but constant prayer was made by the assembly to God for him.
+
+## Wonderful salvation of Peter
 ^6^ The same night when Herod was about to bring him out, Peter was sleeping between two soldiers, bound with two chains. Guards in front of the door kept the prison. 
 
 ^7^ And behold, an angel of the Lord stood by him, and a light shone in the cell. He struck Peter on the side and woke him up, saying, “Stand up quickly!” His chains fell off his hands. 
@@ -596,8 +645,9 @@ Then Peter answered,
 
 ^15^ They said to her, “You are crazy!” But she insisted that it was so. They said, “It is his angel.” 
 ^16^ But Peter continued knocking. When they had opened, they saw him and were amazed. 
-^17^ But he, beckoning to them with his hand to be silent, declared to them how the Lord had brought him out of the prison. He said, “Tell these things to James and to the brothers.” Then he departed and went to another place. 
+^17^ But he, beckoning to them with his hand to be silent, declared to them how the Lord had brought him out of the prison. He said, “Tell these things to James and to the brothers.” Then he departed and went to another place.
 
+## Wrath of Herod; his fall at Caesarea by a divine judgment
 ^18^ Now as soon as it was day, there was no small stir among the soldiers about what had become of Peter. 
 ^19^ When Herod had sought for him and didn’t find him, he examined the guards, then commanded that they should be put to death. He went down from Judea to Caesarea, and stayed there. 
 
@@ -611,6 +661,7 @@ Then Peter answered,
 ^a^[**12:25** TR reads “from” instead of “to”] 
 
 # 13 
+## Consecration, sending and departure of Paul and Barnabas; its effectiveness in Cyprus
 ^1^ Now in the assembly that was at Antioch there were some prophets and teachers: Barnabas, Simeon who was called Niger, Lucius of Cyrene, Manaen the foster brother of Herod the tetrarch, and Saul. 
 ^2^ As they served the Lord and fasted, the Holy Spirit said, “Separate Barnabas and Saul for me, for the work to which I have called them.” 
 
@@ -625,8 +676,9 @@ Then Peter answered,
 ^11^ Now, behold, the hand of the Lord is on you, and you will be blind, not seeing the sun for a season!” 
 
 Immediately a mist and darkness fell on him. He went around seeking someone to lead him by the hand. 
-^12^ Then the proconsul, when he saw what was done, believed, being astonished at the teaching of the Lord. 
+^12^ Then the proconsul, when he saw what was done, believed, being astonished at the teaching of the Lord.
 
+## Continuation of the trip to Asia Minor and stay in Antioch of Pisidia
 ^13^ Now Paul and his company set sail from Paphos and came to Perga in Pamphylia. John departed from them and returned to Jerusalem. 
 ^14^ But they, passing on from Perga, came to Antioch of Pisidia. They went into the synagogue on the Sabbath day and sat down. 
 ^15^ After the reading of the law and the prophets, the rulers of the synagogue sent to them, saying, “Brothers, if you have any word of exhortation for the people, speak.” 
@@ -663,6 +715,7 @@ Immediately a mist and darkness fell on him. He went around seeking someone to l
 ^41^ ‘Behold, you scoffers! Wonder and perish, for I work a work in your days, a work which you will in no way believe, if one declares it to you.’” ^d^ 
 ^a^[**13:34** Isaiah 55:3] ^b^[**13:35** Psalm 16:10] ^c^[**13:38** The word for “brothers” here and where the context allows may also be correctly translated “brothers and sisters” or “siblings.”] ^d^[**13:41** Habakkuk 1:5]
 
+## Various speech hits
 ^42^ So when the Jews went out of the synagogue, the Gentiles begged that these words might be preached to them the next Sabbath. 
 ^43^ Now when the synagogue broke up, many of the Jews and of the devout proselytes followed Paul and Barnabas; who, speaking to them, urged them to continue in the grace of God. 
 
@@ -680,6 +733,7 @@ Immediately a mist and darkness fell on him. He went around seeking someone to l
 ^52^ The disciples were filled with joy and with the Holy Spirit. 
 
 # 14 
+## Effectiveness of the Apostles at Iconium
 ^1^ In Iconium, they entered together into the synagogue of the Jews, and so spoke that a great multitude both of Jews and of Greeks believed. 
 ^2^ But the disbelieving^a^ Jews stirred up and embittered the souls of the Gentiles against the brothers. 
 ^3^ Therefore they stayed there a long time, speaking boldly in the Lord, who testified to the word of his grace, granting signs and wonders to be done by their hands. 
@@ -689,6 +743,7 @@ Immediately a mist and darkness fell on him. He went around seeking someone to l
 ^7^ There they preached the Good News. 
 ^a^[**14:2** or, disobedient]
 
+## Healing of a lame man and stoning of Paul in Lystra; the two apostles escape to Derbe
 ^8^ At Lystra a certain man sat, impotent in his feet, a cripple from his mother’s womb, who never had walked. 
 ^9^ He was listening to Paul speaking, who, fastening eyes on him and seeing that he had faith to be made whole, 
 ^10^ said with a loud voice, “Stand upright on your feet!” He leaped up and walked. 
@@ -703,8 +758,9 @@ Immediately a mist and darkness fell on him. He went around seeking someone to l
 ^a^[**14:17** TR reads “us” instead of “you”]
 
 ^18^ Even saying these things, they hardly stopped the multitudes from making a sacrifice to them. 
-^19^ But some Jews from Antioch and Iconium came there, and having persuaded the multitudes, they stoned Paul and dragged him out of the city, supposing that he was dead. 
+^19^ But some Jews from Antioch and Iconium came there, and having persuaded the multitudes, they stoned Paul and dragged him out of the city, supposing that he was dead.
 
+## The apostles in Derbe; Strengthening of founded communities; Return to Antioch in Syria
 ^20^ But as the disciples stood around him, he rose up, and entered into the city. On the next day he went out with Barnabas to Derbe. 
 
 ^21^ When they had preached the Good News to that city and had made many disciples, they returned to Lystra, Iconium, and Antioch, 
@@ -718,14 +774,16 @@ Immediately a mist and darkness fell on him. He went around seeking someone to l
 ^28^ They stayed there with the disciples for a long time. 
 
 # 15 
+## The cause of the Convention; Sending Paul and Barnabas to Jerusalem
 ^1^ Some men came down from Judea and taught the brothers,^a^ “Unless you are circumcised after the custom of Moses, you can’t be saved.” 
 ^2^ Therefore when Paul and Barnabas had no small discord and discussion with them, they appointed Paul, Barnabas, and some others of them to go up to Jerusalem to the apostles and elders about this question. 
 ^3^ They, being sent on their way by the assembly, passed through both Phoenicia and Samaria, declaring the conversion of the Gentiles. They caused great joy to all the brothers. 
 ^4^ When they had come to Jerusalem, they were received by the assembly and the apostles and the elders, and they reported everything that God had done with them. 
 ^a^[**15:1** The word for “brothers” here and where the context allows may also be correctly translated “brothers and sisters” or “siblings.”]
 
-^5^ But some of the sect of the Pharisees who believed rose up, saying, “It is necessary to circumcise them, and to command them to keep the law of Moses.” 
+^5^ But some of the sect of the Pharisees who believed rose up, saying, “It is necessary to circumcise them, and to command them to keep the law of Moses.”
 
+## The negotiations; Speeches of Peter and James
 ^6^ The apostles and the elders were gathered together to see about this matter. 
 ^7^ When there had been much discussion, Peter rose up and said to them, “Brothers, you know that a good while ago God made a choice among you that by my mouth the nations should hear the word of the Good News and believe. 
 ^8^ God, who knows the heart, testified about them, giving them the Holy Spirit, just like he did to us. 
@@ -745,8 +803,9 @@ Immediately a mist and darkness fell on him. He went around seeking someone to l
 ^18^ “All of God’s works are known to him from eternity. 
 ^19^ Therefore my judgment is that we don’t trouble those from among the Gentiles who turn to God, 
 ^20^ but that we write to them that they abstain from the pollution of idols, from sexual immorality, from what is strangled, and from blood. 
-^21^ For Moses from generations of old has in every city those who preach him, being read in the synagogues every Sabbath.” 
+^21^ For Moses from generations of old has in every city those who preach him, being read in the synagogues every Sabbath.”
 
+## The resolution and its implementation
 ^22^ Then it seemed good to the apostles and the elders, with the whole assembly, to choose men out of their company, and send them to Antioch with Paul and Barnabas: Judas called Barsabbas, and Silas, chief men among the brothers.^a^ 
 ^23^ They wrote these things by their hand: 
 ^a^[**15:22** The word for “brothers” here and where the context allows may also be correctly translated “brothers and sisters” or “siblings.”]
@@ -757,13 +816,16 @@ Immediately a mist and darkness fell on him. He went around seeking someone to l
 ^26^ men who have risked their lives for the name of our Lord Jesus Christ. 
 ^27^ We have sent therefore Judas and Silas, who themselves will also tell you the same things by word of mouth. 
 ^28^ For it seemed good to the Holy Spirit, and to us, to lay no greater burden on you than these necessary things: 
-^29^ that you abstain from things sacrificed to idols, from blood, from things strangled, and from sexual immorality, from which if you keep yourselves, it will be well with you. Farewell.” 
+^29^ that you abstain from things sacrificed to idols, from blood, from things strangled, and from sexual immorality, from which if you keep yourselves, it will be well with you. Farewell.”
 
+## The result: Judas and Silas in Antioch
 ^30^ So, when they were sent off, they came to Antioch. Having gathered the multitude together, they delivered the letter. 
 ^31^ When they had read it, they rejoiced over the encouragement. 
 ^32^ Judas and Silas, also being prophets themselves, encouraged the brothers with many words and strengthened them. 
 ^33^ After they had spent some time there, they were dismissed in peace from the brothers to the apostles. 
-^34^ ^a^ 
+^34^ ^a^
+
+## Pablo's fight with Barnabas; Departure of Paul and Silas from Antioch
 ^35^ But Paul and Barnabas stayed in Antioch, teaching and preaching the word of the Lord, with many others also. 
 ^a^[**15:34** Some manuscripts add: But it seemed good to Silas to stay there. ]
 
@@ -775,6 +837,7 @@ Immediately a mist and darkness fell on him. He went around seeking someone to l
 ^41^ He went through Syria and Cilicia, strengthening the assemblies. 
 
 # 16 
+## The journey overland through Asia Minor to Troas
 ^1^ He came to Derbe and Lystra; and behold, a certain disciple was there, named Timothy, the son of a Jewess who believed, but his father was a Greek. 
 ^2^ The brothers who were at Lystra and Iconium gave a good testimony about him. 
 ^3^ Paul wanted to have him go out with him, and he took and circumcised him because of the Jews who were in those parts, for they all knew that his father was a Greek. 
@@ -785,14 +848,18 @@ Immediately a mist and darkness fell on him. He went around seeking someone to l
 ^7^ When they had come opposite Mysia, they tried to go into Bithynia, but the Spirit didn’t allow them. 
 ^8^ Passing by Mysia, they came down to Troas. 
 ^9^ A vision appeared to Paul in the night. There was a man of Macedonia standing, begging him and saying, “Come over into Macedonia and help us.” 
-^10^ When he had seen the vision, immediately we sought to go out to Macedonia, concluding that the Lord had called us to preach the Good News to them. 
-^11^ Setting sail therefore from Troas, we made a straight course to Samothrace, and the day following to Neapolis; 
-^12^ and from there to Philippi, which is a city of Macedonia, the foremost of the district, a Roman colony. We were staying some days in this city. 
+^10^ When he had seen the vision, immediately we sought to go out to Macedonia, concluding that the Lord had called us to preach the Good News to them.
 
+## The sea voyage to Macedonia; Paul in Philippi
+^11^ Setting sail therefore from Troas, we made a straight course to Samothrace, and the day following to Neapolis; 
+^12^ and from there to Philippi, which is a city of Macedonia, the foremost of the district, a Roman colony. We were staying some days in this city.
+
+## Purple Trader Lydia Conversion
 ^13^ On the Sabbath day we went outside of the city by a riverside, where we supposed there was a place of prayer, and we sat down and spoke to the women who had come together. 
 ^14^ A certain woman named Lydia, a seller of purple, of the city of Thyatira, one who worshiped God, heard us. The Lord opened her heart to listen to the things which were spoken by Paul. 
-^15^ When she and her household were baptized, she begged us, saying, “If you have judged me to be faithful to the Lord, come into my house and stay.” So she persuaded us. 
+^15^ When she and her household were baptized, she begged us, saying, “If you have judged me to be faithful to the Lord, come into my house and stay.” So she persuaded us.
 
+## The maiden guesses; Paul and Silas in court and in jail
 ^16^ As we were going to prayer, a certain girl having a spirit of divination met us, who brought her masters much gain by fortune telling. 
 ^17^ Following Paul and us, she cried out, “These men are servants of the Most High God, who proclaim to us a way of salvation!” 
 ^18^ She was doing this for many days. 
@@ -804,8 +871,9 @@ But Paul, becoming greatly annoyed, turned and said to the spirit, “I command 
 
 ^22^ The multitude rose up together against them and the magistrates tore their clothes from them, then commanded them to be beaten with rods. 
 ^23^ When they had laid many stripes on them, they threw them into prison, charging the jailer to keep them safely. 
-^24^ Having received such a command, he threw them into the inner prison and secured their feet in the stocks. 
+^24^ Having received such a command, he threw them into the inner prison and secured their feet in the stocks.
 
+## The jailer's conversion
 ^25^ But about midnight Paul and Silas were praying and singing hymns to God, and the prisoners were listening to them. 
 ^26^ Suddenly there was a great earthquake, so that the foundations of the prison were shaken; and immediately all the doors were opened, and everyone’s bonds were loosened. 
 ^27^ The jailer, being roused out of sleep and seeing the prison doors open, drew his sword and was about to kill himself, supposing that the prisoners had escaped. 
@@ -818,8 +886,9 @@ But Paul, becoming greatly annoyed, turned and said to the spirit, “I command 
 ^32^ They spoke the word of the Lord to him, and to all who were in his house. 
 
 ^33^ He took them the same hour of the night and washed their stripes, and was immediately baptized, he and all his household. 
-^34^ He brought them up into his house and set food before them, and rejoiced greatly with all his household, having believed in God. 
+^34^ He brought them up into his house and set food before them, and rejoiced greatly with all his household, having believed in God.
 
+## The release of Paul and Silas from prison
 ^35^ But when it was day, the magistrates sent the sergeants, saying, “Let those men go.” 
 
 ^36^ The jailer reported these words to Paul, saying, “The magistrates have sent to let you go; now therefore come out and go in peace.” 
@@ -831,6 +900,7 @@ But Paul, becoming greatly annoyed, turned and said to the spirit, “I command 
 ^40^ They went out of the prison and entered into Lydia’s house. When they had seen the brothers, they encouraged them, then departed. 
 
 # 17 
+## Paul in Thessalonica
 ^1^ Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a Jewish synagogue. 
 ^2^ Paul, as was his custom, went in to them; and for three Sabbath days reasoned with them from the Scriptures, 
 ^3^ explaining and demonstrating that the Christ had to suffer and rise again from the dead, and saying, “This Jesus, whom I proclaim to you, is the Christ.” 
@@ -843,14 +913,16 @@ But Paul, becoming greatly annoyed, turned and said to the spirit, “I command 
 ^9^ When they had taken security from Jason and the rest, they let them go. 
 ^a^[**17:5** TR reads “And the Jews who were unpersuaded, becoming envious and taking along” instead of “But the unpersuaded Jews took along”] ^b^[**17:6** The word for “brothers” here and where the context allows may be also correctly translated “brothers and sisters” or “siblings.”]
 
+## Paul's experiences in Berea and his journey to Athens
 ^10^ The brothers immediately sent Paul and Silas away by night to Beroea. When they arrived, they went into the Jewish synagogue. 
 
 ^11^ Now these were more noble than those in Thessalonica, in that they received the word with all readiness of mind, examining the Scriptures daily to see whether these things were so. 
 ^12^ Many of them therefore believed; also of the prominent Greek women, and not a few men. 
 ^13^ But when the Jews of Thessalonica had knowledge that the word of God was proclaimed by Paul at Beroea also, they came there likewise, agitating the multitudes. 
 ^14^ Then the brothers immediately sent out Paul to go as far as to the sea, and Silas and Timothy still stayed there. 
-^15^ But those who escorted Paul brought him as far as Athens. Receiving a commandment to Silas and Timothy that they should come to him very quickly, they departed. 
+^15^ But those who escorted Paul brought him as far as Athens. Receiving a commandment to Silas and Timothy that they should come to him very quickly, they departed.
 
+## Paul in Athens
 ^16^ Now while Paul waited for them at Athens, his spirit was provoked within him as he saw the city full of idols. 
 ^17^ So he reasoned in the synagogue with the Jews and the devout persons, and in the marketplace every day with those who met him. 
 ^18^ Some of the Epicurean and Stoic philosophers also^a^ were conversing with him. Some said, “What does this babbler want to say?” 
@@ -860,8 +932,9 @@ Others said, “He seems to be advocating foreign deities,” because he preache
 
 ^19^ They took hold of him and brought him to the Areopagus, saying, “May we know what this new teaching is, which you are speaking about? 
 ^20^ For you bring certain strange things to our ears. We want to know therefore what these things mean.” 
-^21^ Now all the Athenians and the strangers living there spent their time in nothing else, but either to tell or to hear some new thing. 
+^21^ Now all the Athenians and the strangers living there spent their time in nothing else, but either to tell or to hear some new thing.
 
+## Paul's speech on the Areopagus hill
 ^22^ Paul stood in the middle of the Areopagus and said, “You men of Athens, I perceive that you are very religious in all things. 
 ^23^ For as I passed along and observed the objects of your worship, I also found an altar with this inscription: ‘TO AN UNKNOWN GOD.’ What therefore you worship in ignorance, I announce to you. 
 ^24^ The God who made the world and all things in it, he, being Lord of heaven and earth, doesn’t dwell in temples made with hands. 
@@ -879,6 +952,7 @@ Others said, “He seems to be advocating foreign deities,” because he preache
 ^34^ But certain men joined with him and believed, including Dionysius the Areopagite, and a woman named Damaris, and others with them. 
 
 # 18 
+## Paul in Corinth
 ^1^ After these things Paul departed from Athens and came to Corinth. 
 ^2^ He found a certain Jew named Aquila, a man of Pontus by race, who had recently come from Italy with his wife Priscilla, because Claudius had commanded all the Jews to depart from Rome. He came to them, 
 ^3^ and because he practiced the same trade, he lived with them and worked, for by trade they were tent makers. 
@@ -892,7 +966,9 @@ Others said, “He seems to be advocating foreign deities,” because he preache
 ^9^ The Lord said to Paul in the night by a vision, [“Don’t be afraid, but speak and don’t be silent;]{.wj} 
 ^10^ [for I am with you, and no one will attack you to harm you, for I have many people in this city.”]{.wj} 
 
-^11^ He lived there a year and six months, teaching the word of God among them. 
+^11^ He lived there a year and six months, teaching the word of God among them.
+
+## The accusation against the Jews was rejected by Governor Gallio
 ^12^ But when Gallio was proconsul of Achaia, the Jews with one accord rose up against Paul and brought him before the judgment seat, 
 ^13^ saying, “This man persuades men to worship God contrary to the law.” 
 
@@ -900,15 +976,18 @@ Others said, “He seems to be advocating foreign deities,” because he preache
 ^15^ but if they are questions about words and names and your own law, look to it yourselves. For I don’t want to be a judge of these matters.” 
 ^16^ So he drove them from the judgment seat. 
 
-^17^ Then all the Greeks seized Sosthenes, the ruler of the synagogue, and beat him before the judgment seat. Gallio didn’t care about any of these things. 
+^17^ Then all the Greeks seized Sosthenes, the ruler of the synagogue, and beat him before the judgment seat. Gallio didn’t care about any of these things.
 
+## Return of Paul via Ephesus and Judea to Antioch in Syria
 ^18^ Paul, having stayed after this many more days, took his leave of the brothers,^a^ and sailed from there for Syria, together with Priscilla and Aquila. He shaved his head in Cenchreae, for he had a vow. 
 ^19^ He came to Ephesus, and he left them there; but he himself entered into the synagogue and reasoned with the Jews. 
 ^20^ When they asked him to stay with them a longer time, he declined; 
 ^21^ but taking his leave of them, he said, “I must by all means keep this coming feast in Jerusalem, but I will return again to you if God wills.” Then he set sail from Ephesus. 
 ^a^[**18:18** The word for “brothers” here and where the context allows may also be correctly translated “brothers and sisters” or “siblings.”]
 
-^22^ When he had landed at Caesarea, he went up and greeted the assembly, and went down to Antioch. 
+^22^ When he had landed at Caesarea, he went up and greeted the assembly, and went down to Antioch.
+
+## Start of trip; Apollos at Ephesus and Corinth
 ^23^ Having spent some time there, he departed and went through the region of Galatia and Phrygia, in order, establishing all the disciples. 
 ^24^ Now a certain Jew named Apollos, an Alexandrian by race, an eloquent man, came to Ephesus. He was mighty in the Scriptures. 
 ^25^ This man had been instructed in the way of the Lord; and being fervent in spirit, he spoke and taught accurately the things concerning Jesus, although he knew only the baptism of John. 
@@ -918,6 +997,7 @@ Others said, “He seems to be advocating foreign deities,” because he preache
 ^28^ for he powerfully refuted the Jews, publicly showing by the Scriptures that Jesus was the Christ. 
 
 # 19 
+## Conversion and baptism of John's disciples
 ^1^ While Apollos was at Corinth, Paul, having passed through the upper country, came to Ephesus and found certain disciples. 
 ^2^ He said to them, “Did you receive the Holy Spirit when you believed?” 
 
@@ -932,15 +1012,18 @@ They said, “Into John’s baptism.”
 
 ^5^ When they heard this, they were baptized in the name of the Lord Jesus. 
 ^6^ When Paul had laid his hands on them, the Holy Spirit came on them and they spoke with other languages and prophesied. 
-^7^ They were about twelve men in all. 
+^7^ They were about twelve men in all.
 
+## Paul's two-year teaching and miracle activity in Ephesus
 ^8^ He entered into the synagogue and spoke boldly for a period of three months, reasoning and persuading about the things concerning God’s Kingdom. 
 
 ^9^ But when some were hardened and disobedient, speaking evil of the Way before the multitude, he departed from them and separated the disciples, reasoning daily in the school of Tyrannus. 
 ^10^ This continued for two years, so that all those who lived in Asia heard the word of the Lord Jesus, both Jews and Greeks. 
 
 ^11^ God worked special miracles by the hands of Paul, 
-^12^ so that even handkerchiefs or aprons were carried away from his body to the sick, and the diseases departed from them, and the evil spirits went out. 
+^12^ so that even handkerchiefs or aprons were carried away from his body to the sick, and the diseases departed from them, and the evil spirits went out.
+
+## Overcome Superstition (Summoners and Spellbooks)
 ^13^ But some of the itinerant Jews, exorcists, took on themselves to invoke over those who had the evil spirits the name of the Lord Jesus, saying, “We adjure you by Jesus whom Paul preaches.” 
 ^14^ There were seven sons of one Sceva, a Jewish chief priest, who did this. 
 
@@ -952,9 +1035,12 @@ They said, “Into John’s baptism.”
 ^20^ So the word of the Lord was growing and becoming mighty. 
 ^a^[**19:19** The 50,000 pieces of silver here probably referred to 50,000 drachmas. If so, the value of the burned books was equivalent to about 160 man-years of wages for agricultural laborers]
 
+## Paul's travel plans
 ^21^ Now after these things had ended, Paul determined in the Spirit, when he had passed through Macedonia and Achaia, to go to Jerusalem, saying, “After I have been there, I must also see Rome.” 
 
-^22^ Having sent into Macedonia two of those who served him, Timothy and Erastus, he himself stayed in Asia for a while. 
+^22^ Having sent into Macedonia two of those who served him, Timothy and Erastus, he himself stayed in Asia for a while.
+
+## Demetrio's Silversmiths' Mutiny
 ^23^ About that time there arose no small disturbance concerning the Way. 
 ^24^ For a certain man named Demetrius, a silversmith who made silver shrines of Artemis, brought no little business to the craftsmen, 
 ^25^ whom he gathered together with the workmen of like occupation, and said, “Sirs, you know that by this business we have our wealth. 
@@ -978,13 +1064,15 @@ They said, “Into John’s baptism.”
 ^41^ When he had thus spoken, he dismissed the assembly. 
 
 # 20 
+## Travel to Greece and return to Troas
 ^1^ After the uproar had ceased, Paul sent for the disciples, took leave of them, and departed to go into Macedonia. 
 ^2^ When he had gone through those parts and had encouraged them with many words, he came into Greece. 
 ^3^ When he had spent three months there, and a plot was made against him by Jews as he was about to set sail for Syria, he determined to return through Macedonia. 
 ^4^ These accompanied him as far as Asia: Sopater of Beroea, Aristarchus and Secundus of the Thessalonians, Gaius of Derbe, Timothy, and Tychicus and Trophimus of Asia. 
 ^5^ But these had gone ahead, and were waiting for us at Troas. 
-^6^ We sailed away from Philippi after the days of Unleavened Bread, and came to them at Troas in five days, where we stayed seven days. 
+^6^ We sailed away from Philippi after the days of Unleavened Bread, and came to them at Troas in five days, where we stayed seven days.
 
+## Paul's farewell celebration in Troas; Reanimation of the failed Eutychus
 ^7^ On the first day of the week, when the disciples were gathered together to break bread, Paul talked with them, intending to depart on the next day; and continued his speech until midnight. 
 ^8^ There were many lights in the upper room where we^a^ were gathered together. 
 ^9^ A certain young man named Eutychus sat in the window, weighed down with deep sleep. As Paul spoke still longer, being weighed down by his sleep, he fell down from the third floor and was taken up dead. 
@@ -992,13 +1080,15 @@ They said, “Into John’s baptism.”
 ^a^[**20:8** TR reads “they” instead of “we”]
 
 ^11^ When he had gone up, had broken bread and eaten, and had talked with them a long while, even until break of day, he departed. 
-^12^ They brought the boy in alive, and were greatly comforted. 
+^12^ They brought the boy in alive, and were greatly comforted.
 
+## Paul's journey from Troas to Miletus
 ^13^ But we, going ahead to the ship, set sail for Assos, intending to take Paul aboard there; for he had so arranged, intending himself to go by land. 
 ^14^ When he met us at Assos, we took him aboard and came to Mitylene. 
 ^15^ Sailing from there, we came the following day opposite Chios. The next day we touched at Samos and stayed at Trogyllium, and the day after we came to Miletus. 
-^16^ For Paul had determined to sail past Ephesus, that he might not have to spend time in Asia; for he was hastening, if it were possible for him, to be in Jerusalem on the day of Pentecost. 
+^16^ For Paul had determined to sail past Ephesus, that he might not have to spend time in Asia; for he was hastening, if it were possible for him, to be in Jerusalem on the day of Pentecost.
 
+## Meeting of Paul with the elders of Ephesus at Miletus; his farewell speech and his farewell
 ^17^ From Miletus he sent to Ephesus and called to himself the elders of the assembly. 
 ^18^ When they had come to him, he said to them, “You yourselves know, from the first day that I set foot in Asia, how I was with you all the time, 
 ^19^ serving the Lord with all humility, with many tears, and with trials which happened to me by the plots of the Jews; 
@@ -1027,6 +1117,7 @@ They said, “Into John’s baptism.”
 ^38^ sorrowing most of all because of the word which he had spoken, that they should see his face no more. Then they accompanied him to the ship. 
 
 # 21 
+## Continuation of the journey from Miletus to Tire and Caesarea
 ^1^ When we had departed from them and had set sail, we came with a straight course to Cos, and the next day to Rhodes, and from there to Patara. 
 ^2^ Having found a ship crossing over to Phoenicia, we went aboard and set sail. 
 ^3^ When we had come in sight of Cyprus, leaving it on the left hand, we sailed to Syria and landed at Tyre, for the ship was there to unload her cargo. 
@@ -1045,8 +1136,9 @@ We entered into the house of Philip the evangelist, who was one of the seven, an
 ^12^ When we heard these things, both we and the people of that place begged him not to go up to Jerusalem. 
 ^13^ Then Paul answered, “What are you doing, weeping and breaking my heart? For I am ready not only to be bound, but also to die at Jerusalem for the name of the Lord Jesus.” 
 
-^14^ When he would not be persuaded, we ceased, saying, “The Lord’s will be done.” 
+^14^ When he would not be persuaded, we ceased, saying, “The Lord’s will be done.”
 
+## Paul in Jerusalem and a prisoner in Caesarea
 ^15^ After these days we took up our baggage and went up to Jerusalem. 
 ^16^ Some of the disciples from Caesarea also went with us, bringing one Mnason of Cyprus, an early disciple, with whom we would stay. 
 
@@ -1060,12 +1152,16 @@ We entered into the house of Philip the evangelist, who was one of the seven, an
 ^24^ Take them and purify yourself with them, and pay their expenses for them, that they may shave their heads. Then all will know that there is no truth in the things that they have been informed about you, but that you yourself also walk keeping the law. 
 ^25^ But concerning the Gentiles who believe, we have written our decision that they should observe no such thing, except that they should keep themselves from food offered to idols, from blood, from strangled things, and from sexual immorality.” 
 
-^26^ Then Paul took the men, and the next day purified himself and went with them into the temple, declaring the fulfillment of the days of purification, until the offering was offered for every one of them. 
+^26^ Then Paul took the men, and the next day purified himself and went with them into the temple, declaring the fulfillment of the days of purification, until the offering was offered for every one of them.
+
+## Paul arrested by the Jews in the temple; the uprising in jerusalem
 ^27^ When the seven days were almost completed, the Jews from Asia, when they saw him in the temple, stirred up all the multitude and laid hands on him, 
 ^28^ crying out, “Men of Israel, help! This is the man who teaches all men everywhere against the people, and the law, and this place. Moreover, he also brought Greeks into the temple and has defiled this holy place!” 
 ^29^ For they had seen Trophimus the Ephesian, with him in the city, and they supposed that Paul had brought him into the temple. 
 
-^30^ All the city was moved and the people ran together. They seized Paul and dragged him out of the temple. Immediately the doors were shut. 
+^30^ All the city was moved and the people ran together. They seized Paul and dragged him out of the temple. Immediately the doors were shut.
+
+## Capture of Pablo by Roman Colonel Lisias
 ^31^ As they were trying to kill him, news came up to the commanding officer of the regiment that all Jerusalem was in an uproar. 
 ^32^ Immediately he took soldiers and centurions and ran down to them. They, when they saw the chief captain and the soldiers, stopped beating Paul. 
 ^33^ Then the commanding officer came near, arrested him, commanded him to be bound with two chains, and inquired who he was and what he had done. 
@@ -1083,6 +1179,7 @@ He said, “Do you know Greek?
 ^40^ When he had given him permission, Paul, standing on the stairs, beckoned with his hand to the people. When there was a great silence, he spoke to them in the Hebrew language, saying, 
 
 # 22 
+## Paul's address to the people
 ^1^ “Brothers and fathers, listen to the defense which I now make to you.” 
 
 ^2^ When they heard that he spoke to them in the Hebrew language, they were even more quiet. 
@@ -1111,8 +1208,9 @@ He said,
 ^19^ I said, ‘Lord, they themselves know that I imprisoned and beat in every synagogue those who believed in you. 
 ^20^ When the blood of Stephen, your witness, was shed, I also was standing by, consenting to his death, and guarding the cloaks of those who killed him.’ 
 
-^21^ “He said to me, [‘Depart, for I will send you out far from here to the Gentiles.’]{.wj}” 
+^21^ “He said to me, [‘Depart, for I will send you out far from here to the Gentiles.’]{.wj}”
 
+## The effect of speech; Paul in custody with the Roman colonel
 ^22^ They listened to him until he said that; then they lifted up their voice and said, “Rid the earth of this fellow, for he isn’t fit to live!” 
 
 ^23^ As they cried out, threw off their cloaks, and threw dust into the air, 
@@ -1129,7 +1227,9 @@ He said, “Yes.”
 
 Paul said, “But I was born a Roman.” 
 
-^29^ Immediately those who were about to examine him departed from him, and the commanding officer also was afraid when he realized that he was a Roman, because he had bound him. 
+^29^ Immediately those who were about to examine him departed from him, and the commanding officer also was afraid when he realized that he was a Roman, because he had bound him.
+
+## Paul before the Jewish high council
 ^30^ But on the next day, desiring to know the truth about why he was accused by the Jews, he freed him from the bonds and commanded the chief priests and all the council to come together, and brought Paul down and set him before them. 
 
 # 23 
@@ -1152,8 +1252,9 @@ Paul said, “But I was born a Roman.”
 
 ^10^ When a great argument arose, the commanding officer, fearing that Paul would be torn in pieces by them, commanded the soldiers to go down and take him by force from among them and bring him into the barracks. 
 
-^11^ The following night, the Lord stood by him and said, [“Cheer up, Paul, for as you have testified about me at Jerusalem, so you must testify also at Rome.”]{.wj} 
+^11^ The following night, the Lord stood by him and said, [“Cheer up, Paul, for as you have testified about me at Jerusalem, so you must testify also at Rome.”]{.wj}
 
+## Jewish assassination attempt on Paul
 ^12^ When it was day, some of the Jews banded together and bound themselves under a curse, saying that they would neither eat nor drink until they had killed Paul. 
 ^13^ There were more than forty people who had made this conspiracy. 
 ^14^ They came to the chief priests and the elders, and said, “We have bound ourselves under a great curse to taste nothing until we have killed Paul. 
@@ -1169,8 +1270,9 @@ Paul said, “But I was born a Roman.”
 ^20^ He said, “The Jews have agreed to ask you to bring Paul down to the council tomorrow, as though intending to inquire somewhat more accurately concerning him. 
 ^21^ Therefore don’t yield to them, for more than forty men lie in wait for him, who have bound themselves under a curse to neither eat nor drink until they have killed him. Now they are ready, looking for the promise from you.” 
 
-^22^ So the commanding officer let the young man go, charging him, “Tell no one that you have revealed these things to me.” 
+^22^ So the commanding officer let the young man go, charging him, “Tell no one that you have revealed these things to me.”
 
+## Letter from Colonel Lysias to Governor Félix; Transfer of Paul from Jerusalem to Caesarea
 ^23^ He called to himself two of the centurions, and said, “Prepare two hundred soldiers to go as far as Caesarea, with seventy horsemen and two hundred men armed with spears, at the third hour of the night.”^a^ 
 ^24^ He asked them to provide mounts, that they might set Paul on one, and bring him safely to Felix the governor. 
 ^25^ He wrote a letter like this: 
@@ -1190,6 +1292,7 @@ Paul said, “But I was born a Roman.”
 ^35^ “I will hear you fully when your accusers also arrive.” He commanded that he be kept in Herod’s palace. 
 
 # 24 
+## Trial before Governor Felix
 ^1^ After five days, the high priest, Ananias, came down with certain elders and an orator, one Tertullus. They informed the governor against Paul. 
 ^2^ When he was called, Tertullus began to accuse him, saying, “Seeing that by you we enjoy much peace, and that prosperity is coming to this nation by your foresight, 
 ^3^ we accept it in all ways and in all places, most excellent Felix, with all thankfulness. 
@@ -1216,8 +1319,9 @@ Paul said, “But I was born a Roman.”
 ^21^ unless it is for this one thing that I cried standing among them, ‘Concerning the resurrection of the dead I am being judged before you today!’” 
 
 ^22^ But Felix, having more exact knowledge concerning the Way, deferred them, saying, “When Lysias, the commanding officer, comes down, I will decide your case.” 
-^23^ He ordered the centurion that Paul should be kept in custody and should have some privileges, and not to forbid any of his friends to serve him or to visit him. 
+^23^ He ordered the centurion that Paul should be kept in custody and should have some privileges, and not to forbid any of his friends to serve him or to visit him.
 
+## Pablo before Felix and Drusilla; Felix delayed the trial
 ^24^ After some days, Felix came with Drusilla his wife, who was a Jewess, and sent for Paul and heard him concerning the faith in Christ Jesus. 
 ^25^ As he reasoned about righteousness, self-control, and the judgment to come, Felix was terrified, and answered, “Go your way for this time, and when it is convenient for me, I will summon you.” 
 ^26^ Meanwhile, he also hoped that money would be given to him by Paul, that he might release him. Therefore also he sent for him more often and talked with him. 
@@ -1225,6 +1329,7 @@ Paul said, “But I was born a Roman.”
 ^27^ But when two years were fulfilled, Felix was succeeded by Porcius Festus, and desiring to gain favor with the Jews, Felix left Paul in bonds. 
 
 # 25 
+## Resuming the process; Festus in Jerusalem and Caesarea; Paul appeals to the emperor
 ^1^ Festus therefore, having come into the province, after three days went up to Jerusalem from Caesarea. 
 ^2^ Then the high priest and the principal men of the Jews informed him against Paul, and they begged him, 
 ^3^ asking a favor against him, that he would summon him to Jerusalem, plotting to kill him on the way. 
@@ -1240,8 +1345,9 @@ Paul said, “But I was born a Roman.”
 ^10^ But Paul said, “I am standing before Caesar’s judgment seat, where I ought to be tried. I have done no wrong to the Jews, as you also know very well. 
 ^11^ For if I have done wrong and have committed anything worthy of death, I don’t refuse to die; but if none of those things is true that they accuse me of, no one can give me up to them. I appeal to Caesar!” 
 
-^12^ Then Festus, when he had conferred with the council, answered, “You have appealed to Caesar. To Caesar you shall go.” 
+^12^ Then Festus, when he had conferred with the council, answered, “You have appealed to Caesar. To Caesar you shall go.”
 
+## Herod Agrippa II and Berenice as guests at Festus in Caesarea; Festus informs Agrippa of Paul's cause
 ^13^ Now when some days had passed, King Agrippa and Bernice arrived at Caesarea and greeted Festus. 
 ^14^ As he stayed there many days, Festus laid Paul’s case before the king, saying, “There is a certain man left a prisoner by Felix; 
 ^15^ about whom, when I was at Jerusalem, the chief priests and the elders of the Jews informed me, asking for a sentence against him. 
@@ -1254,8 +1360,9 @@ Paul said, “But I was born a Roman.”
 
 ^22^ Agrippa said to Festus, “I also would like to hear the man myself.” 
 
-“Tomorrow,” he said, “you shall hear him.” 
+“Tomorrow,” he said, “you shall hear him.”
 
+## Demonstration speech and defense of Paul against Agrippa and Festus
 ^23^ So on the next day, when Agrippa and Bernice had come with great pomp, and they had entered into the place of hearing with the commanding officers and the principal men of the city, at the command of Festus, Paul was brought in. 
 ^24^ Festus said, “King Agrippa, and all men who are here present with us, you see this man about whom all the multitude of the Jews petitioned me, both at Jerusalem and here, crying that he ought not to live any longer. 
 ^25^ But when I found that he had committed nothing worthy of death, and as he himself appealed to the emperor, I determined to send him, 
@@ -1263,6 +1370,7 @@ Paul said, “But I was born a Roman.”
 ^27^ For it seems to me unreasonable, in sending a prisoner, not to also specify the charges against him.” 
 
 # 26 
+## Paul's defensive speech to Agrippa
 ^1^ Agrippa said to Paul, “You may speak for yourself.” 
 
 Then Paul stretched out his hand, and made his defense. 
@@ -1294,8 +1402,9 @@ Then Paul stretched out his hand, and made his defense.
 ^20^ but declared first to them of Damascus, at Jerusalem, and throughout all the country of Judea, and also to the Gentiles, that they should repent and turn to God, doing works worthy of repentance. 
 ^21^ For this reason the Jews seized me in the temple and tried to kill me. 
 ^22^ Having therefore obtained the help that is from God, I stand to this day testifying both to small and great, saying nothing but what the prophets and Moses said would happen, 
-^23^ how the Christ must suffer, and how, by the resurrection of the dead, he would be first to proclaim light both to these people and to the Gentiles.” 
+^23^ how the Christ must suffer, and how, by the resurrection of the dead, he would be first to proclaim light both to these people and to the Gentiles.”
 
+## Speech printing
 ^24^ As he thus made his defense, Festus said with a loud voice, “Paul, you are crazy! Your great learning is driving you insane!” 
 
 ^25^ But he said, “I am not crazy, most excellent Festus, but boldly declare words of truth and reasonableness. 
@@ -1311,6 +1420,7 @@ Then Paul stretched out his hand, and made his defense.
 ^32^ Agrippa said to Festus, “This man might have been set free if he had not appealed to Caesar.” 
 
 # 27 
+## Paul's journey from Caesarea to Rome
 ^1^ When it was determined that we should sail for Italy, they delivered Paul and certain other prisoners to a centurion named Julius, of the Augustan band. 
 ^2^ Embarking in a ship of Adramyttium, which was about to sail to places on the coast of Asia, we put to sea, Aristarchus, a Macedonian of Thessalonica being with us. 
 ^3^ The next day, we touched at Sidon. Julius treated Paul kindly and gave him permission to go to his friends and refresh himself. 
@@ -1323,8 +1433,9 @@ Then Paul stretched out his hand, and made his defense.
 ^9^ When much time had passed and the voyage was now dangerous because the Fast had now already gone by, Paul admonished them 
 ^10^ and said to them, “Sirs, I perceive that the voyage will be with injury and much loss, not only of the cargo and the ship, but also of our lives.” 
 ^11^ But the centurion gave more heed to the master and to the owner of the ship than to those things which were spoken by Paul. 
-^12^ Because the haven was not suitable to winter in, the majority advised going to sea from there, if by any means they could reach Phoenix and winter there, which is a port of Crete, looking southwest and northwest. 
+^12^ Because the haven was not suitable to winter in, the majority advised going to sea from there, if by any means they could reach Phoenix and winter there, which is a port of Crete, looking southwest and northwest.
 
+## Sea storm and shipwreck; Rescue in Malta
 ^13^ When the south wind blew softly, supposing that they had obtained their purpose, they weighed anchor and sailed along Crete, close to shore. 
 ^14^ But before long, a stormy wind beat down from shore, which is called Euroclydon.^a^ 
 ^15^ When the ship was caught and couldn’t face the wind, we gave way to it and were driven along. 
@@ -1335,6 +1446,7 @@ Then Paul stretched out his hand, and made his defense.
 ^20^ When neither sun nor stars shone on us for many days, and no small storm pressed on us, all hope that we would be saved was now taken away. 
 ^a^[**27:14** Or, “a northeaster”.]
 
+## Paul as counselor, comforter and savior in anguish
 ^21^ When they had been long without food, Paul stood up in the middle of them and said, “Sirs, you should have listened to me, and not have set sail from Crete and have gotten this injury and loss. 
 ^22^ Now I exhort you to cheer up, for there will be no loss of life among you, but only of the ship. 
 ^23^ For there stood by me this night an angel, belonging to the God whose I am and whom I serve, 
@@ -1355,7 +1467,9 @@ Then Paul stretched out his hand, and made his defense.
 ^35^ When he had said this and had taken bread, he gave thanks to God in the presence of all; then he broke it and began to eat. 
 ^36^ Then they all cheered up, and they also took food. 
 ^37^ In all, we were two hundred seventy-six souls on the ship. 
-^38^ When they had eaten enough, they lightened the ship, throwing out the wheat into the sea. 
+^38^ When they had eaten enough, they lightened the ship, throwing out the wheat into the sea.
+
+## Shipwreck off the face of the island of Malta; Rescue the shipwrecked
 ^39^ When it was day, they didn’t recognize the land, but they noticed a certain bay with a beach, and they decided to try to drive the ship onto it. 
 ^40^ Casting off the anchors, they left them in the sea, at the same time untying the rudder ropes. Hoisting up the foresail to the wind, they made for the beach. 
 ^41^ But coming to a place where two seas met, they ran the vessel aground. The bow struck and remained immovable, but the stern began to break up by the violence of the waves. 
@@ -1365,27 +1479,35 @@ Then Paul stretched out his hand, and made his defense.
 ^44^ and the rest should follow, some on planks and some on other things from the ship. So they all escaped safely to the land. 
 
 # 28 
+## Wintering on the island of Malta; Continuation of the trip to Rome
 ^1^ When we had escaped, then they^a^ learned that the island was called Malta. 
-^2^ The natives showed us uncommon kindness; for they kindled a fire and received us all, because of the present rain and because of the cold. 
+^2^ The natives showed us uncommon kindness; for they kindled a fire and received us all, because of the present rain and because of the cold.
+
+## Salvation of Pablo from the danger of life
 ^3^ But when Paul had gathered a bundle of sticks and laid them on the fire, a viper came out because of the heat and fastened on his hand. 
 ^4^ When the natives saw the creature hanging from his hand, they said to one another, “No doubt this man is a murderer, whom, though he has escaped from the sea, yet Justice has not allowed to live.” 
 ^5^ However he shook off the creature into the fire, and wasn’t harmed. 
 ^6^ But they expected that he would have swollen or fallen down dead suddenly, but when they watched for a long time and saw nothing bad happen to him, they changed their minds and said that he was a god. 
 ^a^[**28:1** NU reads “we”]
 
+## Paul heals Publius's father and other sick people
 ^7^ Now in the neighborhood of that place were lands belonging to the chief man of the island, named Publius, who received us and courteously entertained us for three days. 
 ^8^ The father of Publius lay sick of fever and dysentery. Paul entered in to him, prayed, and laying his hands on him, healed him. 
 ^9^ Then when this was done, the rest also who had diseases in the island came and were cured. 
-^10^ They also honored us with many honors; and when we sailed, they put on board the things that we needed. 
+^10^ They also honored us with many honors; and when we sailed, they put on board the things that we needed.
 
+## Continuation of the journey via Syracuse and Puteoli to Rome
 ^11^ After three months, we set sail in a ship of Alexandria which had wintered in the island, whose figurehead was “The Twin Brothers.” 
 ^12^ Touching at Syracuse, we stayed there three days. 
 ^13^ From there we circled around and arrived at Rhegium. After one day, a south wind sprang up, and on the second day we came to Puteoli, 
 ^14^ where we found brothers,^a^ and were entreated to stay with them for seven days. So we came to Rome. 
-^15^ From there the brothers, when they heard of us, came to meet us as far as The Market of Appius and The Three Taverns. When Paul saw them, he thanked God and took courage. 
+^15^ From there the brothers, when they heard of us, came to meet us as far as The Market of Appius and The Three Taverns. When Paul saw them, he thanked God and took courage.
+
+## Paul in Rome
 ^16^ When we entered into Rome, the centurion delivered the prisoners to the captain of the guard, but Paul was allowed to stay by himself with the soldier who guarded him. 
 ^a^[**28:14** The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.”]
 
+## Paul's negotiations with the leaders of the Roman Jews
 ^17^ After three days Paul called together those who were the leaders of the Jews. When they had come together, he said to them, “I, brothers, though I had done nothing against the people or the customs of our fathers, still was delivered prisoner from Jerusalem into the hands of the Romans, 
 ^18^ who, when they had examined me, desired to set me free, because there was no cause of death in me. 
 ^19^ But when the Jews spoke against it, I was constrained to appeal to Caesar, not that I had anything about which to accuse my nation. 
@@ -1406,5 +1528,6 @@ Then Paul stretched out his hand, and made his defense.
 ^29^ When he had said these words, the Jews departed, having a great dispute among themselves.^a^ 
 ^a^[**28:29** NU omits verse 29.]
 
+## Paul's two-year ministry in captivity in Rome
 ^30^ Paul stayed two whole years in his own rented house and received all who were coming to him, 
 ^31^ preaching God’s Kingdom and teaching the things concerning the Lord Jesus Christ with all boldness, without hindrance. 

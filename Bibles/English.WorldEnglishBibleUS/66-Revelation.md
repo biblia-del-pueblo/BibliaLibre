@@ -1,21 +1,25 @@
 # 1 
+## The title indicating the origin, purpose and meaning of this letter
 ^1^ This is the Revelation of Jesus Christ,^a^ which God gave him to show to his servants the things which must happen soon, which he sent and made known by his angel^b^ to his servant, John, 
 ^2^ who testified to God’s word and of the testimony of Jesus Christ, about everything that he saw. 
 ^a^[**1:1** “Christ” means “Anointed One”.] ^b^[**1:1** or, messenger (here and wherever angel is mentioned)]
 
-^3^ Blessed is he who reads and those who hear the words of the prophecy, and keep the things that are written in it, for the time is near. 
+^3^ Blessed is he who reads and those who hear the words of the prophecy, and keep the things that are written in it, for the time is near.
 
+## Blessings to the seven parishes of the Roman province of Asia
 ^4^ John, to the seven assemblies that are in Asia: Grace to you and peace from God, who is and who was and who is to come; and from the seven Spirits who are before his throne; 
 ^5^ and from Jesus Christ, the faithful witness, the firstborn of the dead, and the ruler of the kings of the earth. To him who loves us, and washed us from our sins by his blood— 
 ^6^ and he made us to be a Kingdom, priests^a^ to his God and Father—to him be the glory and the dominion forever and ever. Amen. 
 ^a^[**1:6** Exodus 19:6; Isaiah 61:6 ]
 
+## Summary: Announcement of the coming of Jesus to judgment
 ^7^ Behold,^a^ he is coming with the clouds, and every eye will see him, including those who pierced him. All the tribes of the earth will mourn over him. Even so, Amen. 
 ^a^[**1:7** “Behold”, from “ἰδοὺ”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.]
 
 ^8^ [“I am the Alpha and the Omega,]{.wj}^a^ [”]{.wj} says the Lord God,^b^ [“who is and who was and who is to come, the Almighty.”]{.wj} 
 ^a^[**1:8** TR adds “the Beginning and the End”] ^b^[**1:8** TR omits “God”]
 
+## The first sight (on Patmos) of the seven stars and the seven candlesticks: How the Lord is prepared to come to your Christianity; Call John to write the visions
 ^9^ I John, your brother and partner with you in the oppression, Kingdom, and perseverance in Christ Jesus, was on the isle that is called Patmos because of God’s Word and the testimony of Jesus Christ. 
 ^10^ I was in the Spirit on the Lord’s day, and I heard behind me a loud voice, like a trumpet 
 ^11^ saying,^a^ [“What you see, write in a book and send to the seven assemblies:]{.wj}^b^ [to Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and to Laodicea.”]{.wj} 
@@ -36,6 +40,7 @@ He laid his right hand on me, saying, [“Don’t be afraid. I am the first and 
 ^a^[**1:18** or, Hell] ^b^[**1:20** or, messengers (here and wherever angels are mentioned)] 
 
 # 2 
+## Letter to the church in Ephesus: "Do not leave the first love!"
 ^1^ [“To the angel of the assembly in Ephesus write:]{.wj} 
 
 [“He who holds the seven stars in his right hand, he who walks among the seven golden lamp stands says these things:]{.wj} 
@@ -48,14 +53,16 @@ He laid his right hand on me, saying, [“Don’t be afraid. I am the first and 
 ^7^ [He who has an ear, let him hear what the Spirit says to the assemblies. To him who overcomes I will give to eat from the tree of life, which is in the Paradise of my God.]{.wj} 
 ^a^[**2:3** TR adds “have labored and”]
 
+## Letter to the community of Izmir: “Be faithful until death!”
 ^8^ [“To the angel of the assembly in Smyrna write:]{.wj} 
 
 [“The first and the last, who was dead, and has come to life says these things:]{.wj} 
 
 ^9^ [“I know your works, oppression, and your poverty (but you are rich), and the blasphemy of those who say they are Jews, and they are not, but are a synagogue of Satan.]{.wj} 
 ^10^ [Don’t be afraid of the things which you are about to suffer. Behold, the devil is about to throw some of you into prison, that you may be tested; and you will have oppression for ten days. Be faithful to death, and I will give you the crown of life.]{.wj} 
-^11^ [He who has an ear, let him hear what the Spirit says to the assemblies. He who overcomes won’t be harmed by the second death.]{.wj} 
+^11^ [He who has an ear, let him hear what the Spirit says to the assemblies. He who overcomes won’t be harmed by the second death.]{.wj}
 
+## Letter to the parish of Pergamon: "Do not follow the vain world!"
 ^12^ [“To the angel of the assembly in Pergamum write:]{.wj} 
 
 [“He who has the sharp two-edged sword says these things:]{.wj} 
@@ -67,6 +74,7 @@ He laid his right hand on me, saying, [“Don’t be afraid. I am the first and 
 ^17^ [He who has an ear, let him hear what the Spirit says to the assemblies. To him who overcomes, to him I will give of the hidden manna,]{.wj}^b^ [and I will give him a white stone, and on the stone a new name written which no one knows but he who receives it.]{.wj} 
 ^a^[**2:15** TR reads “which I hate” instead of “likewise”] ^b^[**2:17** Manna is supernatural food, named after the Hebrew for “What is it?”. See Exodus 11:7-9.]
 
+## Letter to the church of Thyatira: “Examine every spirit wisely!”
 ^18^ [“To the angel of the assembly in Thyatira write:]{.wj} 
 
 [“The Son of God, who has his eyes like a flame of fire, and his feet are like burnished brass, says these things:]{.wj} 
@@ -85,6 +93,7 @@ He laid his right hand on me, saying, [“Don’t be afraid. I am the first and 
 ^a^[**2:20** TR, NU read “that” instead of “your”] ^b^[**2:27** Psalm 2:9] 
 
 # 3 
+## Letter to the Sardis community: “Don't be dead like the others!”
 ^1^ [“And to the angel of the assembly in Sardis write:]{.wj} 
 
 [“He who has the seven Spirits of God and the seven stars says these things:]{.wj} 
@@ -97,6 +106,7 @@ He laid his right hand on me, saying, [“Don’t be afraid. I am the first and 
 ^6^ [He who has an ear, let him hear what the Spirit says to the assemblies.]{.wj} 
 ^a^[**3:2** NU & TR read “which were about to die” instead of “which you were about to throw away”.]
 
+## Letter to the Church of Philadelphia: “Hold on to your crown!”
 ^7^ [“To the angel of the assembly in Philadelphia write:]{.wj} 
 
 [“He who is holy, he who is true, he who has the key of David, he who opens and no one can shut, and who shuts and no one opens, says these things:]{.wj} 
@@ -106,8 +116,9 @@ He laid his right hand on me, saying, [“Don’t be afraid. I am the first and 
 ^10^ [Because you kept my command to endure, I also will keep you from the hour of testing which is to come on the whole world, to test those who dwell on the earth.]{.wj} 
 ^11^ [I am coming quickly! Hold firmly that which you have, so that no one takes your crown.]{.wj} 
 ^12^ [He who overcomes, I will make him a pillar in the temple of my God, and he will go out from there no more. I will write on him the name of my God and the name of the city of my God, the new Jerusalem, which comes down out of heaven from my God, and my own new name.]{.wj} 
-^13^ [He who has an ear, let him hear what the Spirit says to the assemblies.]{.wj} 
+^13^ [He who has an ear, let him hear what the Spirit says to the assemblies.]{.wj}
 
+## Letter to the Laodicean congregation: "Do not be lukewarm and slow to find yourself!"
 ^14^ [“To the angel of the assembly in Laodicea write:]{.wj} 
 
 [“The Amen, the Faithful and True Witness, the Beginning]{.wj}^a^ [of God’s creation, says these things:]{.wj} 
@@ -123,6 +134,7 @@ He laid his right hand on me, saying, [“Don’t be afraid. I am the first and 
 ^22^ [He who has an ear, let him hear what the Spirit says to the assemblies.”]{.wj} 
 
 # 4 
+## God the Father and the heavenly council in the throne room of God
 ^1^ After these things I looked and saw a door opened in heaven; and the first voice that I heard, like a trumpet speaking with me, was one saying, “Come up here, and I will show you the things which must happen after this.” 
 
 ^2^ Immediately I was in the Spirit. Behold, there was a throne set in heaven, and one sitting on the throne 
@@ -140,6 +152,7 @@ He laid his right hand on me, saying, [“Don’t be afraid. I am the first and 
 ^a^[**4:11** TR omits “and God, the Holy One,”] 
 
 # 5 
+## The book of destiny with the seven seals and the Lamb of God on the throne
 ^1^ I saw, in the right hand of him who sat on the throne, a book written inside and outside, sealed shut with seven seals. 
 ^2^ I saw a mighty angel proclaiming with a loud voice, “Who is worthy to open the book, and to break its seals?” 
 ^3^ No one in heaven above, or on the earth, or under the earth, was able to open the book or to look in it. 
@@ -150,8 +163,9 @@ He laid his right hand on me, saying, [“Don’t be afraid. I am the first and 
 ^7^ Then he came, and he took it out of the right hand of him who sat on the throne. 
 ^8^ Now when he had taken the book, the four living creatures and the twenty-four elders fell down before the Lamb, each one having a harp, and golden bowls full of incense, which are the prayers of the saints. 
 ^9^ They sang a new song, saying, “You are worthy to take the book and to open its seals, for you were killed, and bought us for God with your blood out of every tribe, language, people, and nation, 
-^10^ and made us kings and priests to our God; and we will reign on the earth.” 
+^10^ and made us kings and priests to our God; and we will reign on the earth.”
 
+## The hymn of praise of the angels and of all creation
 ^11^ I looked, and I heard something like a voice of many angels around the throne, the living creatures, and the elders. The number of them was ten thousands of ten thousands, and thousands of thousands, 
 ^12^ saying with a loud voice, “Worthy is the Lamb who has been killed to receive the power, wealth, wisdom, strength, honor, glory, and blessing!” 
 
@@ -162,6 +176,7 @@ He laid his right hand on me, saying, [“Don’t be afraid. I am the first and 
 ^a^[**5:14** TR adds “twenty-four”] ^b^[**5:14** TR adds “the one living forever and ever”] 
 
 # 6 
+## The opening of the first six seals by the Lamb; the four horsemen
 ^1^ I saw that the Lamb opened one of the seven seals, and I heard one of the four living creatures saying, as with a voice of thunder, “Come and see!” 
 ^2^ Then a white horse appeared, and he who sat on it had a bow. A crown was given to him, and he came out conquering, and to conquer. 
 
@@ -176,11 +191,13 @@ He laid his right hand on me, saying, [“Don’t be afraid. I am the first and 
 ^8^ And behold, a pale horse, and the name of he who sat on it was Death. Hades^a^ followed with him. Authority over one fourth of the earth, to kill with the sword, with famine, with death, and by the wild animals of the earth was given to him. 
 ^a^[**6:8** or, Hell]
 
+## The Martyrs
 ^9^ When he opened the fifth seal, I saw underneath the altar the souls of those who had been killed for the Word of God, and for the testimony of the Lamb which they had. 
 ^10^ They cried with a loud voice, saying, “How long, Master, the holy and true, until you judge and avenge our blood on those who dwell on the earth?” 
 ^11^ A long white robe was given to each of them. They were told that they should rest yet for a while, until their fellow servants and their brothers,^a^ who would also be killed even as they were, should complete their course. 
 ^a^[**6:11** The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.”]
 
+## Terrible dishes in the image of natural phenomena
 ^12^ I saw when he opened the sixth seal, and there was a great earthquake. The sun became black as sackcloth made of hair, and the whole moon became as blood. 
 ^13^ The stars of the sky fell to the earth, like a fig tree dropping its unripe figs when it is shaken by a great wind. 
 ^14^ The sky was removed like a scroll when it is rolled up. Every mountain and island was moved out of its place. 
@@ -189,6 +206,7 @@ He laid his right hand on me, saying, [“Don’t be afraid. I am the first and 
 ^17^ for the great day of his wrath has come, and who is able to stand?” 
 
 # 7 
+## The sealing of a selection (of 144,000 of the twelve tribes of Israel)
 ^1^ After this, I saw four angels standing at the four corners of the earth, holding the four winds of the earth, so that no wind would blow on the earth, or on the sea, or on any tree. 
 ^2^ I saw another angel ascend from the sunrise, having the seal of the living God. He cried with a loud voice to the four angels to whom it was given to harm the earth and the sea, 
 ^3^ saying, “Don’t harm the earth, the sea, or the trees, until we have sealed the bondservants of our God on their foreheads!” 
@@ -196,8 +214,9 @@ He laid his right hand on me, saying, [“Don’t be afraid. I am the first and 
 ^5^ of the tribe of Judah twelve thousand were sealed, of the tribe of Reuben twelve thousand, of the tribe of Gad twelve thousand, 
 ^6^ of the tribe of Asher twelve thousand, of the tribe of Naphtali twelve thousand, of the tribe of Manasseh twelve thousand, 
 ^7^ of the tribe of Simeon twelve thousand, of the tribe of Levi twelve thousand, of the tribe of Issachar twelve thousand, 
-^8^ of the tribe of Zebulun twelve thousand, of the tribe of Joseph twelve thousand, and of the tribe of Benjamin twelve thousand were sealed. 
+^8^ of the tribe of Zebulun twelve thousand, of the tribe of Joseph twelve thousand, and of the tribe of Benjamin twelve thousand were sealed.
 
+## Homage to the countless, tried and tested believing souls of all peoples before the throne of God, who have come out of the great tribulation
 ^9^ After these things I looked, and behold, a great multitude which no man could count, out of every nation and of all tribes, peoples, and languages, standing before the throne and before the Lamb, dressed in white robes, with palm branches in their hands. 
 ^10^ They cried with a loud voice, saying, “Salvation be to our God, who sits on the throne, and to the Lamb!” 
 
@@ -215,6 +234,7 @@ He said to me, “These are those who came out of the great suffering.^a^ They w
 ^a^[**7:14** or, oppression] 
 
 # 8 
+## The seventh seal solution and silence in heaven (featuring the trumpet judgments)
 ^1^ When he opened the seventh seal, there was silence in heaven for about half an hour. 
 ^2^ I saw the seven angels who stand before God, and seven trumpets were given to them. 
 
@@ -222,8 +242,9 @@ He said to me, “These are those who came out of the great suffering.^a^ They w
 ^4^ The smoke of the incense, with the prayers of the saints, went up before God out of the angel’s hand. 
 ^5^ The angel took the censer, and he filled it with the fire of the altar, then threw it on the earth. Thunders, sounds, lightnings, and an earthquake followed. 
 
-^6^ The seven angels who had the seven trumpets prepared themselves to sound. 
+^6^ The seven angels who had the seven trumpets prepared themselves to sound.
 
+## The first four trumpets (i.e. the plagues that come from above)
 ^7^ The first sounded, and there followed hail and fire, mixed with blood, and they were thrown to the earth. One third of the earth was burned up,^a^ and one third of the trees were burned up, and all green grass was burned up. 
 ^a^[**8:7** TR omits “One third of the earth was burned up”]
 
@@ -233,11 +254,14 @@ He said to me, “These are those who came out of the great suffering.^a^ They w
 ^10^ The third angel sounded, and a great star fell from the sky, burning like a torch, and it fell on one third of the rivers, and on the springs of water. 
 ^11^ The name of the star is “Wormwood.” One third of the waters became wormwood. Many people died from the waters, because they were made bitter. 
 
-^12^ The fourth angel sounded, and one third of the sun was struck, and one third of the moon, and one third of the stars, so that one third of them would be darkened; and the day wouldn’t shine for one third of it, and the night in the same way. 
+^12^ The fourth angel sounded, and one third of the sun was struck, and one third of the moon, and one third of the stars, so that one third of them would be darkened; and the day wouldn’t shine for one third of it, and the night in the same way.
+
+## The first call of the eagle and the fifth and sixth trumpets (the two plagues that come from below, that is, from hell)
 ^13^ I saw, and I heard an eagle,^a^ flying in mid heaven, saying with a loud voice, “Woe! Woe! Woe to those who dwell on the earth, because of the other blasts of the trumpets of the three angels, who are yet to sound!”
 ^a^[**8:13** TR reads “angel” instead of “eagle” ] 
 
 # 9 
+## The fifth trumpet or the first woe
 ^1^ The fifth angel sounded, and I saw a star from the sky which had fallen to the earth. The key to the pit of the abyss was given to him. 
 ^2^ He opened the pit of the abyss, and smoke went up out of the pit, like the smoke from a^a^ burning furnace. The sun and the air were darkened because of the smoke from the pit. 
 ^3^ Then out of the smoke came locusts on the earth, and power was given to them, as the scorpions of the earth have power. 
@@ -253,8 +277,9 @@ He said to me, “These are those who came out of the great suffering.^a^ They w
 ^11^ They have over them as king the angel of the abyss. His name in Hebrew is “Abaddon”,^a^ but in Greek, he has the name “Apollyon”.^b^ 
 ^a^[**9:11** “Abaddon” is a Hebrew word that means “ruin”, “destruction”, or “the place of destruction”] ^b^[**9:11** “Apollyon” means “Destroyer”.]
 
-^12^ The first woe is past. Behold, there are still two woes coming after this. 
+^12^ The first woe is past. Behold, there are still two woes coming after this.
 
+## The sixth trumpet or the second woe
 ^13^ The sixth angel sounded. I heard a voice from the horns of the golden altar which is before God, 
 ^14^ saying to the sixth angel who had the trumpet, “Free the four angels who are bound at the great river Euphrates!” 
 
@@ -270,6 +295,7 @@ He said to me, “These are those who came out of the great suffering.^a^ They w
 ^a^[**9:21** The word for “sorceries” (pharmakeia) also implies the use of potions, poisons, and drugs] 
 
 # 10 
+## An angel holds an open book and swears
 ^1^ I saw a mighty angel coming down out of the sky, clothed with a cloud. A rainbow was on his head. His face was like the sun, and his feet like pillars of fire. 
 ^2^ He had in his hand a little open book. He set his right foot on the sea, and his left on the land. 
 ^3^ He cried with a loud voice, as a lion roars. When he cried, the seven thunders uttered their voices. 
@@ -277,8 +303,9 @@ He said to me, “These are those who came out of the great suffering.^a^ They w
 
 ^5^ The angel whom I saw standing on the sea and on the land lifted up his right hand to the sky 
 ^6^ and swore by him who lives forever and ever, who created heaven and the things that are in it, the earth and the things that are in it, and the sea and the things that are in it, that there will no longer be delay, 
-^7^ but in the days of the voice of the seventh angel, when he is about to sound, then the mystery of God is finished, as he declared to his servants the prophets. 
+^7^ but in the days of the voice of the seventh angel, when he is about to sound, then the mystery of God is finished, as he declared to his servants the prophets.
 
+## Johannes consumes the little bittersweet book
 ^8^ The voice which I heard from heaven, again speaking with me, said, “Go, take the book which is open in the hand of the angel who stands on the sea and on the land.” 
 
 ^9^ I went to the angel, telling him to give me the little book. 
@@ -290,8 +317,11 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 ^a^[**10:11** TR reads “He” instead of “They”] 
 
 # 11 
+## The measure of the temple; the preservation of the faithful during the intense visit of the gentiles to the holy city
 ^1^ A reed like a rod was given to me. Someone said, “Rise and measure God’s temple, and the altar, and those who worship in it. 
-^2^ Leave out the court which is outside of the temple, and don’t measure it, for it has been given to the nations. They will tread the holy city under foot for forty-two months. 
+^2^ Leave out the court which is outside of the temple, and don’t measure it, for it has been given to the nations. They will tread the holy city under foot for forty-two months.
+
+## Effectiveness, death and ascension of the two witnesses of God
 ^3^ I will give power to my two witnesses, and they will prophesy one thousand two hundred sixty days, clothed in sackcloth.” 
 
 ^4^ These are the two olive trees and the two lamp stands, standing before the Lord of the earth. 
@@ -307,8 +337,9 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 ^12^ I heard a loud voice from heaven saying to them, “Come up here!” They went up into heaven in a cloud, and their enemies saw them. 
 ^13^ In that day there was a great earthquake, and a tenth of the city fell. Seven thousand people were killed in the earthquake, and the rest were terrified and gave glory to the God of heaven. 
 
-^14^ The second woe is past. Behold, the third woe comes quickly. 
+^14^ The second woe is past. Behold, the third woe comes quickly.
 
+## The seventh trumpet; Joy of victory in heaven; the appearance of the ark
 ^15^ The seventh angel sounded, and great voices in heaven followed, saying, “The kingdom of the world has become the Kingdom of our Lord and of his Christ. He will reign forever and ever!” 
 
 ^16^ The twenty-four elders, who sit on their thrones before God’s throne, fell on their faces and worshiped God, 
@@ -319,22 +350,25 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 ^19^ God’s temple that is in heaven was opened, and the ark of the Lord’s covenant was seen in his temple. Lightnings, sounds, thunders, an earthquake, and great hail followed. 
 
 # 12 
+## The Sun Woman and the Dragon; Rescue of the woman and her newborn child
 ^1^ A great sign was seen in heaven: a woman clothed with the sun, and the moon under her feet, and on her head a crown of twelve stars. 
 ^2^ She was with child. She cried out in pain, laboring to give birth. 
 
 ^3^ Another sign was seen in heaven. Behold, a great red dragon, having seven heads and ten horns, and on his heads seven crowns. 
 ^4^ His tail drew one third of the stars of the sky, and threw them to the earth. The dragon stood before the woman who was about to give birth, so that when she gave birth he might devour her child. 
 ^5^ She gave birth to a son, a male child, who is to rule all the nations with a rod of iron. Her child was caught up to God and to his throne. 
-^6^ The woman fled into the wilderness, where she has a place prepared by God, that there they may nourish her one thousand two hundred sixty days. 
+^6^ The woman fled into the wilderness, where she has a place prepared by God, that there they may nourish her one thousand two hundred sixty days.
 
+## Michael's victory over the dragon in the sky; Dragon's Fall; heavenly hymn of praise; the reign of God and his anointed is dawning
 ^7^ There was war in the sky. Michael and his angels made war on the dragon. The dragon and his angels made war. 
 ^8^ They didn’t prevail. No place was found for them any more in heaven. 
 ^9^ The great dragon was thrown down, the old serpent, he who is called the devil and Satan, the deceiver of the whole world. He was thrown down to the earth, and his angels were thrown down with him. 
 
 ^10^ I heard a loud voice in heaven, saying, “Now the salvation, the power, and the Kingdom of our God, and the authority of his Christ has come; for the accuser of our brothers has been thrown down, who accuses them before our God day and night. 
 ^11^ They overcame him because of the Lamb’s blood, and because of the word of their testimony. They didn’t love their life, even to death. 
-^12^ Therefore rejoice, heavens, and you who dwell in them. Woe to the earth and to the sea, because the devil has gone down to you, having great wrath, knowing that he has but a short time.” 
+^12^ Therefore rejoice, heavens, and you who dwell in them. Woe to the earth and to the sea, because the devil has gone down to you, having great wrath, knowing that he has but a short time.”
 
+## Unsuccessful pursuit of women by the dragon
 ^13^ When the dragon saw that he was thrown down to the earth, he persecuted the woman who gave birth to the male child. 
 ^14^ Two wings of the great eagle were given to the woman, that she might fly into the wilderness to her place, so that she might be nourished for a time, times, and half a time, from the face of the serpent. 
 ^15^ The serpent spewed water out of his mouth after the woman like a river, that he might cause her to be carried away by the stream. 
@@ -343,6 +377,7 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 ^a^[**12:17** or, seed] 
 
 # 13 
+## The first beast of the sea, with ten horns and seven heads; admonition to persevere
 ^1^ Then I stood on the sand of the sea. I saw a beast coming up out of the sea, having ten horns and seven heads. On his horns were ten crowns, and on his heads, blasphemous names. 
 ^2^ The beast which I saw was like a leopard, and his feet were like those of a bear, and his mouth like the mouth of a lion. The dragon gave him his power, his throne, and great authority. 
 ^3^ One of his heads looked like it had been wounded fatally. His fatal wound was healed, and the whole earth marveled at the beast. 
@@ -367,6 +402,7 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 ^a^[**13:14** NU omits “my own”] 
 
 # 14 
+## The Lamb and the perfect church of the 144,000 on Mount Zion
 ^1^ I saw, and behold, the Lamb standing on Mount Zion, and with him a number, one hundred forty-four thousand, having his name and the name of his Father written on their foreheads. 
 ^2^ I heard a sound from heaven like the sound of many waters and like the sound of a great thunder. The sound which I heard was like that of harpists playing on their harps. 
 ^3^ They sing a new song before the throne and before the four living creatures and the elders. No one could learn the song except the one hundred forty-four thousand, those who had been redeemed out of the earth. 
@@ -374,6 +410,7 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 ^5^ In their mouth was found no lie, for they are blameless.^a^ 
 ^a^[**14:5** TR adds “before the throne of God”]
 
+## Three calls of angels proclaim an eternal message of salvation for all peoples, as well as the fall of Babylon and announce the judgment of the worshipers of the beast
 ^6^ I saw an angel flying in mid heaven, having an eternal Good News to proclaim to those who dwell on the earth—to every nation, tribe, language, and people. 
 ^7^ He said with a loud voice, “Fear the Lord, and give him glory, for the hour of his judgment has come. Worship him who made the heaven, the earth, the sea, and the springs of waters!” 
 
@@ -383,12 +420,14 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 ^10^ he also will drink of the wine of the wrath of God, which is prepared unmixed in the cup of his anger. He will be tormented with fire and sulfur in the presence of the holy angels and in the presence of the Lamb. 
 ^11^ The smoke of their torment goes up forever and ever. They have no rest day and night, those who worship the beast and his image, and whoever receives the mark of his name. 
 
-^12^ Here is the perseverance of the saints, those who keep the commandments of God and the faith of Jesus.” 
+^12^ Here is the perseverance of the saints, those who keep the commandments of God and the faith of Jesus.”
 
+## A heavenly voice proclaims the blessedness of believers (martyrs) who are faithful unto death
 ^13^ I heard a voice from heaven saying, “Write, ‘Blessed are the dead who die in the Lord from now on.’” 
 
-“Yes,” says the Spirit, “that they may rest from their labors, for their works follow with them.” 
+“Yes,” says the Spirit, “that they may rest from their labors, for their works follow with them.”
 
+## The judgment of the Son of Man on earth under the image of a grain harvest and a vintage
 ^14^ I looked, and saw a white cloud, and on the cloud one sitting like a son of man,^a^ having on his head a golden crown, and in his hand a sharp sickle. 
 ^15^ Another angel came out of the temple, crying with a loud voice to him who sat on the cloud, “Send your sickle and reap, for the hour to reap has come; for the harvest of the earth is ripe!” 
 ^16^ He who sat on the cloud thrust his sickle on the earth, and the earth was reaped. 
@@ -401,6 +440,7 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 ^a^[**14:20** 1600 stadia = 296 kilometers or 184 miles] 
 
 # 15 
+## The seven angels with the seven last plagues; the praise of the victors in the sea of glass
 ^1^ I saw another great and marvelous sign in the sky: seven angels having the seven last plagues, for in them God’s wrath is finished. 
 
 ^2^ I saw something like a sea of glass mixed with fire, and those who overcame the beast, his image,^a^ and the number of his name, standing on the sea of glass, having harps of God. 
@@ -408,6 +448,7 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 ^4^ Who wouldn’t fear you, Lord, and glorify your name? For you only are holy. For all the nations will come and worship before you. For your righteous acts have been revealed.” 
 ^a^[**15:2** TR adds “his mark,”]
 
+## The appearance and equipping of the seven angels from the cup of wrath
 ^5^ After these things I looked, and the temple of the tabernacle of the testimony in heaven was opened. 
 ^6^ The seven angels who had the seven plagues came out, clothed with pure, bright linen, and wearing golden sashes around their chests. 
 
@@ -415,6 +456,7 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 ^8^ The temple was filled with smoke from the glory of God and from his power. No one was able to enter into the temple until the seven plagues of the seven angels would be finished. 
 
 # 16 
+## The pouring out of the seven bowls of wrath
 ^1^ I heard a loud voice out of the temple, saying to the seven angels, “Go and pour out the seven bowls of the wrath of God on the earth!” 
 
 ^2^ The first went, and poured out his bowl into the earth, and it became a harmful and painful sore on the people who had the mark of the beast, and who worshiped his image. 
@@ -449,13 +491,15 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 ^a^[**16:21** A talent is about 30 kilograms or 66 pounds.] 
 
 # 17 
+## Description of the splendid but abominable woman enthroned on the beast
 ^1^ One of the seven angels who had the seven bowls came and spoke with me, saying, “Come here. I will show you the judgment of the great prostitute who sits on many waters, 
 ^2^ with whom the kings of the earth committed sexual immorality. Those who dwell in the earth were made drunken with the wine of her sexual immorality.” 
 ^3^ He carried me away in the Spirit into a wilderness. I saw a woman sitting on a scarlet-colored beast, full of blasphemous names, having seven heads and ten horns. 
 ^4^ The woman was dressed in purple and scarlet, and decked with gold and precious stones and pearls, having in her hand a golden cup full of abominations and the impurities of the sexual immorality of the earth. 
 ^5^ And on her forehead a name was written, “MYSTERY, BABYLON THE GREAT, THE MOTHER OF THE PROSTITUTES AND OF THE ABOMINATIONS OF THE EARTH.” 
-^6^ I saw the woman drunken with the blood of the saints and with the blood of the martyrs of Jesus. When I saw her, I wondered with great amazement. 
+^6^ I saw the woman drunken with the blood of the saints and with the blood of the martyrs of Jesus. When I saw her, I wondered with great amazement.
 
+## Description of the animal with seven heads and ten horns, as well as its past and future destiny
 ^7^ The angel said to me, “Why do you wonder? I will tell you the mystery of the woman and of the beast that carries her, which has the seven heads and the ten horns. 
 ^8^ The beast that you saw was, and is not; and is about to come up out of the abyss and to go into destruction. Those who dwell on the earth and whose names have not been written in the book of life from the foundation of the world will marvel when they see that the beast was, and is not, and shall be present.^a^ 
 ^a^[**17:8** TR reads “yet is” instead of “shall be present”]
@@ -465,23 +509,28 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 ^11^ The beast that was, and is not, is himself also an eighth, and is of the seven; and he goes to destruction. 
 ^12^ The ten horns that you saw are ten kings who have received no kingdom as yet, but they receive authority as kings with the beast for one hour. 
 ^13^ These have one mind, and they give their power and authority to the beast. 
-^14^ These will war against the Lamb, and the Lamb will overcome them, for he is Lord of lords and King of kings; and those who are with him are called, chosen, and faithful.” 
+^14^ These will war against the Lamb, and the Lamb will overcome them, for he is Lord of lords and King of kings; and those who are with him are called, chosen, and faithful.”
+
+## Image Interpretation
 ^15^ He said to me, “The waters which you saw, where the prostitute sits, are peoples, multitudes, nations, and languages. 
 ^16^ The ten horns which you saw, they and the beast will hate the prostitute, will make her desolate, will strip her naked, will eat her flesh, and will burn her utterly with fire. 
 ^17^ For God has put in their hearts to do what he has in mind, to be of one mind, and to give their kingdom to the beast, until the words of God should be accomplished. 
 ^18^ The woman whom you saw is the great city which reigns over the kings of the earth.” 
 
 # 18 
+## Announcement of the judgment that falls on Babylon; The first call of the angel
 ^1^ After these things, I saw another angel coming down out of the sky, having great authority. The earth was illuminated with his glory. 
 ^2^ He cried with a mighty voice, saying, “Fallen, fallen is Babylon the great, and she has become a habitation of demons, a prison of every unclean spirit, and a prison of every unclean and hated bird! 
-^3^ For all the nations have drunk of the wine of the wrath of her sexual immorality, the kings of the earth committed sexual immorality with her, and the merchants of the earth grew rich from the abundance of her luxury.” 
+^3^ For all the nations have drunk of the wine of the wrath of her sexual immorality, the kings of the earth committed sexual immorality with her, and the merchants of the earth grew rich from the abundance of her luxury.”
 
+## A second voice
 ^4^ I heard another voice from heaven, saying, “Come out of her, my people, that you have no participation in her sins, and that you don’t receive of her plagues, 
 ^5^ for her sins have reached to the sky, and God has remembered her iniquities. 
 ^6^ Return to her just as she returned, and repay her double as she did, and according to her works. In the cup which she mixed, mix to her double. 
 ^7^ However much she glorified herself and grew wanton, so much give her of torment and mourning. For she says in her heart, ‘I sit a queen, and am no widow, and will in no way see mourning.’ 
-^8^ Therefore in one day her plagues will come: death, mourning, and famine; and she will be utterly burned with fire, for the Lord God who has judged her is strong. 
+^8^ Therefore in one day her plagues will come: death, mourning, and famine; and she will be utterly burned with fire, for the Lord God who has judged her is strong.
 
+## The lamentations of the kings of the earth, of the merchants and sailors for the fall of the city
 ^9^ The kings of the earth who committed sexual immorality and lived wantonly with her will weep and wail over her, when they look at the smoke of her burning, 
 ^10^ standing far away for the fear of her torment, saying, ‘Woe, woe, the great city, Babylon, the strong city! For your judgment has come in one hour.’ 
 ^11^ The merchants of the earth weep and mourn over her, for no one buys their merchandise any more: 
@@ -492,16 +541,19 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 ^16^ saying, ‘Woe, woe, the great city, she who was dressed in fine linen, purple, and scarlet, and decked with gold and precious stones and pearls! 
 ^17^ For in an hour such great riches are made desolate.’ Every ship master, and everyone who sails anywhere, and mariners, and as many as gain their living by sea, stood far away, 
 ^18^ and cried out as they looked at the smoke of her burning, saying, ‘What is like the great city?’ 
-^19^ They cast dust on their heads, and cried, weeping and mourning, saying, ‘Woe, woe, the great city, in which all who had their ships in the sea were made rich by reason of her great wealth!’ For she is made desolate in one hour. 
+^19^ They cast dust on their heads, and cried, weeping and mourning, saying, ‘Woe, woe, the great city, in which all who had their ships in the sea were made rich by reason of her great wealth!’ For she is made desolate in one hour.
 
-^20^ “Rejoice over her, O heaven, you saints, apostles, and prophets, for God has judged your judgment on her.” 
+## Joyful acclamation, the heavenly voice, to the heavenly inhabitants
+^20^ “Rejoice over her, O heaven, you saints, apostles, and prophets, for God has judged your judgment on her.”
 
+## The symbolic sign of annihilation; the desolation that prevails in the destroyed city
 ^21^ A mighty angel took up a stone like a great millstone and cast it into the sea, saying, “Thus with violence will Babylon, the great city, be thrown down, and will be found no more at all. 
 ^22^ The voice of harpists, minstrels, flute players, and trumpeters will be heard no more at all in you. No craftsman of whatever craft will be found any more at all in you. The sound of a mill will be heard no more at all in you. 
 ^23^ The light of a lamp will shine no more at all in you. The voice of the bridegroom and of the bride will be heard no more at all in you, for your merchants were the princes of the earth; for with your sorcery all the nations were deceived. 
 ^24^ In her was found the blood of prophets and of saints, and of all who have been slain on the earth.” 
 
 # 19 
+## The jubilation in heaven over the fall of Babylon; the coming wedding of the Lamb
 ^1^ After these things I heard something like a loud voice of a great multitude in heaven, saying, “Hallelujah! Salvation, power, and glory belong to our God; 
 ^2^ for his judgments are true and righteous. For he has judged the great prostitute who corrupted the earth with her sexual immorality, and he has avenged the blood of his servants at her hand.” 
 
@@ -516,8 +568,9 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 
 ^9^ He said to me, “Write, ‘Blessed are those who are invited to the wedding supper of the Lamb.’” He said to me, “These are true words of God.” 
 
-^10^ I fell down before his feet to worship him. He said to me, “Look! Don’t do it! I am a fellow bondservant with you and with your brothers who hold the testimony of Jesus. Worship God, for the testimony of Jesus is the Spirit of Prophecy.” 
+^10^ I fell down before his feet to worship him. He said to me, “Look! Don’t do it! I am a fellow bondservant with you and with your brothers who hold the testimony of Jesus. Worship God, for the testimony of Jesus is the Spirit of Prophecy.”
 
+## The battle of the Messiah; the destruction of the beast and his followers, i.e. all hostile armies or peoples
 ^11^ I saw the heaven opened, and behold, a white horse, and he who sat on it is called Faithful and True. In righteousness he judges and makes war. 
 ^12^ His eyes are a flame of fire, and on his head are many crowns. He has names written and a name written which no one knows but he himself. 
 ^13^ He is clothed in a garment sprinkled with blood. His name is called “The Word of God.” 
@@ -534,6 +587,7 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 ^a^[**19:17** TR reads “supper of the great God” instead of “great supper of God”] 
 
 # 20 
+## Chaining of Satan; the first resurrection and the millennial reign of peace
 ^1^ I saw an angel coming down out of heaven, having the key of the abyss and a great chain in his hand. 
 ^2^ He seized the dragon, the old serpent, who is the devil and Satan, who deceives the whole inhabited earth,^a^ and bound him for a thousand years, 
 ^3^ and cast him into the abyss, and shut it and sealed it over him, that he should deceive the nations no more until the thousand years were finished. After this, he must be freed for a short time. 
@@ -541,13 +595,15 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 
 ^4^ I saw thrones, and they sat on them, and judgment was given to them. I saw the souls of those who had been beheaded for the testimony of Jesus and for the word of God, and such as didn’t worship the beast nor his image, and didn’t receive the mark on their forehead and on their hand. They lived and reigned with Christ for a thousand years. 
 ^5^ The rest of the dead didn’t live until the thousand years were finished. This is the first resurrection. 
-^6^ Blessed and holy is he who has part in the first resurrection. Over these, the second death has no power, but they will be priests of God and of Christ, and will reign with him one thousand years. 
+^6^ Blessed and holy is he who has part in the first resurrection. Over these, the second death has no power, but they will be priests of God and of Christ, and will reign with him one thousand years.
 
+## Gog and Magog; final appearance and eternal annihilation of Satan and his hosts
 ^7^ And after the thousand years, Satan will be released from his prison 
 ^8^ and he will come out to deceive the nations which are in the four corners of the earth, Gog and Magog, to gather them together to the war, whose number is as the sand of the sea. 
 ^9^ They went up over the width of the earth and surrounded the camp of the saints and the beloved city. Fire came down out of heaven from God and devoured them. 
-^10^ The devil who deceived them was thrown into the lake of fire and sulfur, where the beast and the false prophet are also. They will be tormented day and night forever and ever. 
+^10^ The devil who deceived them was thrown into the lake of fire and sulfur, where the beast and the false prophet are also. They will be tormented day and night forever and ever.
 
+## The second (general) resurrection and the final judgment
 ^11^ I saw a great white throne and him who sat on it, from whose face the earth and the heaven fled away. There was found no place for them. 
 ^12^ I saw the dead, the great and the small, standing before the throne, and they opened books. Another book was opened, which is the book of life. The dead were judged out of the things which were written in the books, according to their works. 
 ^13^ The sea gave up the dead who were in it. Death and Hades^a^ gave up the dead who were in them. They were judged, each one according to his works. 
@@ -556,7 +612,9 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 ^a^[**20:13** or, Hell ] ^b^[**20:14** or, Hell] 
 
 # 21 
-^1^ I saw a new heaven and a new earth, for the first heaven and the first earth have passed away, and the sea is no more. 
+^1^ I saw a new heaven and a new earth, for the first heaven and the first earth have passed away, and the sea is no more.
+
+## The new Jerusalem as the dwelling place of God with the people and the promise and judgment of God
 ^2^ I saw the holy city, New Jerusalem, coming down out of heaven from God, prepared like a bride adorned for her husband. 
 ^3^ I heard a loud voice out of heaven saying, “Behold, God’s dwelling is with people; and he will dwell with them, and they will be his people, and God himself will be with them as their God. 
 ^4^ He will wipe away every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain any more. The first things have passed away.” 
@@ -567,6 +625,7 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 ^8^ [But for the cowardly, unbelieving, sinners,]{.wj}^a^ [abominable, murderers, sexually immoral, sorcerers,]{.wj}^b^ [idolaters, and all liars, their part is in the lake that burns with fire and sulfur, which is the second death.”]{.wj} 
 ^a^[**21:8** TR and NU omit “sinners”] ^b^[**21:8** The word for “sorcerers” here also includes users of potions and drugs.]
 
+## The description of the new Jerusalem
 ^9^ One of the seven angels who had the seven bowls which were loaded with the seven last plagues came, and he spoke with me, saying, “Come here. I will show you the bride, the Lamb’s wife.” 
 ^10^ He carried me away in the Spirit to a great and high mountain, and showed me the holy city, Jerusalem, coming down out of heaven from God, 
 ^11^ having the glory of God. Her light was like a most precious stone, like a jasper stone, clear as crystal; 
@@ -591,6 +650,7 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 ^27^ There will in no way enter into it anything profane, or one who causes an abomination or a lie, but only those who are written in the Lamb’s book of life. 
 
 # 22 
+## The stream of life, the trees of life, full communion with God and the eternal kingdom of light
 ^1^ He showed me a^a^ river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb, 
 ^2^ in the middle of its street. On this side of the river and on that was the tree of life, bearing twelve kinds of fruits, yielding its fruit every month. The leaves of the tree were for the healing of the nations. 
 ^3^ There will be no curse any more. The throne of God and of the Lamb will be in it, and his servants will serve him. 
@@ -598,19 +658,24 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 ^5^ There will be no night, and they need no lamp light or sun light; for the Lord God will illuminate them. They will reign forever and ever. 
 ^a^[**22:1** TR adds “pure”]
 
+## Promise of Christ and testimony of John; Worship is not due to the creature, but only to God
 ^6^ He said to me, “These words are faithful and true. The Lord God of the spirits of the prophets sent his angel to show to his bondservants the things which must happen soon.” 
 
 ^7^ [“Behold, I am coming soon! Blessed is he who keeps the words of the prophecy of this book.”]{.wj} 
 
 ^8^ Now I, John, am the one who heard and saw these things. When I heard and saw, I fell down to worship before the feet of the angel who had shown me these things. 
-^9^ He said to me, “You must not do that! I am a fellow bondservant with you and with your brothers, the prophets, and with those who keep the words of this book. Worship God.” 
+^9^ He said to me, “You must not do that! I am a fellow bondservant with you and with your brothers, the prophets, and with those who keep the words of this book. Worship God.”
+
+## Direction and admonition of the angel and speech of Jesus
 ^10^ He said to me, “Don’t seal up the words of the prophecy of this book, for the time is at hand. 
 ^11^ He who acts unjustly, let him act unjustly still. He who is filthy, let him be filthy still. He who is righteous, let him do righteousness still. He who is holy, let him be holy still.” 
 
 ^12^ [“Behold, I am coming soon! My reward is with me, to repay to each man according to his work.]{.wj} 
 ^13^ [I am the Alpha and the Omega, the First and the Last, the Beginning and the End.]{.wj} 
 ^14^ [Blessed are those who do his commandments,]{.wj}^a^ [that they may have the right to the tree of life, and may enter in by the gates into the city.]{.wj} 
-^15^ [Outside are the dogs, the sorcerers, the sexually immoral, the murderers, the idolaters, and everyone who loves and practices falsehood.]{.wj} 
+^15^ [Outside are the dogs, the sorcerers, the sexually immoral, the murderers, the idolaters, and everyone who loves and practices falsehood.]{.wj}
+
+## The final words of Jesus; Testimony of the prophetic spirit and of the church; John's ordination for his book; Insurance, longing and farewell
 ^16^ [I, Jesus, have sent my angel to testify these things to you for the assemblies. I am the root and the offspring of David, the Bright and Morning Star.”]{.wj} 
 ^a^[**22:14** NU reads “wash their robes” instead of “do his commandments”.]
 

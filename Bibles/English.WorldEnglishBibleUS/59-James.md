@@ -1,30 +1,36 @@
 # 1 
+## Greetings and Blessings
 ^1^ James, a servant of God and of the Lord Jesus Christ,^a^ to the twelve tribes which are in the Dispersion: Greetings. 
 ^a^[**1:1** “Christ” means “Anointed One”.]
 
+## Correct behavior in temptations; Correct layout reminder
 ^2^ Count it all joy, my brothers,^a^ when you fall into various temptations, 
 ^3^ knowing that the testing of your faith produces endurance. 
 ^4^ Let endurance have its perfect work, that you may be perfect and complete, lacking in nothing. 
 ^a^[**1:2** The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.”]
 
+## Reminder to persevere asking for wisdom
 ^5^ But if any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him. 
 ^6^ But let him ask in faith, without any doubting, for he who doubts is like a wave of the sea, driven by the wind and tossed. 
 ^7^ For that man shouldn’t think that he will receive anything from the Lord. 
-^8^ He is a double-minded man, unstable in all his ways. 
+^8^ He is a double-minded man, unstable in all his ways.
 
+## The right attitude towards poverty and wealth; blessing of parole
 ^9^ Let the brother in humble circumstances glory in his high position; 
 ^10^ and the rich, in that he is made humble, because like the flower in the grass, he will pass away. 
 ^11^ For the sun arises with the scorching wind and withers the grass; and the flower in it falls, and the beauty of its appearance perishes. So the rich man will also fade away in his pursuits. 
 
-^12^ Blessed is a person who endures temptation, for when he has been approved, he will receive the crown of life which the Lord promised to those who love him. 
+^12^ Blessed is a person who endures temptation, for when he has been approved, he will receive the crown of life which the Lord promised to those who love him.
 
+## Temptations to evil come from lust itself, not from God, the source of all good
 ^13^ Let no man say when he is tempted, “I am tempted by God,” for God can’t be tempted by evil, and he himself tempts no one. 
 ^14^ But each one is tempted when he is drawn away by his own lust and enticed. 
 ^15^ Then the lust, when it has conceived, bears sin. The sin, when it is full grown, produces death. 
 ^16^ Don’t be deceived, my beloved brothers. 
 ^17^ Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom can be no variation nor turning shadow. 
-^18^ Of his own will he gave birth to us by the word of truth, that we should be a kind of first fruits of his creatures. 
+^18^ Of his own will he gave birth to us by the word of truth, that we should be a kind of first fruits of his creatures.
 
+## Be not only a listener, but also a doer of the word
 ^19^ So, then, my beloved brothers, let every man be swift to hear, slow to speak, and slow to anger; 
 ^20^ for the anger of man doesn’t produce the righteousness of God. 
 ^21^ Therefore, putting away all filthiness and overflowing of wickedness, receive with humility the implanted word, which is able to save your souls.^a^ 
@@ -33,12 +39,14 @@
 ^22^ But be doers of the word, and not only hearers, deluding your own selves. 
 ^23^ For if anyone is a hearer of the word and not a doer, he is like a man looking at his natural face in a mirror; 
 ^24^ for he sees himself, and goes away, and immediately forgets what kind of man he was. 
-^25^ But he who looks into the perfect law of freedom and continues, not being a hearer who forgets but a doer of the work, this man will be blessed in what he does. 
+^25^ But he who looks into the perfect law of freedom and continues, not being a hearer who forgets but a doer of the work, this man will be blessed in what he does.
 
+## Some examples of how to do the right jobs
 ^26^ If anyone among you thinks himself to be religious while he doesn’t bridle his tongue, but deceives his heart, this man’s religion is worthless. 
 ^27^ Pure religion and undefiled before our God and Father is this: to visit the fatherless and widows in their affliction, and to keep oneself unstained by the world. 
 
 # 2 
+## Beware of the reputation of the person, especially the poor
 ^1^ My brothers, don’t hold the faith of our glorious Lord Jesus Christ with partiality. 
 ^2^ For if a man with a gold ring, in fine clothing, comes into your synagogue,^a^ and a poor man in filthy clothing also comes in, 
 ^3^ and you pay special attention to him who wears the fine clothing and say, “Sit here in a good place;” and you tell the poor man, “Stand there,” or “Sit by my footstool” 
@@ -48,6 +56,7 @@
 ^7^ Don’t they blaspheme the honorable name by which you are called? 
 ^a^[**2:2** or, meeting]
 
+## Compliance with the Mosaic law must be uniform, that is, without exception
 ^8^ However, if you fulfill the royal law according to the Scripture, “You shall love your neighbor as yourself,”^a^ you do well. 
 ^9^ But if you show partiality, you commit sin, being convicted by the law as transgressors. 
 ^10^ For whoever keeps the whole law, and yet stumbles in one point, he has become guilty of all. 
@@ -56,6 +65,7 @@
 ^13^ For judgment is without mercy to him who has shown no mercy. Mercy triumphs over judgment. 
 ^a^[**2:8** Leviticus 19:18] ^b^[**2:11** Exodus 20:14; Deuteronomy 5:18] ^c^[**2:11** Exodus 20:13; Deuteronomy 5:17 ]
 
+## Faith without works is dead and useless; true faith is shown in self-sacrifice and good deeds
 ^14^ What good is it, my brothers, if a man says he has faith, but has no works? Can faith save him? 
 ^15^ And if a brother or sister is naked and in lack of daily food, 
 ^16^ and one of you tells them, “Go in peace. Be warmed and filled;” yet you didn’t give them the things the body needs, what good is it? 
@@ -63,7 +73,9 @@
 ^18^ Yes, a man will say, “You have faith, and I have works.” Show me your faith without works, and I will show you my faith by my works. 
 
 ^19^ You believe that God is one. You do well. The demons also believe—and shudder. 
-^20^ But do you want to know, vain man, that faith apart from works is dead? 
+^20^ But do you want to know, vain man, that faith apart from works is dead?
+
+## Two Old Testament Examples of Biblical Evidence of Works Leading to the Consummation of Faith
 ^21^ Wasn’t Abraham our father justified by works, in that he offered up Isaac his son on the altar? 
 ^22^ You see that faith worked with his works, and by works faith was perfected. 
 ^23^ So the Scripture was fulfilled which says, “Abraham believed God, and it was accounted to him as righteousness,”^a^ and he was called the friend of God. 
@@ -73,6 +85,7 @@
 ^a^[**2:23** Genesis 15:6] 
 
 # 3 
+## Warning against unsolicited haste to teach and against sins of the tongue
 ^1^ Let not many of you be teachers, my brothers, knowing that we will receive heavier judgment. 
 ^2^ For we all stumble in many things. Anyone who doesn’t stumble in word is a perfect person, able to bridle the whole body also. 
 ^3^ Indeed, we put bits into the horses’ mouths so that they may obey us, and we guide their whole body. 
@@ -87,6 +100,7 @@
 ^12^ Can a fig tree, my brothers, yield olives, or a vine figs? Thus no spring yields both salt water and fresh water. 
 ^a^[**3:4** “Behold”, from “ἰδοὺ”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.] ^b^[**3:6** or, Hell]
 
+## Of the false wisdom, spiritual-earthly and true, spiritual-heavenly
 ^13^ Who is wise and understanding among you? Let him show by his good conduct that his deeds are done in gentleness of wisdom. 
 ^14^ But if you have bitter jealousy and selfish ambition in your heart, don’t boast and don’t lie against the truth. 
 ^15^ This wisdom is not that which comes down from above, but is earthly, sensual, and demonic. 
@@ -95,6 +109,7 @@
 ^18^ Now the fruit of righteousness is sown in peace by those who make peace. 
 
 # 4 
+## Warnings against strife, dissatisfaction and cosmopolitanism, against abuse and careless judgment
 ^1^ Where do wars and fightings among you come from? Don’t they come from your pleasures that war in your members? 
 ^2^ You lust, and don’t have. You murder and covet, and can’t obtain. You fight and make war. You don’t have, because you don’t ask. 
 ^3^ You ask, and don’t receive, because you ask with wrong motives, so that you may spend it on your pleasures. 
@@ -108,8 +123,9 @@
 ^a^[**4:6** Proverbs 3:34]
 
 ^11^ Don’t speak against one another, brothers. He who speaks against a brother and judges his brother, speaks against the law and judges the law. But if you judge the law, you are not a doer of the law but a judge. 
-^12^ Only one is the lawgiver, who is able to save and to destroy. But who are you to judge another? 
+^12^ Only one is the lawgiver, who is able to save and to destroy. But who are you to judge another?
 
+## Against measured self-confidence in companies
 ^13^ Come now, you who say, “Today or tomorrow let’s go into this city and spend a year there, trade, and make a profit.” 
 ^14^ Yet you don’t know what your life will be like tomorrow. For what is your life? For you are a vapor that appears for a little time and then vanishes away. 
 ^15^ For you ought to say, “If the Lord wills, we will both live, and do this or that.” 
@@ -117,6 +133,7 @@
 ^17^ To him therefore who knows to do good and doesn’t do it, to him it is sin. 
 
 # 5 
+## Announcement of the imminent judgment to the exuberant rich and the servants of Mammon who forget God
 ^1^ Come now, you rich, weep and howl for your miseries that are coming on you. 
 ^2^ Your riches are corrupted and your garments are moth-eaten. 
 ^3^ Your gold and your silver are corroded, and their corrosion will be for a testimony against you and will eat your flesh like fire. You have laid up your treasure in the last days. 
@@ -125,13 +142,15 @@
 ^6^ You have condemned and you have murdered the righteous one. He doesn’t resist you. 
 ^a^[**5:4** Greek: Sabaoth (for Hebrew: Tze’va’ot)]
 
+## Exhortation to believers to patiently persevere in view of the imminent return of the Lord
 ^7^ Be patient therefore, brothers, until the coming of the Lord. Behold, the farmer waits for the precious fruit of the earth, being patient over it, until it receives the early and late rain. 
 ^8^ You also be patient. Establish your hearts, for the coming of the Lord is at hand. 
 
 ^9^ Don’t grumble, brothers, against one another, so that you won’t be judged. Behold, the judge stands at the door. 
 ^10^ Take, brothers, for an example of suffering and of perseverance, the prophets who spoke in the name of the Lord. 
-^11^ Behold, we call them blessed who endured. You have heard of the perseverance of Job and have seen the Lord in the outcome, and how the Lord is full of compassion and mercy. 
+^11^ Behold, we call them blessed who endured. You have heard of the perseverance of Job and have seen the Lord in the outcome, and how the Lord is full of compassion and mercy.
 
+## Final warnings on the oath and prayer, on behavior towards joy and pain, in sickness and against the wayward
 ^12^ But above all things, my brothers, don’t swear— not by heaven, or by the earth, or by any other oath; but let your “yes” be “yes”, and your “no”, “no”, so that you don’t fall into hypocrisy.^a^ 
 ^a^[**5:12** TR reads “under judgment” instead of “into hypocrisy”]
 

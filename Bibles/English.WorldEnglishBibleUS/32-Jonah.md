@@ -1,4 +1,5 @@
 # 1 
+## Jonah's call, disobedience and punishment
 ^1^ Now Yahweh’s^a^ word came to Jonah the son of Amittai, saying, 
 ^2^ “Arise, go to Nineveh, that great city, and preach against it, for their wickedness has come up before me.” 
 ^a^[**1:1** “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.]
@@ -29,6 +30,7 @@
 ^17^ Yahweh prepared a huge fish to swallow up Jonah, and Jonah was in the belly of the fish three days and three nights. 
 
 # 2 
+## Jonah prayer and salvation
 ^1^ Then Jonah prayed to Yahweh, his God, out of the fish’s belly. 
 ^2^ He said, “I called because of my affliction to Yahweh. He answered me. Out of the belly of Sheol^a^ I cried. You heard my voice. 
 ^3^ For you threw me into the depths, in the heart of the seas. The flood was all around me. All your waves and your billows passed over me. 
@@ -43,6 +45,7 @@
 ^10^ Then Yahweh spoke to the fish, and it vomited out Jonah on the dry land. 
 
 # 3 
+## Jonah successful penitential sermon in Nineveh
 ^1^ Yahweh’s word came to Jonah the second time, saying, 
 ^2^ “Arise, go to Nineveh, that great city, and preach to it the message that I give you.” 
 
@@ -58,6 +61,7 @@
 ^10^ God saw their works, that they turned from their evil way. God relented of the disaster which he said he would do to them, and he didn’t do it. 
 
 # 4 
+## Jonah disgust and rebuke
 ^1^ But it displeased Jonah exceedingly, and he was angry. 
 ^2^ He prayed to Yahweh, and said, “Please, Yahweh, wasn’t this what I said when I was still in my own country? Therefore I hurried to flee to Tarshish, for I knew that you are a gracious God and merciful, slow to anger, and abundant in loving kindness, and you relent of doing harm. 
 ^3^ Therefore now, Yahweh, take, I beg you, my life from me, for it is better for me to die than to live.” 

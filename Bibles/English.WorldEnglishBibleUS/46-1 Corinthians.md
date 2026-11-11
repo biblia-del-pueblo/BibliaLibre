@@ -1,16 +1,19 @@
 # 1 
+## Blessings
 ^1^ Paul, called to be an apostle of Jesus Christ^a^ through the will of God, and our brother Sosthenes, 
 ^2^ to the assembly of God which is at Corinth—those who are sanctified in Christ Jesus, called saints, with all who call on the name of our Lord Jesus Christ in every place, both theirs and ours: 
 ^3^ Grace to you and peace from God our Father and the Lord Jesus Christ. 
 ^a^[**1:1** “Christ” means “Anointed One”.]
 
+## Thanksgiving of the apostle for the rich grace of God that fell on the Corinthians; sure hope for the future
 ^4^ I always thank my God concerning you for the grace of God which was given you in Christ Jesus, 
 ^5^ that in everything you were enriched in him, in all speech and all knowledge— 
 ^6^ even as the testimony of Christ was confirmed in you— 
 ^7^ so that you come behind in no gift, waiting for the revelation of our Lord Jesus Christ, 
 ^8^ who will also confirm you until the end, blameless in the day of our Lord Jesus Christ. 
-^9^ God is faithful, through whom you were called into the fellowship of his Son, Jesus Christ our Lord. 
+^9^ God is faithful, through whom you were called into the fellowship of his Son, Jesus Christ our Lord.
 
+## Strife in the church
 ^10^ Now I beg you, brothers,^a^ through the name of our Lord, Jesus Christ, that you all speak the same thing, and that there be no divisions among you, but that you be perfected together in the same mind and in the same judgment. 
 ^11^ For it has been reported to me concerning you, my brothers, by those who are from Chloe’s household, that there are contentions among you. 
 ^12^ Now I mean this, that each one of you says, “I follow Paul,” “I follow Apollos,” “I follow Cephas,” and, “I follow Christ.” 
@@ -18,7 +21,9 @@
 ^14^ I thank God that I baptized none of you except Crispus and Gaius, 
 ^15^ so that no one should say that I had baptized you into my own name. 
 ^16^ (I also baptized the household of Stephanas; besides them, I don’t know whether I baptized any other.) 
-^17^ For Christ sent me not to baptize, but to preach the Good News—not in wisdom of words, so that the cross of Christ wouldn’t be made void. 
+^17^ For Christ sent me not to baptize, but to preach the Good News—not in wisdom of words, so that the cross of Christ wouldn’t be made void.
+
+## The word of the cross is a divine power, opposed to world wisdom and respected by the world as madness
 ^18^ For the word of the cross is foolishness to those who are dying, but to us who are being saved it is the power of God. 
 ^19^ For it is written, “I will destroy the wisdom of the wise. I will bring the discernment of the discerning to nothing.”^b^ 
 ^a^[**1:10** The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.”] ^b^[**1:19** Isaiah 29:14]
@@ -28,8 +33,9 @@
 ^22^ For Jews ask for signs, Greeks seek after wisdom, 
 ^23^ but we preach Christ crucified, a stumbling block to Jews and foolishness to Greeks, 
 ^24^ but to those who are called, both Jews and Greeks, Christ is the power of God and the wisdom of God; 
-^25^ because the foolishness of God is wiser than men, and the weakness of God is stronger than men. 
+^25^ because the foolishness of God is wiser than men, and the weakness of God is stronger than men.
 
+## Proof of the real existence of the Christian community called by God in Corinth
 ^26^ For you see your calling, brothers, that not many are wise according to the flesh, not many mighty, and not many noble; 
 ^27^ but God chose the foolish things of the world that he might put to shame those who are wise. God chose the weak things of the world that he might put to shame the things that are strong. 
 ^28^ God chose the lowly things of the world, and the things that are despised, and the things that don’t exist, that he might bring to nothing the things that exist, 
@@ -39,18 +45,21 @@
 ^a^[**1:31** Jeremiah 9:24] 
 
 # 2 
+## Paul's way of preaching when the church was founded was undemanding and lacking in worldly wisdom
 ^1^ When I came to you, brothers, I didn’t come with excellence of speech or of wisdom, proclaiming to you the testimony of God. 
 ^2^ For I determined not to know anything among you except Jesus Christ and him crucified. 
 ^3^ I was with you in weakness, in fear, and in much trembling. 
 ^4^ My speech and my preaching were not in persuasive words of human wisdom, but in demonstration of the Spirit and of power, 
-^5^ that your faith wouldn’t stand in the wisdom of men, but in the power of God. 
+^5^ that your faith wouldn’t stand in the wisdom of men, but in the power of God.
 
+## The mysterious wisdom of God for the perfect
 ^6^ We speak wisdom, however, among those who are full grown, yet a wisdom not of this world nor of the rulers of this world who are coming to nothing. 
 ^7^ But we speak God’s wisdom in a mystery, the wisdom that has been hidden, which God foreordained before the worlds for our glory, 
 ^8^ which none of the rulers of this world has known. For had they known it, they wouldn’t have crucified the Lord of glory. 
 ^9^ But as it is written, “Things which an eye didn’t see, and an ear didn’t hear, which didn’t enter into the heart of man, these God has prepared for those who love him.”^a^ 
 ^a^[**2:9** Isaiah 64:4]
 
+## The exploration and absorption of this wisdom is only possible for spiritual people
 ^10^ But to us, God revealed them through the Spirit. For the Spirit searches all things, yes, the deep things of God. 
 ^11^ For who among men knows the things of a man except the spirit of the man which is in him? Even so, no one knows the things of God except God’s Spirit. 
 ^12^ But we received not the spirit of the world, but the Spirit which is from God, that we might know the things that were freely given to us by God. 
@@ -61,17 +70,20 @@
 ^a^[**2:16** Isaiah 40:13] 
 
 # 3 
+## Until now Paul has not been able to proclaim full wisdom to the Corinthians due to their immaturity, which has been demonstrated by the mischief of the party
 ^1^ Brothers, I couldn’t speak to you as to spiritual, but as to fleshly, as to babies in Christ. 
 ^2^ I fed you with milk, not with solid food, for you weren’t yet ready. Indeed, you aren’t ready even now, 
 ^3^ for you are still fleshly. For insofar as there is jealousy, strife, and factions among you, aren’t you fleshly, and don’t you walk in the ways of men? 
-^4^ For when one says, “I follow Paul,” and another, “I follow Apollos,” aren’t you fleshly? 
+^4^ For when one says, “I follow Paul,” and another, “I follow Apollos,” aren’t you fleshly?
 
+## They are servants and collaborators of God
 ^5^ Who then is Apollos, and who is Paul, but servants through whom you believed, and each as the Lord gave to him? 
 ^6^ I planted. Apollos watered. But God gave the increase. 
 ^7^ So then neither he who plants is anything, nor he who waters, but God who gives the increase. 
 ^8^ Now he who plants and he who waters are the same, but each will receive his own reward according to his own labor. 
-^9^ For we are God’s fellow workers. You are God’s farming, God’s building. 
+^9^ For we are God’s fellow workers. You are God’s farming, God’s building.
 
+## Every teacher tries to make his work consist of the fire of divine judgment of a day!
 ^10^ According to the grace of God which was given to me, as a wise master builder I laid a foundation, and another builds on it. But let each man be careful how he builds on it. 
 ^11^ For no one can lay any other foundation than that which has been laid, which is Jesus Christ. 
 ^12^ But if anyone builds on the foundation with gold, silver, costly stones, wood, hay, or straw, 
@@ -91,12 +103,14 @@
 ^a^[**3:19** Job 5:13] ^b^[**3:20** Psalm 94:11] 
 
 # 4 
+## Paul knows he is accountable only to the Lord
 ^1^ So let a man think of us as Christ’s servants and stewards of God’s mysteries. 
 ^2^ Here, moreover, it is required of stewards that they be found faithful. 
 ^3^ But with me it is a very small thing that I should be judged by you, or by a human court. Yes, I don’t even judge my own self. 
 ^4^ For I know nothing against myself. Yet I am not justified by this, but he who judges me is the Lord. 
-^5^ Therefore judge nothing before the time, until the Lord comes, who will both bring to light the hidden things of darkness and reveal the counsels of the hearts. Then each man will get his praise from God. 
+^5^ Therefore judge nothing before the time, until the Lord comes, who will both bring to light the hidden things of darkness and reveal the counsels of the hearts. Then each man will get his praise from God.
 
+## Paul reproaches the Corinthians for their arrogance towards the suffering of the apostles
 ^6^ Now these things, brothers, I have in a figure transferred to myself and Apollos for your sakes, that in us you might learn not to think beyond the things which are written, that none of you be puffed up against one another. 
 ^7^ For who makes you different? And what do you have that you didn’t receive? But if you did receive it, why do you boast as if you had not received it? 
 
@@ -105,8 +119,9 @@
 ^10^ We are fools for Christ’s sake, but you are wise in Christ. We are weak, but you are strong. You have honor, but we have dishonor. 
 ^11^ Even to this present hour we hunger, thirst, are naked, are beaten, and have no certain dwelling place. 
 ^12^ We toil, working with our own hands. When people curse us, we bless. Being persecuted, we endure. 
-^13^ Being defamed, we entreat. We are made as the filth of the world, the dirt wiped off by all, even until now. 
+^13^ Being defamed, we entreat. We are made as the filth of the world, the dirt wiped off by all, even until now.
 
+## Paul's reference to his personal relationship with the church
 ^14^ I don’t write these things to shame you, but to admonish you as my beloved children. 
 ^15^ For though you have ten thousand tutors in Christ, you don’t have many fathers. For in Christ Jesus, I became your father through the Good News. 
 ^16^ I beg you therefore, be imitators of me. 
@@ -117,16 +132,19 @@
 ^21^ What do you want? Shall I come to you with a rod, or in love and a spirit of gentleness? 
 
 # 5 
+## Serious reprimand for the tolerance shown by the community to a fornicator
 ^1^ It is actually reported that there is sexual immorality among you, and such sexual immorality as is not even named among the Gentiles, that one has his father’s wife. 
 ^2^ You are arrogant, and didn’t mourn instead, that he who had done this deed might be removed from among you. 
 ^3^ For I most certainly, as being absent in body but present in spirit, have already, as though I were present, judged him who has done this thing. 
 ^4^ In the name of our Lord Jesus Christ, when you are gathered together with my spirit with the power of our Lord Jesus Christ, 
-^5^ you are to deliver such a one to Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus. 
+^5^ you are to deliver such a one to Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.
 
+## General admonition to moral purity with reference to the sacrificial death of Jesus, “the Passover lamb”
 ^6^ Your boasting is not good. Don’t you know that a little yeast leavens the whole lump? 
 ^7^ Purge out the old yeast, that you may be a new lump, even as you are unleavened. For indeed Christ, our Passover, has been sacrificed in our place. 
-^8^ Therefore let’s keep the feast, not with old yeast, neither with the yeast of malice and wickedness, but with the unleavened bread of sincerity and truth. 
+^8^ Therefore let’s keep the feast, not with old yeast, neither with the yeast of malice and wickedness, but with the unleavened bread of sincerity and truth.
 
+## Correction of a Corinthian misunderstanding about the warning against fornicators
 ^9^ I wrote to you in my letter to have no company with sexual sinners; 
 ^10^ yet not at all meaning with the sexual sinners of this world, or with the covetous and extortionists, or with idolaters, for then you would have to leave the world. 
 ^11^ But as it is, I wrote to you not to associate with anyone who is called a brother who is a sexual sinner, or covetous, or an idolater, or a slanderer, or a drunkard, or an extortionist. Don’t even eat with such a person. 
@@ -135,6 +153,7 @@
 ^a^[**5:13** Deuteronomy 17:7; 19:19; 21:21; 22:21; 24:7] 
 
 # 6 
+## Complaint of litigation in pagan courts and litigation in general
 ^1^ Dare any of you, having a matter against his neighbor, go to law before the unrighteous, and not before the saints? 
 ^2^ Don’t you know that the saints will judge the world? And if the world is judged by you, are you unworthy to judge the smallest matters? 
 ^3^ Don’t you know that we will judge angels? How much more, things that pertain to this life? 
@@ -146,8 +165,9 @@
 
 ^9^ Or don’t you know that the unrighteous will not inherit God’s Kingdom? Don’t be deceived. Neither the sexually immoral, nor idolaters, nor adulterers, nor male prostitutes, nor homosexuals, 
 ^10^ nor thieves, nor covetous, nor drunkards, nor slanderers, nor extortionists, will inherit God’s Kingdom. 
-^11^ Some of you were such, but you were washed. You were sanctified. You were justified in the name of the Lord Jesus, and in the Spirit of our God. 
+^11^ Some of you were such, but you were washed. You were sanctified. You were justified in the name of the Lord Jesus, and in the Spirit of our God.
 
+## The sins of fornication have nothing to do with Christian freedom; fornication warning
 ^12^ “All things are lawful for me,” but not all things are expedient. “All things are lawful for me,” but I will not be brought under the power of anything. 
 ^13^ “Foods for the belly, and the belly for foods,” but God will bring to nothing both it and them. But the body is not for sexual immorality, but for the Lord, and the Lord for the body. 
 ^14^ Now God raised up the Lord, and will also raise us up by his power. 
@@ -160,6 +180,7 @@
 ^a^[**6:16** Genesis 2:24] 
 
 # 7 
+## The value and needs of marriage and married life in general
 ^1^ Now concerning the things about which you wrote to me: it is good for a man not to touch a woman. 
 ^2^ But, because of sexual immoralities, let each man have his own wife, and let each woman have her own husband. 
 ^3^ Let the husband give his wife the affection owed her,^a^ and likewise also the wife her husband. 
@@ -168,18 +189,22 @@
 ^a^[**7:3** NU and TR have “what is owed her” instead of “the affection owed her”.]
 
 ^6^ But this I say by way of concession, not of commandment. 
-^7^ Yet I wish that all men were like me. However, each man has his own gift from God, one of this kind, and another of that kind. 
+^7^ Yet I wish that all men were like me. However, each man has his own gift from God, one of this kind, and another of that kind.
+
+## On the behavior of single people and on divorce in Christian marriages
 ^8^ But I say to the unmarried and to widows, it is good for them if they remain even as I am. 
 ^9^ But if they don’t have self-control, let them marry. For it’s better to marry than to burn with passion. 
 ^10^ But to the married I command—not I, but the Lord—that the wife not leave her husband 
-^11^ (but if she departs, let her remain unmarried, or else be reconciled to her husband), and that the husband not leave his wife. 
+^11^ (but if she departs, let her remain unmarried, or else be reconciled to her husband), and that the husband not leave his wife.
 
+## Behavior in mixed marriage
 ^12^ But to the rest I—not the Lord—say, if any brother has an unbelieving wife, and she is content to live with him, let him not leave her. 
 ^13^ The woman who has an unbelieving husband, and he is content to live with her, let her not leave her husband. 
 ^14^ For the unbelieving husband is sanctified in the wife, and the unbelieving wife is sanctified in the husband. Otherwise your children would be unclean, but now they are holy. 
 ^15^ Yet if the unbeliever departs, let there be separation. The brother or the sister is not under bondage in such cases, but God has called us in peace. 
-^16^ For how do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife? 
+^16^ For how do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?
 
+## General rule about the position of the Christian to existing external conditions: Every believer remains in the position in which he was called!
 ^17^ Only, as the Lord has distributed to each man, as God has called each, so let him walk. So I command in all the assemblies. 
 
 ^18^ Was anyone called having been circumcised? Let him not become uncircumcised. Has anyone been called in uncircumcision? Let him not be circumcised. 
@@ -188,8 +213,9 @@
 ^21^ Were you called being a bondservant? Don’t let that bother you, but if you get an opportunity to become free, use it. 
 ^22^ For he who was called in the Lord being a bondservant is the Lord’s free man. Likewise he who was called being free is Christ’s bondservant. 
 ^23^ You were bought with a price. Don’t become bondservants of men. 
-^24^ Brothers, let each man, in whatever condition he was called, stay in that condition with God. 
+^24^ Brothers, let each man, in whatever condition he was called, stay in that condition with God.
 
+## On celibacy of both sexes; Tips for marrying single women and remarrying widows
 ^25^ Now concerning virgins, I have no commandment from the Lord, but I give my judgment as one who has obtained mercy from the Lord to be trustworthy. 
 ^26^ Therefore I think that because of the distress that is on us, it’s good for a man to remain as he is. 
 ^27^ Are you bound to a wife? Don’t seek to be freed. Are you free from a wife? Don’t seek a wife. 
@@ -205,21 +231,26 @@
 
 ^36^ But if any man thinks that he is behaving inappropriately toward his virgin, if she is past the flower of her age, and if need so requires, let him do what he desires. He doesn’t sin. Let them marry. 
 ^37^ But he who stands steadfast in his heart, having no urgency, but has power over his own will, and has determined in his own heart to keep his own virgin, does well. 
-^38^ So then both he who gives his own virgin in marriage does well, and he who doesn’t give her in marriage does better. 
+^38^ So then both he who gives his own virgin in marriage does well, and he who doesn’t give her in marriage does better.
 
+## About remarriage of widows
 ^39^ A wife is bound by law for as long as her husband lives; but if the husband is dead, she is free to be married to whomever she desires, only in the Lord. 
 ^40^ But she is happier if she stays as she is, in my judgment, and I think that I also have God’s Spirit. 
 
 # 8 
+## Knowledge itself has less value than love
 ^1^ Now concerning things sacrificed to idols: We know that we all have knowledge. Knowledge puffs up, but love builds up. 
 ^2^ But if anyone thinks that he knows anything, he doesn’t yet know as he ought to know. 
-^3^ But anyone who loves God is known by him. 
+^3^ But anyone who loves God is known by him.
 
+## Not everyone has perfect knowledge
 ^4^ Therefore concerning the eating of things sacrificed to idols, we know that no idol is anything in the world, and that there is no other God but one. 
 ^5^ For though there are things that are called “gods”, whether in the heavens or on earth—as there are many “gods” and many “lords”— 
 ^6^ yet to us there is one God, the Father, of whom are all things, and we for him; and one Lord, Jesus Christ, through whom are all things, and we live through him. 
 
-^7^ However, that knowledge isn’t in all men. But some, with consciousness of an idol until now, eat as of a thing sacrificed to an idol, and their conscience, being weak, is defiled. 
+^7^ However, that knowledge isn’t in all men. But some, with consciousness of an idol until now, eat as of a thing sacrificed to an idol, and their conscience, being weak, is defiled.
+
+## For the use of Christian liberty, loving consideration for the weak is decisive
 ^8^ But food will not commend us to God. For neither, if we don’t eat are we the worse, nor if we eat are we the better. 
 ^9^ But be careful that by no means does this liberty of yours become a stumbling block to the weak. 
 ^10^ For if a man sees you who have knowledge sitting in an idol’s temple, won’t his conscience, if he is weak, be emboldened to eat things sacrificed to idols? 
@@ -228,6 +259,7 @@
 ^13^ Therefore, if food causes my brother to stumble, I will eat no meat forever more, that I don’t cause my brother to stumble. 
 
 # 9 
+## Explanation and justification of the rights due to Paul as an apostle
 ^1^ Am I not free? Am I not an apostle? Haven’t I seen Jesus Christ, our Lord? Aren’t you my work in the Lord? 
 ^2^ If to others I am not an apostle, yet at least I am to you; for you are the seal of my apostleship in the Lord. 
 
@@ -244,20 +276,25 @@
 ^12^ If others partake of this right over you, don’t we yet more? 
 ^a^[**9:9** Deuteronomy 25:4]
 
-Nevertheless we didn’t use this right, but we bear all things, that we may cause no hindrance to the Good News of Christ. 
+Nevertheless we didn’t use this right, but we bear all things, that we may cause no hindrance to the Good News of Christ.
+
+## Explain the reasons why Pablo gives up his rights
 ^13^ Don’t you know that those who serve around sacred things eat from the things of the temple, and those who wait on the altar have their portion with the altar? 
 ^14^ Even so the Lord ordained that those who proclaim the Good News should live from the Good News. 
 
 ^15^ But I have used none of these things, and I don’t write these things that it may be done so in my case; for I would rather die, than that anyone should make my boasting void. 
 ^16^ For if I preach the Good News, I have nothing to boast about, for necessity is laid on me; but woe is to me if I don’t preach the Good News. 
 ^17^ For if I do this of my own will, I have a reward. But if not of my own will, I have a stewardship entrusted to me. 
-^18^ What then is my reward? That when I preach the Good News, I may present the Good News of Christ without charge, so as not to abuse my authority in the Good News. 
+^18^ What then is my reward? That when I preach the Good News, I may present the Good News of Christ without charge, so as not to abuse my authority in the Good News.
 
+## Pablo, although outwardly completely free, is nonetheless a servant of all men
 ^19^ For though I was free from all, I brought myself under bondage to all, that I might gain the more. 
 ^20^ To the Jews I became as a Jew, that I might gain Jews; to those who are under the law, as under the law,^a^ that I might gain those who are under the law; 
 ^21^ to those who are without law, as without law (not being without law toward God, but under law toward Christ), that I might win those who are without law. 
 ^22^ To the weak I became as weak, that I might gain the weak. I have become all things to all men, that I may by all means save some. 
-^23^ Now I do this for the sake of the Good News, that I may be a joint partaker of it. 
+^23^ Now I do this for the sake of the Good News, that I may be a joint partaker of it.
+
+## The apostle as a competitor for the heavenly prize
 ^24^ Don’t you know that those who run in a race all run, but one receives the prize? Run like that, so that you may win. 
 ^25^ Every man who strives in the games exercises self-control in all things. Now they do it to receive a corruptible crown, but we an incorruptible. 
 ^26^ I therefore run like that, not aimlessly. I fight like that, not beating the air, 
@@ -265,10 +302,13 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^a^[**9:20** NU adds: though I myself am not under the law] 
 
 # 10 
+## Das durch göttliche Gnadenerweise in der Wüste gesegnete und zur Rettung ins heilige Land berufene Israel
 ^1^ Now I would not have you ignorant, brothers, that our fathers were all under the cloud, and all passed through the sea; 
 ^2^ and were all baptized into Moses in the cloud and in the sea; 
 ^3^ and all ate the same spiritual food; 
-^4^ and all drank the same spiritual drink. For they drank of a spiritual rock that followed them, and the rock was Christ. 
+^4^ and all drank the same spiritual drink. For they drank of a spiritual rock that followed them, and the rock was Christ.
+
+## Despite this, because they willingly served their lust for meat, they were rejected as a warning example to us
 ^5^ However with most of them, God was not well pleased, for they were overthrown in the wilderness. 
 
 ^6^ Now these things were our examples, to the intent we should not lust after evil things as they also lusted. 
@@ -280,8 +320,9 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^12^ Therefore let him who thinks he stands be careful that he doesn’t fall. 
 ^a^[**10:7** Exodus 32:6] ^b^[**10:9** NU reads “the Lord” instead of “Christ”.]
 
-^13^ No temptation has taken you except what is common to man. God is faithful, who will not allow you to be tempted above what you are able, but will with the temptation also make the way of escape, that you may be able to endure it. 
+^13^ No temptation has taken you except what is common to man. God is faithful, who will not allow you to be tempted above what you are able, but will with the temptation also make the way of escape, that you may be able to endure it.
 
+## Participation in idolatry and sacrificial meals is incompatible with the celebration of the Christian Lord's Supper and should therefore be avoided
 ^14^ Therefore, my beloved, flee from idolatry. 
 ^15^ I speak as to wise men. Judge what I say. 
 ^16^ The cup of blessing which we bless, isn’t it a sharing of the blood of Christ? The bread which we break, isn’t it a sharing of the body of Christ? 
@@ -291,8 +332,9 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^19^ What am I saying then? That a thing sacrificed to idols is anything, or that an idol is anything? 
 ^20^ But I say that the things which the Gentiles sacrifice, they sacrifice to demons and not to God, and I don’t desire that you would have fellowship with demons. 
 ^21^ You can’t both drink the cup of the Lord and the cup of demons. You can’t both partake of the table of the Lord and of the table of demons. 
-^22^ Or do we provoke the Lord to jealousy? Are we stronger than he? 
+^22^ Or do we provoke the Lord to jealousy? Are we stronger than he?
 
+## When is it safe to eat meat sacrificed to idols? Restriction of Christian liberty out of consideration for brotherly love
 ^23^ “All things are lawful for me,” but not all things are profitable. “All things are lawful for me,” but not all things build up. 
 ^24^ Let no one seek his own, but each one his neighbor’s good. 
 ^25^ Whatever is sold in the butcher shop, eat, asking no question for the sake of conscience, 
@@ -303,13 +345,15 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^30^ If I partake with thankfulness, why am I denounced for something I give thanks for? 
 ^a^[**10:26** Psalm 24:1 ]
 
+## Final admonition for the correct Christian walk at all times
 ^31^ Whether therefore you eat or drink, or whatever you do, do all to the glory of God. 
 ^32^ Give no occasion for stumbling, whether to Jews, to Greeks, or to the assembly of God; 
 ^33^ even as I also please all men in all things, not seeking my own profit, but the profit of the many, that they may be saved. 
 
 # 11 
-^1^ Be imitators of me, even as I also am of Christ. 
+^1^ Be imitators of me, even as I also am of Christ.
 
+## On the decent behavior of men and the veil of women during prayer and worship
 ^2^ Now I praise you, brothers, that you remember me in all things, and hold firm the traditions, even as I delivered them to you. 
 ^3^ But I would have you know that the head^a^ of every man is Christ, and the head^b^ of the woman is man, and the head^c^ of Christ is God. 
 ^4^ Every man praying or prophesying, having his head covered, dishonors his head. 
@@ -321,20 +365,23 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^10^ For this cause the woman ought to have authority over her own head, because of the angels. 
 ^a^[**11:3** or, origin] ^b^[**11:3** or, origin] ^c^[**11:3** or, origin]
 
+## Rejection of disdain for women and all discussions on the subject
 ^11^ Nevertheless, neither is the woman independent of the man, nor the man independent of the woman, in the Lord. 
 ^12^ For as woman came from man, so a man also comes through a woman; but all things are from God. 
 ^13^ Judge for yourselves. Is it appropriate that a woman pray to God unveiled? 
 ^14^ Doesn’t even nature itself teach you that if a man has long hair, it is a dishonor to him? 
 ^15^ But if a woman has long hair, it is a glory to her, for her hair is given to her for a covering. 
-^16^ But if any man seems to be contentious, we have no such custom, neither do God’s assemblies. 
+^16^ But if any man seems to be contentious, we have no such custom, neither do God’s assemblies.
 
+## Serious reprimand for grievances at common meals and instructions for the worthy celebration of the Lord's Supper
 ^17^ But in giving you this command I don’t praise you, because you come together not for the better but for the worse. 
 ^18^ For first of all, when you come together in the assembly, I hear that divisions exist among you, and I partly believe it. 
 ^19^ For there also must be factions among you, that those who are approved may be revealed among you. 
 ^20^ When therefore you assemble yourselves together, it is not the Lord’s supper that you eat. 
 ^21^ For in your eating each one takes his own supper first. One is hungry, and another is drunken. 
-^22^ What, don’t you have houses to eat and to drink in? Or do you despise God’s assembly and put them to shame who don’t have enough? What shall I tell you? Shall I praise you? In this I don’t praise you. 
+^22^ What, don’t you have houses to eat and to drink in? Or do you despise God’s assembly and put them to shame who don’t have enough? What shall I tell you? Shall I praise you? In this I don’t praise you.
 
+## The correct celebration of the Lord's Supper and the bad consequences of unworthy enjoyment; final reminder
 ^23^ For I received from the Lord that which also I delivered to you, that the Lord Jesus on the night in which he was betrayed took bread. 
 ^24^ When he had given thanks, he broke it and said, [“Take, eat. This is my body, which is broken for you. Do this in memory of me.”]{.wj} 
 ^25^ In the same way he also took the cup after supper, saying, [“This cup is the new covenant in my blood. Do this, as often as you drink, in memory of me.”]{.wj} 
@@ -350,11 +397,13 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^34^ But if anyone is hungry, let him eat at home, lest your coming together be for judgment. The rest I will set in order whenever I come. 
 
 # 12 
+## The mark of divinely wrought spiritual gifts
 ^1^ Now concerning spiritual things, brothers, I don’t want you to be ignorant. 
 ^2^ You know that when you were heathen,^a^ you were led away to those mute idols, however you might be led. 
 ^3^ Therefore I make known to you that no man speaking by God’s Spirit says, “Jesus is accursed.” No one can say, “Jesus is Lord,” but by the Holy Spirit. 
 ^a^[**12:2** or Gentiles]
 
+## Diversity of spiritual gifts, but only an active spirit and purpose
 ^4^ Now there are various kinds of gifts, but the same Spirit. 
 ^5^ There are various kinds of service, and the same Lord. 
 ^6^ There are various kinds of workings, but the same God who works all things in all. 
@@ -362,8 +411,9 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^8^ For to one is given through the Spirit the word of wisdom, and to another the word of knowledge according to the same Spirit, 
 ^9^ to another faith by the same Spirit, and to another gifts of healings by the same Spirit, 
 ^10^ and to another workings of miracles, and to another prophecy, and to another discerning of spirits, to another different kinds of languages, and to another the interpretation of languages. 
-^11^ But the one and the same Spirit produces all of these, distributing to each one separately as he desires. 
+^11^ But the one and the same Spirit produces all of these, distributing to each one separately as he desires.
 
+## Illustrated by the parable of the human body and its many members
 ^12^ For as the body is one and has many members, and all the members of the body, being many, are one body; so also is Christ. 
 ^13^ For in one Spirit we were all baptized into one body, whether Jews or Greeks, whether bond or free; and were all given to drink into one Spirit. 
 
@@ -379,24 +429,29 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^23^ Those parts of the body which we think to be less honorable, on those we bestow more abundant honor; and our unpresentable parts have more abundant modesty, 
 ^24^ while our presentable parts have no such need. But God composed the body together, giving more abundant honor to the inferior part, 
 ^25^ that there should be no division in the body, but that the members should have the same care for one another. 
-^26^ When one member suffers, all the members suffer with it. When one member is honored, all the members rejoice with it. 
+^26^ When one member suffers, all the members suffer with it. When one member is honored, all the members rejoice with it.
 
+## Application of the image to the divine structure of the church
 ^27^ Now you are the body of Christ, and members individually. 
 ^28^ God has set some in the assembly: first apostles, second prophets, third teachers, then miracle workers, then gifts of healings, helps, governments, and various kinds of languages. 
 ^29^ Are all apostles? Are all prophets? Are all teachers? Are all miracle workers? 
-^30^ Do all have gifts of healings? Do all speak with various languages? Do all interpret? 
+^30^ Do all have gifts of healings? Do all speak with various languages? Do all interpret?
+
+## Without love, even the highest spiritual gifts are worthless
 ^31^ But earnestly desire the best gifts. Moreover, I show a most excellent way to you. 
 
 # 13 
 ^1^ If I speak with the languages of men and of angels, but don’t have love, I have become sounding brass or a clanging cymbal. 
 ^2^ If I have the gift of prophecy, and know all mysteries and all knowledge, and if I have all faith, so as to remove mountains, but don’t have love, I am nothing. 
-^3^ If I give away all my goods to feed the poor, and if I give my body to be burned, but don’t have love, it profits me nothing. 
+^3^ If I give away all my goods to feed the poor, and if I give my body to be burned, but don’t have love, it profits me nothing.
 
+## The essence of love
 ^4^ Love is patient and is kind. Love doesn’t envy. Love doesn’t brag, is not proud, 
 ^5^ doesn’t behave itself inappropriately, doesn’t seek its own way, is not provoked, takes no account of evil; 
 ^6^ doesn’t rejoice in unrighteousness, but rejoices with the truth; 
-^7^ bears all things, believes all things, hopes all things, and endures all things. 
+^7^ bears all things, believes all things, hopes all things, and endures all things.
 
+## The perfection of eternal love against the fragment of other graces
 ^8^ Love never fails. But where there are prophecies, they will be done away with. Where there are various languages, they will cease. Where there is knowledge, it will be done away with. 
 ^9^ For we know in part and we prophesy in part; 
 ^10^ but when that which is complete has come, then that which is partial will be done away with. 
@@ -405,13 +460,17 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^13^ But now faith, hope, and love remain—these three. The greatest of these is love. 
 
 # 14 
-^1^ Follow after love and earnestly desire spiritual gifts, but especially that you may prophesy. 
+^1^ Follow after love and earnestly desire spiritual gifts, but especially that you may prophesy.
+
+## The difference between prophetic speech and speaking in tongues
 ^2^ For he who speaks in another language speaks not to men, but to God, for no one understands, but in the Spirit he speaks mysteries. 
 ^3^ But he who prophesies speaks to men for their edification, exhortation, and consolation. 
 ^4^ He who speaks in another language edifies himself, but he who prophesies edifies the assembly. 
 ^5^ Now I desire to have you all speak with other languages, but even more that you would prophesy. For he is greater who prophesies than he who speaks with other languages, unless he interprets, that the assembly may be built up. 
 
-^6^ But now, brothers,^a^ if I come to you speaking with other languages, what would I profit you unless I speak to you either by way of revelation, or of knowledge, or of prophesying, or of teaching? 
+^6^ But now, brothers,^a^ if I come to you speaking with other languages, what would I profit you unless I speak to you either by way of revelation, or of knowledge, or of prophesying, or of teaching?
+
+## The futility and inadequacy of all incomprehensible sound and speech
 ^7^ Even lifeless things that make a sound, whether pipe or harp, if they didn’t give a distinction in the sounds, how would it be known what is piped or harped? 
 ^8^ For if the trumpet gave an uncertain sound, who would prepare himself for war? 
 ^9^ So also you, unless you uttered by the tongue words easy to understand, how would it be known what is spoken? For you would be speaking into the air. 
@@ -427,8 +486,9 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^16^ Otherwise, if you bless with the spirit, how will he who fills the place of the unlearned say the “Amen” at your giving of thanks, seeing he doesn’t know what you say? 
 ^17^ For you most certainly give thanks well, but the other person is not built up. 
 ^18^ I thank my God, I speak with other languages more than you all. 
-^19^ However, in the assembly I would rather speak five words with my understanding, that I might instruct others also, than ten thousand words in another language. 
+^19^ However, in the assembly I would rather speak five words with my understanding, that I might instruct others also, than ten thousand words in another language.
 
+## The Old Testament and the outside non-Christian world also condemn this incomprehensible speech
 ^20^ Brothers, don’t be children in thoughts, yet in malice be babies, but in thoughts be mature. 
 ^21^ In the law it is written, “By men of strange languages and by the lips of strangers I will speak to this people. They won’t even listen to me that way, says the Lord.”^a^ 
 ^22^ Therefore other languages are for a sign, not to those who believe, but to the unbelieving; but prophesying is for a sign, not to the unbelieving, but to those who believe. 
@@ -437,6 +497,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^25^ And thus the secrets of his heart are revealed. So he will fall down on his face and worship God, declaring that God is among you indeed. 
 ^a^[**14:21** Isaiah 28:11-12]
 
+## Speaker Order
 ^26^ What is it then, brothers? When you come together, each one of you has a psalm, has a teaching, has a revelation, has another language, or has an interpretation. Let all things be done to build each other up. 
 ^27^ If any man speaks in another language, let there be two, or at the most three, and in turn; and let one interpret. 
 ^28^ But if there is no interpreter, let him keep silent in the assembly, and let him speak to himself and to God. 
@@ -444,7 +505,9 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^30^ But if a revelation is made to another sitting by, let the first keep silent. 
 ^31^ For you all can prophesy one by one, that all may learn and all may be exhorted. 
 ^32^ The spirits of the prophets are subject to the prophets, 
-^33^ for God is not a God of confusion but of peace, as in all the assemblies of the saints. 
+^33^ for God is not a God of confusion but of peace, as in all the assemblies of the saints.
+
+## Against inappropriate speeches by women in meetings
 ^34^ Let the wives be quiet in the assemblies, for it has not been permitted for them to be talking except in submission, as the law also says,^a^ 
 ^35^ if they desire to learn anything. “Let them ask their own husbands at home, for it is shameful for a wife to be talking in the assembly.” 
 ^36^ What!? Was it from you that the word of God went out? Or did it come to you alone? 
@@ -457,6 +520,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^40^ Let all things be done decently and in order. 
 
 # 15 
+## Of the facts and witnesses by which the resurrection of Christ is certified
 ^1^ Now I declare to you, brothers, the Good News which I preached to you, which also you received, in which you also stand, 
 ^2^ by which also you are saved, if you hold firmly the word which I preached to you—unless you believed in vain. 
 
@@ -468,8 +532,9 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^8^ and last of all, as to the child born at the wrong time, he appeared to me also. 
 ^9^ For I am the least of the apostles, who is not worthy to be called an apostle, because I persecuted the assembly of God. 
 ^10^ But by the grace of God I am what I am. His grace which was given to me was not futile, but I worked more than all of them; yet not I, but the grace of God which was with me. 
-^11^ Whether then it is I or they, so we preach, and so you believed. 
+^11^ Whether then it is I or they, so we preach, and so you believed.
 
+## The faith and firm hope of all Christians are based on the resurrection of Christ from the dead
 ^12^ Now if Christ is preached, that he has been raised from the dead, how do some among you say that there is no resurrection of the dead? 
 ^13^ But if there is no resurrection of the dead, neither has Christ been raised. 
 ^14^ If Christ has not been raised, then our preaching is in vain and your faith also is in vain. 
@@ -477,8 +542,9 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^16^ For if the dead aren’t raised, neither has Christ been raised. 
 ^17^ If Christ has not been raised, your faith is vain; you are still in your sins. 
 ^18^ Then they also who are fallen asleep in Christ have perished. 
-^19^ If we have only hoped in Christ in this life, we are of all men most pitiable. 
+^19^ If we have only hoped in Christ in this life, we are of all men most pitiable.
 
+## Exposition of the consequences of the resurrection of Christ; the processes in which the resurrection takes place until its completion
 ^20^ But now Christ has been raised from the dead. He became the first fruit of those who are asleep. 
 ^21^ For since death came by man, the resurrection of the dead also came by man. 
 ^22^ For as in Adam all die, so also in Christ all will be made alive. 
@@ -490,6 +556,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^28^ When all things have been subjected to him, then the Son will also himself be subjected to him who subjected all things to him, that God may be all in all. 
 ^a^[**15:27** Psalm 8:6]
 
+## Much of what Christians do and suffer is only justified and understandable when they believe in the resurrection
 ^29^ Or else what will they do who are baptized for the dead? If the dead aren’t raised at all, why then are they baptized for the dead? 
 ^30^ Why do we also stand in jeopardy every hour? 
 ^31^ I affirm, by the boasting in you which I have in Christ Jesus our Lord, I die daily. 
@@ -498,23 +565,29 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^34^ Wake up righteously and don’t sin, for some have no knowledge of God. I say this to your shame. 
 ^a^[**15:32** Isaiah 22:13]
 
+## The image of the seed
 ^35^ But someone will say, “How are the dead raised?” and, “With what kind of body do they come?” 
 ^36^ You foolish one, that which you yourself sow is not made alive unless it dies. 
 ^37^ That which you sow, you don’t sow the body that will be, but a bare grain, maybe of wheat, or of some other kind. 
-^38^ But God gives it a body even as it pleased him, and to each seed a body of its own. 
+^38^ But God gives it a body even as it pleased him, and to each seed a body of its own.
+
+## All creation shows the greatest diversity of matter, form and nature of things
 ^39^ All flesh is not the same flesh, but there is one flesh of men, another flesh of animals, another of fish, and another of birds. 
 ^40^ There are also celestial bodies and terrestrial bodies; but the glory of the celestial differs from that of the terrestrial. 
 ^41^ There is one glory of the sun, another glory of the moon, and another glory of the stars; for one star differs from another star in glory. 
 
 ^42^ So also is the resurrection of the dead. The body is sown perishable; it is raised imperishable. 
 ^43^ It is sown in dishonor; it is raised in glory. It is sown in weakness; it is raised in power. 
-^44^ It is sown a natural body; it is raised a spiritual body. There is a natural body and there is also a spiritual body. 
+^44^ It is sown a natural body; it is raised a spiritual body. There is a natural body and there is also a spiritual body.
 
+## The reality of a heavenly body, incorruptible
 ^45^ So also it is written, “The first man Adam became a living soul.” ^a^ The last Adam became a life-giving spirit. 
 ^46^ However, that which is spiritual isn’t first, but that which is natural, then that which is spiritual. 
 ^47^ The first man is of the earth, made of dust. The second man is the Lord from heaven. 
 ^48^ As is the one made of dust, such are those who are also made of dust; and as is the heavenly, such are they also that are heavenly. 
-^49^ As we have borne the image of those made of dust, let’s^b^ also bear the image of the heavenly. 
+^49^ As we have borne the image of those made of dust, let’s^b^ also bear the image of the heavenly.
+
+## The final transformation in the consummation of believers
 ^50^ Now I say this, brothers,^c^ that flesh and blood can’t inherit God’s Kingdom; neither does the perishable inherit imperishable. 
 ^a^[**15:45** Genesis 2:7] ^b^[**15:49** NU, TR read “we will” instead of “let’s”] ^c^[**15:50** The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.”]
 
@@ -530,11 +603,13 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^58^ Therefore, my beloved brothers, be steadfast, immovable, always abounding in the Lord’s work, because you know that your labor is not in vain in the Lord. 
 
 # 16 
+## Invitation to participate in the fundraiser for Jerusalem
 ^1^ Now concerning the collection for the saints: as I commanded the assemblies of Galatia, you do likewise. 
 ^2^ On the first day of every week, let each one of you save as he may prosper, that no collections are made when I come. 
 ^3^ When I arrive, I will send whoever you approve with letters to carry your gracious gift to Jerusalem. 
-^4^ If it is appropriate for me to go also, they will go with me. 
+^4^ If it is appropriate for me to go also, they will go with me.
 
+## Paul's travel plans and the news of the coming of Timothy and Apollos
 ^5^ I will come to you when I have passed through Macedonia, for I am passing through Macedonia. 
 ^6^ But with you it may be that I will stay with you, or even winter with you, that you may send me on my journey wherever I go. 
 ^7^ For I do not wish to see you now in passing, but I hope to stay a while with you, if the Lord permits. 
@@ -544,8 +619,9 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 ^10^ Now if Timothy comes, see that he is with you without fear, for he does the work of the Lord, as I also do. 
 ^11^ Therefore let no one despise him. But set him forward on his journey in peace, that he may come to me; for I expect him with the brothers. 
 
-^12^ Now concerning Apollos the brother, I strongly urged him to come to you with the brothers, but it was not at all his desire to come now; but he will come when he has an opportunity. 
+^12^ Now concerning Apollos the brother, I strongly urged him to come to you with the brothers, but it was not at all his desire to come now; but he will come when he has an opportunity.
 
+## Final warnings, personal recommendations, greetings and blessings
 ^13^ Watch! Stand firm in the faith! Be courageous! Be strong! 
 ^14^ Let all that you do be done in love. 
 

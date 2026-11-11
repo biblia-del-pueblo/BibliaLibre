@@ -1,14 +1,17 @@
 # 1 
+## Announcement of divine judgment on the nations
 ^1^ The words of Amos, who was among the herdsmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah and in the days of Jeroboam the son of Joash, king of Israel, two years before the earthquake. 
 ^2^ He said: “Yahweh^a^ will roar from Zion, and utter his voice from Jerusalem; and the pastures of the shepherds will mourn, and the top of Carmel will wither.” 
 ^a^[**1:2** “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.]
 
+## Threat against Syrians in Damascus
 ^3^ Yahweh says: “For three transgressions of Damascus, yes, for four, I will not turn away its punishment, because they have threshed Gilead with threshing instruments of iron; 
 ^4^ but I will send a fire into the house of Hazael, and it will devour the palaces of Ben Hadad. 
 ^5^ I will break the bar of Damascus, and cut off the inhabitant from the valley of Aven, and him who holds the scepter from the house of Eden; and the people of Syria shall go into captivity to Kir,” 
 
-says Yahweh. 
+says Yahweh.
 
+## Threat against the Philistines
 ^6^ Yahweh says: “For three transgressions of Gaza, yes, for four, I will not turn away its punishment, because they carried away captive the whole community, to deliver them up to Edom; 
 ^7^ but I will send a fire on the wall of Gaza, and it will devour its palaces. 
 ^8^ I will cut off the inhabitant from Ashdod, and him who holds the scepter from Ashkelon; and I will turn my hand against Ekron; and the remnant of the Philistines will perish,” 
@@ -16,12 +19,15 @@ says Yahweh.
 says the Lord^a^ Yahweh. 
 ^a^[**1:8** The word translated “Lord” is “Adonai.”]
 
+## Threat vs. Shot
 ^9^ Yahweh says: “For three transgressions of Tyre, yes, for four, I will not turn away its punishment; because they delivered up the whole community to Edom, and didn’t remember the brotherly covenant; 
-^10^ but I will send a fire on the wall of Tyre, and it will devour its palaces.” 
+^10^ but I will send a fire on the wall of Tyre, and it will devour its palaces.”
 
+## Threat against the Edomites
 ^11^ Yahweh says: “For three transgressions of Edom, yes, for four, I will not turn away its punishment, because he pursued his brother with the sword and cast off all pity, and his anger raged continually, and he kept his wrath forever; 
-^12^ but I will send a fire on Teman, and it will devour the palaces of Bozrah.” 
+^12^ but I will send a fire on Teman, and it will devour the palaces of Bozrah.”
 
+## Threat to the Ammonites
 ^13^ Yahweh says: “For three transgressions of the children of Ammon, yes, for four, I will not turn away its punishment, because they have ripped open the pregnant women of Gilead, that they may enlarge their border. 
 ^14^ But I will kindle a fire in the wall of Rabbah, and it will devour its palaces, with shouting in the day of battle, with a storm in the day of the whirlwind; 
 ^15^ and their king will go into captivity, he and his princes together,” 
@@ -29,15 +35,18 @@ says the Lord^a^ Yahweh.
 says Yahweh. 
 
 # 2 
+## Threat against the Moabites
 ^1^ Yahweh says: “For three transgressions of Moab, yes, for four, I will not turn away its punishment, because he burned the bones of the king of Edom into lime; 
 ^2^ but I will send a fire on Moab, and it will devour the palaces of Kerioth; and Moab will die with tumult, with shouting, and with the sound of the trumpet; 
 ^3^ and I will cut off the judge from among them, and will kill all its princes with him,” 
 
-says Yahweh. 
+says Yahweh.
 
+## Threat against Judah
 ^4^ Yahweh says: “For three transgressions of Judah, yes, for four, I will not turn away its punishment, because they have rejected Yahweh’s law, and have not kept his statutes, and their lies have led them astray, after which their fathers walked; 
-^5^ but I will send a fire on Judah, and it will devour the palaces of Jerusalem.” 
+^5^ but I will send a fire on Judah, and it will devour the palaces of Jerusalem.”
 
+## Threat against Israel
 ^6^ Yahweh says: “For three transgressions of Israel, yes, for four, I will not turn away its punishment, because they have sold the righteous for silver, and the needy for a pair of sandals; 
 ^7^ They trample the heads of the poor into the dust of the earth and deny justice to the oppressed. A man and his father use the same maiden, to profane my holy name. 
 ^8^ They lay themselves down beside every altar on clothes taken in pledge. In the house of their God^a^ they drink the wine of those who have been fined. 
@@ -54,14 +63,19 @@ says Yahweh.
 says Yahweh. 
 
 # 3 
+## Israel's responsibility as a result of their election to God's people
 ^1^ Hear this word that Yahweh has spoken against you, children of Israel, against the whole family which I brought up out of the land of Egypt, saying: 
-^2^ “I have only chosen you of all the families of the earth. Therefore I will punish you for all of your sins.” 
+^2^ “I have only chosen you of all the families of the earth. Therefore I will punish you for all of your sins.”
+
+## Amos speaks as a prophet for compelling reasons
 ^3^ Do two walk together, unless they have agreed? 
 ^4^ Will a lion roar in the thicket, when he has no prey? Does a young lion cry out of his den, if he has caught nothing? 
 ^5^ Can a bird fall in a trap on the earth, where no snare is set for him? Does a snare spring up from the ground, when there is nothing to catch? 
 ^6^ Does the trumpet alarm sound in a city, without the people being afraid? Does evil happen to a city, and Yahweh hasn’t done it? 
 ^7^ Surely the Lord Yahweh will do nothing, unless he reveals his secret to his servants the prophets. 
-^8^ The lion has roared. Who will not fear? The Lord Yahweh has spoken. Who can but prophesy? 
+^8^ The lion has roared. Who will not fear? The Lord Yahweh has spoken. Who can but prophesy?
+
+## Announcement of the destruction of the city of Samaria, which is plunged into exuberance and madness
 ^9^ Proclaim in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, “Assemble yourselves on the mountains of Samaria, and see what unrest is in her, and what oppression is among them.” 
 ^10^ “Indeed they don’t know to do right,” says Yahweh, “Who hoard plunder and loot in their palaces.” 
 
@@ -76,11 +90,16 @@ says Yahweh.
 says Yahweh. 
 
 # 4 
+## Threat against the exuberant women of Samaria
 ^1^ Listen to this word, you cows of Bashan, who are on the mountain of Samaria, who oppress the poor, who crush the needy, who tell their husbands, “Bring us drinks!” 
 ^2^ The Lord Yahweh has sworn by his holiness, “Behold, the days shall come on you that they will take you away with hooks, and the last of you with fish hooks. 
-^3^ You will go out at the breaks in the wall, everyone straight before her; and you will cast yourselves into Harmon,” says Yahweh. 
+^3^ You will go out at the breaks in the wall, everyone straight before her; and you will cast yourselves into Harmon,” says Yahweh.
+
+## Against the external and outrageous cult
 ^4^ “Go to Bethel, and sin; to Gilgal, and sin more. Bring your sacrifices every morning, your tithes every three days, 
-^5^ offer a sacrifice of thanksgiving of that which is leavened, and proclaim free will offerings and brag about them; for this pleases you, you children of Israel,” says the Lord Yahweh. 
+^5^ offer a sacrifice of thanksgiving of that which is leavened, and proclaim free will offerings and brag about them; for this pleases you, you children of Israel,” says the Lord Yahweh.
+
+## The useless punishments and warnings of God; extermination court notice
 ^6^ “I also have given you cleanness of teeth in all your cities, and lack of bread in every town; yet you haven’t returned to me,” says Yahweh. 
 ^7^ “I also have withheld the rain from you, when there were yet three months to the harvest; and I caused it to rain on one city, and caused it not to rain on another city. One field was rained on, and the field where it didn’t rain withered. 
 ^8^ So two or three cities staggered to one city to drink water, and were not satisfied; yet you haven’t returned to me,” says Yahweh. 
@@ -91,15 +110,19 @@ says Yahweh.
 ^13^ For, behold, he who forms the mountains, creates the wind, declares to man what is his thought, who makes the morning darkness, and treads on the high places of the earth: Yahweh, the God of Armies, is his name.” 
 
 # 5 
+## Amos begins the lament for the dead against Israel
 ^1^ Listen to this word which I take up for a lamentation over you, O house of Israel: 
 ^2^ “The virgin of Israel has fallen; She shall rise no more. She is cast down on her land; there is no one to raise her up.” 
 
-^3^ For the Lord Yahweh says: “The city that went out a thousand shall have a hundred left, and that which went out one hundred shall have ten left to the house of Israel.” 
+^3^ For the Lord Yahweh says: “The city that went out a thousand shall have a hundred left, and that which went out one hundred shall have ten left to the house of Israel.”
 
+## God's demands on the people and complaints about Israel's misbehavior
 ^4^ For Yahweh says to the house of Israel: “Seek me, and you will live; 
 ^5^ but don’t seek Bethel, nor enter into Gilgal, and don’t pass to Beersheba; for Gilgal shall surely go into captivity, and Bethel shall come to nothing. 
 ^6^ Seek Yahweh, and you will live, lest he break out like fire in the house of Joseph, and it devour, and there be no one to quench it in Bethel. 
-^7^ You who turn justice to wormwood, and cast down righteousness to the earth! 
+^7^ You who turn justice to wormwood, and cast down righteousness to the earth!
+
+## The terrible omnipotence of God and his call to penance
 ^8^ Seek him who made the Pleiades and Orion, and turns the shadow of death into the morning, and makes the day dark with night; who calls for the waters of the sea, and pours them out on the surface of the earth, Yahweh is his name, 
 ^9^ who brings sudden destruction on the strong, so that destruction comes on the fortress. 
 ^10^ They hate him who reproves in the gate, and they abhor him who speaks blamelessly. 
@@ -107,13 +130,18 @@ says Yahweh.
 ^12^ For I know how many are your offenses, and how great are your sins— you who afflict the just, who take a bribe, and who turn away the needy in the courts. 
 ^13^ Therefore a prudent person keeps silent in such a time, for it is an evil time. 
 ^14^ Seek good, and not evil, that you may live; and so Yahweh, the God of Armies, will be with you, as you say. 
-^15^ Hate evil, love good, and establish justice in the courts. It may be that Yahweh, the God of Armies, will be gracious to the remnant of Joseph.” 
+^15^ Hate evil, love good, and establish justice in the courts. It may be that Yahweh, the God of Armies, will be gracious to the remnant of Joseph.”
 
+## New lamentation for the imminent general death
 ^16^ Therefore Yahweh, the God of Armies, the Lord, says: “Wailing will be in all the wide ways. They will say in all the streets, ‘Alas! Alas!’ They will call the farmer to mourning, and those who are skillful in lamentation to wailing. 
-^17^ In all vineyards there will be wailing, for I will pass through the middle of you,” says Yahweh. 
+^17^ In all vineyards there will be wailing, for I will pass through the middle of you,” says Yahweh.
+
+## The Lord's day is a day of disaster
 ^18^ “Woe to you who desire the day of Yahweh! Why do you long for the day of Yahweh? It is darkness, and not light. 
 ^19^ As if a man fled from a lion, and a bear met him; or he went into the house and leaned his hand on the wall, and a snake bit him. 
-^20^ Won’t the day of Yahweh be darkness, and not light? Even very dark, and no brightness in it? 
+^20^ Won’t the day of Yahweh be darkness, and not light? Even very dark, and no brightness in it?
+
+## Outward piety and idolatry as the cause of the coming judgment
 ^21^ I hate, I despise your feasts, and I can’t stand your solemn assemblies. 
 ^22^ Yes, though you offer me your burnt offerings and meal offerings, I will not accept them; neither will I regard the peace offerings of your fat animals. 
 ^23^ Take away from me the noise of your songs! I will not listen to the music of your harps. 
@@ -124,13 +152,16 @@ says Yahweh.
 ^27^ Therefore I will cause you to go into captivity beyond Damascus,” says Yahweh, whose name is the God of Armies. 
 
 # 6 
+## The carefree life of the great proud and indulgent of Judah and Samaria defies divine judgment
 ^1^ Woe to those who are at ease in Zion, and to those who are secure on the mountain of Samaria, the notable men of the chief of the nations, to whom the house of Israel come! 
 ^2^ Go to Calneh, and see. From there go to Hamath the great. Then go down to Gath of the Philistines. Are they better than these kingdoms? Is their border greater than your border? 
 ^3^ Alas for you who put far away the evil day, and cause the seat of violence to come near, 
 ^4^ who lie on beds of ivory, and stretch themselves on their couches, and eat the lambs out of the flock, and the calves out of the middle of the stall, 
 ^5^ who strum on the strings of a harp, who invent for themselves instruments of music, like David; 
 ^6^ who drink wine in bowls, and anoint themselves with the best oils, but they are not grieved for the affliction of Joseph. 
-^7^ Therefore they will now go captive with the first who go captive. The feasting and lounging will end. 
+^7^ Therefore they will now go captive with the first who go captive. The feasting and lounging will end.
+
+## Three threats of calamity regarding Israel's moral corruption
 ^8^ “The Lord Yahweh has sworn by himself,” says Yahweh, the God of Armies: “I abhor the pride of Jacob, and detest his fortresses. Therefore I will deliver up the city with all that is in it. 
 ^9^ It will happen that if ten men remain in one house, they will die. 
 
@@ -141,6 +172,7 @@ says Yahweh.
 ^14^ For, behold, I will raise up against you a nation, house of Israel,” says Yahweh, the God of Armies; “and they will afflict you from the entrance of Hamath to the brook of the Arabah.” 
 
 # 7 
+## The first two threatening visions (locusts and drought)
 ^1^ Thus the Lord Yahweh showed me: behold, he formed locusts in the beginning of the shooting up of the latter growth; and behold, it was the latter growth after the king’s harvest. 
 ^2^ When they finished eating the grass of the land, then I said, “Lord Yahweh, forgive, I beg you! How could Jacob stand? For he is small.” 
 
@@ -149,16 +181,18 @@ says Yahweh.
 ^4^ Thus the Lord Yahweh showed me: behold, the Lord Yahweh called for judgment by fire; and it dried up the great deep, and would have devoured the land. 
 ^5^ Then I said, “Lord Yahweh, stop, I beg you! How could Jacob stand? For he is small.” 
 
-^6^ Yahweh relented concerning this. “This also shall not be,” says the Lord Yahweh. 
+^6^ Yahweh relented concerning this. “This also shall not be,” says the Lord Yahweh.
 
+## Lead or lead solder: the end of divine longsuffering
 ^7^ Thus he showed me: behold, the Lord stood beside a wall made by a plumb line, with a plumb line in his hand. 
 ^8^ Yahweh said to me, “Amos, what do you see?” 
 
 I said, “A plumb line.” 
 
 Then the Lord said, “Behold, I will set a plumb line in the middle of my people Israel. I will not again pass by them any more. 
-^9^ The high places of Isaac will be desolate, the sanctuaries of Israel will be laid waste; and I will rise against the house of Jeroboam with the sword.” 
+^9^ The high places of Isaac will be desolate, the sanctuaries of Israel will be laid waste; and I will rise against the house of Jeroboam with the sword.”
 
+## Report on the expulsion of Amos from Bethel
 ^10^ Then Amaziah the priest of Bethel sent to Jeroboam king of Israel, saying, “Amos has conspired against you in the middle of the house of Israel. The land is not able to bear all his words. 
 ^11^ For Amos says, ‘Jeroboam will die by the sword, and Israel shall surely be led away captive out of his land.’” 
 
@@ -171,6 +205,7 @@ Then the Lord said, “Behold, I will set a plumb line in the middle of my peopl
 ^17^ Therefore Yahweh says: ‘Your wife shall be a prostitute in the city, and your sons and your daughters shall fall by the sword, and your land shall be divided by line; and you yourself shall die in a land that is unclean, and Israel shall surely be led away captive out of his land.’” 
 
 # 8 
+## The vision of the basket of ripe fruits
 ^1^ Thus the Lord Yahweh showed me: behold, a basket of summer fruit. 
 
 ^2^ He said, “Amos, what do you see?” 
@@ -178,12 +213,16 @@ Then the Lord said, “Behold, I will set a plumb line in the middle of my peopl
 I said, “A basket of summer fruit.” 
 
 Then Yahweh said to me, “The end has come on my people Israel. I will not again pass by them any more. 
-^3^ The songs of the temple will be wailing in that day,” says the Lord Yahweh. “The dead bodies will be many. In every place they will throw them out with silence. 
+^3^ The songs of the temple will be wailing in that day,” says the Lord Yahweh. “The dead bodies will be many. In every place they will throw them out with silence.
+
+## Threat against usurious grain merchants
 ^4^ Hear this, you who desire to swallow up the needy, and cause the poor of the land to fail, 
 ^5^ saying, ‘When will the new moon be gone, that we may sell grain? And the Sabbath, that we may market wheat, making the ephah^a^ small, and the shekel^b^ large, and dealing falsely with balances of deceit; 
 ^6^ that we may buy the poor for silver, and the needy for a pair of sandals, and sell the sweepings with the wheat?’” 
 ^7^ Yahweh has sworn by the pride of Jacob, “Surely I will never forget any of their works. 
-^8^ Won’t the land tremble for this, and everyone mourn who dwells in it? Yes, it will rise up wholly like the River; and it will be stirred up and sink again, like the River of Egypt. 
+^8^ Won’t the land tremble for this, and everyone mourn who dwells in it? Yes, it will rise up wholly like the River; and it will be stirred up and sink again, like the River of Egypt.
+
+## Announcement of divine punishments, solar eclipses, mourning, abandoned by God in dire need
 ^9^ It will happen in that day,” says the Lord Yahweh, “that I will cause the sun to go down at noon, and I will darken the earth in the clear day. 
 ^10^ I will turn your feasts into mourning, and all your songs into lamentation; and I will make you wear sackcloth on all your bodies, and baldness on every head. I will make it like the mourning for an only son, and its end like a bitter day. 
 ^11^ Behold, the days come,” says the Lord Yahweh, “that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing Yahweh’s words. 
@@ -193,18 +232,23 @@ Then Yahweh said to me, “The end has come on my people Israel. I will not agai
 ^a^[**8:5** 1 ephah is about 22 liters or about 2/3 of a bushel ] ^b^[**8:5** a normal shekel is about 10 grams or about 0.35 ounces.] 
 
 # 9 
+## The Lord at the altar, regarding the destruction of the sanctuary at Bethel and the inescapability of the coming judgment
 ^1^ I saw the Lord standing beside the altar, and he said, “Strike the tops of the pillars, that the thresholds may shake. Break them in pieces on the head of all of them. I will kill the last of them with the sword. Not one of them will flee away. Not one of them will escape. 
 ^2^ Though they dig into Sheol,^a^ there my hand will take them; and though they climb up to heaven, there I will bring them down. 
 ^3^ Though they hide themselves in the top of Carmel, I will search and take them out from there; and though they be hidden from my sight in the bottom of the sea, there I will command the serpent, and it will bite them. 
 ^4^ Though they go into captivity before their enemies, there I will command the sword, and it will kill them. I will set my eyes on them for evil, and not for good. 
 ^5^ For the Lord, Yahweh of Armies, is he who touches the land and it melts, and all who dwell in it will mourn; and it will rise up wholly like the River, and will sink again, like the River of Egypt. 
 ^6^ It is he who builds his rooms in the heavens, and has founded his vault on the earth; he who calls for the waters of the sea, and pours them out on the surface of the earth—Yahweh is his name. 
-^7^ Are you not like the children of the Ethiopians to me, children of Israel?” says Yahweh. “Haven’t I brought up Israel out of the land of Egypt, and the Philistines from Caphtor, and the Syrians from Kir? 
+^7^ Are you not like the children of the Ethiopians to me, children of Israel?” says Yahweh. “Haven’t I brought up Israel out of the land of Egypt, and the Philistines from Caphtor, and the Syrians from Kir?
+
+## The sighting of people; the restoration of the old Kingdom of David
 ^8^ Behold, the eyes of the Lord Yahweh are on the sinful kingdom, and I will destroy it from off the surface of the earth, except that I will not utterly destroy the house of Jacob,” says Yahweh. 
 ^9^ “For behold, I will command, and I will sift the house of Israel among all the nations as grain is sifted in a sieve, yet not the least kernel will fall on the earth. 
 ^10^ All the sinners of my people will die by the sword, who say, ‘Evil won’t overtake nor meet us.’ 
 ^11^ In that day I will raise up the tent of David who is fallen and close up its breaches, and I will raise up its ruins, and I will build it as in the days of old, 
-^12^ that they may possess the remnant of Edom and all the nations who are called by my name,” says Yahweh who does this. 
+^12^ that they may possess the remnant of Edom and all the nations who are called by my name,” says Yahweh who does this.
+
+## The glory of the future dispensation
 ^13^ “Behold, the days come,” says Yahweh, “that the plowman shall overtake the reaper, and the one treading grapes him who sows seed; and sweet wine will drip from the mountains, and flow from the hills. 
 ^14^ I will bring my people Israel back from captivity, and they will rebuild the ruined cities, and inhabit them; and they will plant vineyards, and drink wine from them. They shall also make gardens, and eat their fruit. 
 ^15^ I will plant them on their land, and they will no more be plucked up out of their land which I have given them,” says Yahweh your God. 

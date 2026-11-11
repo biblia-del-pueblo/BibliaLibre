@@ -1,4 +1,5 @@
 # 1 
+## The Lord, God of vengeance and grace, appears at the judgment of Nineveh
 ^1^ A revelation about Nineveh. The book of the vision of Nahum the Elkoshite. 
 ^2^ Yahweh^a^ is a jealous God^b^ and avenges. Yahweh avenges and is full of wrath. Yahweh takes vengeance on his adversaries, and he maintains wrath against his enemies. 
 ^3^ Yahweh is slow to anger, and great in power, and will by no means leave the guilty unpunished. Yahweh has his way in the whirlwind and in the storm, and the clouds are the dust of his feet. 
@@ -12,6 +13,7 @@
 ^11^ One has gone out of you who devises evil against Yahweh, who counsels wickedness. 
 ^a^[**1:2** “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.] ^b^[**1:2** The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).]
 
+## The threat to Assyria and the proclamation of the salvation of Judah
 ^12^ Yahweh says: “Though they are in full strength and likewise many, even so they will be cut down and pass away. Though I have afflicted you, I will afflict you no more. 
 ^13^ Now I will break his yoke from off you, and will burst your bonds apart.” 
 
@@ -21,6 +23,7 @@
 ^a^[**1:15** “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.] 
 
 # 2 
+## Siege and destruction of Nineveh as a result of divine judgment
 ^1^ He who dashes in pieces has come up against you. Keep the fortress! Watch the way! Strengthen your waist! Fortify your power mightily! 
 
 ^2^ For Yahweh restores the excellency of Jacob as the excellency of Israel, for the destroyers have destroyed them and ruined their vine branches. 
@@ -38,14 +41,16 @@
 ^13^ “Behold, I am against you,” says Yahweh of Armies, “and I will burn her chariots in the smoke, and the sword will devour your young lions; and I will cut off your prey from the earth, and the voice of your messengers will no longer be heard.” 
 
 # 3 
+## The sins and punishment of the cosmopolitan city of Nineveh: a cry of woe and a song of mockery
 ^1^ Woe to the bloody city! It is all full of lies and robbery—no end to the prey. 
 ^2^ The noise of the whip, the noise of the rattling of wheels, prancing horses, and bounding chariots, 
 ^3^ the horseman charging, and the flashing sword, the glittering spear, and a multitude of slain, and a great heap of corpses, and there is no end of the bodies. They stumble on their bodies 
 ^4^ because of the multitude of the prostitution of the alluring prostitute, the mistress of witchcraft, who sells nations through her prostitution, and families through her witchcraft. 
 ^5^ “Behold, I am against you,” says Yahweh of Armies, “and I will lift your skirts over your face. I will show the nations your nakedness, and the kingdoms your shame. 
 ^6^ I will throw abominable filth on you and make you vile, and will make you a spectacle. 
-^7^ It will happen that all those who look at you will flee from you, and say, ‘Nineveh is laid waste! Who will mourn for her?’ Where will I seek comforters for you?” 
+^7^ It will happen that all those who look at you will flee from you, and say, ‘Nineveh is laid waste! Who will mourn for her?’ Where will I seek comforters for you?”
 
+## The fall of the city is inevitable
 ^8^ Are you better than No-Amon,^a^ who was situated among the rivers,^b^ who had the waters around her, whose rampart was the sea, and her wall was of the sea? 
 ^9^ Cush and Egypt were her boundless strength. Put and Libya were her helpers. 
 ^10^ Yet was she carried away. She went into captivity. Her young children also were dashed in pieces at the head of all the streets, and they cast lots for her honorable men, and all her great men were bound in chains. 
@@ -57,7 +62,8 @@
 ^14^ Draw water for the siege. Strengthen your fortresses. Go into the clay, and tread the mortar. Make the brick kiln strong. 
 ^15^ There the fire will devour you. The sword will cut you off. It will devour you like the grasshopper. Multiply like grasshoppers. Multiply like the locust. 
 ^16^ You have increased your merchants more than the stars of the skies. The grasshopper strips and flees away. 
-^17^ Your guards are like the locusts, and your officials like the swarms of locusts, which settle on the walls on a cold day, but when the sun appears, they flee away, and their place is not known where they are. 
+^17^ Your guards are like the locusts, and your officials like the swarms of locusts, which settle on the walls on a cold day, but when the sun appears, they flee away, and their place is not known where they are.
 
+## A dirge in Nineveh
 ^18^ Your shepherds slumber, king of Assyria. Your nobles lie down. Your people are scattered on the mountains, and there is no one to gather them. 
 ^19^ There is no healing your wound, for your injury is fatal. All who hear the report of you clap their hands over you, for who hasn’t felt your endless cruelty? 

@@ -1,4 +1,5 @@
 # 1 
+## Sulammith's inner dialogue and his longing for love
 ^1^ The Song of songs, which is Solomon’s. \
 *Beloved* \
  
@@ -8,13 +9,19 @@
 *Friends* \
  We will be glad and rejoice in you. We will praise your love more than wine! \
 *Beloved* \
- They are right to love you. 
+ They are right to love you.
+
+## Girl at risk beauty complaint
 ^5^ I am dark, but lovely, you daughters of Jerusalem, like Kedar’s tents, like Solomon’s curtains. 
-^6^ Don’t stare at me because I am dark, because the sun has scorched me. My mother’s sons were angry with me. They made me keeper of the vineyards. I haven’t kept my own vineyard. 
+^6^ Don’t stare at me because I am dark, because the sun has scorched me. My mother’s sons were angry with me. They made me keeper of the vineyards. I haven’t kept my own vineyard.
+
+## Girlfriend request for a date
 ^7^ Tell me, you whom my soul loves, where you graze your flock, where you rest them at noon; for why should I be as one who is veiled beside the flocks of your companions? \
 *Lover* \
  
-^8^ If you don’t know, most beautiful among women, follow the tracks of the sheep. Graze your young goats beside the shepherds’ tents. 
+^8^ If you don’t know, most beautiful among women, follow the tracks of the sheep. Graze your young goats beside the shepherds’ tents.
+
+## Sweet talk of love
 ^9^ I have compared you, my love, to a steed in Pharaoh’s chariots. 
 ^10^ Your cheeks are beautiful with earrings, your neck with strings of jewels. \
 *Friends* \
@@ -37,10 +44,10 @@
 ^a^[**1:15** “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.] 
 
 # 2 
+## Songs and engagement
 *\
 *Beloved* \* \
 
- 
 ^1^ I am a rose of Sharon, a lily of the valleys. \
 *Lover* \
  
@@ -51,7 +58,9 @@
 ^4^ He brought me to the banquet hall. His banner over me is love. 
 ^5^ Strengthen me with raisins, refresh me with apples; for I am faint with love. 
 ^6^ His left hand is under my head. His right hand embraces me. 
-^7^ I adjure you, daughters of Jerusalem, by the roes, or by the hinds of the field, that you not stir up, nor awaken love, until it so desires. 
+^7^ I adjure you, daughters of Jerusalem, by the roes, or by the hinds of the field, that you not stir up, nor awaken love, until it so desires.
+
+## Spring love
 ^8^ The voice of my beloved! Behold, he comes, leaping on the mountains, skipping on the hills. 
 ^9^ My beloved is like a roe or a young deer. Behold, he stands behind our wall! He looks in at the windows. He glances through the lattice. 
 ^10^ My beloved spoke, and said to me, “Rise up, my love, my beautiful one, and come away. 
@@ -60,7 +69,9 @@
 ^13^ The fig tree ripens her green figs. The vines are in blossom. They give out their fragrance. Arise, my love, my beautiful one, and come away.” \
 *Lover* \
  
-^14^ My dove in the clefts of the rock, in the hiding places of the mountainside, let me see your face. Let me hear your voice; for your voice is sweet and your face is lovely. 
+^14^ My dove in the clefts of the rock, in the hiding places of the mountainside, let me see your face. Let me hear your voice; for your voice is sweet and your face is lovely.
+
+## Two sighs of love from the bride
 ^15^ Catch for us the foxes, the little foxes that plunder the vineyards; for our vineyards are in blossom. \
 *Beloved* \
  
@@ -68,11 +79,14 @@
 ^17^ Until the day is cool, and the shadows flee away, turn, my beloved, and be like a roe or a young deer on the mountains of Bether. 
 
 # 3 
+## Longing dream of the bride
 ^1^ By night on my bed, I sought him whom my soul loves. I sought him, but I didn’t find him. 
 ^2^ I will get up now, and go about the city; in the streets and in the squares I will seek him whom my soul loves. I sought him, but I didn’t find him. 
 ^3^ The watchmen who go about the city found me; “Have you seen him whom my soul loves?” 
 ^4^ I had scarcely passed from them, when I found him whom my soul loves. I held him, and would not let him go, until I had brought him into my mother’s house, into the room of her who conceived me. 
-^5^ I adjure you, daughters of Jerusalem, by the roes, or by the hinds of the field, that you not stir up nor awaken love, until it so desires. 
+^5^ I adjure you, daughters of Jerusalem, by the roes, or by the hinds of the field, that you not stir up nor awaken love, until it so desires.
+
+## The groom's wedding procession
 ^6^ Who is this who comes up from the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all spices of the merchant? 
 ^7^ Behold, it is Solomon’s carriage! Sixty mighty men are around it, of the mighty men of Israel. 
 ^8^ They all handle the sword, and are expert in war. Every man has his sword on his thigh, because of fear in the night. 
@@ -81,10 +95,9 @@
 ^11^ Go out, you daughters of Zion, and see King Solomon, with the crown with which his mother has crowned him, in the day of his weddings, in the day of the gladness of his heart. 
 
 # 4 
+## Description of the bride by the groom
 *\
 *Lover* \* \
-
- 
 
 ^1^ Behold, you are beautiful, my love. Behold, you are beautiful. Your eyes are like doves behind your veil. Your hair is as a flock of goats, that descend from Mount Gilead. 
 ^2^ Your teeth are like a newly shorn flock, which have come up from the washing, where every one of them has twins. None is bereaved among them. 
@@ -92,11 +105,15 @@
 ^4^ Your neck is like David’s tower built for an armory, on which a thousand shields hang, all the shields of the mighty men. 
 ^5^ Your two breasts are like two fawns that are twins of a roe, which feed among the lilies. 
 ^6^ Until the day is cool, and the shadows flee away, I will go to the mountain of myrrh, to the hill of frankincense. 
-^7^ You are all beautiful, my love. There is no spot in you. 
+^7^ You are all beautiful, my love. There is no spot in you.
+
+## Wedding
 ^8^ Come with me from Lebanon, my bride, with me from Lebanon. Look from the top of Amana, from the top of Senir and Hermon, from the lions’ dens, from the mountains of the leopards. 
 ^9^ You have ravished my heart, my sister, my bride. You have ravished my heart with one of your eyes, with one chain of your neck. 
 ^10^ How beautiful is your love, my sister, my bride! How much better is your love than wine, the fragrance of your perfumes than all kinds of spices! 
-^11^ Your lips, my bride, drip like the honeycomb. Honey and milk are under your tongue. The smell of your garments is like the smell of Lebanon. 
+^11^ Your lips, my bride, drip like the honeycomb. Honey and milk are under your tongue. The smell of your garments is like the smell of Lebanon.
+
+## Comparison of the bride's wife with a wonderful garden
 ^12^ My sister, my bride, is a locked up garden; a locked up spring, a sealed fountain. 
 ^13^ Your shoots are an orchard of pomegranates, with precious fruits, henna with spikenard plants, 
 ^14^ spikenard and saffron, calamus and cinnamon, with every kind of incense tree; myrrh and aloes, with all the best spices, 
@@ -106,21 +123,24 @@
 ^16^ Awake, north wind, and come, you south! Blow on my garden, that its spices may flow out. Let my beloved come into his garden, and taste his precious fruits. 
 
 # 5 
+## The young husband takes possession of his garden; the wedding party
 *\
 *Lover* \* \
 
- 
 ^1^ I have come into my garden, my sister, my bride. I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk. \
 *Friends* \
  Eat, friends! Drink, yes, drink abundantly, beloved. \
 *Beloved* \
- 
+
+## Besuch des Bräutigams
 ^2^ I was asleep, but my heart was awake. It is the voice of my beloved who knocks: “Open to me, my sister, my love, my dove, my undefiled; for my head is filled with dew, and my hair with the dampness of the night.” 
 ^3^ I have taken off my robe. Indeed, must I put it on? I have washed my feet. Indeed, must I soil them? 
 ^4^ My beloved thrust his hand in through the latch opening. My heart pounded for him. 
 ^5^ I rose up to open for my beloved. My hands dripped with myrrh, my fingers with liquid myrrh, on the handles of the lock. 
 ^6^ I opened to my beloved; but my beloved left, and had gone away. My heart went out when he spoke. I looked for him, but I didn’t find him. I called him, but he didn’t answer. 
-^7^ The watchmen who go about the city found me. They beat me. They bruised me. The keepers of the walls took my cloak away from me. 
+^7^ The watchmen who go about the city found me. They beat me. They bruised me. The keepers of the walls took my cloak away from me.
+
+## Description of the groom by the bride
 ^8^ I adjure you, daughters of Jerusalem, If you find my beloved, that you tell him that I am faint with love. \
 *Friends* \
  
@@ -139,20 +159,22 @@
 *\
 *Friends* \* \
 
- 
 ^1^ Where has your beloved gone, you fairest among women? Where has your beloved turned, that we may seek him with you? \
 *Beloved* \
  
 ^2^ My beloved has gone down to his garden, to the beds of spices, to pasture his flock in the gardens, and to gather lilies. 
 ^3^ I am my beloved’s, and my beloved is mine. He browses among the lilies. \
 *Lover* \
- 
+
+## Description of the bride by the groom
 ^4^ You are beautiful, my love, as Tirzah, lovely as Jerusalem, awesome as an army with banners. 
 ^5^ Turn away your eyes from me, for they have overcome me. Your hair is like a flock of goats, that lie along the side of Gilead. 
 ^6^ Your teeth are like a flock of ewes, which have come up from the washing, of which every one has twins; not one is bereaved among them. 
 ^7^ Your temples are like a piece of a pomegranate behind your veil. 
 ^8^ There are sixty queens, eighty concubines, and virgins without number. 
-^9^ My dove, my perfect one, is unique. She is her mother’s only daughter. She is the favorite one of her who bore her. The daughters saw her, and called her blessed. The queens and the concubines saw her, and they praised her. 
+^9^ My dove, my perfect one, is unique. She is her mother’s only daughter. She is the favorite one of her who bore her. The daughters saw her, and called her blessed. The queens and the concubines saw her, and they praised her.
+
+## The wedding procession
 ^10^ Who is she who looks out as the morning, beautiful as the moon, clear as the sun, and awesome as an army with banners? 
 ^11^ I went down into the nut tree grove, to see the green plants of the valley, to see whether the vine budded, and the pomegranates were in flower. 
 ^12^ Without realizing it, my desire set me with my royal people’s chariots. \
@@ -163,41 +185,50 @@
  Why do you desire to gaze at the Shulammite, as at the dance of Mahanaim? 
 
 # 7 
+## Description of the bride's dance; praise her beauty
 ^1^ How beautiful are your feet in sandals, prince’s daughter! Your rounded thighs are like jewels, the work of the hands of a skillful workman. 
 ^2^ Your body is like a round goblet, no mixed wine is wanting. Your waist is like a heap of wheat, set about with lilies. 
 ^3^ Your two breasts are like two fawns, that are twins of a roe. 
 ^4^ Your neck is like an ivory tower. Your eyes are like the pools in Heshbon by the gate of Bathrabbim. Your nose is like the tower of Lebanon which looks toward Damascus. 
 ^5^ Your head on you is like Carmel. The hair of your head like purple. The king is held captive in its tresses. 
-^6^ How beautiful and how pleasant you are, love, for delights! 
+^6^ How beautiful and how pleasant you are, love, for delights!
+
+## The groom praises the bride
 ^7^ This, your stature, is like a palm tree, your breasts like its fruit. 
 ^8^ I said, “I will climb up into the palm tree. I will take hold of its fruit.” Let your breasts be like clusters of the vine, the smell of your breath like apples. 
 ^9^ Your mouth is like the best wine, that goes down smoothly for my beloved, gliding through the lips of those who are asleep. \
 *Beloved* \
- 
+
+## In the homeland of the wife
 ^10^ I am my beloved’s. His desire is toward me. 
 ^11^ Come, my beloved! Let’s go out into the field. Let’s lodge in the villages. 
 ^12^ Let’s go early up to the vineyards. Let’s see whether the vine has budded, its blossom is open, and the pomegranates are in flower. There I will give you my love. 
 ^13^ The mandrakes produce fragrance. At our doors are all kinds of precious fruits, new and old, which I have stored up for you, my beloved. 
 
 # 8 
+## Lover and brother
 ^1^ Oh that you were like my brother, who nursed from the breasts of my mother! If I found you outside, I would kiss you; yes, and no one would despise me. 
 ^2^ I would lead you, bringing you into the house of my mother, who would instruct me. I would have you drink spiced wine, of the juice of my pomegranate. 
 ^3^ His left hand would be under my head. His right hand would embrace me. 
 ^4^ I adjure you, daughters of Jerusalem, that you not stir up, nor awaken love, until it so desires. \
 *Friends* \
- 
+
+## At the destination in the house of the husband
 ^5^ Who is this who comes up from the wilderness, leaning on her beloved? \
 *Beloved* \
  Under the apple tree I awakened you. There your mother conceived you. There she was in labor and bore you. 
 ^6^ Set me as a seal on your heart, as a seal on your arm; for love is strong as death. Jealousy is as cruel as Sheol.^a^ Its flashes are flashes of fire, a very flame of Yahweh.^b^ 
 ^7^ Many waters can’t quench love, neither can floods drown it. If a man would give all the wealth of his house for love, he would be utterly scorned. \
 *Brothers* \
- 
+
+## Song of the little sister who foiled the greedy brothers' plans
 ^8^ We have a little sister. She has no breasts. What shall we do for our sister in the day when she is to be spoken for? 
 ^9^ If she is a wall, we will build on her a turret of silver. If she is a door, we will enclose her with boards of cedar. \
 *Beloved* \
  
-^10^ I am a wall, and my breasts like towers, then I was in his eyes like one who found peace. 
+^10^ I am a wall, and my breasts like towers, then I was in his eyes like one who found peace.
+
+## Song of the two vineyards
 ^11^ Solomon had a vineyard at Baal Hamon. He leased out the vineyard to keepers. Each was to bring a thousand shekels^c^ of silver for its fruit. 
 ^12^ My own vineyard is before me. The thousand are for you, Solomon, two hundred for those who tend its fruit. \
 *Lover* \

@@ -1,4 +1,5 @@
 # 1 
+## The invitation to build the temple along with an indication of its success
 ^1^ In the second year of Darius the king, in the sixth month, in the first day of the month, Yahweh’s^a^ word came by Haggai the prophet, to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest, saying, 
 ^2^ “This is what Yahweh of Armies says: These people say, ‘The time hasn’t yet come, the time for Yahweh’s house to be built.’” 
 ^a^[**1:1** “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.]
@@ -24,6 +25,7 @@
 ^15^ in the twenty-fourth day of the month, in the sixth month, in the second year of Darius the king. 
 
 # 2 
+## The promise of the future glory of the new temple
 ^1^ In the seventh month, in the twenty-first day of the month, Yahweh’s word came by Haggai the prophet, saying, 
 ^2^ “Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest, and to the remnant of the people, saying, 
 ^3^ ‘Who is left among you who saw this house in its former glory? How do you see it now? Isn’t it in your eyes as nothing? 
@@ -32,8 +34,9 @@
 ^6^ For this is what Yahweh of Armies says: ‘Yet once more, it is a little while, and I will shake the heavens, the earth, the sea, and the dry land; 
 ^7^ and I will shake all nations. The treasure of all nations will come, and I will fill this house with glory, says Yahweh of Armies. 
 ^8^ The silver is mine, and the gold is mine,’ says Yahweh of Armies. 
-^9^ ‘The latter glory of this house will be greater than the former,’ says Yahweh of Armies; ‘and in this place I will give peace,’ says Yahweh of Armies.” 
+^9^ ‘The latter glory of this house will be greater than the former,’ says Yahweh of Armies; ‘and in this place I will give peace,’ says Yahweh of Armies.”
 
+## The filthy people and the filth of the victims
 ^10^ In the twenty-fourth day of the ninth month, in the second year of Darius, Yahweh’s word came by Haggai the prophet, saying, 
 ^11^ “Yahweh of Armies says: Ask now the priests concerning the law, saying, 
 ^12^ ‘If someone carries holy meat in the fold of his garment, and with his fold touches bread, stew, wine, oil, or any food, will it become holy?’” 
@@ -44,13 +47,16 @@ The priests answered, “No.”
 
 The priests answered, “It will be unclean.” 
 
-^14^ Then Haggai answered, “‘So is this people, and so is this nation before me,’ says Yahweh; ‘and so is every work of their hands. That which they offer there is unclean. 
+^14^ Then Haggai answered, “‘So is this people, and so is this nation before me,’ says Yahweh; ‘and so is every work of their hands. That which they offer there is unclean.
+
+## Reference to the blessing that will surely come with the construction of the temple
 ^15^ Now, please consider from this day and backward, before a stone was laid on a stone in Yahweh’s temple. 
 ^16^ Through all that time, when one came to a heap of twenty measures, there were only ten. When one came to the wine vat to draw out fifty, there were only twenty. 
 ^17^ I struck you with blight, mildew, and hail in all the work of your hands; yet you didn’t turn to me,’ says Yahweh. 
 ^18^ ‘Consider, please, from this day and backward, from the twenty-fourth day of the ninth month, since the day that the foundation of Yahweh’s temple was laid, consider it. 
-^19^ Is the seed yet in the barn? Yes, the vine, the fig tree, the pomegranate, and the olive tree haven’t produced. From today I will bless you.’” 
+^19^ Is the seed yet in the barn? Yes, the vine, the fig tree, the pomegranate, and the olive tree haven’t produced. From today I will bless you.’”
 
+## The fall of pagan kingdoms and the promise of Zerubbabel's exaltation
 ^20^ Yahweh’s word came the second time to Haggai in the twenty-fourth day of the month, saying, 
 ^21^ “Speak to Zerubbabel, governor of Judah, saying, ‘I will shake the heavens and the earth. 
 ^22^ I will overthrow the throne of kingdoms. I will destroy the strength of the kingdoms of the nations. I will overthrow the chariots and those who ride in them. The horses and their riders will come down, everyone by the sword of his brother. 

@@ -1,11 +1,14 @@
 # 1 
+## Indication of the purpose of the writes
 ^1^ The proverbs of Solomon, the son of David, king of Israel: 
 ^2^ to know wisdom and instruction; to discern the words of understanding; 
 ^3^ to receive instruction in wise dealing, in righteousness, justice, and equity; 
 ^4^ to give prudence to the simple, knowledge and discretion to the young man— 
 ^5^ that the wise man may hear, and increase in learning; that the man of understanding may attain to sound counsel; 
 ^6^ to understand a proverb and parables, the words and riddles of the wise. 
-^7^ The fear of Yahweh^a^ is the beginning of knowledge, but the foolish despise wisdom and instruction. 
+^7^ The fear of Yahweh^a^ is the beginning of knowledge, but the foolish despise wisdom and instruction.
+
+## Invitation to voluntary obedience; Warning against seduction, especially before engaging in acts of violence
 ^8^ My son, listen to your father’s instruction, and don’t forsake your mother’s teaching; 
 ^9^ for they will be a garland to grace your head, and chains around your neck. 
 ^10^ My son, if sinners entice you, don’t consent. 
@@ -17,7 +20,9 @@
 ^16^ for their feet run to evil. They hurry to shed blood. 
 ^17^ For the net is spread in vain in the sight of any bird; 
 ^18^ but these lay in wait for their own blood. They lurk secretly for their own lives. 
-^19^ So are the ways of everyone who is greedy for gain. It takes away the life of its owners. 
+^19^ So are the ways of everyone who is greedy for gain. It takes away the life of its owners.
+
+## Wisdom's call to willingly obey her commandments; Threats to the Reluctant
 ^20^ Wisdom calls aloud in the street. She utters her voice in the public squares. 
 ^21^ She calls at the head of noisy places. At the entrance of the city gates, she utters her words: 
 ^22^ “How long, you simple ones, will you love simplicity? How long will mockers delight themselves in mockery, and fools hate knowledge? 
@@ -35,6 +40,7 @@
 ^a^[**1:7** “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.] ^b^[**1:12** Sheol is the place of the dead.] ^c^[**1:23** “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.] 
 
 # 2 
+## The blessings of diligently seeking wisdom
 ^1^ My son, if you will receive my words, and store up my commandments within you, 
 ^2^ so as to turn your ear to wisdom, and apply your heart to understanding; 
 ^3^ yes, if you call out for discernment, and lift up your voice for understanding; 
@@ -60,6 +66,7 @@
 ^a^[**2:5** The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).] 
 
 # 3 
+## Warnings about the fear of God and moral behavior with reference to the expected reward
 ^1^ My son, don’t forget my teaching, but let your heart keep my commandments, 
 ^2^ for they will add to you length of days, years of life, and peace. 
 ^3^ Don’t let kindness and truth forsake you. Bind them around your neck. Write them on the tablet of your heart. 
@@ -71,7 +78,9 @@
 ^9^ Honor Yahweh with your substance, with the first fruits of all your increase; 
 ^10^ so your barns will be filled with plenty, and your vats will overflow with new wine. 
 ^11^ My son, don’t despise Yahweh’s discipline, neither be weary of his correction; 
-^12^ for whom Yahweh loves, he corrects, even as a father reproves the son in whom he delights. 
+^12^ for whom Yahweh loves, he corrects, even as a father reproves the son in whom he delights.
+
+## Courage and blessing of wisdom
 ^13^ Happy is the man who finds wisdom, the man who gets understanding. 
 ^14^ For her good profit is better than getting silver, and her return is better than fine gold. 
 ^15^ She is more precious than rubies. None of the things you can desire are to be compared to her. 
@@ -85,7 +94,9 @@
 ^23^ Then you shall walk in your way securely. Your foot won’t stumble. 
 ^24^ When you lie down, you will not be afraid. Yes, you will lie down, and your sleep will be sweet. 
 ^25^ Don’t be afraid of sudden fear, neither of the desolation of the wicked, when it comes; 
-^26^ for Yahweh will be your confidence, and will keep your foot from being taken. 
+^26^ for Yahweh will be your confidence, and will keep your foot from being taken.
+
+## Warnings against lack of love towards others and against violence
 ^27^ Don’t withhold good from those to whom it is due, when it is in the power of your hand to do it. 
 ^28^ Don’t say to your neighbor, “Go, and come again; tomorrow I will give it to you,” when you have it by you. 
 ^29^ Don’t devise evil against your neighbor, since he dwells securely by you. 
@@ -97,6 +108,7 @@
 ^35^ The wise will inherit glory, but shame will be the promotion of fools. 
 
 # 4 
+## Parental exhortation to seek wisdom and obey its teachings
 ^1^ Listen, sons, to a father’s instruction. Pay attention and know understanding; 
 ^2^ for I give you sound learning. Don’t forsake my law. 
 ^3^ For I was a son to my father, tender and an only child in the sight of my mother. 
@@ -126,6 +138,7 @@
 ^27^ Don’t turn to the right hand nor to the left. Remove your foot from evil. 
 
 # 5 
+## Warning against intercourse with adulteresses; Praise of married life
 ^1^ My son, pay attention to my wisdom. Turn your ear to my understanding, 
 ^2^ that you may maintain discretion, that your lips may preserve knowledge. 
 ^3^ For the lips of an adulteress drip honey. Her mouth is smoother than oil, 
@@ -152,6 +165,7 @@
 ^a^[**5:5** Sheol is the place of the dead. ] 
 
 # 6 
+## Warnings about security, indolence, falsehood and all ungodly beings
 ^1^ My son, if you have become collateral for your neighbor, if you have struck your hands in pledge for a stranger, 
 ^2^ you are trapped by the words of your mouth; you are ensnared with the words of your mouth. 
 ^3^ Do this now, my son, and deliver yourself, since you have come into the hand of your neighbor. Go, humble yourself. Press your plea with your neighbor. 
@@ -170,7 +184,9 @@
 ^16^ There are six things which Yahweh hates; yes, seven which are an abomination to him: 
 ^17^ arrogant eyes, a lying tongue, hands that shed innocent blood, 
 ^18^ a heart that devises wicked schemes, feet that are swift in running to mischief, 
-^19^ a false witness who utters lies, and he who sows discord among brothers. 
+^19^ a false witness who utters lies, and he who sows discord among brothers.
+
+## Another warning against intercourse with adulteresses
 ^20^ My son, keep your father’s commandment, and don’t forsake your mother’s teaching. 
 ^21^ Bind them continually on your heart. Tie them around your neck. 
 ^22^ When you walk, it will lead you. When you sleep, it will watch over you. When you awake, it will talk with you. 
@@ -189,6 +205,7 @@
 ^35^ He won’t regard any ransom, neither will he rest content, though you give many gifts. 
 
 # 7 
+## Description of seduction to adulterous fornication; Warning of its dire consequences
 ^1^ My son, keep my words. Lay up my commandments within you. 
 ^2^ Keep my commandments and live! Guard my teaching as the apple of your eye. 
 ^3^ Bind them on your fingers. Write them on the tablet of your heart. 
@@ -219,6 +236,7 @@
 ^a^[**7:27** Sheol is the place of the dead. ] 
 
 # 8 
+## Invitation and self-recommendation of wisdom as a teacher
 ^1^ Doesn’t wisdom cry out? Doesn’t understanding raise her voice? 
 ^2^ On the top of high places by the way, where the paths meet, she stands. 
 ^3^ Beside the gates, at the entry of the city, at the entry doors, she cries aloud: 
@@ -239,7 +257,9 @@
 ^18^ With me are riches, honor, enduring wealth, and prosperity. 
 ^19^ My fruit is better than gold, yes, than fine gold, my yield than choice silver. 
 ^20^ I walk in the way of righteousness, in the middle of the paths of justice, 
-^21^ that I may give wealth to those who love me. I fill their treasuries. 
+^21^ that I may give wealth to those who love me. I fill their treasuries.
+
+## Wisdom as the first and most excellent creature of God
 ^22^ “Yahweh possessed me in the beginning of his work, before his deeds of old. 
 ^23^ I was set up from everlasting, from the beginning, before the earth existed. 
 ^24^ When there were no depths, I was born, when there were no springs abounding with water. 
@@ -249,7 +269,9 @@
 ^28^ when he established the clouds above, when the springs of the deep became strong, 
 ^29^ when he gave to the sea its boundary, that the waters should not violate his commandment, when he marked out the foundations of the earth, 
 ^30^ then I was the craftsman by his side. I was a delight day by day, always rejoicing before him, 
-^31^ rejoicing in his whole world. My delight was with the sons of men. 
+^31^ rejoicing in his whole world. My delight was with the sons of men.
+
+## Reminder and warning
 ^32^ “Now therefore, my sons, listen to me, for blessed are those who keep my ways. 
 ^33^ Hear instruction, and be wise. Don’t refuse it. 
 ^34^ Blessed is the man who hears me, watching daily at my gates, waiting at my door posts. 
@@ -257,6 +279,7 @@
 ^36^ But he who sins against me wrongs his own soul. All those who hate me love death.” 
 
 # 9 
+## Mrs. Wisdom and Mrs. Madness invite guests
 ^1^ Wisdom has built her house. She has carved out her seven pillars. 
 ^2^ She has prepared her meat. She has mixed her wine. She has also set her table. 
 ^3^ She has sent out her maidens. She cries from the highest places of the city: 
@@ -268,7 +291,9 @@
 ^9^ Instruct a wise person, and he will be still wiser. Teach a righteous person, and he will increase in learning. 
 ^10^ The fear of Yahweh is the beginning of wisdom. The knowledge of the Holy One is understanding. 
 ^11^ For by me your days will be multiplied. The years of your life will be increased. 
-^12^ If you are wise, you are wise for yourself. If you mock, you alone will bear it. 
+^12^ If you are wise, you are wise for yourself. If you mock, you alone will bear it.
+
+## The invitation to madness
 ^13^ The foolish woman is loud, undisciplined, and knows nothing. 
 ^14^ She sits at the door of her house, on a seat in the high places of the city, 
 ^15^ to call to those who pass by, who go straight on their ways, 
@@ -678,12 +703,16 @@
 ^13^ The sluggard says, “There is a lion outside! I will be killed in the streets!” 
 ^14^ The mouth of an adulteress is a deep pit. He who is under Yahweh’s wrath will fall into it. 
 ^15^ Folly is bound up in the heart of a child; the rod of discipline drives it far from him. 
-^16^ Whoever oppresses the poor for his own increase and whoever gives to the rich, both come to poverty. 
+^16^ Whoever oppresses the poor for his own increase and whoever gives to the rich, both come to poverty.
+
+## First collection of sayings of the wise men; Introduction
 ^17^ Turn your ear, and listen to the words of the wise. Apply your heart to my teaching. 
 ^18^ For it is a pleasant thing if you keep them within you, if all of them are ready on your lips. 
 ^19^ I teach you today, even you, so that your trust may be in Yahweh. 
 ^20^ Haven’t I written to you thirty excellent things of counsel and knowledge, 
-^21^ To teach you truth, reliable words, to give sound answers to the ones who sent you? 
+^21^ To teach you truth, reliable words, to give sound answers to the ones who sent you?
+
+## Individual Reminders
 ^22^ Don’t exploit the poor because he is poor; and don’t crush the needy in court; 
 ^23^ for Yahweh will plead their case, and plunder the life of those who plunder them. 
 ^24^ Don’t befriend a hot-tempered man. Don’t associate with one who harbors anger, 
@@ -753,8 +782,9 @@
 ^19^ Don’t fret yourself because of evildoers, neither be envious of the wicked; 
 ^20^ for there will be no reward to the evil man. The lamp of the wicked will be snuffed out. 
 ^21^ My son, fear Yahweh and the king. Don’t join those who are rebellious, 
-^22^ for their calamity will rise suddenly. Who knows what destruction may come from them both? 
+^22^ for their calamity will rise suddenly. Who knows what destruction may come from them both?
 
+## Second collection of sayings of the wise
 ^23^ These also are sayings of the wise: To show partiality in judgment is not good. 
 ^24^ He who says to the wicked, “You are righteous,” peoples will curse him, and nations will abhor him— 
 ^25^ but it will go well with those who convict the guilty, and a rich blessing will come on them. 
@@ -769,6 +799,7 @@
 ^34^ so your poverty will come as a robber and your want as an armed man. 
 
 # 25 
+## Third collection of Proverbs of Solomon
 ^1^ These also are proverbs of Solomon, which the men of Hezekiah king of Judah copied out. 
 ^2^ It is the glory of God to conceal a thing, but the glory of kings is to search out a matter. 
 ^3^ As the heavens for height, and the earth for depth, so the hearts of kings are unsearchable. 
@@ -918,6 +949,7 @@
 ^27^ A dishonest man detests the righteous, and the upright in their ways detest the wicked. 
 
 # 30 
+## Sayings of Agur
 ^1^ The words of Agur the son of Jakeh, the revelation: the man says to Ithiel, to Ithiel and Ucal: 
 ^2^ “Surely I am the most ignorant man, and don’t have a man’s understanding. 
 ^3^ I have not learned wisdom, neither do I have the knowledge of the Holy One. 
@@ -954,6 +986,7 @@
 ^a^[**30:16** Sheol is the place of the dead.] 
 
 # 31 
+## Sayings for Lemuel
 ^1^ The words of King Lemuel—the revelation which his mother taught him: 
 ^2^ “Oh, my son! Oh, son of my womb! Oh, son of my vows! 
 ^3^ Don’t give your strength to women, nor your ways to that which destroys kings. 
@@ -962,7 +995,9 @@
 ^6^ Give strong drink to him who is ready to perish, and wine to the bitter in soul. 
 ^7^ Let him drink, and forget his poverty, and remember his misery no more. 
 ^8^ Open your mouth for the mute, in the cause of all who are left desolate. 
-^9^ Open your mouth, judge righteously, and serve justice to the poor and needy.” 
+^9^ Open your mouth, judge righteously, and serve justice to the poor and needy.”
+
+## Praise the able housewife
 ^10^ ^a^ Who can find a worthy woman? For her value is far above rubies. 
 ^11^ The heart of her husband trusts in her. He shall have no lack of gain. 
 ^12^ She does him good, and not harm, all the days of her life. 
