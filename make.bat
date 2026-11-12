@@ -1,3 +1,5 @@
+dotnet tool install -g BibleMarkdown
+
 cd Bibles\English.WorldEnglishBibleGB
 make.bat
 cd ..\..\Bibles\English.WorldEnglishBibleUS

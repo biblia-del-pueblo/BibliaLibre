@@ -14,10 +14,12 @@ Epub.Page = book =>
     book = book + 3;
     return $"ch{book:d3}.xhtml";
 };
-Program.Language = "english";
-Program.Replace = "/LORD/[Lord]{.smallcaps}";
+Language = "english";
+//Create.Replace = "/LORD/[Lord]{.smallcaps}";
 // replace uppercase words with smallcaps
-Program.Preprocess = txt => Regex.Replace(txt, @"[A-ZÑÓÍÉÁÚ][A-ZÑÓÍÉÁÚ]+", m =>
+Import.PreprocessImportUSFM = txt => txt.Replace("¶", "");
+
+Create.Preprocess = txt => Regex.Replace(txt, @"[A-ZÑÓÍÉÁÚ][A-ZÑÓÍÉÁÚ]+", m =>
 {
 
     if (Regex.IsMatch(m.Value, "^[IVXCD]+$", RegexOptions.Singleline))
@@ -31,8 +33,8 @@ Program.Preprocess = txt => Regex.Replace(txt, @"[A-ZÑÓÍÉÁÚ][A-ZÑÓÍÉÁ
     str.Append("]{.smallcaps}");
     return str.ToString();
 });
-Program.EachVerseOnNewLine = true;
+EachVerseOnNewLine = true;
 
-Program.Log("Added epub rule.");
+Log("Added epub rule.");
 
 //Program.ImportStrongs = true;
