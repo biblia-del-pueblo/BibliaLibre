@@ -1,2 +1,5 @@
 *
 !.gitignore
+!book-covers/
+!book-covers/**
+book-covers/*.zip
