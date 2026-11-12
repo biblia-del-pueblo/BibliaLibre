@@ -4,5 +4,6 @@
     "LanguageEnglishName": "Tamil",
     "Language": "Tamil",
     "Country": "Sri Lanka",
-    "Class": "Dictionary"
+    "Class": "Dictionary",
+    "Publish": true
 }

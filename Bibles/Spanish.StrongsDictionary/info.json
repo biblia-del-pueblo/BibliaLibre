@@ -4,5 +4,6 @@
     "Language": "Español",
     "LanguageEnglishName": "Spanish",
     "CountryName": "Spain",
-    "Class": "Dictionary"
+    "Class": "Dictionary",
+    "Publish": true
 }

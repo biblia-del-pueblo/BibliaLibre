@@ -3,5 +3,6 @@
   "EnglishName": "Schlachter 1951",
   "Class": "Bible",
   "Language": "de",
-  "LanguageEnglishName": "German"
+  "LanguageEnglishName": "German",
+  "Publish": true
 }

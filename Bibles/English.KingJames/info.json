@@ -3,5 +3,6 @@
   "EnglishName": "King James of the People",
   "Class": "Bible",
   "Language": "en",
-  "LanguageEnglishName": "English"
+  "LanguageEnglishName": "English",
+  "Publish": true
 }
