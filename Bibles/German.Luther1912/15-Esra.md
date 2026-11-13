@@ -1,19 +1,20 @@
 # 1
-@1 Im ersten Jahr des Kores, des Königs in Persien (dass erfüllt würde das Wort des HErrn durch den Mund Jeremias geredet), erweckte der HErr den Geist des Kores, des Königs in Persien, dass er ließ ausrufen durch sein ganzes Königreich, auch durch Schrift, und sagen:
-@2 So spricht Kores, der König in Persien: Der HErr, der Gott des Himmels, hat mir alle Königreiche der Erde gegeben, und er hat mir befohlen, ihm ein Haus zu bauen zu Jerusalem in Juda.
+@1 Im ersten Jahr des Kores, des Königs in Persien (dass erfüllt würde das Wort des HErrn durch den Mund Jeremias geredet), erweckte der HErr den Geist des Kores, des Königs in Persien, dass er ließ ausrufen durch sein ganzes Königreich, auch durch Schrift, und sagen: ^b^
+@2 So spricht Kores, der König in Persien: Der HErr, der Gott des Himmels, hat mir alle Königreiche der Erde gegeben, und er hat mir befohlen, ihm ein Haus zu bauen zu Jerusalem in Juda. ^c^
 @3 Wer nun unter euch seines Volks ist, mit dem sei sein Gott, und er ziehe hinauf gen Jerusalem in Juda und baue das Haus des HErrn, des Gottes Israels. Er ist der Gott, der zu Jerusalem ist.
 @4 Und wer noch übrig ist an allen Orten, da er Fremdling ist, dem sollen helfen die Leute seines Orts mit Silber und Gold, Gut und Vieh, außer dem, was sie aus freiem Willen geben zum Hause Gottes zu Jerusalem.
 @5 Da machten sich auf die Obersten der Vaterhäuser aus Juda und Benjamin und die Priester und Leviten, alle, deren Geist Gott erweckte, hinaufzuziehen und zu bauen das Haus des HErrn zu Jerusalem.
 @6 Und alle, die um sie her waren, stärkten ihre Hände mit silbernem und goldenem Geräte, mit Gut und Vieh und Kleinoden, außer dem, Was sie freiwillig gaben.
 @7 Und der König Kores tat heraus die Gefäße des Hauses des HErrn, die Nebukadnezar aus Jerusalem genommen und in seines Gottes Haus getan hatte.
-@8 Aber Kores, der König in Persien, tat sie heraus durch Mithredath, den Schatzmeister; der zählte sie dar Sesbazar, dem Fürsten Judas.
+@8 Aber Kores, der König in Persien, tat sie heraus durch Mithredath, den Schatzmeister; der zählte sie dar Sesbazar, dem Fürsten Judas. ^d^
 @9 Und dies ist ihre Zahl: 30 goldene Becken und 1000 silberne Becken, 29 Messer,
 @10 dreißig goldene Becher und der anderen, silbernen Becher 410 und anderer Gefäße 1000,
 @11 dass aller Gefäße, golden und silbern, waren 5400. Alle brachte sie Sesbazar herauf mit denen, die aus der Gefangenschaft von Babel heraufzogen gen Jerusalem.
+^b^[**1:1** 2Chr 36,22-23; Jer 25,11; Jer 29,10] ^c^[**1:2** Jes 44,28; Jes 45,1] ^d^[**1:8** Esr 2,2; Esr 2,63; Esr 5,14]
 
 # 2
 @1 Dies sind die Kinder der Landschaft, die heraufzogen aus der Gefangenschaft, die Nebukadnezar, der König zu Babel, hatte gen Babel geführt und die wieder gen Jerusalem und Juda kamen, ein jeglicher in seine Stadt,
-@2 und kamen mit Serubabel, Jesua, Nehemia, Seraja, Reelaja, Mardochai, Bilsa, Mispar, Bigevai, Rehum und Baana. Dies ist nun die Zahl der Männer des Volkes Israel:
+@2 und kamen mit Serubabel, Jesua, Nehemia, Seraja, Reelaja, Mardochai, Bilsa, Mispar, Bigevai, Rehum und Baana. Dies ist nun die Zahl der Männer des Volkes Israel: ^b^
 @3 der Kinder Parevs 2172;
 @4 der Kinder Sephatja 372;
 @5 der Kinder Arah 775;
@@ -51,10 +52,10 @@
 @37 der Kinder Immer 1052;
 @38 der Kinder Pashur 1247;
 @39 der Kinder Harim 1017.
-@40 Der Leviten: der Kinder Jesua und Kadmiel von den Kindern Hodavja 74.
+@40 Der Leviten: der Kinder Jesua und Kadmiel von den Kindern Hodavja 74. ^c^
 @41 Der Sänger: der Kinder Asaph 128.
 @42 Der Kinder der Torhüter: die Kinder Sallum, die Kinder Ater, die Kinder Talmon, die Kinder Akkub, die Kinder Hatita und die Kinder Sobai, allesamt 139.
-@43 Der Tempelknechte: die Kinder Ziha, die Kinder Hasupha, die Kinder Tabbaoth,
+@43 Der Tempelknechte: die Kinder Ziha, die Kinder Hasupha, die Kinder Tabbaoth, ^d^
 @44 die Kinder Keros, die Kinder Siaha, die Kinder Padon,
 @45 die Kinder Lebana, die Kinder Hagaba, die Kinder Akkub,
 @46 die Kinder Hagab, die Kinder Samlai, die Kinder Hanan,
@@ -66,15 +67,15 @@
 @52 die Kinder Bazluth, die Kinder Mehida, die Kinder Harsa,
 @53 die Kinder Barkos, die Kinder Sisera, die Kinder Themah,
 @54 die Kinder Neziah, die Kinder Hatipha.
-@55 Die Kinder der Knechte Salomos: die Kinder Sotai, die Kinder Sophereth, die Kinder Peruda,
+@55 Die Kinder der Knechte Salomos: die Kinder Sotai, die Kinder Sophereth, die Kinder Peruda, ^e^
 @56 die Kinder Jaala, die Kinder Darkon, die Kinder Giddel,
 @57 die Kinder Sephatja, die Kinder Hattil, die Kinder Pochereth von Zebaim, die Kinder Ami.
-@58 Aller Tempelknechte und Kinder der Knechte Salomos waren zusammen 392.
+@58 Aller Tempelknechte und Kinder der Knechte Salomos waren zusammen 392. ^f^
 @59 Und diese zogen auch mit herauf von Thel-Melah, Thel-Harsa, Cherub, Addon und Immer, aber sie konnten nicht anzeigen ihr Vaterhaus noch ihr Geschlecht, ob sie aus Israel wären:
 @60 die Kinder Delaja, die Kinder Tobia, die Kinder Nekoda, 652.
-@61 Und von den Kindern der Priester: die Kinder Habaja, die Kinder Hakkoz, die Kinder Barsillai, der aus den Töchtern Barsillais, des Gileaditers, ein Weib nahm und ward unter ihren Namen genannt.
+@61 Und von den Kindern der Priester: die Kinder Habaja, die Kinder Hakkoz, die Kinder Barsillai, der aus den Töchtern Barsillais, des Gileaditers, ein Weib nahm und ward unter ihren Namen genannt. ^g^
 @62 Die suchten ihre Geburtsregister, und fanden keine; darum wurden sie untüchtig geachtet zum Priestertum.
-@63 Und der Landpfleger sprach zu ihnen, sie sollten nicht essen vom Hochheiligen, bis ein Priester aufstände mit dem Licht und Recht.
+@63 Und der Landpfleger sprach zu ihnen, sie sollten nicht essen vom Hochheiligen, bis ein Priester aufstände mit dem Licht und Recht. ^h^
 @64 Der ganzen Gemeinde wie ein Mann waren 42.360,
 @65 ausgenommen ihre Knechte und Mägde; derer waren 7337, dazu 200 Sänger und Sängerinnen.
 @66 Und hatten 736 Rosse, 245 Maultiere,
@@ -82,33 +83,35 @@
 @68 Und etliche Oberste der Vaterhäuser, da sie kamen zum Hause des HErrn zu Jerusalem, gaben sie freiwillig zum Hause Gottes, dass man's setzte auf seine Stätte,
 @69 und gaben nach ihrem Vermögen zum Schatz fürs Werk 61.000 Goldgulden und 5000 Pfund Silber und 100 Priesterröcke.
 @70 Also setzten sich die Priester und die Leviten und die vom Volk und die Sänger und die Torhüter und die Tempelknechte in ihre Städte und alles Israel in seine Städte.
+^b^[**2:2** Esr 1,8; Esr 2,63] ^c^[**2:40** Neh 12,8] ^d^[**2:43** Esr 8,20] ^e^[**2:55** 1Kö 9,21] ^f^[**2:58** Jos 9,23] ^g^[**2:61** 2Sam 19,32] ^h^[**2:63** Esr 2,2; 2Mo 28,30]
 
 # 3
-@1 Und da herbeikam der siebente Monat und die Kinder Israel nun in ihren Städten waren, kam das Volk zusammen wie ein Mann gen Jerusalem.
-@2 Und es machten sich auf Jesua, der Sohn Jozadaks, und seine Brüder, die Priester, und Serubabel, der Sohn Sealthiels, und seine Brüder, und bauten den Altar des Gottes Israels, Brandopfer darauf zu opfern, wie es geschrieben steht im Gesetz Moses, des Mannes Gottes,
+@1 Und da herbeikam der siebente Monat und die Kinder Israel nun in ihren Städten waren, kam das Volk zusammen wie ein Mann gen Jerusalem. ^b^
+@2 Und es machten sich auf Jesua, der Sohn Jozadaks, und seine Brüder, die Priester, und Serubabel, der Sohn Sealthiels, und seine Brüder, und bauten den Altar des Gottes Israels, Brandopfer darauf zu opfern, wie es geschrieben steht im Gesetz Moses, des Mannes Gottes, ^c^
 @3 und richteten zu den Altar auf seine Stätte (denn es war ein Schrecken unter ihnen vor den Völkern in den Ländern) und opferten dem HErrn Brandopfer darauf des Morgens und des Abends.
-@4 Und hielten der Laubhütten Fest, wie geschrieben steht, und taten Brandopfer alle Tage nach der Zahl, wie sich's gebührt, einen jeglichen Tag sein Opfer,
+@4 Und hielten der Laubhütten Fest, wie geschrieben steht, und taten Brandopfer alle Tage nach der Zahl, wie sich's gebührt, einen jeglichen Tag sein Opfer, ^d^
 @5 darnach auch die täglichen Brandopfer und der Neumonde und aller Festtage des HErrn, die geheiligt sind, und allerlei freiwillige Opfer, die sie dem HErrn freiwillig taten.
 @6 Am ersten Tage des siebenten Monats fingen sie an, dem HErrn Brandopfer zu tun. Aber der Grund des Tempels des HErrn war noch nicht gelegt.
 @7 Sie gaben aber Geld den Steinmetzen und Zimmerleuten und Speise und Trank und Öl denen zu Sidon und zu Tyrus, dass sie Zedernholz vom Libanon aufs Meer gen Japho brächten nach dem Befehl des Kores, des Königs in Persien, an sie.
 @8 Im zweiten Jahr ihrer Ankunft am Hause Gottes zu Jerusalem, im zweiten Monat, fingen an Serubabel, der Sohn Sealthiels, und Jesua, der Sohn Jozadaks, und die Übrigen ihrer Brüder, Priester und Leviten, und alle, die aus der Gefangenschaft gekommen waren gen Jerusalem, und bestellten die Leviten von 20 Jahren und darüber, zu treiben das Werk am Hause des HErrn.
-@9 Und Jesua stand mit seinen Söhnen und Brüdern und Kadmiel mit seinen Söhnen, die Kinder Juda, wie ein Mann, vorzustehen den Arbeitern am Hause Gottes, desgleichen die Kinder Henadad mit ihren Kindern und ihren Brüdern, den Leviten.
+@9 Und Jesua stand mit seinen Söhnen und Brüdern und Kadmiel mit seinen Söhnen, die Kinder Juda, wie ein Mann, vorzustehen den Arbeitern am Hause Gottes, desgleichen die Kinder Henadad mit ihren Kindern und ihren Brüdern, den Leviten. ^e^
 @10 Und da die Bauleute den Grund legten am Tempel des HErrn, standen die Priester in ihren Kleidern mit Drommeten und die Leviten, die Kinder Asaph, mit Zimbeln, zu loben den HErrn mit dem Gedicht Davids, des Königs über Israel,
-@11 und sangen umeinander und lobten und dankten dem HErrn, dass er gütig ist und seine Barmherzigkeit ewiglich währet über Israel. Und alles Volk jauchzte laut beim Lobe des HErrn, dass der Grund am Hause des HErrn gelegt war.
-@12 Aber viele der alten Priester und Leviten und Obersten der Vaterhäuser, die das vorige Haus gesehen hatten, da nun dieses Haus vor ihren Augen gegründet ward, weinten sie laut. Viele aber jauchzten mit Freuden, dass das Geschrei hoch erscholl,
+@11 und sangen umeinander und lobten und dankten dem HErrn, dass er gütig ist und seine Barmherzigkeit ewiglich währet über Israel. Und alles Volk jauchzte laut beim Lobe des HErrn, dass der Grund am Hause des HErrn gelegt war. ^f^
+@12 Aber viele der alten Priester und Leviten und Obersten der Vaterhäuser, die das vorige Haus gesehen hatten, da nun dieses Haus vor ihren Augen gegründet ward, weinten sie laut. Viele aber jauchzten mit Freuden, dass das Geschrei hoch erscholl, ^g^
 @13 also dass das Volk nicht unterscheiden konnte das Jauchzen mit Freuden und das laute Weinen im Volk; denn das Volk jauchzte laut, dass man das Geschrei ferne hörte.
+^b^[**3:1** Esr 2,64] ^c^[**3:2** Esr 2,2; 1Chr 3,17-19; 2Mo 27,1; 3Mo 6,2] ^d^[**3:4** 3Mo 23,34; 4Mo 29,12-38] ^e^[**3:9** Neh 10,10] ^f^[**3:11** 2Chr 5,13; 2Chr 7,3; Ps 118,1] ^g^[**3:12** Haggai 2,3]
 
 # 4
 @1 Da aber die Widersacher Judas und Benjamins hörten, dass die Kinder der Gefangenschaft dem HErrn, dem Gott Israels, den Tempel bauten,
-@2 kamen sie zu Serubabel und zu den Obersten der Vaterhäuser und sprachen zu ihnen: Wir wollen mit euch bauen; denn wir suchen euren Gott gleichwie ihr, und wir haben ihm geopfert, seit der Zeit, da Asar-Haddon, der König von Assyrien, uns hat heraufgebracht.
-@3 Aber Serubabel und Jesua und die anderen Obersten der Vaterhäuser in Israel antworteten ihnen: Es ziemt sich nicht, uns und euch, das Haus unseres Gottes zu bauen; sondern wir wollen allein bauen dem HErrn, dem Gott Israels, wie uns Kores, der König in Persien, geboten hat.
+@2 kamen sie zu Serubabel und zu den Obersten der Vaterhäuser und sprachen zu ihnen: Wir wollen mit euch bauen; denn wir suchen euren Gott gleichwie ihr, und wir haben ihm geopfert, seit der Zeit, da Asar-Haddon, der König von Assyrien, uns hat heraufgebracht. ^b^
+@3 Aber Serubabel und Jesua und die anderen Obersten der Vaterhäuser in Israel antworteten ihnen: Es ziemt sich nicht, uns und euch, das Haus unseres Gottes zu bauen; sondern wir wollen allein bauen dem HErrn, dem Gott Israels, wie uns Kores, der König in Persien, geboten hat. ^c^
 @4 Da hinderte das Volk im Lande die Hand des Volkes Juda und schreckten sie ab im Bauen
-@5 und dingten Ratgeber wider sie und verhinderten ihren Rat, solange Kores, der König in Persien, lebte, bis an das Königreich des Darius, des Königs in Persien.
+@5 und dingten Ratgeber wider sie und verhinderten ihren Rat, solange Kores, der König in Persien, lebte, bis an das Königreich des Darius, des Königs in Persien. ^d^
 @6 Und da Ahasveros König ward, im Anfang seines Königreichs, schrieben sie eine Anklage wider die von Juda und Jerusalem.
 @7 Und zu den Zeiten Arthahsasthas schrieb Bislam, Mithredath, Tabeel und die anderen ihres Rats an Arthahsastha, den König in Persien. Die Schrift aber des Briefes war syrisch, und er war auf syrisch verdolmetscht.
 @8 Rehum, der Kanzler, und Simsai, der Schreiber, schrieben diesen Brief wider Jerusalem an Arthahsastha, den König:
 @9 Wir, Rehum, der Kanzler, und Simsai, der Schreiber, und die anderen des Rats: die von Dina, von Apharsach, von Tarpal, von Persien, von Erech, von Babel, von Susan, von Deha und von Elam,
-@10 und die anderen Völker, welche der große und berühmte Asnaphar herübergebracht und gesetzt hat in die Stadt Samaria und in die anderen Orte diesseits des Wassers, und so fort.
+@10 und die anderen Völker, welche der große und berühmte Asnaphar herübergebracht und gesetzt hat in die Stadt Samaria und in die anderen Orte diesseits des Wassers, und so fort. ^e^
 @11 Und dies ist der Inhalt des Briefes, den sie dem König Arthahsastha sandten: Deine Knechte, die Männer diesseits des Wassers, und so fort.
 @12 Es sei kund dem König, dass die Juden, die von dir zu uns heraufgekommen sind gen Jerusalem, in die aufrührerische und böse Stadt, bauen sie und machen ihre Mauern und führen sie aus dem Grunde.
 @13 So sei nun dem König kund: Wo diese Stadt gebaut wird und die Mauern wieder gemacht, so werden sie Schoß, Zoll und jährliche Zinse nicht geben, und ihr Vornehmen wird den Königen Schaden bringen.
@@ -122,31 +125,33 @@
 @21 So tut nun nach diesem Befehl: Wehret denselben Männern, dass die Stadt nicht gebaut werde, bis dass von mir der Befehl gegeben werde!
 @22 So sehet nun zu, dass ihr nicht lässig hierin seid, damit nicht größerer Schade entstehe dem König!
 @23 Da nun der Brief des Königs Arthahsastha gelesen ward vor Rehum und Simsai, dem Schreiber, und ihrem Rat, zogen sie eilend hinauf gen Jerusalem zu den Juden und wehrten ihnen mit Arm und Gewalt. –
-@24 Da hörte auf das Werk am Hause Gottes zu Jerusalem und blieb nach bis ins zweite Jahr des Darius, des Königs in Persien.
+@24 Da hörte auf das Werk am Hause Gottes zu Jerusalem und blieb nach bis ins zweite Jahr des Darius, des Königs in Persien. ^f^
+^b^[**4:2** 2Kö 17,24; 2Kö 17,33; 2Kö 19,37] ^c^[**4:3** Esr 1,3] ^d^[**4:5** Esr 4,24] ^e^[**4:10** Esr 4,2] ^f^[**4:24** Esr 4,5; Esr 6,15]
 
 # 5
-@1 Es weissagten aber die Propheten Haggai und Sacharja, der Sohn Iddos, den Juden, die in Juda und Jerusalem waren, im Namen des Gottes Israels.
+@1 Es weissagten aber die Propheten Haggai und Sacharja, der Sohn Iddos, den Juden, die in Juda und Jerusalem waren, im Namen des Gottes Israels. ^b^
 @2 Da machten sich auf Serubabel, der Sohn Sealthiels, und Jesua, der Sohn Jozadaks, und fingen an zu bauen das Haus Gottes zu Jerusalem, und mit ihnen die Propheten Gottes, die sie stärkten.
 @3 Zu der Zeit kam zu ihnen Thathnai, der Landpfleger diesseits des Wassers, und Sethar-Bosnai und ihr Rat und sprachen also zu ihnen: Wer hat euch befohlen, dieses Haus zu bauen und seine Mauern zu machen?
 @4 Da sagten wir ihnen, wie die Männer hießen, die diesen Bau taten.
-@5 Aber das Auge ihres Gottes war über den Ältesten der Juden, dass ihnen nicht gewehrt ward, bis dass man die Sache an Darius gelangen ließe und darüber eine Schrift wiederkäme.
+@5 Aber das Auge ihres Gottes war über den Ältesten der Juden, dass ihnen nicht gewehrt ward, bis dass man die Sache an Darius gelangen ließe und darüber eine Schrift wiederkäme. ^c^
 @6 Dies ist aber der Inhalt des Briefes Thathnais, des Landpflegers diesseits des Wassers, und Sethar-Bosnais und ihres Rats, derer von Apharsach, die diesseits des Wassers waren, an den König Darius.
 @7 Und die Worte die sie zu ihm sandten, lauteten also: Dem König Darius allen Frieden!
 @8 Es sei kund dem König, dass wir ins jüdische Land gekommen sind zu dem Hause des großen Gottes, welches man baut mit behauenen Steinen, und Balken legt man in die Wände, und das Werk geht frisch vonstatten unter ihrer Hand.
 @9 Wir aber haben die Ältesten gefragt und zu ihnen gesagt also: Wer hat euch befohlen, dieses Haus zu bauen und seine Mauern zu machen?
 @10 Auch fragten wir, wie sie hießen, auf dass wir sie dir kundtäten und die Namen der Männer aufschrieben, die ihre Obersten waren.
 @11 Sie aber gaben uns solche Worte zur Antwort und sprachen: Wir sind Knechte des Gottes Himmels und der Erde und bauen das Haus, das vormals vor vielen Jahren gebaut war, das ein großer König Israels gebaut hat und aufgerichtet.
-@12 Aber da unsere Väter den Gott des Himmels erzürnten, gab er sie in die Hand Nebukadnezars, des Königs zu Babel, des Chaldäers; der zerbrach dieses Haus und führte das Volk weg gen Babel.
-@13 Aber im ersten Jahr des Kores, des Königs zu Babel, befahl derselbe König Kores, dieses Haus Gottes zu bauen.
-@14 Denn auch die goldenen und silbernen Gefäße im Hause Gottes, die Nebukadnezar aus dem Tempel zu Jerusalem nahm und brachte sie in den Tempel zu Babel, nahm der König Kores aus dem Tempel zu Babel und gab sie Sesbazar mit Namen, den er zum Landpfleger setzte,
+@12 Aber da unsere Väter den Gott des Himmels erzürnten, gab er sie in die Hand Nebukadnezars, des Königs zu Babel, des Chaldäers; der zerbrach dieses Haus und führte das Volk weg gen Babel. ^d^
+@13 Aber im ersten Jahr des Kores, des Königs zu Babel, befahl derselbe König Kores, dieses Haus Gottes zu bauen. ^e^
+@14 Denn auch die goldenen und silbernen Gefäße im Hause Gottes, die Nebukadnezar aus dem Tempel zu Jerusalem nahm und brachte sie in den Tempel zu Babel, nahm der König Kores aus dem Tempel zu Babel und gab sie Sesbazar mit Namen, den er zum Landpfleger setzte, ^f^
 @15 und sprach zu ihm: Diese Gefäße nimm, zieh hin und bringe sie in den Tempel zu Jerusalem und lass das Haus Gottes bauen an seiner Stätte.
 @16 Da kam derselbe Sesbazar und legte den Grund am Hause Gottes zu Jerusalem. Seit der Zeit baut man, und es ist noch nicht vollendet.
 @17 Gefällt es nun dem König, so lasse er suchen in dem Schatzhause des Königs, das zu Babel ist, ob's von dem König Kores befohlen sei, das Haus Gottes zu Jerusalem zu bauen, und sende zu uns des Königs Meinung darüber.
+^b^[**5:1** Haggai 1,1; Sach 1,1] ^c^[**5:5** 5Mo 11,12; 1Kö 8,29] ^d^[**5:12** 2Kö 25,9] ^e^[**5:13** Esr 1,1] ^f^[**5:14** Esr 1,8]
 
 # 6
 @1 Da befahl der König Darius, dass man suchen sollte in der Kanzlei im Schatzhause des Königs, die zu Babel lag.
 @2 Da fand man zu Ahmetha im Schloss, das in Medien liegt, ein Buch, und stand also darin eine Geschichte geschrieben:
-@3 Im ersten Jahr des Königs Kores befahl der König Kores, das Haus Gottes zu Jerusalem zu bauen als eine Stätte, da man opfert, und den Grund zu legen; zur Höhe 60 Ellen und zur Weite auch 60 Ellen;
+@3 Im ersten Jahr des Königs Kores befahl der König Kores, das Haus Gottes zu Jerusalem zu bauen als eine Stätte, da man opfert, und den Grund zu legen; zur Höhe 60 Ellen und zur Weite auch 60 Ellen; ^b^
 @4 und drei Reihen von behauenen Steinen und eine Reihe von Holz; und die Kosten sollen vom Hause des Königs gegeben werden;
 @5 dazu die goldenen und silbernen Gefäße des Hauses Gottes, die Nebukadnezar aus dem Tempel zu Jerusalem genommen und gen Babel gebracht hat, soll man wiedergeben, dass sie wiedergebracht werden in den Tempel zu Jerusalem an ihre Statt im Hause Gottes.
 @6 So haltet euch nun fern von ihnen, du, Thathnai, Landpfleger jenseits des Wassers, und Sethar-Bosnai und ihr anderen des Rats, ihr von Apharsach, die ihr jenseits des Wassers seid.
@@ -158,28 +163,29 @@
 @12 Der Gott aber, der seinen Namen daselbst wohnen lässt, bringe um alle Könige und jegliches Volk, das seine Hand ausreckt, daran zu ändern und zu brechen das Haus Gottes in Jerusalem. Ich, Darius, habe dies befohlen, dass es mit Fleiß getan werde.
 @13 Das taten mit Fleiß Thathnai, der Landpfleger jenseits des Wassers, und Sethar-Bosnai mit ihrem Rat, zu welchen der König Darius gesandt hatte.
 @14 Und die Ältesten der Juden bauten; und es ging vonstatten durch die Weissagung der Propheten Haggai und Sacharja, des Sohnes Iddos, und sie bauten und richteten auf nach dem Befehl des Gottes Israels und nach dem Befehl des Kores, Darius und Arthahsastha, der Könige in Persien,
-@15 und vollendeten das Haus bis an den dritten Tag des Monats Adar, das war das sechste Jahr des Königreichs des Königs Darius.
-@16 Und die Kinder Israel, die Priester, die Leviten und die anderen Kinder der Gefangenschaft hielten Einweihung des Hauses Gottes mit Freuden
-@17 und opferten auf die Einweihung des Hauses Gottes 100 Farren, 200 Widder, 400 Lämmer und zum Sündopfer für ganz Israel zwölf Ziegenböcke nach der Zahl der Stämme Israels
-@18 und bestellten die Priester und die Leviten in ihren Ordnungen, zu dienen Gott, der zu Jerusalem ist, wie es geschrieben steht im Buch Moses.
-@19 Und die Kinder der Gefangenschaft hielten Passah am vierzehnten Tage des ersten Monats;
+@15 und vollendeten das Haus bis an den dritten Tag des Monats Adar, das war das sechste Jahr des Königreichs des Königs Darius. ^c^
+@16 Und die Kinder Israel, die Priester, die Leviten und die anderen Kinder der Gefangenschaft hielten Einweihung des Hauses Gottes mit Freuden ^d^
+@17 und opferten auf die Einweihung des Hauses Gottes 100 Farren, 200 Widder, 400 Lämmer und zum Sündopfer für ganz Israel zwölf Ziegenböcke nach der Zahl der Stämme Israels ^e^
+@18 und bestellten die Priester und die Leviten in ihren Ordnungen, zu dienen Gott, der zu Jerusalem ist, wie es geschrieben steht im Buch Moses. ^f^
+@19 Und die Kinder der Gefangenschaft hielten Passah am vierzehnten Tage des ersten Monats; ^g^
 @20 Denn die Priester und Leviten hatten sich gereinigt wie ein Mann, dass sie alle rein waren, und schlachteten das Passah für alle Kinder der Gefangenschaft und für ihre Brüder, die Priester, und für sich.
 @21 Und die Kinder Israel, die aus der Gefangenschaft waren wiedergekommen, und alle, die sich zu ihnen abgesondert hatten von der Unreinigkeit der Heiden im Lande, zu suchen den HErrn, den Gott Israels, aßen
 @22 und hielten das Fest der ungesäuerten Brote sieben Tage mit Freuden; denn der HErr hatte sie fröhlich gemacht und das Herz des Königs von Assyrien zu ihnen gewandt, dass sie gestärkt würden im Werk am Hause Gottes, der der Gott Israels ist.
+^b^[**6:3** Esr 1,1] ^c^[**6:15** Esr 4,24] ^d^[**6:16** 4Mo 7,10; 1Kö 8,62-66] ^e^[**6:17** Esr 8,35] ^f^[**6:18** 4Mo 3,6; 4Mo 8,24] ^g^[**6:19** 2Mo 12,6]
 
 # 7
-@1 Nach diesen Geschichten, da Arthahsastha, der König in Persien, regierte, zog herauf von Babel Esra, der Sohn Serajas, des Sohnes Asarjas, des Sohnes Hilkias,
+@1 Nach diesen Geschichten, da Arthahsastha, der König in Persien, regierte, zog herauf von Babel Esra, der Sohn Serajas, des Sohnes Asarjas, des Sohnes Hilkias, ^b^
 @2 des Sohnes Sallums, des Sohnes Zadoks, des Sohnes Ahitobs,
 @3 des Sohnes Amarjas, des Sohnes Asarjas, des Sohnes Merajoths,
 @4 des Sohnes Serahjas, des Sohnes Usis, des Sohnes Bukkis,
 @5 des Sohnes Abisuas, des Sohnes des Pinehas, des Sohnes Eleasars, des Sohnes Aarons, des obersten Priesters.
-@6 Esra aber war ein geschickter Schriftgelehrter im Gesetz Moses, das der HErr, der Gott Israels, gegeben hatte. Und der König gab ihm alles, was er forderte, nach der Hand des HErrn, seines Gottes, über ihm.
-@7 Und es zogen herauf etliche der Kinder Israel und der Priester und der Leviten, der Sänger, der Torhüter und der Tempelknechte gen Jerusalem, im siebenten Jahr Arthahsasthas, des Königs.
+@6 Esra aber war ein geschickter Schriftgelehrter im Gesetz Moses, das der HErr, der Gott Israels, gegeben hatte. Und der König gab ihm alles, was er forderte, nach der Hand des HErrn, seines Gottes, über ihm. ^c^
+@7 Und es zogen herauf etliche der Kinder Israel und der Priester und der Leviten, der Sänger, der Torhüter und der Tempelknechte gen Jerusalem, im siebenten Jahr Arthahsasthas, des Königs. ^d^
 @8 Und er kam gen Jerusalem im fünften Monat, nämlich des siebenten Jahres des Königs.
-@9 Denn am ersten Tage des ersten Monats ward er Rats, heraufzuziehen von Babel, und am ersten Tage des fünften Monats kam er gen Jerusalem nach der guten Hand Gottes über ihm.
+@9 Denn am ersten Tage des ersten Monats ward er Rats, heraufzuziehen von Babel, und am ersten Tage des fünften Monats kam er gen Jerusalem nach der guten Hand Gottes über ihm. ^e^
 @10 Denn Esra schickte sein Herz, zu suchen das Gesetz des HErrn und zu tun, und zu lehren in Israel Gebote und Rechte.
 @11 Und dies ist der Inhalt des Briefes, den der König Arthahsastha gab Esra, dem Priester, dem Schriftgelehrten, der ein Lehrer war in den Worten des HErrn und seiner Gebote über Israel:
-@12 Arthahsastha, König aller Könige, Esra, dem Priester und Schriftgelehrten im Gesetz des Gottes des Himmels, Friede und Gruß!
+@12 Arthahsastha, König aller Könige, Esra, dem Priester und Schriftgelehrten im Gesetz des Gottes des Himmels, Friede und Gruß! ^f^
 @13 Von mir ist befohlen, dass alle, die da willig sind in meinem Reich, des Volkes Israel und der Priester und Leviten, gen Jerusalem zu ziehen, dass die mit dir ziehen,
 @14 dieweil du vom König und seinen sieben Ratsherren gesandt bist, zu besichtigen Juda und Jerusalem nach dem Gesetz Gottes, das unter deiner Hand ist,
 @15 und hinzubringen Silber und Gold, das der König und seine Ratsherren freiwillig geben dem Gott Israels, des Wohnung zu Jerusalem ist,
@@ -195,31 +201,32 @@
 @25 Du aber, Esra, nach der Weisheit deines Gottes, die unter deiner Hand ist, setze Richter und Pfleger, die alles Volk richten, das jenseits des Wassers ist, alle, die das Gesetz deines Gottes wissen; und welche es nicht wissen, die lehret es.
 @26 Und ein jeglicher, der nicht mit Fleiß tun wird das Gesetz deines Gottes und das Gesetz des Königs, der soll sein Urteil um der Tat willen haben, es sei zum Tod oder in die Acht oder zur Buße am Gut oder ins Gefängnis.
 @27 Gelobet sei der HErr, unserer Väter Gott, der solches hat dem König eingegeben, dass er das Haus des HErrn zu Jerusalem ziere,
-@28 und hat zu mir Barmherzigkeit geneigt vor dem König und seinen Ratsherren und allen Gewaltigen des Königs! Und ich ward getrost nach der Hand des HErrn, meines Gottes, über mir und versammelte Häupter aus Israel, dass sie mit mir hinaufzögen.
+@28 und hat zu mir Barmherzigkeit geneigt vor dem König und seinen Ratsherren und allen Gewaltigen des Königs! Und ich ward getrost nach der Hand des HErrn, meines Gottes, über mir und versammelte Häupter aus Israel, dass sie mit mir hinaufzögen. ^g^
+^b^[**7:1** 1Chr 5,40] ^c^[**7:6** Esr 7,9; Esr 7,28; Esr 8,18; Esr 8,22; Neh 2,8] ^d^[**7:7** Esr 2,43] ^e^[**7:9** Esr 7,6] ^f^[**7:12** Hes 26,7] ^g^[**7:28** Esr 7,6]
 
 # 8
-@1 Dies sind die Häupter ihrer Vaterhäuser und ihr Geschlecht, die mit mir heraufzogen von Babel zu den Zeiten, da der König Arthahsastha regierte:
+@1 Dies sind die Häupter ihrer Vaterhäuser und ihr Geschlecht, die mit mir heraufzogen von Babel zu den Zeiten, da der König Arthahsastha regierte: ^b^
 @2 Von den Kindern Pinehas: Gersom; von den Kindern Ithamar: Daniel von den Kindern David: Hattus,
-@3 von den Kindern Sechanja; von den Kindern Pareos: Sacharja und mit ihm Mannsbilder, gerechnet 150;
-@4 von den Kindern Pahath-Moab: Eljoenai, der Sohn Serahjas, und mit ihm 200 Mannsbilder;
-@5 von den Kindern Satthu: Sechanja, der Sohn Jahasiels, und mit ihm 300 Mannsbilder;
+@3 von den Kindern Sechanja; von den Kindern Pareos: Sacharja und mit ihm Mannsbilder, gerechnet 150; ^c^
+@4 von den Kindern Pahath-Moab: Eljoenai, der Sohn Serahjas, und mit ihm 200 Mannsbilder; ^d^
+@5 von den Kindern Satthu: Sechanja, der Sohn Jahasiels, und mit ihm 300 Mannsbilder; ^e^
 @6 von den Kindern Adin: Ebed, der Sohn Jonathans, und mit ihm 50 Mannsbilder;
 @7 von den Kindern Elam: Jesaja, der Sohn Athaljas, und mit ihm 70 Mannsbilder;
 @8 von den Kindern Sephatja: Sebadja, der Sohn Michaels, und mit ihm 80 Mannsbilder;
 @9 von den Kindern Joab: Obadja, der Sohn Jehiels, und mit ihm 218 Mannsbilder;
-@10 von den Kindern Bani: Selomith, der Sohn Josiphjas, und mit ihm 160 Mannsbilder;
+@10 von den Kindern Bani: Selomith, der Sohn Josiphjas, und mit ihm 160 Mannsbilder; ^f^
 @11 von den Kindern Bebai: Sacharja, der Sohn Bebais, und mit ihm 28 Mannsbilder;
 @12 von den Kindern Asgad: Johanan, der Sohn Hakkatans, und mit ihm 110 Mannsbilder;
 @13 von den Kindern Adonikams die letzten, und hießen also: Eliphelet, Jeiel und Semaja, und mit ihnen 60 Mannsbilder;
 @14 von den Kindern Bigevai: Uthai und Sabbud und mit ihnen 70 Mannsbilder.
 @15 Und ich versammelte sie ans Wasser, das gen Ahava kommt; und wir blieben drei Tage daselbst. Und da ich achthatte aufs Volk und die Priester, fand ich keine Leviten daselbst.
 @16 Da sandte ich hin Elieser, Ariel, Semaja, Elnathan, Jarib, Elnathan, Nathan, Sacharja und Mesullam, die Obersten, und Jojarib und Elnathan, die Lehrer,
-@17 und sandte sie aus zu Iddo, dem Obersten, gen Kasphia, dass sie uns holten Diener für das Haus unseres Gottes. Und ich gab ihnen ein, was sie reden sollten mit Iddo und seinen Brüdern, den Tempelknechten, zu Kasphia.
-@18 Und sie brachten uns, nach der guten Hand unseres Gottes über uns, einen klugen Mann aus den Kindern Maheli, des Sohnes Levis, des Sohnes Israels, und Serebja mit seinen Söhnen und Brüdern, 18,
+@17 und sandte sie aus zu Iddo, dem Obersten, gen Kasphia, dass sie uns holten Diener für das Haus unseres Gottes. Und ich gab ihnen ein, was sie reden sollten mit Iddo und seinen Brüdern, den Tempelknechten, zu Kasphia. ^g^
+@18 Und sie brachten uns, nach der guten Hand unseres Gottes über uns, einen klugen Mann aus den Kindern Maheli, des Sohnes Levis, des Sohnes Israels, und Serebja mit seinen Söhnen und Brüdern, 18, ^h^
 @19 und Hasabja und mit ihm Jesaja von den Kindern Merari mit seinen Brüdern und ihren Söhnen, 20,
-@20 und von den Tempelknechten, die David und die Fürsten gaben, zu dienen den Leviten, 220, alle mit Namen genannt.
+@20 und von den Tempelknechten, die David und die Fürsten gaben, zu dienen den Leviten, 220, alle mit Namen genannt. ^i^
 @21 Und ich ließ daselbst am Wasser bei Ahava ein Fasten ausrufen, dass wir uns demütigten vor unserem Gott, zu suchen von ihm einen richtigen Weg für uns und unsere Kinder und alle unsere Habe.
-@22 Denn ich schämte mich, vom König Geleit und Reiter zu fordern, uns wider die Feinde zu helfen auf dem Wege. Denn wir hatten dem König gesagt: Die Hand unseres Gottes ist zum Besten über alle, die ihn suchen, und seine Stärke und Zorn über alle, die ihn verlassen.
+@22 Denn ich schämte mich, vom König Geleit und Reiter zu fordern, uns wider die Feinde zu helfen auf dem Wege. Denn wir hatten dem König gesagt: Die Hand unseres Gottes ist zum Besten über alle, die ihn suchen, und seine Stärke und Zorn über alle, die ihn verlassen. ^j^
 @23 Also fasteten wir und suchten solches von unserem Gott, und er hörte uns.
 @24 Und ich sonderte zwölf aus von den obersten Priestern, dazu Serebja und Hasabja und mit ihnen ihrer Brüder zehn,
 @25 und wog ihnen dar das Silber und Gold und die Gefäße zur Hebe für das Haus unseres Gottes, welche der König und seine Ratsherren und Fürsten und ganz Israel, das vorhanden war, zur Hebe gegeben hatten.
@@ -233,24 +240,26 @@
 @33 Aber am vierten Tage wurden dargewogen das Silber und Gold und die Gefäße ins Haus unseres Gottes unter die Hand des Priesters Meremoth, des Sohnes Urias, und mit ihm Eleasar, dem Sohn des Pinehas, und mit ihnen Josabad, dem Sohn Jesuas, und Noadja, dem Sohn Binnuis, den Leviten,
 @34 nach Zahl und Gewicht eines jeglichen; und das Gewicht ward zu der Zeit alles aufgeschrieben.
 @35 Und die Kinder der Gefangenschaft, die aus der Gefangenschaft gekommen waren, opferten Brandopfer dem Gott Israels: 12 Farren für das ganze Israel, 96 Widder, 77 Lämmer, zwölf Böcke zum Sündopfer, alles zum Brandopfer dem HErrn.
-@36 Und sie überantworteten des Königs Befehle den Amtleuten des Königs und den Landpflegern diesseits des Wassers. Und diese halfen dem Volk und dem Hause Gottes.
+@36 Und sie überantworteten des Königs Befehle den Amtleuten des Königs und den Landpflegern diesseits des Wassers. Und diese halfen dem Volk und dem Hause Gottes. ^k^
+^b^[**8:1** Esr 7,1; Esr 7,7] ^c^[**8:3** 1Chr 3,22] ^d^[**8:4** Esr 2,6] ^e^[**8:5** Esr 2,8] ^f^[**8:10** Esr 2,10] ^g^[**8:17** Esr 2,43] ^h^[**8:18** Esr 7,6] ^i^[**8:20** 1Chr 9,2] ^j^[**8:22** Esr 7,6] ^k^[**8:36** Esr 7,12-26]
 
 # 9
 @1 Da das alles war ausgerichtet, traten zu mir die Obersten und sprachen: Das Volk Israel und die Priester und Leviten sind nicht abgesondert von den Völkern in den Ländern nach ihren Gräueln, nämlich der Kanaaniter, Hethiter, Pheresiter, Jebusiter, Ammoniter, Moabiter, Ägypter und Amoriter;
-@2 denn sie haben derselben Töchter genommen sich und ihren Söhnen und den heiligen Samen gemein gemacht mit den Völkern in den Ländern. Und die Hand der Obersten und Ratsherren war die vornehmste in dieser Missetat.
-@3 Da ich solches hörte, zerriss ich mein Kleid und meinen Rock und raufte mein Haupthaar und Bart aus und saß bestürzt.
+@2 denn sie haben derselben Töchter genommen sich und ihren Söhnen und den heiligen Samen gemein gemacht mit den Völkern in den Ländern. Und die Hand der Obersten und Ratsherren war die vornehmste in dieser Missetat. ^b^
+@3 Da ich solches hörte, zerriss ich mein Kleid und meinen Rock und raufte mein Haupthaar und Bart aus und saß bestürzt. ^c^
 @4 Und es versammelten sich zu mir alle, die des HErrn Wort, des Gottes Israels, fürchteten, um der Vergreifung willen derer, die gefangen gewesen waren; und ich saß bestürzt bis an das Abendopfer.
 @5 Und um das Abendopfer stand ich auf von meinem Elend und zerriss mein Kleid und meinen Rock und fiel auf meine Knie und breitete meine Hände aus zu dem HErrn, meinem Gott,
-@6 und sprach: Mein Gott, ich schäme mich und scheue mich, meine Augen aufzuheben zu dir, mein Gott; denn unsere Missetat ist über unser Haupt gewachsen, und unsere Schuld ist groß bis in den Himmel.
+@6 und sprach: Mein Gott, ich schäme mich und scheue mich, meine Augen aufzuheben zu dir, mein Gott; denn unsere Missetat ist über unser Haupt gewachsen, und unsere Schuld ist groß bis in den Himmel. ^d^
 @7 Von der Zeit unserer Väter an sind wir in großer Schuld gewesen bis auf diesen Tag, und um unserer Missetat willen sind wir und unsere Könige und Priester gegeben in die Hand der Könige in den Ländern, ins Schwert, ins Gefängnis, in Raub und in Scham des Angesichts, wie es heutigestages geht.
-@8 Nun aber ist einen kleinen Augenblick Gnade von dem HErrn, unserem Gott, geschehen, dass uns noch Entronnene übrig gelassen sind, dass er uns gebe einen Nagel an seiner heiligen Stätte, dass unser Gott unsere Augen erleuchte und gebe uns ein wenig Leben, da wir Knechte sind.
-@9 Denn wir sind Knechte, und unser Gott hat uns nicht verlassen, ob wir Knechte sind, und hat Barmherzigkeit zu uns geneigt vor den Königen in Persien, dass sie uns das Leben gelassen haben und erhöht das Haus unseres Gottes und aufgerichtet seine Verstörung und uns gegeben einen Zaun in Juda und Jerusalem.
+@8 Nun aber ist einen kleinen Augenblick Gnade von dem HErrn, unserem Gott, geschehen, dass uns noch Entronnene übrig gelassen sind, dass er uns gebe einen Nagel an seiner heiligen Stätte, dass unser Gott unsere Augen erleuchte und gebe uns ein wenig Leben, da wir Knechte sind. ^e^
+@9 Denn wir sind Knechte, und unser Gott hat uns nicht verlassen, ob wir Knechte sind, und hat Barmherzigkeit zu uns geneigt vor den Königen in Persien, dass sie uns das Leben gelassen haben und erhöht das Haus unseres Gottes und aufgerichtet seine Verstörung und uns gegeben einen Zaun in Juda und Jerusalem. ^f^
 @10 Nun, was sollen wir sagen, unser Gott, nach diesem, dass wir deine Gebote verlassen haben,
-@11 die du durch deine Knechte, die Propheten, geboten hast und gesagt: Das Land, darein ihr kommt, es zu erben, ist ein unreines Land durch die Unreinigkeit der Völker in den Ländern in ihren Gräueln, womit sie es an allen Enden voll Unreinigkeit gemacht haben.
-@12 So sollt ihr nun eure Töchter nicht geben ihren Söhnen, und ihre Töchter sollt ihr euren Söhnen nicht nehmen; und suchet nicht ihren Frieden noch ihr Gutes ewiglich, auf dass ihr mächtig werdet und esset das Gut im Lande und vererbet es auf eure Kinder ewiglich.
+@11 die du durch deine Knechte, die Propheten, geboten hast und gesagt: Das Land, darein ihr kommt, es zu erben, ist ein unreines Land durch die Unreinigkeit der Völker in den Ländern in ihren Gräueln, womit sie es an allen Enden voll Unreinigkeit gemacht haben. ^g^
+@12 So sollt ihr nun eure Töchter nicht geben ihren Söhnen, und ihre Töchter sollt ihr euren Söhnen nicht nehmen; und suchet nicht ihren Frieden noch ihr Gutes ewiglich, auf dass ihr mächtig werdet und esset das Gut im Lande und vererbet es auf eure Kinder ewiglich. ^h^
 @13 Und nach dem allem, was über uns gekommen ist um unserer bösen Werke und großer Schuld willen, hast du, unser Gott, unsere Missetat verschont und hast uns eine Errettung gegeben, wie es da steht.
 @14 Sollten wir wiederum deine Gebote lassen fahren, dadurch dass wir uns mit den Völkern dieser Gräuel verschwägerten? Wirst du nicht über uns zürnen, bis dass es ganz aus sei, dass nichts Übriges noch keine Errettung sei?
-@15 HErr, Gott Israels, du bist gerecht; denn wir sind übriggeblieben als Errettete, wie es heutigestages steht. Siehe, wir sind vor dir in unserer Schuld; denn um deswillen ist nicht zu bestehen vor dir.
+@15 HErr, Gott Israels, du bist gerecht; denn wir sind übriggeblieben als Errettete, wie es heutigestages steht. Siehe, wir sind vor dir in unserer Schuld; denn um deswillen ist nicht zu bestehen vor dir. ^i^
+^b^[**9:2** Esr 9,11-12; Neh 13,23] ^c^[**9:3** 1Mo 37,34] ^d^[**9:6** Dan 9,7-8; Ps 38,5] ^e^[**9:8** Jes 22,23] ^f^[**9:9** Jes 5,5] ^g^[**9:11** 3Mo 18,24-25] ^h^[**9:12** 5Mo 7,2-3] ^i^[**9:15** Neh 9,33]
 
 # 10
 @1 Und da Esra also betete und bekannte, weinte und vor dem Hause Gottes lag, sammelten sich zu ihm aus Israel eine sehr große Gemeinde von Männern und Weibern und Kindern; denn das Volk weinte sehr.
@@ -270,7 +279,7 @@
 @15 (Nur Jonathan, der Sohn Asahels, und Jahseja, der Sohn Tikwas, setzten sich dawider, und Mesullam und Sabthai, der Levit, halfen ihnen.)
 @16 Und die Kinder der Gefangenschaft taten also. Und der Priester Esra und Männer, welche die Häupter ihrer Vaterhäuser waren, alle mit Namen genannt, wurden ausgesondert und setzten sich am ersten Tage des zehnten Monats, zu erforschen diese Sache;
 @17 und sie richteten's aus an allen Männern, die fremde Weiber hatten, bis zum ersten Tage des ersten Monats.
-@18 Und es wurden gefunden unter den Kindern der Priester, die fremde Weiber genommen hatten, nämlich unter den Kindern Jesuas, des Sohnes Jozadaks, und seinen Brüdern: Maaseja, Elieser, Jarib und Gedalja
+@18 Und es wurden gefunden unter den Kindern der Priester, die fremde Weiber genommen hatten, nämlich unter den Kindern Jesuas, des Sohnes Jozadaks, und seinen Brüdern: Maaseja, Elieser, Jarib und Gedalja ^[**10:18** Esr 3,2; Esr 9,2]
 @19 – und sie gaben ihre Hand darauf, dass sie die Weiber wollten ausstoßen und zu ihrem Schuldopfer einen Widder für ihre Schuld geben –;
 @20 unter den Kindern Immer: Hanani und Sebadja;
 @21 unter den Kindern Harim: Maaseja, Elia, Semaja Jehiel und Usia;
