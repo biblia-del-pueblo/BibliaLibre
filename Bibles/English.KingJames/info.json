@@ -2,7 +2,10 @@
   "Name": "King James of the People",
   "EnglishName": "King James of the People",
   "Class": "Bible",
-  "Language": "en",
+  "Language": "English",
   "LanguageEnglishName": "English",
+  "LanguageCode": "en-GB",
+  "CountryCode": "GB",
+  "CountryName": "England",
   "Publish": true
 }
