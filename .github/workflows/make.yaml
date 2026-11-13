@@ -53,9 +53,14 @@ jobs:
       matrix:
         configuration: [Release]
 
-    runs-on: ubuntu-26.04  # For a list of available runner types, refer to
+    runs-on: windows-latest  # For a list of available runner types, refer to
                              # https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idruns-on
     timeout-minutes: 240
+
+    # make.sh and the make.sh of each Bible are bash scripts: Git Bash is part of the Windows runner.
+    defaults:
+      run:
+        shell: bash
 
     permissions:
       contents: write   # to push the updated www/book-covers back to the repository
@@ -65,21 +70,17 @@ jobs:
       GitHubAction: true
       BibmarkVersion: 5.0.0
 
-    steps:    
+    steps:
+    # Git for Windows would check out the shell scripts with CRLF line endings, which bash cannot run.
+    - name: Keep LF line endings
+      run: git config --global core.autocrlf false
+
     - name: Checkout
       uses: actions/checkout@v5
       with:
         fetch-depth: 0
         submodules: recursive
         lfs: true
-
-    # BibleMarkdown/runtimes/** (the embedded pandoc binaries) are Git LFS files. Without this they stay LFS pointer
-    # text files and get packed into the nupkg as such. Make sure the submodule's LFS files are really downloaded.
-    - name: Pull LFS files of the submodules
-      run: |
-        git lfs install
-        git submodule foreach --recursive 'git lfs pull'
-        ls -l BibleMarkdown/BibleMarkdown/runtimes/linux-x64/
 
     # Install the .NET Core workload
     - name: Install .NET 11
@@ -98,27 +99,38 @@ jobs:
           -p:FileVersion=$BibmarkVersion.0 \
           -p:AssemblyVersion=$BibmarkVersion
         dotnet tool install -g BibleMarkdown --add-source BibleMarkdown/nupkg
+        echo "$USERPROFILE\\.dotnet\\tools" >> "$GITHUB_PATH"
 
-    # TeX Live from the Ubuntu packages, on the runner itself. (xu-cheng/texlive-action does not install anything on the
-    # runner: it runs the command of its "run" input inside a docker image, and it has no install-miktex input; that is why
-    # xelatex was not found.) Windows is not needed: make.sh, bibmark and pandoc all run on Linux.
-    - name: Install TeX Live
+    # MiKTeX (the TeX distribution the PDFs are made for), installed with Chocolatey. Missing packages (hebrew, greek,
+    # spanish, german ... support) are downloaded by MiKTeX on first use, so AutoInstall has to be on, otherwise
+    # xelatex waits for a prompt that nobody answers.
+    - name: Install MiKTeX
+      shell: pwsh
       run: |
-        sudo apt-get update
-        sudo apt-get install -y --no-install-recommends \
-          texlive-xetex texlive-latex-recommended texlive-latex-extra \
-          texlive-fonts-recommended texlive-fonts-extra texlive-lang-english texlive-lang-german texlive-lang-spanish \
-          texlive-lang-greek texlive-lang-other \
-          fontconfig
+        choco install miktex --no-progress -y
+        $bin = "C:\Program Files\MiKTeX\miktex\bin\x64"
+        if (-not (Test-Path "$bin\xelatex.exe")) { throw "xelatex.exe not found in $bin" }
+        Add-Content -Path $env:GITHUB_PATH -Value $bin
+        & "$bin\initexmf.exe" --admin --set-config-value "[MPM]AutoInstall=1"
+        & "$bin\miktex.exe" --admin packages update-package-database
+        & "$bin\miktex.exe" --admin packages update
 
-    # The tex files use the fonts of the Fonts folder (BibleRoman ...), by name, so they have to be installed.
+    # The tex files use the fonts of the Fonts folder (BibleRoman, Cardo, Frank Ruehl CLM ...), by name, so they have
+    # to be installed as system fonts (the fontconfig of XeTeX scans C:\Windows\Fonts).
     - name: Install the fonts
+      shell: pwsh
       run: |
-        mkdir -p ~/.fonts
-        find Fonts -type f \( -iname '*.ttf' -o -iname '*.otf' \) -exec cp {} ~/.fonts/ \;
-        fc-cache -f
-        fc-list | grep -ci "BibleRoman"
-        fc-list | grep -ciE "Cardo|Frank Ruehl" || echo "Cardo or Frank Ruehl CLM was not found"
+        $dest = "$env:WINDIR\Fonts"
+        $key = "HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts"
+        Get-ChildItem Fonts -Recurse -Include *.ttf,*.otf | ForEach-Object {
+          Copy-Item $_.FullName $dest -Force
+          $type = if ($_.Extension -ieq ".otf") { "OpenType" } else { "TrueType" }
+          New-ItemProperty -Path $key -Name "$($_.BaseName) ($type)" -Value $_.Name -PropertyType String -Force | Out-Null
+        }
+        $names = Get-ChildItem Fonts -Recurse -Include *.ttf,*.otf | ForEach-Object BaseName
+        "Installed $($names.Count) font files"
+        "BibleRoman: " + @($names | Where-Object { $_ -like "BibleRoman*" }).Count
+        "Cardo / Frank Ruehl CLM: " + @($names | Where-Object { $_ -match "Cardo|FrankRuehl" }).Count
 
     - name: Setup Pandoc
       uses: r-lib/actions/setup-pandoc@v2
@@ -132,10 +144,10 @@ jobs:
         pandoc --version
         bibmark --version
 
-    - name: Run make.sh
-      run: |
-        chmod +x make.sh
-        ./make.sh
+    # make.bat runs the make.bat of each Bible (bibmark, epub, pdf). It uses "call" for them, so all Bibles are built.
+    - name: Run make.bat
+      shell: cmd
+      run: make.bat
 
     # Zips every Bible folder of Bibles into www/books and writes www/books/index.json, which lists the zips and the
     # info.json of each: the Bibles that the BibleReader offers for download (BibliaLibre in its list of online Bibles).

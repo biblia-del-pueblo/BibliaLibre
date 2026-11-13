@@ -1,11 +1,11 @@
-dotnet tool install -g BibleMarkdown
+if not defined GitHubAction dotnet tool install -g BibleMarkdown
 
 cd Bibles\English.WorldEnglishBibleGB
-make.bat
+call make.bat
 cd ..\..\Bibles\English.WorldEnglishBibleUS
-make.bat
+call make.bat
 cd ..\..\Bibles\German.Schlachter1951
-make.bat
+call make.bat
 cd ..\..\Bibles\Spanish.ReinaValera1909
-make.bat
+call make.bat
 cd ..\..
