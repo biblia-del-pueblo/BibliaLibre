@@ -71,6 +71,15 @@ jobs:
       with:
         fetch-depth: 0
         submodules: recursive
+        lfs: true
+
+    # BibleMarkdown/runtimes/** (the embedded pandoc binaries) are Git LFS files. Without this they stay LFS pointer
+    # text files and get packed into the nupkg as such. Make sure the submodule's LFS files are really downloaded.
+    - name: Pull LFS files of the submodules
+      run: |
+        git lfs install
+        git submodule foreach --recursive 'git lfs pull'
+        ls -l BibleMarkdown/BibleMarkdown/runtimes/linux-x64/
 
     # Install the .NET Core workload
     - name: Install .NET 11
