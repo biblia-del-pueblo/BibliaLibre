@@ -5,12 +5,12 @@ using System.Text.RegularExpressions;
 Language = "english";
 //Replace = "/LORD/[Lord]{.smallcaps}";
 // replace uppercase words with smallcaps
-Create.Preprocess = txt => Regex.Replace(txt, @"(?<!(^|\n)#[^\n]*?)[A-Z][A-Z]+", m =>
+Create.Preprocess = txt => Regex.Replace(txt, @"(?<!((^|\n)#[^\n]*?|[^ ]_))\p{Lu}{2,}", m =>
 {
 
     if (Regex.IsMatch(m.Value, "^(?:[IVXCD]+|ISBN)$", RegexOptions.Singleline))
     {
-        // is roman number
+        // is roman number or ISBN
         return m.Value;
     }
 
@@ -21,4 +21,4 @@ Create.Preprocess = txt => Regex.Replace(txt, @"(?<!(^|\n)#[^\n]*?)[A-Z][A-Z]+",
     return str.ToString();
 }, RegexOptions.Singleline);
 
-//Program.ImportStrongs = true;
+Import.ImportStrongs = true;

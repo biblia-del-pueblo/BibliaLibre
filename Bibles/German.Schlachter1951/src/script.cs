@@ -9,12 +9,12 @@ Epub.Page = book => {
     return $"ch{book:d3}.xhtml";
 };
 
-Program.Language = "german";
+Language = "german";
 // replace uppercase words with smallcaps
-Program.Preprocess = txt => Regex.Replace(txt, @"[A-ZÑÓÍÉÁÚÄÜÖ][A-ZÑÓÍÉÁÚÄÜÖ]+", m => {
+Create.Preprocess = txt => Regex.Replace(txt, @"(?<!((^|\n)#[^\n]*?|[^ ]_))\p{Lu}{2,}", m => {
         
-        if (Regex.IsMatch(m.Value, "^[IVXCD]+$", RegexOptions.Singleline)) {
-            // is roman number
+        if (Regex.IsMatch(m.Value, "^[IVXCD]+|ISBN$", RegexOptions.Singleline)) {
+            // is roman number or ISBN
             return m.Value;
         }
 
@@ -25,4 +25,4 @@ Program.Preprocess = txt => Regex.Replace(txt, @"[A-ZÑÓÍÉÁÚÄÜÖ][A-ZÑÓ
         return str.ToString();
     });
 
-Program.Log("Added epub rule.");
+Log("Added epub rule.");
