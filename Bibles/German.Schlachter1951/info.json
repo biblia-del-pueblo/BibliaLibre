@@ -2,7 +2,10 @@
   "Name": "Schlachter 1951",
   "EnglishName": "Schlachter 1951",
   "Class": "Bible",
-  "Language": "de",
+  "Language": "Deutsch",
   "LanguageEnglishName": "German",
+  "LanguageCode": "de",
+  "CountryCode": "CH",
+  "CountryName": "Schweiz",
   "Publish": true
 }

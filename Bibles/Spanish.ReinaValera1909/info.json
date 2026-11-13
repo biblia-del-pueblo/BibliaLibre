@@ -1,7 +1,11 @@
 {
-  "Name": "Reina Valera Antigua",
-  "EnglishName": "Reina Valera Antigua",
+  "Name": "Reina Valera 1909",
+  "EnglishName": "Reina Valera 1909",
   "Class": "Bible",
-  "Language": "es",
-  "LanguageEnglishName": "Spanish"
+  "Language": "Español",
+  "LanguageEnglishName": "Spanish",
+  "LanguageCode": "es",
+  "CountryCode": "ES",
+  "CountryName": "España",
+  "Publish": true
 }

@@ -2,6 +2,9 @@
   "Name": "Lutherbibel 1912",
   "EnglishName": "Luther Bible 1912",
   "Class": "Bible",
-  "Language": "de",
-  "LanguageEnglishName": "German"
+  "Language": "Deutsch",
+  "LanguageEnglishName": "German",
+  "LanguageCode": "de",
+  "CountryCode": "DE",
+  "CountryName": "Deutschland"
 }

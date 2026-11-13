@@ -2,8 +2,9 @@
   "Name": "World English Bible (British)",
   "EnglishName": "World English Bible (British)",
   "Class": "Bible",
-  "Language": "en",
+  "Language": "English",
   "LanguageEnglishName": "English",
+  "LanguageCode": "en-GB",
   "CountryCode": "GB",
   "CountryName": "United Kingdom",
   "Publish": true

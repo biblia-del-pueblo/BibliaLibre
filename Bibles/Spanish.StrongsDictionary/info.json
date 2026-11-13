@@ -3,7 +3,9 @@
     "EnglishName": "Spanish Amplified Strong's Dictionary",
     "Language": "Español",
     "LanguageEnglishName": "Spanish",
-    "CountryName": "Spain",
+    "LanguageCode": "es",
+    "CountryCode": "ES",
+    "CountryName": "España",
     "Class": "Dictionary",
     "Publish": true
 }

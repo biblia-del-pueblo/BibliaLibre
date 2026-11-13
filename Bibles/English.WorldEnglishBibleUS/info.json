@@ -2,8 +2,9 @@
   "Name": "World English Bible (American)",
   "EnglishName": "World English Bible (American)",
   "Class": "Bible",
-  "Language": "en",
+  "Language": "English",
   "LanguageEnglishName": "English",
+  "LanguageCode": "en-US",
   "CountryCode": "US",
   "CountryName": "United States",
   "Publish": true
