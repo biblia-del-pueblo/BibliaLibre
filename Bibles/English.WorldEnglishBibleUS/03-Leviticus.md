@@ -1,192 +1,192 @@
 # 1 
 ## Rules regarding holocausts
-@1 Yahweh^a^ called to Moses, and spoke to him from the Tent of Meeting, saying, 
-@2 “Speak to the children of Israel, and tell them, ‘When anyone of you offers an offering to Yahweh, you shall offer your offering of the livestock, from the herd and from the flock. 
+@1 Yahweh_H3068^a^ called_H7121 to_H0413 Moses_H4872, and_H3068 spoke_H1696 to_H0413 him_H0413 from_H0413 the_H0559 Tent_H0168 of_H3068 Meeting_H4150, saying_H0559, 
+@2 “Speak_H1696 to_H0413 the_H0853 children_H1121 of_H1121 Israel_H3478, and_H1121 tell_H0559 them_H0413, ‘When_H3588 anyone_H0120 of_H1121 you_H3588 offers_H7126 an_H7126 offering_H7133 to_H0413 Yahweh_H3068, you_H3588 shall_H1121 offer_H7126 your_H3068 offering_H7133 of_H1121 the_H0853 livestock_H0929, from_H4480 the_H0853 herd_H1241 and_H1121 from_H4480 the_H0853 flock_H6629. 
 ^a^[**1:1** “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.]
 
 ## Livestock holocausts
-@3 “‘If his offering is a burnt offering from the herd, he shall offer a male without defect. He shall offer it at the door of the Tent of Meeting, that he may be accepted before Yahweh. 
-@4 He shall lay his hand on the head of the burnt offering, and it shall be accepted for him to make atonement for him. 
-@5 He shall kill the bull before Yahweh. Aaron’s sons, the priests, shall present the blood and sprinkle the blood around on the altar that is at the door of the Tent of Meeting. 
-@6 He shall skin the burnt offering and cut it into pieces. 
-@7 The sons of Aaron the priest shall put fire on the altar, and lay wood in order on the fire; 
-@8 and Aaron’s sons, the priests, shall lay the pieces, the head, and the fat in order on the wood that is on the fire which is on the altar; 
-@9 but he shall wash its innards and its legs with water. The priest shall burn all of it on the altar, for a burnt offering, an offering made by fire, of a pleasant aroma to Yahweh.
+@3 “‘If_H0518 his_H3068 offering_H7133 is_H3068 a_H0518 burnt_H5930 offering_H7133 from_H4480 the_H0853 herd_H1241, he_H0518 shall_H3068 offer_H7126 a_H0518 male_H2145 without_H8549 defect_H8549. He_H0518 shall_H3068 offer_H7126 it_H0518 at_H0413 the_H0853 door_H6607 of_H3068 the_H0853 Tent_H0168 of_H3068 Meeting_H4150, that_H4480 he_H0518 may_H3068 be_H3068 accepted_H7522 before_H6440 Yahweh_H3068. 
+@4 He_H5921 shall_H3027 lay_H5564 his_H5921 hand_H3027 on_H5921 the_H5921 head_H7218 of_H3027 the_H5921 burnt_H5930 offering_H3722, and_H3027 it_H5921 shall_H3027 be_H3027 accepted_H7521 for_H5921 him_H5921 to_H5921 make_H7521 atonement_H3722 for_H5921 him_H5921. 
+@5 He_H0834 shall_H3548 kill_H7819 the_H0853 bull_H1241 before_H6440 Yahweh_H3068. Aaron’s_H0175 sons_H1121, the_H0853 priests_H3548, shall_H3548 present_H7126 the_H0853 blood_H1818 and_H1121 sprinkle_H2236 the_H0853 blood_H1818 around_H5439 on_H5921 the_H0853 altar_H4196 that_H0834 is_H0834 at_H5921 the_H0853 door_H6607 of_H1121 the_H0853 Tent_H0168 of_H1121 Meeting_H4150. 
+@6 He_H0853 shall skin_H6584 the_H0853 burnt_H5930 offering and_H0853 cut_H5408 it into pieces_H5409. 
+@7 The_H5921 sons_H1121 of_H1121 Aaron_H0175 the_H5921 priest_H3548 shall_H3548 put_H5414 fire_H0784 on_H5921 the_H5921 altar_H4196, and_H1121 lay_H5414 wood_H6086 in_H5921 order on_H5921 the_H5921 fire_H0784; 
+@8 and_H1121 Aaron’s_H0175 sons_H1121, the_H0853 priests_H3548, shall_H3548 lay_H1121 the_H0853 pieces_H5409, the_H0853 head_H7218, and_H1121 the_H0853 fat in_H5921 order on_H5921 the_H0853 wood_H6086 that_H0834 is_H0834 on_H5921 the_H0853 fire_H0784 which_H0834 is_H0834 on_H5921 the_H0853 altar_H4196; 
+@9 but_H4325 he_H3068 shall_H3548 wash_H7364 its_H3605 innards and_H3068 its_H3605 legs_H3767 with_H3068 water_H4325. The_H3605 priest_H3548 shall_H3548 burn_H6999 all_H3605 of_H3068 it_H3068 on_H3068 the_H3605 altar_H4196, for_H4325 a_H3068 burnt_H5930 offering_H0801, an_H3068 offering_H0801 made_H3605 by_H0801 fire_H0801, of_H3068 a_H3068 pleasant aroma_H5207 to_H3068 Yahweh_H3068.
 
 ## Herd holocausts
-@10 “‘If his offering is from the flock, from the sheep or from the goats, for a burnt offering, he shall offer a male without defect. 
-@11 He shall kill it on the north side of the altar before Yahweh. Aaron’s sons, the priests, shall sprinkle its blood around on the altar. 
-@12 He shall cut it into its pieces, with its head and its fat. The priest shall lay them in order on the wood that is on the fire which is on the altar, 
-@13 but the innards and the legs he shall wash with water. The priest shall offer the whole, and burn it on the altar. It is a burnt offering, an offering made by fire, of a pleasant aroma to Yahweh.
+@10 “‘If_H0518 his_H0518 offering_H7133 is_H0176 from_H4480 the_H4480 flock_H6629, from_H4480 the_H4480 sheep_H6629 or_H0176 from_H4480 the_H4480 goats_H5795, for_H0518 a_H0176 burnt_H5930 offering_H7133, he_H0518 shall_H5795 offer_H7126 a_H0176 male_H2145 without_H8549 defect_H8549. 
+@11 He_H3068 shall_H3548 kill_H7819 it_H5921 on_H5921 the_H0853 north_H6828 side_H5439 of_H1121 the_H0853 altar_H4196 before_H6440 Yahweh_H3068. Aaron’s_H0175 sons_H1121, the_H0853 priests_H3548, shall_H3548 sprinkle_H2236 its_H0853 blood_H1818 around_H5439 on_H5921 the_H0853 altar_H4196. 
+@12 He_H0834 shall_H3548 cut_H5408 it_H5921 into_H5921 its_H0853 pieces_H5409, with_H0854 its_H0853 head_H7218 and_H3548 its_H0853 fat. The_H0853 priest_H3548 shall_H3548 lay them_H0853 in_H5921 order on_H5921 the_H0853 wood_H6086 that_H0834 is_H0834 on_H5921 the_H0853 fire_H0784 which_H0834 is_H0834 on_H5921 the_H0853 altar_H4196, 
+@13 but_H4325 the_H3605 innards and_H3068 the_H3605 legs_H3767 he_H1931 shall_H3548 wash_H7364 with_H3068 water_H4325. The_H3605 priest_H3548 shall_H3548 offer_H7126 the_H3605 whole_H3605, and_H3068 burn_H6999 it_H1931 on_H3068 the_H3605 altar_H4196. It_H1931 is_H3068 a_H7126 burnt_H5930 offering_H0801, an_H7126 offering_H0801 made_H3605 by_H0801 fire_H0801, of_H3068 a_H7126 pleasant aroma_H5207 to_H3068 Yahweh_H3068.
 
 ## Holocausts of birds
-@14 “‘If his offering to Yahweh is a burnt offering of birds, then he shall offer his offering from turtledoves or of young pigeons. 
-@15 The priest shall bring it to the altar, and wring off its head, and burn it on the altar; and its blood shall be drained out on the side of the altar; 
-@16 and he shall take away its crop and its feathers, and cast it beside the altar on the east part, in the place of the ashes. 
-@17 He shall tear it by its wings, but shall not divide it apart. The priest shall burn it on the altar, on the wood that is on the fire. It is a burnt offering, an offering made by fire, of a pleasant aroma to Yahweh. 
+@14 “‘If_H0518 his_H3068 offering_H7133 to_H3068 Yahweh_H3068 is_H3068 a_H0176 burnt_H5930 offering_H7133 of_H1121 birds_H5775, then_H0853 he_H0518 shall_H1121 offer_H7126 his_H3068 offering_H7133 from_H4480 turtledoves_H8449 or_H0176 of_H1121 young_H1121 pigeons_H3123. 
+@15 The_H0853 priest_H3548 shall_H3548 bring_H7126 it_H5921 to_H0413 the_H0853 altar_H4196, and_H3548 wring_H4454 off_H5921 its_H0853 head_H7218, and_H3548 burn_H6999 it_H5921 on_H5921 the_H0853 altar_H4196; and_H3548 its_H0853 blood_H1818 shall_H3548 be_H3548 drained_H4680 out_H5921 on_H5921 the_H0853 side_H7023 of_H7218 the_H0853 altar_H4196; 
+@16 and_H4196 he_H0853 shall take_H5493 away_H5493 its_H0853 crop_H4760 and_H4196 its_H0853 feathers_H5133, and_H4196 cast_H7993 it_H7993 beside_H0681 the_H0853 altar_H4196 on_H0413 the_H0853 east_H6924 part, in_H0413 the_H0853 place_H4725 of_H4196 the_H0853 ashes_H1880. 
+@17 He_H0834 shall_H3548 tear_H8156 it_H1931 by_H0801 its_H0853 wings_H3671, but_H3808 shall_H3548 not_H3808 divide_H0914 it_H1931 apart_H0914. The_H0853 priest_H3548 shall_H3548 burn_H6999 it_H1931 on_H5921 the_H0853 altar_H4196, on_H5921 the_H0853 wood_H6086 that_H0834 is_H0834 on_H5921 the_H0853 fire_H0784. It_H1931 is_H0834 a_H0834 burnt_H5930 offering_H0801, an_H3068 offering_H0801 made_H0914 by_H0801 fire_H0784, of_H3068 a_H0834 pleasant aroma_H5207 to_H5921 Yahweh_H3068. 
 
 # 2 
 ## Policies regarding the food offering
-@1 “‘When anyone offers an offering of a meal offering to Yahweh, his offering shall be of fine flour. He shall pour oil on it, and put frankincense on it. 
-@2 He shall bring it to Aaron’s sons, the priests. He shall take his handful of its fine flour, and of its oil, with all its frankincense, and the priest shall burn its memorial on the altar, an offering made by fire, of a pleasant aroma to Yahweh. 
-@3 That which is left of the meal offering shall be Aaron’s and his sons’. It is a most holy part of the offerings of Yahweh made by fire. 
+@1 “‘When_H3588 anyone_H5315 offers_H7126 an_H1961 offering_H4503 of_H3068 a_H1961 meal_H4503 offering_H4503 to_H1961 Yahweh_H3068, his_H5414 offering_H4503 shall_H3068 be_H1961 of_H3068 fine_H5560 flour_H5560. He_H3588 shall_H3068 pour_H3332 oil_H8081 on_H5921 it_H5414, and_H3068 put_H5414 frankincense_H3828 on_H5921 it_H5414. 
+@2 He_H8033 shall_H3548 bring_H0935 it_H5921 to_H0413 Aaron’s_H0175 sons_H1121, the_H3605 priests_H3548. He_H8033 shall_H3548 take_H0935 his_H3605 handful_H7062 of_H1121 its_H3605 fine_H5560 flour_H5560, and_H1121 of_H1121 its_H3605 oil_H8081, with_H0413 all_H3605 its_H3605 frankincense_H3828, and_H1121 the_H3605 priest_H3548 shall_H3548 burn_H6999 its_H3605 memorial_H0234 on_H5921 the_H3605 altar_H4196, an_H8033 offering_H0801 made_H3605 by_H0801 fire_H0801, of_H1121 a_H0935 pleasant aroma_H5207 to_H0413 Yahweh_H3068. 
+@3 That_H4480 which is_H3068 left_H3498 of_H1121 the_H4480 meal_H4503 offering_H4503 shall_H0175 be_H1121 Aaron’s_H0175 and_H1121 his_H3068 sons’_H1121. It_H3068 is_H3068 a_H4480 most_H6944 holy_H6944 part_H4480 of_H1121 the_H4480 offerings_H0801 of_H1121 Yahweh_H3068 made by_H0801 fire_H0801. 
 
-@4 “‘When you offer an offering of a meal offering baked in the oven, it shall be unleavened cakes of fine flour mixed with oil, or unleavened wafers anointed with oil. 
-@5 If your offering is a meal offering made on a griddle, it shall be of unleavened fine flour, mixed with oil. 
-@6 You shall cut it in pieces, and pour oil on it. It is a meal offering. 
-@7 If your offering is a meal offering of the pan, it shall be made of fine flour with oil.
+@4 “‘When_H3588 you_H3588 offer_H7126 an_H7126 offering_H4503 of_H4503 a_H3588 meal_H4503 offering_H4503 baked_H3989 in_H4503 the_H3588 oven_H8574, it_H3588 shall be_H8081 unleavened_H4682 cakes_H2471 of_H4503 fine_H5560 flour_H5560 mixed_H1101 with_H4886 oil_H8081, or_H8081 unleavened_H4682 wafers_H7550 anointed_H4886 with_H4886 oil_H8081. 
+@5 If_H0518 your_H5921 offering_H4503 is_H1961 a_H1961 meal_H4503 offering_H4503 made_H1961 on_H5921 a_H1961 griddle_H4227, it_H0518 shall be_H1961 of_H5921 unleavened_H4682 fine_H5560 flour_H5560, mixed_H1101 with_H5921 oil_H8081. 
+@6 You_H5921 shall_H1931 cut it_H1931 in_H5921 pieces_H6595, and_H8081 pour_H3332 oil_H8081 on_H5921 it_H1931. It_H1931 is_H1931 a_H5921 meal_H4503 offering_H4503. 
+@7 If_H0518 your_H0518 offering_H4503 is_H0518 a_H0518 meal_H4503 offering_H4503 of_H4503 the_H0518 pan_H4802, it_H0518 shall be_H8081 made_H6213 of_H4503 fine_H5560 flour_H5560 with_H8081 oil_H8081.
 
 ## General information on the preparation and offer of meals
-@8 You shall bring the meal offering that is made of these things to Yahweh. It shall be presented to the priest, and he shall bring it to the altar. 
-@9 The priest shall take from the meal offering its memorial, and shall burn it on the altar, an offering made by fire, of a pleasant aroma to Yahweh. 
-@10 That which is left of the meal offering shall be Aaron’s and his sons’. It is a most holy part of the offerings of Yahweh made by fire. 
+@8 You_H0834 shall_H3548 bring_H0935 the_H0853 meal_H4503 offering_H4503 that_H0834 is_H0834 made_H6213 of_H3068 these_H0428 things_H0428 to_H0413 Yahweh_H3068. It_H7126 shall_H3548 be_H3068 presented_H7126 to_H0413 the_H0853 priest_H3548, and_H0935 he_H0834 shall_H3548 bring_H0935 it_H7126 to_H0413 the_H0853 altar_H4196. 
+@9 The_H0853 priest_H3548 shall_H3548 take_H7311 from_H4480 the_H0853 meal_H4503 offering_H4503 its_H0853 memorial_H0234, and_H3068 shall_H3548 burn_H6999 it_H3068 on_H3068 the_H0853 altar_H4196, an_H4480 offering_H4503 made_H7311 by_H0801 fire_H0801, of_H3068 a_H4480 pleasant aroma_H5207 to_H3068 Yahweh_H3068. 
+@10 That_H4480 which is_H3068 left_H3498 of_H1121 the_H4480 meal_H4503 offering_H4503 shall_H0175 be_H1121 Aaron’s_H0175 and_H1121 his_H3068 sons’_H1121. It_H3068 is_H3068 a_H4480 most_H6944 holy_H6944 part_H4480 of_H1121 the_H4480 offerings_H0801 of_H1121 Yahweh_H3068 made by_H0801 fire_H0801. 
 
-@11 “‘No meal offering which you shall offer to Yahweh shall be made with yeast; for you shall burn no yeast, nor any honey, as an offering made by fire to Yahweh. 
-@12 As an offering of first fruits you shall offer them to Yahweh, but they shall not rise up as a pleasant aroma on the altar. 
-@13 Every offering of your meal offering you shall season with salt. You shall not allow the salt of the covenant of your God^a^ to be lacking from your meal offering. With all your offerings you shall offer salt. 
+@11 “‘No_H3808 meal_H4503 offering_H4503 which_H0834 you_H0834 shall_H3068 offer_H7126 to_H3068 Yahweh_H3068 shall_H3068 be_H3808 made_H6213 with_H3068 yeast_H7603; for_H3588 you_H0834 shall_H3068 burn_H6999 no_H3808 yeast_H7603, nor_H3808 any_H3605 honey_H1706, as_H0834 an_H7126 offering_H4503 made_H6213 by_H0801 fire_H0801 to_H3068 Yahweh_H3068. 
+@12 As_H3068 an_H7126 offering_H5927 of_H3068 first_H7225 fruits_H7225 you_H3808 shall_H3068 offer_H7126 them_H0413 to_H0413 Yahweh_H3068, but_H3808 they_H3808 shall_H3068 not_H3808 rise_H5927 up_H5927 as_H3068 a_H7126 pleasant aroma_H5207 on_H0413 the_H0853 altar_H4196. 
+@13 Every_H3605 offering_H4503 of_H0430 your_H3605 meal_H4503 offering_H4503 you_H3605 shall_H3808 season with_H1285 salt_H4417. You_H3605 shall_H3808 not_H3808 allow_H4414 the_H3605 salt_H4417 of_H0430 the_H3605 covenant_H1285 of_H0430 your_H3605 God_H0430^a^ to_H5921 be_H3808 lacking from_H5921 your_H3605 meal_H4503 offering_H4503. With_H1285 all_H3605 your_H3605 offerings_H4503 you_H3605 shall_H3808 offer_H7126 salt_H4417. 
 ^a^[**2:13** The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).]
 
 ## Cereal Firstfruits Meal Offering
-@14 “‘If you offer a meal offering of first fruits to Yahweh, you shall offer for the meal offering of your first fruits fresh heads of grain parched with fire and crushed. 
-@15 You shall put oil on it and lay frankincense on it. It is a meal offering. 
-@16 The priest shall burn as its memorial part of its crushed grain and part of its oil, along with all its frankincense. It is an offering made by fire to Yahweh. 
+@14 “‘If_H0518 you_H0518 offer_H7126 a_H0518 meal_H4503 offering_H4503 of_H3068 first_H1061 fruits_H1061 to_H3068 Yahweh_H3068, you_H0518 shall_H3068 offer_H7126 for_H0518 the_H0853 meal_H4503 offering_H4503 of_H3068 your_H3068 first_H1061 fruits_H1061 fresh_H0024 heads_H0024 of_H3068 grain_H0024 parched_H7033 with_H3068 fire_H0784 and_H3068 crushed. 
+@15 You_H5414 shall_H1931 put_H5414 oil_H8081 on_H5921 it_H5414 and_H8081 lay_H5414 frankincense_H3828 on_H5921 it_H5414. It_H5414 is_H1931 a_H5414 meal_H4503 offering_H4503. 
+@16 The_H3605 priest_H3548 shall_H3548 burn_H6999 as_H3068 its_H3605 memorial_H0234 part_H5921 of_H3068 its_H3605 crushed grain_H3605 and_H3068 part_H5921 of_H3068 its_H3605 oil_H8081, along_H5921 with_H3068 all_H3605 its_H3605 frankincense_H3828. It_H5921 is_H3068 an_H3068 offering_H0801 made_H3605 by_H0801 fire_H0801 to_H5921 Yahweh_H3068. 
 
 # 3 
 ## Cattle Salvation Offerings
-@1 “‘If his offering is a sacrifice of peace offerings, if he offers it from the herd, whether male or female, he shall offer it without defect before Yahweh. 
-@2 He shall lay his hand on the head of his offering, and kill it at the door of the Tent of Meeting. Aaron’s sons, the priests, shall sprinkle the blood around on the altar. 
-@3 He shall offer of the sacrifice of peace offerings an offering made by fire to Yahweh. The fat that covers the innards, and all the fat that is on the innards, 
-@4 and the two kidneys, and the fat that is on them, which is by the loins, and the cover on the liver, with the kidneys, he shall take away. 
-@5 Aaron’s sons shall burn it on the altar on the burnt offering, which is on the wood that is on the fire: it is an offering made by fire, of a pleasant aroma to Yahweh.
+@1 “‘If_H0518 his_H3068 offering_H7133 is_H3068 a_H0518 sacrifice_H2077 of_H3068 peace_H8002 offerings_H8002, if_H0518 he_H1931 offers_H7126 it_H1931 from_H4480 the_H6440 herd_H1241, whether_H0518 male_H2145 or_H0518 female_H5347, he_H1931 shall_H3068 offer_H7126 it_H1931 without_H8549 defect_H8549 before_H6440 Yahweh_H3068. 
+@2 He_H0853 shall_H3548 lay_H5564 his_H5921 hand_H3027 on_H5921 the_H0853 head_H7218 of_H1121 his_H5921 offering_H7133, and_H1121 kill_H7819 it_H5921 at_H5921 the_H0853 door_H6607 of_H1121 the_H0853 Tent_H0168 of_H1121 Meeting_H4150. Aaron’s_H0175 sons_H1121, the_H0853 priests_H3548, shall_H3548 sprinkle_H2236 the_H0853 blood_H1818 around_H5439 on_H5921 the_H0853 altar_H4196. 
+@3 He_H0834 shall_H3068 offer_H7126 of_H3068 the_H3605 sacrifice_H2077 of_H3068 peace_H8002 offerings_H8002 an_H7126 offering_H0801 made_H3605 by_H0801 fire_H0801 to_H5921 Yahweh_H3068. The_H3605 fat_H2459 that_H0834 covers_H3680 the_H3605 innards, and_H3068 all_H3605 the_H3605 fat_H2459 that_H0834 is_H0834 on_H5921 the_H3605 innards, 
+@4 and_H0853 the_H0853 two_H8147 kidneys_H3629, and_H0853 the_H0853 fat_H2459 that_H0834 is_H0834 on_H5921 them_H0853, which_H0834 is_H0834 by_H5921 the_H0853 loins_H3689, and_H0853 the_H0853 cover on_H5921 the_H0853 liver_H3516, with_H5921 the_H0853 kidneys_H3629, he_H0834 shall_H0834 take_H5493 away_H5493. 
+@5 Aaron’s_H0175 sons_H1121 shall_H0175 burn_H6999 it_H5921 on_H5921 the_H0853 altar_H4196 on_H5921 the_H0853 burnt_H5930 offering_H0801, which_H0834 is_H0834 on_H5921 the_H0853 wood_H6086 that_H0834 is_H0834 on_H5921 the_H0853 fire_H0784: it_H5921 is_H0834 an_H3068 offering_H0801 made_H0834 by_H0801 fire_H0784, of_H1121 a_H0834 pleasant aroma_H5207 to_H5921 Yahweh_H3068.
 
 ## Herd Salvation Offerings
-@6 “‘If his offering for a sacrifice of peace offerings to Yahweh is from the flock, either male or female, he shall offer it without defect. 
-@7 If he offers a lamb for his offering, then he shall offer it before Yahweh; 
-@8 and he shall lay his hand on the head of his offering, and kill it before the Tent of Meeting. Aaron’s sons shall sprinkle its blood around on the altar. 
-@9 He shall offer from the sacrifice of peace offerings an offering made by fire to Yahweh; its fat, the entire tail fat, he shall take away close to the backbone; and the fat that covers the entrails, and all the fat that is on the entrails, 
-@10 and the two kidneys, and the fat that is on them, which is by the loins, and the cover on the liver, with the kidneys, he shall take away. 
-@11 The priest shall burn it on the altar: it is the food of the offering made by fire to Yahweh. 
+@6 “‘If_H0518 his_H3068 offering_H7133 for_H0518 a_H0176 sacrifice_H2077 of_H3068 peace_H8002 offerings_H8002 to_H3068 Yahweh_H3068 is_H3068 from_H4480 the_H4480 flock_H6629, either_H0518 male_H2145 or_H0176 female_H5347, he_H0518 shall_H3068 offer_H7126 it_H0518 without_H8549 defect_H8549. 
+@7 If_H0518 he_H1931 offers_H7126 a_H0518 lamb_H3775 for_H0518 his_H3068 offering_H7133, then_H0853 he_H1931 shall_H3068 offer_H7126 it_H1931 before_H6440 Yahweh_H3068; 
+@8 and_H1121 he_H0853 shall_H0175 lay_H5564 his_H5921 hand_H3027 on_H5921 the_H0853 head_H7218 of_H1121 his_H5921 offering_H7133, and_H1121 kill_H7819 it_H5921 before_H6440 the_H0853 Tent_H0168 of_H1121 Meeting_H4150. Aaron’s_H0175 sons_H1121 shall_H0175 sprinkle_H2236 its_H0853 blood_H1818 around_H5439 on_H5921 the_H0853 altar_H4196. 
+@9 He_H0834 shall_H3068 offer_H7126 from_H5493 the_H3605 sacrifice_H2077 of_H3068 peace_H8002 offerings_H8002 an_H7126 offering_H0801 made_H3605 by_H0801 fire_H0801 to_H5921 Yahweh_H3068; its_H3605 fat_H2459, the_H3605 entire_H3605 tail_H0451 fat_H2459, he_H0834 shall_H3068 take_H5493 away_H5493 close_H5980 to_H5921 the_H3605 backbone_H6096; and_H3068 the_H3605 fat_H2459 that_H0834 covers_H3680 the_H3605 entrails_H7130, and_H3068 all_H3605 the_H3605 fat_H2459 that_H0834 is_H0834 on_H5921 the_H3605 entrails_H7130, 
+@10 and_H0853 the_H0853 two_H8147 kidneys_H3629, and_H0853 the_H0853 fat_H2459 that_H0834 is_H0834 on_H5921 them_H0853, which_H0834 is_H0834 by_H5921 the_H0853 loins_H3689, and_H0853 the_H0853 cover on_H5921 the_H0853 liver_H3516, with_H5921 the_H0853 kidneys_H3629, he_H0834 shall_H0834 take_H5493 away_H5493. 
+@11 The_H3068 priest_H3548 shall_H3548 burn_H6999 it_H3068 on_H3068 the_H3068 altar_H4196: it_H3068 is_H3068 the_H3068 food_H3899 of_H3068 the_H3068 offering_H0801 made by_H0801 fire_H0801 to_H3068 Yahweh_H3068. 
 
-@12 “‘If his offering is a goat, then he shall offer it before Yahweh. 
-@13 He shall lay his hand on its head, and kill it before the Tent of Meeting; and the sons of Aaron shall sprinkle its blood around on the altar. 
-@14 He shall offer from it as his offering, an offering made by fire to Yahweh; the fat that covers the innards, and all the fat that is on the innards, 
-@15 and the two kidneys, and the fat that is on them, which is by the loins, and the cover on the liver, with the kidneys, he shall take away. 
-@16 The priest shall burn them on the altar: it is the food of the offering made by fire, for a pleasant aroma; all the fat is Yahweh’s. 
+@12 “‘If_H0518 his_H3068 offering_H7133 is_H3068 a_H0518 goat_H5795, then_H7126 he_H0518 shall_H3068 offer_H7126 it_H0518 before_H6440 Yahweh_H3068. 
+@13 He_H0853 shall_H0175 lay_H5564 his_H5921 hand_H3027 on_H5921 its_H0853 head_H7218, and_H1121 kill_H7819 it_H5921 before_H6440 the_H0853 Tent_H0168 of_H1121 Meeting_H4150; and_H1121 the_H0853 sons_H1121 of_H1121 Aaron_H0175 shall_H0175 sprinkle_H2236 its_H0853 blood_H1818 around_H5439 on_H5921 the_H0853 altar_H4196. 
+@14 He_H0834 shall_H3068 offer_H7126 from_H4480 it_H5921 as_H0834 his_H3605 offering_H0801, an_H7126 offering_H0801 made_H3605 by_H0801 fire_H0801 to_H5921 Yahweh_H3068; the_H3605 fat_H2459 that_H0834 covers_H3680 the_H3605 innards, and_H3068 all_H3605 the_H3605 fat_H2459 that_H0834 is_H0834 on_H5921 the_H3605 innards, 
+@15 and_H0853 the_H0853 two_H8147 kidneys_H3629, and_H0853 the_H0853 fat_H2459 that_H0834 is_H0834 on_H5921 them_H0853, which_H0834 is_H0834 by_H5921 the_H0853 loins_H3689, and_H0853 the_H0853 cover on_H5921 the_H0853 liver_H3516, with_H5921 the_H0853 kidneys_H3629, he_H0834 shall_H0834 take_H5493 away_H5493. 
+@16 The_H3605 priest_H3548 shall_H3548 burn_H6999 them_H4196 on_H3068 the_H3605 altar_H4196: it_H3068 is_H3068 the_H3605 food_H3899 of_H3068 the_H3605 offering_H0801 made_H3605 by_H0801 fire_H0801, for_H4196 a_H3068 pleasant aroma_H5207; all_H3605 the_H3605 fat_H2459 is_H3068 Yahweh’s_H3068. 
 
-@17 “‘It shall be a perpetual statute throughout your generations in all your dwellings, that you shall eat neither fat nor blood.’” 
+@17 “‘It_H0398 shall_H3808 be_H3808 a_H3808 perpetual_H5769 statute_H2708 throughout_H3605 your_H3605 generations_H1755 in_H4186 all_H3605 your_H3605 dwellings_H4186, that_H3605 you_H3605 shall_H3808 eat_H0398 neither_H3808 fat_H2459 nor_H3808 blood_H1818.’” 
 
 # 4 
 ## Regulations Concerning Sin Offerings
-@1 Yahweh spoke to Moses, saying, 
-@2 “Speak to the children of Israel, saying, ‘If anyone sins unintentionally, in any of the things which Yahweh has commanded not to be done, and does any one of them,
+@1 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
+@2 “Speak_H1696 to_H0413 the_H3605 children_H1121 of_H1121 Israel_H3478, saying_H0559, ‘If_H3588 anyone_H3605 sins_H2398 unintentionally_H7684, in_H0413 any_H3605 of_H1121 the_H3605 things_H3605 which_H0834 Yahweh_H3068 has_H3068 commanded_H0559 not_H3808 to_H0413 be_H3808 done_H6213, and_H1121 does_H6213 any_H3605 one_H0259 of_H1121 them_H0413,
 
 ## Sacrifice when the high priest sinned
-@3 if the anointed priest sins so as to bring guilt on the people, then let him offer for his sin which he has sinned a young bull without defect to Yahweh for a sin offering. 
-@4 He shall bring the bull to the door of the Tent of Meeting before Yahweh; and he shall lay his hand on the head of the bull, and kill the bull before Yahweh. 
-@5 The anointed priest shall take some of the blood of the bull, and bring it to the Tent of Meeting. 
-@6 The priest shall dip his finger in the blood, and sprinkle some of the blood seven times before Yahweh, before the veil of the sanctuary. 
-@7 The priest shall put some of the blood on the horns of the altar of sweet incense before Yahweh, which is in the Tent of Meeting; and he shall pour out the rest of the blood of the bull at the base of the altar of burnt offering, which is at the door of the Tent of Meeting. 
-@8 He shall take all the fat of the bull of the sin offering from it: the fat that covers the innards, and all the fat that is on the innards, 
-@9 and the two kidneys, and the fat that is on them, which is by the loins, and the cover on the liver, with the kidneys, he shall remove, 
-@10 as it is removed from the bull of the sacrifice of peace offerings. The priest shall burn them on the altar of burnt offering. 
-@11 He shall carry the bull’s skin, all its meat, with its head, and with its legs, its innards, and its dung 
-@12 —all the rest of the bull—outside of the camp to a clean place where the ashes are poured out, and burn it on wood with fire. It shall be burned where the ashes are poured out.
+@3 if_H0518 the_H0834 anointed_H4899 priest_H3548 sins_H2398 so_H0834 as_H0834 to_H5921 bring_H7126 guilt_H0819 on_H5921 the_H0834 people_H5971, then_H7126 let him_H5921 offer_H7126 for_H5921 his_H5921 sin_H2398 which_H0834 he_H0834 has_H3068 sinned_H2398 a_H0518 young_H1121 bull_H6499 without_H8549 defect_H8549 to_H5921 Yahweh_H3068 for_H5921 a_H0518 sin_H2398 offering_H7126. 
+@4 He_H3068 shall_H3068 bring_H0935 the_H0853 bull_H6499 to_H0413 the_H0853 door_H6607 of_H3068 the_H0853 Tent_H0168 of_H3068 Meeting_H4150 before_H6440 Yahweh_H3068; and_H0935 he_H3068 shall_H3068 lay_H5564 his_H5921 hand_H3027 on_H5921 the_H0853 head_H7218 of_H3068 the_H0853 bull_H6499, and_H0935 kill_H7819 the_H0853 bull_H6499 before_H6440 Yahweh_H3068. 
+@5 The_H0853 anointed_H4899 priest_H3548 shall_H3548 take_H3947 some of_H0168 the_H0853 blood_H1818 of_H0168 the_H0853 bull_H6499, and_H0935 bring_H0935 it_H3947 to_H0413 the_H0853 Tent_H0168 of_H0168 Meeting_H4150. 
+@6 The_H0853 priest_H3548 shall_H3548 dip_H2881 his_H3068 finger_H0676 in_H3068 the_H0853 blood_H1818, and_H3068 sprinkle some_H4480 of_H3068 the_H0853 blood_H1818 seven_H7651 times_H6471 before_H6440 Yahweh_H3068, before_H6440 the_H0853 veil_H6532 of_H3068 the_H0853 sanctuary_H6944. 
+@7 The_H3605 priest_H3548 shall_H3548 put_H5414 some_H4480 of_H3068 the_H3605 blood_H1818 on_H5921 the_H3605 horns_H7161 of_H3068 the_H3605 altar_H4196 of_H3068 sweet_H5561 incense_H7004 before_H6440 Yahweh_H3068, which_H0834 is_H0834 in_H5921 the_H3605 Tent_H0168 of_H3068 Meeting_H4150; and_H3068 he_H0834 shall_H3548 pour_H8210 out_H4480 the_H3605 rest of_H3068 the_H3605 blood_H1818 of_H3068 the_H3605 bull_H6499 at_H0413 the_H3605 base_H3247 of_H3068 the_H3605 altar_H4196 of_H3068 burnt_H5930 offering_H3068, which_H0834 is_H0834 at_H0413 the_H3605 door_H6607 of_H3068 the_H3605 Tent_H0168 of_H3068 Meeting_H4150. 
+@8 He_H0834 shall_H0834 take_H7311 all_H3605 the_H3605 fat_H2459 of_H4480 the_H3605 bull_H6499 of_H4480 the_H3605 sin_H2403 offering_H4480 from_H4480 it_H5921: the_H3605 fat_H2459 that_H0834 covers_H3680 the_H3605 innards, and_H6499 all_H3605 the_H3605 fat_H2459 that_H0834 is_H0834 on_H5921 the_H3605 innards, 
+@9 and_H0853 the_H0853 two_H8147 kidneys_H3629, and_H0853 the_H0853 fat_H2459 that_H0834 is_H0834 on_H5921 them_H0853, which_H0834 is_H0834 by_H5921 the_H0853 loins_H3689, and_H0853 the_H0853 cover on_H5921 the_H0853 liver_H3516, with_H5921 the_H0853 kidneys_H3629, he_H0834 shall_H0834 remove_H5493, 
+@10 as_H0834 it_H5921 is_H0834 removed_H7311 from_H5921 the_H0834 bull_H7794 of_H4196 the_H0834 sacrifice_H2077 of_H4196 peace_H8002 offerings_H8002. The_H0834 priest_H3548 shall_H3548 burn_H6999 them_H5921 on_H5921 the_H0834 altar_H4196 of_H4196 burnt_H5930 offering_H8002. 
+@11 He_H0853 shall_H1320 carry the_H3605 bull’s skin_H5785, all_H3605 its_H3605 meat_H1320, with_H5921 its_H3605 head_H7218, and_H7218 with_H5921 its_H3605 legs_H3767, its_H3605 innards, and_H7218 its_H3605 dung_H6569 
+@12 —all_H3605 the_H3605 rest of_H5921 the_H3605 bull_H6499—outside_H2351 of_H5921 the_H3605 camp_H4264 to_H0413 a_H5921 clean_H2889 place_H4725 where_H4725 the_H3605 ashes_H1880 are_H1880 poured_H8211 out_H3318, and_H6086 burn_H8313 it_H5921 on_H5921 wood_H6086 with_H0413 fire_H0784. It_H5921 shall_H2889 be_H3605 burned_H8313 where_H4725 the_H3605 ashes_H1880 are_H1880 poured_H8211 out_H3318.
 
 ## Sacrifice for the sin of the whole church
-@13 “‘If the whole congregation of Israel sins, and the thing is hidden from the eyes of the assembly, and they have done any of the things which Yahweh has commanded not to be done, and are guilty; 
-@14 when the sin in which they have sinned is known, then the assembly shall offer a young bull for a sin offering, and bring it before the Tent of Meeting. 
-@15 The elders of the congregation shall lay their hands on the head of the bull before Yahweh; and the bull shall be killed before Yahweh. 
-@16 The anointed priest shall bring some of the blood of the bull to the Tent of Meeting. 
-@17 The priest shall dip his finger in the blood and sprinkle it seven times before Yahweh, before the veil. 
-@18 He shall put some of the blood on the horns of the altar which is before Yahweh, that is in the Tent of Meeting; and the rest of the blood he shall pour out at the base of the altar of burnt offering, which is at the door of the Tent of Meeting. 
-@19 All its fat he shall take from it, and burn it on the altar. 
-@20 He shall do this with the bull; as he did with the bull of the sin offering, so he shall do with this; and the priest shall make atonement for them, and they shall be forgiven. 
-@21 He shall carry the bull outside the camp, and burn it as he burned the first bull. It is the sin offering for the assembly.
+@13 “‘If_H0518 the_H3605 whole_H3605 congregation_H5712 of_H3068 Israel_H3478 sins, and_H3068 the_H3605 thing_H1697 is_H0834 hidden_H5956 from_H3478 the_H3605 eyes_H5869 of_H3068 the_H3605 assembly_H6951, and_H3068 they_H0834 have_H0834 done_H6213 any_H3605 of_H3068 the_H3605 things_H1697 which_H0834 Yahweh_H3068 has_H3068 commanded_H4687 not_H3808 to_H3068 be_H3808 done_H6213, and_H3068 are_H0834 guilty_H0816; 
+@14 when_H0834 the_H0853 sin_H2398 in_H5921 which_H0834 they_H0834 have_H0834 sinned_H2398 is_H0834 known_H3045, then_H0853 the_H0853 assembly_H6951 shall_H1121 offer_H7126 a_H0935 young_H1121 bull_H6499 for_H5921 a_H0935 sin_H2398 offering_H7126, and_H1121 bring_H0935 it_H5921 before_H6440 the_H0853 Tent_H0168 of_H1121 Meeting_H4150. 
+@15 The_H0853 elders_H2205 of_H3068 the_H0853 congregation_H5712 shall_H3068 lay_H5564 their_H3068 hands_H3027 on_H5921 the_H0853 head_H7218 of_H3068 the_H0853 bull_H6499 before_H6440 Yahweh_H3068; and_H3068 the_H0853 bull_H6499 shall_H3068 be_H3027 killed_H7819 before_H6440 Yahweh_H3068. 
+@16 The_H0413 anointed_H4899 priest_H3548 shall_H3548 bring_H0935 some of_H0168 the_H0413 blood_H1818 of_H0168 the_H0413 bull_H6499 to_H0413 the_H0413 Tent_H0168 of_H0168 Meeting_H4150. 
+@17 The_H0853 priest_H3548 shall_H3548 dip_H2881 his_H3068 finger_H0676 in_H3068 the_H0853 blood_H1818 and_H3068 sprinkle it_H3068 seven_H7651 times_H6471 before_H6440 Yahweh_H3068, before_H6440 the_H0853 veil_H6532. 
+@18 He_H0834 shall_H3068 put_H5414 some_H4480 of_H3068 the_H3605 blood_H1818 on_H5921 the_H3605 horns_H7161 of_H3068 the_H3605 altar_H4196 which_H0834 is_H0834 before_H6440 Yahweh_H3068, that_H0834 is_H0834 in_H5921 the_H3605 Tent_H0168 of_H3068 Meeting_H4150; and_H3068 the_H3605 rest of_H3068 the_H3605 blood_H1818 he_H0834 shall_H3068 pour_H8210 out_H4480 at_H0413 the_H3605 base_H3247 of_H3068 the_H3605 altar_H4196 of_H3068 burnt_H5930 offering_H3068, which_H0834 is_H0834 at_H0413 the_H3605 door_H6607 of_H3068 the_H3605 Tent_H0168 of_H3068 Meeting_H4150. 
+@19 All_H3605 its_H3605 fat_H2459 he_H4480 shall take_H7311 from_H4480 it_H3605, and_H4196 burn_H6999 it_H3605 on_H3605 the_H3605 altar_H4196. 
+@20 He_H0834 shall_H3548 do_H6213 this_H3651 with_H5921 the_H0834 bull_H6499; as_H0834 he_H0834 did_H6213 with_H5921 the_H0834 bull_H6499 of_H5921 the_H0834 sin_H2403 offering_H3548, so_H3651 he_H0834 shall_H3548 do_H6213 with_H5921 this_H3651; and_H3548 the_H0834 priest_H3548 shall_H3548 make_H6213 atonement_H3722 for_H5921 them_H1992, and_H3548 they_H1992 shall_H3548 be_H3548 forgiven_H5545. 
+@21 He_H0834 shall_H0834 carry_H3318 the_H0853 bull_H6499 outside_H2351 the_H0853 camp_H4264, and_H6499 burn_H8313 it_H1931 as_H0834 he_H0834 burned_H8313 the_H0853 first_H7223 bull_H6499. It_H1931 is_H0834 the_H0853 sin_H2403 offering for_H0413 the_H0853 assembly_H6951.
 
 ## Sacrifice for the prince's sin
-@22 “‘When a ruler sins, and unwittingly does any one of all the things which Yahweh his God has commanded not to be done, and is guilty, 
-@23 if his sin in which he has sinned is made known to him, he shall bring as his offering a goat, a male without defect. 
-@24 He shall lay his hand on the head of the goat, and kill it in the place where they kill the burnt offering before Yahweh. It is a sin offering. 
-@25 The priest shall take some of the blood of the sin offering with his finger, and put it on the horns of the altar of burnt offering. He shall pour out the rest of its blood at the base of the altar of burnt offering. 
-@26 All its fat he shall burn on the altar, like the fat of the sacrifice of peace offerings; and the priest shall make atonement for him concerning his sin, and he will be forgiven.
+@22 “‘When_H0834 a_H0834 ruler sins_H2398, and_H3068 unwittingly does_H6213 any_H3605 one_H0259 of_H0430 all_H3605 the_H3605 things_H3605 which_H0834 Yahweh_H3068 his_H3605 God_H0430 has_H3068 commanded_H4687 not_H3808 to_H3068 be_H3808 done_H6213, and_H3068 is_H0834 guilty_H0816, 
+@23 if_H0834 his_H0834 sin_H2398 in_H0935 which_H0834 he_H0834 has_H0834 sinned_H2398 is_H0834 made_H3045 known_H3045 to_H0413 him_H0413, he_H0834 shall_H0834 bring_H0935 as_H0834 his_H0834 offering_H7133 a_H0176 goat_H5795, a_H0176 male_H2145 without_H8549 defect_H8549. 
+@24 He_H0834 shall_H3068 lay_H5564 his_H5921 hand_H3027 on_H5921 the_H0853 head_H7218 of_H3068 the_H0853 goat_H8163, and_H3068 kill_H7819 it_H1931 in_H5921 the_H0853 place_H4725 where_H0834 they_H0834 kill_H7819 the_H0853 burnt_H5930 offering_H3068 before_H6440 Yahweh_H3068. It_H1931 is_H0834 a_H0834 sin_H2403 offering_H3068. 
+@25 The_H0853 priest_H3548 shall_H3548 take_H3947 some of_H4196 the_H0853 blood_H1818 of_H4196 the_H0853 sin_H2403 offering_H3548 with_H0413 his_H5414 finger_H0676, and_H3548 put_H5414 it_H5414 on_H5921 the_H0853 horns_H7161 of_H4196 the_H0853 altar_H4196 of_H4196 burnt_H5930 offering_H3548. He_H5414 shall_H3548 pour_H8210 out_H8210 the_H0853 rest of_H4196 its_H5414 blood_H1818 at_H0413 the_H0853 base_H3247 of_H4196 the_H0853 altar_H4196 of_H4196 burnt_H5930 offering_H3548. 
+@26 All_H3605 its_H3605 fat_H2459 he_H0853 shall_H3548 burn_H6999 on_H5921 the_H3605 altar_H4196, like_H6999 the_H3605 fat_H2459 of_H4196 the_H3605 sacrifice_H2077 of_H4196 peace_H8002 offerings_H8002; and_H3548 the_H3605 priest_H3548 shall_H3548 make atonement_H3722 for_H5921 him_H5921 concerning_H5921 his_H3605 sin_H2403, and_H3548 he_H0853 will_H4196 be_H3605 forgiven_H5545.
 
 ## Sacrifice for the sin of a common Israelite
-@27 “‘If anyone of the common people sins unwittingly, in doing any of the things which Yahweh has commanded not to be done, and is guilty, 
-@28 if his sin which he has sinned is made known to him, then he shall bring for his offering a goat, a female without defect, for his sin which he has sinned. 
-@29 He shall lay his hand on the head of the sin offering, and kill the sin offering in the place of burnt offering. 
-@30 The priest shall take some of its blood with his finger, and put it on the horns of the altar of burnt offering; and the rest of its blood he shall pour out at the base of the altar. 
-@31 All its fat he shall take away, like the fat is taken away from the sacrifice of peace offerings; and the priest shall burn it on the altar for a pleasant aroma to Yahweh; and the priest shall make atonement for him, and he will be forgiven. 
+@27 “‘If_H0518 anyone_H5315 of_H0776 the_H0834 common_H0776 people_H5971 sins_H2398 unwittingly, in_H3068 doing_H6213 any_H0259 of_H0776 the_H0834 things_H4687 which_H0834 Yahweh_H3068 has_H3068 commanded_H4687 not_H3808 to_H3068 be_H3808 done_H6213, and_H3068 is_H0834 guilty_H0816, 
+@28 if_H0834 his_H5921 sin_H2398 which_H0834 he_H0834 has_H0834 sinned_H2398 is_H0834 made_H3045 known_H3045 to_H0413 him_H0413, then_H0935 he_H0834 shall_H0834 bring_H0935 for_H5921 his_H5921 offering_H7133 a_H0176 goat_H5795, a_H0176 female_H5347 without_H8549 defect_H8549, for_H5921 his_H5921 sin_H2398 which_H0834 he_H0834 has_H0834 sinned_H2398. 
+@29 He_H0853 shall_H3027 lay_H5564 his_H5921 hand_H3027 on_H5921 the_H0853 head_H7218 of_H3027 the_H0853 sin_H2403 offering, and_H3027 kill_H7819 the_H0853 sin_H2403 offering in_H5921 the_H0853 place_H4725 of_H3027 burnt_H5930 offering. 
+@30 The_H3605 priest_H3548 shall_H3548 take_H3947 some_H3605 of_H4196 its_H3605 blood_H1818 with_H0413 his_H3605 finger_H0676, and_H3548 put_H5414 it_H5414 on_H5921 the_H3605 horns_H7161 of_H4196 the_H3605 altar_H4196 of_H4196 burnt_H5930 offering_H3548; and_H3548 the_H3605 rest of_H4196 its_H3605 blood_H1818 he_H5414 shall_H3548 pour_H8210 out_H8210 at_H0413 the_H3605 base_H3247 of_H4196 the_H3605 altar_H4196. 
+@31 All_H3605 its_H3605 fat_H2459 he_H0834 shall_H3548 take_H5493 away_H5493, like_H0834 the_H3605 fat_H2459 is_H0834 taken_H5493 away_H5493 from_H5493 the_H3605 sacrifice_H2077 of_H3068 peace_H8002 offerings_H8002; and_H3068 the_H3605 priest_H3548 shall_H3548 burn_H6999 it_H5921 on_H5921 the_H3605 altar_H4196 for_H5921 a_H0834 pleasant aroma_H5207 to_H5921 Yahweh_H3068; and_H3068 the_H3605 priest_H3548 shall_H3548 make atonement_H3722 for_H5921 him_H5921, and_H3068 he_H0834 will_H3068 be_H3068 forgiven_H5545. 
 
-@32 “‘If he brings a lamb as his offering for a sin offering, he shall bring a female without defect. 
-@33 He shall lay his hand on the head of the sin offering, and kill it for a sin offering in the place where they kill the burnt offering. 
-@34 The priest shall take some of the blood of the sin offering with his finger, and put it on the horns of the altar of burnt offering; and all the rest of its blood he shall pour out at the base of the altar. 
-@35 He shall remove all its fat, like the fat of the lamb is removed from the sacrifice of peace offerings. The priest shall burn them on the altar, on the offerings of Yahweh made by fire. The priest shall make atonement for him concerning his sin that he has sinned, and he will be forgiven. 
+@32 “‘If_H0518 he_H0518 brings_H0935 a_H0518 lamb_H3532 as_H0935 his_H0935 offering_H7133 for_H0518 a_H0518 sin_H2403 offering_H7133, he_H0518 shall bring_H0935 a_H0518 female_H5347 without_H8549 defect_H8549. 
+@33 He_H0834 shall_H0834 lay_H5564 his_H5921 hand_H3027 on_H5921 the_H0853 head_H7218 of_H3027 the_H0853 sin_H2403 offering, and_H3027 kill_H7819 it_H5921 for_H5921 a_H0834 sin_H2403 offering in_H5921 the_H0853 place_H4725 where_H0834 they_H0834 kill_H7819 the_H0853 burnt_H5930 offering. 
+@34 The_H3605 priest_H3548 shall_H3548 take_H3947 some_H3605 of_H4196 the_H3605 blood_H1818 of_H4196 the_H3605 sin_H2403 offering_H3548 with_H0413 his_H3605 finger_H0676, and_H3548 put_H5414 it_H5414 on_H5921 the_H3605 horns_H7161 of_H4196 the_H3605 altar_H4196 of_H4196 burnt_H5930 offering_H3548; and_H3548 all_H3605 the_H3605 rest of_H4196 its_H3605 blood_H1818 he_H5414 shall_H3548 pour_H8210 out_H8210 at_H0413 the_H3605 base_H3247 of_H4196 the_H3605 altar_H4196. 
+@35 He_H0834 shall_H3548 remove_H5493 all_H3605 its_H3605 fat_H2459, like_H0834 the_H3605 fat_H2459 of_H3068 the_H3605 lamb_H3775 is_H0834 removed_H5493 from_H5493 the_H3605 sacrifice_H2077 of_H3068 peace_H8002 offerings_H8002. The_H3605 priest_H3548 shall_H3548 burn_H6999 them_H0853 on_H5921 the_H3605 altar_H4196, on_H5921 the_H3605 offerings_H8002 of_H3068 Yahweh_H3068 made_H3605 by_H0801 fire_H0801. The_H3605 priest_H3548 shall_H3548 make atonement_H3722 for_H5921 him_H5921 concerning_H5921 his_H3605 sin_H2398 that_H0834 he_H0834 has_H3068 sinned_H2398, and_H3068 he_H0834 will_H3068 be_H3068 forgiven_H5545. 
 
 # 5 
 ## About some special sin offerings
-@1 “‘If anyone sins, in that he hears a public adjuration to testify, he being a witness, whether he has seen or known, if he doesn’t report it, then he shall bear his iniquity. 
+@1 “‘If_H0518 anyone_H5315 sins_H2398, in_H8085 that_H3588 he_H1931 hears_H8085 a_H3588 public_H6963 adjuration_H0423 to_H8085 testify, he_H1931 being_H5315 a_H3588 witness_H5707, whether_H0518 he_H1931 has_H3588 seen_H7200 or_H0176 known_H3045, if_H0518 he_H1931 doesn’t_H3808 report_H5046 it_H1931, then_H5375 he_H1931 shall_H3808 bear_H5375 his_H5375 iniquity_H5771. 
 
-@2 “‘Or if anyone touches any unclean thing, whether it is the carcass of an unclean animal, or the carcass of unclean livestock, or the carcass of unclean creeping things, and it is hidden from him, and he is unclean, then he shall be guilty. 
+@2 “‘Or_H0176 if_H0834 anyone_H3605 touches_H5060 any_H3605 unclean_H2931 thing_H1697, whether_H0176 it_H1931 is_H0834 the_H3605 carcass_H5038 of_H1697 an_H4480 unclean_H2931 animal_H0929, or_H0176 the_H3605 carcass_H5038 of_H1697 unclean_H2931 livestock_H0929, or_H0176 the_H3605 carcass_H5038 of_H1697 unclean_H2931 creeping things_H1697, and_H1697 it_H1931 is_H0834 hidden_H5956 from_H4480 him_H3605, and_H1697 he_H0834 is_H0834 unclean_H2931, then_H3605 he_H0834 shall_H5315 be_H1697 guilty_H0816. 
 
-@3 “‘Or if he touches the uncleanness of man, whatever his uncleanness is with which he is unclean, and it is hidden from him; when he knows of it, then he shall be guilty. 
+@3 “‘Or_H0176 if_H3588 he_H0834 touches_H5060 the_H3605 uncleanness_H2932 of_H4480 man_H0120, whatever_H0834 his_H3605 uncleanness_H2932 is_H0834 with_H3045 which_H0834 he_H0834 is_H0834 unclean_H2930, and_H0120 it_H1931 is_H0834 hidden_H5956 from_H4480 him_H2930; when_H3588 he_H0834 knows_H3045 of_H4480 it_H1931, then_H3045 he_H0834 shall_H0834 be_H3605 guilty_H0816. 
 
-@4 “‘Or if anyone swears rashly with his lips to do evil or to do good—whatever it is that a man might utter rashly with an oath, and it is hidden from him—when he knows of it, then he will be guilty of one of these. 
-@5 It shall be, when he is guilty of one of these, he shall confess that in which he has sinned; 
-@6 and he shall bring his trespass offering to Yahweh for his sin which he has sinned: a female from the flock, a lamb or a goat, for a sin offering; and the priest shall make atonement for him concerning his sin.
+@4 “‘Or_H0176 if_H3588 anyone_H3605 swears_H7650 rashly_H0981 with_H3045 his_H3605 lips_H8193 to_H7650 do_H3190 evil_H7489 or_H0176 to_H7650 do_H3190 good_H3190—whatever_H0834 it_H1931 is_H0834 that_H0834 a_H3588 man_H0120 might_H0834 utter_H3605 rashly_H0981 with_H3045 an_H7650 oath_H7621, and_H0120 it_H1931 is_H0834 hidden_H5956 from_H4480 him_H3605—when_H3588 he_H0834 knows_H3045 of_H4480 it_H1931, then_H3045 he_H0834 will_H0834 be_H5315 guilty_H0816 of_H4480 one_H0259 of_H4480 these_H0428. 
+@5 It_H5921 shall_H0834 be_H1961, when_H3588 he_H0834 is_H0834 guilty_H0816 of_H5921 one_H0259 of_H5921 these_H0428, he_H0834 shall_H0834 confess_H3034 that_H0834 in_H5921 which_H0834 he_H0834 has_H0834 sinned_H2398; 
+@6 and_H0935 he_H0834 shall_H3548 bring_H0935 his_H5921 trespass offering_H0817 to_H0935 Yahweh_H3068 for_H5921 his_H5921 sin_H2398 which_H0834 he_H0834 has_H3068 sinned_H2398: a_H0176 female_H5347 from_H4480 the_H0853 flock_H6629, a_H0176 lamb_H3776 or_H0176 a_H0176 goat_H5795, for_H5921 a_H0176 sin_H2398 offering_H0817; and_H0935 the_H0853 priest_H3548 shall_H3548 make atonement_H3722 for_H5921 him_H5921 concerning_H5921 his_H5921 sin_H2398.
 
 ## Replacement of the poor man's sin offering
-@7 “‘If he can’t afford a lamb, then he shall bring his trespass offering for that in which he has sinned, two turtledoves, or two young pigeons, to Yahweh; one for a sin offering, and the other for a burnt offering. 
-@8 He shall bring them to the priest, who shall first offer the one which is for the sin offering. He shall wring off its head from its neck, but shall not sever it completely. 
-@9 He shall sprinkle some of the blood of the sin offering on the side of the altar; and the rest of the blood shall be drained out at the base of the altar. It is a sin offering. 
-@10 He shall offer the second for a burnt offering, according to the ordinance; and the priest shall make atonement for him concerning his sin which he has sinned, and he shall be forgiven. 
+@7 “‘If_H0518 he_H0834 can’t_H3808 afford_H3027 a_H0176 lamb_H7716, then_H0853 he_H0834 shall_H1121 bring_H0935 his_H3068 trespass offering_H0817 for_H3027 that_H0834 in_H0935 which_H0834 he_H0834 has_H3068 sinned_H2398, two_H8147 turtledoves_H8449, or_H0176 two_H8147 young_H1121 pigeons_H3123, to_H0935 Yahweh_H3068; one_H0259 for_H3027 a_H0176 sin_H2398 offering_H0817, and_H1121 the_H0853 other_H0259 for_H3027 a_H0176 burnt_H5930 offering_H0817. 
+@8 He_H0834 shall_H3548 bring_H0935 them_H0413 to_H0413 the_H0853 priest_H3548, who_H0834 shall_H3548 first_H7223 offer_H7126 the_H0853 one_H3808 which_H0834 is_H0834 for_H0413 the_H0853 sin_H2403 offering_H7126. He_H0834 shall_H3548 wring_H4454 off_H4454 its_H0853 head_H7218 from_H0935 its_H0853 neck_H6203, but_H3808 shall_H3548 not_H3808 sever_H0914 it_H7126 completely. 
+@9 He_H1931 shall_H1931 sprinkle some of_H4196 the_H5921 blood_H1818 of_H4196 the_H5921 sin_H2403 offering on_H5921 the_H5921 side_H7023 of_H4196 the_H5921 altar_H4196; and_H4196 the_H5921 rest_H7604 of_H4196 the_H5921 blood_H1818 shall_H1931 be_H1931 drained_H4680 out_H5921 at_H0413 the_H5921 base_H3247 of_H4196 the_H5921 altar_H4196. It_H1931 is_H1931 a_H5921 sin_H2403 offering. 
+@10 He_H0834 shall_H3548 offer_H6213 the_H0853 second_H8145 for_H5921 a_H0834 burnt_H5930 offering_H3548, according_H5921 to_H5921 the_H0853 ordinance_H4941; and_H4941 the_H0853 priest_H3548 shall_H3548 make_H6213 atonement_H3722 for_H5921 him_H5921 concerning_H5921 his_H5921 sin_H2398 which_H0834 he_H0834 has_H0834 sinned_H2398, and_H4941 he_H0834 shall_H3548 be_H3548 forgiven_H5545. 
 
-@11 “‘But if he can’t afford two turtledoves or two young pigeons, then he shall bring as his offering for that in which he has sinned, one tenth of an ephah^a^ of fine flour for a sin offering. He shall put no oil on it, and he shall not put any frankincense on it, for it is a sin offering. 
-@12 He shall bring it to the priest, and the priest shall take his handful of it as the memorial portion, and burn it on the altar, on the offerings of Yahweh made by fire. It is a sin offering. 
-@13 The priest shall make atonement for him concerning his sin that he has sinned in any of these things, and he will be forgiven; and the rest shall be the priest’s, as the meal offering.’” 
+@11 “‘But_H3588 if_H0518 he_H0834 can’t_H3808 afford_H3027 two_H8147 turtledoves_H8449 or_H0176 two_H8147 young_H1121 pigeons_H3123, then_H0853 he_H0834 shall_H1121 bring_H0935 as_H0834 his_H5414 offering_H7133 for_H3588 that_H0834 in_H5921 which_H0834 he_H0834 has_H0834 sinned_H2398, one_H3808 tenth_H6224 of_H1121 an_H5414 ephah_H0374^a^ of_H1121 fine_H5560 flour_H5560 for_H3588 a_H3588 sin_H2398 offering_H7133. He_H0834 shall_H1121 put_H5414 no_H3808 oil_H8081 on_H5921 it_H7760, and_H1121 he_H0834 shall_H1121 not_H3808 put_H5414 any_H5414 frankincense_H3828 on_H5921 it_H7760, for_H3588 it_H7760 is_H0834 a_H3588 sin_H2398 offering_H7133. 
+@12 He_H1931 shall_H3548 bring_H0935 it_H1931 to_H0413 the_H0853 priest_H3548, and_H0935 the_H0853 priest_H3548 shall_H3548 take_H0935 his_H5921 handful_H7062 of_H3068 it_H1931 as_H0935 the_H0853 memorial_H0234 portion_H0234, and_H0935 burn_H6999 it_H1931 on_H5921 the_H0853 altar_H4196, on_H5921 the_H0853 offerings_H0801 of_H3068 Yahweh_H3068 made by_H0801 fire_H0801. It_H1931 is_H3068 a_H0935 sin_H2403 offering_H0801. 
+@13 The_H0834 priest_H3548 shall_H3548 make atonement_H3722 for_H5921 him_H5921 concerning_H5921 his_H5921 sin_H2398 that_H0834 he_H0834 has_H0834 sinned_H2398 in_H5921 any_H0259 of_H5921 these_H0428 things_H0428, and_H3548 he_H0834 will_H1961 be_H1961 forgiven_H5545; and_H3548 the_H0834 rest_H1961 shall_H3548 be_H1961 the_H0834 priest’s_H3548, as_H0834 the_H0834 meal_H4503 offering_H4503.’” 
 ^a^[**5:11** 1 ephah is about 22 liters or about 2/3 of a bushel]
 
 ## Regulations on guilt offerings, in the case of misappropriation of sacred taxes
-@14 Yahweh spoke to Moses, saying, 
-@15 “If anyone commits a trespass, and sins unwittingly regarding Yahweh’s holy things, then he shall bring his trespass offering to Yahweh: a ram without defect from the flock, according to your estimation in silver by shekels, according to the shekel^a^ of the sanctuary, for a trespass offering. 
-@16 He shall make restitution for that which he has done wrong regarding the holy thing, and shall add a fifth part to it, and give it to the priest; and the priest shall make atonement for him with the ram of the trespass offering, and he will be forgiven. 
+@14 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
+@15 “If_H3588 anyone_H5315 commits_H2398 a_H3588 trespass_H4604, and_H0935 sins_H2398 unwittingly regarding Yahweh’s_H3068 holy_H6944 things_H6944, then_H0853 he_H3588 shall_H3068 bring_H0935 his_H3068 trespass_H4604 offering_H0817 to_H0935 Yahweh_H3068: a_H3588 ram_H0352 without_H8549 defect_H8549 from_H4480 the_H0853 flock_H6629, according_H4480 to_H0935 your_H3068 estimation in_H0935 silver_H3701 by_H3068 shekels_H8255, according_H4480 to_H0935 the_H0853 shekel_H8255^a^ of_H3068 the_H0853 sanctuary_H6944, for_H3588 a_H3588 trespass_H4604 offering_H0817. 
+@16 He_H0834 shall_H3548 make_H5414 restitution_H7999 for_H5921 that_H0834 which_H0834 he_H0834 has_H0834 done_H3254 wrong_H0817 regarding_H5921 the_H0853 holy_H6944 thing_H6944, and_H3548 shall_H3548 add_H3254 a_H5414 fifth_H2549 part_H4480 to_H5921 it_H5414, and_H3548 give_H5414 it_H5414 to_H5921 the_H0853 priest_H3548; and_H3548 the_H0853 priest_H3548 shall_H3548 make_H5414 atonement_H3722 for_H5921 him_H5414 with_H5921 the_H0853 ram_H0352 of_H4480 the_H0853 trespass offering_H0817, and_H3548 he_H0834 will_H0834 be_H3254 forgiven_H5545. 
 ^a^[**5:15** A shekel is about 10 grams or about 0.35 ounces.]
 
 ## With unconscious indebtedness
-@17 “If anyone sins, doing any of the things which Yahweh has commanded not to be done, though he didn’t know it, he is still guilty, and shall bear his iniquity. 
-@18 He shall bring a ram without defect from of the flock, according to your estimation, for a trespass offering, to the priest; and the priest shall make atonement for him concerning the thing in which he sinned and didn’t know it, and he will be forgiven. 
-@19 It is a trespass offering. He is certainly guilty before Yahweh.” 
+@17 “If_H0518 anyone_H3605 sins_H2398, doing_H6213 any_H3605 of_H3068 the_H3605 things_H3605 which_H0834 Yahweh_H3068 has_H3068 commanded_H4687 not_H3808 to_H3068 be_H3808 done_H6213, though_H3588 he_H0834 didn’t_H3808 know_H3045 it_H0518, he_H0834 is_H0834 still guilty_H0816, and_H3068 shall_H3068 bear_H5375 his_H3605 iniquity_H5771. 
+@18 He_H0834 shall_H3548 bring_H0935 a_H0935 ram_H0352 without_H3808 defect_H8549 from_H4480 of_H4480 the_H0834 flock_H6629, according_H5921 to_H0413 your_H5921 estimation, for_H5921 a_H0935 trespass offering_H0817, to_H0413 the_H0834 priest_H3548; and_H0935 the_H0834 priest_H3548 shall_H3548 make_H3045 atonement_H3722 for_H5921 him_H0413 concerning_H5921 the_H0834 thing_H1931 in_H5921 which_H0834 he_H0834 sinned_H7683 and_H0935 didn’t_H3808 know_H3045 it_H1931, and_H0935 he_H0834 will_H0834 be_H3808 forgiven_H5545. 
+@19 It_H1931 is_H3068 a_H3068 trespass offering_H0817. He_H1931 is_H3068 certainly_H0816 guilty_H0816 before Yahweh_H3068.” 
 
 # 6 
 ## When someone else's property is damaged
-@1 Yahweh spoke to Moses, saying, 
-@2 “If anyone sins, and commits a trespass against Yahweh, and deals falsely with his neighbor in a matter of deposit, or of bargain, or of robbery, or has oppressed his neighbor, 
-@3 or has found that which was lost, and lied about it, and swearing to a lie—in any of these things that a man sins in his actions— 
-@4 then it shall be, if he has sinned, and is guilty, he shall restore that which he took by robbery, or the thing which he has gotten by oppression, or the deposit which was committed to him, or the lost thing which he found, 
-@5 or any thing about which he has sworn falsely: he shall restore it in full, and shall add a fifth part more to it. He shall return it to him to whom it belongs in the day of his being found guilty. 
-@6 He shall bring his trespass offering to Yahweh: a ram without defect from the flock, according to your estimation, for a trespass offering, to the priest. 
-@7 The priest shall make atonement for him before Yahweh, and he will be forgiven concerning whatever he does to become guilty.”
+@1 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
+@2 “If_H1121 anyone_H3605 sins, and_H1121 commits a_H5921 trespass against_H5921 Yahweh, and_H1121 deals falsely with_H5921 his_H3605 neighbor in_H5921 a_H5921 matter of_H1121 deposit, or_H5704 of_H1121 bargain, or_H5704 of_H1121 robbery, or_H5704 has_H0784 oppressed his_H3605 neighbor, 
+@3 or_H0398 has_H0834 found that_H0834 which_H0834 was_H0834 lost, and_H0398 lied about_H5921 it_H7760, and_H0398 swearing to_H5921 a_H7760 lie—in_H5921 any_H0398 of_H4196 these_H0834 things_H0834 that_H0834 a_H7760 man_H1320 sins in_H5921 his_H5921 actions— 
+@4 then_H3318 it_H4725 shall_H2889 be, if he_H0853 has_H3318 sinned, and_H3318 is_H4725 guilty, he_H0853 shall_H2889 restore that_H4725 which he_H0853 took_H3318 by_H0413 robbery, or the_H0853 thing which he_H0853 has_H3318 gotten by_H0413 oppression, or the_H0853 deposit which was_H4725 committed to_H0413 him_H0413, or the_H0853 lost thing which he_H0853 found, 
+@5 or_H3808 any_H3808 thing about_H5921 which_H6086 he_H3808 has_H0784 sworn falsely: he_H3808 shall_H3548 restore it_H5921 in_H5921 full, and_H3548 shall_H3548 add a_H5921 fifth part_H5921 more_H3808 to_H5921 it_H5921. He_H3808 shall_H3548 return it_H5921 to_H5921 him_H5921 to_H5921 whom it_H5921 belongs in_H5921 the_H5921 day_H1242 of_H4196 his_H5921 being found guilty. 
+@6 He_H3808 shall_H3808 bring his_H5921 trespass offering to_H5921 Yahweh: a_H5921 ram without_H3808 defect from_H5921 the_H5921 flock, according_H5921 to_H5921 your_H5921 estimation, for_H5921 a_H5921 trespass offering, to_H5921 the_H5921 priest. 
+@7 The_H0853 priest shall_H0175 make atonement for_H0413 him_H0413 before_H6440 Yahweh_H3068, and_H1121 he_H3068 will_H3068 be_H1121 forgiven concerning_H0413 whatever he_H3068 does_H3068 to_H0413 become guilty.”
 
 ## Regulations for priests on the daily holocaust
-@8 Yahweh spoke to Moses, saying, 
-@9 “Command Aaron and his sons, saying, ‘This is the law of the burnt offering: the burnt offering shall be on the hearth on the altar all night until the morning; and the fire of the altar shall be kept burning on it. 
-@10 The priest shall put on his linen garment, and he shall put on his linen trousers upon his body; and he shall remove the ashes from where the fire has consumed the burnt offering on the altar, and he shall put them beside the altar. 
-@11 He shall take off his garments, and put on other garments, and carry the ashes outside the camp to a clean place. 
-@12 The fire on the altar shall be kept burning on it, it shall not go out; and the priest shall burn wood on it every morning. He shall lay the burnt offering in order upon it, and shall burn on it the fat of the peace offerings. 
-@13 Fire shall be kept burning on the altar continually; it shall not go out.
+@8 Yahweh_H3068 spoke to_H5921 Moses, saying, 
+@9 “Command Aaron_H0175 and_H1121 his_H4480 sons_H1121, saying, ‘This_H0398 is_H1121 the_H4480 law of_H1121 the_H4480 burnt offering_H4480: the_H4480 burnt offering_H4480 shall_H0175 be_H1121 on_H4725 the_H4480 hearth on_H4725 the_H4480 altar all_H0398 night until the_H4480 morning; and_H1121 the_H4480 fire_H0398 of_H1121 the_H4480 altar shall_H0175 be_H1121 kept_H0398 burning on_H4725 it_H0398. 
+@10 The_H0853 priest shall_H3808 put_H5414 on_H3808 his_H5414 linen garment, and_H0853 he_H1931 shall_H3808 put_H5414 on_H3808 his_H5414 linen trousers upon his_H5414 body; and_H0853 he_H1931 shall_H3808 remove the_H0853 ashes from_H5414 where_H3808 the_H0853 fire_H0801 has_H5414 consumed the_H0853 burnt offering_H0801 on_H3808 the_H0853 altar, and_H0853 he_H1931 shall_H3808 put_H5414 them_H5414 beside the_H0853 altar. 
+@11 He_H0834 shall_H0175 take off_H0398 his_H3605 garments, and_H1121 put on_H3068 other_H3605 garments, and_H1121 carry the_H3605 ashes outside the_H3605 camp to_H3068 a_H0834 clean place_H3605. 
+@12 The_H0559 fire on_H0413 the_H0559 altar shall_H3068 be_H3068 kept burning on_H0413 it_H1696, it_H1696 shall_H3068 not go out_H0413; and_H3068 the_H0559 priest shall_H3068 burn wood on_H0413 it_H1696 every morning. He_H3068 shall_H3068 lay the_H0559 burnt offering_H3068 in_H0413 order_H0559 upon_H0413 it_H1696, and_H3068 shall_H3068 burn on_H0413 it_H1696 the_H0559 fat of_H3068 the_H0559 peace offerings_H3068. 
+@13 Fire shall_H0175 be_H1121 kept burning on_H3117 the_H0853 altar continually_H8548; it_H7126 shall_H0175 not_H2088 go_H7126 out_H0853.
 
 ## Regulations for priests on the offering of food
-@14 “‘This is the law of the meal offering: the sons of Aaron shall offer it before Yahweh, before the altar. 
-@15 He shall take from there his handful of the fine flour of the meal offering, and of its oil, and all the frankincense which is on the meal offering, and shall burn it on the altar for a pleasant aroma, as its memorial portion, to Yahweh. 
-@16 That which is left of it Aaron and his sons shall eat. It shall be eaten without yeast in a holy place. They shall eat it in the court of the Tent of Meeting. 
-@17 It shall not be baked with yeast. I have given it as their portion of my offerings made by fire. It is most holy, as are the sin offering and the trespass offering. 
-@18 Every male among the children of Aaron shall eat of it, as their portion forever throughout your generations, from the offerings of Yahweh made by fire. Whoever touches them shall be holy.’”
+@14 “‘This_H3068 is_H3068 the_H5921 law of_H3068 the_H5921 meal_H4503 offering_H4503: the_H5921 sons of_H3068 Aaron shall_H3068 offer_H7126 it_H5921 before_H5921 Yahweh_H3068, before_H5921 the_H5921 altar. 
+@15 He_H6213 shall_H3548 take from_H1121 there_H5769 his_H3068 handful of_H1121 the_H0853 fine flour of_H1121 the_H0853 meal offering_H6999, and_H1121 of_H1121 its_H0853 oil, and_H1121 all_H3632 the_H0853 frankincense which is_H3068 on_H3068 the_H0853 meal offering_H6999, and_H1121 shall_H3548 burn_H6999 it_H6213 on_H3068 the_H0853 altar for_H8478 a_H3068 pleasant aroma, as_H3068 its_H0853 memorial portion_H2706, to_H3068 Yahweh_H3068. 
+@16 That_H3605 which is_H3605 left_H1961 of_H3605 it_H0398 Aaron and_H0398 his_H3605 sons shall_H3548 eat_H0398. It_H0398 shall_H3548 be_H1961 eaten_H0398 without_H3808 yeast in_H3808 a_H1961 holy place_H1961. They_H3808 shall_H3548 eat_H0398 it_H0398 in_H3808 the_H3605 court of_H3605 the_H3605 Tent of_H3605 Meeting. 
+@17 It_H1696 shall_H3068 not be_H3068 baked with_H0413 yeast. I_H3068 have_H3068 given it_H1696 as_H3068 their_H3068 portion of_H3068 my_H3068 offerings_H3068 made_H1696 by_H3068 fire. It_H1696 is_H3068 most holy, as_H3068 are_H3068 the_H0559 sin offering_H3068 and_H3068 the_H0559 trespass offering_H3068. 
+@18 Every male_H1121 among_H0413 the_H0559 children_H1121 of_H1121 Aaron_H0175 shall_H0175 eat of_H1121 it_H1931, as_H0834 their_H3068 portion_H6944 forever throughout_H0413 your_H3068 generations, from_H6440 the_H0559 offerings_H3068 of_H1121 Yahweh_H3068 made_H1696 by_H3068 fire. Whoever_H0834 touches them_H0413 shall_H0175 be_H1121 holy_H6944.’”
 
 ## Rules Regarding the High Priest's Food Offering
-@19 Yahweh spoke to Moses, saying, 
-@20 “This is the offering of Aaron and of his sons, which they shall offer to Yahweh in the day when he is anointed: one tenth of an ephah^a^ of fine flour for a meal offering perpetually, half of it in the morning, and half of it in the evening. 
-@21 It shall be made with oil in a griddle. When it is soaked, you shall bring it in. You shall offer the meal offering in baked pieces for a pleasant aroma to Yahweh. 
-@22 The anointed priest that will be in his place from among his sons shall offer it. By a statute forever, it shall be wholly burned to Yahweh. 
-@23 Every meal offering of a priest shall be wholly burned. It shall not be eaten.” 
+@19 Yahweh spoke to_H4725 Moses, saying, 
+@20 “This_H0834 is_H0834 the_H3605 offering of_H5921 Aaron and_H1818 of_H5921 his_H3605 sons, which_H0834 they_H0834 shall_H0834 offer to_H5921 Yahweh in_H5921 the_H3605 day when_H0834 he_H0834 is_H0834 anointed: one_H6918 tenth of_H5921 an_H5921 ephah^a^ of_H5921 fine flour for_H5921 a_H0834 meal offering perpetually, half of_H5921 it_H5921 in_H5921 the_H3605 morning, and_H1818 half of_H5921 it_H5921 in_H5921 the_H3605 evening. 
+@21 It_H0518 shall_H0834 be_H4325 made_H0834 with_H3627 oil in_H7665 a_H0518 griddle. When_H0834 it_H0518 is_H0834 soaked, you_H0834 shall_H0834 bring_H7665 it_H0518 in_H7665. You_H0834 shall_H0834 offer the_H0834 meal offering in_H7665 baked_H1310 pieces_H7665 for_H4325 a_H0518 pleasant aroma to_H4325 Yahweh. 
+@22 The_H3605 anointed priest_H3548 that_H3605 will_H1931 be_H3548 in_H2145 his_H3605 place_H6944 from_H2145 among his_H3605 sons shall_H3548 offer it_H1931. By_H3605 a_H0398 statute forever, it_H1931 shall_H3548 be_H3548 wholly_H3605 burned to_H3605 Yahweh. 
+@23 Every_H3605 meal offering_H3722 of_H0168 a_H0935 priest shall_H3808 be_H3808 wholly_H3605 burned_H8313. It_H0398 shall_H3808 not_H3808 be_H3808 eaten_H0398.” 
 ^a^[**6:20** 1 ephah is about 22 liters or about 2/3 of a bushel]
 
 ## Regulations especially for priests regarding the sin offering
@@ -200,1120 +200,1120 @@
 
 # 7 
 ## Regulations on the sacrifice of guilt
-@1 “‘This is the law of the trespass offering: It is most holy. 
-@2 In the place where they kill the burnt offering, he shall kill the trespass offering; and its blood he shall sprinkle around on the altar. 
-@3 He shall offer all of its fat: the fat tail, and the fat that covers the innards, 
-@4 and he shall take away the two kidneys, and the fat that is on them, which is by the loins, and the cover on the liver, with the kidneys; 
-@5 and the priest shall burn them on the altar for an offering made by fire to Yahweh: it is a trespass offering. 
-@6 Every male among the priests may eat of it. It shall be eaten in a holy place. It is most holy. 
+@1 “‘This_H2063 is_H1931 the_H1931 law_H8451 of_H8451 the_H1931 trespass offering_H0817: It_H1931 is_H1931 most_H6944 holy_H6944. 
+@2 In_H5921 the_H0853 place_H4725 where_H0834 they_H0834 kill_H7819 the_H0853 burnt_H5930 offering_H0817, he_H0834 shall_H0834 kill_H7819 the_H0853 trespass offering_H0817; and_H4196 its_H0853 blood_H1818 he_H0834 shall_H0834 sprinkle_H2236 around_H5439 on_H5921 the_H0853 altar_H4196. 
+@3 He_H4480 shall offer_H7126 all_H3605 of_H4480 its_H3605 fat_H2459: the_H3605 fat_H2459 tail_H0451, and_H0853 the_H3605 fat_H2459 that_H3605 covers_H3680 the_H3605 innards, 
+@4 and_H0853 he_H0834 shall_H0834 take_H5493 away_H5493 the_H0853 two_H8147 kidneys_H3629, and_H0853 the_H0853 fat_H2459 that_H0834 is_H0834 on_H5921 them_H0853, which_H0834 is_H0834 by_H5921 the_H0853 loins_H3689, and_H0853 the_H0853 cover on_H5921 the_H0853 liver_H3516, with_H5921 the_H0853 kidneys_H3629; 
+@5 and_H3068 the_H0853 priest_H3548 shall_H3548 burn_H6999 them_H0853 on_H3068 the_H0853 altar_H4196 for_H4196 an_H3068 offering_H0801 made by_H0801 fire_H0801 to_H3068 Yahweh_H3068: it_H1931 is_H3068 a_H3068 trespass offering_H0801. 
+@6 Every_H3605 male_H2145 among the_H3605 priests_H3548 may_H3548 eat_H0398 of_H6918 it_H1931. It_H1931 shall_H3548 be_H3548 eaten_H0398 in_H4725 a_H0398 holy_H6944 place_H4725. It_H1931 is_H1931 most_H6944 holy_H6944. 
 
-@7 “‘As is the sin offering, so is the trespass offering; there is one law for them. The priest who makes atonement with them shall have it.
+@7 “‘As_H0834 is_H0834 the_H0834 sin_H2403 offering_H0817, so_H1961 is_H0834 the_H0834 trespass offering_H0817; there_H1961 is_H0834 one_H0259 law_H8451 for_H0259 them_H1961. The_H0834 priest_H3548 who_H0834 makes atonement_H3722 with_H1961 them_H1961 shall_H3548 have_H1961 it_H1961.
 
 ## Priest participation in private burnt offerings and private food offerings
-@8 The priest who offers any man’s burnt offering shall have for himself the skin of the burnt offering which he has offered. 
-@9 Every meal offering that is baked in the oven, and all that is prepared in the pan and on the griddle, shall be the priest’s who offers it. 
-@10 Every meal offering, mixed with oil or dry, belongs to all the sons of Aaron, one as well as another.
+@8 The_H0853 priest_H3548 who_H0834 offers_H7126 any_H0376 man’s_H0376 burnt_H5930 offering_H7126 shall_H3548 have_H1961 for_H0376 himself_H0376 the_H0853 skin_H5785 of_H0376 the_H0853 burnt_H5930 offering_H7126 which_H0834 he_H0834 has_H0834 offered_H7126. 
+@9 Every_H3605 meal_H4503 offering_H4503 that_H0834 is_H0834 baked_H0644 in_H5921 the_H3605 oven_H8574, and_H3548 all_H3605 that_H0834 is_H0834 prepared_H6213 in_H5921 the_H3605 pan_H4802 and_H3548 on_H5921 the_H3605 griddle_H4227, shall_H3548 be_H1961 the_H3605 priest’s_H3548 who_H0834 offers_H7126 it_H5921. 
+@10 Every_H3605 meal_H4503 offering_H4503, mixed_H1101 with_H0376 oil_H8081 or_H0376 dry, belongs_H1961 to_H1961 all_H3605 the_H3605 sons_H1121 of_H1121 Aaron_H0175, one_H0376 as_H1961 well as_H1961 another_H0251.
 
 ## Regulations for different types of salvation offerings
-@11 “‘This is the law of the sacrifice of peace offerings, which one shall offer to Yahweh: 
-@12 If he offers it for a thanksgiving, then he shall offer with the sacrifice of thanksgiving unleavened cakes mixed with oil, and unleavened wafers anointed with oil, and cakes mixed with oil. 
-@13 He shall offer his offering with the sacrifice of his peace offerings for thanksgiving with cakes of leavened bread. 
-@14 Of it he shall offer one out of each offering for a heave offering to Yahweh. It shall be the priest’s who sprinkles the blood of the peace offerings. 
-@15 The flesh of the sacrifice of his peace offerings for thanksgiving shall be eaten on the day of his offering. He shall not leave any of it until the morning. 
+@11 “‘This_H2063 is_H0834 the_H0834 law_H8451 of_H3068 the_H0834 sacrifice_H2077 of_H3068 peace_H8002 offerings_H8002, which_H0834 one_H0834 shall_H3068 offer_H7126 to_H3068 Yahweh_H3068: 
+@12 If_H0518 he_H0518 offers_H7126 it_H0518 for_H5921 a_H0518 thanksgiving_H8426, then_H7126 he_H0518 shall offer_H7126 with_H5921 the_H5921 sacrifice_H2077 of_H2077 thanksgiving_H8426 unleavened_H4682 cakes_H2471 mixed_H1101 with_H5921 oil_H8081, and_H8081 unleavened_H4682 wafers_H7550 anointed_H4886 with_H5921 oil_H8081, and_H8081 cakes_H2471 mixed_H1101 with_H5921 oil_H8081. 
+@13 He_H5921 shall offer_H7126 his_H5921 offering_H7133 with_H5921 the_H5921 sacrifice_H2077 of_H2077 his_H5921 peace_H8002 offerings_H8002 for_H5921 thanksgiving_H8426 with_H5921 cakes_H2471 of_H2077 leavened_H2557 bread_H3899. 
+@14 Of_H3068 it_H7126 he_H3068 shall_H3548 offer_H7126 one_H0259 out_H4480 of_H3068 each_H0259 offering_H8641 for_H3605 a_H1961 heave_H8641 offering_H8641 to_H1961 Yahweh_H3068. It_H7126 shall_H3548 be_H1961 the_H3605 priest’s_H3548 who_H3605 sprinkles the_H3605 blood_H1818 of_H3068 the_H3605 peace_H8002 offerings_H8002. 
+@15 The_H4480 flesh_H1320 of_H3117 the_H4480 sacrifice_H2077 of_H3117 his_H4480 peace_H8002 offerings_H8002 for_H3117 thanksgiving_H8426 shall_H3808 be_H3808 eaten_H0398 on_H3117 the_H4480 day_H3117 of_H3117 his_H4480 offering_H7133. He_H5704 shall_H3808 not_H3808 leave_H4480 any_H4480 of_H3117 it_H0398 until_H5704 the_H4480 morning_H1242. 
 
-@16 “‘But if the sacrifice of his offering is a vow, or a free will offering, it shall be eaten on the day that he offers his sacrifice. On the next day what remains of it shall be eaten, 
-@17 but what remains of the meat of the sacrifice on the third day shall be burned with fire. 
-@18 If any of the meat of the sacrifice of his peace offerings is eaten on the third day, it will not be accepted, and it shall not be credited to him who offers it. It will be an abomination, and the soul who eats any of it will bear his iniquity. 
+@16 “‘But_H0518 if_H0518 the_H0853 sacrifice_H2077 of_H3117 his_H0518 offering_H5071 is_H3117 a_H0176 vow_H5088, or_H0176 a_H0176 free will_H3117 offering_H5071, it_H0518 shall_H3117 be_H3117 eaten_H0398 on_H3117 the_H0853 day_H3117 that_H3117 he_H0518 offers_H7126 his_H0518 sacrifice_H2077. On_H3117 the_H0853 next_H4283 day_H3117 what remains_H3498 of_H3117 it_H0518 shall_H3117 be_H3117 eaten_H0398, 
+@17 but_H3498 what remains_H3498 of_H3117 the_H3117 meat_H1320 of_H3117 the_H3117 sacrifice_H2077 on_H3117 the_H3117 third_H7992 day_H3117 shall_H3117 be_H3117 burned_H8313 with_H8313 fire_H0784. 
+@18 If_H0518 any_H4480 of_H3117 the_H0853 meat_H1320 of_H3117 the_H0853 sacrifice_H2077 of_H3117 his_H5375 peace_H8002 offerings_H8002 is_H5315 eaten_H0398 on_H3117 the_H0853 third_H7992 day_H3117, it_H0518 will_H1961 not_H3808 be_H1961 accepted_H7521, and_H0398 it_H0518 shall_H3808 not_H3808 be_H1961 credited_H2803 to_H1961 him_H0853 who_H5315 offers_H7126 it_H0518. It_H0518 will_H1961 be_H1961 an_H1961 abomination, and_H0398 the_H0853 soul_H5315 who_H5315 eats_H0398 any_H4480 of_H3117 it_H0518 will_H1961 bear_H5375 his_H5375 iniquity_H5771. 
 
-@19 “‘The meat that touches any unclean thing shall not be eaten. It shall be burned with fire. As for the meat, everyone who is clean may eat it; 
-@20 but the soul who eats of the meat of the sacrifice of peace offerings that belongs to Yahweh, having his uncleanness on him, that soul shall be cut off from his people. 
-@21 When anyone touches any unclean thing, the uncleanness of man, or an unclean animal, or any unclean abomination, and eats some of the meat of the sacrifice of peace offerings which belong to Yahweh, that soul shall be cut off from his people.’”
+@19 “‘The_H3605 meat_H1320 that_H0834 touches_H5060 any_H3605 unclean_H2931 thing_H3605 shall_H3808 not_H3808 be_H3808 eaten_H0398. It_H0398 shall_H3808 be_H3808 burned_H8313 with_H8313 fire_H0784. As_H0834 for_H3605 the_H3605 meat_H1320, everyone_H3605 who_H0834 is_H0834 clean_H2889 may_H2889 eat_H0398 it_H0398; 
+@20 but_H0834 the_H0834 soul_H5315 who_H0834 eats_H0398 of_H3068 the_H0834 meat_H1320 of_H3068 the_H0834 sacrifice_H2077 of_H3068 peace_H8002 offerings_H8002 that_H0834 belongs to_H5921 Yahweh_H3068, having_H5315 his_H5921 uncleanness_H2932 on_H5921 him_H5921, that_H0834 soul_H5315 shall_H3068 be_H3068 cut_H3772 off_H3772 from_H5921 his_H5921 people_H5971. 
+@21 When_H3588 anyone_H3605 touches_H5060 any_H3605 unclean_H2931 thing_H3588, the_H3605 uncleanness_H2932 of_H3068 man_H0120, or_H0176 an_H3588 unclean_H2931 animal_H0929, or_H0176 any_H3605 unclean_H2931 abomination, and_H3068 eats_H0398 some_H3605 of_H3068 the_H3605 meat_H1320 of_H3068 the_H3605 sacrifice_H2077 of_H3068 peace_H8002 offerings_H8002 which_H0834 belong to_H3068 Yahweh_H3068, that_H0834 soul_H5315 shall_H3068 be_H3068 cut_H3772 off_H3772 from_H3772 his_H3605 people_H5971.’”
 
 ## Prohibition of the consumption of fats and blood
-@22 Yahweh spoke to Moses, saying, 
-@23 “Speak to the children of Israel, saying, ‘You shall eat no fat, of bull, or sheep, or goat. 
-@24 The fat of that which dies of itself, and the fat of that which is torn of animals, may be used for any other service, but you shall in no way eat of it. 
-@25 For whoever eats the fat of the animal which men offer as an offering made by fire to Yahweh, even the soul who eats it shall be cut off from his people. 
-@26 You shall not eat any blood, whether it is of bird or of animal, in any of your dwellings. 
-@27 Whoever it is who eats any blood, that soul shall be cut off from his people.’”
+@22 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
+@23 “Speak_H1696 to_H0413 the_H3605 children_H1121 of_H1121 Israel_H3478, saying_H0559, ‘You_H3605 shall_H1121 eat_H0398 no_H3808 fat_H2459, of_H1121 bull_H7794, or_H3808 sheep_H3775, or_H3808 goat_H5795. 
+@24 The_H3605 fat_H2459 of_H3605 that_H3605 which_H5038 dies_H5038 of_H3605 itself_H6213, and_H0398 the_H3605 fat_H2459 of_H3605 that_H3605 which_H5038 is_H3605 torn_H2966 of_H3605 animals, may_H6213 be_H3808 used_H6213 for_H3605 any_H3605 other_H3605 service_H4399, but_H3808 you_H3605 shall_H3808 in_H3808 no_H3808 way_H3605 eat_H0398 of_H3605 it_H0398. 
+@25 For_H3588 whoever_H3605 eats_H0398 the_H3605 fat_H2459 of_H3068 the_H3605 animal_H0929 which_H0834 men_H5971 offer_H7126 as_H0834 an_H7126 offering_H0801 made_H3772 by_H0801 fire_H0801 to_H3068 Yahweh_H3068, even_H3588 the_H3605 soul_H5315 who_H0834 eats_H0398 it_H3588 shall_H3068 be_H3068 cut_H3772 off_H3772 from_H4480 his_H3605 people_H5971. 
+@26 You_H3605 shall_H3808 not_H3808 eat_H0398 any_H3605 blood_H1818, whether it_H0398 is_H3605 of_H3605 bird_H5775 or_H3808 of_H3605 animal_H0929, in_H4186 any_H3605 of_H3605 your_H3605 dwellings_H4186. 
+@27 Whoever_H3605 it_H1931 is_H0834 who_H0834 eats_H0398 any_H3605 blood_H1818, that_H0834 soul_H5315 shall_H5315 be_H5315 cut_H3772 off_H3772 from_H3772 his_H3605 people_H5971.’”
 
 ## Provisions on the participation of priests in the sacrifices of salvation
-@28 Yahweh spoke to Moses, saying, 
-@29 “Speak to the children of Israel, saying, ‘He who offers the sacrifice of his peace offerings to Yahweh shall bring his offering to Yahweh out of the sacrifice of his peace offerings. 
-@30 With his own hands he shall bring the offerings of Yahweh made by fire. He shall bring the fat with the breast, that the breast may be waved for a wave offering before Yahweh. 
-@31 The priest shall burn the fat on the altar, but the breast shall be Aaron’s and his sons’. 
-@32 The right thigh you shall give to the priest for a heave offering out of the sacrifices of your peace offerings. 
-@33 He among the sons of Aaron who offers the blood of the peace offerings, and the fat, shall have the right thigh for a portion. 
-@34 For the waved breast and the heaved thigh I have taken from the children of Israel out of the sacrifices of their peace offerings, and have given them to Aaron the priest and to his sons as their portion forever from the children of Israel.’” 
+@28 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
+@29 “Speak_H1696 to_H0413 the_H0853 children_H1121 of_H1121 Israel_H3478, saying_H0559, ‘He_H3068 who_H3068 offers_H7126 the_H0853 sacrifice_H2077 of_H1121 his_H3068 peace_H8002 offerings_H8002 to_H0413 Yahweh_H3068 shall_H1121 bring_H0935 his_H3068 offering_H7133 to_H0413 Yahweh_H3068 out_H0413 of_H1121 the_H0853 sacrifice_H2077 of_H1121 his_H3068 peace_H8002 offerings_H8002. 
+@30 With_H0854 his_H5921 own_H6440 hands_H3027 he_H3068 shall_H3068 bring_H0935 the_H0853 offerings_H0801 of_H3068 Yahweh_H3068 made by_H0801 fire_H0801. He_H3068 shall_H3068 bring_H0935 the_H0853 fat_H2459 with_H0854 the_H0853 breast_H2373, that_H2459 the_H0853 breast_H2373 may_H3068 be_H3027 waved_H5130 for_H5921 a_H0935 wave_H8573 offering_H0801 before_H6440 Yahweh_H3068. 
+@31 The_H0853 priest_H3548 shall_H3548 burn_H6999 the_H0853 fat_H2459 on_H1961 the_H0853 altar_H4196, but_H1961 the_H0853 breast_H2373 shall_H3548 be_H1961 Aaron’s_H0175 and_H1121 his_H1961 sons’_H1121. 
+@32 The_H0853 right_H3225 thigh_H7785 you_H5414 shall_H3548 give_H5414 to_H5414 the_H0853 priest_H3548 for_H5414 a_H5414 heave_H8641 offering_H8641 out_H0853 of_H2077 the_H0853 sacrifices_H2077 of_H2077 your_H5414 peace_H8002 offerings_H8002. 
+@33 He_H0853 among the_H0853 sons_H1121 of_H1121 Aaron_H0175 who_H1121 offers_H7126 the_H0853 blood_H1818 of_H1121 the_H0853 peace_H8002 offerings_H8002, and_H1121 the_H0853 fat_H2459, shall_H0175 have_H1961 the_H0853 right_H3225 thigh_H7785 for_H1961 a_H1961 portion_H4490. 
+@34 For_H3588 the_H0853 waved breast_H2373 and_H1121 the_H0853 heaved thigh_H7785 I_H3588 have_H1121 taken_H3947 from_H3478 the_H0853 children_H1121 of_H1121 Israel_H3478 out_H0853 of_H1121 the_H0853 sacrifices_H2077 of_H1121 their_H5414 peace_H8002 offerings_H8002, and_H1121 have_H1121 given_H5414 them_H5414 to_H3478 Aaron_H0175 the_H0853 priest_H3548 and_H1121 to_H3478 his_H5414 sons_H1121 as_H1121 their_H5414 portion_H2706 forever_H5769 from_H3478 the_H0853 children_H1121 of_H1121 Israel_H3478.’” 
 
-@35 This is the consecrated portion of Aaron, and the consecrated portion of his sons, out of the offerings of Yahweh made by fire, in the day when he presented them to minister to Yahweh in the priest’s office; 
-@36 which Yahweh commanded to be given them of the children of Israel, in the day that he anointed them. It is their portion forever throughout their generations. 
-@37 This is the law of the burnt offering, the meal offering, the sin offering, the trespass offering, the consecration, and the sacrifice of peace offerings 
-@38 which Yahweh commanded Moses in Mount Sinai in the day that he commanded the children of Israel to offer their offerings to Yahweh, in the wilderness of Sinai. 
+@35 This_H2063 is_H3068 the_H0853 consecrated portion of_H1121 Aaron_H0175, and_H1121 the_H0853 consecrated portion of_H1121 his_H3068 sons_H1121, out_H0853 of_H1121 the_H0853 offerings_H0801 of_H1121 Yahweh_H3068 made_H7126 by_H0801 fire_H0801, in_H3068 the_H0853 day_H3117 when_H3117 he_H3117 presented_H7126 them_H0853 to_H3068 minister_H3547 to_H3068 Yahweh_H3068 in_H3068 the_H0853 priest’s office; 
+@36 which_H0834 Yahweh_H3068 commanded_H6680 to_H3068 be_H1121 given_H5414 them_H5414 of_H1121 the_H0853 children_H1121 of_H1121 Israel_H3478, in_H3068 the_H0853 day_H3117 that_H0834 he_H0834 anointed_H4886 them_H5414. It_H5414 is_H0834 their_H3068 portion forever_H5769 throughout_H1755 their_H3068 generations_H1755. 
+@37 This_H2063 is_H8451 the_H8451 law_H8451 of_H2077 the_H8451 burnt_H5930 offering_H4503, the_H8451 meal_H4503 offering_H4503, the_H8451 sin_H2403 offering_H4503, the_H8451 trespass offering_H4503, the_H8451 consecration_H4394, and_H2077 the_H8451 sacrifice_H2077 of_H2077 peace_H8002 offerings_H8002 
+@38 which_H0834 Yahweh_H3068 commanded_H6680 Moses_H4872 in_H3068 Mount_H2022 Sinai_H5514 in_H3068 the_H0853 day_H3117 that_H0834 he_H0834 commanded_H6680 the_H0853 children_H1121 of_H1121 Israel_H3478 to_H3068 offer_H7126 their_H3068 offerings_H3068 to_H3068 Yahweh_H3068, in_H3068 the_H0853 wilderness_H4057 of_H1121 Sinai_H5514. 
 
 # 8 
 ## Consecration of Aaron and his four sons
-@1 Yahweh spoke to Moses, saying, 
-@2 “Take Aaron and his sons with him, and the garments, and the anointing oil, and the bull of the sin offering, and the two rams, and the basket of unleavened bread; 
-@3 and assemble all the congregation at the door of the Tent of Meeting.” 
+@1 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
+@2 “Take_H3947 Aaron_H0175 and_H1121 his_H3947 sons_H1121 with_H0854 him_H0853, and_H1121 the_H0853 garments_H0899, and_H1121 the_H0853 anointing_H4888 oil_H8081, and_H1121 the_H0853 bull_H6499 of_H1121 the_H0853 sin_H2403 offering, and_H1121 the_H0853 two_H8147 rams_H0352, and_H1121 the_H0853 basket_H5536 of_H1121 unleavened_H4682 bread_H4682; 
+@3 and_H0168 assemble_H6950 all_H3605 the_H3605 congregation_H5712 at_H0413 the_H3605 door_H6607 of_H0168 the_H3605 Tent_H0168 of_H0168 Meeting_H4150.” 
 
-@4 Moses did as Yahweh commanded him; and the congregation was assembled at the door of the Tent of Meeting. 
-@5 Moses said to the congregation, “This is the thing which Yahweh has commanded to be done.”
+@4 Moses_H4872 did_H6213 as_H0834 Yahweh_H3068 commanded_H6680 him_H0413; and_H3068 the_H0853 congregation_H5712 was_H0834 assembled_H6950 at_H0413 the_H0853 door_H6607 of_H3068 the_H0853 Tent_H0168 of_H3068 Meeting_H4150. 
+@5 Moses_H4872 said_H0559 to_H0413 the_H0559 congregation_H5712, “This_H2088 is_H0834 the_H0559 thing_H1697 which_H0834 Yahweh_H3068 has_H3068 commanded_H6680 to_H0413 be_H1697 done_H6213.”
 
 ## Washing, clothing and anointing of the priests
-@6 Moses brought Aaron and his sons, and washed them with water. 
-@7 He put the tunic on him, tied the sash on him, clothed him with the robe, put the ephod on him, and he tied the skillfully woven band of the ephod on him and fastened it to him with it. 
-@8 He placed the breastplate on him. He put the Urim and Thummim in the breastplate. 
-@9 He set the turban on his head. He set the golden plate, the holy crown, on the front of the turban, as Yahweh commanded Moses. 
-@10 Moses took the anointing oil, and anointed the tabernacle and all that was in it, and sanctified them. 
-@11 He sprinkled it on the altar seven times, and anointed the altar and all its vessels, and the basin and its base, to sanctify them. 
-@12 He poured some of the anointing oil on Aaron’s head, and anointed him, to sanctify him. 
-@13 Moses brought Aaron’s sons, and clothed them with tunics, and tied sashes on them, and put headbands on them, as Yahweh commanded Moses.
+@6 Moses_H4872 brought_H7126 Aaron_H0175 and_H1121 his_H7126 sons_H1121, and_H1121 washed_H7364 them_H0853 with_H7364 water_H4325. 
+@7 He_H5414 put_H5414 the_H0853 tunic_H3801 on_H5921 him_H5414, tied_H0640 the_H0853 sash_H0073 on_H5921 him_H5414, clothed_H3847 him_H5414 with_H0854 the_H0853 robe_H4598, put_H5414 the_H0853 ephod_H0646 on_H5921 him_H5414, and_H0853 he_H5414 tied_H0640 the_H0853 skillfully_H2805 woven_H2805 band_H2805 of_H5921 the_H0853 ephod_H0646 on_H5921 him_H5414 and_H0853 fastened_H5414 it_H5414 to_H5921 him_H5414 with_H0854 it_H5414. 
+@8 He_H5414 placed_H5414 the_H0853 breastplate on_H5921 him_H0413. He_H5414 put_H5414 the_H0853 Urim_H0224 and_H0853 Thummim_H8550 in_H5921 the_H0853 breastplate. 
+@9 He_H0834 set_H7760 the_H0853 turban_H4701 on_H5921 his_H5921 head_H7218. He_H0834 set_H7760 the_H0853 golden_H2091 plate_H6731, the_H0853 holy_H6944 crown_H5145, on_H5921 the_H0853 front_H6440 of_H3068 the_H0853 turban_H4701, as_H0834 Yahweh_H3068 commanded_H6680 Moses_H4872. 
+@10 Moses_H4872 took_H3947 the_H3605 anointing_H4888 oil_H8081, and_H4872 anointed_H4886 the_H3605 tabernacle_H4908 and_H4872 all_H3605 that_H0834 was_H0834 in_H3605 it_H6942, and_H4872 sanctified_H6942 them_H0853. 
+@11 He_H4480 sprinkled it_H5921 on_H5921 the_H3605 altar_H4196 seven_H7651 times_H6471, and_H4196 anointed_H4886 the_H3605 altar_H4196 and_H4196 all_H3605 its_H3605 vessels_H3627, and_H4196 the_H3605 basin_H3595 and_H4196 its_H3605 base_H3653, to_H5921 sanctify_H6942 them_H0853. 
+@12 He_H0853 poured_H3332 some of_H7218 the_H0853 anointing_H4888 oil_H8081 on_H5921 Aaron’s_H0175 head_H7218, and_H7218 anointed_H4886 him_H5921, to_H5921 sanctify_H6942 him_H5921. 
+@13 Moses_H4872 brought_H7126 Aaron’s_H0175 sons_H1121, and_H1121 clothed_H3847 them_H0853 with_H3068 tunics_H3801, and_H1121 tied sashes_H0073 on_H3847 them_H0853, and_H1121 put_H3847 headbands_H4021 on_H3847 them_H0853, as_H0834 Yahweh_H3068 commanded_H6680 Moses_H4872.
 
 ## The Priestly Sin Offering
-@14 He brought the bull of the sin offering, and Aaron and his sons laid their hands on the head of the bull of the sin offering. 
-@15 He killed it; and Moses took the blood, and put it around on the horns of the altar with his finger, and purified the altar, and poured out the blood at the base of the altar, and sanctified it, to make atonement for it. 
-@16 He took all the fat that was on the innards, and the cover of the liver, and the two kidneys, and their fat; and Moses burned it on the altar. 
-@17 But the bull, and its skin, and its meat, and its dung, he burned with fire outside the camp, as Yahweh commanded Moses.
+@14 He_H0853 brought_H5066 the_H0853 bull_H6499 of_H1121 the_H0853 sin_H2403 offering, and_H1121 Aaron_H0175 and_H1121 his_H5921 sons_H1121 laid_H5564 their_H5921 hands_H3027 on_H5921 the_H0853 head_H7218 of_H1121 the_H0853 bull_H6499 of_H1121 the_H0853 sin_H2403 offering. 
+@15 He_H5414 killed_H7819 it_H5414; and_H4872 Moses_H4872 took_H3947 the_H0853 blood_H1818, and_H4872 put_H5414 it_H5414 around_H5439 on_H5921 the_H0853 horns_H7161 of_H4196 the_H0853 altar_H4196 with_H0413 his_H5414 finger_H0676, and_H4872 purified_H2398 the_H0853 altar_H4196, and_H4872 poured_H3332 out_H3332 the_H0853 blood_H1818 at_H0413 the_H0853 base_H3247 of_H4196 the_H0853 altar_H4196, and_H4872 sanctified_H6942 it_H5414, to_H0413 make_H5414 atonement_H3722 for_H5921 it_H5414. 
+@16 He_H0834 took_H3947 all_H3605 the_H3605 fat_H2459 that_H0834 was_H0834 on_H5921 the_H3605 innards, and_H4872 the_H3605 cover of_H4196 the_H3605 liver_H3516, and_H4872 the_H3605 two_H8147 kidneys_H3629, and_H4872 their_H3605 fat_H2459; and_H4872 Moses_H4872 burned_H6999 it_H5921 on_H5921 the_H3605 altar_H4196. 
+@17 But_H0834 the_H0853 bull_H6499, and_H3068 its_H0853 skin_H5785, and_H3068 its_H0853 meat_H1320, and_H3068 its_H0853 dung_H6569, he_H0834 burned_H8313 with_H8313 fire_H0784 outside_H2351 the_H0853 camp_H4264, as_H0834 Yahweh_H3068 commanded_H6680 Moses_H4872.
 
 ## The Holocaust
-@18 He presented the ram of the burnt offering. Aaron and his sons laid their hands on the head of the ram. 
-@19 He killed it; and Moses sprinkled the blood around on the altar. 
-@20 He cut the ram into its pieces; and Moses burned the head, and the pieces, and the fat. 
-@21 He washed the innards and the legs with water; and Moses burned the whole ram on the altar. It was a burnt offering for a pleasant aroma. It was an offering made by fire to Yahweh, as Yahweh commanded Moses.
+@18 He_H0853 presented_H7126 the_H0853 ram_H0352 of_H1121 the_H0853 burnt_H5930 offering_H7126. Aaron_H0175 and_H1121 his_H5921 sons_H1121 laid_H5564 their_H5921 hands_H3027 on_H5921 the_H0853 head_H7218 of_H1121 the_H0853 ram_H0352. 
+@19 He_H0853 killed_H7819 it_H5921; and_H4872 Moses_H4872 sprinkled_H2236 the_H0853 blood_H1818 around_H5439 on_H5921 the_H0853 altar_H4196. 
+@20 He_H0853 cut_H5408 the_H0853 ram_H0352 into its_H0853 pieces_H5409; and_H4872 Moses_H4872 burned_H6999 the_H0853 head_H7218, and_H4872 the_H0853 pieces_H5409, and_H4872 the_H0853 fat. 
+@21 He_H0834 washed_H7364 the_H3605 innards and_H3068 the_H3605 legs_H3767 with_H3068 water_H4325; and_H3068 Moses_H4872 burned_H6999 the_H3605 whole_H3605 ram_H0352 on_H3068 the_H3605 altar_H4196. It_H1931 was_H0834 a_H0834 burnt_H5930 offering_H0801 for_H4325 a_H0834 pleasant aroma_H5207. It_H1931 was_H0834 an_H3068 offering_H0801 made_H3605 by_H0801 fire_H0801 to_H3068 Yahweh_H3068, as_H0834 Yahweh_H3068 commanded_H6680 Moses_H4872.
 
 ## Initiation and sprinkling offering
-@22 He presented the other ram, the ram of consecration. Aaron and his sons laid their hands on the head of the ram. 
-@23 He killed it; and Moses took some of its blood, and put it on the tip of Aaron’s right ear, and on the thumb of his right hand, and on the great toe of his right foot. 
-@24 He brought Aaron’s sons; and Moses put some of the blood on the tip of their right ear, and on the thumb of their right hand, and on the great toe of their right foot; and Moses sprinkled the blood around on the altar. 
-@25 He took the fat, the fat tail, all the fat that was on the innards, the cover of the liver, the two kidneys and their fat, and the right thigh; 
-@26 and out of the basket of unleavened bread that was before Yahweh, he took one unleavened cake, one cake of oiled bread, and one wafer, and placed them on the fat and on the right thigh. 
-@27 He put all these in Aaron’s hands and in his sons’ hands, and waved them for a wave offering before Yahweh. 
-@28 Moses took them from their hands, and burned them on the altar on the burnt offering. They were a consecration offering for a pleasant aroma. It was an offering made by fire to Yahweh. 
-@29 Moses took the breast, and waved it for a wave offering before Yahweh. It was Moses’ portion of the ram of consecration, as Yahweh commanded Moses. 
-@30 Moses took some of the anointing oil, and some of the blood which was on the altar, and sprinkled it on Aaron, on his garments, and on his sons, and on his sons’ garments with him, and sanctified Aaron, his garments, and his sons, and his sons’ garments with him.
+@22 He_H0853 presented_H7126 the_H0853 other_H8145 ram_H0352, the_H0853 ram_H0352 of_H1121 consecration_H4394. Aaron_H0175 and_H1121 his_H5921 sons_H1121 laid_H5564 their_H5921 hands_H3027 on_H5921 the_H0853 head_H7218 of_H1121 the_H0853 ram_H0352. 
+@23 He_H5414 killed_H7819 it_H5414; and_H4872 Moses_H4872 took_H3947 some_H3027 of_H3027 its_H5414 blood_H1818, and_H4872 put_H5414 it_H5414 on_H5921 the_H5921 tip of_H3027 Aaron’s_H0175 right_H3233 ear_H0241, and_H4872 on_H5921 the_H5921 thumb_H0931 of_H3027 his_H5414 right_H3233 hand_H3027, and_H4872 on_H5921 the_H5921 great toe_H0931 of_H3027 his_H5414 right_H3233 foot_H7272. 
+@24 He_H4480 brought_H7126 Aaron’s_H0175 sons_H1121; and_H1121 Moses_H4872 put_H5414 some_H4480 of_H1121 the_H0853 blood_H1818 on_H5921 the_H0853 tip of_H1121 their_H5414 right_H3233 ear_H0241, and_H1121 on_H5921 the_H0853 thumb_H0931 of_H1121 their_H5414 right_H3233 hand_H3027, and_H1121 on_H5921 the_H0853 great toe_H0931 of_H1121 their_H5414 right_H3233 foot_H7272; and_H1121 Moses_H4872 sprinkled_H2236 the_H0853 blood_H1818 around_H5439 on_H5921 the_H0853 altar_H4196. 
+@25 He_H0834 took_H3947 the_H3605 fat_H2459, the_H3605 fat_H2459 tail_H0451, all_H3605 the_H3605 fat_H2459 that_H0834 was_H0834 on_H5921 the_H3605 innards, the_H3605 cover of_H5921 the_H3605 liver_H3516, the_H3605 two_H8147 kidneys_H3629 and_H0853 their_H3605 fat_H2459, and_H0853 the_H3605 right_H3225 thigh_H7785; 
+@26 and_H3068 out_H6440 of_H3068 the_H6440 basket_H5536 of_H3068 unleavened_H4682 bread_H3899 that_H0834 was_H0834 before_H6440 Yahweh_H3068, he_H0834 took_H3947 one_H0259 unleavened_H4682 cake_H2471, one_H0259 cake_H2471 of_H3068 oiled bread_H3899, and_H3068 one_H0259 wafer_H7550, and_H3068 placed_H7760 them_H5921 on_H5921 the_H6440 fat_H2459 and_H3068 on_H5921 the_H6440 right_H3225 thigh_H7785. 
+@27 He_H3068 put_H5414 all_H3605 these_H3605 in_H5921 Aaron’s_H0175 hands_H3709 and_H1121 in_H5921 his_H3605 sons’_H1121 hands_H3709, and_H1121 waved_H5130 them_H5414 for_H5921 a_H5414 wave_H8573 offering_H8573 before_H6440 Yahweh_H3068. 
+@28 Moses_H4872 took_H3947 them_H1992 from_H5921 their_H3068 hands_H3709, and_H3068 burned_H6999 them_H1992 on_H5921 the_H0853 altar_H4196 on_H5921 the_H0853 burnt_H5930 offering_H0801. They_H1992 were_H1992 a_H3947 consecration_H4394 offering_H0801 for_H5921 a_H3947 pleasant aroma_H5207. It_H1931 was_H3068 an_H3947 offering_H0801 made_H3947 by_H0801 fire_H0801 to_H5921 Yahweh_H3068. 
+@29 Moses_H4872 took_H3947 the_H0853 breast_H2373, and_H3068 waved_H5130 it_H1961 for_H3068 a_H1961 wave_H8573 offering_H8573 before_H6440 Yahweh_H3068. It_H1961 was_H1961 Moses’_H4872 portion_H4490 of_H3068 the_H0853 ram_H0352 of_H3068 consecration_H4394, as_H0834 Yahweh_H3068 commanded_H6680 Moses_H4872. 
+@30 Moses_H4872 took_H3947 some_H4480 of_H1121 the_H0853 anointing_H4888 oil_H8081, and_H1121 some_H4480 of_H1121 the_H0853 blood_H1818 which_H0834 was_H0834 on_H5921 the_H0853 altar_H4196, and_H1121 sprinkled it_H5921 on_H5921 Aaron_H0175, on_H5921 his_H5921 garments_H0899, and_H1121 on_H5921 his_H5921 sons_H1121, and_H1121 on_H5921 his_H5921 sons’_H1121 garments_H0899 with_H0854 him_H5921, and_H1121 sanctified_H6942 Aaron_H0175, his_H5921 garments_H0899, and_H1121 his_H5921 sons_H1121, and_H1121 his_H5921 sons’_H1121 garments_H0899 with_H0854 him_H5921.
 
 ## Regulations regarding slaughter food and seven-day segregation
-@31 Moses said to Aaron and to his sons, “Boil the meat at the door of the Tent of Meeting, and there eat it and the bread that is in the basket of consecration, as I commanded, saying, ‘Aaron and his sons shall eat it.’ 
-@32 What remains of the meat and of the bread you shall burn with fire. 
-@33 You shall not go out from the door of the Tent of Meeting for seven days, until the days of your consecration are fulfilled: for he shall consecrate you seven days. 
-@34 What has been done today, so Yahweh has commanded to do, to make atonement for you. 
-@35 You shall stay at the door of the Tent of Meeting day and night seven days, and keep Yahweh’s command, that you don’t die: for so I am commanded.” 
-@36 Aaron and his sons did all the things which Yahweh commanded by Moses. 
+@31 Moses_H4872 said_H0559 to_H0413 Aaron_H0175 and_H1121 to_H0413 his_H0834 sons_H1121, “Boil_H1310 the_H0853 meat_H1320 at_H0413 the_H0853 door_H6607 of_H1121 the_H0853 Tent_H0168 of_H1121 Meeting_H4150, and_H1121 there_H8033 eat_H0398 it_H0398 and_H1121 the_H0853 bread_H3899 that_H0834 is_H0834 in_H0413 the_H0853 basket_H5536 of_H1121 consecration_H4394, as_H0834 I_H0834 commanded_H6680, saying_H0559, ‘Aaron_H0175 and_H1121 his_H0834 sons_H1121 shall_H0175 eat_H0398 it_H0398.’ 
+@32 What remains_H3498 of_H3899 the_H8313 meat_H1320 and_H3899 of_H3899 the_H8313 bread_H3899 you_H1320 shall_H1320 burn_H8313 with_H8313 fire_H0784. 
+@33 You_H3588 shall_H3808 not_H3808 go_H3318 out_H3318 from_H3318 the_H0853 door_H6607 of_H3117 the_H0853 Tent_H0168 of_H3117 Meeting_H4150 for_H3588 seven_H7651 days_H3117, until_H5704 the_H0853 days_H3117 of_H3117 your_H3588 consecration_H4394 are_H3117 fulfilled_H4390: for_H3588 he_H3588 shall_H3808 consecrate you_H3588 seven_H7651 days_H3117. 
+@34 What_H0834 has_H3068 been_H0834 done_H6213 today_H3117, so_H6213 Yahweh_H3068 has_H3068 commanded_H6680 to_H5921 do_H6213, to_H5921 make_H6213 atonement_H3722 for_H5921 you_H0834. 
+@35 You_H3588 shall_H3068 stay_H3427 at_H3427 the_H0853 door_H6607 of_H3068 the_H0853 Tent_H0168 of_H3068 Meeting_H4150 day_H3117 and_H3068 night_H3915 seven_H7651 days_H3117, and_H3068 keep_H8104 Yahweh’s_H3068 command_H6680, that_H3588 you_H3588 don’t_H3808 die_H4191: for_H3588 so_H3651 I_H3588 am_H3068 commanded_H6680.” 
+@36 Aaron_H0175 and_H1121 his_H3605 sons_H1121 did_H6213 all_H3605 the_H3605 things_H1697 which_H0834 Yahweh_H3068 commanded_H6680 by_H3027 Moses_H4872. 
 
 # 9 
 ## Preparations for the sacrifice of Aaron and his sons
-@1 On the eighth day, Moses called Aaron and his sons, and the elders of Israel; 
-@2 and he said to Aaron, “Take a calf from the herd for a sin offering, and a ram for a burnt offering, without defect, and offer them before Yahweh. 
-@3 You shall speak to the children of Israel, saying, ‘Take a male goat for a sin offering; and a calf and a lamb, both a year old, without defect, for a burnt offering; 
-@4 and a bull and a ram for peace offerings, to sacrifice before Yahweh; and a meal offering mixed with oil: for today Yahweh appears to you.’” 
+@1 On_H3117 the_H3117 eighth_H8066 day_H3117, Moses_H4872 called_H7121 Aaron_H0175 and_H1121 his_H1961 sons_H1121, and_H1121 the_H3117 elders_H2205 of_H1121 Israel_H3478; 
+@2 and_H1121 he_H3068 said_H0559 to_H0413 Aaron_H0175, “Take_H3947 a_H3947 calf_H5695 from_H6440 the_H0559 herd_H1241 for_H0413 a_H3947 sin_H2403 offering_H7126, and_H1121 a_H3947 ram_H0352 for_H0413 a_H3947 burnt_H5930 offering_H7126, without_H8549 defect_H8549, and_H1121 offer_H7126 them_H0413 before_H6440 Yahweh_H3068. 
+@3 You_H3947 shall_H1121 speak_H1696 to_H0413 the_H0559 children_H1121 of_H1121 Israel_H3478, saying_H0559, ‘Take_H3947 a_H3947 male_H3532 goat_H5795 for_H0413 a_H3947 sin_H2403 offering; and_H1121 a_H3947 calf_H5695 and_H1121 a_H3947 lamb_H3532, both a_H3947 year_H8141 old_H1121, without_H8549 defect_H8549, for_H0413 a_H3947 burnt_H5930 offering; 
+@4 and_H3068 a_H3588 bull_H7794 and_H3068 a_H3588 ram_H0352 for_H3588 peace_H8002 offerings_H8002, to_H0413 sacrifice_H2076 before_H6440 Yahweh_H3068; and_H3068 a_H3588 meal_H4503 offering_H4503 mixed_H1101 with_H0413 oil_H8081: for_H3588 today_H3117 Yahweh_H3068 appears_H7200 to_H0413 you_H3588.’” 
 
-@5 They brought what Moses commanded before the Tent of Meeting. All the congregation came near and stood before Yahweh. 
-@6 Moses said, “This is the thing which Yahweh commanded that you should do; and Yahweh’s glory shall appear to you.” 
-@7 Moses said to Aaron, “Draw near to the altar, and offer your sin offering, and your burnt offering, and make atonement for yourself, and for the people; and offer the offering of the people, and make atonement for them, as Yahweh commanded.”
+@5 They_H0834 brought_H7126 what_H0834 Moses_H4872 commanded_H6680 before_H6440 the_H3605 Tent_H0168 of_H3068 Meeting_H4150. All_H3605 the_H3605 congregation_H5712 came_H7126 near_H7126 and_H3068 stood_H5975 before_H6440 Yahweh_H3068. 
+@6 Moses_H4872 said_H0559, “This_H2088 is_H0834 the_H0559 thing_H1697 which_H0834 Yahweh_H3068 commanded_H6680 that_H0834 you_H0834 should_H3068 do_H6213; and_H3068 Yahweh’s_H3068 glory_H3519 shall_H3068 appear_H7200 to_H0413 you_H0834.” 
+@7 Moses_H4872 said_H0559 to_H0413 Aaron_H0175, “Draw_H7126 near_H7126 to_H0413 the_H0853 altar_H4196, and_H3068 offer_H7126 your_H3068 sin_H2403 offering_H7133, and_H3068 your_H3068 burnt_H5930 offering_H7133, and_H3068 make_H6213 atonement_H3722 for_H1157 yourself_H0413, and_H3068 for_H1157 the_H0853 people_H5971; and_H3068 offer_H7126 the_H0853 offering_H7133 of_H3068 the_H0853 people_H5971, and_H3068 make_H6213 atonement_H3722 for_H1157 them_H0413, as_H0834 Yahweh_H3068 commanded_H6680.”
 
 ## The high priest's sin offering and burnt offering
-@8 So Aaron came near to the altar, and killed the calf of the sin offering, which was for himself. 
-@9 The sons of Aaron presented the blood to him; and he dipped his finger in the blood, and put it on the horns of the altar, and poured out the blood at the base of the altar; 
-@10 but the fat, and the kidneys, and the cover from the liver of the sin offering, he burned upon the altar, as Yahweh commanded Moses. 
-@11 The meat and the skin he burned with fire outside the camp. 
-@12 He killed the burnt offering; and Aaron’s sons delivered the blood to him, and he sprinkled it around on the altar. 
-@13 They delivered the burnt offering to him, piece by piece, and the head. He burned them upon the altar. 
-@14 He washed the innards and the legs, and burned them on the burnt offering on the altar.
+@8 So_H0834 Aaron_H0175 came_H7126 near_H7126 to_H0413 the_H0853 altar_H4196, and_H4196 killed_H7819 the_H0853 calf_H5695 of_H4196 the_H0853 sin_H2403 offering_H7126, which_H0834 was_H0834 for_H0413 himself_H0413. 
+@9 The_H0853 sons_H1121 of_H1121 Aaron_H0175 presented_H7126 the_H0853 blood_H1818 to_H0413 him_H0413; and_H1121 he_H5414 dipped_H2881 his_H5414 finger_H0676 in_H5921 the_H0853 blood_H1818, and_H1121 put_H5414 it_H5414 on_H5921 the_H0853 horns_H7161 of_H1121 the_H0853 altar_H4196, and_H1121 poured_H3332 out_H3332 the_H0853 blood_H1818 at_H0413 the_H0853 base_H3247 of_H1121 the_H0853 altar_H4196; 
+@10 but_H0834 the_H0853 fat_H2459, and_H3068 the_H0853 kidneys_H3629, and_H3068 the_H0853 cover from_H4480 the_H0853 liver_H3516 of_H3068 the_H0853 sin_H2403 offering_H6999, he_H0834 burned_H6999 upon the_H0853 altar_H4196, as_H0834 Yahweh_H3068 commanded_H6680 Moses_H4872. 
+@11 The_H0853 meat_H1320 and_H0784 the_H0853 skin_H5785 he_H0853 burned_H8313 with_H8313 fire_H0784 outside_H2351 the_H0853 camp_H4264. 
+@12 He_H0853 killed_H7819 the_H0853 burnt_H5930 offering; and_H1121 Aaron’s_H0175 sons_H1121 delivered_H4672 the_H0853 blood_H1818 to_H0413 him_H0413, and_H1121 he_H0853 sprinkled_H2236 it_H5921 around_H5439 on_H5921 the_H0853 altar_H4196. 
+@13 They_H5921 delivered_H4672 the_H0853 burnt_H5930 offering_H6999 to_H0413 him_H0413, piece_H5409 by_H5921 piece_H5409, and_H7218 the_H0853 head_H7218. He_H0853 burned_H6999 them_H0413 upon_H5921 the_H0853 altar_H4196. 
+@14 He_H0853 washed_H7364 the_H0853 innards and_H4196 the_H0853 legs_H3767, and_H4196 burned_H6999 them_H0853 on_H5921 the_H0853 burnt_H5930 offering_H6999 on_H5921 the_H0853 altar_H4196.
 
 ## The four sacrifices for the people
-@15 He presented the people’s offering, and took the goat of the sin offering which was for the people, and killed it, and offered it for sin, like the first. 
-@16 He presented the burnt offering, and offered it according to the ordinance. 
-@17 He presented the meal offering, and filled his hand from there, and burned it upon the altar, in addition to the burnt offering of the morning. 
-@18 He also killed the bull and the ram, the sacrifice of peace offerings, which was for the people. Aaron’s sons delivered to him the blood, which he sprinkled around on the altar; 
-@19 and the fat of the bull and of the ram, the fat tail, and that which covers the innards, and the kidneys, and the cover of the liver; 
-@20 and they put the fat upon the breasts, and he burned the fat on the altar. 
-@21 Aaron waved the breasts and the right thigh for a wave offering before Yahweh, as Moses commanded.
+@15 He_H0834 presented_H7126 the_H0853 people’s_H5971 offering_H7133, and_H0853 took_H3947 the_H0853 goat_H8163 of_H7819 the_H0853 sin_H2398 offering_H7133 which_H0834 was_H0834 for_H3947 the_H0853 people_H5971, and_H0853 killed_H7819 it_H7126, and_H0853 offered_H7126 it_H7126 for_H3947 sin_H2398, like_H0834 the_H0853 first_H7223. 
+@16 He_H6213 presented_H7126 the_H0853 burnt_H5930 offering_H7126, and_H4941 offered_H7126 it_H7126 according_H4941 to_H7126 the_H0853 ordinance_H4941. 
+@17 He_H4480 presented_H7126 the_H0853 meal_H4503 offering_H4503, and_H4196 filled_H4390 his_H5921 hand_H3709 from_H4480 there, and_H4196 burned_H6999 it_H5921 upon_H5921 the_H0853 altar_H4196, in_H5921 addition_H5921 to_H5921 the_H0853 burnt_H5930 offering_H4503 of_H4480 the_H0853 morning_H1242. 
+@18 He_H0834 also_H0853 killed_H7819 the_H0853 bull_H7794 and_H1121 the_H0853 ram_H0352, the_H0853 sacrifice_H2077 of_H1121 peace_H8002 offerings_H8002, which_H0834 was_H0834 for_H5921 the_H0853 people_H5971. Aaron’s_H0175 sons_H1121 delivered_H4672 to_H0413 him_H0413 the_H0853 blood_H1818, which_H0834 he_H0834 sprinkled_H2236 around_H5439 on_H5921 the_H0853 altar_H4196; 
+@19 and_H0853 the_H0853 fat_H2459 of_H4480 the_H0853 bull_H7794 and_H0853 of_H4480 the_H0853 ram_H0352, the_H0853 fat_H2459 tail_H0451, and_H0853 that_H4480 which covers the_H0853 innards, and_H0853 the_H0853 kidneys_H3629, and_H0853 the_H0853 cover of_H4480 the_H0853 liver_H3516; 
+@20 and_H4196 they_H5921 put_H7760 the_H0853 fat_H2459 upon_H5921 the_H0853 breasts_H2373, and_H4196 he_H0853 burned_H6999 the_H0853 fat_H2459 on_H5921 the_H0853 altar_H4196. 
+@21 Aaron_H0175 waved_H5130 the_H0853 breasts_H2373 and_H3068 the_H0853 right_H3225 thigh_H7785 for_H3068 a_H0834 wave_H8573 offering_H8573 before_H6440 Yahweh_H3068, as_H0834 Moses_H4872 commanded_H6680.
 
 ## Double blessing of the people; Appearance of the glory of the Lord; the fire of God consumes the sacrifices of Aaron
-@22 Aaron lifted up his hands toward the people, and blessed them; and he came down from offering the sin offering, and the burnt offering, and the peace offerings. 
+@22 Aaron_H0175 lifted_H5375 up_H5375 his_H5375 hands_H3027 toward_H0413 the_H0853 people_H5971, and_H3027 blessed_H1288 them_H0413; and_H3027 he_H6213 came_H3381 down_H3381 from_H3381 offering_H8002 the_H0853 sin_H2403 offering_H8002, and_H3027 the_H0853 burnt_H5930 offering_H8002, and_H3027 the_H0853 peace_H8002 offerings_H8002. 
 
-@23 Moses and Aaron went into the Tent of Meeting, and came out, and blessed the people; and Yahweh’s glory appeared to all the people. 
-@24 Fire came out from before Yahweh, and consumed the burnt offering and the fat upon the altar. When all the people saw it, they shouted, and fell on their faces. 
+@23 Moses_H4872 and_H0935 Aaron_H0175 went_H3318 into_H0413 the_H3605 Tent_H0168 of_H3068 Meeting_H4150, and_H0935 came_H0935 out_H3318, and_H0935 blessed_H1288 the_H3605 people_H5971; and_H0935 Yahweh’s_H3068 glory_H3519 appeared_H7200 to_H0413 all_H3605 the_H3605 people_H5971. 
+@24 Fire_H0784 came_H3318 out_H3318 from_H3318 before_H6440 Yahweh_H3068, and_H3068 consumed_H0398 the_H3605 burnt_H5930 offering_H3068 and_H3068 the_H3605 fat_H2459 upon_H5921 the_H3605 altar_H4196. When_H7200 all_H3605 the_H3605 people_H5971 saw_H7200 it_H5921, they_H5921 shouted_H7442, and_H3068 fell_H5307 on_H5921 their_H3605 faces_H6440. 
 
 # 10 
 ## The sin and death of Nadab and Abihu
-@1 Nadab and Abihu, the sons of Aaron, each took his censer, and put fire in it, and laid incense on it, and offered strange fire before Yahweh, which he had not commanded them. 
-@2 Fire came out from before Yahweh, and devoured them, and they died before Yahweh. 
+@1 Nadab_H5070 and_H1121 Abihu_H0030, the_H0853 sons_H1121 of_H1121 Aaron_H0175, each_H0376 took_H3947 his_H5414 censer_H4289, and_H1121 put_H5414 fire_H0784 in_H5921 it_H7760, and_H1121 laid_H7760 incense_H7004 on_H5921 it_H7760, and_H1121 offered_H7126 strange_H2114 fire_H0784 before_H6440 Yahweh_H3068, which_H0834 he_H0834 had_H3068 not_H3808 commanded_H6680 them_H5414. 
+@2 Fire_H0784 came_H3318 out_H3318 from_H3318 before_H6440 Yahweh_H3068, and_H3068 devoured_H0398 them_H0853, and_H3068 they_H3068 died_H4191 before_H6440 Yahweh_H3068. 
 
-@3 Then Moses said to Aaron, “This is what Yahweh spoke of, saying, ‘I will show myself holy to those who come near me, and before all the people I will be glorified.’” 
+@3 Then_H1696 Moses_H4872 said_H0559 to_H0413 Aaron_H0175, “This_H1931 is_H0834 what_H0834 Yahweh_H3068 spoke_H1696 of_H3068, saying_H0559, ‘I_H0834 will_H3068 show_H6942 myself_H6942 holy_H6942 to_H0413 those_H3605 who_H0834 come near_H7138 me_H0413, and_H3068 before_H6440 all_H3605 the_H3605 people_H5971 I_H0834 will_H3068 be_H3068 glorified_H3513.’” 
 
-Aaron held his peace. 
-@4 Moses called Mishael and Elzaphan, the sons of Uzziel the uncle of Aaron, and said to them, “Draw near, carry your brothers from before the sanctuary out of the camp.” 
-@5 So they came near, and carried them in their tunics out of the camp, as Moses had said.
+Aaron_H0175 held_H3513 his_H3605 peace. 
+@4 Moses_H4872 called_H7121 Mishael_H4332 and_H1121 Elzaphan_H0469, the_H0853 sons_H1121 of_H1121 Uzziel_H5816 the_H0853 uncle_H1730 of_H1121 Aaron_H0175, and_H1121 said_H0559 to_H0413 them_H0413, “Draw_H7126 near_H7126, carry_H5375 your_H6440 brothers_H0251 from_H6440 before_H6440 the_H0853 sanctuary_H6944 out_H6440 of_H1121 the_H0853 camp_H4264.” 
+@5 So_H0834 they_H0834 came_H7126 near_H7126, and_H4872 carried_H5375 them_H0413 in_H0413 their_H5375 tunics_H3801 out_H0413 of_H4264 the_H0834 camp_H4264, as_H0834 Moses_H4872 had_H0834 said_H1696.
 
 ## Rules for priests on the practice of mourning
-@6 Moses said to Aaron, and to Eleazar and to Ithamar, his sons, “Don’t let the hair of your heads go loose, and don’t tear your clothes, so that you don’t die, and so that he will not be angry with all the congregation; but let your brothers, the whole house of Israel, bewail the burning which Yahweh has kindled. 
-@7 You shall not go out from the door of the Tent of Meeting, lest you die; for the anointing oil of Yahweh is on you.” They did according to the word of Moses.
+@6 Moses_H4872 said_H0559 to_H0413 Aaron_H0175, and_H1121 to_H0413 Eleazar_H0499 and_H1121 to_H0413 Ithamar_H0385, his_H3605 sons_H1121, “Don’t_H0408 let_H0408 the_H3605 hair_H7218 of_H1121 your_H3068 heads_H7218 go loose_H5921, and_H1121 don’t_H0408 tear_H6533 your_H3068 clothes_H0899, so_H3808 that_H0834 you_H0834 don’t_H0408 die_H4191, and_H1121 so_H3808 that_H0834 he_H0834 will_H3068 not_H3808 be_H4191 angry_H7107 with_H0413 all_H3605 the_H3605 congregation_H5712; but_H3808 let_H0408 your_H3068 brothers_H0251, the_H3605 whole_H3605 house_H1004 of_H1121 Israel_H3478, bewail_H1058 the_H3605 burning_H8316 which_H0834 Yahweh_H3068 has_H3068 kindled. 
+@7 You_H3588 shall_H3068 not_H3808 go_H3318 out_H3318 from_H3318 the_H5921 door_H6607 of_H3068 the_H5921 Tent_H0168 of_H3068 Meeting_H4150, lest_H6435 you_H3588 die_H4191; for_H3588 the_H5921 anointing_H4888 oil_H8081 of_H3068 Yahweh_H3068 is_H3068 on_H5921 you_H3588.” They_H3588 did_H6213 according_H5921 to_H4191 the_H5921 word_H1697 of_H3068 Moses_H4872.
 
 ## Prohibition of wine consumption for priests during their official work
-@8 Then Yahweh said to Aaron, 
-@9 “You and your sons are not to drink wine or strong drink whenever you go into the Tent of Meeting, or you will die. This shall be a statute forever throughout your generations. 
-@10 You are to make a distinction between the holy and the common, and between the unclean and the clean. 
-@11 You are to teach the children of Israel all the statutes which Yahweh has spoken to them by Moses.”
+@8 Then_H1696 Yahweh_H3068 said_H0559 to_H0413 Aaron_H0175, 
+@9 “You_H0859 and_H1121 your_H0935 sons_H1121 are_H1121 not_H3808 to_H0413 drink_H8354 wine_H3196 or_H3808 strong_H7941 drink_H8354 whenever you_H0859 go_H0935 into_H0413 the_H0413 Tent_H0168 of_H1121 Meeting_H4150, or_H3808 you_H0859 will_H1121 die_H4191. This_H2708 shall_H1121 be_H4191 a_H0935 statute_H2708 forever_H5769 throughout_H1755 your_H0935 generations_H1755. 
+@10 You_H0914 are to_H0914 make_H0914 a_H0996 distinction_H0914 between_H0996 the_H0996 holy_H6944 and_H6944 the_H0996 common_H2455, and_H6944 between_H0996 the_H0996 unclean_H2931 and_H6944 the_H0996 clean_H2889. 
+@11 You_H0834 are_H0834 to_H0413 teach_H3384 the_H3605 children_H1121 of_H1121 Israel_H3478 all_H3605 the_H3605 statutes_H2706 which_H0834 Yahweh_H3068 has_H3068 spoken_H1696 to_H0413 them_H0413 by_H3027 Moses_H4872.”
 
 ## On consuming the priest's portion of food offerings and peace offerings
-@12 Moses spoke to Aaron, and to Eleazar and to Ithamar, his sons who were left, “Take the meal offering that remains of the offerings of Yahweh made by fire, and eat it without yeast beside the altar; for it is most holy; 
-@13 and you shall eat it in a holy place, because it is your portion, and your sons’ portion, of the offerings of Yahweh made by fire; for so I am commanded. 
-@14 The waved breast and the heaved thigh you shall eat in a clean place, you, and your sons, and your daughters with you: for they are given as your portion, and your sons’ portion, out of the sacrifices of the peace offerings of the children of Israel. 
-@15 They shall bring the heaved thigh and the waved breast with the offerings made by fire of the fat, to wave it for a wave offering before Yahweh. It shall be yours, and your sons’ with you, as a portion forever, as Yahweh has commanded.”
+@12 Moses_H4872 spoke_H1696 to_H0413 Aaron_H0175, and_H1121 to_H0413 Eleazar_H0499 and_H1121 to_H0413 Ithamar_H0385, his_H3947 sons_H1121 who_H1931 were_H1121 left_H3498, “Take_H3947 the_H0853 meal_H4503 offering_H4503 that_H3588 remains_H3498 of_H1121 the_H0853 offerings_H0801 of_H1121 Yahweh_H3068 made_H1696 by_H0801 fire_H0801, and_H1121 eat_H0398 it_H1931 without yeast beside_H0681 the_H0853 altar_H4196; for_H3588 it_H1931 is_H3068 most_H6944 holy_H6944; 
+@13 and_H1121 you_H3588 shall_H1121 eat_H0398 it_H1931 in_H3068 a_H3588 holy_H6918 place_H4725, because_H3588 it_H1931 is_H3068 your_H3068 portion_H2706, and_H1121 your_H3068 sons’_H1121 portion_H2706, of_H1121 the_H0853 offerings_H0801 of_H1121 Yahweh_H3068 made by_H0801 fire_H0801; for_H3588 so_H3651 I_H3588 am_H3068 commanded_H6680. 
+@14 The_H0853 waved breast_H2373 and_H1121 the_H0853 heaved thigh_H7785 you_H0859 shall_H1121 eat_H0398 in_H3478 a_H3588 clean_H2889 place_H4725, you_H0859, and_H1121 your_H5414 sons_H1121, and_H1121 your_H5414 daughters_H1323 with_H0854 you_H0859: for_H3588 they_H3588 are_H3478 given_H5414 as_H1121 your_H5414 portion_H2706, and_H1121 your_H5414 sons’_H1121 portion_H2706, out_H4725 of_H1121 the_H0853 sacrifices_H2077 of_H1121 the_H0853 peace_H8002 offerings_H8002 of_H1121 the_H0853 children_H1121 of_H1121 Israel_H3478. 
+@15 They_H0834 shall_H1121 bring_H0935 the_H6440 heaved thigh_H7785 and_H1121 the_H6440 waved_H5130 breast_H2373 with_H0854 the_H6440 offerings_H0801 made_H1961 by_H0801 fire_H0801 of_H1121 the_H6440 fat_H2459, to_H0935 wave_H8573 it_H5921 for_H5921 a_H1961 wave_H8573 offering_H0801 before_H6440 Yahweh_H3068. It_H5921 shall_H1121 be_H1961 yours, and_H1121 your_H3068 sons’_H1121 with_H0854 you_H0834, as_H0834 a_H1961 portion_H2706 forever_H5769, as_H0834 Yahweh_H3068 has_H3068 commanded_H6680.”
 
 ## On the enjoyment of the meat of the goat for the sin offered by the people
-@16 Moses diligently inquired about the goat of the sin offering, and, behold,^a^ it was burned. He was angry with Eleazar and with Ithamar, the sons of Aaron who were left, saying, 
-@17 “Why haven’t you eaten the sin offering in the place of the sanctuary, since it is most holy, and he has given it to you to bear the iniquity of the congregation, to make atonement for them before Yahweh? 
-@18 Behold, its blood was not brought into the inner part of the sanctuary. You certainly should have eaten it in the sanctuary, as I commanded.” 
+@16 Moses_H4872 diligently inquired_H1875 about_H5921 the_H0853 goat_H8163 of_H1121 the_H0853 sin_H2403 offering, and_H1121, behold_H2009,^a^ it_H5921 was_H4872 burned_H8313. He_H0853 was_H4872 angry_H7107 with_H8313 Eleazar_H0499 and_H1121 with_H8313 Ithamar_H0385, the_H0853 sons_H1121 of_H1121 Aaron_H0175 who_H1121 were_H1121 left_H3498, saying_H0559, 
+@17 “Why_H4069 haven’t_H3808 you_H3588 eaten_H0398 the_H0853 sin_H2403 offering_H3068 in_H5921 the_H0853 place_H4725 of_H3068 the_H0853 sanctuary_H6944, since_H3588 it_H5414 is_H3068 most_H6944 holy_H6944, and_H3068 he_H1931 has_H3068 given_H5414 it_H5414 to_H5921 you_H3588 to_H5921 bear_H5375 the_H0853 iniquity_H5771 of_H3068 the_H0853 congregation_H5712, to_H5921 make_H5414 atonement_H3722 for_H3588 them_H5414 before_H6440 Yahweh_H3068? 
+@18 Behold_H2005, its_H0853 blood_H1818 was_H0834 not_H3808 brought_H0935 into_H0413 the_H0853 inner_H6441 part_H6441 of_H1818 the_H0853 sanctuary_H6944. You_H0834 certainly_H0935 should_H0413 have_H0834 eaten_H0398 it_H0398 in_H0935 the_H0853 sanctuary_H6944, as_H0834 I_H0834 commanded_H6680.” 
 ^a^[**10:16** “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.]
 
-@19 Aaron spoke to Moses, “Behold, today they have offered their sin offering and their burnt offering before Yahweh; and such things as these have happened to me. If I had eaten the sin offering today, would it have been pleasing in Yahweh’s sight?” 
+@19 Aaron_H0175 spoke_H1696 to_H0413 Moses_H4872, “Behold_H2005, today_H3117 they_H3117 have_H5869 offered_H7126 their_H3068 sin_H2403 offering_H7126 and_H3068 their_H3068 burnt_H5930 offering_H7126 before_H6440 Yahweh_H3068; and_H3068 such_H0428 things_H0428 as_H3068 these_H0428 have_H5869 happened_H7122 to_H0413 me_H0413. If_H2005 I_H2005 had_H3068 eaten_H0398 the_H0853 sin_H2403 offering_H7126 today_H3117, would_H3068 it_H7126 have_H5869 been_H3068 pleasing_H3190 in_H0413 Yahweh’s_H3068 sight_H5869?” 
 
-@20 When Moses heard that, it was pleasing in his sight. 
+@20 When_H8085 Moses_H4872 heard_H8085 that_H8085, it_H3190 was_H4872 pleasing_H3190 in_H8085 his_H8085 sight_H5869. 
 
 # 11 
 ## Clean and Unclean Animal Ordinances
-@1 Yahweh spoke to Moses and to Aaron, saying to them, 
-@2 “Speak to the children of Israel, saying, ‘These are the living things which you may eat among all the animals that are on the earth. 
-@3 Whatever parts the hoof, and is cloven-footed, and chews the cud among the animals, that you may eat. 
+@1 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872 and_H3068 to_H0413 Aaron_H0175, saying_H0559 to_H0413 them_H0413, 
+@2 “Speak_H1696 to_H0413 the_H3605 children_H1121 of_H1121 Israel_H3478, saying_H0559, ‘These_H2063 are_H0834 the_H3605 living_H2416 things_H3605 which_H0834 you_H0834 may_H0776 eat_H0398 among_H5921 all_H3605 the_H3605 animals_H0929 that_H0834 are_H0834 on_H5921 the_H3605 earth_H0776. 
+@3 Whatever_H3605 parts_H6541 the_H3605 hoof_H6541, and_H0398 is_H3605 cloven-footed, and_H0398 chews_H5927 the_H3605 cud_H1625 among the_H3605 animals_H0929, that_H3605 you_H3605 may_H0398 eat_H0398. 
 
-@4 “‘Nevertheless these you shall not eat of those that chew the cud, or of those who part the hoof: the camel, because it chews the cud but doesn’t have a parted hoof, is unclean to you. 
-@5 The hyrax,^a^ because it chews the cud but doesn’t have a parted hoof, is unclean to you. 
-@6 The hare, because it chews the cud but doesn’t have a parted hoof, is unclean to you. 
-@7 The pig, because it has a split hoof, and is cloven-footed, but doesn’t chew the cud, is unclean to you. 
-@8 You shall not eat their meat. You shall not touch their carcasses. They are unclean to you. 
+@4 “‘Nevertheless_H0389 these_H2088 you_H3588 shall_H3808 not_H3808 eat_H0398 of_H0398 those_H0853 that_H3588 chew_H5927 the_H0853 cud_H1625, or_H3808 of_H0398 those_H0853 who_H1931 part_H1931 the_H0853 hoof_H6541: the_H0853 camel_H1581, because_H3588 it_H1931 chews_H5927 the_H0853 cud_H1625 but_H3588 doesn’t_H3808 have_H0369 a_H3588 parted hoof_H6541, is_H0369 unclean_H2931 to_H0369 you_H3588. 
+@5 The_H0853 hyrax,^a^ because_H3588 it_H1931 chews_H5927 the_H0853 cud_H1625 but_H3588 doesn’t_H3808 have_H3588 a_H3588 parted hoof_H6541, is_H1931 unclean_H2931 to_H5927 you_H3588. 
+@6 The_H0853 hare_H0768, because_H3588 it_H1931 chews_H5927 the_H0853 cud_H1625 but_H3588 doesn’t_H3808 have_H3588 a_H3588 parted hoof_H6541, is_H1931 unclean_H2931 to_H5927 you_H3588. 
+@7 The_H0853 pig_H2386, because_H3588 it_H1931 has_H3588 a_H3588 split_H8156 hoof_H6541, and_H0853 is_H1931 cloven-footed, but_H3588 doesn’t_H3808 chew_H1641 the_H0853 cud_H1625, is_H1931 unclean_H2931 to_H3808 you_H3588. 
+@8 You_H3808 shall_H3808 not_H3808 eat_H0398 their_H1992 meat_H1320. You_H3808 shall_H3808 not_H3808 touch_H5060 their_H1992 carcasses_H5038. They_H1992 are_H1992 unclean_H2931 to_H5060 you_H3808. 
 ^a^[**11:5** or rock badger, or cony]
 
-@9 “‘You may eat of all these that are in the waters: whatever has fins and scales in the waters, in the seas, and in the rivers, that you may eat. 
-@10 All that don’t have fins and scales in the seas and rivers, all that move in the waters, and all the living creatures that are in the waters, they are an abomination to you, 
-@11 and you shall detest them. You shall not eat of their meat, and you shall detest their carcasses. 
-@12 Whatever has no fins nor scales in the waters is an abomination to you. 
+@9 “‘You_H0834 may_H0834 eat_H0398 of_H4325 all_H3605 these_H2088 that_H0834 are_H0834 in_H3220 the_H3605 waters_H4325: whatever_H0834 has_H0834 fins_H5579 and_H0398 scales_H7193 in_H3220 the_H3605 waters_H4325, in_H3220 the_H3605 seas_H3220, and_H0398 in_H3220 the_H3605 rivers, that_H0834 you_H0834 may_H0834 eat_H0398. 
+@10 All_H3605 that_H0834 don’t_H0369 have_H0834 fins_H5579 and_H4325 scales_H7193 in_H5315 the_H3605 seas_H3220 and_H4325 rivers, all_H3605 that_H0834 move in_H5315 the_H3605 waters_H4325, and_H4325 all_H3605 the_H3605 living_H2416 creatures_H5315 that_H0834 are_H0834 in_H5315 the_H3605 waters_H4325, they_H1992 are_H0834 an_H0369 abomination to_H0369 you_H0834, 
+@11 and_H0398 you_H3808 shall_H3808 detest_H8262 them_H0853. You_H3808 shall_H3808 not_H3808 eat_H0398 of_H0398 their_H0398 meat_H1320, and_H0398 you_H3808 shall_H3808 detest_H8262 their_H0398 carcasses_H5038. 
+@12 Whatever_H0834 has_H0834 no_H0369 fins_H5579 nor_H0369 scales_H7193 in_H4325 the_H3605 waters_H4325 is_H0369 an_H0369 abomination to_H0369 you_H0834. 
 
-@13 “‘You shall detest these among the birds; they shall not be eaten because they are an abomination: the eagle, the vulture, the black vulture, 
-@14 the red kite, any kind of black kite, 
-@15 any kind of raven, 
-@16 the horned owl, the screech owl, the gull, any kind of hawk, 
-@17 the little owl, the cormorant, the great owl, 
-@18 the white owl, the desert owl, the osprey, 
-@19 the stork, any kind of heron, the hoopoe, and the bat. 
+@13 “‘You_H0853 shall_H3808 detest_H8262 these_H0428 among_H4480 the_H0853 birds_H5775; they_H1992 shall_H3808 not_H3808 be_H3808 eaten_H0398 because_H4480 they_H1992 are_H1992 an_H4480 abomination: the_H0853 eagle_H5404, the_H0853 vulture_H6538, the_H0853 black vulture_H6538, 
+@14 the_H0853 red kite_H1676, any kind_H4327 of_H0853 black kite_H1676, 
+@15 any_H3605 kind_H4327 of_H3605 raven_H6158, 
+@16 the_H0853 horned owl_H8464, the_H0853 screech owl_H8464, the_H0853 gull_H7828, any kind_H4327 of_H1323 hawk_H5322, 
+@17 the_H0853 little owl_H3244, the_H0853 cormorant_H7994, the_H0853 great_H3244 owl_H3244, 
+@18 the_H0853 white_H8580 owl_H8580, the_H0853 desert owl_H8580, the_H0853 osprey, 
+@19 the_H0853 stork_H2624, any kind_H4327 of_H0853 heron_H0601, the_H0853 hoopoe_H1744, and_H0853 the_H0853 bat_H5847. 
 
-@20 “‘All flying insects that walk on all fours are an abomination to you. 
-@21 Yet you may eat these: of all winged creeping things that go on all fours, which have long, jointed legs for hopping on the earth. 
-@22 Even of these you may eat: any kind of locust, any kind of katydid, any kind of cricket, and any kind of grasshopper. 
-@23 But all winged creeping things which have four feet are an abomination to you.
+@20 “‘All_H3605 flying insects_H8318 that_H3605 walk_H1980 on_H5921 all_H3605 fours_H0702 are_H0702 an_H5921 abomination to_H1980 you_H3605. 
+@21 Yet_H0389 you_H0834 may_H0776 eat_H0398 these_H2088: of_H0776 all_H3605 winged_H5775 creeping things_H3605 that_H0834 go_H1980 on_H5921 all_H3605 fours_H0702, which_H0834 have_H0834 long, jointed_H7272 legs_H3767 for_H5921 hopping on_H5921 the_H3605 earth_H0776. 
+@22 Even_H0853 of_H0398 these_H0428 you_H0853 may_H0428 eat_H0398: any_H0398 kind_H4327 of_H0398 locust_H0697, any_H0398 kind_H4327 of_H0398 katydid, any_H0398 kind_H4327 of_H0398 cricket_H2728, and_H0398 any_H0398 kind_H4327 of_H0398 grasshopper_H2284. 
+@23 But_H0834 all_H3605 winged_H5775 creeping things_H3605 which_H0834 have_H0834 four_H0702 feet_H7272 are_H0834 an abomination to_H0834 you_H0834.
 
 ## Provisions on contamination by touching the carcasses of unclean and clean animals
-@24 “‘By these you will become unclean: whoever touches their carcass shall be unclean until the evening. 
-@25 Whoever carries any part of their carcass shall wash his clothes, and be unclean until the evening. 
+@24 “‘By_H3605 these_H0428 you_H3605 will_H5704 become_H2930 unclean_H2930: whoever_H3605 touches_H5060 their_H3605 carcass_H5038 shall_H5038 be_H3605 unclean_H2930 until_H5704 the_H3605 evening_H6153. 
+@25 Whoever_H3605 carries_H5375 any_H3605 part of_H3605 their_H3605 carcass_H5038 shall_H5038 wash_H3526 his_H3605 clothes_H0899, and_H3605 be_H3605 unclean_H2930 until_H5704 the_H3605 evening_H6153. 
 
-@26 “‘Every animal which has a split hoof that isn’t completely divided, or doesn’t chew the cud, is unclean to you. Everyone who touches them shall be unclean. 
-@27 Whatever goes on its paws, among all animals that go on all fours, they are unclean to you. Whoever touches their carcass shall be unclean until the evening. 
-@28 He who carries their carcass shall wash his clothes, and be unclean until the evening. They are unclean to you. 
+@26 “‘Every_H3605 animal_H0929 which_H0834 has_H0834 a_H0834 split_H8156 hoof_H6541 that_H0834 isn’t completely_H3605 divided_H6536, or_H0369 doesn’t chew_H5927 the_H3605 cud_H1625, is_H0369 unclean_H2931 to_H0369 you_H0834. Everyone_H3605 who_H0834 touches_H5060 them_H1992 shall_H0929 be_H0369 unclean_H2931. 
+@27 Whatever_H3605 goes_H1980 on_H5921 its_H3605 paws_H3709, among_H5921 all_H3605 animals_H2416 that_H3605 go_H1980 on_H5921 all_H3605 fours_H0702, they_H1992 are_H1992 unclean_H2931 to_H5704 you_H3605. Whoever_H3605 touches_H5060 their_H3605 carcass_H5038 shall_H5038 be_H3605 unclean_H2931 until_H5704 the_H3605 evening_H6153. 
+@28 He_H5704 who_H2931 carries_H5375 their_H5375 carcass_H5038 shall_H5038 wash_H3526 his_H3526 clothes_H0899, and_H0853 be_H5375 unclean_H2931 until_H5704 the_H0853 evening_H6153. They_H1992 are_H1992 unclean_H2931 to_H5704 you_H5704. 
 
-@29 “‘These are they which are unclean to you among the creeping things that creep on the earth: the weasel, the rat, any kind of great lizard, 
-@30 the gecko, and the monitor lizard, the wall lizard, the skink, and the chameleon. 
-@31 These are they which are unclean to you among all that creep. Whoever touches them when they are dead shall be unclean until the evening. 
-@32 Anything they fall on when they are dead shall be unclean; whether it is any vessel of wood, or clothing, or skin, or sack, whatever vessel it is, with which any work is done, it must be put into water, and it shall be unclean until the evening. Then it will be clean. 
-@33 Every earthen vessel into which any of them falls and all that is in it shall be unclean. You shall break it. 
-@34 All food which may be eaten which is soaked in water shall be unclean. All drink that may be drunk in every such vessel shall be unclean. 
-@35 Everything whereupon part of their carcass falls shall be unclean; whether oven, or range for pots, it shall be broken in pieces. They are unclean, and shall be unclean to you. 
-@36 Nevertheless a spring or a cistern in which water is gathered shall be clean, but that which touches their carcass shall be unclean. 
-@37 If part of their carcass falls on any sowing seed which is to be sown, it is clean. 
-@38 But if water is put on the seed, and part of their carcass falls on it, it is unclean to you. 
+@29 “‘These_H2088 are_H0776 they_H5921 which_H8318 are_H0776 unclean_H2931 to_H5921 you_H5921 among_H5921 the_H5921 creeping things_H8318 that_H8318 creep on_H5921 the_H5921 earth_H0776: the_H5921 weasel, the_H5921 rat, any kind_H4327 of_H0776 great lizard, 
+@30 the_H3581 gecko_H0604, and the_H3581 monitor lizard_H3911, the_H3581 wall lizard_H3911, the_H3581 skink, and the_H3581 chameleon_H8580. 
+@31 These_H0428 are_H0428 they_H5704 which_H8318 are_H0428 unclean_H2931 to_H5704 you_H3605 among_H2931 all_H3605 that_H3605 creep. Whoever_H3605 touches_H5060 them_H5060 when_H5704 they_H5704 are_H0428 dead_H4194 shall_H0428 be_H3605 unclean_H2931 until_H5704 the_H3605 evening_H6153. 
+@32 Anything_H3605 they_H1992 fall_H5307 on_H5921 when_H0834 they_H1992 are_H0834 dead_H4194 shall_H0834 be_H4325 unclean_H2930; whether_H0176 it_H5921 is_H0834 any_H3605 vessel_H3627 of_H3627 wood_H6086, or_H0176 clothing_H0899, or_H0176 skin_H5785, or_H0176 sack_H8242, whatever_H0834 vessel_H3627 it_H5921 is_H0834, with_H5921 which_H0834 any_H3605 work_H4399 is_H0834 done_H6213, it_H5921 must be_H4325 put_H0935 into_H0935 water_H4325, and_H0935 it_H5921 shall_H0834 be_H4325 unclean_H2930 until_H5704 the_H3605 evening_H6153. Then_H0935 it_H5921 will_H0834 be_H4325 clean_H2891. 
+@33 Every_H3605 earthen_H2789 vessel_H3627 into_H0413 which_H0834 any_H3605 of_H3627 them_H0413 falls_H5307 and_H0853 all_H3605 that_H0834 is_H0834 in_H0413 it_H2930 shall_H0834 be_H3605 unclean_H2930. You_H0834 shall_H0834 break_H7665 it_H2930. 
+@34 All_H3605 food_H0400 which_H0834 may_H0834 be_H4325 eaten_H0398 which_H0834 is_H0834 soaked in_H5921 water_H4325 shall_H0834 be_H4325 unclean_H2930. All_H3605 drink_H8354 that_H0834 may_H0834 be_H4325 drunk_H8354 in_H5921 every_H3605 such_H0834 vessel_H3627 shall_H0834 be_H4325 unclean_H2930. 
+@35 Everything_H3605 whereupon part_H5921 of_H5921 their_H3605 carcass_H5038 falls_H5307 shall_H5038 be_H1961 unclean_H2931; whether oven_H8574, or range for_H5921 pots, it_H5921 shall_H5038 be_H1961 broken_H5422 in_H5921 pieces. They_H1992 are_H0834 unclean_H2931, and_H5307 shall_H5038 be_H1961 unclean_H2931 to_H1961 you_H0834. 
+@36 Nevertheless_H0389 a_H1961 spring_H4599 or a_H1961 cistern_H0953 in_H1961 which_H5038 water_H4325 is_H1961 gathered shall_H5038 be_H1961 clean_H2889, but_H0389 that_H4325 which_H5038 touches_H5060 their_H1961 carcass_H5038 shall_H5038 be_H1961 unclean_H2930. 
+@37 If_H3588 part_H1931 of_H5921 their_H3605 carcass_H5038 falls_H5307 on_H5921 any_H3605 sowing_H2221 seed_H2233 which_H0834 is_H0834 to_H5921 be_H3605 sown_H2232, it_H1931 is_H0834 clean_H2889. 
+@38 But_H3588 if_H3588 water_H4325 is_H1931 put_H5414 on_H5921 the_H5921 seed_H2233, and_H4325 part_H1931 of_H5921 their_H5414 carcass_H5038 falls_H5307 on_H5921 it_H5414, it_H5414 is_H1931 unclean_H2931 to_H5921 you_H3588. 
 
-@39 “‘If any animal of which you may eat dies, he who touches its carcass shall be unclean until the evening. 
-@40 He who eats of its carcass shall wash his clothes, and be unclean until the evening. He also who carries its carcass shall wash his clothes, and be unclean until the evening.
+@39 “‘If_H3588 any_H4480 animal_H0929 of_H4480 which_H0834 you_H0834 may_H0834 eat_H0402 dies_H4191, he_H0834 who_H0834 touches_H5060 its_H5060 carcass_H5038 shall_H0929 be_H4191 unclean_H2930 until_H5704 the_H0834 evening_H6153. 
+@40 He_H5704 who eats_H0398 of_H0398 its_H0853 carcass_H5038 shall_H5038 wash_H3526 his_H3526 clothes_H0899, and_H0398 be_H5375 unclean_H2930 until_H5704 the_H0853 evening_H6153. He_H5704 also_H0853 who carries_H5375 its_H0853 carcass_H5038 shall_H5038 wash_H3526 his_H3526 clothes_H0899, and_H0398 be_H5375 unclean_H2930 until_H5704 the_H0853 evening_H6153.
 
 ## Addition on consumption of reptiles
-@41 “‘Every creeping thing that creeps on the earth is an abomination. It shall not be eaten. 
-@42 Whatever goes on its belly, and whatever goes on all fours, or whatever has many feet, even all creeping things that creep on the earth, them you shall not eat; for they are an abomination.
+@41 “‘Every_H3605 creeping thing_H8318 that_H3605 creeps on_H5921 the_H3605 earth_H0776 is_H1931 an_H5921 abomination. It_H1931 shall_H0776 not_H3808 be_H3808 eaten_H0398. 
+@42 Whatever_H3605 goes_H1980 on_H5921 its_H3605 belly, and_H1980 whatever_H3605 goes_H1980 on_H5921 all_H3605 fours_H0702, or_H3808 whatever_H3605 has_H0776 many_H7235 feet_H7272, even_H5704 all_H3605 creeping things_H3605 that_H3588 creep on_H5921 the_H3605 earth_H0776, them_H1992 you_H3588 shall_H0776 not_H3808 eat_H0398; for_H3588 they_H1992 are_H1992 an_H3588 abomination.
 
 ## Final Warnings
-@43 You shall not make yourselves abominable with any creeping thing that creeps. You shall not make yourselves unclean with them, that you should be defiled by them. 
-@44 For I am Yahweh your God. Sanctify yourselves therefore, and be holy; for I am holy. You shall not defile yourselves with any kind of creeping thing that moves on the earth. 
-@45 For I am Yahweh who brought you up out of the land of Egypt, to be your God. You shall therefore be holy, for I am holy. 
+@43 You_H3605 shall_H3808 not_H3808 make_H2930 yourselves_H5315 abominable with_H3605 any_H3605 creeping thing_H8318 that_H3605 creeps. You_H3605 shall_H3808 not_H3808 make_H2930 yourselves_H5315 unclean_H2930 with_H3605 them_H0853, that_H3605 you_H3605 should be_H3808 defiled_H2930 by_H3605 them_H0853. 
+@44 For_H3588 I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430. Sanctify_H6942 yourselves_H5315 therefore_H3068, and_H3068 be_H1961 holy_H6918; for_H3588 I_H0589 am_H0589 holy_H6918. You_H3588 shall_H3068 not_H3808 defile_H2930 yourselves_H5315 with_H3068 any_H3605 kind of_H0776 creeping thing_H8318 that_H3588 moves_H7430 on_H5921 the_H3605 earth_H0776. 
+@45 For_H3588 I_H0589 am_H0589 Yahweh_H3068 who_H3068 brought_H5927 you_H3588 up_H5927 out_H0853 of_H0776 the_H0853 land_H0776 of_H0776 Egypt_H4714, to_H1961 be_H1961 your_H3068 God_H0430. You_H3588 shall_H3068 therefore_H3068 be_H1961 holy_H6918, for_H3588 I_H0589 am_H0589 holy_H6918. 
 
-@46 “‘This is the law of the animal, and of the bird, and of every living creature that moves in the waters, and of every creature that creeps on the earth, 
-@47 to make a distinction between the unclean and the clean, and between the living thing that may be eaten and the living thing that may not be eaten.’” 
+@46 “‘This_H2063 is_H0776 the_H3605 law_H8451 of_H0776 the_H3605 animal_H0929, and_H0776 of_H0776 the_H3605 bird_H5775, and_H0776 of_H0776 every_H3605 living_H2416 creature_H5315 that_H3605 moves_H7430 in_H5921 the_H3605 waters_H4325, and_H0776 of_H0776 every_H3605 creature_H5315 that_H3605 creeps_H7430 on_H5921 the_H3605 earth_H0776, 
+@47 to_H3808 make_H0914 a_H0834 distinction_H0914 between_H0996 the_H0834 unclean_H2931 and_H0398 the_H0834 clean_H2889, and_H0398 between_H0996 the_H0834 living_H2416 thing_H2931 that_H0834 may_H2889 be_H3808 eaten_H0398 and_H0398 the_H0834 living_H2416 thing_H2931 that_H0834 may_H2889 not_H3808 be_H3808 eaten_H0398.’” 
 
 # 12 
 ## Policy on women who have recently given birth
-@1 Yahweh spoke to Moses, saying, 
-@2 “Speak to the children of Israel, saying, ‘If a woman conceives, and bears a male child, then she shall be unclean seven days; as in the days of her monthly period she shall be unclean. 
-@3 In the eighth day the flesh of his foreskin shall be circumcised. 
-@4 She shall continue in the blood of purification thirty-three days. She shall not touch any holy thing, nor come into the sanctuary, until the days of her purifying are completed. 
-@5 But if she bears a female child, then she shall be unclean two weeks, as in her period; and she shall continue in the blood of purification sixty-six days. 
+@1 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
+@2 “Speak_H1696 to_H0413 the_H0559 children_H1121 of_H1121 Israel_H3478, saying_H0559, ‘If_H3588 a_H3588 woman_H0802 conceives, and_H1121 bears_H3205 a_H3588 male_H2145 child_H1121, then_H1696 she_H3588 shall_H1121 be_H1121 unclean_H2930 seven_H7651 days_H3117; as_H3117 in_H0413 the_H0559 days_H3117 of_H1121 her_H0413 monthly period_H3117 she_H3588 shall_H1121 be_H1121 unclean_H2930. 
+@3 In_H3117 the_H3117 eighth_H8066 day_H3117 the_H3117 flesh_H1320 of_H3117 his_H3117 foreskin_H6190 shall_H3117 be_H3117 circumcised_H4135. 
+@4 She_H3808 shall_H3808 continue in_H3427 the_H3605 blood_H1818 of_H3117 purification_H2893 thirty-three_H7969 days_H3117. She_H3808 shall_H3808 not_H3808 touch_H5060 any_H3605 holy_H6944 thing_H6944, nor_H3808 come_H0935 into_H0413 the_H3605 sanctuary_H4720, until_H5704 the_H3605 days_H3117 of_H3117 her_H3605 purifying_H2893 are_H3117 completed_H4390. 
+@5 But_H0518 if_H0518 she_H0518 bears_H3205 a_H3205 female_H5347 child_H3205, then she_H0518 shall_H3117 be_H3117 unclean_H2930 two_H3427 weeks_H7620, as_H3117 in_H3427 her_H5921 period_H3117; and_H3117 she_H0518 shall_H3117 continue in_H3427 the_H5921 blood_H1818 of_H3117 purification_H2893 sixty-six days_H3117. 
 
-@6 “‘When the days of her purification are completed for a son or for a daughter, she shall bring to the priest at the door of the Tent of Meeting, a year old lamb for a burnt offering, and a young pigeon or a turtledove, for a sin offering. 
-@7 He shall offer it before Yahweh, and make atonement for her; then she shall be cleansed from the fountain of her blood. 
+@6 “‘When_H3117 the_H0413 days_H3117 of_H1121 her_H0413 purification_H2893 are_H3117 completed_H4390 for_H0413 a_H0176 son_H1121 or_H0176 for_H0413 a_H0176 daughter_H1323, she shall_H3548 bring_H0935 to_H0413 the_H0413 priest_H3548 at_H0413 the_H0413 door_H6607 of_H1121 the_H0413 Tent_H0168 of_H1121 Meeting_H4150, a_H0176 year_H8141 old_H1121 lamb_H3532 for_H0413 a_H0176 burnt_H5930 offering_H3548, and_H1121 a_H0176 young_H1121 pigeon_H3123 or_H0176 a_H0176 turtledove_H8449, for_H0413 a_H0176 sin_H2403 offering_H3548. 
+@7 He_H3068 shall_H3068 offer_H7126 it_H5921 before_H6440 Yahweh_H3068, and_H3068 make atonement_H3722 for_H5921 her_H5921; then_H7126 she_H6440 shall_H3068 be_H3068 cleansed_H2891 from_H5921 the_H6440 fountain_H4726 of_H3068 her_H5921 blood_H1818. 
 
-“‘This is the law for her who bears, whether a male or a female. 
-@8 If she cannot afford a lamb, then she shall take two turtledoves or two young pigeons: the one for a burnt offering, and the other for a sin offering. The priest shall make atonement for her, and she shall be clean.’” 
+“‘This_H2063 is_H3068 the_H6440 law_H8451 for_H5921 her_H5921 who_H3068 bears_H3205, whether_H0176 a_H0176 male_H2145 or_H0176 a_H0176 female_H5347. 
+@8 If_H0518 she_H0518 cannot_H3808 afford_H3027 a_H3947 lamb_H7716, then_H3947 she_H0518 shall_H3548 take_H3947 two_H8147 turtledoves_H8449 or_H0176 two_H8147 young_H1121 pigeons_H3123: the_H5921 one_H0259 for_H5921 a_H3947 burnt_H5930 offering_H3548, and_H1121 the_H5921 other_H0259 for_H5921 a_H3947 sin_H2403 offering_H3548. The_H5921 priest_H3548 shall_H3548 make_H3947 atonement_H3722 for_H5921 her_H3947, and_H1121 she_H0518 shall_H3548 be_H3808 clean_H2891.’” 
 
 # 13 
 ## Rash and spots in people on bare skin
-@1 Yahweh spoke to Moses and to Aaron, saying, 
-@2 “When a man shall have a swelling in his body’s skin, or a scab, or a bright spot, and it becomes in the skin of his body the plague of leprosy, then he shall be brought to Aaron the priest or to one of his sons, the priests. 
-@3 The priest shall examine the plague in the skin of the body. If the hair in the plague has turned white, and the appearance of the plague is deeper than the body’s skin, it is the plague of leprosy; so the priest shall examine him and pronounce him unclean. 
-@4 If the bright spot is white in the skin of his body, and its appearance isn’t deeper than the skin, and its hair hasn’t turned white, then the priest shall isolate the infected person for seven days. 
-@5 The priest shall examine him on the seventh day. Behold, if in his eyes the plague is arrested and the plague hasn’t spread in the skin, then the priest shall isolate him for seven more days. 
-@6 The priest shall examine him again on the seventh day. Behold, if the plague has faded and the plague hasn’t spread in the skin, then the priest shall pronounce him clean. It is a scab. He shall wash his clothes, and be clean. 
-@7 But if the scab spreads on the skin after he has shown himself to the priest for his cleansing, he shall show himself to the priest again. 
-@8 The priest shall examine him; and behold, if the scab has spread on the skin, then the priest shall pronounce him unclean. It is leprosy.
+@1 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872 and_H3068 to_H0413 Aaron_H0175, saying_H0559, 
+@2 “When_H3588 a_H1961 man_H0120 shall_H3548 have_H1961 a_H1961 swelling_H7613 in_H0935 his_H1961 body’s skin_H5785, or_H0176 a_H1961 scab_H5597, or_H0176 a_H1961 bright_H0934 spot_H0934, and_H1121 it_H3588 becomes_H1961 in_H0935 the_H3588 skin_H5785 of_H1121 his_H1961 body_H1320 the_H3588 plague_H5061 of_H1121 leprosy_H6883, then_H1961 he_H3588 shall_H3548 be_H1961 brought_H0935 to_H0413 Aaron_H0175 the_H3588 priest_H3548 or_H0176 to_H0413 one_H0259 of_H1121 his_H1961 sons_H1121, the_H3588 priests_H3548. 
+@3 The_H0853 priest_H3548 shall_H3548 examine the_H0853 plague_H5061 in_H1320 the_H0853 skin_H5785 of_H5061 the_H0853 body_H1320. If_H7200 the_H0853 hair_H8181 in_H1320 the_H0853 plague_H5061 has_H5061 turned_H2015 white_H3836, and_H3548 the_H0853 appearance_H4758 of_H5061 the_H0853 plague_H5061 is_H1931 deeper_H6013 than the_H0853 body’s skin_H5785, it_H1931 is_H1931 the_H0853 plague_H5061 of_H5061 leprosy_H6883; so_H7200 the_H0853 priest_H3548 shall_H3548 examine him_H0853 and_H3548 pronounce_H2930 him_H0853 unclean_H2930. 
+@4 If_H0518 the_H0853 bright_H0934 spot_H0934 is_H0369 white_H3836 in_H3117 the_H0853 skin_H5785 of_H3117 his_H0518 body_H1320, and_H3117 its_H0853 appearance_H4758 isn’t_H3808 deeper_H6013 than_H4480 the_H0853 skin_H5785, and_H3117 its_H0853 hair_H8181 hasn’t_H3808 turned_H2015 white_H3836, then_H0853 the_H0853 priest_H3548 shall_H3548 isolate_H5462 the_H0853 infected person_H1320 for_H3117 seven_H7651 days_H3117. 
+@5 The_H7200 priest_H3548 shall_H3548 examine him_H7200 on_H3117 the_H7200 seventh_H7637 day_H3117. Behold_H2009, if_H2009 in_H3117 his_H7200 eyes_H5869 the_H7200 plague_H5061 is_H3117 arrested and_H3117 the_H7200 plague_H5061 hasn’t_H3808 spread_H6581 in_H3117 the_H7200 skin_H5785, then_H2009 the_H7200 priest_H3548 shall_H3548 isolate_H5462 him_H7200 for_H3117 seven_H7651 more_H3808 days_H3117. 
+@6 The_H0853 priest_H3548 shall_H3548 examine him_H0853 again_H8145 on_H3117 the_H0853 seventh_H7637 day_H3117. Behold_H2009, if_H2009 the_H0853 plague_H5061 has_H5061 faded_H3544 and_H3117 the_H0853 plague_H5061 hasn’t_H3808 spread_H6581 in_H3117 the_H0853 skin_H5785, then_H2009 the_H0853 priest_H3548 shall_H3548 pronounce_H2891 him_H0853 clean_H2891. It_H1931 is_H1931 a_H7200 scab_H4556. He_H1931 shall_H3548 wash_H3526 his_H3526 clothes_H0899, and_H3117 be_H3808 clean_H2891. 
+@7 But_H0518 if_H0518 the_H0413 scab_H4556 spreads_H6581 on_H0413 the_H0413 skin_H5785 after_H0310 he_H0518 has_H3548 shown_H7200 himself_H0413 to_H0413 the_H0413 priest_H3548 for_H0413 his_H0518 cleansing_H2893, he_H0518 shall_H3548 show_H7200 himself_H0413 to_H0413 the_H0413 priest_H3548 again_H8145. 
+@8 The_H7200 priest_H3548 shall_H3548 examine him_H2930; and_H3548 behold_H2009, if_H2009 the_H7200 scab_H4556 has_H2009 spread_H6581 on_H7200 the_H7200 skin_H5785, then_H2009 the_H7200 priest_H3548 shall_H3548 pronounce_H2930 him_H2930 unclean_H2930. It_H1931 is_H1931 leprosy_H6883.
 
 ## Obsolete leprosy
-@9 “When the plague of leprosy is in a man, then he shall be brought to the priest; 
-@10 and the priest shall examine him. Behold, if there is a white swelling in the skin, and it has turned the hair white, and there is raw flesh in the swelling, 
-@11 it is a chronic leprosy in the skin of his body, and the priest shall pronounce him unclean. He shall not isolate him, for he is already unclean. 
+@9 “When_H3588 the_H3588 plague_H5061 of_H5061 leprosy_H6883 is_H1961 in_H0935 a_H1961 man_H0120, then_H1961 he_H3588 shall_H3548 be_H1961 brought_H0935 to_H0413 the_H3588 priest_H3548; 
+@10 and_H3548 the_H7200 priest_H3548 shall_H3548 examine him_H7200. Behold_H2009, if_H2009 there_H2009 is_H1931 a_H7200 white_H3836 swelling_H7613 in_H1320 the_H7200 skin_H5785, and_H3548 it_H1931 has_H2009 turned_H2015 the_H7200 hair_H8181 white_H3836, and_H3548 there_H2009 is_H1931 raw_H4241 flesh_H1320 in_H1320 the_H7200 swelling_H7613, 
+@11 it_H1931 is_H1931 a_H3588 chronic_H3462 leprosy_H6883 in_H1320 the_H3588 skin_H5785 of_H3548 his_H3588 body_H1320, and_H3548 the_H3588 priest_H3548 shall_H3548 pronounce_H2930 him_H2930 unclean_H2931. He_H1931 shall_H3548 not_H3808 isolate_H5462 him_H2930, for_H3588 he_H1931 is_H1931 already unclean_H2931. 
 
-@12 “If the leprosy breaks out all over the skin, and the leprosy covers all the skin of the infected person from his head even to his feet, as far as it appears to the priest, 
-@13 then the priest shall examine him. Behold, if the leprosy has covered all his flesh, he shall pronounce him clean of the plague. It has all turned white: he is clean. 
-@14 But whenever raw flesh appears in him, he shall be unclean. 
-@15 The priest shall examine the raw flesh, and pronounce him unclean: the raw flesh is unclean. It is leprosy. 
-@16 Or if the raw flesh turns again, and is changed to white, then he shall come to the priest. 
-@17 The priest shall examine him. Behold, if the plague has turned white, then the priest shall pronounce him clean of the plague. He is clean.
+@12 “If_H0518 the_H3605 leprosy_H6883 breaks_H6524 out_H3605 all_H3605 over_H7218 the_H3605 skin_H5785, and_H3548 the_H3605 leprosy_H6883 covers_H3680 all_H3605 the_H3605 skin_H5785 of_H7218 the_H3605 infected person from_H5704 his_H3605 head_H7218 even_H5704 to_H5704 his_H3605 feet_H7272, as_H5704 far_H5704 as_H5704 it_H0518 appears_H4758 to_H5704 the_H3605 priest_H3548, 
+@13 then_H2009 the_H3605 priest_H3548 shall_H3548 examine him_H0853. Behold_H2009, if_H2009 the_H3605 leprosy_H6883 has_H5061 covered_H3680 all_H3605 his_H3605 flesh_H1320, he_H1931 shall_H3548 pronounce_H2891 him_H0853 clean_H2889 of_H3605 the_H3605 plague_H5061. It_H1931 has_H5061 all_H3605 turned_H2015 white_H3836: he_H1931 is_H1931 clean_H2889. 
+@14 But_H7200 whenever_H3117 raw_H2416 flesh_H1320 appears_H7200 in_H3117 him_H2930, he_H3117 shall_H3117 be_H3117 unclean_H2930. 
+@15 The_H0853 priest_H3548 shall_H3548 examine the_H0853 raw_H2416 flesh_H1320, and_H3548 pronounce_H2930 him_H0853 unclean_H2931: the_H0853 raw_H2416 flesh_H1320 is_H1931 unclean_H2931. It_H1931 is_H1931 leprosy_H6883. 
+@16 Or_H0176 if_H3588 the_H3588 raw_H2416 flesh_H1320 turns_H7725 again_H7725, and_H0935 is_H1320 changed_H2015 to_H0413 white_H3836, then_H0935 he_H3588 shall_H3548 come_H0935 to_H0413 the_H3588 priest_H3548. 
+@17 The_H0853 priest_H3548 shall_H3548 examine him_H0853. Behold_H2009, if_H2009 the_H0853 plague_H5061 has_H5061 turned_H2015 white_H3836, then_H2009 the_H0853 priest_H3548 shall_H3548 pronounce_H2891 him_H0853 clean_H2889 of_H5061 the_H0853 plague_H5061. He_H1931 is_H1931 clean_H2889.
 
 ## Leprosy after previous ulcer
-@18 “When the body has a boil on its skin, and it has healed, 
-@19 and in the place of the boil there is a white swelling, or a bright spot, reddish-white, then it shall be shown to the priest. 
-@20 The priest shall examine it. Behold, if its appearance is deeper than the skin, and its hair has turned white, then the priest shall pronounce him unclean. It is the plague of leprosy. It has broken out in the boil. 
-@21 But if the priest examines it, and behold, there are no white hairs in it, and it isn’t deeper than the skin, but is dim, then the priest shall isolate him seven days. 
-@22 If it spreads in the skin, then the priest shall pronounce him unclean. It is a plague. 
-@23 But if the bright spot stays in its place, and hasn’t spread, it is the scar from the boil; and the priest shall pronounce him clean.
+@18 “When_H3588 the_H3588 body_H1320 has_H1961 a_H1961 boil_H7822 on_H1961 its_H1961 skin_H5785, and_H1320 it_H3588 has_H1961 healed_H7495, 
+@19 and_H3548 in_H0413 the_H0413 place_H4725 of_H4725 the_H0413 boil_H7822 there_H1961 is_H1961 a_H1961 white_H3836 swelling_H7613, or_H0176 a_H1961 bright_H0934 spot_H0934, reddish-white_H0125, then_H1961 it_H7200 shall_H3548 be_H1961 shown_H7200 to_H0413 the_H0413 priest_H3548. 
+@20 The_H7200 priest_H3548 shall_H3548 examine it_H1931. Behold_H2009, if_H2009 its_H2015 appearance_H4758 is_H1931 deeper_H8217 than_H4480 the_H7200 skin_H5785, and_H3548 its_H2015 hair_H8181 has_H5061 turned_H2015 white_H3836, then_H2009 the_H7200 priest_H3548 shall_H3548 pronounce_H2930 him_H2930 unclean_H2930. It_H1931 is_H1931 the_H7200 plague_H5061 of_H4480 leprosy_H6883. It_H1931 has_H5061 broken out_H4480 in_H7200 the_H7200 boil_H7822. 
+@21 But_H0518 if_H0518 the_H7200 priest_H3548 examines_H7200 it_H1931, and_H3117 behold_H2009, there_H0369 are_H3117 no_H0369 white_H3836 hairs_H8181 in_H3117 it_H1931, and_H3117 it_H1931 isn’t deeper_H8217 than_H4480 the_H7200 skin_H5785, but_H0518 is_H0369 dim_H3544, then_H2009 the_H7200 priest_H3548 shall_H3548 isolate_H5462 him_H7200 seven_H7651 days_H3117. 
+@22 If_H0518 it_H1931 spreads_H6581 in_H1931 the_H0853 skin_H5785, then_H0853 the_H0853 priest_H3548 shall_H3548 pronounce_H2930 him_H0853 unclean_H2930. It_H1931 is_H1931 a_H0518 plague_H5061. 
+@23 But_H0518 if_H0518 the_H8478 bright_H0934 spot_H0934 stays_H5975 in_H5975 its_H5975 place_H8478, and_H3548 hasn’t_H3808 spread_H6581, it_H1931 is_H1931 the_H8478 scar_H6867 from_H8478 the_H8478 boil_H7822; and_H3548 the_H8478 priest_H3548 shall_H3548 pronounce_H2891 him_H2891 clean_H2891.
 
 ## Leprosy on a burn
-@24 “Or when the body has a burn from fire on its skin, and the raw flesh of the burn becomes a bright spot, reddish-white, or white, 
-@25 then the priest shall examine it; and behold, if the hair in the bright spot has turned white, and its appearance is deeper than the skin, it is leprosy. It has broken out in the burning, and the priest shall pronounce him unclean. It is the plague of leprosy. 
-@26 But if the priest examines it, and behold, there is no white hair in the bright spot, and it isn’t deeper than the skin, but has faded, then the priest shall isolate him seven days. 
-@27 The priest shall examine him on the seventh day. If it has spread in the skin, then the priest shall pronounce him unclean. It is the plague of leprosy. 
-@28 If the bright spot stays in its place, and hasn’t spread in the skin, but is faded, it is the swelling from the burn, and the priest shall pronounce him clean, for it is the scar from the burn.
+@24 “Or_H0176 when_H3588 the_H3588 body_H1320 has_H1961 a_H1961 burn_H4348 from_H1961 fire_H0784 on_H1961 its_H1961 skin_H5785, and_H0784 the_H3588 raw_H4241 flesh_H1320 of_H1320 the_H3588 burn_H4348 becomes_H1961 a_H1961 bright_H0934 spot_H0934, reddish-white_H0125, or_H0176 white_H3836, 
+@25 then_H2009 the_H0853 priest_H3548 shall_H3548 examine it_H1931; and_H3548 behold_H2009, if_H2009 the_H0853 hair_H8181 in_H7200 the_H0853 bright_H0934 spot_H0934 has_H5061 turned_H2015 white_H3836, and_H3548 its_H0853 appearance_H4758 is_H1931 deeper_H6013 than_H4480 the_H0853 skin_H5785, it_H1931 is_H1931 leprosy_H6883. It_H1931 has_H5061 broken out_H4480 in_H7200 the_H0853 burning, and_H3548 the_H0853 priest_H3548 shall_H3548 pronounce_H2930 him_H0853 unclean_H2930. It_H1931 is_H1931 the_H0853 plague_H5061 of_H4480 leprosy_H6883. 
+@26 But_H0518 if_H0518 the_H7200 priest_H3548 examines_H7200 it_H1931, and_H3117 behold_H2009, there_H0369 is_H0369 no_H0369 white_H3836 hair_H8181 in_H3117 the_H7200 bright_H0934 spot_H0934, and_H3117 it_H1931 isn’t deeper_H8217 than_H4480 the_H7200 skin_H5785, but_H0518 has_H0369 faded_H3544, then_H2009 the_H7200 priest_H3548 shall_H3548 isolate_H5462 him_H7200 seven_H7651 days_H3117. 
+@27 The_H0853 priest_H3548 shall_H3548 examine him_H0853 on_H3117 the_H0853 seventh_H7637 day_H3117. If_H0518 it_H1931 has_H5061 spread_H6581 in_H3117 the_H0853 skin_H5785, then_H0853 the_H0853 priest_H3548 shall_H3548 pronounce_H2930 him_H0853 unclean_H2930. It_H1931 is_H1931 the_H0853 plague_H5061 of_H3117 leprosy_H6883. 
+@28 If_H0518 the_H3588 bright_H0934 spot_H0934 stays_H5975 in_H5975 its_H5975 place_H8478, and_H3548 hasn’t_H3808 spread_H6581 in_H5975 the_H3588 skin_H5785, but_H3588 is_H1931 faded_H3544, it_H1931 is_H1931 the_H3588 swelling_H7613 from_H8478 the_H3588 burn_H4348, and_H3548 the_H3588 priest_H3548 shall_H3548 pronounce_H2891 him_H2891 clean_H2891, for_H3588 it_H1931 is_H1931 the_H3588 scar_H6867 from_H8478 the_H3588 burn_H4348.
 
 ## Sores on the head and beard
-@29 “When a man or woman has a plague on the head or on the beard, 
-@30 then the priest shall examine the plague; and behold, if its appearance is deeper than the skin, and the hair in it is yellow and thin, then the priest shall pronounce him unclean. It is an itch. It is leprosy of the head or of the beard. 
-@31 If the priest examines the plague of itching, and behold, its appearance isn’t deeper than the skin, and there is no black hair in it, then the priest shall isolate the person infected with itching seven days. 
-@32 On the seventh day the priest shall examine the plague; and behold, if the itch hasn’t spread, and there is no yellow hair in it, and the appearance of the itch isn’t deeper than the skin, 
-@33 then he shall be shaved, but he shall not shave the itch. Then the priest shall isolate the one who has the itch seven more days. 
-@34 On the seventh day, the priest shall examine the itch; and behold, if the itch hasn’t spread in the skin, and its appearance isn’t deeper than the skin, then the priest shall pronounce him clean. He shall wash his clothes and be clean. 
-@35 But if the itch spreads in the skin after his cleansing, 
-@36 then the priest shall examine him; and behold, if the itch has spread in the skin, the priest shall not look for the yellow hair; he is unclean. 
-@37 But if in his eyes the itch is arrested and black hair has grown in it, then the itch is healed. He is clean. The priest shall pronounce him clean.
+@29 “When_H3588 a_H1961 man_H0376 or_H0176 woman_H0802 has_H1961 a_H1961 plague_H5061 on_H1961 the_H3588 head_H7218 or_H0176 on_H1961 the_H3588 beard_H2206, 
+@30 then_H2009 the_H0853 priest_H3548 shall_H3548 examine the_H0853 plague_H5061; and_H3548 behold_H2009, if_H2009 its_H0853 appearance_H4758 is_H1931 deeper_H6013 than_H4480 the_H0853 skin_H5785, and_H3548 the_H0853 hair_H8181 in_H0176 it_H1931 is_H1931 yellow and_H3548 thin_H1851, then_H2009 the_H0853 priest_H3548 shall_H3548 pronounce_H2930 him_H0853 unclean_H2930. It_H1931 is_H1931 an_H7200 itch. It_H1931 is_H1931 leprosy_H6883 of_H7218 the_H0853 head_H7218 or_H0176 of_H7218 the_H0853 beard_H2206. 
+@31 If_H3588 the_H0853 priest_H3548 examines_H7200 the_H0853 plague_H5061 of_H3117 itching, and_H3117 behold_H2009, its_H0853 appearance_H4758 isn’t deeper_H6013 than_H4480 the_H0853 skin_H5785, and_H3117 there_H0369 is_H0369 no_H0369 black_H7838 hair_H8181 in_H3117 it_H3588, then_H2009 the_H0853 priest_H3548 shall_H3548 isolate_H5462 the_H0853 person_H7200 infected with_H3117 itching seven_H7651 days_H3117. 
+@32 On_H3117 the_H0853 seventh_H7637 day_H3117 the_H0853 priest_H3548 shall_H3548 examine the_H0853 plague_H5061; and_H3117 behold_H2009, if_H2009 the_H0853 itch hasn’t_H3808 spread_H6581, and_H3117 there_H0369 is_H0369 no_H3808 yellow hair_H8181 in_H3117 it_H7200, and_H3117 the_H0853 appearance_H4758 of_H3117 the_H0853 itch isn’t_H3808 deeper_H6013 than_H4480 the_H0853 skin_H5785, 
+@33 then_H0853 he_H3117 shall_H3548 be_H3808 shaved_H1548, but_H3808 he_H3117 shall_H3548 not_H3808 shave_H1548 the_H0853 itch. Then_H0853 the_H0853 priest_H3548 shall_H3548 isolate_H5462 the_H0853 one_H3808 who_H3548 has_H3117 the_H0853 itch seven_H7651 more_H3808 days_H3117. 
+@34 On_H3117 the_H0853 seventh_H7637 day_H3117, the_H0853 priest_H3548 shall_H3548 examine the_H0853 itch; and_H3117 behold_H2009, if_H2009 the_H0853 itch hasn’t_H3808 spread_H6581 in_H3117 the_H0853 skin_H5785, and_H3117 its_H0853 appearance_H4758 isn’t_H3808 deeper_H6013 than_H4480 the_H0853 skin_H5785, then_H2009 the_H0853 priest_H3548 shall_H3548 pronounce_H2891 him_H0853 clean_H2891. He_H3117 shall_H3548 wash_H3526 his_H3526 clothes_H0899 and_H3117 be_H3808 clean_H2891. 
+@35 But_H0518 if_H0518 the_H0310 itch spreads_H6581 in_H0518 the_H0310 skin_H5785 after_H0310 his_H0518 cleansing_H2893, 
+@36 then_H2009 the_H7200 priest_H3548 shall_H3548 examine_H1239 him_H7200; and_H3548 behold_H2009, if_H2009 the_H7200 itch has_H2009 spread_H6581 in_H7200 the_H7200 skin_H5785, the_H7200 priest_H3548 shall_H3548 not_H3808 look_H2009 for_H3808 the_H7200 yellow hair_H8181; he_H1931 is_H1931 unclean_H2931. 
+@37 But_H0518 if_H0518 in_H5975 his_H0518 eyes_H5869 the_H0518 itch is_H1931 arrested and_H3548 black_H7838 hair_H8181 has_H5869 grown_H6779 in_H5975 it_H1931, then_H5975 the_H0518 itch is_H1931 healed_H7495. He_H1931 is_H1931 clean_H2889. The_H0518 priest_H3548 shall_H3548 pronounce_H2891 him_H2891 clean_H2889.
 
 ## Safe eruption; leprosy of the bald
-@38 “When a man or a woman has bright spots in the skin of the body, even white bright spots, 
-@39 then the priest shall examine them. Behold, if the bright spots on the skin of their body are a dull white, it is a harmless rash. It has broken out in the skin. He is clean. 
+@38 “When_H3588 a_H1961 man_H0376 or_H0176 a_H1961 woman_H0802 has_H1961 bright_H0934 spots_H0934 in_H0376 the_H3588 skin_H5785 of_H0376 the_H3588 body_H1320, even_H3588 white_H3836 bright_H0934 spots_H0934, 
+@39 then_H2009 the_H7200 priest_H3548 shall_H3548 examine them_H7200. Behold_H2009, if_H2009 the_H7200 bright_H0934 spots_H0934 on_H7200 the_H7200 skin_H5785 of_H3548 their_H7200 body_H1320 are_H3548 a_H7200 dull white_H3836, it_H1931 is_H1931 a_H7200 harmless rash. It_H1931 has_H2009 broken out_H7200 in_H1320 the_H7200 skin_H5785. He_H1931 is_H1931 clean_H2889. 
 
-@40 “If a man’s hair has fallen from his head, he is bald. He is clean. 
-@41 If his hair has fallen off from the front part of his head, he is forehead bald. He is clean. 
-@42 But if a reddish-white plague is in the bald head or the bald forehead, it is leprosy breaking out in his bald head or his bald forehead. 
-@43 Then the priest shall examine him. Behold, if the swelling of the plague is reddish-white in his bald head, or in his bald forehead, like the appearance of leprosy in the skin of the body, 
-@44 he is a leprous man. He is unclean. The priest shall surely pronounce him unclean. His plague is on his head.
+@40 “If_H3588 a_H3588 man’s_H0376 hair_H7218 has_H0376 fallen from_H0376 his_H0376 head_H7218, he_H1931 is_H1931 bald_H7142. He_H1931 is_H1931 clean_H2889. 
+@41 If_H0518 his_H0518 hair_H7218 has_H0518 fallen off_H7218 from_H6440 the_H6440 front_H6440 part_H1931 of_H7218 his_H0518 head_H7218, he_H1931 is_H1931 forehead_H6285 bald_H4803. He_H1931 is_H1931 clean_H2889. 
+@42 But_H3588 if_H3588 a_H1961 reddish-white_H0125 plague_H5061 is_H1931 in_H0176 the_H3588 bald_H1372 head_H7146 or_H0176 the_H3588 bald_H1372 forehead_H1372, it_H1931 is_H1931 leprosy_H6883 breaking_H6524 out in_H0176 his_H1961 bald_H1372 head_H7146 or_H0176 his_H1961 bald_H1372 forehead_H1372. 
+@43 Then_H2009 the_H0853 priest_H3548 shall_H3548 examine him_H0853. Behold_H2009, if_H2009 the_H0853 swelling_H7613 of_H5061 the_H0853 plague_H5061 is_H2009 reddish-white_H0125 in_H0176 his_H7200 bald_H1372 head_H7146, or_H0176 in_H0176 his_H7200 bald_H1372 forehead_H1372, like_H4758 the_H0853 appearance_H4758 of_H5061 leprosy_H6883 in_H0176 the_H0853 skin_H5785 of_H5061 the_H0853 body_H1320, 
+@44 he_H1931 is_H1931 a_H0376 leprous_H6879 man_H0376. He_H1931 is_H1931 unclean_H2931. The_H2930 priest_H3548 shall_H3548 surely_H2930 pronounce_H2930 him_H2930 unclean_H2931. His_H0376 plague_H5061 is_H1931 on_H0376 his_H0376 head_H7218.
 
 ## General regulations for lepers
-@45 “The leper in whom the plague is shall wear torn clothes, and the hair of his head shall hang loose. He shall cover his upper lip, and shall cry, ‘Unclean! Unclean!’ 
-@46 All the days in which the plague is in him he shall be unclean. He is unclean. He shall dwell alone. His dwelling shall be outside of the camp.
+@45 “The_H0834 leper_H6879 in_H5921 whom_H0834 the_H0834 plague_H5061 is_H0834 shall_H0834 wear_H1961 torn_H6533 clothes_H0899, and_H7218 the_H0834 hair_H7218 of_H7218 his_H5921 head_H7218 shall_H0834 hang loose_H5921. He_H0834 shall_H0834 cover_H5844 his_H5921 upper lip, and_H7218 shall_H0834 cry_H7121, ‘Unclean_H2931! Unclean_H2931!’ 
+@46 All_H3605 the_H3605 days_H3117 in_H3427 which_H0834 the_H3605 plague_H5061 is_H0834 in_H3427 him_H2930 he_H0834 shall_H3117 be_H3117 unclean_H2931. He_H0834 is_H0834 unclean_H2931. He_H0834 shall_H3117 dwell_H3427 alone_H1931. His_H3605 dwelling_H3427 shall_H3117 be_H3117 outside_H2351 of_H3117 the_H3605 camp_H4264.
 
 ## Leprosy on things and leather
-@47 “The garment also that the plague of leprosy is in, whether it is a woolen garment, or a linen garment; 
-@48 whether it is in warp or woof;^a^ of linen or of wool; whether in a leather, or in anything made of leather; 
-@49 if the plague is greenish or reddish in the garment, or in the leather, or in the warp, or in the woof, or in anything made of leather; it is the plague of leprosy, and shall be shown to the priest. 
-@50 The priest shall examine the plague, and isolate the plague seven days. 
-@51 He shall examine the plague on the seventh day. If the plague has spread in the garment, either in the warp, or in the woof, or in the skin, whatever use the skin is used for, the plague is a destructive mildew. It is unclean. 
-@52 He shall burn the garment, whether the warp or the woof, in wool or in linen, or anything of leather, in which the plague is, for it is a destructive mildew. It shall be burned in the fire. 
+@47 “The_H3588 garment_H0899 also_H0176 that_H3588 the_H3588 plague_H5061 of_H5061 leprosy_H6883 is_H1961 in_H0176, whether_H0176 it_H3588 is_H1961 a_H1961 woolen garment_H0899, or_H0176 a_H1961 linen_H6593 garment_H0899; 
+@48 whether_H0176 it_H0176 is_H3605 in_H0176 warp_H8359 or_H0176 woof_H6154;^a^ of_H3605 linen_H6593 or_H0176 of_H3605 wool_H6785; whether_H0176 in_H0176 a_H0176 leather_H5785, or_H0176 in_H0176 anything_H3605 made_H4399 of_H3605 leather_H5785; 
+@49 if_H0176 the_H3605 plague_H5061 is_H1931 greenish_H3422 or_H0176 reddish_H0125 in_H0176 the_H3605 garment_H0899, or_H0176 in_H0176 the_H3605 leather_H5785, or_H0176 in_H0176 the_H3605 warp_H8359, or_H0176 in_H0176 the_H3605 woof_H6154, or_H0176 in_H0176 anything_H3605 made_H1961 of_H3627 leather_H5785; it_H1931 is_H1931 the_H3605 plague_H5061 of_H3627 leprosy_H6883, and_H3548 shall_H3548 be_H1961 shown_H7200 to_H1961 the_H3605 priest_H3548. 
+@50 The_H0853 priest_H3548 shall_H3548 examine the_H0853 plague_H5061, and_H3117 isolate_H5462 the_H0853 plague_H5061 seven_H7651 days_H3117. 
+@51 He_H0834 shall_H3117 examine the_H3605 plague_H5061 on_H3117 the_H3605 seventh_H7637 day_H3117. If_H3588 the_H3605 plague_H5061 has_H0834 spread_H6581 in_H3117 the_H3605 garment_H0899, either_H3588 in_H3117 the_H3605 warp_H8359, or_H0176 in_H3117 the_H3605 woof_H6154, or_H0176 in_H3117 the_H3605 skin_H5785, whatever_H0834 use_H4399 the_H3605 skin_H5785 is_H0834 used_H6213 for_H3588, the_H3605 plague_H5061 is_H0834 a_H3588 destructive mildew. It_H1931 is_H0834 unclean_H2931. 
+@52 He_H0834 shall_H0834 burn_H8313 the_H3605 garment_H0899, whether_H0176 the_H3605 warp_H8359 or_H0176 the_H3605 woof_H6154, in_H0176 wool_H6785 or_H0176 in_H0176 linen_H6593, or_H0176 anything_H3605 of_H3627 leather_H5785, in_H0176 which_H0834 the_H3605 plague_H5061 is_H0834, for_H3588 it_H1931 is_H0834 a_H1961 destructive mildew. It_H1931 shall_H0834 be_H1961 burned_H8313 in_H0176 the_H3605 fire_H0784. 
 ^a^[**13:48** warp and woof are the vertical and horizontal threads in woven cloth]
 
-@53 “If the priest examines it, and behold, the plague hasn’t spread in the garment, either in the warp, or in the woof, or in anything of skin; 
-@54 then the priest shall command that they wash the thing that the plague is in, and he shall isolate it seven more days. 
-@55 Then the priest shall examine it, after the plague is washed; and behold, if the plague hasn’t changed its color, and the plague hasn’t spread, it is unclean; you shall burn it in the fire. It is a mildewed spot, whether the bareness is inside or outside. 
-@56 If the priest looks, and behold, the plague has faded after it is washed, then he shall tear it out of the garment, or out of the skin, or out of the warp, or out of the woof; 
-@57 and if it appears again in the garment, either in the warp, or in the woof, or in anything of skin, it is spreading. You shall burn what the plague is in with fire. 
-@58 The garment, either the warp, or the woof, or whatever thing of skin it is, which you shall wash, if the plague has departed from them, then it shall be washed the second time, and it will be clean.” 
+@53 “If_H0518 the_H3605 priest_H3548 examines_H7200 it_H0518, and_H3548 behold_H2009, the_H3605 plague_H5061 hasn’t_H3808 spread_H6581 in_H0176 the_H3605 garment_H0899, either_H0518 in_H0176 the_H3605 warp_H8359, or_H0176 in_H0176 the_H3605 woof_H6154, or_H0176 in_H0176 anything_H3605 of_H3627 skin_H5785; 
+@54 then_H0853 the_H0853 priest_H3548 shall_H3548 command_H6680 that_H0834 they_H0834 wash_H3526 the_H0853 thing_H8145 that_H0834 the_H0853 plague_H5061 is_H0834 in_H3117, and_H3117 he_H0834 shall_H3548 isolate_H5462 it_H0834 seven_H7651 more_H8145 days_H3117. 
+@55 Then_H2009 the_H0853 priest_H3548 shall_H3548 examine it_H1931, after_H0310 the_H0853 plague_H5061 is_H1931 washed_H3526; and_H3548 behold_H2009, if_H2009 the_H0853 plague_H5061 hasn’t_H3808 changed_H2015 its_H0853 color, and_H3548 the_H0853 plague_H5061 hasn’t_H3808 spread_H6581, it_H1931 is_H1931 unclean_H2931; you_H3808 shall_H3548 burn_H8313 it_H1931 in_H0176 the_H0853 fire_H0784. It_H1931 is_H1931 a_H0176 mildewed spot, whether_H0176 the_H0853 bareness is_H1931 inside or_H0176 outside. 
+@56 If_H0518 the_H0853 priest_H3548 looks_H7200, and_H3548 behold_H2009, the_H0853 plague_H5061 has_H5061 faded_H3544 after_H0310 it_H0518 is_H2009 washed_H3526, then_H2009 he_H0518 shall_H3548 tear_H7167 it_H0518 out_H4480 of_H4480 the_H0853 garment_H0899, or_H0176 out_H4480 of_H4480 the_H0853 skin_H5785, or_H0176 out_H4480 of_H4480 the_H0853 warp_H8359, or_H0176 out_H4480 of_H4480 the_H0853 woof_H6154; 
+@57 and_H7200 if_H0518 it_H1931 appears_H7200 again_H5750 in_H0176 the_H3605 garment_H0899, either_H0518 in_H0176 the_H3605 warp_H8359, or_H0176 in_H0176 the_H3605 woof_H6154, or_H0176 in_H0176 anything_H3605 of_H3627 skin_H5785, it_H1931 is_H0834 spreading. You_H0834 shall_H0834 burn_H8313 what_H0834 the_H3605 plague_H5061 is_H0834 in_H0176 with_H8313 fire_H0784. 
+@58 The_H3605 garment_H0899, either_H0176 the_H3605 warp_H8359, or_H0176 the_H3605 woof_H6154, or_H0176 whatever_H0834 thing_H3627 of_H3627 skin_H5785 it_H0834 is_H0834, which_H0834 you_H0834 shall_H0834 wash_H3526, if_H0834 the_H3605 plague_H5061 has_H0834 departed_H5493 from_H5493 them_H1992, then_H3605 it_H0834 shall_H0834 be_H3605 washed_H3526 the_H3605 second_H8145 time_H8145, and_H3627 it_H0834 will_H0834 be_H3605 clean_H2891.” 
 
-@59 This is the law of the plague of mildew in a garment of wool or linen, either in the warp, or the woof, or in anything of skin, to pronounce it clean, or to pronounce it unclean. 
+@59 This_H2063 is_H3605 the_H3605 law_H8451 of_H3627 the_H3605 plague_H5061 of_H3627 mildew in_H0176 a_H0176 garment_H0899 of_H3627 wool_H6785 or_H0176 linen_H6593, either_H0176 in_H0176 the_H3605 warp_H8359, or_H0176 the_H3605 woof_H6154, or_H0176 in_H0176 anything_H3605 of_H3627 skin_H5785, to_H0176 pronounce_H2930 it_H2930 clean_H2891, or_H0176 to_H0176 pronounce_H2930 it_H2930 unclean_H2930. 
 
 # 14 
 ## The cleansing of lepers
-@1 Yahweh spoke to Moses, saying, 
+@1 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
 
-@2 “This shall be the law of the leper in the day of his cleansing: He shall be brought to the priest, 
-@3 and the priest shall go out of the camp. The priest shall examine him. Behold, if the plague of leprosy is healed in the leper, 
-@4 then the priest shall command them to take for him who is to be cleansed two living clean birds, cedar wood, scarlet, and hyssop. 
-@5 The priest shall command them to kill one of the birds in an earthen vessel over running water. 
-@6 As for the living bird, he shall take it, the cedar wood, the scarlet, and the hyssop, and shall dip them and the living bird in the blood of the bird that was killed over the running water. 
-@7 He shall sprinkle on him who is to be cleansed from the leprosy seven times, and shall pronounce him clean, and shall let the living bird go into the open field. 
+@2 “This_H2063 shall_H3548 be_H1961 the_H0413 law_H8451 of_H3117 the_H0413 leper_H6879 in_H0935 the_H0413 day_H3117 of_H3117 his_H1961 cleansing_H2893: He_H3117 shall_H3548 be_H1961 brought_H0935 to_H0413 the_H0413 priest_H3548, 
+@3 and_H3548 the_H0413 priest_H3548 shall_H3548 go_H3318 out_H3318 of_H4480 the_H0413 camp_H4264. The_H0413 priest_H3548 shall_H3548 examine him_H0413. Behold_H2009, if_H2009 the_H0413 plague_H5061 of_H4480 leprosy_H6883 is_H2009 healed_H7495 in_H0413 the_H0413 leper_H6879, 
+@4 then_H3947 the_H3947 priest_H3548 shall_H3548 command_H6680 them_H6680 to_H6680 take_H3947 for_H6086 him_H6680 who_H3548 is_H3548 to_H6680 be_H3548 cleansed_H2891 two_H8147 living_H2416 clean_H2889 birds_H6833, cedar_H0730 wood_H6086, scarlet_H8144, and_H3548 hyssop_H0231. 
+@5 The_H0853 priest_H3548 shall_H3548 command_H6680 them_H0413 to_H0413 kill_H7819 one_H0259 of_H3627 the_H0853 birds_H6833 in_H5921 an_H7819 earthen_H2789 vessel_H3627 over_H5921 running water_H4325. 
+@6 As_H0730 for_H5921 the_H0853 living_H2416 bird_H6833, he_H0853 shall_H4325 take_H3947 it_H5921, the_H0853 cedar_H0730 wood_H6086, the_H0853 scarlet_H8144, and_H6086 the_H0853 hyssop_H0231, and_H6086 shall_H4325 dip_H2881 them_H0853 and_H6086 the_H0853 living_H2416 bird_H6833 in_H5921 the_H0853 blood_H1818 of_H5921 the_H0853 bird_H6833 that_H4325 was_H4325 killed_H7819 over_H5921 the_H0853 running water_H4325. 
+@7 He_H4480 shall_H6440 sprinkle on_H5921 him_H5921 who is_H6440 to_H5921 be_H4480 cleansed_H2891 from_H4480 the_H0853 leprosy_H6883 seven_H7651 times_H6471, and_H7971 shall_H6440 pronounce_H2891 him_H5921 clean_H2891, and_H7971 shall_H6440 let_H7971 the_H0853 living_H2416 bird_H6833 go_H7971 into_H5921 the_H0853 open_H6440 field_H7704. 
 
-@8 “He who is to be cleansed shall wash his clothes, and shave off all his hair, and bathe himself in water; and he shall be clean. After that he shall come into the camp, but shall dwell outside his tent seven days. 
-@9 It shall be on the seventh day, that he shall shave all his hair off his head and his beard and his eyebrows. He shall shave off all his hair. He shall wash his clothes, and he shall bathe his body in water. Then he shall be clean.
+@8 “He_H0310 who_H3605 is_H3117 to_H0413 be_H3117 cleansed_H2891 shall_H3117 wash_H3526 his_H3605 clothes_H0899, and_H0935 shave_H1548 off_H1548 all_H3605 his_H3605 hair_H8181, and_H0935 bathe_H7364 himself_H3117 in_H3427 water_H4325; and_H0935 he_H0310 shall_H3117 be_H3117 clean_H2891. After_H0310 that_H3605 he_H0310 shall_H3117 come_H0935 into_H0413 the_H3605 camp_H4264, but_H0935 shall_H3117 dwell_H3427 outside_H2351 his_H3605 tent_H0168 seven_H7651 days_H3117. 
+@9 It_H1961 shall_H3117 be_H1961 on_H3117 the_H3605 seventh_H7637 day_H3117, that_H3605 he_H3117 shall_H3117 shave_H1548 all_H3605 his_H3605 hair_H8181 off_H1548 his_H3605 head_H7218 and_H3117 his_H3605 beard_H2206 and_H3117 his_H3605 eyebrows. He_H3117 shall_H3117 shave_H1548 off_H1548 all_H3605 his_H3605 hair_H8181. He_H3117 shall_H3117 wash_H3526 his_H3605 clothes_H0899, and_H3117 he_H3117 shall_H3117 bathe_H7364 his_H3605 body_H1320 in_H7364 water_H4325. Then_H1961 he_H3117 shall_H3117 be_H1961 clean_H2891.
 
 ## The sacrifices and customs of the eighth day
-@10 “On the eighth day he shall take two male lambs without defect, one ewe lamb a year old without defect, three tenths of an ephah^a^ of fine flour for a meal offering, mixed with oil, and one log^b^ of oil. 
-@11 The priest who cleanses him shall set the man who is to be cleansed, and those things, before Yahweh, at the door of the Tent of Meeting. 
+@10 “On_H3117 the_H3947 eighth_H8066 day_H3117 he_H3117 shall_H3117 take_H3947 two_H8147 male_H3532 lambs_H3532 without_H8549 defect_H8549, one_H0259 ewe_H3535 lamb_H3532 a_H3947 year_H8141 old_H8141 without_H8549 defect_H8549, three_H7969 tenths of_H3117 an_H3947 ephah^a^ of_H3117 fine_H5560 flour_H5560 for_H3117 a_H3947 meal_H4503 offering_H4503, mixed_H1101 with_H3117 oil_H8081, and_H3117 one_H0259 log_H3849^b^ of_H3117 oil_H8081. 
+@11 The_H0853 priest_H3548 who_H0376 cleanses him_H0853 shall_H3548 set_H5975 the_H0853 man_H0376 who_H0376 is_H3068 to_H3068 be_H0376 cleansed_H2891, and_H3068 those_H0376 things, before_H6440 Yahweh_H3068, at_H3068 the_H0853 door_H6607 of_H0376 the_H0853 Tent_H0168 of_H0376 Meeting_H4150. 
 ^a^[**14:10** 1 ephah is about 22 liters or about 2/3 of a bushel] ^b^[**14:10** a log is a liquid measure of about 300 ml or 10 ounces]
 
-@12 “The priest shall take one of the male lambs, and offer him for a trespass offering, with the log of oil, and wave them for a wave offering before Yahweh. 
-@13 He shall kill the male lamb in the place where they kill the sin offering and the burnt offering, in the place of the sanctuary; for as the sin offering is the priest’s, so is the trespass offering. It is most holy. 
-@14 The priest shall take some of the blood of the trespass offering, and the priest shall put it on the tip of the right ear of him who is to be cleansed, and on the thumb of his right hand, and on the big toe of his right foot. 
-@15 The priest shall take some of the log of oil, and pour it into the palm of his own left hand. 
-@16 The priest shall dip his right finger in the oil that is in his left hand, and shall sprinkle some of the oil with his finger seven times before Yahweh. 
-@17 The priest shall put some of the rest of the oil that is in his hand on the tip of the right ear of him who is to be cleansed, and on the thumb of his right hand, and on the big toe of his right foot, upon the blood of the trespass offering. 
-@18 The rest of the oil that is in the priest’s hand he shall put on the head of him who is to be cleansed, and the priest shall make atonement for him before Yahweh. 
+@12 “The_H0853 priest_H3548 shall_H3548 take_H3947 one_H0259 of_H3068 the_H0853 male_H3532 lambs_H3532, and_H3068 offer_H7126 him_H0853 for_H0259 a_H3947 trespass offering_H0817, with_H3068 the_H0853 log_H3849 of_H3068 oil_H8081, and_H3068 wave_H8573 them_H0853 for_H0259 a_H3947 wave_H8573 offering_H0817 before_H6440 Yahweh_H3068. 
+@13 He_H0834 shall_H3548 kill_H7819 the_H0853 male_H3532 lamb_H3532 in_H4725 the_H0853 place_H4725 where_H0834 they_H0834 kill_H7819 the_H0853 sin_H2403 offering_H0817 and_H3548 the_H0853 burnt_H5930 offering_H0817, in_H4725 the_H0853 place_H4725 of_H4725 the_H0853 sanctuary_H6944; for_H3588 as_H0834 the_H0853 sin_H2403 offering_H0817 is_H0834 the_H0853 priest’s_H3548, so_H0834 is_H0834 the_H0853 trespass offering_H0817. It_H1931 is_H0834 most_H6944 holy_H6944. 
+@14 The_H5921 priest_H3548 shall_H3548 take_H3947 some_H3027 of_H3027 the_H5921 blood_H1818 of_H3027 the_H5921 trespass offering_H0817, and_H3027 the_H5921 priest_H3548 shall_H3548 put_H5414 it_H5414 on_H5921 the_H5921 tip of_H3027 the_H5921 right_H3233 ear_H0241 of_H3027 him_H5414 who_H3548 is_H3027 to_H5921 be_H3027 cleansed_H2891, and_H3027 on_H5921 the_H5921 thumb_H0931 of_H3027 his_H5414 right_H3233 hand_H3027, and_H3027 on_H5921 the_H5921 big_H0931 toe_H0931 of_H3027 his_H5414 right_H3233 foot_H7272. 
+@15 The_H5921 priest_H3548 shall_H3548 take_H3947 some of_H5921 the_H5921 log_H3849 of_H5921 oil_H8081, and_H3548 pour_H3332 it_H5921 into_H5921 the_H5921 palm_H3709 of_H5921 his_H5921 own left_H8042 hand_H3709. 
+@16 The_H0853 priest_H3548 shall_H3548 dip_H2881 his_H5921 right_H3233 finger_H0676 in_H5921 the_H0853 oil_H8081 that_H0834 is_H0834 in_H5921 his_H5921 left_H8042 hand_H3709, and_H3068 shall_H3548 sprinkle some_H4480 of_H3068 the_H0853 oil_H8081 with_H3068 his_H5921 finger_H0676 seven_H7651 times_H6471 before_H6440 Yahweh_H3068. 
+@17 The_H0834 priest_H3548 shall_H3548 put_H5414 some_H3027 of_H3027 the_H0834 rest_H3499 of_H3027 the_H0834 oil_H8081 that_H0834 is_H0834 in_H5921 his_H5414 hand_H3027 on_H5921 the_H0834 tip of_H3027 the_H0834 right_H3233 ear_H0241 of_H3027 him_H5414 who_H0834 is_H0834 to_H5921 be_H3027 cleansed_H2891, and_H3027 on_H5921 the_H0834 thumb_H0931 of_H3027 his_H5414 right_H3233 hand_H3027, and_H3027 on_H5921 the_H0834 big_H0931 toe_H0931 of_H3027 his_H5414 right_H3233 foot_H7272, upon_H5921 the_H0834 blood_H1818 of_H3027 the_H0834 trespass offering_H0817. 
+@18 The_H6440 rest_H3498 of_H3068 the_H6440 oil_H8081 that_H0834 is_H0834 in_H5921 the_H6440 priest’s_H3548 hand_H3709 he_H0834 shall_H3548 put_H5414 on_H5921 the_H6440 head_H7218 of_H3068 him_H5414 who_H0834 is_H0834 to_H5921 be_H3068 cleansed_H2891, and_H3068 the_H6440 priest_H3548 shall_H3548 make_H5414 atonement_H3722 for_H5921 him_H5414 before_H6440 Yahweh_H3068. 
 
-@19 “The priest shall offer the sin offering, and make atonement for him who is to be cleansed because of his uncleanness. Afterward he shall kill the burnt offering; 
-@20 then the priest shall offer the burnt offering and the meal offering on the altar. The priest shall make atonement for him, and he shall be clean.
+@19 “The_H0853 priest_H3548 shall_H3548 offer_H7819 the_H0853 sin_H2403 offering_H3548, and_H3548 make_H6213 atonement_H3722 for_H5921 him_H5921 who_H3548 is_H3548 to_H5921 be_H3548 cleansed_H2891 because_H5921 of_H5921 his_H5921 uncleanness_H2932. Afterward_H0310 he_H0310 shall_H3548 kill_H7819 the_H0853 burnt_H5930 offering_H3548; 
+@20 then_H0853 the_H0853 priest_H3548 shall_H3548 offer_H5927 the_H0853 burnt_H5930 offering_H4503 and_H3548 the_H0853 meal_H4503 offering_H4503 on_H5921 the_H0853 altar_H4196. The_H0853 priest_H3548 shall_H3548 make atonement_H3722 for_H5921 him_H5921, and_H3548 he_H0853 shall_H3548 be_H3548 clean_H2891.
 
 ## Replacement of sin offering and burnt offering for the poor
-@21 “If he is poor, and can’t afford so much, then he shall take one male lamb for a trespass offering to be waved, to make atonement for him, and one tenth of an ephah^a^ of fine flour mixed with oil for a meal offering, and a log^b^ of oil; 
-@22 and two turtledoves, or two young pigeons, such as he is able to afford; and the one shall be a sin offering, and the other a burnt offering. 
+@21 “If_H0518 he_H1931 is_H0369 poor_H1800, and_H3027 can’t afford_H3027 so_H3947 much_H3027, then_H3947 he_H1931 shall_H1931 take_H3947 one_H0259 male_H3532 lamb_H3532 for_H5921 a_H3947 trespass offering_H4503 to_H5921 be_H3027 waved, to_H5921 make_H3947 atonement_H3722 for_H5921 him_H5921, and_H3027 one_H0259 tenth_H6241 of_H3027 an_H3947 ephah^a^ of_H3027 fine_H5560 flour_H5560 mixed_H1101 with_H5921 oil_H8081 for_H5921 a_H3947 meal_H4503 offering_H4503, and_H3027 a_H3947 log_H3849^b^ of_H3027 oil_H8081; 
+@22 and_H1121 two_H8147 turtledoves_H8449, or_H0176 two_H8147 young_H1121 pigeons_H3123, such_H0834 as_H0834 he_H0834 is_H0834 able_H3027 to_H1961 afford_H3027; and_H1121 the_H0834 one_H0259 shall_H1121 be_H1961 a_H1961 sin_H2403 offering_H0259, and_H1121 the_H0834 other_H0259 a_H1961 burnt_H5930 offering_H0259. 
 ^a^[**14:21** 1 ephah is about 22 liters or about 2/3 of a bushel] ^b^[**14:21** a log is a liquid measure of about 300 ml or 10 ounces]
 
-@23 “On the eighth day he shall bring them for his cleansing to the priest, to the door of the Tent of Meeting, before Yahweh. 
-@24 The priest shall take the lamb of the trespass offering, and the log of oil, and the priest shall wave them for a wave offering before Yahweh. 
-@25 He shall kill the lamb of the trespass offering. The priest shall take some of the blood of the trespass offering and put it on the tip of the right ear of him who is to be cleansed, and on the thumb of his right hand, and on the big toe of his right foot. 
-@26 The priest shall pour some of the oil into the palm of his own left hand; 
-@27 and the priest shall sprinkle with his right finger some of the oil that is in his left hand seven times before Yahweh. 
-@28 Then the priest shall put some of the oil that is in his hand on the tip of the right ear of him who is to be cleansed, and on the thumb of his right hand, and on the big toe of his right foot, on the place of the blood of the trespass offering. 
-@29 The rest of the oil that is in the priest’s hand he shall put on the head of him who is to be cleansed, to make atonement for him before Yahweh. 
-@30 He shall offer one of the turtledoves, or of the young pigeons, which ever he is able to afford, 
-@31 of the kind he is able to afford, the one for a sin offering, and the other for a burnt offering, with the meal offering. The priest shall make atonement for him who is to be cleansed before Yahweh.” 
+@23 “On_H3117 the_H0853 eighth_H8066 day_H3117 he_H3117 shall_H3548 bring_H0935 them_H0413 for_H0413 his_H3068 cleansing_H2893 to_H0413 the_H0853 priest_H3548, to_H0413 the_H0853 door_H6607 of_H3068 the_H0853 Tent_H0168 of_H3068 Meeting_H4150, before_H6440 Yahweh_H3068. 
+@24 The_H0853 priest_H3548 shall_H3548 take_H3947 the_H0853 lamb_H3532 of_H3068 the_H0853 trespass offering_H0817, and_H3068 the_H0853 log_H3849 of_H3068 oil_H8081, and_H3068 the_H0853 priest_H3548 shall_H3548 wave_H8573 them_H0853 for_H3068 a_H3947 wave_H8573 offering_H0817 before_H6440 Yahweh_H3068. 
+@25 He_H5414 shall_H3548 kill_H7819 the_H0853 lamb_H3532 of_H3027 the_H0853 trespass offering_H0817. The_H0853 priest_H3548 shall_H3548 take_H3947 some_H3027 of_H3027 the_H0853 blood_H1818 of_H3027 the_H0853 trespass offering_H0817 and_H3027 put_H5414 it_H5414 on_H5921 the_H0853 tip of_H3027 the_H0853 right_H3233 ear_H0241 of_H3027 him_H5414 who_H3548 is_H3027 to_H5921 be_H3027 cleansed_H2891, and_H3027 on_H5921 the_H0853 thumb_H0931 of_H3027 his_H5414 right_H3233 hand_H3027, and_H3027 on_H5921 the_H0853 big_H0931 toe_H0931 of_H3027 his_H5414 right_H3233 foot_H7272. 
+@26 The_H5921 priest_H3548 shall_H3548 pour_H3332 some_H4480 of_H4480 the_H5921 oil_H8081 into_H5921 the_H5921 palm_H3709 of_H4480 his_H5921 own left_H8042 hand_H3709; 
+@27 and_H3068 the_H6440 priest_H3548 shall_H3548 sprinkle with_H3068 his_H5921 right_H3233 finger_H0676 some_H4480 of_H3068 the_H6440 oil_H8081 that_H0834 is_H0834 in_H5921 his_H5921 left_H8042 hand_H3709 seven_H7651 times_H6471 before_H6440 Yahweh_H3068. 
+@28 Then_H5414 the_H0834 priest_H3548 shall_H3548 put_H5414 some_H4480 of_H3027 the_H0834 oil_H8081 that_H0834 is_H0834 in_H5921 his_H5414 hand_H3027 on_H5921 the_H0834 tip of_H3027 the_H0834 right_H3233 ear_H0241 of_H3027 him_H5414 who_H0834 is_H0834 to_H5921 be_H3027 cleansed_H2891, and_H3027 on_H5921 the_H0834 thumb_H0931 of_H3027 his_H5414 right_H3233 hand_H3027, and_H3027 on_H5921 the_H0834 big_H0931 toe_H0931 of_H3027 his_H5414 right_H3233 foot_H7272, on_H5921 the_H0834 place_H4725 of_H3027 the_H0834 blood_H1818 of_H3027 the_H0834 trespass offering_H0817. 
+@29 The_H6440 rest_H3498 of_H3068 the_H6440 oil_H8081 that_H0834 is_H0834 in_H5921 the_H6440 priest’s_H3548 hand_H3709 he_H0834 shall_H3548 put_H5414 on_H5921 the_H6440 head_H7218 of_H3068 him_H5414 who_H0834 is_H0834 to_H5921 be_H3068 cleansed_H2891, to_H5921 make_H5414 atonement_H3722 for_H5921 him_H5414 before_H6440 Yahweh_H3068. 
+@30 He_H0834 shall_H1121 offer_H6213 one_H0259 of_H1121 the_H0853 turtledoves_H8449, or_H0176 of_H1121 the_H0853 young_H1121 pigeons_H3123, which_H0834 ever he_H0834 is_H0834 able_H3027 to_H3027 afford_H3027, 
+@31 of_H3068 the_H0853 kind he_H0834 is_H0834 able_H3027 to_H5921 afford_H3027, the_H0853 one_H0259 for_H5921 a_H0834 sin_H2403 offering_H4503, and_H3068 the_H0853 other_H0259 for_H5921 a_H0834 burnt_H5930 offering_H4503, with_H3068 the_H0853 meal_H4503 offering_H4503. The_H0853 priest_H3548 shall_H3548 make_H3027 atonement_H3722 for_H5921 him_H5921 who_H0834 is_H0834 to_H5921 be_H3027 cleansed_H2891 before_H6440 Yahweh_H3068.” 
 
-@32 This is the law for him in whom is the plague of leprosy, who is not able to afford the sacrifice for his cleansing.
+@32 This_H2063 is_H0834 the_H0834 law_H8451 for_H3027 him_H5381 in_H3808 whom_H0834 is_H0834 the_H0834 plague_H5061 of_H3027 leprosy_H6883, who_H0834 is_H0834 not_H3808 able_H3027 to_H3027 afford_H3027 the_H0834 sacrifice for_H3027 his_H0834 cleansing_H2893.
 
 ## Rules regarding leprosy in houses
-@33 Yahweh spoke to Moses and to Aaron, saying, 
-@34 “When you have come into the land of Canaan, which I give to you for a possession, and I put a spreading mildew in a house in the land of your possession, 
-@35 then he who owns the house shall come and tell the priest, saying, ‘There seems to me to be some sort of plague in the house.’ 
-@36 The priest shall command that they empty the house, before the priest goes in to examine the plague, that all that is in the house not be made unclean. Afterward the priest shall go in to inspect the house. 
-@37 He shall examine the plague; and behold, if the plague is in the walls of the house with hollow streaks, greenish or reddish, and it appears to be deeper than the wall, 
-@38 then the priest shall go out of the house to the door of the house, and shut up the house seven days. 
-@39 The priest shall come again on the seventh day, and look. If the plague has spread in the walls of the house, 
-@40 then the priest shall command that they take out the stones in which is the plague, and cast them into an unclean place outside of the city. 
-@41 He shall cause the inside of the house to be scraped all over. They shall pour out the mortar that they scraped off outside of the city into an unclean place. 
-@42 They shall take other stones, and put them in the place of those stones; and he shall take other mortar, and shall plaster the house. 
+@33 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872 and_H3068 to_H0413 Aaron_H0175, saying_H0559, 
+@34 “When_H3588 you_H0834 have_H0834 come_H0935 into_H0413 the_H0834 land_H0776 of_H1004 Canaan_H3667, which_H0834 I_H0589 give_H5414 to_H0413 you_H0834 for_H3588 a_H3588 possession_H0272, and_H0935 I_H0589 put_H5414 a_H3588 spreading mildew in_H0935 a_H3588 house_H1004 in_H0935 the_H0834 land_H0776 of_H1004 your_H5414 possession_H0272, 
+@35 then_H0935 he_H0834 who_H0834 owns the_H0559 house_H1004 shall_H3548 come_H0935 and_H0935 tell_H5046 the_H0559 priest_H3548, saying_H0559, ‘There_H0834 seems to_H0559 me_H5046 to_H0559 be_H1004 some sort of_H1004 plague_H5061 in_H0935 the_H0559 house_H1004.’ 
+@36 The_H3605 priest_H3548 shall_H3548 command_H6680 that_H0834 they_H0834 empty_H6437 the_H3605 house_H1004, before_H2962 the_H3605 priest_H3548 goes_H0935 in_H0935 to_H0935 examine the_H3605 plague_H5061, that_H0834 all_H3605 that_H0834 is_H0834 in_H0935 the_H3605 house_H1004 not_H3808 be_H3808 made_H2930 unclean_H2930. Afterward_H0310 the_H3605 priest_H3548 shall_H3548 go_H0935 in_H0935 to_H0935 inspect the_H3605 house_H1004. 
+@37 He_H4480 shall_H1004 examine the_H0853 plague_H5061; and_H1004 behold_H2009, if_H2009 the_H0853 plague_H5061 is_H2009 in_H1004 the_H0853 walls_H7023 of_H1004 the_H0853 house_H1004 with_H1004 hollow streaks, greenish_H3422 or_H0176 reddish_H0125, and_H1004 it_H7200 appears_H4758 to_H1004 be_H1004 deeper_H8217 than_H4480 the_H0853 wall_H7023, 
+@38 then_H3318 the_H0853 priest_H3548 shall_H3548 go_H3318 out_H3318 of_H1004 the_H0853 house_H1004 to_H0413 the_H0853 door_H6607 of_H1004 the_H0853 house_H1004, and_H1004 shut_H5462 up_H5462 the_H0853 house_H1004 seven_H7651 days_H3117. 
+@39 The_H7200 priest_H3548 shall_H3548 come_H7725 again_H7725 on_H3117 the_H7200 seventh_H7637 day_H3117, and_H7725 look_H2009. If_H2009 the_H7200 plague_H5061 has_H5061 spread_H6581 in_H1004 the_H7200 walls_H7023 of_H1004 the_H7200 house_H1004, 
+@40 then_H0853 the_H0853 priest_H3548 shall_H3548 command_H6680 that_H0834 they_H0834 take out_H0413 the_H0853 stones_H0068 in_H0413 which_H0834 is_H0834 the_H0853 plague_H5061, and_H3548 cast_H7993 them_H0413 into_H0413 an_H7993 unclean_H2931 place_H4725 outside_H2351 of_H4725 the_H0853 city_H5892. 
+@41 He_H0834 shall_H1004 cause the_H0853 inside_H1004 of_H1004 the_H0853 house_H1004 to_H0413 be_H1004 scraped_H7096 all_H5439 over_H0413. They_H0834 shall_H1004 pour_H8210 out_H8210 the_H0853 mortar that_H0834 they_H0834 scraped_H7096 off_H7096 outside_H2351 of_H1004 the_H0853 city_H5892 into_H0413 an unclean_H2931 place_H4725. 
+@42 They_H0935 shall_H1004 take_H3947 other_H0312 stones_H0068, and_H0935 put_H0935 them_H0413 in_H0935 the_H0853 place_H8478 of_H1004 those_H0853 stones_H0068; and_H0935 he_H0853 shall_H1004 take_H3947 other_H0312 mortar, and_H0935 shall_H1004 plaster_H6083 the_H0853 house_H1004. 
 
-@43 “If the plague comes again, and breaks out in the house after he has taken out the stones, and after he has scraped the house, and after it was plastered, 
-@44 then the priest shall come in and look; and behold, if the plague has spread in the house, it is a destructive mildew in the house. It is unclean. 
-@45 He shall break down the house, its stones, and its timber, and all the house’s mortar. He shall carry them out of the city into an unclean place. 
+@43 “If_H0518 the_H0853 plague_H5061 comes again_H7725, and_H7725 breaks_H6524 out_H0853 in_H1004 the_H0853 house_H1004 after_H0310 he_H0518 has_H5061 taken out_H0853 the_H0853 stones_H0068, and_H7725 after_H0310 he_H0518 has_H5061 scraped_H7096 the_H0853 house_H1004, and_H7725 after_H0310 it_H0518 was_H1004 plastered_H2902, 
+@44 then_H2009 the_H0935 priest_H3548 shall_H3548 come_H0935 in_H0935 and_H0935 look_H2009; and_H0935 behold_H2009, if_H2009 the_H0935 plague_H5061 has_H5061 spread_H6581 in_H0935 the_H0935 house_H1004, it_H1931 is_H1931 a_H7200 destructive mildew in_H0935 the_H0935 house_H1004. It_H1931 is_H1931 unclean_H2931. 
+@45 He_H0853 shall_H1004 break_H5422 down_H5422 the_H3605 house_H1004, its_H3605 stones_H0068, and_H1004 its_H3605 timber_H6086, and_H1004 all_H3605 the_H3605 house’s mortar. He_H0853 shall_H1004 carry_H3318 them_H0413 out_H3318 of_H1004 the_H3605 city_H5892 into_H0413 an unclean_H2931 place_H4725. 
 
-@46 “Moreover he who goes into the house while it is shut up shall be unclean until the evening. 
-@47 He who lies down in the house shall wash his clothes; and he who eats in the house shall wash his clothes. 
+@46 “Moreover he_H5704 who_H3605 goes_H0935 into_H0413 the_H3605 house_H1004 while_H5704 it_H5704 is_H3117 shut_H5462 up_H5704 shall_H1004 be_H1004 unclean_H2930 until_H5704 the_H3605 evening_H6153. 
+@47 He_H0853 who lies_H7901 down_H7901 in_H1004 the_H0853 house_H1004 shall_H1004 wash_H3526 his_H3526 clothes_H0899; and_H1004 he_H0853 who eats_H0398 in_H1004 the_H0853 house_H1004 shall_H1004 wash_H3526 his_H3526 clothes_H0899. 
 
-@48 “If the priest shall come in, and examine it, and behold, the plague hasn’t spread in the house, after the house was plastered, then the priest shall pronounce the house clean, because the plague is healed. 
-@49 To cleanse the house he shall take two birds, cedar wood, scarlet, and hyssop. 
-@50 He shall kill one of the birds in an earthen vessel over running water. 
-@51 He shall take the cedar wood, the hyssop, the scarlet, and the living bird, and dip them in the blood of the slain bird, and in the running water, and sprinkle the house seven times. 
-@52 He shall cleanse the house with the blood of the bird, and with the running water, with the living bird, with the cedar wood, with the hyssop, and with the scarlet; 
-@53 but he shall let the living bird go out of the city into the open field. So shall he make atonement for the house; and it shall be clean.”
+@48 “If_H0518 the_H0853 priest_H3548 shall_H3548 come_H0935 in_H0935, and_H0935 examine it_H0518, and_H0935 behold_H2009, the_H0853 plague_H5061 hasn’t_H3808 spread_H6581 in_H0935 the_H0853 house_H1004, after_H0310 the_H0853 house_H1004 was_H1004 plastered_H2902, then_H2009 the_H0853 priest_H3548 shall_H3548 pronounce_H2891 the_H0853 house_H1004 clean_H2891, because_H3588 the_H0853 plague_H5061 is_H2009 healed_H7495. 
+@49 To_H1004 cleanse_H2398 the_H0853 house_H1004 he_H0853 shall_H1004 take_H3947 two_H8147 birds_H6833, cedar_H0730 wood_H6086, scarlet_H8144, and_H1004 hyssop_H0231. 
+@50 He_H0853 shall_H3627 kill_H7819 one_H0259 of_H3627 the_H0853 birds_H6833 in_H5921 an_H7819 earthen_H2789 vessel_H3627 over_H5921 running water_H4325. 
+@51 He_H0853 shall_H1004 take_H3947 the_H0853 cedar_H0730 wood_H6086, the_H0853 hyssop_H0231, the_H0853 scarlet_H8144, and_H1004 the_H0853 living_H2416 bird_H6833, and_H1004 dip_H2881 them_H0413 in_H0413 the_H0853 blood_H1818 of_H1004 the_H0853 slain_H7819 bird_H6833, and_H1004 in_H0413 the_H0853 running water_H4325, and_H1004 sprinkle the_H0853 house_H1004 seven_H7651 times_H6471. 
+@52 He_H0853 shall_H1004 cleanse_H2398 the_H0853 house_H1004 with_H1004 the_H0853 blood_H1818 of_H1004 the_H0853 bird_H6833, and_H1004 with_H1004 the_H0853 running water_H4325, with_H1004 the_H0853 living_H2416 bird_H6833, with_H1004 the_H0853 cedar_H0730 wood_H6086, with_H1004 the_H0853 hyssop_H0231, and_H1004 with_H1004 the_H0853 scarlet_H8144; 
+@53 but_H5921 he_H0853 shall_H1004 let_H7971 the_H0853 living_H2416 bird_H6833 go_H7971 out_H7971 of_H1004 the_H0853 city_H5892 into_H0413 the_H0853 open_H6440 field_H7704. So_H7971 shall_H1004 he_H0853 make atonement_H3722 for_H5921 the_H0853 house_H1004; and_H1004 it_H5921 shall_H1004 be_H1004 clean_H2891.”
 
 ## Graduation
-@54 This is the law for any plague of leprosy, and for an itch, 
-@55 and for the destructive mildew of a garment, and for a house, 
-@56 and for a swelling, and for a scab, and for a bright spot; 
-@57 to teach when it is unclean, and when it is clean. 
+@54 This_H2063 is_H3605 the_H3605 law_H8451 for_H3605 any_H3605 plague_H5061 of_H3605 leprosy_H6883, and_H8451 for_H3605 an itch, 
+@55 and_H1004 for_H1004 the_H1004 destructive mildew of_H1004 a garment_H0899, and_H1004 for_H1004 a house_H1004, 
+@56 and_H7613 for a swelling_H7613, and_H7613 for a scab_H5597, and_H7613 for a bright_H0934 spot_H0934; 
+@57 to_H3117 teach_H3384 when_H3117 it is_H3117 unclean_H2931, and_H3117 when_H3117 it is_H3117 clean_H2889. 
 
-This is the law of leprosy. 
+This_H2063 is_H3117 the_H3117 law_H8451 of_H3117 leprosy_H6883. 
 
 # 15 
 ## Filth of men
-@1 Yahweh spoke to Moses and to Aaron, saying, 
-@2 “Speak to the children of Israel, and tell them, ‘When any man has a discharge from his body, because of his discharge he is unclean. 
-@3 This shall be his uncleanness in his discharge: whether his body runs with his discharge, or his body has stopped from his discharge, it is his uncleanness. 
+@1 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872 and_H3068 to_H0413 Aaron_H0175, saying_H0559, 
+@2 “Speak_H1696 to_H0413 the_H0559 children_H1121 of_H1121 Israel_H3478, and_H1121 tell_H0559 them_H0413, ‘When_H3588 any_H0376 man_H0376 has_H1961 a_H1961 discharge_H2100 from_H0376 his_H1961 body_H1320, because_H3588 of_H1121 his_H1961 discharge_H2100 he_H1931 is_H1931 unclean_H2931. 
+@3 This_H2063 shall_H1931 be_H1961 his_H1961 uncleanness_H2932 in_H1320 his_H1961 discharge_H2101: whether_H0176 his_H1961 body_H1320 runs with_H0854 his_H1961 discharge_H2101, or_H0176 his_H1961 body_H1320 has_H1961 stopped from_H1961 his_H1961 discharge_H2101, it_H1931 is_H1931 his_H1961 uncleanness_H2932. 
 
-@4 “‘Every bed on which he who has the discharge lies shall be unclean; and everything he sits on shall be unclean. 
-@5 Whoever touches his bed shall wash his clothes, and bathe himself in water, and be unclean until the evening. 
-@6 He who sits on anything on which the man who has the discharge sat shall wash his clothes, and bathe himself in water, and be unclean until the evening. 
+@4 “‘Every_H3605 bed_H4904 on_H5921 which_H0834 he_H0834 who_H0834 has_H0834 the_H3605 discharge_H2100 lies_H7901 shall_H0834 be_H3605 unclean_H2930; and_H3427 everything_H3605 he_H0834 sits_H3427 on_H5921 shall_H0834 be_H3605 unclean_H2930. 
+@5 Whoever_H0834 touches_H5060 his_H3526 bed_H4904 shall_H0376 wash_H3526 his_H3526 clothes_H0899, and_H0376 bathe_H7364 himself_H2930 in_H7364 water_H4325, and_H0376 be_H0376 unclean_H2930 until_H5704 the_H0834 evening_H6153. 
+@6 He_H0834 who_H0834 sits_H3427 on_H5921 anything_H3627 on_H5921 which_H0834 the_H0834 man who_H0834 has_H0834 the_H0834 discharge_H2100 sat_H3427 shall_H0834 wash_H3526 his_H5921 clothes_H0899, and_H4325 bathe_H7364 himself_H2930 in_H3427 water_H4325, and_H4325 be_H4325 unclean_H2930 until_H5704 the_H0834 evening_H6153. 
 
-@7 “‘He who touches the body of him who has the discharge shall wash his clothes, and bathe himself in water, and be unclean until the evening. 
+@7 “‘He_H5704 who touches_H5060 the_H5704 body_H1320 of_H4325 him_H2930 who has_H1320 the_H5704 discharge_H2100 shall_H1320 wash_H3526 his_H3526 clothes_H0899, and_H4325 bathe_H7364 himself_H2930 in_H7364 water_H4325, and_H4325 be_H4325 unclean_H2930 until_H5704 the_H5704 evening_H6153. 
 
-@8 “‘If he who has the discharge spits on him who is clean, then he shall wash his clothes, and bathe himself in water, and be unclean until the evening. 
+@8 “‘If_H3588 he_H3588 who_H3588 has_H3588 the_H3588 discharge_H2100 spits_H7556 on_H4325 him_H2930 who_H3588 is_H4325 clean_H2889, then_H3588 he_H3588 shall_H2100 wash_H3526 his_H3526 clothes_H0899, and_H4325 bathe_H7364 himself_H2930 in_H7364 water_H4325, and_H4325 be_H4325 unclean_H2930 until_H5704 the_H3588 evening_H6153. 
 
-@9 “‘Whatever saddle he who has the discharge rides on shall be unclean. 
-@10 Whoever touches anything that was under him shall be unclean until the evening. He who carries those things shall wash his clothes, and bathe himself in water, and be unclean until the evening. 
+@9 “‘Whatever_H0834 saddle_H4817 he_H0834 who_H0834 has_H0834 the_H3605 discharge_H2100 rides_H7392 on_H5921 shall_H0834 be_H3605 unclean_H2930. 
+@10 Whoever_H3605 touches_H5060 anything_H3605 that_H0834 was_H1961 under_H8478 him_H0853 shall_H0834 be_H1961 unclean_H2930 until_H5704 the_H3605 evening_H6153. He_H0834 who_H0834 carries_H5375 those_H3605 things_H3605 shall_H0834 wash_H3526 his_H3605 clothes_H0899, and_H4325 bathe_H7364 himself_H2930 in_H7364 water_H4325, and_H4325 be_H1961 unclean_H2930 until_H5704 the_H3605 evening_H6153. 
 
-@11 “‘Whomever he who has the discharge touches, without having rinsed his hands in water, he shall wash his clothes, and bathe himself in water, and be unclean until the evening. 
+@11 “‘Whomever_H0834 he_H0834 who_H0834 has_H0834 the_H3605 discharge_H2100 touches_H5060, without_H3808 having_H3808 rinsed_H7857 his_H3605 hands_H3027 in_H7364 water_H4325, he_H0834 shall_H3808 wash_H3526 his_H3605 clothes_H0899, and_H3027 bathe_H7364 himself_H3027 in_H7364 water_H4325, and_H3027 be_H3808 unclean_H2930 until_H5704 the_H3605 evening_H6153. 
 
-@12 “‘The earthen vessel, which he who has the discharge touches, shall be broken; and every vessel of wood shall be rinsed in water. 
+@12 “‘The_H3605 earthen_H2789 vessel_H3627, which_H0834 he_H0834 who_H0834 has_H0834 the_H3605 discharge_H2100 touches_H5060, shall_H0834 be_H4325 broken_H7665; and_H6086 every_H3605 vessel_H3627 of_H3627 wood_H6086 shall_H0834 be_H4325 rinsed_H7857 in_H7665 water_H4325. 
 
-@13 “‘When he who has a discharge is cleansed of his discharge, then he shall count to himself seven days for his cleansing, and wash his clothes; and he shall bathe his flesh in running water, and shall be clean. 
+@13 “‘When_H3588 he_H3588 who_H3588 has_H3117 a_H3588 discharge_H2100 is_H3117 cleansed_H2891 of_H3117 his_H3526 discharge_H2100, then_H3588 he_H3588 shall_H3117 count_H5608 to_H3117 himself_H3117 seven_H7651 days_H3117 for_H3588 his_H3526 cleansing_H2893, and_H3117 wash_H3526 his_H3526 clothes_H0899; and_H3117 he_H3588 shall_H3117 bathe_H7364 his_H3526 flesh_H1320 in_H7364 running water_H4325, and_H3117 shall_H3117 be_H3117 clean_H2891. 
 
-@14 “‘On the eighth day he shall take two turtledoves, or two young pigeons, and come before Yahweh to the door of the Tent of Meeting, and give them to the priest. 
-@15 The priest shall offer them, the one for a sin offering, and the other for a burnt offering. The priest shall make atonement for him before Yahweh for his discharge. 
+@14 “‘On_H3117 the_H6440 eighth_H8066 day_H3117 he_H3117 shall_H3548 take_H3947 two_H8147 turtledoves_H8449, or_H0176 two_H8147 young_H1121 pigeons_H3123, and_H1121 come_H0935 before_H6440 Yahweh_H3068 to_H0413 the_H6440 door_H6607 of_H1121 the_H6440 Tent_H0168 of_H1121 Meeting_H4150, and_H1121 give_H5414 them_H0413 to_H0413 the_H6440 priest_H3548. 
+@15 The_H0853 priest_H3548 shall_H3548 offer_H6213 them_H0853, the_H0853 one_H0259 for_H5921 a_H5921 sin_H2403 offering_H3068, and_H3068 the_H0853 other_H0259 for_H5921 a_H5921 burnt_H5930 offering_H3068. The_H0853 priest_H3548 shall_H3548 make_H6213 atonement_H3722 for_H5921 him_H5921 before_H6440 Yahweh_H3068 for_H5921 his_H5921 discharge_H2101. 
 
-@16 “‘If any man has an emission of semen, then he shall bathe all his flesh in water, and be unclean until the evening. 
-@17 Every garment and every skin which the semen is on shall be washed with water, and be unclean until the evening. 
-@18 If a man lies with a woman and there is an emission of semen, they shall both bathe themselves in water, and be unclean until the evening.
+@16 “‘If_H3588 any_H3605 man_H0376 has_H0376 an_H4480 emission_H7902 of_H0376 semen, then_H3318 he_H3588 shall_H0376 bathe_H7364 all_H3605 his_H3605 flesh_H1320 in_H7364 water_H4325, and_H0376 be_H0376 unclean_H2930 until_H5704 the_H3605 evening_H6153. 
+@17 Every_H3605 garment_H0899 and_H4325 every_H3605 skin_H5785 which_H0834 the_H3605 semen is_H0834 on_H5921 shall_H2233 be_H1961 washed_H3526 with_H5921 water_H4325, and_H4325 be_H1961 unclean_H2930 until_H5704 the_H3605 evening_H6153. 
+@18 If_H0834 a_H0834 man_H0376 lies_H7901 with_H0854 a_H0834 woman_H0802 and_H0376 there_H5704 is_H0834 an_H0376 emission_H7902 of_H0376 semen, they_H0834 shall_H0376 both bathe_H7364 themselves_H7364 in_H7364 water_H4325, and_H0376 be_H0376 unclean_H2930 until_H5704 the_H0834 evening_H6153.
 
 ## Impure conditions in women
-@19 “‘If a woman has a discharge, and her discharge in her flesh is blood, she shall be in her impurity seven days. Whoever touches her shall be unclean until the evening. 
+@19 “‘If_H3588 a_H1961 woman_H0802 has_H1961 a_H1961 discharge_H2100, and_H3117 her_H3605 discharge_H2100 in_H3117 her_H3605 flesh_H1320 is_H3117 blood_H1818, she_H3588 shall_H0802 be_H1961 in_H3117 her_H3605 impurity_H5079 seven_H7651 days_H3117. Whoever_H3605 touches_H5060 her_H3605 shall_H0802 be_H1961 unclean_H2930 until_H5704 the_H3605 evening_H6153. 
 
-@20 “‘Everything that she lies on in her impurity shall be unclean. Everything also that she sits on shall be unclean. 
-@21 Whoever touches her bed shall wash his clothes, and bathe himself in water, and be unclean until the evening. 
-@22 Whoever touches anything that she sits on shall wash his clothes, and bathe himself in water, and be unclean until the evening. 
-@23 If it is on the bed, or on anything she sits on, when he touches it, he shall be unclean until the evening. 
+@20 “‘Everything_H3605 that_H0834 she_H0834 lies_H7901 on_H5921 in_H3427 her_H3605 impurity_H5079 shall_H0834 be_H3605 unclean_H2930. Everything_H3605 also_H0834 that_H0834 she_H0834 sits_H3427 on_H5921 shall_H0834 be_H3605 unclean_H2930. 
+@21 Whoever_H3605 touches_H5060 her_H3605 bed_H4904 shall_H4904 wash_H3526 his_H3605 clothes_H0899, and_H4325 bathe_H7364 himself_H2930 in_H7364 water_H4325, and_H4325 be_H4325 unclean_H2930 until_H5704 the_H3605 evening_H6153. 
+@22 Whoever_H3605 touches_H5060 anything_H3605 that_H0834 she_H0834 sits_H3427 on_H5921 shall_H0834 wash_H3526 his_H3605 clothes_H0899, and_H4325 bathe_H7364 himself_H2930 in_H3427 water_H4325, and_H4325 be_H4325 unclean_H2930 until_H5704 the_H3605 evening_H6153. 
+@23 If_H0518 it_H1931 is_H0834 on_H5921 the_H0834 bed_H4904, or_H0176 on_H5921 anything_H3627 she_H1931 sits_H3427 on_H5921, when_H0834 he_H0834 touches_H5060 it_H1931, he_H0834 shall_H0834 be_H1931 unclean_H2930 until_H5704 the_H0834 evening_H6153. 
 
-@24 “‘If any man lies with her, and her monthly flow is on him, he shall be unclean seven days; and every bed he lies on shall be unclean. 
+@24 “‘If_H0518 any_H3605 man_H0376 lies_H7901 with_H0854 her_H3605, and_H3117 her_H3605 monthly flow is_H0834 on_H5921 him_H5921, he_H0834 shall_H0376 be_H1961 unclean_H2930 seven_H7651 days_H3117; and_H3117 every_H3605 bed_H4904 he_H0834 lies_H7901 on_H5921 shall_H0376 be_H1961 unclean_H2930. 
 
-@25 “‘If a woman has a discharge of her blood many days not in the time of her period, or if she has a discharge beyond the time of her period, all the days of the discharge of her uncleanness shall be as in the days of her period. She is unclean. 
-@26 Every bed she lies on all the days of her discharge shall be to her as the bed of her period. Everything she sits on shall be unclean, as the uncleanness of her period. 
-@27 Whoever touches these things shall be unclean, and shall wash his clothes and bathe himself in water, and be unclean until the evening. 
+@25 “‘If_H3588 a_H1961 woman_H0802 has_H1961 a_H1961 discharge_H2100 of_H3117 her_H3605 blood_H1818 many_H7227 days_H3117 not_H3808 in_H5921 the_H3605 time_H6256 of_H3117 her_H3605 period_H3117, or_H0176 if_H3588 she_H1931 has_H1961 a_H1961 discharge_H2100 beyond_H5921 the_H3605 time_H6256 of_H3117 her_H3605 period_H3117, all_H3605 the_H3605 days_H3117 of_H3117 the_H3605 discharge_H2100 of_H3117 her_H3605 uncleanness_H5079 shall_H3808 be_H1961 as_H1961 in_H5921 the_H3605 days_H3117 of_H3117 her_H3605 period_H3117. She_H1931 is_H1931 unclean_H2931. 
+@26 Every_H3605 bed_H4904 she_H0834 lies_H7901 on_H5921 all_H3605 the_H3605 days_H3117 of_H3117 her_H3605 discharge_H2101 shall_H3117 be_H1961 to_H1961 her_H3605 as_H0834 the_H3605 bed_H4904 of_H3117 her_H3605 period_H3117. Everything_H3605 she_H0834 sits_H3427 on_H5921 shall_H3117 be_H1961 unclean_H2931, as_H0834 the_H3605 uncleanness_H5079 of_H3117 her_H3605 period_H3117. 
+@27 Whoever_H3605 touches_H5060 these_H3605 things_H3605 shall_H4325 be_H4325 unclean_H2930, and_H4325 shall_H4325 wash_H3526 his_H3605 clothes_H0899 and_H4325 bathe_H7364 himself_H2930 in_H7364 water_H4325, and_H4325 be_H4325 unclean_H2930 until_H5704 the_H3605 evening_H6153. 
 
-@28 “‘But if she is cleansed of her discharge, then she shall count to herself seven days, and after that she shall be clean. 
-@29 On the eighth day she shall take two turtledoves, or two young pigeons, and bring them to the priest, to the door of the Tent of Meeting. 
-@30 The priest shall offer the one for a sin offering, and the other for a burnt offering; and the priest shall make atonement for her before Yahweh for the uncleanness of her discharge.
+@28 “‘But_H0518 if_H0518 she_H0518 is_H3117 cleansed_H2891 of_H3117 her_H0518 discharge_H2101, then_H0310 she_H0518 shall_H3117 count_H5608 to_H3117 herself seven_H7651 days_H3117, and_H3117 after_H0310 that_H3117 she_H0518 shall_H3117 be_H3117 clean_H2891. 
+@29 On_H3117 the_H0853 eighth_H8066 day_H3117 she shall_H3548 take_H3947 two_H8147 turtledoves_H8449, or_H0176 two_H8147 young_H1121 pigeons_H3123, and_H1121 bring_H0935 them_H0413 to_H0413 the_H0853 priest_H3548, to_H0413 the_H0853 door_H6607 of_H1121 the_H0853 Tent_H0168 of_H1121 Meeting_H4150. 
+@30 The_H0853 priest_H3548 shall_H3548 offer_H6213 the_H0853 one_H0259 for_H5921 a_H5921 sin_H2403 offering_H3068, and_H3068 the_H0853 other_H0259 for_H5921 a_H5921 burnt_H5930 offering_H3068; and_H3068 the_H0853 priest_H3548 shall_H3548 make_H6213 atonement_H3722 for_H5921 her_H5921 before_H6440 Yahweh_H3068 for_H5921 the_H0853 uncleanness_H2932 of_H3068 her_H5921 discharge_H2101.
 
 ## Closing words
-@31 “‘Thus you shall separate the children of Israel from their uncleanness, so they will not die in their uncleanness when they defile my tabernacle that is among them.’” 
+@31 “‘Thus_H4191 you_H0834 shall_H1121 separate the_H0853 children_H1121 of_H1121 Israel_H3478 from_H3478 their_H8432 uncleanness_H2932, so_H3808 they_H0834 will_H0834 not_H3808 die_H4191 in_H3478 their_H8432 uncleanness_H2932 when_H0834 they_H0834 defile_H2930 my_H0834 tabernacle_H4908 that_H0834 is_H0834 among_H8432 them_H0853.’” 
 
-@32 This is the law of him who has a discharge, and of him who has an emission of semen, so that he is unclean by it; 
-@33 and of her who has her period, and of a man or woman who has a discharge, and of him who lies with her who is unclean. 
+@32 This_H2063 is_H0834 the_H0834 law_H8451 of_H4480 him_H2930 who_H0834 has_H0834 a_H4480 discharge_H2100, and_H3318 of_H4480 him_H2930 who_H0834 has_H0834 an_H4480 emission_H7902 of_H4480 semen, so_H4480 that_H0834 he_H0834 is_H0834 unclean_H2930 by_H8451 it_H2930; 
+@33 and_H0376 of_H0376 her_H7901 who_H0834 has_H0834 her_H7901 period_H5079, and_H0376 of_H0376 a_H0834 man_H0376 or_H0376 woman_H5347 who_H0834 has_H0834 a_H0834 discharge_H2100, and_H0376 of_H0376 him_H0853 who_H0834 lies_H7901 with_H5973 her_H7901 who_H0834 is_H0834 unclean_H2931. 
 
 # 16 
 ## The great annual day of atonement; The preparations
-@1 Yahweh spoke to Moses after the death of the two sons of Aaron, when they came near before Yahweh, and died; 
-@2 and Yahweh said to Moses, “Tell Aaron your brother not to come at just any time into the Most Holy Place within the veil, before the mercy seat which is on the ark; lest he die; for I will appear in the cloud on the mercy seat. 
+@1 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872 after_H0310 the_H6440 death_H4191 of_H1121 the_H6440 two_H8147 sons_H1121 of_H1121 Aaron_H0175, when_H1696 they_H3068 came_H7126 near_H7126 before_H6440 Yahweh_H3068, and_H1121 died_H4191; 
+@2 and_H0935 Yahweh_H3068 said_H0559 to_H0413 Moses_H4872, “Tell_H0559 Aaron_H0175 your_H3068 brother_H0251 not_H3808 to_H0413 come_H0935 at_H0413 just_H0834 any_H3605 time_H6256 into_H0413 the_H3605 Most_H6944 Holy_H6944 Place_H6944 within_H5921 the_H3605 veil_H6532, before_H6440 the_H3605 mercy_H3727 seat_H3727 which_H0834 is_H0834 on_H5921 the_H3605 ark_H0727; lest he_H0834 die_H4191; for_H3588 I_H0834 will_H3068 appear_H7200 in_H5921 the_H3605 cloud_H6051 on_H5921 the_H3605 mercy_H3727 seat_H3727. 
 
-@3 “Aaron shall come into the sanctuary with a young bull for a sin offering, and a ram for a burnt offering. 
-@4 He shall put on the holy linen tunic. He shall have the linen trousers on his body, and shall put on the linen sash, and he shall be clothed with the linen turban. They are the holy garments. He shall bathe his body in water, and put them on. 
-@5 He shall take from the congregation of the children of Israel two male goats for a sin offering, and one ram for a burnt offering.
+@3 “Aaron_H0175 shall_H0175 come_H0935 into_H0413 the_H0413 sanctuary_H6944 with_H0413 a_H0935 young_H1121 bull_H6499 for_H0413 a_H0935 sin_H2403 offering, and_H1121 a_H0935 ram_H0352 for_H0413 a_H0935 burnt_H5930 offering. 
+@4 He_H0853 shall_H1320 put_H3847 on_H5921 the_H0853 holy_H6944 linen_H0906 tunic_H3801. He_H0853 shall_H1320 have_H1961 the_H0853 linen_H0906 trousers on_H5921 his_H5921 body_H1320, and_H4325 shall_H1320 put_H3847 on_H5921 the_H0853 linen_H0906 sash_H0073, and_H4325 he_H0853 shall_H1320 be_H1961 clothed_H3847 with_H3847 the_H0853 linen_H0906 turban_H4701. They_H1992 are_H1992 the_H0853 holy_H6944 garments_H0899. He_H0853 shall_H1320 bathe_H7364 his_H5921 body_H1320 in_H5921 water_H4325, and_H4325 put_H3847 them_H1992 on_H5921. 
+@5 He_H0853 shall_H1121 take_H3947 from_H3478 the_H0853 congregation_H5712 of_H1121 the_H0853 children_H1121 of_H1121 Israel_H3478 two_H8147 male_H8163 goats_H5795 for_H0259 a_H3947 sin_H2403 offering_H0259, and_H1121 one_H0259 ram_H0352 for_H0259 a_H3947 burnt_H5930 offering_H0259.
 
 ## Customs of Atonement
-@6 “Aaron shall offer the bull of the sin offering, which is for himself, and make atonement for himself and for his house. 
-@7 He shall take the two goats, and set them before Yahweh at the door of the Tent of Meeting. 
-@8 Aaron shall cast lots for the two goats: one lot for Yahweh, and the other lot for the scapegoat. 
-@9 Aaron shall present the goat on which the lot fell for Yahweh, and offer him for a sin offering. 
-@10 But the goat on which the lot fell for the scapegoat shall be presented alive before Yahweh, to make atonement for him, to send him away as the scapegoat into the wilderness.
+@6 “Aaron_H0175 shall_H0175 offer_H7126 the_H0853 bull_H6499 of_H1004 the_H0853 sin_H2403 offering_H7126, which_H0834 is_H0834 for_H1157 himself_H1157, and_H1004 make atonement_H3722 for_H1157 himself_H1157 and_H1004 for_H1157 his_H0834 house_H1004. 
+@7 He_H3068 shall_H3068 take_H3947 the_H0853 two_H8147 goats_H8163, and_H3068 set_H5975 them_H0853 before_H6440 Yahweh_H3068 at_H3068 the_H0853 door_H6607 of_H3068 the_H0853 Tent_H0168 of_H3068 Meeting_H4150. 
+@8 Aaron_H0175 shall_H0175 cast_H5414 lots_H1486 for_H5921 the_H5921 two_H8147 goats_H8163: one_H0259 lot_H1486 for_H5921 Yahweh_H3068, and_H3068 the_H5921 other_H0259 lot_H1486 for_H5921 the_H5921 scapegoat_H5799. 
+@9 Aaron_H0175 shall_H0175 present_H7126 the_H0853 goat_H8163 on_H5921 which_H0834 the_H0853 lot_H1486 fell_H5927 for_H5921 Yahweh_H3068, and_H3068 offer_H7126 him_H5921 for_H5921 a_H7126 sin_H2403 offering_H5927. 
+@10 But_H0834 the_H0853 goat_H8163 on_H5921 which_H0834 the_H0853 lot_H1486 fell_H5927 for_H5921 the_H0853 scapegoat_H5799 shall_H3068 be_H3068 presented_H5975 alive_H2416 before_H6440 Yahweh_H3068, to_H5921 make_H5975 atonement_H3722 for_H5921 him_H5921, to_H5921 send_H7971 him_H5921 away_H7971 as_H0834 the_H0853 scapegoat_H5799 into_H5921 the_H0853 wilderness_H4057.
 
 ## Purifying the Priesthood
-@11 “Aaron shall present the bull of the sin offering, which is for himself, and shall make atonement for himself and for his house, and shall kill the bull of the sin offering which is for himself. 
-@12 He shall take a censer full of coals of fire from off the altar before Yahweh, and two handfuls of sweet incense beaten small, and bring it within the veil. 
-@13 He shall put the incense on the fire before Yahweh, that the cloud of the incense may cover the mercy seat that is on the covenant, so that he will not die. 
-@14 He shall take some of the blood of the bull, and sprinkle it with his finger on the mercy seat on the east; and before the mercy seat he shall sprinkle some of the blood with his finger seven times.
+@11 “Aaron_H0175 shall_H0175 present_H7126 the_H0853 bull_H6499 of_H1004 the_H0853 sin_H2403 offering_H7126, which_H0834 is_H0834 for_H1157 himself_H1157, and_H1004 shall_H0175 make atonement_H3722 for_H1157 himself_H1157 and_H1004 for_H1157 his_H0834 house_H1004, and_H1004 shall_H0175 kill_H7819 the_H0853 bull_H6499 of_H1004 the_H0853 sin_H2403 offering_H7126 which_H0834 is_H0834 for_H1157 himself_H1157. 
+@12 He_H3068 shall_H3068 take_H3947 a_H3947 censer_H4289 full_H4393 of_H1004 coals_H1513 of_H1004 fire_H0784 from_H0935 off_H5921 the_H6440 altar_H4196 before_H6440 Yahweh_H3068, and_H0935 two_H3947 handfuls_H2651 of_H1004 sweet_H5561 incense_H7004 beaten small, and_H0935 bring_H0935 it_H5921 within_H5921 the_H6440 veil_H6532. 
+@13 He_H0834 shall_H3068 put_H5414 the_H0853 incense_H7004 on_H5921 the_H0853 fire_H0784 before_H6440 Yahweh_H3068, that_H0834 the_H0853 cloud_H6051 of_H3068 the_H0853 incense_H7004 may_H3068 cover_H3680 the_H0853 mercy_H3727 seat_H3727 that_H0834 is_H0834 on_H5921 the_H0853 covenant, so_H5414 that_H0834 he_H0834 will_H3068 not_H3808 die_H4191. 
+@14 He_H4480 shall_H6440 take_H3947 some_H4480 of_H4480 the_H6440 blood_H1818 of_H4480 the_H6440 bull_H6499, and_H6440 sprinkle it_H5921 with_H5921 his_H5921 finger_H0676 on_H5921 the_H6440 mercy_H3727 seat_H3727 on_H5921 the_H6440 east_H6924; and_H6440 before_H6440 the_H6440 mercy_H3727 seat_H3727 he_H4480 shall_H6440 sprinkle some_H4480 of_H4480 the_H6440 blood_H1818 with_H5921 his_H5921 finger_H0676 seven_H7651 times_H6471.
 
 ## Purification of the sanctuary and altar of burnt offering
-@15 “Then he shall kill the goat of the sin offering that is for the people, and bring his blood within the veil, and do with his blood as he did with the blood of the bull, and sprinkle it on the mercy seat and before the mercy seat. 
-@16 He shall make atonement for the Holy Place, because of the uncleanness of the children of Israel, and because of their transgressions, even all their sins; and so he shall do for the Tent of Meeting that dwells with them in the middle of their uncleanness. 
-@17 No one shall be in the Tent of Meeting when he enters to make atonement in the Holy Place, until he comes out, and has made atonement for himself and for his household, and for all the assembly of Israel. 
+@15 “Then_H0853 he_H0834 shall_H1004 kill_H7819 the_H0853 goat_H8163 of_H1004 the_H0853 sin_H2403 offering that_H0834 is_H0834 for_H5921 the_H0853 people_H5971, and_H0935 bring_H0935 his_H5921 blood_H1818 within_H5921 the_H0853 veil_H6532, and_H0935 do_H6213 with_H0854 his_H5921 blood_H1818 as_H0834 he_H0834 did_H6213 with_H0854 the_H0853 blood_H1818 of_H1004 the_H0853 bull_H6499, and_H0935 sprinkle it_H5921 on_H5921 the_H0853 mercy_H3727 seat_H3727 and_H0935 before_H6440 the_H0853 mercy_H3727 seat_H3727. 
+@16 He_H3651 shall_H1121 make_H6213 atonement_H3722 for_H5921 the_H3605 Holy_H6944 Place_H6944, because_H5921 of_H1121 the_H3605 uncleanness_H2932 of_H1121 the_H3605 children_H1121 of_H1121 Israel_H3478, and_H1121 because_H5921 of_H1121 their_H3605 transgressions_H6588, even_H3651 all_H3605 their_H3605 sins_H2403; and_H1121 so_H3651 he_H3651 shall_H1121 do_H6213 for_H5921 the_H3605 Tent_H0168 of_H1121 Meeting_H4150 that_H3605 dwells_H7931 with_H0854 them_H5921 in_H5921 the_H3605 middle_H8432 of_H1121 their_H3605 uncleanness_H2932. 
+@17 No_H3808 one_H3605 shall_H3478 be_H1961 in_H0935 the_H3605 Tent_H0168 of_H1004 Meeting_H4150 when_H1961 he_H5704 enters_H0935 to_H0935 make atonement_H3722 in_H0935 the_H3605 Holy_H6944 Place_H6944, until_H5704 he_H5704 comes_H0935 out_H3318, and_H0935 has_H1961 made_H1961 atonement_H3722 for_H1157 himself_H3808 and_H0935 for_H1157 his_H3605 household_H1004, and_H0935 for_H1157 all_H3605 the_H3605 assembly_H6951 of_H1004 Israel_H3478. 
 
-@18 “He shall go out to the altar that is before Yahweh and make atonement for it, and shall take some of the bull’s blood, and some of the goat’s blood, and put it around on the horns of the altar. 
-@19 He shall sprinkle some of the blood on it with his finger seven times, and cleanse it, and make it holy from the uncleanness of the children of Israel.
+@18 “He_H0834 shall_H3068 go_H3318 out_H3318 to_H0413 the_H6440 altar_H4196 that_H0834 is_H0834 before_H6440 Yahweh_H3068 and_H3068 make_H5414 atonement_H3722 for_H5921 it_H5414, and_H3068 shall_H3068 take_H3947 some of_H3068 the_H6440 bull’s blood_H1818, and_H3068 some of_H3068 the_H6440 goat’s blood_H1818, and_H3068 put_H5414 it_H5414 around_H5439 on_H5921 the_H6440 horns_H7161 of_H3068 the_H6440 altar_H4196. 
+@19 He_H4480 shall_H1121 sprinkle some_H4480 of_H1121 the_H5921 blood_H1818 on_H5921 it_H5921 with_H5921 his_H5921 finger_H0676 seven_H7651 times_H6471, and_H1121 cleanse_H2891 it_H5921, and_H1121 make it_H5921 holy_H6942 from_H4480 the_H5921 uncleanness_H2932 of_H1121 the_H5921 children_H1121 of_H1121 Israel_H3478.
 
 ## Purification of the community: sending the goat to Asazel
-@20 “When he has finished atoning for the Holy Place, the Tent of Meeting, and the altar, he shall present the live goat. 
-@21 Aaron shall lay both his hands on the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions, even all their sins; and he shall put them on the head of the goat, and shall send him away into the wilderness by the hand of a man who is ready. 
-@22 The goat shall carry all their iniquities on himself to a solitary land, and he shall release the goat in the wilderness.
+@20 “When_H3615 he_H0853 has_H4150 finished_H3615 atoning for_H4196 the_H0853 Holy_H6944 Place_H6944, the_H0853 Tent_H0168 of_H0168 Meeting_H4150, and_H4196 the_H0853 altar_H4196, he_H0853 shall_H4150 present_H7126 the_H0853 live_H2416 goat_H8163. 
+@21 Aaron_H0175 shall_H0175 lay_H5564 both_H8147 his_H3605 hands_H3027 on_H5921 the_H3605 head_H7218 of_H1121 the_H3605 live_H2416 goat_H8163, and_H1121 confess_H3034 over_H5921 him_H5414 all_H3605 the_H3605 iniquities_H5771 of_H1121 the_H3605 children_H1121 of_H1121 Israel_H3478, and_H1121 all_H3605 their_H3605 transgressions_H6588, even_H0853 all_H3605 their_H3605 sins_H2403; and_H1121 he_H5414 shall_H0175 put_H5414 them_H5414 on_H5921 the_H3605 head_H7218 of_H1121 the_H3605 goat_H8163, and_H1121 shall_H0175 send_H7971 him_H5414 away_H7971 into_H5921 the_H3605 wilderness_H4057 by_H5921 the_H3605 hand_H3027 of_H1121 a_H5414 man_H0376 who_H3605 is_H0376 ready. 
+@22 The_H3605 goat_H8163 shall_H0776 carry_H5375 all_H3605 their_H3605 iniquities_H5771 on_H5921 himself_H0413 to_H0413 a_H5375 solitary_H1509 land_H0776, and_H0776 he_H0853 shall_H0776 release_H7971 the_H3605 goat_H8163 in_H5921 the_H3605 wilderness_H4057.
 
 ## The final offerings, especially the goat sin offering
-@23 “Aaron shall come into the Tent of Meeting, and shall take off the linen garments which he put on when he went into the Holy Place, and shall leave them there. 
-@24 Then he shall bathe himself in water in a holy place, put on his garments, and come out and offer his burnt offering and the burnt offering of the people, and make atonement for himself and for the people. 
-@25 The fat of the sin offering he shall burn on the altar. 
+@23 “Aaron_H0175 shall_H0175 come_H0935 into_H0413 the_H0853 Tent_H0168 of_H0168 Meeting_H4150, and_H0935 shall_H0175 take_H0935 off_H6584 the_H0853 linen_H0906 garments_H0899 which_H0834 he_H0834 put_H3847 on_H0413 when_H0834 he_H0834 went_H0935 into_H0413 the_H0853 Holy_H6944 Place_H6944, and_H0935 shall_H0175 leave_H3240 them_H0413 there_H8033. 
+@24 Then_H3318 he_H6213 shall_H1320 bathe_H7364 himself_H4325 in_H3847 water_H4325 in_H3847 a_H3318 holy_H6918 place_H4725, put_H3847 on_H3847 his_H7364 garments_H0899, and_H4325 come_H3318 out_H3318 and_H4325 offer_H6213 his_H7364 burnt_H5930 offering_H3722 and_H4325 the_H0853 burnt_H5930 offering_H3722 of_H4325 the_H0853 people_H5971, and_H4325 make_H6213 atonement_H3722 for_H1157 himself_H4325 and_H4325 for_H1157 the_H0853 people_H5971. 
+@25 The_H0853 fat_H2459 of_H4196 the_H0853 sin_H2403 offering_H6999 he_H0853 shall burn_H6999 on_H6999 the_H0853 altar_H4196. 
 
-@26 “He who lets the goat go as the scapegoat shall wash his clothes, and bathe his flesh in water, and afterward he shall come into the camp. 
-@27 The bull for the sin offering, and the goat for the sin offering, whose blood was brought in to make atonement in the Holy Place, shall be carried outside the camp; and they shall burn their skins, their flesh, and their dung with fire. 
-@28 He who burns them shall wash his clothes, and bathe his flesh in water, and afterward he shall come into the camp.
+@26 “He_H0310 who lets_H7971 the_H0853 goat_H8163 go_H0935 as_H0935 the_H0853 scapegoat_H5799 shall_H1320 wash_H3526 his_H3526 clothes_H0899, and_H0935 bathe_H7364 his_H3526 flesh_H1320 in_H0935 water_H4325, and_H0935 afterward_H0310 he_H0310 shall_H1320 come_H0935 into_H0413 the_H0853 camp_H4264. 
+@27 The_H0853 bull_H6499 for_H0413 the_H0853 sin_H2403 offering_H3722, and_H0935 the_H0853 goat_H8163 for_H0413 the_H0853 sin_H2403 offering_H3722, whose_H0834 blood_H1818 was_H0834 brought_H0935 in_H0935 to_H0413 make atonement_H3722 in_H0935 the_H0853 Holy_H6944 Place_H6944, shall_H0834 be carried_H0935 outside_H2351 the_H0853 camp_H4264; and_H0935 they_H0834 shall_H0834 burn_H8313 their_H8313 skins_H5785, their_H8313 flesh_H1320, and_H0935 their_H8313 dung_H6569 with_H0413 fire_H0784. 
+@28 He_H0310 who burns_H8313 them_H0413 shall_H1320 wash_H3526 his_H3526 clothes_H0899, and_H0935 bathe_H7364 his_H3526 flesh_H1320 in_H0935 water_H4325, and_H0935 afterward_H0310 he_H0310 shall_H1320 come_H0935 into_H0413 the_H0853 camp_H4264.
 
 ## Determination of the day and provisions on the external celebration of the festival
-@29 “It shall be a statute to you forever: in the seventh month, on the tenth day of the month, you shall afflict your souls, and shall do no kind of work, whether native-born or a stranger who lives as a foreigner among you; 
-@30 for on this day shall atonement be made for you, to cleanse you. You shall be clean from all your sins before Yahweh. 
-@31 It is a Sabbath of solemn rest to you, and you shall afflict your souls. It is a statute forever. 
-@32 The priest, who is anointed and who is consecrated to be priest in his father’s place, shall make the atonement, and shall put on the linen garments, even the holy garments. 
-@33 Then he shall make atonement for the Holy Sanctuary; and he shall make atonement for the Tent of Meeting and for the altar; and he shall make atonement for the priests and for all the people of the assembly. 
+@29 “It_H1961 shall_H3808 be_H1961 a_H1961 statute_H2708 to_H1961 you_H3605 forever_H5769: in_H8432 the_H3605 seventh_H7637 month_H2320, on_H1961 the_H3605 tenth_H6218 day_H2320 of_H3605 the_H3605 month_H2320, you_H3605 shall_H3808 afflict_H6031 your_H3605 souls_H5315, and_H5769 shall_H3808 do_H6213 no_H3808 kind of_H3605 work_H4399, whether native-born_H0249 or_H3808 a_H1961 stranger_H1616 who_H3605 lives_H5315 as_H1961 a_H1961 foreigner_H1616 among_H8432 you_H3605; 
+@30 for_H3588 on_H5921 this_H2088 day_H3117 shall_H3068 atonement_H3722 be_H3068 made_H3605 for_H3588 you_H3588, to_H5921 cleanse_H2891 you_H3588. You_H3588 shall_H3068 be_H3068 clean_H2891 from_H5921 all_H3605 your_H3068 sins_H2403 before_H6440 Yahweh_H3068. 
+@31 It_H1931 is_H1931 a_H7676 Sabbath_H7676 of_H5315 solemn_H7677 rest_H7677 to_H5315 you_H0853, and_H5769 you_H0853 shall_H5315 afflict_H6031 your_H5315 souls_H5315. It_H1931 is_H1931 a_H7676 statute_H2708 forever_H5769. 
+@32 The_H0853 priest_H3548, who_H0834 is_H0834 anointed_H4886 and_H3027 who_H0834 is_H0834 consecrated_H6944 to_H3027 be_H3027 priest_H3548 in_H3847 his_H0834 father’s_H0001 place_H8478, shall_H3548 make_H3027 the_H0853 atonement_H3722, and_H3027 shall_H3548 put_H3847 on_H3847 the_H0853 linen_H0906 garments_H0899, even_H0853 the_H0853 holy_H6944 garments_H0899. 
+@33 Then_H0853 he_H0853 shall_H3548 make atonement_H3722 for_H5921 the_H3605 Holy_H6944 Sanctuary_H4720; and_H3548 he_H0853 shall_H3548 make atonement_H3722 for_H5921 the_H3605 Tent_H0168 of_H0168 Meeting_H4150 and_H3548 for_H5921 the_H3605 altar_H4196; and_H3548 he_H0853 shall_H3548 make atonement_H3722 for_H5921 the_H3605 priests_H3548 and_H3548 for_H5921 all_H3605 the_H3605 people_H5971 of_H0168 the_H3605 assembly_H6951. 
 
-@34 “This shall be an everlasting statute for you, to make atonement for the children of Israel once in the year because of all their sins.” 
+@34 “This_H2063 shall_H1121 be_H1961 an_H1961 everlasting_H5769 statute_H2708 for_H5921 you_H0834, to_H1961 make_H6213 atonement_H3722 for_H5921 the_H3605 children_H1121 of_H1121 Israel_H3478 once_H0259 in_H5921 the_H3605 year_H8141 because_H5921 of_H1121 all_H3605 their_H3605 sins_H2403.” 
 
-It was done as Yahweh commanded Moses. 
+It_H5921 was_H1961 done_H6213 as_H0834 Yahweh_H3068 commanded_H6680 Moses_H4872. 
 
 # 17 
 ## Regulations on the slaughter of domestic animals, consumption of blood, etc.
-@1 Yahweh spoke to Moses, saying, 
-@2 “Speak to Aaron, and to his sons, and to all the children of Israel, and say to them, ‘This is the thing which Yahweh has commanded:
+@1 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
+@2 “Speak_H1696 to_H0413 Aaron_H0175, and_H1121 to_H0413 his_H3605 sons_H1121, and_H1121 to_H0413 all_H3605 the_H3605 children_H1121 of_H1121 Israel_H3478, and_H1121 say_H0559 to_H0413 them_H0413, ‘This_H2088 is_H0834 the_H3605 thing_H1697 which_H0834 Yahweh_H3068 has_H3068 commanded_H6680:
 
 ## Slaughter Animal Slaughterhouse Unit
-@3 Whatever man there is of the house of Israel who kills a bull, or lamb, or goat in the camp, or who kills it outside the camp, 
-@4 and hasn’t brought it to the door of the Tent of Meeting to offer it as an offering to Yahweh before Yahweh’s tabernacle: blood shall be imputed to that man. He has shed blood. That man shall be cut off from among his people. 
-@5 This is to the end that the children of Israel may bring their sacrifices, which they sacrifice in the open field, that they may bring them to Yahweh, to the door of the Tent of Meeting, to the priest, and sacrifice them for sacrifices of peace offerings to Yahweh. 
-@6 The priest shall sprinkle the blood on Yahweh’s altar at the door of the Tent of Meeting, and burn the fat for a pleasant aroma to Yahweh. 
-@7 They shall no more sacrifice their sacrifices to the goat idols, after which they play the prostitute. This shall be a statute forever to them throughout their generations.’
+@3 Whatever_H0834 man_H0376 there_H0834 is_H0834 of_H1004 the_H0834 house_H1004 of_H1004 Israel_H3478 who_H0834 kills_H7819 a_H0176 bull_H7794, or_H0176 lamb_H3775, or_H0176 goat_H5795 in_H1004 the_H0834 camp_H4264, or_H0176 who_H0834 kills_H7819 it_H7819 outside_H2351 the_H0834 camp_H4264, 
+@4 and_H0935 hasn’t_H3808 brought_H0935 it_H1931 to_H0413 the_H6440 door_H6607 of_H0376 the_H6440 Tent_H0168 of_H0376 Meeting_H4150 to_H0413 offer_H7126 it_H1931 as_H0935 an_H7126 offering_H7133 to_H0413 Yahweh_H3068 before_H6440 Yahweh’s_H3068 tabernacle_H4908: blood_H1818 shall_H3068 be_H3808 imputed to_H0413 that_H1931 man_H0376. He_H1931 has_H3068 shed_H8210 blood_H1818. That_H1931 man_H0376 shall_H3068 be_H3808 cut_H3772 off_H3772 from_H0935 among_H7130 his_H3068 people_H5971. 
+@5 This_H0834 is_H0834 to_H0413 the_H0853 end that_H0834 the_H0853 children_H1121 of_H1121 Israel_H3478 may_H3068 bring_H0935 their_H3068 sacrifices_H2077, which_H0834 they_H1992 sacrifice_H2077 in_H5921 the_H0853 open_H6440 field_H7704, that_H0834 they_H1992 may_H3068 bring_H0935 them_H0413 to_H0413 Yahweh_H3068, to_H0413 the_H0853 door_H6607 of_H1121 the_H0853 Tent_H0168 of_H1121 Meeting_H4150, to_H0413 the_H0853 priest_H3548, and_H1121 sacrifice_H2077 them_H0413 for_H5921 sacrifices_H2077 of_H1121 peace_H8002 offerings_H8002 to_H0413 Yahweh_H3068. 
+@6 The_H0853 priest_H3548 shall_H3548 sprinkle_H2236 the_H0853 blood_H1818 on_H5921 Yahweh’s_H3068 altar_H4196 at_H5921 the_H0853 door_H6607 of_H3068 the_H0853 Tent_H0168 of_H3068 Meeting_H4150, and_H3068 burn_H6999 the_H0853 fat_H2459 for_H5921 a_H5921 pleasant aroma_H5207 to_H5921 Yahweh_H3068. 
+@7 They_H1992 shall_H3808 no_H3808 more_H5750 sacrifice_H2077 their_H1992 sacrifices_H2077 to_H1961 the_H0853 goat_H8163 idols, after_H0310 which_H0834 they_H1992 play_H2181 the_H0853 prostitute_H2181. This_H2063 shall_H3808 be_H1961 a_H1961 statute_H2708 forever_H5769 to_H1961 them_H1992 throughout_H1755 their_H1992 generations_H1755.’
 
 ## Unity of the place of sacrifice in the tabernacle of testimony
-@8 “You shall say to them, ‘Any man there is of the house of Israel, or of the strangers who live as foreigners among them, who offers a burnt offering or sacrifice, 
-@9 and doesn’t bring it to the door of the Tent of Meeting to sacrifice it to Yahweh, that man shall be cut off from his people.
+@8 “You_H0834 shall_H3478 say_H0559 to_H0413 them_H0413, ‘Any_H4480 man_H0376 there_H5927 is_H0834 of_H1004 the_H0559 house_H1004 of_H1004 Israel_H3478, or_H0176 of_H1004 the_H0559 strangers_H1616 who_H0834 live_H1481 as_H0834 foreigners_H1616 among_H8432 them_H0413, who_H0834 offers_H5927 a_H0176 burnt_H5930 offering_H5927 or_H0176 sacrifice_H2077, 
+@9 and_H0935 doesn’t_H3808 bring_H0935 it_H1931 to_H0413 the_H0853 door_H6607 of_H0376 the_H0853 Tent_H0168 of_H0376 Meeting_H4150 to_H0413 sacrifice it_H1931 to_H0413 Yahweh_H3068, that_H1931 man_H0376 shall_H3068 be_H3808 cut_H3772 off_H3772 from_H0935 his_H3068 people_H5971.
 
 ## Prohibition of any consumption of blood
-@10 “‘Any man of the house of Israel, or of the strangers who live as foreigners among them, who eats any kind of blood, I will set my face against that soul who eats blood, and will cut him off from among his people. 
-@11 For the life of the flesh is in the blood. I have given it to you on the altar to make atonement for your souls; for it is the blood that makes atonement by reason of the life. 
-@12 Therefore I have said to the children of Israel, “No person among you may eat blood, nor may any stranger who lives as a foreigner among you eat blood.”
+@10 “‘Any_H3605 man_H0376 of_H1004 the_H3605 house_H1004 of_H1004 Israel_H3478, or_H4480 of_H1004 the_H3605 strangers_H1616 who_H0834 live_H1481 as_H0834 foreigners_H1616 among_H8432 them_H5414, who_H0834 eats_H0398 any_H3605 kind of_H1004 blood_H1818, I_H0834 will_H0834 set_H5414 my_H3605 face_H6440 against_H4480 that_H0834 soul_H5315 who_H0834 eats_H0398 blood_H1818, and_H3478 will_H0834 cut_H3772 him_H5414 off_H3772 from_H4480 among_H8432 his_H3605 people_H5971. 
+@11 For_H3588 the_H5921 life_H5315 of_H4196 the_H5921 flesh_H1320 is_H1931 in_H5921 the_H5921 blood_H1818. I_H0589 have_H0589 given_H5414 it_H5414 to_H5921 you_H3588 on_H5921 the_H5921 altar_H4196 to_H5921 make_H5414 atonement_H3722 for_H3588 your_H5414 souls_H5315; for_H3588 it_H5414 is_H1931 the_H5921 blood_H1818 that_H3588 makes_H5414 atonement_H3722 by_H5921 reason_H5921 of_H4196 the_H5921 life_H5315. 
+@12 Therefore_H3651 I_H3651 have_H1121 said_H0559 to_H0559 the_H3605 children_H1121 of_H1121 Israel_H3478, “No_H3808 person_H5315 among_H8432 you_H3605 may_H3478 eat_H0398 blood_H1818, nor_H3808 may_H3478 any_H3605 stranger_H1616 who_H3605 lives_H5315 as_H5315 a_H4480 foreigner_H1616 among_H8432 you_H3605 eat_H0398 blood_H1818.”
 
 ## Treatment of game blood and meat from fallen or torn animals
-@13 “‘Whatever man there is of the children of Israel, or of the strangers who live as foreigners among them, who takes in hunting any animal or bird that may be eaten, he shall pour out its blood, and cover it with dust. 
-@14 For as to the life of all flesh, its blood is with its life. Therefore I said to the children of Israel, “You shall not eat the blood of any kind of flesh; for the life of all flesh is its blood. Whoever eats it shall be cut off.” 
+@13 “‘Whatever_H0834 man_H0376 there_H8432 is_H0834 of_H1121 the_H0853 children_H1121 of_H1121 Israel_H3478, or_H0176 of_H1121 the_H0853 strangers_H1616 who_H0834 live_H2416 as_H0834 foreigners_H1616 among_H8432 them_H0853, who_H0834 takes in_H3478 hunting any_H4480 animal_H2416 or_H0176 bird_H5775 that_H0834 may_H0376 be_H0376 eaten_H0398, he_H0834 shall_H1121 pour_H8210 out_H4480 its_H0853 blood_H1818, and_H1121 cover_H3680 it_H0398 with_H0376 dust_H6083. 
+@14 For_H3588 as_H5315 to_H0559 the_H3605 life_H5315 of_H1121 all_H3605 flesh_H1320, its_H3605 blood_H1818 is_H1931 with_H3605 its_H3605 life_H5315. Therefore_H3588 I_H3588 said_H0559 to_H0559 the_H3605 children_H1121 of_H1121 Israel_H3478, “You_H3588 shall_H1121 not_H3808 eat_H0398 the_H3605 blood_H1818 of_H1121 any_H3605 kind of_H1121 flesh_H1320; for_H3588 the_H3605 life_H5315 of_H1121 all_H3605 flesh_H1320 is_H1931 its_H3605 blood_H1818. Whoever_H3605 eats_H0398 it_H1931 shall_H1121 be_H3808 cut_H3772 off_H3772.” 
 
-@15 “‘Every person that eats what dies of itself, or that which is torn by animals, whether he is native-born or a foreigner, shall wash his clothes, and bathe himself in water, and be unclean until the evening. Then he shall be clean. 
-@16 But if he doesn’t wash them, or bathe his flesh, then he shall bear his iniquity.’” 
+@15 “‘Every_H3605 person_H5315 that_H0834 eats_H0398 what_H0834 dies_H5038 of_H4325 itself, or_H5704 that_H0834 which_H0834 is_H0834 torn_H2966 by_H3605 animals, whether he_H0834 is_H0834 native-born_H0249 or_H5704 a_H0834 foreigner_H1616, shall_H5315 wash_H3526 his_H3605 clothes_H0899, and_H0398 bathe_H7364 himself_H5315 in_H7364 water_H4325, and_H0398 be_H5315 unclean_H2930 until_H5704 the_H3605 evening_H6153. Then_H3605 he_H0834 shall_H5315 be_H5315 clean_H2891. 
+@16 But_H0518 if_H0518 he_H0518 doesn’t_H3808 wash_H3526 them_H5375, or_H0518 bathe_H7364 his_H3526 flesh_H1320, then_H5375 he_H0518 shall_H3808 bear_H5375 his_H3526 iniquity_H5771.’” 
 
 # 18 
 ## Laws of chastity and marriage
-@1 Yahweh said to Moses, 
-@2 “Speak to the children of Israel, and say to them, ‘I am Yahweh your God. 
-@3 You shall not do as they do in the land of Egypt, where you lived. You shall not do as they do in the land of Canaan, where I am bringing you. You shall not follow their statutes. 
-@4 You shall do my ordinances. You shall keep my statutes and walk in them. I am Yahweh your God. 
-@5 You shall therefore keep my statutes and my ordinances, which if a man does, he shall live in them. I am Yahweh.
+@1 Yahweh_H3068 said_H0559 to_H0413 Moses_H4872, 
+@2 “Speak_H1696 to_H0413 the_H0559 children_H1121 of_H1121 Israel_H3478, and_H1121 say_H0559 to_H0413 them_H0413, ‘I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430. 
+@3 You_H0834 shall_H0776 not_H3808 do_H6213 as_H0834 they_H0834 do_H6213 in_H3427 the_H0853 land_H0776 of_H0776 Egypt_H4714, where_H0834 you_H0834 lived_H3427. You_H0834 shall_H0776 not_H3808 do_H6213 as_H0834 they_H0834 do_H6213 in_H3427 the_H0853 land_H0776 of_H0776 Canaan_H3667, where_H0834 I_H0589 am_H0589 bringing_H0935 you_H0834. You_H0834 shall_H0776 not_H3808 follow their_H0935 statutes_H2708. 
+@4 You_H6213 shall_H3068 do_H6213 my_H8104 ordinances_H4941. You_H6213 shall_H3068 keep_H8104 my_H8104 statutes_H2708 and_H3068 walk in_H0430 them_H0853. I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430. 
+@5 You_H0834 shall_H3068 therefore_H3068 keep_H8104 my_H8104 statutes_H2708 and_H3068 my_H8104 ordinances_H4941, which_H0834 if_H0834 a_H0834 man_H0120 does_H6213, he_H0834 shall_H3068 live in_H3068 them_H0853. I_H0589 am_H0589 Yahweh_H3068.
 
 ## Prohibition of incest; List of prohibited marriages
-@6 “‘None of you shall approach any close relatives, to uncover their nakedness: I am Yahweh. 
+@6 “‘None_H3808 of_H0376 you_H3605 shall_H3068 approach_H7126 any_H3605 close_H7126 relatives_H7607, to_H0413 uncover_H1540 their_H3605 nakedness_H6172: I_H0589 am_H0589 Yahweh_H3068. 
 
-@7 “‘You shall not uncover the nakedness of your father, nor the nakedness of your mother: she is your mother. You shall not uncover her nakedness. 
+@7 “‘You_H3808 shall_H3808 not_H3808 uncover_H1540 the_H3808 nakedness_H6172 of_H0001 your_H3808 father_H0001, nor_H3808 the_H3808 nakedness_H6172 of_H0001 your_H3808 mother_H0517: she_H1931 is_H1931 your_H3808 mother_H0517. You_H3808 shall_H3808 not_H3808 uncover_H1540 her_H1540 nakedness_H6172. 
 
-@8 “‘You shall not uncover the nakedness of your father’s wife. It is your father’s nakedness. 
+@8 “‘You_H3808 shall_H3808 not_H3808 uncover_H1540 the_H3808 nakedness_H6172 of_H0001 your_H3808 father’s_H0001 wife_H0802. It_H1931 is_H1931 your_H3808 father’s_H0001 nakedness_H6172. 
 
-@9 “‘You shall not uncover the nakedness of your sister, the daughter of your father, or the daughter of your mother, whether born at home or born abroad. 
+@9 “‘You_H3808 shall_H1004 not_H3808 uncover_H1540 the_H0176 nakedness_H6172 of_H1004 your_H3808 sister_H0269, the_H0176 daughter_H1323 of_H1004 your_H3808 father_H0001, or_H0176 the_H0176 daughter_H1323 of_H1004 your_H3808 mother_H0517, whether_H0176 born_H4138 at_H1004 home_H1004 or_H0176 born_H4138 abroad_H2351. 
 
-@10 “‘You shall not uncover the nakedness of your son’s daughter, or of your daughter’s daughter, even their nakedness; for theirs is your own nakedness. 
+@10 “‘You_H3588 shall_H1121 not_H3808 uncover_H1540 the_H3588 nakedness_H6172 of_H1121 your_H3588 son’s_H1121 daughter_H1323, or_H0176 of_H1121 your_H3588 daughter’s_H1323 daughter_H1323, even_H3588 their_H3588 nakedness_H6172; for_H3588 theirs is_H1121 your_H3588 own nakedness_H6172. 
 
-@11 “‘You shall not uncover the nakedness of your father’s wife’s daughter, conceived by your father, since she is your sister. 
+@11 “‘You_H3808 shall_H3808 not_H3808 uncover_H1540 the_H3808 nakedness_H6172 of_H1323 your_H3808 father’s_H0001 wife’s_H0802 daughter_H1323, conceived by_H0802 your_H3808 father_H0001, since she_H1931 is_H1931 your_H3808 sister_H0269. 
 
-@12 “‘You shall not uncover the nakedness of your father’s sister. She is your father’s near kinswoman. 
+@12 “‘You_H3808 shall_H3808 not_H3808 uncover_H1540 the_H3808 nakedness_H6172 of_H0001 your_H3808 father’s_H0001 sister_H0269. She_H1931 is_H1931 your_H3808 father’s_H0001 near_H3808 kinswoman. 
 
-@13 “‘You shall not uncover the nakedness of your mother’s sister, for she is your mother’s near kinswoman. 
+@13 “‘You_H3588 shall_H3808 not_H3808 uncover_H1540 the_H3588 nakedness_H6172 of_H0269 your_H3588 mother’s_H0517 sister_H0269, for_H3588 she_H1931 is_H1931 your_H3588 mother’s_H0517 near_H3808 kinswoman. 
 
-@14 “‘You shall not uncover the nakedness of your father’s brother. You shall not approach his wife. She is your aunt. 
+@14 “‘You_H3808 shall_H3808 not_H3808 uncover_H1540 the_H0413 nakedness_H6172 of_H0001 your_H3808 father’s_H0001 brother_H0251. You_H3808 shall_H3808 not_H3808 approach_H7126 his_H7126 wife_H0802. She_H1931 is_H1931 your_H3808 aunt_H1733. 
 
-@15 “‘You shall not uncover the nakedness of your daughter-in-law. She is your son’s wife. You shall not uncover her nakedness. 
+@15 “‘You_H3808 shall_H1121 not_H3808 uncover_H1540 the_H3808 nakedness_H6172 of_H1121 your_H3808 daughter-in-law_H3618. She_H1931 is_H1931 your_H3808 son’s_H1121 wife_H0802. You_H3808 shall_H1121 not_H3808 uncover_H1540 her_H1540 nakedness_H6172. 
 
-@16 “‘You shall not uncover the nakedness of your brother’s wife. It is your brother’s nakedness. 
+@16 “‘You_H3808 shall_H3808 not_H3808 uncover_H1540 the_H3808 nakedness_H6172 of_H0802 your_H3808 brother’s_H0251 wife_H0802. It_H1931 is_H1931 your_H3808 brother’s_H0251 nakedness_H6172. 
 
-@17 “‘You shall not uncover the nakedness of a woman and her daughter. You shall not take her son’s daughter, or her daughter’s daughter, to uncover her nakedness. They are near kinswomen. It is wickedness. 
+@17 “‘You_H3808 shall_H1121 not_H3808 uncover_H1540 the_H0853 nakedness_H6172 of_H1121 a_H3947 woman_H0802 and_H1121 her_H1540 daughter_H1323. You_H3808 shall_H1121 not_H3808 take_H3947 her_H1540 son’s_H1121 daughter_H1323, or_H3808 her_H1540 daughter’s_H1323 daughter_H1323, to_H1121 uncover_H1540 her_H1540 nakedness_H6172. They_H3808 are_H1121 near_H3808 kinswomen. It_H1931 is_H1931 wickedness_H2154. 
 
-@18 “‘You shall not take a wife in addition to her sister, to be a rival, to uncover her nakedness, while her sister is still alive.
+@18 “‘You_H5921 shall_H3808 not_H3808 take_H3947 a_H3947 wife_H0802 in_H5921 addition_H5921 to_H0413 her_H0413 sister_H0269, to_H0413 be_H3808 a_H3947 rival, to_H0413 uncover_H1540 her_H0413 nakedness_H6172, while_H5921 her_H0413 sister_H0269 is_H0802 still alive_H2416.
 
 ## Warning of fornicating sins
-@19 “‘You shall not approach a woman to uncover her nakedness, as long as she is impure by her uncleanness. 
+@19 “‘You_H3808 shall_H3808 not_H3808 approach_H7126 a_H7126 woman_H0802 to_H0413 uncover_H1540 her_H0413 nakedness_H6172, as_H0413 long_H0413 as_H0413 she_H3808 is_H0802 impure by_H0413 her_H0413 uncleanness_H5079. 
 
-@20 “‘You shall not lie carnally with your neighbor’s wife, and defile yourself with her. 
+@20 “‘You_H5414 shall_H3808 not_H3808 lie carnally with_H0413 your_H5414 neighbor’s_H5997 wife_H0802, and_H0802 defile_H2930 yourself_H0413 with_H0413 her_H0413. 
 
-@21 “‘You shall not give any of your children as a sacrifice to Molech. You shall not profane the name of your God. I am Yahweh. 
+@21 “‘You_H5414 shall_H3068 not_H3808 give_H5414 any_H5414 of_H0430 your_H3068 children_H2233 as_H3068 a_H5414 sacrifice to_H3068 Molech_H4432. You_H5414 shall_H3068 not_H3808 profane_H2490 the_H0853 name_H8034 of_H0430 your_H3068 God_H0430. I_H0589 am_H0589 Yahweh_H3068. 
 
-@22 “‘You shall not lie with a man as with a woman. That is detestable. 
+@22 “‘You_H3808 shall_H3808 not_H3808 lie_H7901 with_H0854 a_H3808 man_H2145 as_H2145 with_H0854 a_H3808 woman_H0802. That_H1931 is_H1931 detestable_H8441. 
 
-@23 “‘You shall not lie with any animal to defile yourself with it. No woman may give herself to an animal, to lie down with it: it is a perversion. 
+@23 “‘You_H5414 shall_H3808 not_H3808 lie with_H0802 any_H3605 animal_H0929 to_H5414 defile_H2930 yourself_H5414 with_H0802 it_H5414. No_H3808 woman_H0802 may_H5414 give_H5414 herself_H1931 to_H5414 an_H5414 animal_H0929, to_H5414 lie down_H5414 with_H0802 it_H5414: it_H5414 is_H1931 a_H5414 perversion_H8397. 
 
-@24 “‘Don’t defile yourselves in any of these things; for in all these the nations which I am casting out before you were defiled. 
-@25 The land was defiled. Therefore I punished its iniquity, and the land vomited out her inhabitants. 
-@26 You therefore shall keep my statutes and my ordinances, and shall not do any of these abominations; neither the native-born, nor the stranger who lives as a foreigner among you 
-@27 (for the men of the land that were before you had done all these abominations, and the land became defiled), 
-@28 that the land not vomit you out also, when you defile it, as it vomited out the nation that was before you. 
+@24 “‘Don’t_H0408 defile_H2930 yourselves_H2930 in_H6440 any_H3605 of_H6440 these_H0428 things_H0428; for_H3588 in_H6440 all_H3605 these_H0428 the_H3605 nations_H1471 which_H0834 I_H0589 am_H0589 casting_H7971 out_H7971 before_H6440 you_H0834 were_H0834 defiled_H2930. 
+@25 The_H0853 land_H0776 was_H0776 defiled_H2930. Therefore_H0776 I_H0776 punished_H6485 its_H0853 iniquity_H5771, and_H0776 the_H0853 land_H0776 vomited out_H5921 her_H5921 inhabitants_H3427. 
+@26 You_H0859 therefore_H0859 shall_H3808 keep_H8104 my_H3605 statutes_H2708 and_H4941 my_H3605 ordinances_H4941, and_H4941 shall_H3808 not_H3808 do_H6213 any_H3605 of_H3605 these_H0428 abominations_H8441; neither_H3808 the_H3605 native-born_H0249, nor_H3808 the_H3605 stranger_H1616 who_H3605 lives_H1481 as_H4941 a_H3808 foreigner_H1616 among_H8432 you_H0859 
+@27 (for_H3588 the_H3605 men_H0376 of_H0776 the_H3605 land_H0776 that_H0834 were_H0834 before_H6440 you_H0834 had_H0834 done_H6213 all_H3605 these_H0411 abominations_H8441, and_H0776 the_H3605 land_H0776 became_H2930 defiled_H2930), 
+@28 that_H0834 the_H0853 land_H0776 not_H3808 vomit_H6958 you_H0834 out_H6440 also_H0853, when_H0834 you_H0834 defile_H2930 it_H2930, as_H0834 it_H2930 vomited out_H6440 the_H0853 nation_H1471 that_H0834 was_H0834 before_H6440 you_H0834. 
 
-@29 “‘For whoever shall do any of these abominations, even the souls that do them shall be cut off from among their people. 
-@30 Therefore you shall keep my requirements, that you do not practice any of these abominable customs which were practiced before you, and that you do not defile yourselves with them. I am Yahweh your God.’” 
+@29 “‘For_H3588 whoever_H3605 shall_H5315 do_H6213 any_H3605 of_H3605 these_H0428 abominations_H8441, even_H3588 the_H3605 souls_H5315 that_H0834 do_H6213 them_H6213 shall_H5315 be_H5315 cut_H3772 off_H3772 from_H3772 among_H7130 their_H3605 people_H5971. 
+@30 Therefore_H3068 you_H0834 shall_H3068 keep_H8104 my_H8104 requirements, that_H0834 you_H0834 do_H6213 not_H3808 practice_H6213 any_H6440 of_H0430 these_H0834 abominable_H8441 customs_H2708 which_H0834 were_H0834 practiced_H6213 before_H6440 you_H0834, and_H3068 that_H0834 you_H0834 do_H6213 not_H3808 defile_H2930 yourselves_H2930 with_H3068 them_H0853. I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430.’” 
 
 # 19 
 ## All kinds of regulations based on the Ten Commandments
-@1 Yahweh spoke to Moses, saying, 
-@2 “Speak to all the congregation of the children of Israel, and tell them, ‘You shall be holy; for I, Yahweh your God, am holy. 
+@1 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
+@2 “Speak_H1696 to_H0413 all_H3605 the_H3605 congregation_H5712 of_H1121 the_H3605 children_H1121 of_H1121 Israel_H3478, and_H1121 tell_H0559 them_H0413, ‘You_H3588 shall_H1121 be_H1961 holy_H6918; for_H3588 I_H0589, Yahweh_H3068 your_H3068 God_H0430, am_H0589 holy_H6918. 
 
-@3 “‘Each one of you shall respect his mother and his father. You shall keep my Sabbaths. I am Yahweh your God. 
+@3 “‘Each_H0376 one_H0376 of_H0376 you_H0853 shall_H3068 respect his_H8104 mother_H0517 and_H3068 his_H8104 father_H0001. You_H0853 shall_H3068 keep_H8104 my_H8104 Sabbaths_H7676. I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430. 
 
-@4 “‘Don’t turn to idols, nor make molten gods for yourselves. I am Yahweh your God. 
+@4 “‘Don’t_H0408 turn_H6437 to_H0413 idols_H0457, nor_H3808 make_H6213 molten gods_H0430 for_H0413 yourselves_H3068. I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430. 
 
-@5 “‘When you offer a sacrifice of peace offerings to Yahweh, you shall offer it so that you may be accepted. 
-@6 It shall be eaten the same day you offer it, and on the next day. If anything remains until the third day, it shall be burned with fire. 
-@7 If it is eaten at all on the third day, it is an abomination. It will not be accepted; 
-@8 but everyone who eats it shall bear his iniquity, because he has profaned the holy thing of Yahweh, and that soul shall be cut off from his people. 
+@5 “‘When_H3588 you_H3588 offer_H2076 a_H3588 sacrifice_H2077 of_H3068 peace_H8002 offerings_H8002 to_H3068 Yahweh_H3068, you_H3588 shall_H3068 offer_H2076 it_H3588 so_H3588 that_H3588 you_H3588 may_H3068 be_H3068 accepted_H7522. 
+@6 It_H0398 shall_H3117 be_H3117 eaten_H0398 the_H5704 same day_H3117 you_H3117 offer_H2077 it_H0398, and_H0398 on_H3117 the_H5704 next_H4283 day_H3117. If anything_H0398 remains_H3498 until_H5704 the_H5704 third_H7992 day_H3117, it_H0398 shall_H3117 be_H3117 burned_H8313 with_H8313 fire_H0784. 
+@7 If_H0518 it_H1931 is_H1931 eaten_H0398 at_H3117 all_H3117 on_H3117 the_H3117 third_H7992 day_H3117, it_H1931 is_H1931 an_H0518 abomination. It_H1931 will_H3808 not_H3808 be_H3808 accepted_H7521; 
+@8 but_H3588 everyone who_H1931 eats_H0398 it_H1931 shall_H3068 bear_H5375 his_H3068 iniquity_H5771, because_H3588 he_H1931 has_H3068 profaned_H2490 the_H0853 holy_H6944 thing_H6944 of_H3068 Yahweh_H3068, and_H3068 that_H3588 soul_H5315 shall_H3068 be_H3068 cut_H3772 off_H3772 from_H3772 his_H3068 people_H5971. 
 
-@9 “‘When you reap the harvest of your land, you shall not wholly reap the corners of your field, neither shall you gather the gleanings of your harvest. 
-@10 You shall not glean your vineyard, neither shall you gather the fallen grapes of your vineyard. You shall leave them for the poor and for the foreigner. I am Yahweh your God. 
+@9 “‘When_H3615 you_H0853 reap_H7114 the_H0853 harvest_H7105 of_H0776 your_H3808 land_H0776, you_H0853 shall_H0776 not_H3808 wholly reap_H7114 the_H0853 corners_H6285 of_H0776 your_H3808 field_H7704, neither_H3808 shall_H0776 you_H0853 gather_H3950 the_H0853 gleanings_H3951 of_H0776 your_H3808 harvest_H7105. 
+@10 You_H3808 shall_H3068 not_H3808 glean_H3950 your_H3068 vineyard_H3754, neither_H3808 shall_H3068 you_H3808 gather_H3950 the_H0853 fallen_H6528 grapes of_H0430 your_H3068 vineyard_H3754. You_H3808 shall_H3068 leave_H5800 them_H0853 for_H3068 the_H0853 poor_H6041 and_H3068 for_H3068 the_H0853 foreigner_H1616. I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430. 
 
-@11 “‘You shall not steal. 
+@11 “‘You_H3808 shall_H0376 not_H3808 steal_H1589. 
 
-“‘You shall not lie. 
+“‘You_H3808 shall_H0376 not_H3808 lie_H8266. 
 
-“‘You shall not deceive one another. 
+“‘You_H3808 shall_H0376 not_H3808 deceive_H3584 one_H0376 another_H0376. 
 
-@12 “‘You shall not swear by my name falsely, and profane the name of your God. I am Yahweh. 
+@12 “‘You_H3808 shall_H3068 not_H3808 swear_H7650 by_H3068 my_H3068 name_H8034 falsely_H8267, and_H3068 profane_H2490 the_H0853 name_H8034 of_H0430 your_H3068 God_H0430. I_H0589 am_H0589 Yahweh_H3068. 
 
-@13 “‘You shall not oppress your neighbor, nor rob him. 
+@13 “‘You_H5704 shall_H3808 not_H3808 oppress_H6231 your_H3808 neighbor_H7453, nor_H3808 rob_H1497 him_H0853. 
 
-“‘The wages of a hired servant shall not remain with you all night until the morning. 
+“‘The_H0853 wages_H6468 of_H3808 a_H5704 hired_H7916 servant_H7916 shall_H3808 not_H3808 remain_H3885 with_H0854 you_H5704 all_H5704 night until_H5704 the_H0853 morning_H1242. 
 
-@14 “‘You shall not curse the deaf, nor put a stumbling block before the blind; but you shall fear your God. I am Yahweh. 
+@14 “‘You_H5414 shall_H3068 not_H3808 curse_H7043 the_H6440 deaf_H2795, nor_H3808 put_H5414 a_H5414 stumbling_H4383 block_H4383 before_H6440 the_H6440 blind_H5787; but_H3808 you_H5414 shall_H3068 fear_H3372 your_H3068 God_H0430. I_H0589 am_H0589 Yahweh_H3068. 
 
-@15 “‘You shall do no injustice in judgment. You shall not be partial to the poor, nor show favoritism to the great; but you shall judge your neighbor in righteousness. 
+@15 “‘You_H6440 shall_H3808 do_H6213 no_H3808 injustice_H5766 in_H1419 judgment_H4941. You_H6440 shall_H3808 not_H3808 be_H3808 partial_H1921 to_H6440 the_H6440 poor_H1800, nor_H3808 show_H5375 favoritism to_H6440 the_H6440 great_H1419; but_H3808 you_H6440 shall_H3808 judge_H8199 your_H6440 neighbor_H5997 in_H1419 righteousness_H6664. 
 
-@16 “‘You shall not go around as a slanderer among your people. 
+@16 “‘You_H5921 shall_H3068 not_H3808 go around_H5921 as_H3068 a_H5921 slanderer_H7400 among_H5921 your_H3068 people_H5971. 
 
-“‘You shall not endanger the life^a^ of your neighbor. I am Yahweh. 
+“‘You_H5921 shall_H3068 not_H3808 endanger the_H5921 life_H1818^a^ of_H3068 your_H3068 neighbor_H7453. I_H0589 am_H0589 Yahweh_H3068. 
 ^a^[**19:16** literally, “blood”]
 
-@17 “‘You shall not hate your brother in your heart. You shall surely rebuke your neighbor, and not bear sin because of him. 
+@17 “‘You_H5921 shall_H3808 not_H3808 hate_H8130 your_H5921 brother_H0251 in_H5921 your_H5921 heart_H3824. You_H5921 shall_H3808 surely_H3198 rebuke_H3198 your_H5921 neighbor_H5997, and_H0251 not_H3808 bear_H5375 sin_H2399 because_H5921 of_H5921 him_H5921. 
 
-@18 “‘You shall not take vengeance, nor bear any grudge against the children of your people; but you shall love your neighbor as yourself. I am Yahweh.
+@18 “‘You_H0853 shall_H1121 not_H3808 take_H5358 vengeance_H5358, nor_H3808 bear_H5201 any_H5201 grudge_H5201 against_H7453 the_H0853 children_H1121 of_H1121 your_H3068 people_H5971; but_H3808 you_H0853 shall_H1121 love_H0157 your_H3068 neighbor_H7453 as_H3644 yourself. I_H0589 am_H0589 Yahweh_H3068.
 
 ## Various religious and moral regulations, prohibitions of pagan customs
-@19 “‘You shall keep my statutes. 
+@19 “‘You_H5921 shall_H3808 keep_H8104 my_H8104 statutes_H2708. 
 
-“‘You shall not cross-breed different kinds of animals. 
+“‘You_H5921 shall_H3808 not_H3808 cross-breed different kinds_H3610 of_H5921 animals_H0929. 
 
-“‘You shall not sow your field with two kinds of seed; 
+“‘You_H5921 shall_H3808 not_H3808 sow_H2232 your_H5921 field_H7704 with_H5921 two_H3610 kinds_H3610 of_H5921 seed_H2232; 
 
-“‘Don’t wear a garment made of two kinds of material. 
+“‘Don’t_H3808 wear_H5927 a_H5921 garment_H0899 made_H5927 of_H5921 two_H3610 kinds_H3610 of_H5921 material_H8162. 
 
-@20 “‘If a man lies carnally with a woman who is a slave girl, pledged to be married to another man, and not ransomed or given her freedom; they shall be punished. They shall not be put to death, because she was not free. 
-@21 He shall bring his trespass offering to Yahweh, to the door of the Tent of Meeting, even a ram for a trespass offering. 
-@22 The priest shall make atonement for him with the ram of the trespass offering before Yahweh for his sin which he has committed; and the sin which he has committed shall be forgiven him. 
+@20 “‘If_H3588 a_H1961 man_H0376 lies_H7901 carnally with_H0854 a_H1961 woman_H0802 who_H0376 is_H1931 a_H1961 slave_H8198 girl_H8198, pledged_H5414 to_H4191 be_H1961 married_H0802 to_H4191 another_H0376 man_H0376, and_H0376 not_H3808 ransomed_H6299 or_H0176 given_H5414 her_H0802 freedom_H2668; they_H3588 shall_H0376 be_H1961 punished. They_H3588 shall_H0376 not_H3808 be_H1961 put_H5414 to_H4191 death_H4191, because_H3588 she_H1931 was_H1961 not_H3808 free_H2666. 
+@21 He_H3068 shall_H3068 bring_H0935 his_H3068 trespass offering_H0817 to_H0413 Yahweh_H3068, to_H0413 the_H0853 door_H6607 of_H3068 the_H0853 Tent_H0168 of_H3068 Meeting_H4150, even_H0853 a_H0935 ram_H0352 for_H0413 a_H0935 trespass offering_H0817. 
+@22 The_H6440 priest_H3548 shall_H3548 make atonement_H3722 for_H5921 him_H5921 with_H3068 the_H6440 ram_H0352 of_H3068 the_H6440 trespass offering_H0817 before_H6440 Yahweh_H3068 for_H5921 his_H5921 sin_H2398 which_H0834 he_H0834 has_H3068 committed_H2398; and_H3068 the_H6440 sin_H2398 which_H0834 he_H0834 has_H3068 committed_H2398 shall_H3548 be_H3068 forgiven_H5545 him_H5921. 
 
-@23 “‘When you come into the land, and have planted all kinds of trees for food, then you shall count their fruit as forbidden.^a^ For three years it shall be forbidden to you. It shall not be eaten. 
-@24 But in the fourth year all its fruit shall be holy, for giving praise to Yahweh. 
-@25 In the fifth year you shall eat its fruit, that it may yield its increase to you. I am Yahweh your God. 
+@23 “‘When_H3588 you_H3588 come_H0935 into_H0413 the_H3605 land_H0776, and_H0935 have_H1961 planted_H5193 all_H3605 kinds_H3605 of_H0776 trees_H6086 for_H3588 food_H3978, then_H1961 you_H3588 shall_H0776 count_H8141 their_H3605 fruit_H6529 as_H1961 forbidden_H6189.^a^ For_H3588 three_H7969 years_H8141 it_H3588 shall_H0776 be_H1961 forbidden_H6189 to_H0413 you_H3588. It_H3588 shall_H0776 not_H3808 be_H1961 eaten_H0398. 
+@24 But_H1961 in_H8141 the_H3605 fourth_H7243 year_H8141 all_H3605 its_H3605 fruit_H6529 shall_H3068 be_H1961 holy_H6944, for_H3605 giving praise_H1974 to_H1961 Yahweh_H3068. 
+@25 In_H8141 the_H0853 fifth_H2549 year_H8141 you_H0853 shall_H3068 eat_H0398 its_H0853 fruit_H6529, that_H3068 it_H0398 may_H0430 yield_H8393 its_H0853 increase_H3254 to_H3068 you_H0853. I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430. 
 ^a^[**19:23** literally, “uncircumcised”]
 
-@26 “‘You shall not eat any meat with the blood still in it. You shall not use enchantments, nor practice sorcery. 
+@26 “‘You_H5921 shall_H3808 not_H3808 eat_H0398 any_H0398 meat with_H5921 the_H5921 blood_H1818 still_H6049 in_H5921 it_H5921. You_H5921 shall_H3808 not_H3808 use_H0398 enchantments_H5172, nor_H3808 practice_H5172 sorcery. 
 
-@27 “‘You shall not cut the hair on the sides of your head or clip off the edge of your beard. 
+@27 “‘You_H3808 shall_H3808 not_H3808 cut the_H0853 hair_H7218 on_H6285 the_H0853 sides_H6285 of_H7218 your_H3808 head_H7218 or_H3808 clip off_H0853 the_H0853 edge of_H7218 your_H3808 beard_H2206. 
 
-@28 “‘You shall not make any cuttings in your flesh for the dead, nor tattoo any marks on you. I am Yahweh. 
+@28 “‘You_H5414 shall_H3068 not_H3808 make_H5414 any_H5414 cuttings in_H3068 your_H3068 flesh_H1320 for_H3068 the_H5414 dead_H5315, nor_H3808 tattoo any_H5414 marks_H3793 on_H3068 you_H5414. I_H0589 am_H0589 Yahweh_H3068. 
 
-@29 “‘Don’t profane your daughter, to make her a prostitute; lest the land fall to prostitution, and the land become full of wickedness. 
+@29 “‘Don’t_H0408 profane_H2490 your_H3808 daughter_H1323, to_H0776 make her_H4390 a_H0776 prostitute_H2181; lest the_H0853 land_H0776 fall_H2181 to_H0776 prostitution, and_H0776 the_H0853 land_H0776 become_H4390 full_H4390 of_H0776 wickedness_H2154. 
 
-@30 “‘You shall keep my Sabbaths, and reverence my sanctuary; I am Yahweh. 
+@30 “‘You_H0853 shall_H3068 keep_H8104 my_H8104 Sabbaths_H7676, and_H3068 reverence my_H8104 sanctuary_H4720; I_H0589 am_H0589 Yahweh_H3068. 
 
-@31 “‘Don’t turn to those who are mediums, nor to the wizards. Don’t seek them out, to be defiled by them. I am Yahweh your God.
+@31 “‘Don’t_H0408 turn_H6437 to_H0413 those who_H3068 are_H3068 mediums_H0178, nor_H0408 to_H0413 the_H0413 wizards. Don’t_H0408 seek_H1245 them_H0413 out_H0413, to_H0413 be_H0408 defiled_H2930 by_H3068 them_H0413. I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430.
 
 ## Various duties towards the neighbor
-@32 “‘You shall rise up before the gray head and honor the face of the elderly; and you shall fear your God. I am Yahweh. 
+@32 “‘You_H6440 shall_H3068 rise_H6965 up_H6965 before_H6440 the_H6440 gray_H7872 head_H6440 and_H6965 honor_H1921 the_H6440 face_H6440 of_H0430 the_H6440 elderly; and_H6965 you_H6440 shall_H3068 fear_H3372 your_H3068 God_H0430. I_H0589 am_H0589 Yahweh_H3068. 
 
-@33 “‘If a stranger lives as a foreigner with you in your land, you shall not do him wrong. 
-@34 The stranger who lives as a foreigner with you shall be to you as the native-born among you, and you shall love him as yourself; for you lived as foreigners in the land of Egypt. I am Yahweh your God. 
+@33 “‘If_H3588 a_H3588 stranger_H1616 lives_H1481 as_H3588 a_H3588 foreigner_H1616 with_H0854 you_H3588 in_H0776 your_H3588 land_H0776, you_H3588 shall_H0776 not_H3808 do_H3238 him_H0853 wrong_H3238. 
+@34 The_H3588 stranger_H1616 who_H3068 lives_H1481 as_H1961 a_H1961 foreigner_H1616 with_H0854 you_H3588 shall_H3068 be_H1961 to_H1961 you_H3588 as_H1961 the_H3588 native-born_H0249 among_H4480 you_H3588, and_H3068 you_H3588 shall_H3068 love_H0157 him_H0854 as_H1961 yourself_H0854; for_H3588 you_H3588 lived_H1481 as_H1961 foreigners_H1616 in_H0430 the_H3588 land_H0776 of_H0776 Egypt_H4714. I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430. 
 
-@35 “‘You shall do no unrighteousness in judgment, in measures of length, of weight, or of quantity. 
-@36 You shall have just balances, just weights, a just ephah,^a^ and a just hin.^b^ I am Yahweh your God, who brought you out of the land of Egypt. 
+@35 “‘You_H6213 shall_H3808 do_H6213 no_H3808 unrighteousness_H5766 in_H3808 judgment_H4941, in_H3808 measures of_H4941 length, of_H4941 weight_H4948, or_H3808 of_H4941 quantity. 
+@36 You_H0834 shall_H3068 have_H1961 just_H0834 balances_H3976, just_H0834 weights_H0068, a_H1961 just_H0834 ephah_H0374,^a^ and_H3068 a_H1961 just_H0834 hin_H1969.^b^ I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430, who_H0834 brought_H3318 you_H0834 out_H3318 of_H0776 the_H0853 land_H0776 of_H0776 Egypt_H4714. 
 ^a^[**19:36** 1 ephah is about 22 liters or about 2/3 of a bushel] ^b^[**19:36** A hin is about 6.5 liters or 1.7 gallons.]
 
-@37 “‘You shall observe all my statutes and all my ordinances, and do them. I am Yahweh.’” 
+@37 “‘You_H3605 shall_H3068 observe_H8104 all_H3605 my_H3605 statutes_H2708 and_H3068 all_H3605 my_H3605 ordinances_H4941, and_H3068 do_H6213 them_H0853. I_H0589 am_H0589 Yahweh_H3068.’” 
 
 # 20 
 ## Penal provisions especially for prohibited offenses
-@1 Yahweh spoke to Moses, saying, 
-@2 “Moreover, you shall tell the children of Israel, ‘Anyone of the children of Israel, or of the strangers who live as foreigners in Israel, who gives any of his offspring^a^ to Molech shall surely be put to death. The people of the land shall stone that person with stones. 
-@3 I also will set my face against that person, and will cut him off from among his people, because he has given of his offspring to Molech, to defile my sanctuary, and to profane my holy name. 
-@4 If the people of the land all hide their eyes from that person when he gives of his offspring to Molech, and don’t put him to death, 
-@5 then I will set my face against that man and against his family, and will cut him off, and all who play the prostitute after him to play the prostitute with Molech, from among their people. 
+@1 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
+@2 “Moreover, you_H0834 shall_H1121 tell_H0559 the_H0559 children_H1121 of_H1121 Israel_H3478, ‘Anyone_H0376 of_H1121 the_H0559 children_H1121 of_H1121 Israel_H3478, or_H4480 of_H1121 the_H0559 strangers_H1616 who_H0834 live_H1481 as_H0834 foreigners_H1616 in_H0413 Israel_H3478, who_H0834 gives_H5414 any_H4480 of_H1121 his_H5414 offspring_H2233^a^ to_H0413 Molech_H4432 shall_H1121 surely_H4191 be_H4191 put_H5414 to_H0413 death_H4191. The_H0559 people_H5971 of_H1121 the_H0559 land_H0776 shall_H1121 stone_H0068 that_H0834 person_H0376 with_H0413 stones_H0068. 
+@3 I_H0589 also_H0853 will_H0376 set_H5414 my_H5414 face_H6440 against_H6440 that_H3588 person_H0376, and_H0376 will_H0376 cut_H3772 him_H5414 off_H3772 from_H3772 among_H7130 his_H5414 people_H5971, because_H3588 he_H1931 has_H0376 given_H5414 of_H0376 his_H5414 offspring_H2233 to_H5414 Molech_H4432, to_H5414 defile_H2930 my_H5414 sanctuary_H4720, and_H0376 to_H5414 profane_H2490 my_H5414 holy_H6944 name_H8034. 
+@4 If_H0518 the_H0853 people_H5971 of_H0776 the_H0853 land_H0776 all_H0376 hide_H5956 their_H5414 eyes_H5869 from_H4480 that_H1931 person_H0376 when_H0518 he_H1931 gives_H5414 of_H0776 his_H5414 offspring_H2233 to_H4191 Molech_H4432, and_H0776 don’t put_H5414 him_H5414 to_H4191 death_H4191, 
+@5 then_H0853 I_H0589 will_H0376 set_H7760 my_H3605 face_H6440 against_H6440 that_H3605 man_H0376 and_H0376 against_H6440 his_H3605 family_H4940, and_H0376 will_H0376 cut_H3772 him_H0853 off_H3772, and_H0376 all_H3605 who_H3605 play_H2181 the_H3605 prostitute_H2181 after_H0310 him_H0853 to_H0376 play_H2181 the_H3605 prostitute_H2181 with_H0376 Molech_H4432, from_H3772 among_H7130 their_H3605 people_H5971. 
 ^a^[**20:2** or, seed]
 
-@6 “‘The person that turns to those who are mediums and wizards, to play the prostitute after them, I will even set my face against that person, and will cut him off from among his people.
+@6 “‘The_H0853 person_H5315 that_H0834 turns_H6437 to_H0413 those_H0834 who_H0834 are_H0834 mediums_H0178 and_H6440 wizards, to_H0413 play_H2181 the_H0853 prostitute_H2181 after_H0310 them_H0413, I_H0834 will_H0834 even_H0853 set_H5414 my_H5414 face_H6440 against_H0413 that_H0834 person_H5315, and_H6440 will_H0834 cut_H3772 him_H0413 off_H3772 from_H3772 among_H7130 his_H5414 people_H5971.
 
 ## Warning to sanctify; Punishments for various sins and crimes
-@7 “‘Sanctify yourselves therefore, and be holy; for I am Yahweh your God. 
-@8 You shall keep my statutes, and do them. I am Yahweh who sanctifies you. 
+@7 “‘Sanctify_H6942 yourselves_H3068 therefore_H3068, and_H3068 be_H1961 holy_H6918; for_H3588 I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430. 
+@8 You_H6213 shall_H3068 keep_H8104 my_H8104 statutes_H2708, and_H3068 do_H6213 them_H0853. I_H0589 am_H0589 Yahweh_H3068 who_H3068 sanctifies_H6942 you_H6213. 
 
-@9 “‘For everyone who curses his father or his mother shall surely be put to death. He has cursed his father or his mother. His blood shall be upon himself. 
+@9 “‘For_H3588 everyone_H0376 who_H0834 curses_H7043 his_H0834 father_H0001 or_H0001 his_H0834 mother_H0517 shall_H0376 surely_H3588 be_H4191 put_H4191 to_H4191 death_H4191. He_H0834 has_H0834 cursed_H7043 his_H0834 father_H0001 or_H0001 his_H0834 mother_H0517. His_H0834 blood_H1818 shall_H0376 be_H4191 upon himself_H0376. 
 
-@10 “‘The man who commits adultery with another man’s wife, even he who commits adultery with his neighbor’s wife, the adulterer and the adulteress shall surely be put to death. 
+@10 “‘The_H0834 man_H0376 who_H0834 commits_H5003 adultery_H5003 with_H0854 another_H7453 man’s_H0376 wife_H0802, even_H7453 he_H0834 who_H0834 commits_H5003 adultery_H5003 with_H0854 his_H0834 neighbor’s_H7453 wife_H0802, the_H0834 adulterer_H5003 and_H0376 the_H0834 adulteress_H5003 shall_H0376 surely_H4191 be_H4191 put_H4191 to_H4191 death_H4191. 
 
-@11 “‘The man who lies with his father’s wife has uncovered his father’s nakedness. Both of them shall surely be put to death. Their blood shall be upon themselves. 
+@11 “‘The_H0834 man_H0376 who_H0834 lies_H7901 with_H0854 his_H0834 father’s_H0001 wife_H0802 has_H0834 uncovered_H1540 his_H0834 father’s_H0001 nakedness_H6172. Both_H8147 of_H0376 them_H1540 shall_H0376 surely_H4191 be_H4191 put_H4191 to_H4191 death_H4191. Their_H0834 blood_H1818 shall_H0376 be_H4191 upon_H0802 themselves. 
 
-@12 “‘If a man lies with his daughter-in-law, both of them shall surely be put to death. They have committed a perversion. Their blood shall be upon themselves. 
+@12 “‘If_H0834 a_H0834 man_H0376 lies_H7901 with_H0854 his_H0834 daughter-in-law_H3618, both_H8147 of_H0376 them_H0854 shall_H0376 surely_H4191 be_H4191 put_H4191 to_H4191 death_H4191. They_H0834 have_H0834 committed_H6213 a_H0834 perversion_H8397. Their_H0834 blood_H1818 shall_H0376 be_H4191 upon themselves. 
 
-@13 “‘If a man lies with a male, as with a woman, both of them have committed an abomination. They shall surely be put to death. Their blood shall be upon themselves. 
+@13 “‘If_H0834 a_H0834 man_H0376 lies_H7901 with_H0854 a_H0834 male_H2145, as_H0834 with_H0854 a_H0834 woman_H0802, both_H8147 of_H0376 them_H0854 have_H0834 committed_H6213 an_H0376 abomination_H8441. They_H0834 shall_H0376 surely_H4191 be_H4191 put_H4191 to_H4191 death_H4191. Their_H0834 blood_H1818 shall_H0376 be_H4191 upon_H0802 themselves. 
 
-@14 “‘If a man takes a wife and her mother, it is wickedness. They shall be burned with fire, both he and they, that there may be no wickedness among you. 
+@14 “‘If_H0834 a_H1961 man_H0376 takes_H3947 a_H1961 wife_H0802 and_H0376 her_H3947 mother_H0517, it_H1931 is_H0834 wickedness_H2154. They_H0834 shall_H0376 be_H1961 burned_H8313 with_H8313 fire_H0784, both he_H0834 and_H0376 they_H0834, that_H0834 there_H1961 may_H1961 be_H1961 no_H3808 wickedness_H2154 among_H8432 you_H0834. 
 
-@15 “‘If a man lies with an animal, he shall surely be put to death; and you shall kill the animal. 
+@15 “‘If_H0834 a_H5414 man_H0376 lies_H0834 with_H0376 an_H5414 animal_H0929, he_H0834 shall_H0376 surely_H4191 be_H4191 put_H5414 to_H4191 death_H4191; and_H0376 you_H0834 shall_H0376 kill_H2026 the_H0853 animal_H0929. 
 
-@16 “‘If a woman approaches any animal and lies with it, you shall kill the woman and the animal. They shall surely be put to death. Their blood shall be upon them. 
+@16 “‘If_H0834 a_H7126 woman_H0802 approaches_H7126 any_H3605 animal_H0929 and_H0802 lies_H0834 with_H0854 it_H7126, you_H0834 shall_H0802 kill_H2026 the_H3605 woman_H0802 and_H0802 the_H3605 animal_H0929. They_H0834 shall_H0802 surely_H4191 be_H4191 put_H4191 to_H0413 death_H4191. Their_H3605 blood_H1818 shall_H0802 be_H4191 upon_H0413 them_H0413. 
 
-@17 “‘If a man takes his sister—his father’s daughter, or his mother’s daughter—and sees her nakedness, and she sees his nakedness, it is a shameful thing. They shall be cut off in the sight of the children of their people. He has uncovered his sister’s nakedness. He shall bear his iniquity. 
+@17 “‘If_H0834 a_H3947 man_H0376 takes_H3947 his_H3947 sister_H0269—his_H3947 father’s_H0001 daughter_H1323, or_H0176 his_H3947 mother’s_H0517 daughter_H1323—and_H1121 sees_H7200 her_H1540 nakedness_H6172, and_H1121 she_H1931 sees_H7200 his_H3947 nakedness_H6172, it_H1931 is_H0834 a_H3947 shameful thing_H1931. They_H0834 shall_H1121 be_H0376 cut_H3772 off_H3772 in_H0376 the_H0853 sight_H5869 of_H1121 the_H0853 children_H1121 of_H1121 their_H5375 people_H5971. He_H0834 has_H0834 uncovered_H1540 his_H3947 sister’s_H0269 nakedness_H6172. He_H0834 shall_H1121 bear_H5375 his_H3947 iniquity_H5771. 
 
-@18 “‘If a man lies with a woman having her monthly period, and uncovers her nakedness, he has made her fountain naked, and she has uncovered the fountain of her blood. Both of them shall be cut off from among their people. 
+@18 “‘If_H0834 a_H3772 man_H0376 lies_H7901 with_H0854 a_H3772 woman_H0802 having her_H1540 monthly period, and_H0376 uncovers_H1540 her_H1540 nakedness_H6172, he_H0834 has_H0834 made_H3772 her_H1540 fountain_H4726 naked_H6168, and_H0376 she_H1931 has_H0834 uncovered_H1540 the_H0853 fountain_H4726 of_H0376 her_H1540 blood_H1818. Both_H8147 of_H0376 them_H0853 shall_H0376 be_H0376 cut_H3772 off_H3772 from_H3772 among_H7130 their_H7130 people_H5971. 
 
-@19 “‘You shall not uncover the nakedness of your mother’s sister, nor of your father’s sister, for he has made his close relative naked. They shall bear their iniquity. 
-@20 If a man lies with his uncle’s wife, he has uncovered his uncle’s nakedness. They shall bear their sin. They shall die childless. 
+@19 “‘You_H3588 shall_H3808 not_H3808 uncover_H1540 the_H0853 nakedness_H6172 of_H0001 your_H3588 mother’s_H0517 sister_H0269, nor_H3808 of_H0001 your_H3588 father’s_H0001 sister_H0269, for_H3588 he_H3588 has_H0001 made_H6168 his_H5375 close relative_H7607 naked_H6168. They_H3588 shall_H3808 bear_H5375 their_H5375 iniquity_H5771. 
+@20 If_H0834 a_H5375 man_H0376 lies_H7901 with_H0854 his_H5375 uncle’s_H1730 wife_H1733, he_H0834 has_H0834 uncovered_H1540 his_H5375 uncle’s_H1730 nakedness_H6172. They_H0834 shall_H0376 bear_H5375 their_H5375 sin_H2399. They_H0834 shall_H0376 die_H4191 childless_H6185. 
 
-@21 “‘If a man takes his brother’s wife, it is an impurity. He has uncovered his brother’s nakedness. They shall be childless.
+@21 “‘If_H0834 a_H1961 man_H0376 takes_H3947 his_H3947 brother’s_H0251 wife_H0802, it_H1931 is_H0834 an_H1961 impurity_H5079. He_H0834 has_H0834 uncovered_H1540 his_H3947 brother’s_H0251 nakedness_H6172. They_H0834 shall_H0376 be_H1961 childless_H6185.
 
 ## Exhortation to be holy for Israel as a people set apart for God
-@22 “‘You shall therefore keep all my statutes and all my ordinances, and do them, that the land where I am bringing you to dwell may not vomit you out. 
-@23 You shall not walk in the customs of the nation which I am casting out before you; for they did all these things, and therefore I abhorred them. 
-@24 But I have said to you, “You shall inherit their land, and I will give it to you to possess it, a land flowing with milk and honey.” I am Yahweh your God, who has separated you from the peoples. 
+@22 “‘You_H0834 shall_H0776 therefore_H0776 keep_H8104 all_H3605 my_H3605 statutes_H2708 and_H0935 all_H3605 my_H3605 ordinances_H4941, and_H0935 do_H6213 them_H0853, that_H0834 the_H3605 land_H0776 where_H0834 I_H0589 am_H0589 bringing_H0935 you_H0834 to_H0935 dwell_H3427 may_H0776 not_H3808 vomit_H6958 you_H0834 out_H3605. 
+@23 You_H0834 shall_H3808 not_H3808 walk in_H6440 the_H3605 customs_H2708 of_H6440 the_H3605 nation_H1471 which_H0834 I_H0589 am_H0589 casting_H7971 out_H7971 before_H6440 you_H0834; for_H3588 they_H0834 did_H6213 all_H3605 these_H0428 things_H0428, and_H7971 therefore_H3588 I_H0589 abhorred_H6973 them_H0853. 
+@24 But_H0859 I_H0589 have_H0834 said_H0559 to_H0559 you_H0859, “You_H0859 shall_H3068 inherit_H3423 their_H3068 land_H0776, and_H3068 I_H0589 will_H3068 give_H5414 it_H5414 to_H0559 you_H0859 to_H0559 possess_H3423 it_H5414, a_H5414 land_H0776 flowing_H2100 with_H2100 milk_H2461 and_H3068 honey_H1706.” I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430, who_H0834 has_H3068 separated_H0914 you_H0859 from_H4480 the_H0853 peoples_H5971. 
 
-@25 “‘You shall therefore make a distinction between the clean animal and the unclean, and between the unclean fowl and the clean. You shall not make yourselves abominable by animal, or by bird, or by anything with which the ground teems, which I have separated from you as unclean for you. 
-@26 You shall be holy to me, for I, Yahweh, am holy, and have set you apart from the peoples, that you should be mine. 
+@25 “‘You_H0834 shall_H3808 therefore_H0834 make_H0914 a_H0834 distinction_H0914 between_H0996 the_H3605 clean_H2889 animal_H0929 and_H0929 the_H3605 unclean_H2931, and_H0929 between_H0996 the_H3605 unclean_H2931 fowl_H5775 and_H0929 the_H3605 clean_H2889. You_H0834 shall_H3808 not_H3808 make_H0914 yourselves_H5315 abominable by_H3605 animal_H0929, or_H3808 by_H3605 bird_H5775, or_H3808 by_H3605 anything_H3605 with_H3605 which_H0834 the_H3605 ground_H0127 teems, which_H0834 I_H0834 have_H0834 separated_H0914 from_H5315 you_H0834 as_H0834 unclean_H2931 for_H3605 you_H0834. 
+@26 You_H3588 shall_H3068 be_H1961 holy_H6918 to_H1961 me_H4480, for_H3588 I_H0589, Yahweh_H3068, am_H0589 holy_H6918, and_H3068 have_H1961 set_H0914 you_H3588 apart_H0914 from_H4480 the_H0853 peoples_H5971, that_H3588 you_H3588 should_H3068 be_H1961 mine_H4480. 
 
-@27 “‘A man or a woman that is a medium or is a wizard shall surely be put to death. They shall be stoned with stones. Their blood shall be upon themselves.’” 
+@27 “‘A_H1961 man_H0376 or_H0176 a_H1961 woman_H0802 that_H3588 is_H0376 a_H1961 medium_H0178 or_H0176 is_H0376 a_H1961 wizard shall_H0376 surely_H3588 be_H1961 put_H4191 to_H4191 death_H4191. They_H3588 shall_H0376 be_H1961 stoned_H7275 with_H0376 stones_H0068. Their_H3588 blood_H1818 shall_H0376 be_H1961 upon_H1961 themselves.’” 
 
 # 21 
 ## Death Pollution Ordinances, Mourning Customs, and Obstacles to Marriage
-@1 Yahweh said to Moses, “Speak to the priests, the sons of Aaron, and say to them, ‘A priest shall not defile himself for the dead among his people, 
-@2 except for his relatives that are near to him: for his mother, for his father, for his son, for his daughter, for his brother, 
-@3 and for his virgin sister who is near to him, who has had no husband; for her he may defile himself. 
-@4 He shall not defile himself, being a chief man among his people, to profane himself. 
+@1 Yahweh_H3068 said_H0559 to_H0413 Moses_H4872, “Speak_H0559 to_H0413 the_H0559 priests_H3548, the_H0559 sons_H1121 of_H1121 Aaron_H0175, and_H1121 say_H0559 to_H0413 them_H0413, ‘A_H3068 priest_H3548 shall_H3548 not_H3808 defile_H2930 himself_H5315 for_H0413 the_H0559 dead_H5315 among_H0413 his_H3068 people_H5971, 
+@2 except_H0518 for_H3588 his_H0518 relatives_H0251 that_H3588 are_H1121 near_H7138 to_H0413 him_H0413: for_H3588 his_H0518 mother_H0517, for_H3588 his_H0518 father_H0001, for_H3588 his_H0518 son_H1121, for_H3588 his_H0518 daughter_H1323, for_H3588 his_H0518 brother_H0251, 
+@3 and_H0376 for_H0413 his_H0834 virgin_H1330 sister_H0269 who_H0834 is_H0834 near_H7138 to_H0413 him_H0413, who_H0834 has_H0834 had_H0834 no_H3808 husband_H0376; for_H0413 her_H0413 he_H0834 may_H1961 defile_H2930 himself_H2930. 
+@4 He_H3808 shall_H3808 not_H3808 defile_H2930 himself_H2930, being a_H3808 chief man_H1167 among_H3808 his_H3808 people_H5971, to_H3808 profane_H2490 himself_H2930. 
 
-@5 “‘They shall not shave their heads or shave off the corners of their beards or make any cuttings in their flesh. 
-@6 They shall be holy to their God, and not profane the name of their God, for they offer the offerings of Yahweh made by fire, the bread of their God. Therefore they shall be holy. 
+@5 “‘They_H3808 shall_H3808 not_H3808 shave_H1548 their_H3808 heads_H7218 or_H3808 shave_H1548 off_H1548 the_H3808 corners_H6285 of_H7218 their_H3808 beards_H2206 or_H3808 make_H7139 any_H7139 cuttings in_H1320 their_H3808 flesh_H1320. 
+@6 They_H1992 shall_H3068 be_H1961 holy_H6944 to_H1961 their_H3068 God_H0430, and_H3068 not_H3808 profane_H2490 the_H0853 name_H8034 of_H0430 their_H3068 God_H0430, for_H3588 they_H1992 offer_H7126 the_H0853 offerings_H0801 of_H0430 Yahweh_H3068 made_H1961 by_H0801 fire_H0801, the_H0853 bread_H3899 of_H0430 their_H3068 God_H0430. Therefore_H3068 they_H1992 shall_H3068 be_H1961 holy_H6944. 
 
-@7 “‘They shall not marry a woman who is a prostitute, or profane. A priest shall not marry a woman divorced from her husband; for he is holy to his God. 
-@8 Therefore you shall sanctify him, for he offers the bread of your God. He shall be holy to you, for I Yahweh, who sanctify you, am holy. 
+@7 “‘They_H3588 shall_H0376 not_H3808 marry_H3947 a_H3947 woman_H0802 who_H0376 is_H1931 a_H3947 prostitute_H2181, or_H3808 profane_H2491. A_H3947 priest shall_H0376 not_H3808 marry_H3947 a_H3947 woman_H0802 divorced_H1644 from_H0376 her_H3947 husband_H0376; for_H3588 he_H1931 is_H1931 holy_H6918 to_H0376 his_H3947 God_H0430. 
+@8 Therefore_H3068 you_H3588 shall_H3068 sanctify_H6942 him_H0853, for_H3588 he_H1931 offers_H7126 the_H0853 bread_H3899 of_H0430 your_H3068 God_H0430. He_H1931 shall_H3068 be_H1961 holy_H6918 to_H1961 you_H3588, for_H3588 I_H0589 Yahweh_H3068, who_H1931 sanctify_H6942 you_H3588, am_H0589 holy_H6918. 
 
-@9 “‘The daughter of any priest, if she profanes herself by playing the prostitute, she profanes her father. She shall be burned with fire. 
+@9 “‘The_H0853 daughter_H1323 of_H0376 any_H0376 priest_H3548, if_H3588 she_H1931 profanes_H2490 herself_H1931 by_H0784 playing_H2181 the_H0853 prostitute_H2181, she_H1931 profanes_H2490 her_H3588 father_H0001. She_H1931 shall_H3548 be_H0376 burned_H8313 with_H8313 fire_H0784. 
 
-@10 “‘He who is the high priest among his brothers, upon whose head the anointing oil is poured, and who is consecrated to put on the garments, shall not let the hair of his head hang loose, or tear his clothes. 
-@11 He must not go in to any dead body, or defile himself for his father or for his mother. 
-@12 He shall not go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God is upon him. I am Yahweh. 
+@10 “‘He_H0834 who_H0834 is_H0834 the_H0853 high_H1419 priest_H3548 among_H5921 his_H5921 brothers_H0251, upon_H5921 whose_H0834 head_H7218 the_H0853 anointing_H4888 oil_H8081 is_H0834 poured_H3332, and_H3027 who_H0834 is_H0834 consecrated to_H5921 put_H3847 on_H5921 the_H0853 garments_H0899, shall_H3548 not_H3808 let_H3808 the_H0853 hair_H7218 of_H3027 his_H5921 head_H7218 hang loose_H5921, or_H3808 tear_H6533 his_H5921 clothes_H0899. 
+@11 He_H3808 must_H4191 not_H3808 go_H0935 in_H5921 to_H0935 any_H3605 dead_H4191 body_H5315, or_H3808 defile_H2930 himself_H5315 for_H5921 his_H3605 father_H0001 or_H3808 for_H5921 his_H3605 mother_H0517. 
+@12 He_H3588 shall_H3068 not_H3808 go_H3318 out_H3318 of_H0430 the_H0853 sanctuary_H4720, nor_H3808 profane_H2490 the_H0853 sanctuary_H4720 of_H0430 his_H5921 God_H0430; for_H3588 the_H0853 crown_H5145 of_H0430 the_H0853 anointing_H4888 oil_H8081 of_H0430 his_H5921 God_H0430 is_H3068 upon_H5921 him_H5921. I_H0589 am_H0589 Yahweh_H3068. 
 
-@13 “‘He shall take a wife in her virginity. 
-@14 He shall not marry a widow, or one divorced, or a woman who has been defiled, or a prostitute. He shall take a virgin of his own people as a wife. 
-@15 He shall not profane his offspring among his people, for I am Yahweh who sanctifies him.’”
+@13 “‘He_H1931 shall_H0802 take_H3947 a_H3947 wife_H0802 in_H0802 her_H3947 virginity_H1331. 
+@14 He_H3588 shall_H3808 not_H3808 marry_H3947 a_H3947 widow_H0490, or_H0518 one_H3808 divorced_H1644, or_H0518 a_H3947 woman_H0802 who_H0428 has_H3588 been_H3808 defiled, or_H0518 a_H3947 prostitute_H2181. He_H3588 shall_H3808 take_H3947 a_H3947 virgin_H1330 of_H0802 his_H3947 own people_H5971 as_H3588 a_H3947 wife_H0802. 
+@15 He_H3588 shall_H3068 not_H3808 profane_H2490 his_H3068 offspring_H2233 among_H3808 his_H3068 people_H5971, for_H3588 I_H0589 am_H0589 Yahweh_H3068 who_H3068 sanctifies_H6942 him_H3588.’”
 
 ## Physical defects excluding the priesthood
-@16 Yahweh spoke to Moses, saying, 
-@17 “Say to Aaron, ‘None of your offspring throughout their generations who has a defect may approach to offer the bread of his God. 
-@18 For whatever man he is that has a defect, he shall not draw near: a blind man, or a lame, or he who has a flat nose, or any deformity, 
-@19 or a man who has an injured foot, or an injured hand, 
-@20 or hunchbacked, or a dwarf, or one who has a defect in his eye, or an itching disease, or scabs, or who has damaged testicles. 
-@21 No man of the offspring of Aaron the priest who has a defect shall come near to offer the offerings of Yahweh made by fire. Since he has a defect, he shall not come near to offer the bread of his God. 
-@22 He shall eat the bread of his God, both of the most holy, and of the holy. 
-@23 He shall not come near to the veil, nor come near to the altar, because he has a defect; that he may not profane my sanctuaries, for I am Yahweh who sanctifies them.’” 
+@16 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
+@17 “Say_H0559 to_H0413 Aaron_H0175, ‘None_H3808 of_H0376 your_H0834 offspring_H2233 throughout_H1755 their_H1961 generations_H1755 who_H0834 has_H0430 a_H1961 defect_H3971 may_H1961 approach_H7126 to_H0413 offer_H7126 the_H0559 bread_H3899 of_H0376 his_H1961 God_H0430. 
+@18 For_H3588 whatever_H0834 man_H0376 he_H0834 is_H0834 that_H0834 has_H0834 a_H3588 defect_H3971, he_H0834 shall_H0376 not_H3808 draw_H7126 near_H7126: a_H3588 blind_H5787 man_H0376, or_H0176 a_H3588 lame_H6455, or_H0176 he_H0834 who_H0834 has_H0834 a_H3588 flat nose, or_H0176 any_H3605 deformity, 
+@19 or_H0176 a_H1961 man_H0376 who_H0834 has_H0834 an_H1961 injured foot_H7272, or_H0176 an_H1961 injured hand_H3027, 
+@20 or_H0176 hunchbacked, or_H0176 a_H0176 dwarf_H1851, or_H0176 one_H0176 who has_H5869 a_H0176 defect_H8400 in_H0176 his_H0176 eye_H5869, or_H0176 an_H0176 itching disease, or_H0176 scabs_H3217, or_H0176 who has_H5869 damaged testicles_H0810. 
+@21 No_H3808 man_H0376 of_H0376 the_H3605 offspring_H2233 of_H0376 Aaron_H0175 the_H3605 priest_H3548 who_H0834 has_H3068 a_H7126 defect_H3971 shall_H3548 come_H7126 near_H7126 to_H3068 offer_H7126 the_H3605 offerings_H0801 of_H0376 Yahweh_H3068 made_H3605 by_H0801 fire_H0801. Since_H0834 he_H0834 has_H3068 a_H7126 defect_H3971, he_H0834 shall_H3548 not_H3808 come_H7126 near_H7126 to_H3068 offer_H7126 the_H3605 bread_H3899 of_H0376 his_H3605 God_H0430. 
+@22 He_H0430 shall eat_H0398 the_H4480 bread_H3899 of_H0430 his_H4480 God_H0430, both_H4480 of_H0430 the_H4480 most_H6944 holy_H6944, and_H0430 of_H0430 the_H4480 holy_H6944. 
+@23 He_H3588 shall_H3068 not_H3808 come_H0935 near_H5066 to_H0413 the_H0853 veil_H6532, nor_H3808 come_H0935 near_H5066 to_H0413 the_H0853 altar_H4196, because_H3588 he_H3588 has_H3068 a_H3588 defect_H3971; that_H3588 he_H3588 may_H3068 not_H3808 profane_H2490 my_H3068 sanctuaries_H4720, for_H3588 I_H0589 am_H0589 Yahweh_H3068 who_H3068 sanctifies_H6942 them_H0413.’” 
 
-@24 So Moses spoke to Aaron, and to his sons, and to all the children of Israel. 
+@24 So_H1696 Moses_H4872 spoke_H1696 to_H0413 Aaron_H0175, and_H1121 to_H0413 his_H3605 sons_H1121, and_H1121 to_H0413 all_H3605 the_H3605 children_H1121 of_H1121 Israel_H3478. 
 
 # 22 
 ## Behavior towards sacred gifts
-@1 Yahweh spoke to Moses, saying, 
-@2 “Tell Aaron and his sons to separate themselves from the holy things of the children of Israel, which they make holy to me, and that they not profane my holy name. I am Yahweh. 
+@1 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
+@2 “Tell_H1696 Aaron_H0175 and_H1121 his_H3068 sons_H1121 to_H0413 separate themselves_H6942 from_H3478 the_H0853 holy_H6944 things_H6944 of_H1121 the_H0853 children_H1121 of_H1121 Israel_H3478, which_H0834 they_H1992 make_H8034 holy_H6944 to_H0413 me_H0413, and_H1121 that_H0834 they_H1992 not_H3808 profane_H2490 my_H3068 holy_H6944 name_H8034. I_H0589 am_H0589 Yahweh_H3068. 
 
-@3 “Tell them, ‘If anyone of all your offspring throughout your generations approaches the holy things which the children of Israel make holy to Yahweh, having his uncleanness on him, that soul shall be cut off from before me. I am Yahweh. 
+@3 “Tell_H0559 them_H0413, ‘If_H0834 anyone_H3605 of_H1121 all_H3605 your_H3068 offspring_H2233 throughout_H3605 your_H3068 generations_H1755 approaches_H7126 the_H3605 holy_H6944 things_H6944 which_H0834 the_H3605 children_H1121 of_H1121 Israel_H3478 make_H3772 holy_H6944 to_H0413 Yahweh_H3068, having_H5315 his_H3605 uncleanness_H2932 on_H5921 him_H0413, that_H0834 soul_H5315 shall_H1121 be_H0376 cut_H3772 off_H3772 from_H5921 before_H6440 me_H0413. I_H0589 am_H0589 Yahweh_H3068. 
 
-@4 “‘Whoever of the offspring of Aaron is a leper or has a discharge shall not eat of the holy things until he is clean. Whoever touches anything that is unclean by the dead, or a man who has a seminal emission, 
-@5 or whoever touches any creeping thing by which he may be made unclean, or a man from whom he may become unclean, whatever uncleanness he has— 
-@6 the person that touches any such shall be unclean until the evening, and shall not eat of the holy things unless he bathes his body in water. 
-@7 When the sun is down, he shall be clean; and afterward he shall eat of the holy things, because it is his bread. 
-@8 He shall not eat that which dies of itself or is torn by animals, defiling himself by it. I am Yahweh. 
+@4 “‘Whoever_H3605 of_H0376 the_H3605 offspring_H2233 of_H0376 Aaron_H0175 is_H0834 a_H0176 leper_H6879 or_H0176 has_H0834 a_H0176 discharge_H2100 shall_H0175 not_H3808 eat_H0398 of_H0376 the_H3605 holy_H6944 things_H6944 until_H5704 he_H0834 is_H0834 clean_H2891. Whoever_H3605 touches_H5060 anything_H3605 that_H0834 is_H0834 unclean_H2931 by_H3605 the_H3605 dead_H5315, or_H0176 a_H0176 man_H0376 who_H0834 has_H0834 a_H0176 seminal_H2233 emission_H7902, 
+@5 or_H0176 whoever_H3605 touches_H5060 any_H3605 creeping thing_H8318 by_H3605 which_H0834 he_H0834 may_H0376 be_H0376 made_H2930 unclean_H2930, or_H0176 a_H0176 man_H0376 from_H0376 whom_H0834 he_H0834 may_H0376 become_H2930 unclean_H2930, whatever_H0834 uncleanness_H2932 he_H0834 has_H0834— 
+@6 the_H0834 person_H5315 that_H0834 touches_H5060 any_H4480 such_H0834 shall_H3808 be_H3808 unclean_H2930 until_H5704 the_H0834 evening_H6153, and_H0398 shall_H3808 not_H3808 eat_H0398 of_H4480 the_H0834 holy_H6944 things_H6944 unless_H0518 he_H0834 bathes his_H0834 body_H1320 in_H7364 water_H4325. 
+@7 When_H3588 the_H3588 sun_H8121 is_H1931 down_H3588, he_H1931 shall_H1931 be_H4480 clean_H2891; and_H0935 afterward_H0310 he_H1931 shall_H1931 eat_H0398 of_H4480 the_H3588 holy_H6944 things_H6944, because_H3588 it_H1931 is_H1931 his_H0935 bread_H3899. 
+@8 He_H3068 shall_H3068 not_H3808 eat_H0398 that_H3068 which_H5038 dies_H5038 of_H3068 itself or_H3808 is_H3068 torn_H2966 by_H3068 animals, defiling_H2930 himself_H2930 by_H3068 it_H0398. I_H0589 am_H0589 Yahweh_H3068. 
 
-@9 “‘They shall therefore follow my commandment, lest they bear sin for it and die in it, if they profane it. I am Yahweh who sanctifies them. 
+@9 “‘They_H3588 shall_H3068 therefore_H3068 follow_H3068 my_H8104 commandment, lest they_H3588 bear_H5375 sin_H2399 for_H3588 it_H5921 and_H3068 die_H4191 in_H5921 it_H5921, if_H3588 they_H3588 profane_H2490 it_H5921. I_H0589 am_H0589 Yahweh_H3068 who_H3068 sanctifies_H6942 them_H0853. 
 
-@10 “‘No stranger shall eat of the holy thing: a foreigner living with the priests, or a hired servant, shall not eat of the holy thing. 
-@11 But if a priest buys a slave, purchased by his money, he shall eat of it; and those who are born in his house shall eat of his bread. 
-@12 If a priest’s daughter is married to an outsider, she shall not eat of the heave offering of the holy things. 
-@13 But if a priest’s daughter is a widow, or divorced, and has no child, and has returned to her father’s house as in her youth, she may eat of her father’s bread; but no stranger shall eat any of it. 
+@10 “‘No_H3808 stranger shall_H3548 eat_H0398 of_H3605 the_H3605 holy_H6944 thing_H6944: a_H3808 foreigner_H2114 living with_H0398 the_H3605 priests_H3548, or_H3808 a_H3808 hired_H7916 servant_H7916, shall_H3548 not_H3808 eat_H0398 of_H3605 the_H3605 holy_H6944 thing_H6944. 
+@11 But_H3588 if_H3588 a_H3588 priest_H3548 buys_H7069 a_H3588 slave_H5315, purchased_H7069 by_H0398 his_H3588 money_H3701, he_H1931 shall_H3548 eat_H0398 of_H1004 it_H1931; and_H1004 those_H1992 who_H1931 are_H1992 born_H3211 in_H1004 his_H3588 house_H1004 shall_H3548 eat_H0398 of_H1004 his_H3588 bread_H3899. 
+@12 If_H3588 a_H1961 priest’s_H3548 daughter_H1323 is_H1931 married to_H1961 an_H1961 outsider, she_H1931 shall_H3548 not_H3808 eat_H0398 of_H0376 the_H3588 heave_H8641 offering_H8641 of_H0376 the_H3588 holy_H6944 things_H6944. 
+@13 But_H3588 if_H3588 a_H1961 priest’s_H3548 daughter_H1323 is_H0369 a_H1961 widow_H0490, or_H3808 divorced_H1644, and_H7725 has_H0369 no_H3808 child_H2233, and_H7725 has_H0369 returned_H7725 to_H0413 her_H3605 father’s_H0001 house_H1004 as_H1961 in_H0413 her_H3605 youth_H5271, she_H3588 may_H1961 eat_H0398 of_H1004 her_H3605 father’s_H0001 bread_H3899; but_H3588 no_H3808 stranger shall_H3548 eat_H0398 any_H3605 of_H1004 it_H3588. 
 
-@14 “‘If a man eats something holy unwittingly, then he shall add the fifth part of its value to it, and shall give the holy thing to the priest. 
-@15 The priests shall not profane the holy things of the children of Israel, which they offer to Yahweh, 
-@16 and so cause them to bear the iniquity that brings guilt when they eat their holy things; for I am Yahweh who sanctifies them.’”
+@14 “‘If_H3588 a_H3588 man_H0376 eats_H0398 something holy_H6944 unwittingly, then_H3254 he_H3588 shall_H3548 add_H3254 the_H5921 fifth_H2549 part_H5921 of_H0376 its_H5414 value to_H5921 it_H5414, and_H0398 shall_H3548 give_H5414 the_H5921 holy_H6944 thing_H6944 to_H5921 the_H5921 priest_H3548. 
+@15 The_H0853 priests_H3808 shall_H1121 not_H3808 profane_H2490 the_H0853 holy_H6944 things_H6944 of_H1121 the_H0853 children_H1121 of_H1121 Israel_H3478, which_H0834 they_H0834 offer_H7311 to_H3068 Yahweh_H3068, 
+@16 and_H3068 so_H5375 cause_H0819 them_H0853 to_H3068 bear_H5375 the_H0853 iniquity_H5771 that_H3588 brings guilt_H5771 when_H3588 they_H3588 eat_H0398 their_H3068 holy_H6944 things_H6944; for_H3588 I_H0589 am_H0589 Yahweh_H3068 who_H3068 sanctifies_H6942 them_H0853.’”
 
 ## Sinlessness of slaughtered animals
-@17 Yahweh spoke to Moses, saying, 
-@18 “Speak to Aaron, and to his sons, and to all the children of Israel, and say to them, ‘Whoever is of the house of Israel, or of the foreigners in Israel, who offers his offering, whether it is any of their vows or any of their free will offerings, which they offer to Yahweh for a burnt offering: 
-@19 that you may be accepted, you shall offer a male without defect, of the bulls, of the sheep, or of the goats. 
-@20 But you shall not offer whatever has a defect, for it shall not be acceptable for you. 
-@21 Whoever offers a sacrifice of peace offerings to Yahweh to accomplish a vow, or for a free will offering of the herd or of the flock, it shall be perfect to be accepted. It shall have no defect. 
-@22 You shall not offer what is blind, is injured, is maimed, has a wart, is festering, or has a running sore to Yahweh, nor make an offering by fire of them on the altar to Yahweh. 
-@23 Either a bull or a lamb that has any deformity or lacking in his parts, that you may offer for a free will offering; but for a vow it shall not be accepted. 
-@24 You must not offer to Yahweh that which has its testicles bruised, crushed, broken, or cut. You must not do this in your land. 
-@25 You must not offer any of these as the bread of your God from the hand of a foreigner, because their corruption is in them. There is a defect in them. They shall not be accepted for you.’”
+@17 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
+@18 “Speak_H1696 to_H0413 Aaron_H0175, and_H1121 to_H0413 his_H3605 sons_H1121, and_H1121 to_H0413 all_H3605 the_H3605 children_H1121 of_H1121 Israel_H3478, and_H1121 say_H0559 to_H0413 them_H0413, ‘Whoever_H3605 is_H0834 of_H1121 the_H3605 house_H1004 of_H1121 Israel_H3478, or_H4480 of_H1121 the_H3605 foreigners_H1616 in_H0413 Israel_H3478, who_H0834 offers_H7126 his_H3605 offering_H5071, whether_H4480 it_H7126 is_H0834 any_H3605 of_H1121 their_H3605 vows_H5088 or_H4480 any_H3605 of_H1121 their_H3605 free will_H3068 offerings_H5071, which_H0834 they_H0834 offer_H7126 to_H0413 Yahweh_H3068 for_H0413 a_H4480 burnt_H5930 offering_H5071: 
+@19 that you_H8549 may be_H1241 accepted_H7522, you_H8549 shall_H5795 offer a_H2145 male_H2145 without_H8549 defect_H8549, of_H7522 the_H1241 bulls_H1241, of_H7522 the_H1241 sheep_H3775, or_H1241 of_H7522 the_H1241 goats_H5795. 
+@20 But_H3588 you_H0834 shall_H3808 not_H3808 offer_H7126 whatever_H0834 has_H0834 a_H1961 defect_H3971, for_H3588 it_H3588 shall_H3808 not_H3808 be_H1961 acceptable_H7522 for_H3588 you_H0834. 
+@21 Whoever_H3605 offers_H7126 a_H1961 sacrifice_H2077 of_H0376 peace_H8002 offerings_H8002 to_H1961 Yahweh_H3068 to_H1961 accomplish a_H1961 vow_H5088, or_H0176 for_H3588 a_H1961 free will_H3068 offering_H5071 of_H0376 the_H3605 herd_H1241 or_H0176 of_H0376 the_H3605 flock_H6629, it_H3588 shall_H3068 be_H1961 perfect_H8549 to_H1961 be_H1961 accepted_H7522. It_H3588 shall_H3068 have_H1961 no_H3808 defect_H8549. 
+@22 You_H5414 shall_H3068 not_H3808 offer_H7126 what_H5921 is_H3068 blind, is_H3068 injured_H7665, is_H3068 maimed_H2782, has_H3068 a_H5414 wart, is_H3068 festering, or_H0176 has_H3068 a_H5414 running_H2990 sore_H2990 to_H5921 Yahweh_H3068, nor_H3808 make_H5414 an_H7126 offering_H0801 by_H0801 fire_H0801 of_H3068 them_H5414 on_H5921 the_H5921 altar_H4196 to_H5921 Yahweh_H3068. 
+@23 Either a_H3808 bull_H7794 or_H3808 a_H3808 lamb_H7716 that_H3808 has_H6213 any_H3808 deformity or_H3808 lacking in_H3808 his_H3808 parts, that_H3808 you_H6213 may_H6213 offer_H6213 for_H3808 a_H3808 free will_H3808 offering_H5071; but_H3808 for_H3808 a_H3808 vow_H5088 it_H6213 shall_H3808 not_H3808 be_H3808 accepted_H7521. 
+@24 You_H6213 must_H3808 not_H3808 offer_H7126 to_H3068 Yahweh_H3068 that_H3068 which has_H3068 its_H3772 testicles bruised_H4600, crushed_H3807, broken_H5423, or_H3808 cut_H3772. You_H6213 must_H3808 not_H3808 do_H6213 this_H3068 in_H3068 your_H3068 land_H0776. 
+@25 You_H3588 must_H0853 not_H3808 offer_H7126 any_H3605 of_H1121 these_H0428 as_H1121 the_H3605 bread_H3899 of_H1121 your_H3605 God_H0430 from_H3027 the_H3605 hand_H3027 of_H1121 a_H3588 foreigner_H5236, because_H3588 their_H3605 corruption is_H0430 in_H0430 them_H0853. There_H3605 is_H0430 a_H3588 defect_H3971 in_H0430 them_H0853. They_H3588 shall_H1121 not_H3808 be_H3808 accepted_H7521 for_H3588 you_H3588.’”
 
 ## Three more sacrifice rules
-@26 Yahweh spoke to Moses, saying, 
-@27 “When a bull, a sheep, or a goat is born, it shall remain seven days with its mother. From the eighth day on it shall be accepted for the offering of an offering made by fire to Yahweh. 
-@28 Whether it is a cow or ewe, you shall not kill it and its young both in one day. 
+@26 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
+@27 “When_H3588 a_H1961 bull_H7794, a_H1961 sheep_H3775, or_H0176 a_H1961 goat_H5795 is_H3068 born_H3205, it_H3588 shall_H3068 remain_H1961 seven_H7651 days_H3117 with_H3068 its_H8478 mother_H0517. From_H8478 the_H3588 eighth_H8066 day_H3117 on_H3117 it_H3588 shall_H3068 be_H1961 accepted_H7521 for_H3588 the_H3588 offering_H0801 of_H3068 an_H1961 offering_H0801 made_H1961 by_H0801 fire_H0801 to_H1961 Yahweh_H3068. 
+@28 Whether_H0176 it_H7819 is_H3117 a_H0176 cow or_H0176 ewe, you_H3117 shall_H1121 not_H3808 kill_H7819 it_H7819 and_H1121 its_H0853 young_H1121 both in_H3117 one_H0259 day_H3117. 
 
-@29 “When you sacrifice a sacrifice of thanksgiving to Yahweh, you shall sacrifice it so that you may be accepted. 
-@30 It shall be eaten on the same day; you shall leave none of it until the morning. I am Yahweh. 
+@29 “When_H3588 you_H3588 sacrifice_H2077 a_H3588 sacrifice_H2077 of_H3068 thanksgiving_H8426 to_H3068 Yahweh_H3068, you_H3588 shall_H3068 sacrifice_H2077 it_H3588 so_H3588 that_H3588 you_H3588 may_H3068 be_H3068 accepted_H7522. 
+@30 It_H1931 shall_H3068 be_H3808 eaten_H0398 on_H3117 the_H0589 same_H1931 day_H3117; you_H3117 shall_H3068 leave_H3498 none_H3808 of_H3068 it_H1931 until_H5704 the_H0589 morning_H1242. I_H0589 am_H0589 Yahweh_H3068. 
 
-@31 “Therefore you shall keep my commandments, and do them. I am Yahweh. 
-@32 You shall not profane my holy name, but I will be made holy among the children of Israel. I am Yahweh who makes you holy, 
-@33 who brought you out of the land of Egypt, to be your God. I am Yahweh.” 
+@31 “Therefore_H3068 you_H6213 shall_H3068 keep_H8104 my_H8104 commandments_H4687, and_H3068 do_H6213 them_H0853. I_H0589 am_H0589 Yahweh_H3068. 
+@32 You_H0853 shall_H1121 not_H3808 profane_H2490 my_H3068 holy_H6944 name_H8034, but_H3808 I_H0589 will_H3068 be_H3808 made_H6942 holy_H6944 among_H8432 the_H0853 children_H1121 of_H1121 Israel_H3478. I_H0589 am_H0589 Yahweh_H3068 who_H3068 makes_H3068 you_H0853 holy_H6944, 
+@33 who_H3068 brought_H3318 you_H0853 out_H3318 of_H0776 the_H0853 land_H0776 of_H0776 Egypt_H4714, to_H1961 be_H1961 your_H3068 God_H0430. I_H0589 am_H0589 Yahweh_H3068.” 
 
 # 23 
 ## Laws for the celebration of Saturday and the holidays of the year
-@1 Yahweh spoke to Moses, saying, 
-@2 “Speak to the children of Israel, and tell them, ‘The set feasts of Yahweh, which you shall proclaim to be holy convocations, even these are my set feasts.
+@1 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
+@2 “Speak_H1696 to_H0413 the_H0853 children_H1121 of_H1121 Israel_H3478, and_H1121 tell_H0559 them_H0413, ‘The_H0853 set_H0834 feasts_H4150 of_H1121 Yahweh_H3068, which_H0834 you_H0834 shall_H1121 proclaim_H7121 to_H0413 be_H1121 holy_H6944 convocations_H4744, even_H0853 these_H0428 are_H0834 my_H3068 set_H0834 feasts_H4150.
 
 ## Saturday
-@3 “‘Six days shall work be done, but on the seventh day is a Sabbath of solemn rest, a holy convocation; you shall do no kind of work. It is a Sabbath to Yahweh in all your dwellings.
+@3 “‘Six_H8337 days_H3117 shall_H3068 work_H4399 be_H3808 done_H6213, but_H3808 on_H3117 the_H3605 seventh_H7637 day_H3117 is_H3068 a_H3068 Sabbath_H7676 of_H3068 solemn_H7677 rest_H7677, a_H3068 holy_H6944 convocation_H4744; you_H3605 shall_H3068 do_H6213 no_H3808 kind of_H3068 work_H4399. It_H1931 is_H3068 a_H3068 Sabbath_H7676 to_H3068 Yahweh_H3068 in_H3068 all_H3605 your_H3068 dwellings_H4186.
 
 ## Easter and the solemnity of the unleavened
-@4 “‘These are the set feasts of Yahweh, even holy convocations, which you shall proclaim in their appointed season. 
-@5 In the first month, on the fourteenth day of the month in the evening, is Yahweh’s Passover. 
-@6 On the fifteenth day of the same month is the feast of unleavened bread to Yahweh. Seven days you shall eat unleavened bread. 
-@7 In the first day you shall have a holy convocation. You shall do no regular work. 
-@8 But you shall offer an offering made by fire to Yahweh seven days. In the seventh day is a holy convocation. You shall do no regular work.’”
+@4 “‘These_H0428 are_H0834 the_H0853 set_H0834 feasts_H4150 of_H3068 Yahweh_H3068, even_H0853 holy_H6944 convocations_H4744, which_H0834 you_H0834 shall_H3068 proclaim_H7121 in_H3068 their_H3068 appointed_H4150 season_H4150. 
+@5 In_H3068 the_H3068 first_H7223 month_H2320, on_H3068 the_H3068 fourteenth day_H2320 of_H3068 the_H3068 month_H2320 in_H3068 the_H3068 evening_H6153, is_H3068 Yahweh’s_H3068 Passover_H6453. 
+@6 On_H3117 the_H3068 fifteenth day_H3117 of_H3068 the_H3068 same_H2088 month_H2320 is_H3068 the_H3068 feast_H2282 of_H3068 unleavened_H4682 bread_H4682 to_H3068 Yahweh_H3068. Seven_H7651 days_H3117 you_H3117 shall_H3068 eat_H0398 unleavened_H4682 bread_H4682. 
+@7 In_H3117 the_H3605 first_H7223 day_H3117 you_H3605 shall_H3808 have_H1961 a_H1961 holy_H6944 convocation_H4744. You_H3605 shall_H3808 do_H6213 no_H3808 regular_H5656 work_H4399. 
+@8 But_H3808 you_H3605 shall_H3068 offer_H7126 an_H7126 offering_H0801 made_H6213 by_H0801 fire_H0801 to_H3068 Yahweh_H3068 seven_H7651 days_H3117. In_H3068 the_H3605 seventh_H7637 day_H3117 is_H3068 a_H7126 holy_H6944 convocation_H4744. You_H3605 shall_H3068 do_H6213 no_H3808 regular_H5656 work_H4399.’”
 
 ## Offering of the first fruits
-@9 Yahweh spoke to Moses, saying, 
-@10 “Speak to the children of Israel, and tell them, ‘When you have come into the land which I give to you, and shall reap its harvest, then you shall bring the sheaf of the first fruits of your harvest to the priest. 
-@11 He shall wave the sheaf before Yahweh, to be accepted for you. On the next day after the Sabbath the priest shall wave it. 
-@12 On the day when you wave the sheaf, you shall offer a male lamb without defect a year old for a burnt offering to Yahweh. 
-@13 The meal offering with it shall be two tenths of an ephah^a^ of fine flour mixed with oil, an offering made by fire to Yahweh for a pleasant aroma; and the drink offering with it shall be of wine, the fourth part of a hin.^b^ 
-@14 You must not eat bread, or roasted grain, or fresh grain, until this same day, until you have brought the offering of your God. This is a statute forever throughout your generations in all your dwellings. 
+@9 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
+@10 “Speak_H1696 to_H0413 the_H0853 children_H1121 of_H1121 Israel_H3478, and_H1121 tell_H0559 them_H0413, ‘When_H3588 you_H0834 have_H0834 come_H0935 into_H0413 the_H0853 land_H0776 which_H0834 I_H0589 give_H5414 to_H0413 you_H0834, and_H1121 shall_H3548 reap_H7114 its_H5414 harvest_H7105, then_H1696 you_H0834 shall_H3548 bring_H0935 the_H0853 sheaf_H6016 of_H1121 the_H0853 first_H7225 fruits_H7225 of_H1121 your_H5414 harvest_H7105 to_H0413 the_H0853 priest_H3548. 
+@11 He_H3068 shall_H3548 wave_H5130 the_H0853 sheaf_H6016 before_H6440 Yahweh_H3068, to_H3068 be_H3068 accepted_H7522 for_H3068 you_H6440. On_H3068 the_H0853 next_H4283 day_H4283 after_H4283 the_H0853 Sabbath_H7676 the_H0853 priest_H3548 shall_H3548 wave_H5130 it_H6440. 
+@12 On_H3117 the_H0853 day_H3117 when_H3117 you_H3117 wave_H5130 the_H0853 sheaf_H6016, you_H3117 shall_H1121 offer_H6213 a_H3068 male_H3532 lamb_H3532 without_H8549 defect_H8549 a_H3068 year_H8141 old_H1121 for_H3117 a_H3068 burnt_H5930 offering_H3068 to_H3068 Yahweh_H3068. 
+@13 The_H3068 meal_H4503 offering_H4503 with_H3068 it_H3068 shall_H3068 be_H3068 two_H8147 tenths of_H3068 an_H3068 ephah^a^ of_H3068 fine_H5560 flour_H5560 mixed_H1101 with_H3068 oil_H8081, an_H3068 offering_H4503 made by_H0801 fire_H0801 to_H3068 Yahweh_H3068 for_H3068 a_H3068 pleasant aroma_H5207; and_H3068 the_H3068 drink offering_H4503 with_H3068 it_H3068 shall_H3068 be_H3068 of_H3068 wine_H3196, the_H3068 fourth_H7243 part of_H3068 a_H3068 hin_H1969.^b^ 
+@14 You_H3605 must_H0853 not_H3808 eat_H0398 bread_H3899, or_H3808 roasted_H7039 grain_H3605, or_H3808 fresh_H3759 grain_H3605, until_H5704 this_H2088 same_H6106 day_H3117, until_H5704 you_H3605 have_H3605 brought_H0935 the_H3605 offering_H7133 of_H0430 your_H3605 God_H0430. This_H2088 is_H2088 a_H0935 statute_H2708 forever_H5769 throughout_H3605 your_H3605 generations_H1755 in_H0935 all_H3605 your_H3605 dwellings_H4186. 
 ^a^[**23:13** 1 ephah is about 22 liters or about 2/3 of a bushel] ^b^[**23:13** A hin is about 6.5 liters or 1.7 gallons.]
 
 ## The Feast of Pentecost
-@15 “‘You shall count from the next day after the Sabbath, from the day that you brought the sheaf of the wave offering: seven Sabbaths shall be completed. 
-@16 The next day after the seventh Sabbath you shall count fifty days; and you shall offer a new meal offering to Yahweh. 
-@17 You shall bring out of your habitations two loaves of bread for a wave offering made of two tenths of an ephah^a^ of fine flour. They shall be baked with yeast, for first fruits to Yahweh. 
-@18 You shall present with the bread seven lambs without defect a year old, one young bull, and two rams. They shall be a burnt offering to Yahweh, with their meal offering and their drink offerings, even an offering made by fire, of a sweet aroma to Yahweh. 
-@19 You shall offer one male goat for a sin offering, and two male lambs a year old for a sacrifice of peace offerings. 
-@20 The priest shall wave them with the bread of the first fruits for a wave offering before Yahweh, with the two lambs. They shall be holy to Yahweh for the priest. 
-@21 You shall make proclamation on the same day that there shall be a holy convocation to you. You shall do no regular work. This is a statute forever in all your dwellings throughout your generations. 
+@15 “‘You_H3117 shall_H3117 count_H5608 from_H0935 the_H0853 next_H4283 day_H3117 after_H4283 the_H0853 Sabbath_H7676, from_H0935 the_H0853 day_H3117 that_H3117 you_H3117 brought_H0935 the_H0853 sheaf_H6016 of_H3117 the_H0853 wave_H8573 offering_H8573: seven_H7651 Sabbaths_H7676 shall_H3117 be_H1961 completed. 
+@16 The_H3068 next_H4283 day_H3117 after_H4283 the_H3068 seventh_H7637 Sabbath_H7676 you_H3117 shall_H3068 count_H5608 fifty_H2572 days_H3117; and_H3068 you_H3117 shall_H3068 offer_H7126 a_H7126 new_H2319 meal_H4503 offering_H4503 to_H5704 Yahweh_H3068. 
+@17 You_H0935 shall_H3068 bring_H0935 out_H8147 of_H3068 your_H3068 habitations_H4186 two_H8147 loaves_H3899 of_H3068 bread_H3899 for_H3068 a_H1961 wave_H8573 offering_H8573 made_H1961 of_H3068 two_H8147 tenths of_H3068 an_H1961 ephah^a^ of_H3068 fine_H5560 flour_H5560. They_H3068 shall_H3068 be_H1961 baked_H0644 with_H3068 yeast, for_H3068 first_H1061 fruits_H1061 to_H0935 Yahweh_H3068. 
+@18 You_H5921 shall_H1121 present_H7126 with_H3068 the_H5921 bread_H3899 seven_H7651 lambs_H3532 without_H8549 defect_H8549 a_H1961 year_H8141 old_H1121, one_H0259 young_H1121 bull_H6499, and_H1121 two_H8147 rams_H0352. They_H5921 shall_H1121 be_H1961 a_H1961 burnt_H5930 offering_H4503 to_H1961 Yahweh_H3068, with_H3068 their_H3068 meal_H4503 offering_H4503 and_H1121 their_H3068 drink offerings_H0801, even_H7651 an_H1961 offering_H4503 made_H1961 by_H0801 fire_H0801, of_H1121 a_H1961 sweet aroma_H5207 to_H1961 Yahweh_H3068. 
+@19 You_H6213 shall_H1121 offer_H2077 one_H0259 male_H3532 goat_H5795 for_H0259 a_H0259 sin_H2403 offering_H8002, and_H1121 two_H8147 male_H3532 lambs_H3532 a_H0259 year_H8141 old_H1121 for_H0259 a_H0259 sacrifice_H2077 of_H1121 peace_H8002 offerings_H8002. 
+@20 The_H0853 priest_H3548 shall_H3548 wave_H8573 them_H0853 with_H3068 the_H0853 bread_H3899 of_H3068 the_H0853 first_H1061 fruits_H1061 for_H5921 a_H1961 wave_H8573 offering_H8573 before_H6440 Yahweh_H3068, with_H3068 the_H0853 two_H8147 lambs_H3532. They_H5921 shall_H3548 be_H1961 holy_H6944 to_H1961 Yahweh_H3068 for_H5921 the_H0853 priest_H3548. 
+@21 You_H3605 shall_H3808 make_H6213 proclamation_H7121 on_H3117 the_H3605 same_H6106 day_H3117 that_H3605 there_H1961 shall_H3808 be_H1961 a_H1961 holy_H6944 convocation_H4744 to_H1961 you_H3605. You_H3605 shall_H3808 do_H6213 no_H3808 regular_H5656 work_H4399. This_H2088 is_H2088 a_H1961 statute_H2708 forever_H5769 in_H3117 all_H3605 your_H3605 dwellings_H4186 throughout_H3605 your_H3605 generations_H1755. 
 ^a^[**23:17** 1 ephah is about 22 liters or about 2/3 of a bushel]
 
-@22 “‘When you reap the harvest of your land, you must not wholly reap into the corners of your field. You must not gather the gleanings of your harvest. You must leave them for the poor and for the foreigner. I am Yahweh your God.’”
+@22 “‘When_H3615 you_H0853 reap_H7114 the_H0853 harvest_H7105 of_H0776 your_H3068 land_H0776, you_H0853 must_H0853 not_H3808 wholly reap_H7114 into_H0776 the_H0853 corners_H6285 of_H0776 your_H3068 field_H7704. You_H0853 must_H0853 not_H3808 gather_H3950 the_H0853 gleanings_H3951 of_H0776 your_H3068 harvest_H7105. You_H0853 must_H0853 leave_H5800 them_H0853 for_H0776 the_H0853 poor_H6041 and_H3068 for_H0776 the_H0853 foreigner_H1616. I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430.’”
 
 ## The new year celebration
-@23 Yahweh spoke to Moses, saying, 
-@24 “Speak to the children of Israel, saying, ‘In the seventh month, on the first day of the month, there shall be a solemn rest for you, a memorial of blowing of trumpets, a holy convocation. 
-@25 You shall do no regular work. You shall offer an offering made by fire to Yahweh.’”
+@23 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
+@24 “Speak_H1696 to_H0413 the_H0559 children_H1121 of_H1121 Israel_H3478, saying_H0559, ‘In_H0413 the_H0559 seventh_H7637 month_H2320, on_H0413 the_H0559 first_H0259 day_H2320 of_H1121 the_H0559 month_H2320, there_H1961 shall_H1121 be_H1961 a_H1961 solemn_H7677 rest_H7677 for_H0413 you_H0413, a_H1961 memorial_H2146 of_H1121 blowing_H8643 of_H1121 trumpets_H8643, a_H1961 holy_H6944 convocation_H4744. 
+@25 You_H3605 shall_H3068 do_H6213 no_H3808 regular_H5656 work_H4399. You_H3605 shall_H3068 offer_H7126 an_H7126 offering_H0801 made_H6213 by_H0801 fire_H0801 to_H3068 Yahweh_H3068.’”
 
 ## The Great Day of Atonement
-@26 Yahweh spoke to Moses, saying, 
-@27 “However on the tenth day of this seventh month is the day of atonement. It shall be a holy convocation to you. You shall afflict yourselves and you shall offer an offering made by fire to Yahweh. 
-@28 You shall do no kind of work in that same day, for it is a day of atonement, to make atonement for you before Yahweh your God. 
-@29 For whoever it is who shall not deny himself in that same day shall be cut off from his people. 
-@30 Whoever does any kind of work in that same day, I will destroy that person from among his people. 
-@31 You shall do no kind of work: it is a statute forever throughout your generations in all your dwellings. 
-@32 It shall be a Sabbath of solemn rest for you, and you shall deny yourselves. In the ninth day of the month at evening, from evening to evening, you shall keep your Sabbath.”
+@26 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
+@27 “However_H0389 on_H3117 the_H0853 tenth_H6218 day_H3117 of_H3068 this_H2088 seventh_H7637 month_H2320 is_H3068 the_H0853 day_H3117 of_H3068 atonement_H3725. It_H1931 shall_H3068 be_H1961 a_H1961 holy_H6944 convocation_H4744 to_H1961 you_H3117. You_H3117 shall_H3068 afflict_H6031 yourselves_H5315 and_H3068 you_H3117 shall_H3068 offer_H7126 an_H1961 offering_H0801 made_H1961 by_H0801 fire_H0801 to_H1961 Yahweh_H3068. 
+@28 You_H3588 shall_H3068 do_H6213 no_H3808 kind of_H0430 work_H4399 in_H5921 that_H3588 same_H1931 day_H3117, for_H3588 it_H1931 is_H3068 a_H3588 day_H3117 of_H0430 atonement_H3725, to_H5921 make_H6213 atonement_H3725 for_H3588 you_H3588 before_H6440 Yahweh_H3068 your_H3068 God_H0430. 
+@29 For_H3588 whoever_H3605 it_H3588 is_H0834 who_H0834 shall_H3808 not_H3808 deny himself_H5315 in_H3117 that_H0834 same_H6106 day_H3117 shall_H3808 be_H3808 cut_H3772 off_H3772 from_H3772 his_H3605 people_H5971. 
+@30 Whoever_H3605 does_H6213 any_H3605 kind of_H3117 work_H4399 in_H3117 that_H0834 same_H1931 day_H3117, I_H0834 will_H0834 destroy_H0006 that_H0834 person_H5315 from_H5315 among_H7130 his_H3605 people_H5971. 
+@31 You_H3605 shall_H3808 do_H6213 no_H3808 kind_H1755 of_H3605 work_H4399: it_H6213 is_H3605 a_H3808 statute_H2708 forever_H5769 throughout_H3605 your_H3605 generations_H1755 in_H4186 all_H3605 your_H3605 dwellings_H4186. 
+@32 It_H1931 shall_H5315 be_H5315 a_H5704 Sabbath_H7676 of_H5315 solemn_H7677 rest_H7677 for_H5315 you_H5704, and_H0853 you_H5704 shall_H5315 deny yourselves_H5315. In_H5315 the_H0853 ninth_H8672 day_H2320 of_H5315 the_H0853 month_H2320 at_H2320 evening_H6153, from_H5315 evening_H6153 to_H5704 evening_H6153, you_H5704 shall_H5315 keep your_H5704 Sabbath_H7676.”
 
 ## The Feast of Tabernacles
-@33 Yahweh spoke to Moses, saying, 
-@34 “Speak to the children of Israel, and say, ‘On the fifteenth day of this seventh month is the feast of booths^a^ for seven days to Yahweh. 
-@35 On the first day shall be a holy convocation. You shall do no regular work. 
-@36 Seven days you shall offer an offering made by fire to Yahweh. On the eighth day shall be a holy convocation to you. You shall offer an offering made by fire to Yahweh. It is a solemn assembly; you shall do no regular work. 
+@33 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
+@34 “Speak_H1696 to_H0413 the_H0559 children_H1121 of_H1121 Israel_H3478, and_H1121 say_H0559, ‘On_H3117 the_H0559 fifteenth day_H3117 of_H1121 this_H2088 seventh_H7637 month_H2320 is_H3068 the_H0559 feast_H2282 of_H1121 booths_H5521^a^ for_H0413 seven_H7651 days_H3117 to_H0413 Yahweh_H3068. 
+@35 On_H3117 the_H3605 first_H7223 day_H3117 shall_H3808 be_H3808 a_H3808 holy_H6944 convocation_H4744. You_H3605 shall_H3808 do_H6213 no_H3808 regular_H5656 work_H4399. 
+@36 Seven_H7651 days_H3117 you_H3605 shall_H3068 offer_H7126 an_H1961 offering_H0801 made_H6213 by_H0801 fire_H0801 to_H1961 Yahweh_H3068. On_H3117 the_H3605 eighth_H8066 day_H3117 shall_H3068 be_H1961 a_H1961 holy_H6944 convocation_H4744 to_H1961 you_H3605. You_H3605 shall_H3068 offer_H7126 an_H1961 offering_H0801 made_H6213 by_H0801 fire_H0801 to_H1961 Yahweh_H3068. It_H1931 is_H3068 a_H1961 solemn_H6116 assembly_H4744; you_H3605 shall_H3068 do_H6213 no_H3808 regular_H5656 work_H4399. 
 ^a^[**23:34** or, feast of tents, or Succoth]
 
 ## Completion of the festival calendar
-@37 “‘These are the appointed feasts of Yahweh which you shall proclaim to be holy convocations, to offer an offering made by fire to Yahweh, a burnt offering, a meal offering, a sacrifice, and drink offerings, each on its own day— 
-@38 in addition to the Sabbaths of Yahweh, and in addition to your gifts, and in addition to all your vows, and in addition to all your free will offerings, which you give to Yahweh.
+@37 “‘These_H0428 are_H0834 the_H0853 appointed_H4150 feasts_H4150 of_H3068 Yahweh_H3068 which_H0834 you_H0834 shall_H3068 proclaim_H7121 to_H3068 be_H1697 holy_H6944 convocations_H4744, to_H3068 offer_H7126 an_H7126 offering_H4503 made_H7121 by_H0801 fire_H0801 to_H3068 Yahweh_H3068, a_H7121 burnt_H5930 offering_H4503, a_H7121 meal_H4503 offering_H4503, a_H7121 sacrifice_H2077, and_H3068 drink offerings_H0801, each_H3117 on_H3117 its_H0853 own day_H3117— 
+@38 in_H3068 addition to_H3068 the_H3605 Sabbaths_H7676 of_H3068 Yahweh_H3068, and_H3068 in_H3068 addition to_H3068 your_H3068 gifts_H4979, and_H3068 in_H3068 addition to_H3068 all_H3605 your_H3068 vows_H5088, and_H3068 in_H3068 addition to_H3068 all_H3605 your_H3068 free will_H3068 offerings_H5071, which_H0834 you_H0834 give_H5414 to_H3068 Yahweh_H3068.
 
 ## Subsequent Provisions on the Feast of Tabernacles
-@39 “‘So on the fifteenth day of the seventh month, when you have gathered in the fruits of the land, you shall keep the feast of Yahweh seven days. On the first day shall be a solemn rest, and on the eighth day shall be a solemn rest. 
-@40 You shall take on the first day the fruit of majestic trees, branches of palm trees, and boughs of thick trees, and willows of the brook; and you shall rejoice before Yahweh your God seven days. 
-@41 You shall keep it as a feast to Yahweh seven days in the year. It is a statute forever throughout your generations. You shall keep it in the seventh month. 
-@42 You shall dwell in temporary shelters^a^ for seven days. All who are native-born in Israel shall dwell in temporary shelters,^b^ 
-@43 that your generations may know that I made the children of Israel to dwell in temporary shelters^c^ when I brought them out of the land of Egypt. I am Yahweh your God.’” 
+@39 “‘So_H0853 on_H3117 the_H0853 fifteenth day_H3117 of_H0776 the_H0853 seventh_H7637 month_H2320, when_H3117 you_H3117 have_H0776 gathered_H0622 in_H3068 the_H0853 fruits of_H0776 the_H0853 land_H0776, you_H3117 shall_H3068 keep the_H0853 feast_H2282 of_H0776 Yahweh_H3068 seven_H7651 days_H3117. On_H3117 the_H0853 first_H7223 day_H3117 shall_H3068 be_H3068 a_H0776 solemn_H7677 rest_H7677, and_H3068 on_H3117 the_H0853 eighth_H8066 day_H3117 shall_H3068 be_H3068 a_H0776 solemn_H7677 rest_H7677. 
+@40 You_H6440 shall_H3068 take_H3947 on_H3117 the_H6440 first_H7223 day_H3117 the_H6440 fruit_H6529 of_H0430 majestic_H1926 trees_H6086, branches_H6057 of_H0430 palm_H8558 trees_H6086, and_H3068 boughs_H6057 of_H0430 thick trees_H6086, and_H3068 willows_H6155 of_H0430 the_H6440 brook_H5158; and_H3068 you_H6440 shall_H3068 rejoice_H8055 before_H6440 Yahweh_H3068 your_H3068 God_H0430 seven_H7651 days_H3117. 
+@41 You_H3117 shall_H3068 keep it_H2287 as_H3068 a_H3068 feast_H2282 to_H3068 Yahweh_H3068 seven_H7651 days_H3117 in_H8141 the_H0853 year_H8141. It_H2287 is_H3068 a_H3068 statute_H2708 forever_H5769 throughout_H1755 your_H3068 generations_H1755. You_H3117 shall_H3068 keep it_H2287 in_H8141 the_H0853 seventh_H7637 month_H2320. 
+@42 You_H3605 shall_H3478 dwell_H3427 in_H3427 temporary_H5521 shelters_H5521^a^ for_H3605 seven_H7651 days_H3117. All_H3605 who_H3605 are_H3117 native-born_H0249 in_H3427 Israel_H3478 shall_H3478 dwell_H3427 in_H3427 temporary_H5521 shelters_H5521,^b^ 
+@43 that_H3588 your_H3068 generations_H1755 may_H0776 know_H3045 that_H3588 I_H0589 made_H3045 the_H0853 children_H1121 of_H1121 Israel_H3478 to_H3068 dwell_H3427 in_H3427 temporary_H5521 shelters_H5521^c^ when_H3588 I_H0589 brought_H3318 them_H0853 out_H3318 of_H1121 the_H0853 land_H0776 of_H1121 Egypt_H4714. I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430.’” 
 ^a^[**23:42** or, booths] ^b^[**23:42** or, booths] ^c^[**23:43** or, booths]
 
-@44 So Moses declared to the children of Israel the appointed feasts of Yahweh. 
+@44 So_H1696 Moses_H4872 declared_H1696 to_H0413 the_H0853 children_H1121 of_H1121 Israel_H3478 the_H0853 appointed_H4150 feasts_H4150 of_H1121 Yahweh_H3068. 
 
 # 24 
 ## Regulation on the preparation of the holy lampstand and the showbread
-@1 Yahweh spoke to Moses, saying, 
-@2 “Command the children of Israel, that they bring to you pure olive oil beaten for the light, to cause a lamp to burn continually. 
-@3 Outside of the veil of the Testimony, in the Tent of Meeting, Aaron shall keep it in order from evening to morning before Yahweh continually. It shall be a statute forever throughout your generations. 
-@4 He shall keep in order the lamps on the pure gold lamp stand before Yahweh continually. 
+@1 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
+@2 “Command_H6680 the_H0853 children_H1121 of_H1121 Israel_H3478, that_H3478 they_H3478 bring_H5927 to_H0413 you_H6680 pure_H2134 olive_H2132 oil_H8081 beaten_H3795 for_H0413 the_H0853 light_H3974, to_H0413 cause a_H3947 lamp_H5216 to_H0413 burn_H5927 continually_H8548. 
+@3 Outside_H2351 of_H3068 the_H0853 veil_H6532 of_H3068 the_H0853 Testimony_H5715, in_H3068 the_H0853 Tent_H0168 of_H3068 Meeting_H4150, Aaron_H0175 shall_H0175 keep it_H5704 in_H3068 order_H2708 from_H6440 evening_H6153 to_H5704 morning_H1242 before_H6440 Yahweh_H3068 continually_H8548. It_H5704 shall_H0175 be_H3068 a_H5704 statute_H2708 forever_H5769 throughout_H1755 your_H3068 generations_H1755. 
+@4 He_H3068 shall_H3068 keep in_H5921 order the_H0853 lamps_H5216 on_H5921 the_H0853 pure_H2889 gold lamp_H5216 stand before_H6440 Yahweh_H3068 continually_H8548. 
 
-@5 “You shall take fine flour, and bake twelve cakes of it: two tenths of an ephah^a^ shall be in one cake. 
-@6 You shall set them in two rows, six on a row, on the pure gold table before Yahweh. 
-@7 You shall put pure frankincense on each row, that it may be to the bread for a memorial, even an offering made by fire to Yahweh. 
-@8 Every Sabbath day he shall set it in order before Yahweh continually. It is an everlasting covenant on the behalf of the children of Israel. 
-@9 It shall be for Aaron and his sons. They shall eat it in a holy place; for it is most holy to him of the offerings of Yahweh made by fire by a perpetual statute.” 
+@5 “You_H0853 shall take_H3947 fine_H5560 flour_H5560, and_H0853 bake_H0644 twelve_H6240 cakes_H2471 of_H0259 it_H1961: two_H8147 tenths of_H0259 an_H1961 ephah^a^ shall be_H1961 in_H1961 one_H0259 cake_H2471. 
+@6 You_H6440 shall_H3068 set_H7760 them_H0853 in_H5921 two_H8147 rows_H4635, six_H8337 on_H5921 a_H7760 row_H4635, on_H5921 the_H0853 pure_H2889 gold table_H7979 before_H6440 Yahweh_H3068. 
+@7 You_H5414 shall_H3068 put_H5414 pure_H2134 frankincense_H3828 on_H5921 each row_H4635, that_H3068 it_H5414 may_H1961 be_H1961 to_H1961 the_H5921 bread_H3899 for_H5921 a_H1961 memorial_H0234, even_H5921 an_H1961 offering_H0801 made_H5414 by_H0801 fire_H0801 to_H1961 Yahweh_H3068. 
+@8 Every_H3117 Sabbath_H7676 day_H3117 he_H3117 shall_H1121 set it_H3068 in_H3068 order before_H6440 Yahweh_H3068 continually_H8548. It_H3068 is_H3068 an_H6440 everlasting_H5769 covenant_H1285 on_H3117 the_H0853 behalf of_H1121 the_H0853 children_H1121 of_H1121 Israel_H3478. 
+@9 It_H1931 shall_H0175 be_H1961 for_H3588 Aaron_H0175 and_H1121 his_H3068 sons_H1121. They_H3588 shall_H0175 eat_H0398 it_H1931 in_H3068 a_H1961 holy_H6944 place_H4725; for_H3588 it_H1931 is_H3068 most_H6944 holy_H6944 to_H1961 him_H0398 of_H1121 the_H3588 offerings_H0801 of_H1121 Yahweh_H3068 made_H1961 by_H0801 fire_H0801 by_H0801 a_H1961 perpetual_H5769 statute_H2706.” 
 ^a^[**24:5** 1 ephah is about 22 liters or about 2/3 of a bushel]
 
 ## Punishment for blasphemy, homicide and bodily harm;
-@10 The son of an Israelite woman, whose father was an Egyptian, went out among the children of Israel; and the son of the Israelite woman and a man of Israel strove together in the camp. 
-@11 The son of the Israelite woman blasphemed the Name, and cursed; and they brought him to Moses. His mother’s name was Shelomith, the daughter of Dibri, of the tribe of Dan. 
-@12 They put him in custody until Yahweh’s will should be declared to them. 
-@13 Yahweh spoke to Moses, saying, 
-@14 “Bring him who cursed out of the camp; and let all who heard him lay their hands on his head, and let all the congregation stone him. 
-@15 You shall speak to the children of Israel, saying, ‘Whoever curses his God shall bear his sin. 
-@16 He who blasphemes Yahweh’s name, he shall surely be put to death. All the congregation shall certainly stone him. The foreigner as well as the native-born shall be put to death when he blasphemes the Name. 
+@10 The_H8432 son_H1121 of_H1121 an_H0376 Israelite_H3478 woman_H0802, whose_H1121 father was_H3478 an_H0376 Egyptian_H4713, went_H3318 out_H3318 among_H8432 the_H8432 children_H1121 of_H1121 Israel_H3478; and_H1121 the_H8432 son_H1121 of_H1121 the_H8432 Israelite_H3478 woman_H0802 and_H1121 a_H3318 man_H0376 of_H1121 Israel_H3478 strove together in_H3478 the_H8432 camp_H4264. 
+@11 The_H0853 son_H1121 of_H1121 the_H0853 Israelite_H3482 woman_H0802 blasphemed the_H0853 Name_H8034, and_H1121 cursed_H7043; and_H1121 they_H0935 brought_H0935 him_H0413 to_H0413 Moses_H4872. His_H0935 mother’s_H0517 name_H8034 was_H8034 Shelomith_H8019, the_H0853 daughter_H1323 of_H1121 Dibri_H1704, of_H1121 the_H0853 tribe_H4294 of_H1121 Dan_H1835. 
+@12 They_H1992 put_H3240 him_H5921 in_H5921 custody_H4929 until_H5921 Yahweh’s_H3068 will_H3068 should_H3068 be_H3068 declared to_H5921 them_H1992. 
+@13 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
+@14 “Bring_H3318 him_H0413 who_H3605 cursed_H7043 out_H3318 of_H3027 the_H3605 camp_H4264; and_H3027 let all_H3605 who_H3605 heard_H8085 him_H0413 lay_H5564 their_H3605 hands_H3027 on_H5921 his_H3605 head_H7218, and_H3027 let all_H3605 the_H3605 congregation_H5712 stone_H7275 him_H0413. 
+@15 You_H3588 shall_H1121 speak_H1696 to_H0413 the_H0559 children_H1121 of_H1121 Israel_H3478, saying_H0559, ‘Whoever curses_H7043 his_H5375 God_H0430 shall_H1121 bear_H5375 his_H5375 sin_H2399. 
+@16 He_H3068 who_H3605 blasphemes Yahweh’s_H3068 name_H8034, he_H3068 shall_H3068 surely_H4191 be_H4191 put_H4191 to_H4191 death_H4191. All_H3605 the_H3605 congregation_H5712 shall_H3068 certainly_H4191 stone_H7275 him_H4191. The_H3605 foreigner_H1616 as_H3068 well as_H3068 the_H3605 native-born_H0249 shall_H3068 be_H4191 put_H4191 to_H4191 death_H4191 when_H3068 he_H3068 blasphemes the_H3605 Name_H8034. 
 
-@17 “‘He who strikes any man mortally shall surely be put to death. 
-@18 He who strikes an animal mortally shall make it good, life for life. 
-@19 If anyone injures his neighbor, it shall be done to him as he has done: 
-@20 fracture for fracture, eye for eye, tooth for tooth. It shall be done to him as he has injured someone. 
-@21 He who kills an animal shall make it good; and he who kills a man shall be put to death. 
-@22 You shall have one kind of law for the foreigner as well as the native-born; for I am Yahweh your God.’” 
+@17 “‘He_H3588 who_H3605 strikes_H5221 any_H3605 man_H0376 mortally_H4191 shall_H0376 surely_H3588 be_H4191 put_H4191 to_H4191 death_H4191. 
+@18 He_H5221 who_H5315 strikes_H5221 an_H5221 animal_H0929 mortally shall_H5315 make it_H5221 good, life_H5315 for_H8478 life_H5315. 
+@19 If_H3588 anyone_H0376 injures his_H5414 neighbor_H5997, it_H5414 shall_H0376 be_H0376 done_H6213 to_H5414 him_H5414 as_H0834 he_H0834 has_H0834 done_H6213: 
+@20 fracture_H7667 for_H8478 fracture_H7667, eye_H5869 for_H8478 eye_H5869, tooth_H8127 for_H8478 tooth_H8127. It_H5414 shall_H0834 be_H5414 done to_H5414 him_H5414 as_H0834 he_H0834 has_H0834 injured someone_H0120. 
+@21 He_H5221 who_H0120 kills_H5221 an_H5221 animal_H0929 shall_H0929 make it_H5221 good; and_H0120 he_H5221 who_H0120 kills_H5221 a_H5221 man_H0120 shall_H0929 be_H4191 put_H4191 to_H4191 death_H4191. 
+@22 You_H3588 shall_H3068 have_H1961 one_H0259 kind_H4941 of_H0430 law for_H3588 the_H3588 foreigner_H1616 as_H1961 well as_H1961 the_H3588 native-born_H0249; for_H3588 I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430.’” 
 
-@23 Moses spoke to the children of Israel; and they brought him who had cursed out of the camp, and stoned him with stones. The children of Israel did as Yahweh commanded Moses. 
+@23 Moses_H4872 spoke_H1696 to_H0413 the_H0853 children_H1121 of_H1121 Israel_H3478; and_H1121 they_H0834 brought_H3318 him_H0413 who_H0834 had_H3068 cursed_H7043 out_H3318 of_H1121 the_H0853 camp_H4264, and_H1121 stoned_H7275 him_H0413 with_H0413 stones_H0068. The_H0853 children_H1121 of_H1121 Israel_H3478 did_H6213 as_H0834 Yahweh_H3068 commanded_H6680 Moses_H4872. 
 
 # 25 
 ## The gap year
-@1 Yahweh said to Moses on Mount Sinai, 
-@2 “Speak to the children of Israel, and tell them, ‘When you come into the land which I give you, then the land shall keep a Sabbath to Yahweh. 
-@3 You shall sow your field six years, and you shall prune your vineyard six years, and gather in its fruits; 
-@4 but in the seventh year there shall be a Sabbath of solemn rest for the land, a Sabbath to Yahweh. You shall not sow your field or prune your vineyard. 
-@5 What grows of itself in your harvest you shall not reap, and you shall not gather the grapes of your undressed vine. It shall be a year of solemn rest for the land. 
-@6 The Sabbath of the land shall be for food for you; for yourself, for your servant, for your maid, for your hired servant, and for your stranger, who lives as a foreigner with you. 
-@7 For your livestock also, and for the animals that are in your land, shall all its increase be for food.
+@1 Yahweh_H3068 said_H0559 to_H0413 Moses_H4872 on_H0413 Mount_H2022 Sinai_H5514, 
+@2 “Speak_H1696 to_H0413 the_H0559 children_H1121 of_H1121 Israel_H3478, and_H1121 tell_H0559 them_H0413, ‘When_H3588 you_H0834 come_H0935 into_H0413 the_H0559 land_H0776 which_H0834 I_H0589 give_H5414 you_H0834, then_H1696 the_H0559 land_H0776 shall_H1121 keep_H0935 a_H3588 Sabbath_H7676 to_H0413 Yahweh_H3068. 
+@3 You_H0853 shall_H7704 sow_H2232 your_H2232 field_H7704 six_H8337 years_H8141, and_H8141 you_H0853 shall_H7704 prune_H2168 your_H2232 vineyard_H3754 six_H8337 years_H8141, and_H8141 gather_H0622 in_H8141 its_H0853 fruits; 
+@4 but_H3808 in_H8141 the_H3068 seventh_H7637 year_H8141 there_H1961 shall_H3068 be_H1961 a_H1961 Sabbath_H7676 of_H0776 solemn_H7677 rest_H7677 for_H0776 the_H3068 land_H0776, a_H1961 Sabbath_H7676 to_H1961 Yahweh_H3068. You_H3808 shall_H3068 not_H3808 sow_H2232 your_H3068 field_H7704 or_H3808 prune_H2168 your_H3068 vineyard_H3754. 
+@5 What grows of_H0776 itself in_H8141 your_H3808 harvest_H7105 you_H3808 shall_H0776 not_H3808 reap_H7114, and_H0776 you_H3808 shall_H0776 not_H3808 gather_H1219 the_H0853 grapes_H6025 of_H0776 your_H3808 undressed vine. It_H1961 shall_H0776 be_H1961 a_H1961 year_H8141 of_H0776 solemn_H7677 rest_H7677 for_H0776 the_H0853 land_H0776. 
+@6 The_H1961 Sabbath_H7676 of_H0776 the_H1961 land_H0776 shall_H0776 be_H1961 for_H0776 food_H0402 for_H0776 you_H5973; for_H0776 yourself_H5973, for_H0776 your_H1961 servant_H5650, for_H0776 your_H1961 maid_H0519, for_H0776 your_H1961 hired_H7916 servant_H5650, and_H0776 for_H0776 your_H1961 stranger, who_H5650 lives_H1481 as_H1961 a_H1961 foreigner with_H5973 you_H5973. 
+@7 For_H0776 your_H3605 livestock_H0929 also_H0834, and_H0776 for_H0776 the_H3605 animals_H0929 that_H0834 are_H0834 in_H0776 your_H3605 land_H0776, shall_H0776 all_H3605 its_H3605 increase_H8393 be_H1961 for_H0776 food_H0398.
 
 ## The Year of Jubilee
-@8 “‘You shall count off seven Sabbaths of years, seven times seven years; and there shall be to you the days of seven Sabbaths of years, even forty-nine years. 
-@9 Then you shall sound the loud trumpet on the tenth day of the seventh month. On the Day of Atonement you shall sound the trumpet throughout all your land. 
-@10 You shall make the fiftieth year holy, and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee to you; and each of you shall return to his own property, and each of you shall return to his family. 
-@11 That fiftieth year shall be a jubilee to you. In it you shall not sow, neither reap that which grows of itself, nor gather from the undressed vines. 
-@12 For it is a jubilee; it shall be holy to you. You shall eat of its increase out of the field. 
+@8 “‘You_H3117 shall_H3117 count_H5608 off_H7651 seven_H7651 Sabbaths_H7676 of_H3117 years_H8141, seven_H7651 times_H6471 seven_H7651 years_H8141; and_H3117 there_H1961 shall_H3117 be_H1961 to_H1961 you_H3117 the_H3117 days_H3117 of_H3117 seven_H7651 Sabbaths_H7676 of_H3117 years_H8141, even_H7651 forty-nine years_H8141. 
+@9 Then_H5674 you_H3605 shall_H0776 sound_H8643 the_H3605 loud trumpet_H7782 on_H3117 the_H3605 tenth_H6218 day_H3117 of_H0776 the_H3605 seventh_H7637 month_H2320. On_H3117 the_H3605 Day_H3117 of_H0776 Atonement_H3725 you_H3605 shall_H0776 sound_H8643 the_H3605 trumpet_H7782 throughout_H3605 all_H3605 your_H3605 land_H0776. 
+@10 You_H3605 shall_H0776 make_H7725 the_H3605 fiftieth_H2572 year_H8141 holy_H6942, and_H0776 proclaim_H7121 liberty_H1865 throughout_H3605 the_H3605 land_H0776 to_H0413 all_H3605 its_H3605 inhabitants_H3427. It_H1931 shall_H0776 be_H1961 a_H1961 jubilee_H3104 to_H0413 you_H3605; and_H0776 each_H0376 of_H0776 you_H3605 shall_H0776 return_H7725 to_H0413 his_H3605 own_H1961 property_H0272, and_H0776 each_H0376 of_H0776 you_H3605 shall_H0776 return_H7725 to_H0413 his_H3605 family_H4940. 
+@11 That_H1931 fiftieth_H2572 year_H8141 shall_H3808 be_H1961 a_H1961 jubilee_H3104 to_H1961 you_H3808. In_H8141 it_H1931 you_H3808 shall_H3808 not_H3808 sow_H2232, neither_H3808 reap_H7114 that_H1931 which_H1931 grows of_H8141 itself_H1931, nor_H3808 gather_H1219 from_H1961 the_H0853 undressed vines_H5139. 
+@12 For_H3588 it_H1931 is_H1931 a_H1961 jubilee_H3104; it_H1931 shall_H1931 be_H1961 holy_H6944 to_H1961 you_H3588. You_H3588 shall_H1931 eat_H0398 of_H4480 its_H0853 increase_H8393 out_H4480 of_H4480 the_H0853 field_H7704. 
 
-@13 “‘In this Year of Jubilee each of you shall return to his property. 
+@13 “‘In_H8141 this_H2063 Year_H8141 of_H0376 Jubilee_H3104 each_H0376 of_H0376 you_H7725 shall_H0376 return_H7725 to_H0413 his_H7725 property_H0272. 
 
-@14 “‘If you sell anything to your neighbor, or buy from your neighbor, you shall not wrong one another. 
-@15 According to the number of years after the Jubilee you shall buy from your neighbor. According to the number of years of the crops he shall sell to you. 
-@16 According to the length of the years you shall increase its price, and according to the shortness of the years you shall diminish its price; for he is selling the number of the crops to you. 
-@17 You shall not wrong one another, but you shall fear your God; for I am Yahweh your God. 
+@14 “‘If_H3588 you_H3588 sell_H4376 anything to_H0376 your_H3588 neighbor_H5997, or_H0176 buy_H7069 from_H0376 your_H3588 neighbor_H5997, you_H3588 shall_H0376 not_H0408 wrong_H3238 one_H0376 another_H0251. 
+@15 According_H0310 to_H8141 the_H0853 number_H4557 of_H8141 years_H8141 after_H0310 the_H0853 Jubilee_H3104 you_H0853 shall_H7069 buy_H7069 from_H4557 your_H0310 neighbor_H5997. According_H0310 to_H8141 the_H0853 number_H4557 of_H8141 years_H8141 of_H8141 the_H0853 crops_H8393 he_H0310 shall_H7069 sell_H4376 to_H8141 you_H0853. 
+@16 According_H6310 to_H6310 the_H3588 length_H8141 of_H8141 the_H3588 years_H8141 you_H3588 shall_H1931 increase_H7235 its_H3588 price_H4736, and_H6310 according_H6310 to_H6310 the_H3588 shortness of_H8141 the_H3588 years_H8141 you_H3588 shall_H1931 diminish_H4591 its_H3588 price_H4736; for_H3588 he_H1931 is_H1931 selling_H4376 the_H3588 number_H4557 of_H8141 the_H3588 crops_H8393 to_H6310 you_H3588. 
+@17 You_H3588 shall_H3068 not_H3808 wrong_H3238 one_H0376 another_H0376, but_H3588 you_H3588 shall_H3068 fear_H3372 your_H3068 God_H0430; for_H3588 I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430. 
 
-@18 “‘Therefore you shall do my statutes, and keep my ordinances and do them; and you shall dwell in the land in safety. 
-@19 The land shall yield its fruit, and you shall eat your fill, and dwell therein in safety. 
-@20 If you said, “What shall we eat the seventh year? Behold, we shall not sow, nor gather in our increase;” 
-@21 then I will command my blessing on you in the sixth year, and it shall bear fruit for the three years. 
-@22 You shall sow the eighth year, and eat of the fruits from the old store until the ninth year. Until its fruits come in, you shall eat the old store. 
+@18 “‘Therefore_H0776 you_H5921 shall_H0776 do_H6213 my_H8104 statutes_H2708, and_H0776 keep_H8104 my_H8104 ordinances_H4941 and_H0776 do_H6213 them_H0853; and_H0776 you_H5921 shall_H0776 dwell_H3427 in_H3427 the_H0853 land_H0776 in_H3427 safety_H0983. 
+@19 The_H5921 land_H0776 shall_H0776 yield_H5414 its_H5414 fruit_H6529, and_H0776 you_H5414 shall_H0776 eat_H0398 your_H5414 fill_H7648, and_H0776 dwell_H3427 therein in_H3427 safety_H0983. 
+@20 If_H3588 you_H3588 said_H0559, “What_H4100 shall_H3808 we_H3588 eat_H0398 the_H0853 seventh_H7637 year_H8141? Behold_H2005, we_H3588 shall_H3808 not_H3808 sow_H2232, nor_H3808 gather_H0622 in_H8141 our_H3588 increase_H8393;” 
+@21 then_H0853 I_H6680 will_H1293 command_H6680 my_H6680 blessing_H1293 on_H7969 you_H6680 in_H8141 the_H0853 sixth_H8345 year_H8141, and_H8141 it_H6213 shall bear fruit for_H8141 the_H0853 three_H7969 years_H8141. 
+@22 You_H5704 shall sow_H2232 the_H0853 eighth_H8066 year_H8141, and_H0935 eat_H0398 of_H8141 the_H0853 fruits from_H4480 the_H0853 old_H3465 store until_H5704 the_H0853 ninth_H8671 year_H8141. Until_H5704 its_H0853 fruits come_H0935 in_H8141, you_H5704 shall eat_H0398 the_H0853 old_H3465 store. 
 
-@23 “‘The land shall not be sold in perpetuity, for the land is mine; for you are strangers and live as foreigners with me. 
-@24 In all the land of your possession you shall grant a redemption for the land.
+@23 “‘The_H3588 land_H0776 shall_H0776 not_H3808 be_H3808 sold_H4376 in_H0776 perpetuity, for_H3588 the_H3588 land_H0776 is_H0776 mine; for_H3588 you_H0859 are_H0776 strangers_H1616 and_H0776 live as_H3588 foreigners_H1616 with_H0776 me_H5978. 
+@24 In_H0776 all_H3605 the_H3605 land_H0776 of_H0776 your_H3605 possession_H0272 you_H5414 shall_H0776 grant_H5414 a_H5414 redemption_H1353 for_H0776 the_H3605 land_H0776.
 
 ## Redemption or relapse of ownership of land and housing
-@25 “‘If your brother becomes poor, and sells some of his possessions, then his kinsman who is next to him shall come, and redeem that which his brother has sold. 
-@26 If a man has no one to redeem it, and he becomes prosperous and finds sufficient means to redeem it, 
-@27 then let him reckon the years since its sale, and restore the surplus to the man to whom he sold it; and he shall return to his property. 
-@28 But if he isn’t able to get it back for himself, then what he has sold shall remain in the hand of him who has bought it until the Year of Jubilee. In the Jubilee it shall be released, and he shall return to his property. 
+@25 “‘If_H3588 your_H0935 brother_H0251 becomes_H4134 poor_H4134, and_H0935 sells_H4376 some of_H0251 his_H0935 possessions_H0272, then_H0853 his_H0935 kinsman_H0251 who_H0251 is_H0251 next_H1350 to_H0413 him_H0413 shall_H4465 come_H0935, and_H0935 redeem_H1350 that_H3588 which his_H0935 brother_H0251 has_H3588 sold_H4376. 
+@26 If_H3588 a_H1961 man_H0376 has_H1961 no_H3808 one_H0376 to_H1961 redeem_H1350 it_H3588, and_H3027 he_H3588 becomes_H1961 prosperous and_H3027 finds_H4672 sufficient_H1767 means_H3027 to_H1961 redeem_H1350 it_H3588, 
+@27 then_H0853 let him_H0853 reckon the_H0853 years_H8141 since_H0834 its_H0853 sale_H4465, and_H7725 restore_H7725 the_H0853 surplus to_H7725 the_H0853 man_H0376 to_H7725 whom_H0834 he_H0834 sold_H4376 it_H7725; and_H7725 he_H0834 shall_H0376 return_H7725 to_H7725 his_H7725 property_H0272. 
+@28 But_H0518 if_H0518 he_H0518 isn’t_H3808 able_H3027 to_H5704 get_H3318 it_H0518 back_H7725 for_H3027 himself_H3027, then_H1961 what_H4465 he_H0518 has_H1961 sold_H4465 shall_H3808 remain_H1961 in_H8141 the_H0853 hand_H3027 of_H3027 him_H0853 who_H4672 has_H1961 bought_H7069 it_H0518 until_H5704 the_H0853 Year_H8141 of_H3027 Jubilee_H3104. In_H8141 the_H0853 Jubilee_H3104 it_H0518 shall_H3808 be_H1961 released_H3318, and_H3027 he_H0518 shall_H3808 return_H7725 to_H5704 his_H7725 property_H0272. 
 
-@29 “‘If a man sells a dwelling house in a walled city, then he may redeem it within a whole year after it has been sold. For a full year he shall have the right of redemption. 
-@30 If it isn’t redeemed within the space of a full year, then the house that is in the walled city shall be made sure in perpetuity to him who bought it, throughout his generations. It shall not be released in the Jubilee. 
-@31 But the houses of the villages which have no wall around them shall be accounted for with the fields of the country: they may be redeemed, and they shall be released in the Jubilee. 
+@29 “‘If_H3588 a_H1961 man_H0376 sells_H4376 a_H1961 dwelling_H4186 house_H1004 in_H8141 a_H1961 walled_H2346 city_H5892, then_H1961 he_H3588 may_H1961 redeem it_H3588 within_H1004 a_H1961 whole_H3117 year_H8141 after_H1961 it_H3588 has_H1961 been_H1961 sold_H4376. For_H3588 a_H1961 full_H3117 year_H8141 he_H3588 shall_H1004 have_H1961 the_H3588 right_H1353 of_H1004 redemption_H1353. 
+@30 If_H0518 it_H0518 isn’t_H3808 redeemed_H1350 within_H1004 the_H0853 space_H4390 of_H1004 a_H0518 full_H4390 year_H8141, then_H6965 the_H0853 house_H1004 that_H0834 is_H0834 in_H8141 the_H0853 walled_H2346 city_H5892 shall_H1004 be_H3808 made_H0834 sure in_H8141 perpetuity to_H5704 him_H0853 who_H0834 bought_H7069 it_H0518, throughout_H1755 his_H0834 generations_H1755. It_H0518 shall_H1004 not_H3808 be_H3808 released_H3318 in_H8141 the_H0853 Jubilee_H3104. 
+@31 But_H1961 the_H0834 houses_H1004 of_H1004 the_H0834 villages which_H0834 have_H1961 no_H0369 wall_H2346 around_H5439 them_H1992 shall_H0776 be_H1961 accounted_H2803 for_H5921 with_H1004 the_H0834 fields_H7704 of_H1004 the_H0834 country_H0776: they_H1992 may_H1961 be_H1961 redeemed, and_H0776 they_H1992 shall_H0776 be_H1961 released_H3318 in_H5921 the_H0834 Jubilee_H3104. 
 
-@32 “‘Nevertheless, in the cities of the Levites, the Levites may redeem the houses in the cities of their possession at any time. 
-@33 The Levites may redeem the house that was sold, and the city of his possession, and it shall be released in the Jubilee; for the houses of the cities of the Levites are their possession among the children of Israel. 
-@34 But the field of the pasture lands of their cities may not be sold, for it is their perpetual possession.
+@32 “‘Nevertheless, in_H1004 the_H1961 cities_H5892 of_H1004 the_H1961 Levites_H3881, the_H1961 Levites_H3881 may_H1961 redeem the_H1961 houses_H1004 in_H1004 the_H1961 cities_H5892 of_H1004 their_H1961 possession_H0272 at_H1004 any_H1961 time_H5769. 
+@33 The_H0834 Levites_H3881 may_H3478 redeem_H1350 the_H0834 house_H1004 that_H0834 was_H0834 sold_H4465, and_H1121 the_H0834 city_H5892 of_H1121 his_H0834 possession_H0272, and_H1121 it_H1931 shall_H1121 be_H1121 released_H3318 in_H1004 the_H0834 Jubilee_H3104; for_H3588 the_H0834 houses_H1004 of_H1121 the_H0834 cities_H5892 of_H1121 the_H0834 Levites_H3881 are_H0834 their_H3588 possession_H0272 among_H8432 the_H0834 children_H1121 of_H1121 Israel_H3478. 
+@34 But_H3588 the_H3588 field_H7704 of_H7704 the_H3588 pasture_H4054 lands_H4054 of_H7704 their_H3588 cities_H5892 may_H7704 not_H3808 be_H3808 sold_H4376, for_H3588 it_H1931 is_H1931 their_H3588 perpetual_H5769 possession_H0272.
 
 ## Commandment to help impoverished Israelites; Purchase of Hebrew slaves or their liberation in the year of jubilee
-@35 “‘If your brother has become poor, and his hand can’t support himself among you, then you shall uphold him. He shall live with you like an alien and a temporary resident. 
-@36 Take no interest from him or profit; but fear your God, that your brother may live among you. 
-@37 You shall not lend him your money at interest, nor give him your food for profit. 
-@38 I am Yahweh your God, who brought you out of the land of Egypt, to give you the land of Canaan, and to be your God. 
+@35 “‘If_H3588 your_H3588 brother_H0251 has_H3027 become poor_H4134, and_H3027 his_H3027 hand_H3027 can’t support_H2388 himself_H2388 among_H5973 you_H3588, then_H3588 you_H3588 shall_H3027 uphold him_H5973. He_H3588 shall_H3027 live_H2421 with_H5973 you_H3588 like_H5973 an_H3588 alien_H1616 and_H3027 a_H3588 temporary resident_H8453. 
+@36 Take_H3947 no_H0408 interest_H5392 from_H3947 him_H0853 or_H0408 profit; but_H3947 fear_H3372 your_H3947 God_H0430, that_H0430 your_H3947 brother_H0251 may_H0430 live_H2421 among_H5973 you_H5973. 
+@37 You_H5414 shall_H3808 not_H3808 lend_H5414 him_H5414 your_H5414 money_H3701 at_H3808 interest_H5392, nor_H3808 give_H5414 him_H5414 your_H5414 food_H0400 for_H3808 profit. 
+@38 I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430, who_H0834 brought_H3318 you_H0834 out_H3318 of_H0776 the_H0853 land_H0776 of_H0776 Egypt_H4714, to_H1961 give_H5414 you_H0834 the_H0853 land_H0776 of_H0776 Canaan_H3667, and_H3068 to_H1961 be_H1961 your_H3068 God_H0430. 
 
-@39 “‘If your brother has grown poor among you, and sells himself to you, you shall not make him to serve as a slave. 
-@40 As a hired servant, and as a temporary resident, he shall be with you; he shall serve with you until the Year of Jubilee. 
-@41 Then he shall go out from you, he and his children with him, and shall return to his own family, and to the possession of his fathers. 
-@42 For they are my servants, whom I brought out of the land of Egypt. They shall not be sold as slaves. 
-@43 You shall not rule over him with harshness, but shall fear your God. 
+@39 “‘If_H3588 your_H3588 brother_H0251 has_H5650 grown poor_H4134 among_H5973 you_H3588, and_H5650 sells_H4376 himself_H3808 to_H5650 you_H3588, you_H3588 shall_H3808 not_H3808 make_H5647 him_H5973 to_H5650 serve_H5647 as_H3588 a_H3588 slave_H5650. 
+@40 As_H5704 a_H1961 hired_H7916 servant_H7916, and_H8141 as_H5704 a_H1961 temporary resident_H8453, he_H5704 shall be_H1961 with_H5973 you_H5704; he_H5704 shall serve_H5647 with_H5973 you_H5704 until_H5704 the_H5704 Year_H8141 of_H8141 Jubilee_H3104. 
+@41 Then_H3318 he_H1931 shall_H1121 go_H3318 out_H3318 from_H7725 you_H7725, he_H1931 and_H1121 his_H7725 children_H1121 with_H5973 him_H0413, and_H1121 shall_H1121 return_H7725 to_H0413 his_H7725 own_H0272 family_H4940, and_H1121 to_H0413 the_H0413 possession_H0272 of_H1121 his_H7725 fathers_H0001. 
+@42 For_H3588 they_H1992 are_H0834 my_H0834 servants_H5650, whom_H0834 I_H0834 brought_H3318 out_H3318 of_H0776 the_H0853 land_H0776 of_H0776 Egypt_H4714. They_H1992 shall_H0776 not_H3808 be_H3808 sold_H4376 as_H0834 slaves_H5650. 
+@43 You_H3808 shall_H3808 not_H3808 rule_H7287 over_H6531 him_H0430 with_H0430 harshness, but_H3808 shall_H3808 fear_H3372 your_H3808 God_H0430. 
 
-@44 “‘As for your male and your female slaves, whom you may have from the nations that are around you, from them you may buy male and female slaves. 
-@45 Moreover, of the children of the aliens who live among you, of them you may buy, and of their families who are with you, which they have conceived in your land; and they will be your property. 
-@46 You may make them an inheritance for your children after you, to hold for a possession. Of them you may take your slaves forever, but over your brothers the children of Israel you shall not rule, one over another, with harshness. 
+@44 “‘As_H0834 for_H5650 your_H0834 male_H5650 and_H5650 your_H0834 female_H0519 slaves_H5650, whom_H0834 you_H0834 may_H1961 have_H1961 from_H1961 the_H0853 nations_H1471 that_H0834 are_H0834 around_H5439 you_H0834, from_H1961 them_H1992 you_H0834 may_H1961 buy_H7069 male_H5650 and_H5650 female_H0519 slaves_H5650. 
+@45 Moreover_H1571, of_H1121 the_H0834 children_H1121 of_H1121 the_H0834 aliens who_H0834 live_H1481 among_H5973 you_H0834, of_H1121 them_H1992 you_H0834 may_H1961 buy_H7069, and_H1121 of_H1121 their_H1992 families_H4940 who_H0834 are_H0834 with_H5973 you_H0834, which_H0834 they_H1992 have_H1961 conceived in_H0776 your_H0834 land_H0776; and_H1121 they_H1992 will_H1961 be_H1961 your_H0834 property_H0272. 
+@46 You_H3808 may_H0376 make_H5647 them_H0853 an_H5157 inheritance_H5157 for_H3808 your_H3808 children_H1121 after_H0310 you_H3808, to_H3478 hold for_H3808 a_H3808 possession_H0272. Of_H1121 them_H0853 you_H3808 may_H0376 take_H3423 your_H3808 slaves_H5647 forever_H5769, but_H3808 over_H0853 your_H3808 brothers_H0251 the_H0853 children_H1121 of_H1121 Israel_H3478 you_H3808 shall_H1121 not_H3808 rule_H7287, one_H0376 over_H0853 another_H0251, with_H0376 harshness. 
 
-@47 “‘If an alien or temporary resident with you becomes rich, and your brother beside him has grown poor, and sells himself to the stranger or foreigner living among you, or to a member of the stranger’s family, 
-@48 after he is sold he may be redeemed. One of his brothers may redeem him; 
-@49 or his uncle, or his uncle’s son, may redeem him, or any who is a close relative to him of his family may redeem him; or if he has grown rich, he may redeem himself. 
-@50 He shall reckon with him who bought him from the year that he sold himself to him to the Year of Jubilee. The price of his sale shall be according to the number of years; he shall be with him according to the time of a hired servant. 
-@51 If there are yet many years, according to them he shall give back the price of his redemption out of the money that he was bought for. 
-@52 If there remain but a few years to the year of jubilee, then he shall reckon with him; according to his years of service he shall give back the price of his redemption. 
-@53 As a servant hired year by year shall he be with him. He shall not rule with harshness over him in your sight. 
-@54 If he isn’t redeemed by these means, then he shall be released in the Year of Jubilee: he and his children with him. 
-@55 For to me the children of Israel are servants; they are my servants whom I brought out of the land of Egypt. I am Yahweh your God. 
+@47 “‘If_H3588 an_H3588 alien_H1616 or_H0176 temporary resident_H8453 with_H5973 you_H3588 becomes_H4134 rich, and_H3027 your_H3588 brother_H0251 beside_H3027 him_H5973 has_H3027 grown poor_H4134, and_H3027 sells_H4376 himself_H3027 to_H3027 the_H3588 stranger_H1616 or_H0176 foreigner_H1616 living among_H5973 you_H3588, or_H0176 to_H3027 a_H3588 member of_H3027 the_H3588 stranger’s_H1616 family_H4940, 
+@48 after_H0310 he_H0310 is_H1961 sold_H4376 he_H0310 may_H1961 be_H1961 redeemed_H1350. One_H0259 of_H0251 his_H1961 brothers_H0251 may_H1961 redeem_H1350 him_H0310; 
+@49 or_H0176 his_H3027 uncle_H1730, or_H0176 his_H3027 uncle’s_H1730 son_H1121, may_H1121 redeem_H1350 him_H5381, or_H0176 any_H0176 who_H1121 is_H3027 a_H0176 close_H1350 relative_H1350 to_H3027 him_H5381 of_H1121 his_H3027 family_H4940 may_H1121 redeem_H1350 him_H5381; or_H0176 if_H0176 he_H3027 has_H3027 grown rich, he_H3027 may_H1121 redeem_H1350 himself_H3027. 
+@50 He_H5704 shall_H3117 reckon with_H5973 him_H5973 who_H7916 bought_H7069 him_H5973 from_H5704 the_H5704 year_H8141 that_H3117 he_H5704 sold_H4376 himself_H3117 to_H5704 him_H5973 to_H5704 the_H5704 Year_H8141 of_H3117 Jubilee_H3104. The_H5704 price_H3701 of_H3117 his_H1961 sale_H4465 shall_H3117 be_H1961 according to_H5704 the_H5704 number_H4557 of_H3117 years_H8141; he_H5704 shall_H3117 be_H1961 with_H5973 him_H5973 according to_H5704 the_H5704 time_H3117 of_H3117 a_H1961 hired_H7916 servant_H7916. 
+@51 If_H0518 there_H7725 are_H6310 yet_H5750 many_H7227 years_H8141, according_H6310 to_H7725 them_H7725 he_H0518 shall_H3701 give_H7725 back_H7725 the_H7725 price_H3701 of_H8141 his_H7725 redemption_H1353 out of_H8141 the_H7725 money_H3701 that_H8141 he_H0518 was_H8141 bought_H4736 for_H0518. 
+@52 If_H0518 there_H5704 remain_H7604 but_H0518 a_H0518 few_H4592 years_H8141 to_H5704 the_H0853 year_H8141 of_H8141 jubilee_H3104, then_H0853 he_H0518 shall_H6310 reckon with_H6310 him_H0853; according_H6310 to_H5704 his_H7725 years_H8141 of_H8141 service he_H0518 shall_H6310 give_H7725 back_H7725 the_H0853 price of_H8141 his_H7725 redemption_H1353. 
+@53 As_H1961 a_H1961 servant_H7916 hired_H7916 year_H8141 by_H1961 year_H8141 shall_H3808 he_H3808 be_H1961 with_H5973 him_H5973. He_H3808 shall_H3808 not_H3808 rule_H7287 with_H5973 harshness over_H6531 him_H5973 in_H8141 your_H1961 sight_H5869. 
+@54 If_H0518 he_H1931 isn’t_H3808 redeemed_H1350 by_H8141 these_H0428 means_H0518, then_H3318 he_H1931 shall_H1121 be_H3808 released_H3318 in_H8141 the_H0518 Year_H8141 of_H1121 Jubilee_H3104: he_H1931 and_H1121 his_H0518 children_H1121 with_H5973 him_H5973. 
+@55 For_H3588 to_H3068 me_H0589 the_H0853 children_H1121 of_H1121 Israel_H3478 are_H0834 servants_H5650; they_H1992 are_H0834 my_H3068 servants_H5650 whom_H0834 I_H0589 brought_H3318 out_H3318 of_H1121 the_H0853 land_H0776 of_H1121 Egypt_H4714. I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430. 
 
 # 26 
 ## God-given blessings and curses as an option
-@1 “‘You shall make for yourselves no idols, and you shall not raise up a carved image or a pillar, and you shall not place any figured stone in your land, to bow down to it; for I am Yahweh your God. 
+@1 “‘You_H3588 shall_H3068 make_H5414 for_H3588 yourselves_H3068 no_H3808 idols_H0457, and_H6965 you_H3588 shall_H3068 not_H3808 raise_H6965 up_H6965 a_H3588 carved_H6459 image_H6459 or_H3808 a_H3588 pillar_H4676, and_H6965 you_H3588 shall_H3068 not_H3808 place_H5414 any_H5414 figured_H4906 stone_H0068 in_H5921 your_H3068 land_H0776, to_H5921 bow_H7812 down_H7812 to_H5921 it_H5414; for_H3588 I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430. 
 
-@2 “‘You shall keep my Sabbaths, and have reverence for my sanctuary. I am Yahweh.
+@2 “‘You_H0853 shall_H3068 keep_H8104 my_H8104 Sabbaths_H7676, and_H3068 have_H0589 reverence for_H3068 my_H8104 sanctuary_H4720. I_H0589 am_H0589 Yahweh_H3068.
 
 ## Promises of blessings in case of obedience
-@3 “‘If you walk in my statutes and keep my commandments, and do them, 
-@4 then I will give you your rains in their season, and the land shall yield its increase, and the trees of the field shall yield their fruit. 
-@5 Your threshing shall continue until the vintage, and the vintage shall continue until the sowing time. You shall eat your bread to the full, and dwell in your land safely. 
+@3 “‘If_H0518 you_H0518 walk in_H2708 my_H8104 statutes_H2708 and_H2708 keep_H8104 my_H8104 commandments_H4687, and_H2708 do_H6213 them_H0853, 
+@4 then_H5414 I_H5414 will_H0776 give_H5414 you_H5414 your_H5414 rains_H1653 in_H0776 their_H5414 season_H6256, and_H0776 the_H5414 land_H0776 shall_H0776 yield_H5414 its_H5414 increase_H2981, and_H0776 the_H5414 trees_H6086 of_H0776 the_H5414 field_H7704 shall_H0776 yield_H5414 their_H5414 fruit_H6529. 
+@5 Your_H0398 threshing_H1786 shall_H0776 continue until_H5381 the_H0853 vintage_H1210, and_H0776 the_H0853 vintage_H1210 shall_H0776 continue until_H5381 the_H0853 sowing_H2233 time_H2233. You_H0853 shall_H0776 eat_H0398 your_H0398 bread_H3899 to_H0776 the_H0853 full_H7648, and_H0776 dwell_H3427 in_H3427 your_H0398 land_H0776 safely_H0983. 
 
-@6 “‘I will give peace in the land, and you shall lie down, and no one will make you afraid. I will remove evil animals out of the land, neither shall the sword go through your land. 
-@7 You shall chase your enemies, and they shall fall before you by the sword. 
-@8 Five of you shall chase a hundred, and a hundred of you shall chase ten thousand; and your enemies shall fall before you by the sword. 
+@6 “‘I_H5414 will_H0776 give_H5414 peace_H7965 in_H0776 the_H5414 land_H0776, and_H0776 you_H5414 shall_H0776 lie_H7901 down_H7901, and_H0776 no_H3808 one_H0369 will_H0776 make_H5414 you_H5414 afraid_H2729. I_H5414 will_H0776 remove_H5674 evil_H7451 animals_H2416 out_H4480 of_H0776 the_H5414 land_H0776, neither_H3808 shall_H0776 the_H5414 sword_H2719 go_H5674 through_H4480 your_H5414 land_H0776. 
+@7 You_H6440 shall_H6440 chase_H7291 your_H6440 enemies_H0341, and_H2719 they_H6440 shall_H6440 fall_H5307 before_H6440 you_H6440 by_H6440 the_H0853 sword_H2719. 
+@8 Five_H2568 of_H4480 you_H6440 shall_H6440 chase_H7291 a_H4480 hundred_H3967, and_H3967 a_H4480 hundred_H3967 of_H4480 you_H6440 shall_H6440 chase_H7291 ten_H7233 thousand_H7233; and_H3967 your_H6440 enemies_H0341 shall_H6440 fall_H5307 before_H6440 you_H6440 by_H6440 the_H6440 sword_H2719. 
 
-@9 “‘I will have respect for you, make you fruitful, multiply you, and will establish my covenant with you. 
-@10 You shall eat old supplies long kept, and you shall move out the old because of the new. 
-@11 I will set my tent among you, and my soul won’t abhor you. 
-@12 I will walk among you, and will be your God, and you will be my people. 
-@13 I am Yahweh your God, who brought you out of the land of Egypt, that you should not be their slaves. I have broken the bars of your yoke, and made you walk upright.
+@9 “‘I_H6965 will_H1285 have_H6437 respect_H6437 for_H0413 you_H0853, make_H6509 you_H0853 fruitful_H6509, multiply_H7235 you_H0853, and_H6965 will_H1285 establish_H6965 my_H6965 covenant_H1285 with_H0854 you_H0853. 
+@10 You_H6440 shall_H6440 eat_H0398 old_H3465 supplies long_H6440 kept_H0398, and_H0398 you_H6440 shall_H6440 move out_H3318 the_H6440 old_H3465 because_H6440 of_H6440 the_H6440 new_H2319. 
+@11 I_H5414 will_H5414 set_H5414 my_H5414 tent among_H8432 you_H5414, and_H5315 my_H5414 soul_H5315 won’t_H3808 abhor_H1602 you_H5414. 
+@12 I_H1961 will_H0430 walk_H1980 among_H8432 you_H0859, and_H1980 will_H0430 be_H1961 your_H1961 God_H0430, and_H1980 you_H0859 will_H0430 be_H1961 my_H1961 people_H5971. 
+@13 I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430, who_H0834 brought_H3318 you_H0834 out_H3318 of_H0776 the_H0853 land_H0776 of_H0776 Egypt_H4714, that_H0834 you_H0834 should_H3068 not_H1961 be_H1961 their_H3068 slaves_H5650. I_H0589 have_H1961 broken_H7665 the_H0853 bars_H4133 of_H0776 your_H3068 yoke_H5923, and_H3068 made_H1961 you_H0834 walk upright_H6968.
 
 ## Deadly diseases and shameful defeats
-@14 “‘But if you will not listen to me, and will not do all these commandments, 
-@15 and if you shall reject my statutes, and if your soul abhors my ordinances, so that you will not do all my commandments, but break my covenant, 
-@16 I also will do this to you: I will appoint terror over you, even consumption and fever, that shall consume the eyes, and make the soul to pine away. You will sow your seed in vain, for your enemies will eat it. 
-@17 I will set my face against you, and you will be struck before your enemies. Those who hate you will rule over you; and you will flee when no one pursues you.
+@14 “‘But_H0518 if_H0518 you_H0518 will_H3808 not_H3808 listen_H8085 to_H8085 me_H3808, and_H8085 will_H3808 not_H3808 do_H6213 all_H3605 these_H0428 commandments_H4687, 
+@15 and_H4941 if_H0518 you_H0518 shall_H5315 reject_H3988 my_H3605 statutes_H2708, and_H4941 if_H0518 your_H3605 soul_H5315 abhors_H1602 my_H3605 ordinances_H4941, so_H6213 that_H3605 you_H0518 will_H5315 not_H1115 do_H6213 all_H3605 my_H3605 commandments_H4687, but_H0518 break_H6565 my_H3605 covenant_H1285, 
+@16 I_H0589 also_H0637 will_H5869 do_H6213 this_H2063 to_H5921 you_H5921: I_H0589 will_H5869 appoint_H6485 terror_H0928 over_H5921 you_H5921, even_H0637 consumption_H7829 and_H0398 fever_H6920, that_H5315 shall_H5315 consume_H0398 the_H0853 eyes_H5869, and_H0398 make_H6213 the_H0853 soul_H5315 to_H5921 pine_H1727 away_H3615. You_H5921 will_H5869 sow_H2232 your_H5921 seed_H2233 in_H5921 vain, for_H5921 your_H5921 enemies_H0341 will_H5869 eat_H0398 it_H5921. 
+@17 I_H5414 will_H0369 set_H5414 my_H5414 face_H6440 against_H6440 you_H5414, and_H6440 you_H5414 will_H0369 be_H5414 struck_H5062 before_H6440 your_H5414 enemies_H0341. Those_H0853 who_H0369 hate_H8130 you_H5414 will_H0369 rule_H7287 over_H5414 you_H5414; and_H6440 you_H5414 will_H0369 flee_H5127 when_H5127 no_H0369 one_H0369 pursues_H7291 you_H5414.
 
 ## Drought and poor growth
-@18 “‘If you in spite of these things will not listen to me, then I will chastise you seven times more for your sins. 
-@19 I will break the pride of your power, and I will make your sky like iron, and your soil like bronze. 
-@20 Your strength will be spent in vain; for your land won’t yield its increase, neither will the trees of the land yield their fruit.
+@18 “‘If_H0518 you_H0518 in_H5921 spite_H5921 of_H5921 these_H0428 things_H0428 will_H3808 not_H3808 listen_H8085 to_H5704 me_H5921, then_H0853 I_H0518 will_H3808 chastise_H3256 you_H0518 seven_H7651 times_H7651 more_H3254 for_H5921 your_H5921 sins_H2403. 
+@19 I_H5414 will_H0776 break_H7665 the_H0853 pride_H1347 of_H0776 your_H5414 power_H5797, and_H0776 I_H5414 will_H0776 make_H5414 your_H5414 sky_H8064 like_H0776 iron_H1270, and_H0776 your_H5414 soil_H0776 like_H0776 bronze_H5154. 
+@20 Your_H5414 strength_H3581 will_H0776 be_H3808 spent_H8552 in_H0776 vain; for_H0776 your_H5414 land_H0776 won’t_H3808 yield_H5414 its_H5414 increase_H2981, neither_H3808 will_H0776 the_H0853 trees_H6086 of_H0776 the_H0853 land_H0776 yield_H5414 their_H5414 fruit_H6529.
 
 ## Wild animals
-@21 “‘If you walk contrary to me, and won’t listen to me, then I will bring seven times more plagues on you according to your sins. 
-@22 I will send the wild animals among you, which will rob you of your children, destroy your livestock, and make you few in number. Your roads will become desolate.
+@21 “‘If_H0518 you_H0518 walk contrary_H5921 to_H5921 me_H5921, and_H8085 won’t_H3808 listen_H8085 to_H5921 me_H5921, then_H3254 I_H0518 will_H3808 bring seven_H7651 times_H7651 more_H3254 plagues_H4347 on_H5921 you_H0518 according_H5921 to_H5921 your_H5921 sins_H2403. 
+@22 I_H3772 will_H7704 send_H7971 the_H0853 wild_H7704 animals_H0929 among you_H7971, which_H0929 will_H7704 rob you_H7971 of_H1870 your_H7971 children_H7921, destroy_H3772 your_H7971 livestock_H0929, and_H7971 make_H3772 you_H7971 few_H4591 in_H1870 number. Your_H7971 roads_H1870 will_H7704 become_H8074 desolate_H8074.
 
 ## War anguish combined with plague and famine
-@23 “‘If by these things you won’t be turned back to me, but will walk contrary to me, 
-@24 then I will also walk contrary to you; and I will strike you, even I, seven times for your sins. 
-@25 I will bring a sword upon you that will execute the vengeance of the covenant. You will be gathered together within your cities, and I will send the pestilence among you. You will be delivered into the hand of the enemy. 
-@26 When I break your staff of bread, ten women shall bake your bread in one oven, and they shall deliver your bread again by weight. You shall eat, and not be satisfied.
+@23 “‘If_H0518 by_H1980 these_H0428 things_H0428 you_H0518 won’t_H3808 be_H3808 turned_H3256 back_H1980 to_H1980 me_H5973, but_H0518 will_H3808 walk_H1980 contrary to_H1980 me_H5973, 
+@24 then_H1980 I_H0589 will_H1571 also_H1571 walk_H1980 contrary_H5921 to_H1980 you_H5921; and_H1980 I_H0589 will_H1571 strike_H5221 you_H5921, even_H1571 I_H0589, seven_H7651 times_H7651 for_H5921 your_H5921 sins_H2403. 
+@25 I_H5414 will_H2719 bring_H0935 a_H5414 sword_H2719 upon_H5921 you_H5414 that_H3027 will_H2719 execute_H5358 the_H5921 vengeance_H5359 of_H3027 the_H5921 covenant_H1285. You_H5414 will_H2719 be_H3027 gathered_H0622 together_H0622 within_H8432 your_H5414 cities_H5892, and_H0935 I_H5414 will_H2719 send_H7971 the_H5921 pestilence_H1698 among_H8432 you_H5414. You_H5414 will_H2719 be_H3027 delivered_H5414 into_H0413 the_H5921 hand_H3027 of_H3027 the_H5921 enemy_H0341. 
+@26 When_H7725 I_H0259 break_H7665 your_H7725 staff_H4294 of_H4294 bread_H3899, ten_H6235 women_H0802 shall_H3808 bake_H0644 your_H7725 bread_H3899 in_H0802 one_H0259 oven_H8574, and_H7725 they_H3808 shall_H3808 deliver your_H7725 bread_H3899 again_H7725 by_H0802 weight_H4948. You_H7725 shall_H3808 eat_H0398, and_H7725 not_H3808 be_H3808 satisfied_H7646.
 
 ## The suffering of the people during exile in the countries of their enemies
-@27 “‘If you in spite of this won’t listen to me, but walk contrary to me, 
-@28 then I will walk contrary to you in wrath. I will also chastise you seven times for your sins. 
-@29 You will eat the flesh of your sons, and you will eat the flesh of your daughters. 
-@30 I will destroy your high places, and cut down your incense altars, and cast your dead bodies upon the bodies of your idols; and my soul will abhor you. 
-@31 I will lay your cities waste, and will bring your sanctuaries to desolation. I will not take delight in the sweet fragrance of your offerings. 
-@32 I will bring the land into desolation, and your enemies who dwell in it will be astonished at it. 
-@33 I will scatter you among the nations, and I will draw out the sword after you. Your land will be a desolation, and your cities shall be a waste. 
-@34 Then the land will enjoy its Sabbaths as long as it lies desolate and you are in your enemies’ land. Even then the land will rest and enjoy its Sabbaths. 
-@35 As long as it lies desolate it shall have rest, even the rest which it didn’t have in your Sabbaths when you lived on it. 
+@27 “‘If_H0518 you_H0518 in_H1980 spite of_H8085 this_H2063 won’t_H3808 listen_H8085 to_H1980 me_H5973, but_H0518 walk_H1980 contrary to_H1980 me_H5973, 
+@28 then_H1980 I_H0589 will_H0589 walk_H1980 contrary_H5921 to_H1980 you_H5921 in_H5921 wrath_H2534. I_H0589 will_H0589 also_H0637 chastise_H3256 you_H5921 seven_H7651 times_H7651 for_H5921 your_H5921 sins_H2403. 
+@29 You_H0398 will_H1121 eat_H0398 the_H0398 flesh_H1320 of_H1121 your_H0398 sons_H1121, and_H1121 you_H0398 will_H1121 eat_H0398 the_H0398 flesh_H1320 of_H1121 your_H0398 daughters_H1323. 
+@30 I_H5414 will_H5414 destroy_H8045 your_H5414 high_H1116 places_H1116, and_H0853 cut_H3772 down_H3772 your_H5414 incense_H2553 altars_H2553, and_H0853 cast_H5414 your_H5414 dead_H5315 bodies_H6297 upon_H5921 the_H0853 bodies_H6297 of_H5921 your_H5414 idols_H1544; and_H0853 my_H5414 soul_H5315 will_H5414 abhor_H1602 you_H5414. 
+@31 I_H5414 will_H5414 lay_H5414 your_H5414 cities_H5892 waste_H2723, and_H0853 will_H5414 bring_H5414 your_H5414 sanctuaries_H4720 to_H5414 desolation_H8074. I_H5414 will_H5414 not_H3808 take_H5414 delight in_H5414 the_H0853 sweet fragrance of_H3808 your_H5414 offerings. 
+@32 I_H0589 will_H0776 bring the_H0853 land_H0776 into_H5921 desolation_H8074, and_H0776 your_H5921 enemies_H0341 who_H3427 dwell_H3427 in_H3427 it_H5921 will_H0776 be_H0776 astonished_H8074 at_H3427 it_H5921. 
+@33 I_H0776 will_H1961 scatter_H2219 you_H0853 among_H0776 the_H0853 nations_H1471, and_H0776 I_H0776 will_H1961 draw out_H1471 the_H0853 sword_H2719 after_H0310 you_H0853. Your_H1961 land_H0776 will_H1961 be_H1961 a_H1961 desolation_H8077, and_H0776 your_H1961 cities_H5892 shall_H0776 be_H1961 a_H1961 waste_H2723. 
+@34 Then_H0227 the_H3605 land_H0776 will_H0776 enjoy_H7521 its_H3605 Sabbaths_H7676 as_H3117 long_H3117 as_H3117 it_H8074 lies_H8074 desolate_H8074 and_H0776 you_H0859 are_H3117 in_H0776 your_H3605 enemies’ land_H0776. Even_H0853 then_H0227 the_H3605 land_H0776 will_H0776 rest and_H0776 enjoy_H7521 its_H3605 Sabbaths_H7676. 
+@35 As_H0834 long_H3117 as_H0834 it_H5921 lies_H0834 desolate_H8074 it_H5921 shall_H3808 have_H0834 rest, even_H3808 the_H3605 rest which_H0834 it_H5921 didn’t_H3808 have_H0834 in_H3427 your_H3605 Sabbaths_H7676 when_H3117 you_H0834 lived_H3427 on_H5921 it_H5921. 
 
-@36 “‘As for those of you who are left, I will send a faintness into their hearts in the lands of their enemies. The sound of a driven leaf will put them to flight; and they shall flee, as one flees from the sword. They will fall when no one pursues. 
-@37 They will stumble over one another, as it were before the sword, when no one pursues. You will have no power to stand before your enemies. 
-@38 You will perish among the nations. The land of your enemies will eat you up. 
-@39 Those of you who are left will pine away in their iniquity in your enemies’ lands; and also in the iniquities of their fathers they shall pine away with them.
+@36 “‘As_H0935 for_H0776 those_H0853 of_H0776 you_H0935 who_H0369 are_H0776 left_H7604, I_H0776 will_H0776 send a_H0935 faintness into_H0935 their_H0935 hearts_H3824 in_H0935 the_H0853 lands_H0776 of_H0776 their_H0935 enemies_H0341. The_H0853 sound_H6963 of_H0776 a_H0935 driven_H5086 leaf_H5929 will_H0776 put_H0935 them_H0853 to_H0935 flight_H5127; and_H0935 they_H0935 shall_H0776 flee_H5127, as_H0935 one_H0369 flees_H5127 from_H0935 the_H0853 sword_H2719. They_H0935 will_H0776 fall_H5307 when_H0935 no_H0369 one_H0369 pursues_H7291. 
+@37 They_H3808 will_H1961 stumble_H3782 over_H3782 one_H0376 another_H0251, as_H1961 it_H1961 were_H1961 before_H6440 the_H6440 sword_H2719, when_H1961 no_H3808 one_H0376 pursues_H7291. You_H6440 will_H1961 have_H1961 no_H3808 power to_H1961 stand_H8617 before_H6440 your_H6440 enemies_H0341. 
+@38 You_H0853 will_H0776 perish_H0006 among_H0776 the_H0853 nations_H1471. The_H0853 land_H0776 of_H0776 your_H0398 enemies_H0341 will_H0776 eat_H0398 you_H0853 up_H0853. 
+@39 Those of_H0776 you_H0776 who_H7604 are_H0776 left_H7604 will_H0776 pine away_H4743 in_H0776 their_H5771 iniquity_H5771 in_H0776 your_H0001 enemies’ lands_H0776; and_H0776 also_H0637 in_H0776 the_H0776 iniquities_H5771 of_H0776 their_H5771 fathers_H0001 they_H0776 shall_H0776 pine away_H4743 with_H0854 them_H0854.
 
 ## Perspective on the repentance and conversion of Israel in exile
-@40 “‘If they confess their iniquity and the iniquity of their fathers, in their trespass which they trespassed against me; and also that because they walked contrary to me, 
-@41 I also walked contrary to them, and brought them into the land of their enemies; if then their uncircumcised heart is humbled, and they then accept the punishment of their iniquity, 
-@42 then I will remember my covenant with Jacob, my covenant with Isaac, and also my covenant with Abraham; and I will remember the land. 
-@43 The land also will be left by them, and will enjoy its Sabbaths while it lies desolate without them; and they will accept the punishment of their iniquity because they rejected my ordinances, and their soul abhorred my statutes. 
-@44 Yet for all that, when they are in the land of their enemies, I will not reject them, neither will I abhor them, to destroy them utterly and to break my covenant with them; for I am Yahweh their God. 
-@45 But I will for their sake remember the covenant of their ancestors, whom I brought out of the land of Egypt in the sight of the nations, that I might be their God. I am Yahweh.’” 
+@40 “‘If_H0834 they_H0834 confess_H3034 their_H0834 iniquity_H5771 and_H1980 the_H0853 iniquity_H5771 of_H0001 their_H0834 fathers_H0001, in_H1980 their_H0834 trespass_H4604 which_H0834 they_H0834 trespassed against_H5973 me_H5973; and_H1980 also_H0637 that_H0834 because_H0834 they_H0834 walked_H1980 contrary to_H1980 me_H5973, 
+@41 I_H0589 also_H0637 walked contrary to_H0935 them_H0853, and_H0935 brought_H0935 them_H0853 into_H0935 the_H0853 land_H0776 of_H0776 their_H0935 enemies_H0341; if_H0176 then_H0227 their_H0935 uncircumcised_H6189 heart_H3824 is_H0776 humbled_H3665, and_H0935 they_H0935 then_H0227 accept_H7521 the_H0853 punishment_H5771 of_H0776 their_H0935 iniquity_H5771, 
+@42 then_H0853 I_H0776 will_H0776 remember_H2142 my_H2142 covenant_H1285 with_H1285 Jacob_H3290, my_H2142 covenant_H1285 with_H1285 Isaac_H3327, and_H0776 also_H0637 my_H2142 covenant_H1285 with_H1285 Abraham_H0085; and_H0776 I_H0776 will_H0776 remember_H2142 the_H0853 land_H0776. 
+@43 The_H0853 land_H0776 also_H0853 will_H0776 be_H0776 left_H5800 by_H0776 them_H1992, and_H0776 will_H0776 enjoy_H7521 its_H0853 Sabbaths_H7676 while_H5315 it_H8074 lies_H8074 desolate_H8074 without them_H1992; and_H0776 they_H1992 will_H0776 accept_H7521 the_H0853 punishment_H5771 of_H0776 their_H1992 iniquity_H5771 because_H3282 they_H1992 rejected_H5800 my_H1602 ordinances_H4941, and_H0776 their_H1992 soul_H5315 abhorred_H1602 my_H1602 statutes_H2708. 
+@44 Yet_H3588 for_H3588 all_H3615 that_H3588, when_H3588 they_H3588 are_H3068 in_H0430 the_H3588 land_H0776 of_H0776 their_H3068 enemies_H0341, I_H0589 will_H3068 not_H3808 reject_H3988 them_H3615, neither_H3808 will_H3068 I_H0589 abhor_H1602 them_H3615, to_H1961 destroy_H3615 them_H3615 utterly and_H3068 to_H1961 break_H6565 my_H3068 covenant_H1285 with_H0854 them_H3615; for_H3588 I_H0589 am_H0589 Yahweh_H3068 their_H3068 God_H0430. 
+@45 But_H1961 I_H0589 will_H3068 for_H0776 their_H3068 sake remember_H2142 the_H0853 covenant_H1285 of_H0776 their_H3068 ancestors_H7223, whom_H0834 I_H0589 brought_H3318 out_H3318 of_H0776 the_H0853 land_H0776 of_H0776 Egypt_H4714 in_H0430 the_H0853 sight_H5869 of_H0776 the_H0853 nations_H1471, that_H0834 I_H0589 might_H3068 be_H1961 their_H3068 God_H0430. I_H0589 am_H0589 Yahweh_H3068.’” 
 
-@46 These are the statutes, ordinances, and laws, which Yahweh made between him and the children of Israel in Mount Sinai by Moses. 
+@46 These_H0428 are_H0834 the_H0834 statutes_H2706, ordinances_H4941, and_H1121 laws_H8451, which_H0834 Yahweh_H3068 made_H5414 between_H0996 him_H5414 and_H1121 the_H0834 children_H1121 of_H1121 Israel_H3478 in_H3068 Mount_H2022 Sinai_H5514 by_H3027 Moses_H4872. 
 
 # 27 
 ## Votes and their solution
-@1 Yahweh spoke to Moses, saying, 
-@2 “Speak to the children of Israel, and say to them, ‘When a man consecrates a person to Yahweh in a vow, according to your valuation, 
-@3 your valuation of a male from twenty years old to sixty years old shall be fifty shekels of silver, according to the shekel^a^ of the sanctuary. 
-@4 If she is a female, then your valuation shall be thirty shekels. 
-@5 If the person is from five years old to twenty years old, then your valuation shall be for a male twenty shekels, and for a female ten shekels. 
-@6 If the person is from a month old to five years old, then your valuation shall be for a male five shekels of silver, and for a female your valuation shall be three shekels of silver. 
-@7 If the person is from sixty years old and upward; if he is a male, then your valuation shall be fifteen shekels, and for a female ten shekels. 
-@8 But if he is poorer than your valuation, then he shall be set before the priest, and the priest shall assign a value to him. The priest shall assign a value according to his ability to pay. 
+@1 Yahweh_H3068 spoke_H1696 to_H0413 Moses_H4872, saying_H0559, 
+@2 “Speak_H1696 to_H0413 the_H0559 children_H1121 of_H1121 Israel_H3478, and_H1121 say_H0559 to_H0413 them_H0413, ‘When_H3588 a_H3588 man_H0376 consecrates a_H3588 person_H5315 to_H0413 Yahweh_H3068 in_H0413 a_H3588 vow_H5088, according_H0413 to_H0413 your_H3068 valuation_H6187, 
+@3 your_H1961 valuation_H6187 of_H1121 a_H1961 male_H2145 from_H1121 twenty_H6242 years_H8141 old_H1121 to_H5704 sixty_H8346 years_H8141 old_H1121 shall_H1121 be_H1961 fifty_H2572 shekels_H8255 of_H1121 silver_H3701, according to_H5704 the_H5704 shekel_H8255^a^ of_H1121 the_H5704 sanctuary_H6944. 
+@4 If_H0518 she_H1931 is_H1931 a_H1961 female_H5347, then_H1961 your_H0518 valuation_H6187 shall_H1931 be_H1961 thirty_H7970 shekels_H8255. 
+@5 If_H0518 the_H5704 person is_H1121 from_H1121 five_H2568 years_H8141 old_H1121 to_H5704 twenty_H6242 years_H8141 old_H1121, then_H1961 your_H0518 valuation_H6187 shall_H1121 be_H1961 for_H0518 a_H1961 male_H2145 twenty_H6242 shekels_H8255, and_H1121 for_H0518 a_H1961 female_H5347 ten_H6235 shekels_H8255. 
+@6 If_H0518 the_H5704 person is_H3701 from_H1121 a_H1961 month_H2320 old_H1121 to_H5704 five_H2568 years_H8141 old_H1121, then_H1961 your_H0518 valuation_H6187 shall_H1121 be_H1961 for_H0518 a_H1961 male_H2145 five_H2568 shekels_H8255 of_H1121 silver_H3701, and_H1121 for_H0518 a_H1961 female_H5347 your_H0518 valuation_H6187 shall_H1121 be_H1961 three_H7969 shekels_H8255 of_H1121 silver_H3701. 
+@7 If_H0518 the_H0518 person is_H1121 from_H1121 sixty_H8346 years_H8141 old_H1121 and_H1121 upward_H4605; if_H0518 he_H0518 is_H1121 a_H1961 male_H2145, then_H1961 your_H0518 valuation_H6187 shall_H1121 be_H1961 fifteen_H6240 shekels_H8255, and_H1121 for_H0518 a_H1961 female_H5347 ten_H6235 shekels_H8255. 
+@8 But_H0518 if_H0518 he_H0834 is_H0834 poorer_H4134 than_H5921 your_H5921 valuation_H6187, then_H0853 he_H0834 shall_H3548 be_H3027 set_H5975 before_H6440 the_H0853 priest_H3548, and_H3027 the_H0853 priest_H3548 shall_H3548 assign a_H0518 value_H6187 to_H5921 him_H5921. The_H0853 priest_H3548 shall_H3548 assign a_H0518 value_H6187 according_H5921 to_H5921 his_H5921 ability to_H5921 pay. 
 ^a^[**27:3** A shekel is about 10 grams or about 0.35 ounces.]
 
-@9 “‘If it is an animal of which men offer an offering to Yahweh, all that any man gives of such to Yahweh becomes holy. 
-@10 He shall not alter it, nor exchange it, a good for a bad, or a bad for a good. If he shall at all exchange animal for animal, then both it and that for which it is exchanged shall be holy. 
-@11 If it is any unclean animal, of which they do not offer as an offering to Yahweh, then he shall set the animal before the priest; 
-@12 and the priest shall evaluate it, whether it is good or bad. As the priest evaluates it, so it shall be. 
-@13 But if he will indeed redeem it, then he shall add the fifth part of it to its valuation. 
+@9 “‘If_H0518 it_H5414 is_H0834 an_H1961 animal_H0929 of_H3068 which_H0834 men_H3605 offer_H7126 an_H1961 offering_H7133 to_H1961 Yahweh_H3068, all_H3605 that_H0834 any_H3605 man_H3605 gives_H5414 of_H3068 such_H0834 to_H1961 Yahweh_H3068 becomes_H1961 holy_H6944. 
+@10 He_H1931 shall_H3808 not_H3808 alter it_H1931, nor_H3808 exchange_H4171 it_H1931, a_H1961 good_H2896 for_H0518 a_H1961 bad_H7451, or_H0176 a_H1961 bad_H7451 for_H0518 a_H1961 good_H2896. If_H0518 he_H1931 shall_H3808 at_H1961 all exchange_H4171 animal_H0929 for_H0518 animal_H0929, then_H1961 both it_H1931 and_H0929 that_H1931 for_H0518 which_H1931 it_H1931 is_H1931 exchanged_H8545 shall_H3808 be_H1961 holy_H6944. 
+@11 If_H0518 it_H0518 is_H0834 any_H3605 unclean_H2931 animal_H0929, of_H3068 which_H0834 they_H0834 do_H0518 not_H3808 offer_H7126 as_H0834 an_H7126 offering_H7133 to_H3068 Yahweh_H3068, then_H0853 he_H0834 shall_H3548 set_H5975 the_H3605 animal_H0929 before_H6440 the_H3605 priest_H3548; 
+@12 and_H3548 the_H0853 priest_H3548 shall_H3548 evaluate it_H3651, whether_H0996 it_H3651 is_H3651 good_H2896 or_H0996 bad_H7451. As_H1961 the_H0853 priest_H3548 evaluates it_H3651, so_H3651 it_H3651 shall_H3548 be_H1961. 
+@13 But_H0518 if_H0518 he_H0518 will_H0518 indeed_H0518 redeem_H1350 it_H0518, then_H3254 he_H0518 shall_H1350 add_H3254 the_H5921 fifth_H2549 part_H5921 of_H5921 it_H0518 to_H5921 its_H5921 valuation_H6187. 
 
-@14 “‘When a man dedicates his house to be holy to Yahweh, then the priest shall evaluate it, whether it is good or bad. As the priest evaluates it, so it shall stand. 
-@15 If he who dedicates it will redeem his house, then he shall add the fifth part of the money of your valuation to it, and it shall be his. 
+@14 “‘When_H3588 a_H3588 man_H0376 dedicates his_H3068 house_H1004 to_H3068 be_H0376 holy_H6944 to_H3068 Yahweh_H3068, then_H6965 the_H0853 priest_H3548 shall_H3548 evaluate it_H3588, whether_H0996 it_H3588 is_H0834 good_H2896 or_H1004 bad_H7451. As_H0834 the_H0853 priest_H3548 evaluates it_H3588, so_H3651 it_H3588 shall_H3548 stand_H6965. 
+@15 If_H0518 he_H0518 who dedicates it_H0518 will_H1961 redeem_H1350 his_H5921 house_H1004, then_H1961 he_H0518 shall_H1004 add_H3254 the_H0853 fifth_H2549 part_H5921 of_H1004 the_H0853 money_H3701 of_H1004 your_H5921 valuation_H6187 to_H1961 it_H0518, and_H1004 it_H0518 shall_H1004 be_H1961 his_H5921. 
 
-@16 “‘If a man dedicates to Yahweh part of the field of his possession, then your valuation shall be according to the seed for it. The sowing of a homer^a^ of barley shall be valued at fifty shekels^b^ of silver. 
-@17 If he dedicates his field from the Year of Jubilee, according to your valuation it shall stand. 
-@18 But if he dedicates his field after the Jubilee, then the priest shall reckon to him the money according to the years that remain to the Year of Jubilee; and an abatement shall be made from your valuation. 
-@19 If he who dedicated the field will indeed redeem it, then he shall add the fifth part of the money of your valuation to it, and it shall remain his. 
-@20 If he will not redeem the field, or if he has sold the field to another man, it shall not be redeemed any more; 
-@21 but the field, when it goes out in the Jubilee, shall be holy to Yahweh, as a devoted field. It shall be owned by the priests. 
+@16 “‘If_H0518 a_H1961 man_H0376 dedicates to_H1961 Yahweh_H3068 part of_H0376 the_H3068 field_H7704 of_H0376 his_H3068 possession_H0272, then_H1961 your_H3068 valuation_H6187 shall_H3068 be_H1961 according_H6310 to_H1961 the_H3068 seed_H2233 for_H0518 it_H0518. The_H3068 sowing_H2233 of_H0376 a_H1961 homer^a^ of_H0376 barley_H8184 shall_H3068 be_H1961 valued at_H3068 fifty_H2572 shekels_H8255^b^ of_H0376 silver_H3701. 
+@17 If_H0518 he_H0518 dedicates his_H0518 field_H7704 from_H6965 the_H0518 Year_H8141 of_H8141 Jubilee_H3104, according to_H6965 your_H0518 valuation_H6187 it_H0518 shall_H7704 stand_H6965. 
+@18 But_H0518 if_H0518 he_H0518 dedicates his_H5921 field_H7704 after_H0310 the_H0853 Jubilee_H3104, then_H0853 the_H0853 priest_H3548 shall_H3548 reckon to_H5704 him_H5921 the_H0853 money_H3701 according_H5921 to_H5704 the_H0853 years_H8141 that_H8141 remain_H3498 to_H5704 the_H0853 Year_H8141 of_H8141 Jubilee_H3104; and_H3701 an_H2803 abatement shall_H3548 be_H3701 made_H6942 from_H5921 your_H5921 valuation_H6187. 
+@19 If_H0518 he_H0518 who dedicated_H6942 the_H0853 field_H7704 will_H7704 indeed_H0518 redeem_H1350 it_H0518, then_H6965 he_H0518 shall_H3701 add_H3254 the_H0853 fifth_H2549 part_H5921 of_H5921 the_H0853 money_H3701 of_H5921 your_H5921 valuation_H6187 to_H5921 it_H0518, and_H6965 it_H0518 shall_H3701 remain his_H5921. 
+@20 If_H0518 he_H0518 will_H0376 not_H3808 redeem_H1350 the_H0853 field_H7704, or_H0518 if_H0518 he_H0518 has_H0376 sold_H4376 the_H0853 field_H7704 to_H0376 another_H0312 man_H0376, it_H0518 shall_H0376 not_H3808 be_H5750 redeemed_H1350 any_H0376 more_H5750; 
+@21 but_H1961 the_H3068 field_H7704, when_H1961 it_H1961 goes_H3318 out_H3318 in_H3068 the_H3068 Jubilee_H3104, shall_H3548 be_H1961 holy_H6944 to_H1961 Yahweh_H3068, as_H1961 a_H1961 devoted_H2764 field_H7704. It_H1961 shall_H3548 be_H1961 owned_H0272 by_H3068 the_H3068 priests_H3548. 
 ^a^[**27:16** 1 homer is about 220 liters or 6 bushels] ^b^[**27:16** A shekel is about 10 grams or about 0.35 ounces.]
 
-@22 “‘If he dedicates a field to Yahweh which he has bought, which is not of the field of his possession, 
-@23 then the priest shall reckon to him the worth of your valuation up to the Year of Jubilee; and he shall give your valuation on that day, as a holy thing to Yahweh. 
-@24 In the Year of Jubilee the field shall return to him from whom it was bought, even to him to whom the possession of the land belongs. 
-@25 All your valuations shall be according to the shekel of the sanctuary: twenty gerahs^a^ to the shekel.^b^ 
+@22 “‘If_H0518 he_H0834 dedicates a_H0518 field_H7704 to_H3068 Yahweh_H3068 which_H0834 he_H0834 has_H3068 bought_H4736, which_H0834 is_H0834 not_H3808 of_H3068 the_H0853 field_H7704 of_H3068 his_H3068 possession_H0272, 
+@23 then_H0853 the_H0853 priest_H3548 shall_H3548 reckon to_H5704 him_H5414 the_H0853 worth of_H3068 your_H3068 valuation_H6187 up_H5704 to_H5704 the_H0853 Year_H8141 of_H3068 Jubilee_H3104; and_H3068 he_H1931 shall_H3548 give_H5414 your_H3068 valuation_H6187 on_H3117 that_H3117 day_H3117, as_H5704 a_H5414 holy_H6944 thing_H6944 to_H5704 Yahweh_H3068. 
+@24 In_H8141 the_H0853 Year_H8141 of_H0776 Jubilee_H3104 the_H0853 field_H7704 shall_H0776 return_H7725 to_H7725 him_H0853 from_H7725 whom_H0834 it_H7725 was_H0834 bought_H7069, even_H0853 to_H7725 him_H0853 to_H7725 whom_H0834 the_H0853 possession_H0272 of_H0776 the_H0853 land_H0776 belongs. 
+@25 All_H3605 your_H3605 valuations shall be_H1961 according to_H1961 the_H3605 shekel_H8255 of_H3605 the_H3605 sanctuary_H6944: twenty_H6242 gerahs_H1626^a^ to_H1961 the_H3605 shekel_H8255.^b^ 
 ^a^[**27:25** A gerah is about 0.5 grams or about 7.7 grains.] ^b^[**27:25** A shekel is about 10 grams or about 0.35 ounces.]
 
 ## Provisions relating to firstborns
-@26 “‘However the firstborn among animals, which belongs to Yahweh as a firstborn, no man may dedicate, whether an ox or a sheep. It is Yahweh’s. 
-@27 If it is an unclean animal, then he shall buy it back according to your valuation, and shall add to it the fifth part of it; or if it isn’t redeemed, then it shall be sold according to your valuation.
+@26 “‘However_H0389 the_H0853 firstborn_H1060 among_H0376 animals_H0929, which_H0834 belongs to_H3068 Yahweh_H3068 as_H0834 a_H0518 firstborn_H1060, no_H3808 man_H0376 may_H0376 dedicate_H6942, whether_H0518 an_H0376 ox_H7794 or_H0518 a_H0518 sheep_H7716. It_H1931 is_H0834 Yahweh’s_H3068. 
+@27 If_H0518 it_H0518 is_H1350 an_H0518 unclean_H2931 animal_H0929, then_H3254 he_H0518 shall_H3808 buy_H1350 it_H0518 back_H1350 according_H5921 to_H5921 your_H5921 valuation_H6187, and_H0929 shall_H3808 add_H3254 to_H5921 it_H0518 the_H5921 fifth_H2549 part_H5921 of_H5921 it_H0518; or_H0518 if_H0518 it_H0518 isn’t_H3808 redeemed_H1350, then_H3254 it_H0518 shall_H3808 be_H3808 sold_H4376 according_H5921 to_H5921 your_H5921 valuation_H6187.
 
 ## Consecrations in the form of a ban
-@28 “‘Notwithstanding, no devoted thing that a man devotes to Yahweh of all that he has, whether of man or animal, or of the field of his possession, shall be sold or redeemed. Everything that is permanently devoted is most holy to Yahweh. 
+@28 “‘Notwithstanding, no_H3808 devoted_H2764 thing_H6944 that_H0834 a_H0834 man_H0376 devotes to_H3068 Yahweh_H3068 of_H0376 all_H3605 that_H0834 he_H0834 has_H3068, whether of_H0376 man_H0376 or_H3808 animal_H0929, or_H3808 of_H0376 the_H3605 field_H7704 of_H0376 his_H3605 possession_H0272, shall_H3068 be_H3808 sold_H4376 or_H3808 redeemed_H1350. Everything_H3605 that_H0834 is_H0834 permanently devoted_H2764 is_H0834 most_H6944 holy_H6944 to_H3068 Yahweh_H3068. 
 
-@29 “‘No one devoted to destruction, who shall be devoted from among men, shall be ransomed. He shall surely be put to death.
+@29 “‘No_H3808 one_H3605 devoted_H2764 to_H4191 destruction, who_H0834 shall_H3808 be_H4191 devoted_H2764 from_H4480 among_H4480 men_H0120, shall_H3808 be_H4191 ransomed_H6299. He_H0834 shall_H3808 surely_H4191 be_H4191 put_H4191 to_H4191 death_H4191.
 
 ## Provisions relating to fruit and livestock tithes
-@30 “‘All the tithe of the land, whether of the seed of the land or of the fruit of the trees, is Yahweh’s. It is holy to Yahweh. 
-@31 If a man redeems anything of his tithe, he shall add a fifth part to it. 
-@32 All the tithe of the herds or the flocks, whatever passes under the rod, the tenth shall be holy to Yahweh. 
-@33 He shall not examine whether it is good or bad, neither shall he exchange it. If he exchanges it at all, then both it and that for which it is exchanged shall be holy. It shall not be redeemed.’” 
+@30 “‘All_H3605 the_H3605 tithe_H4643 of_H0776 the_H3605 land_H0776, whether of_H0776 the_H3605 seed_H2233 of_H0776 the_H3605 land_H0776 or_H3068 of_H0776 the_H3605 fruit_H6529 of_H0776 the_H3605 trees_H6086, is_H3068 Yahweh’s_H3068. It_H1931 is_H3068 holy_H6944 to_H3068 Yahweh_H3068. 
+@31 If_H0518 a_H0518 man_H0376 redeems_H1350 anything of_H0376 his_H5921 tithe_H4643, he_H0518 shall_H0376 add_H3254 a_H0518 fifth_H2549 part_H5921 to_H5921 it_H0518. 
+@32 All_H3605 the_H3605 tithe_H4643 of_H3068 the_H3605 herds_H1241 or_H1241 the_H3605 flocks_H6629, whatever_H0834 passes_H5674 under_H8478 the_H3605 rod_H7626, the_H3605 tenth_H6224 shall_H3068 be_H1961 holy_H6944 to_H1961 Yahweh_H3068. 
+@33 He_H1931 shall_H3808 not_H3808 examine_H1239 whether_H0518 it_H1931 is_H1931 good_H2896 or_H0518 bad_H7451, neither_H3808 shall_H3808 he_H1931 exchange_H4171 it_H1931. If_H0518 he_H1931 exchanges_H4171 it_H1931 at_H1961 all, then_H1961 both it_H1931 and_H6944 that_H1931 for_H0518 which_H1931 it_H1931 is_H1931 exchanged_H8545 shall_H3808 be_H1961 holy_H6944. It_H1931 shall_H3808 not_H3808 be_H1961 redeemed_H1350.’” 
 
-@34 These are the commandments which Yahweh commanded Moses for the children of Israel on Mount Sinai. 
+@34 These_H0428 are_H0834 the_H0853 commandments_H4687 which_H0834 Yahweh_H3068 commanded_H6680 Moses_H4872 for_H0413 the_H0853 children_H1121 of_H1121 Israel_H3478 on_H0413 Mount_H2022 Sinai_H5514. 

@@ -1,1029 +1,1029 @@
 # 1 
 ## Campaigns and armed acts of the Jews in relation to the Simeonites
-@1 After the death of Joshua, the children of Israel asked of Yahweh,^a^ saying, “Who should go up for us first against the Canaanites, to fight against them?” 
+@1 After_H0310 the_H0559 death_H4194 of_H1121 Joshua_H3091, the_H0559 children_H1121 of_H1121 Israel_H3478 asked_H7592 of_H1121 Yahweh_H3068,^a^ saying_H0559, “Who_H4310 should_H3068 go_H5927 up_H5927 for_H0413 us_H0413 first_H8462 against_H0413 the_H0559 Canaanites_H3669, to_H0413 fight_H3898 against_H0413 them_H0413?” 
 ^a^[**1:1** “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.]
 
-@2 Yahweh said, “Judah shall go up. Behold,^a^ I have delivered the land into his hand.” 
+@2 Yahweh_H3068 said_H0559, “Judah_H3063 shall_H3068 go_H5927 up_H5927. Behold_H2009,^a^ I_H5414 have_H0776 delivered_H5414 the_H0853 land_H0776 into_H0776 his_H5414 hand_H3027.” 
 ^a^[**1:2** “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.]
 
-@3 Judah said to Simeon his brother, “Come up with me into my lot, that we may fight against the Canaanites; and I likewise will go with you into your lot.” So Simeon went with him. 
-@4 Judah went up, and Yahweh delivered the Canaanites and the Perizzites into their hand. They struck ten thousand men in Bezek. 
-@5 They found Adoni-Bezek in Bezek, and they fought against him. They struck the Canaanites and the Perizzites. 
-@6 But Adoni-Bezek fled. They pursued him, caught him, and cut off his thumbs and his big toes. 
-@7 Adoni-Bezek said, “Seventy kings, having their thumbs and their big toes cut off, scavenged under my table. As I have done, so God^a^ has done to me.” They brought him to Jerusalem, and he died there. 
-@8 The children of Judah fought against Jerusalem, took it, struck it with the edge of the sword, and set the city on fire. 
+@3 Judah_H3063 said_H0559 to_H0559 Simeon_H8095 his_H1980 brother_H0251, “Come_H1980 up_H5927 with_H0854 me_H0589 into_H1980 my_H5927 lot_H1486, that_H0559 we_H1980 may_H1571 fight_H3898 against_H0854 the_H0559 Canaanites_H3669; and_H1980 I_H0589 likewise_H1571 will_H1571 go_H1980 with_H0854 you_H0854 into_H1980 your_H0559 lot_H1486.” So_H1980 Simeon_H8095 went_H1980 with_H0854 him_H0854. 
+@4 Judah_H3063 went_H5927 up_H5927, and_H3068 Yahweh_H3068 delivered_H5414 the_H0853 Canaanites_H3669 and_H3068 the_H0853 Perizzites_H6522 into_H0376 their_H3068 hand_H3027. They_H0376 struck_H5221 ten_H6235 thousand_H0505 men_H0376 in_H3068 Bezek_H0966. 
+@5 They_H5221 found_H4672 Adoni-Bezek_H0137 in_H4672 Bezek_H0966, and_H0853 they_H5221 fought_H3898 against_H3898 him_H0853. They_H5221 struck_H5221 the_H0853 Canaanites_H3669 and_H0853 the_H0853 Perizzites_H6522. 
+@6 But_H5127 Adoni-Bezek_H0137 fled_H5127. They_H0310 pursued_H7291 him_H0853, caught_H0270 him_H0853, and_H3027 cut_H7112 off_H7112 his_H3027 thumbs_H0931 and_H3027 his_H3027 big_H0931 toes_H0931. 
+@7 Adoni-Bezek_H0137 said_H0559, “Seventy_H7657 kings_H4428, having_H1961 their_H0935 thumbs_H0931 and_H0935 their_H0935 big_H0931 toes_H0931 cut_H7112 off_H7112, scavenged under_H8478 my_H1961 table_H7979. As_H0834 I_H0834 have_H1961 done_H6213, so_H3651 God_H0430^a^ has_H0430 done_H6213 to_H0559 me_H0935.” They_H0834 brought_H0935 him_H0935 to_H0559 Jerusalem_H3389, and_H0935 he_H0834 died_H4191 there_H8033. 
+@8 The_H0853 children_H1121 of_H1121 Judah_H3063 fought_H3898 against_H3898 Jerusalem_H3389, took_H3920 it_H5221, struck_H5221 it_H5221 with_H3389 the_H0853 edge_H6310 of_H1121 the_H0853 sword_H2719, and_H1121 set_H7971 the_H0853 city_H5892 on_H7971 fire_H0784. 
 ^a^[**1:7** The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).]
 
 ## Conquest of Hebron and Debir by Kaleb and Othniel
-@9 After that, the children of Judah went down to fight against the Canaanites who lived in the hill country, and in the South, and in the lowland. 
-@10 Judah went against the Canaanites who lived in Hebron. (The name of Hebron before that was Kiriath Arba.) They struck Sheshai, Ahiman, and Talmai. 
+@9 After_H0310 that_H0310, the_H0310 children_H1121 of_H1121 Judah_H3063 went_H3381 down_H3381 to_H3381 fight_H3898 against_H3898 the_H0310 Canaanites_H3669 who_H1121 lived_H3427 in_H3427 the_H0310 hill_H2022 country_H2022, and_H1121 in_H3427 the_H0310 South_H5045, and_H1121 in_H3427 the_H0310 lowland_H8219. 
+@10 Judah_H3063 went_H0413 against_H0413 the_H0853 Canaanites_H3669 who_H3427 lived_H3427 in_H3427 Hebron_H2275. (The_H0853 name_H8034 of_H3427 Hebron_H2275 before_H6440 that_H0413 was_H8034 Kiriath Arba.) They_H5221 struck_H5221 Sheshai_H8344, Ahiman_H0289, and_H3063 Talmai_H8526. 
 
-@11 From there he went against the inhabitants of Debir. (The name of Debir before that was Kiriath Sepher.) 
-@12 Caleb said, “I will give Achsah my daughter as wife to the man who strikes Kiriath Sepher, and takes it.” 
-@13 Othniel the son of Kenaz, Caleb’s younger brother, took it, so he gave him Achsah his daughter as his wife. 
+@11 From_H6440 there_H8033 he_H8033 went_H0413 against_H0413 the_H6440 inhabitants_H3427 of_H3427 Debir_H1688. (The_H6440 name_H8034 of_H3427 Debir_H1688 before_H6440 that_H8033 was_H8034 Kiriath Sepher.) 
+@12 Caleb_H3612 said_H0559, “I_H0834 will_H0834 give_H5414 Achsah_H5915 my_H5414 daughter_H1323 as_H0834 wife_H0802 to_H0559 the_H0853 man who_H0834 strikes_H5221 Kiriath Sepher, and_H0802 takes_H3920 it_H5414.” 
+@13 Othniel_H6274 the_H0853 son_H1121 of_H1121 Kenaz_H7073, Caleb’s_H3612 younger_H6996 brother_H0251, took_H3920 it_H5414, so_H4480 he_H4480 gave_H5414 him_H5414 Achsah_H5915 his_H5414 daughter_H1323 as_H1121 his_H5414 wife_H0802. 
 
-@14 When she came, she got him to ask her father for a field. She got off her donkey; and Caleb said to her, “What would you like?” 
+@14 When_H1961 she_H4100 came_H0935, she_H4100 got him_H5921 to_H0559 ask_H7592 her_H5921 father_H0001 for_H5921 a_H1961 field_H7704. She_H4100 got off_H5921 her_H5921 donkey_H2543; and_H0935 Caleb_H3612 said_H0559 to_H0559 her_H5921, “What_H4100 would_H4100 you_H5921 like_H1961?” 
 
-@15 She said to him, “Give me a blessing; because you have set me in the land of the South, give me also springs of water.” Then Caleb gave her the upper springs and the lower springs.
+@15 She_H3588 said_H0559 to_H0559 him_H5414, “Give_H5414 me_H5414 a_H3588 blessing_H1293; because_H3588 you_H3588 have_H0776 set_H5414 me_H5414 in_H0776 the_H0853 land_H0776 of_H0776 the_H0853 South_H5045, give_H5414 me_H5414 also_H0853 springs_H1543 of_H0776 water_H4325.” Then_H0853 Caleb_H3612 gave_H5414 her_H5414 the_H0853 upper_H5942 springs_H1543 and_H0776 the_H0853 lower_H8482 springs_H1543.
 
 ## Connection of the Kenites with Judah
-@16 The children of the Kenite, Moses’ brother-in-law, went up out of the city of palm trees with the children of Judah into the wilderness of Judah, which is in the south of Arad; and they went and lived with the people.
+@16 The_H0834 children_H1121 of_H1121 the_H0834 Kenite_H7017, Moses’_H4872 brother-in-law, went_H5927 up_H5927 out_H3427 of_H1121 the_H0834 city_H5892 of_H1121 palm_H8558 trees_H8558 with_H0854 the_H0834 children_H1121 of_H1121 Judah_H3063 into_H5927 the_H0834 wilderness_H4057 of_H1121 Judah_H3063, which_H0834 is_H0834 in_H3427 the_H0834 south_H5045 of_H1121 Arad_H6166; and_H1121 they_H0834 went_H5927 and_H1121 lived_H3427 with_H0854 the_H0834 people_H5971.
 
 ## More war enterprises of the Jews
-@17 Judah went with Simeon his brother, and they struck the Canaanites who inhabited Zephath, and utterly destroyed it. The name of the city was called Hormah. 
-@18 Also Judah took Gaza with its border, and Ashkelon with its border, and Ekron with its border. 
-@19 Yahweh was with Judah, and drove out the inhabitants of the hill country; for he could not drive out the inhabitants of the valley, because they had chariots of iron. 
-@20 They gave Hebron to Caleb, as Moses had said, and he drove the three sons of Anak out of there. 
-@21 The children of Benjamin didn’t drive out the Jebusites who inhabited Jerusalem, but the Jebusites dwell with the children of Benjamin in Jerusalem to this day.
+@17 Judah_H3063 went with_H0854 Simeon_H8095 his_H7121 brother_H0251, and_H3063 they_H2763 struck_H5221 the_H0853 Canaanites_H3669 who_H3427 inhabited_H3427 Zephath_H6857, and_H3063 utterly destroyed_H5221 it_H7121. The_H0853 name_H8034 of_H3427 the_H0853 city_H5892 was_H8034 called_H7121 Hormah_H2767. 
+@18 Also_H0853 Judah_H3063 took_H3920 Gaza_H5804 with_H1366 its_H0853 border_H1366, and_H3063 Ashkelon_H0831 with_H1366 its_H0853 border_H1366, and_H3063 Ekron_H6138 with_H1366 its_H0853 border_H1366. 
+@19 Yahweh_H3068 was_H1961 with_H0854 Judah_H3063, and_H3068 drove_H3423 out_H3423 the_H0853 inhabitants_H3427 of_H3068 the_H0853 hill_H2022 country_H2022; for_H3588 he_H3588 could not_H3808 drive_H3423 out_H3423 the_H0853 inhabitants_H3427 of_H3068 the_H0853 valley_H6010, because_H3588 they_H3588 had_H3068 chariots_H7393 of_H3068 iron_H1270. 
+@20 They_H0834 gave_H5414 Hebron_H2275 to_H1696 Caleb_H3612, as_H0834 Moses_H4872 had_H0834 said_H1696, and_H1121 he_H0834 drove_H3423 the_H0853 three_H7969 sons_H1121 of_H1121 Anak out_H3423 of_H1121 there_H8033. 
+@21 The_H0853 children_H1121 of_H1121 Benjamin_H1144 didn’t_H3808 drive_H3423 out_H3423 the_H0853 Jebusites_H2983 who_H1121 inhabited_H3427 Jerusalem_H3389, but_H3808 the_H0853 Jebusites_H2983 dwell_H3427 with_H0854 the_H0853 children_H1121 of_H1121 Benjamin_H1144 in_H3427 Jerusalem_H3389 to_H5704 this_H2088 day_H3117.
 
 ## Companies of the Josephites and other tribes; the Canaanites will not be completely expelled
-@22 The house of Joseph also went up against Bethel, and Yahweh was with them. 
-@23 The house of Joseph sent to spy out Bethel. (The name of the city before that was Luz.) 
-@24 The watchers saw a man come out of the city, and they said to him, “Please show us the entrance into the city, and we will deal kindly with you.” 
-@25 He showed them the entrance into the city, and they struck the city with the edge of the sword; but they let the man and all his family go. 
-@26 The man went into the land of the Hittites, built a city, and called its name Luz, which is its name to this day.
+@22 The_H3068 house_H1004 of_H1004 Joseph_H3130 also_H1571 went_H5927 up_H5927 against_H5973 Bethel_H1008, and_H3068 Yahweh_H3068 was_H3068 with_H5973 them_H1992. 
+@23 The_H6440 house_H1004 of_H1004 Joseph_H3130 sent to_H6440 spy_H8446 out_H6440 Bethel_H1008. (The_H6440 name_H8034 of_H1004 the_H6440 city_H5892 before_H6440 that_H1004 was_H8034 Luz_H3870.) 
+@24 The_H0853 watchers saw_H7200 a_H7200 man_H0376 come_H3318 out_H3318 of_H0376 the_H0853 city_H5892, and_H0376 they_H0376 said_H0559 to_H0559 him_H0853, “Please_H4994 show_H7200 us_H4994 the_H0853 entrance_H3996 into_H0376 the_H0853 city_H5892, and_H0376 we_H4994 will_H0376 deal_H6213 kindly with_H5973 you_H5973.” 
+@25 He_H0853 showed_H7200 them_H0853 the_H3605 entrance_H3996 into_H0376 the_H3605 city_H5892, and_H7971 they_H0376 struck_H5221 the_H3605 city_H5892 with_H0376 the_H3605 edge_H6310 of_H0376 the_H3605 sword_H2719; but_H7200 they_H0376 let_H7971 the_H3605 man_H0376 and_H7971 all_H3605 his_H3605 family_H4940 go_H7971. 
+@26 The_H5704 man_H0376 went_H0376 into_H0376 the_H5704 land_H0776 of_H0776 the_H5704 Hittites_H2850, built_H1129 a_H1129 city_H5892, and_H0776 called_H7121 its_H5704 name_H8034 Luz_H3870, which_H1931 is_H2088 its_H5704 name_H8034 to_H5704 this_H2088 day_H3117.
 
 ## Overview of the unconquered territories
-@27 Manasseh didn’t drive out the inhabitants of Beth Shean and its towns, nor Taanach and its towns, nor the inhabitants of Dor and its towns, nor the inhabitants of Ibleam and its towns, nor the inhabitants of Megiddo and its towns; but the Canaanites would dwell in that land. 
-@28 When Israel had grown strong, they put the Canaanites to forced labor, and didn’t utterly drive them out. 
-@29 Ephraim didn’t drive out the Canaanites who lived in Gezer, but the Canaanites lived in Gezer among them. 
-@30 Zebulun didn’t drive out the inhabitants of Kitron, nor the inhabitants of Nahalol; but the Canaanites lived among them, and became subject to forced labor. 
-@31 Asher didn’t drive out the inhabitants of Acco, nor the inhabitants of Sidon, nor of Ahlab, nor of Achzib, nor of Helbah, nor of Aphik, nor of Rehob; 
-@32 but the Asherites lived among the Canaanites, the inhabitants of the land, for they didn’t drive them out. 
-@33 Naphtali didn’t drive out the inhabitants of Beth Shemesh, nor the inhabitants of Beth Anath; but he lived among the Canaanites, the inhabitants of the land. Nevertheless the inhabitants of Beth Shemesh and of Beth Anath became subject to forced labor. 
-@34 The Amorites forced the children of Dan into the hill country, for they would not allow them to come down to the valley; 
-@35 but the Amorites would dwell in Mount Heres, in Aijalon, and in Shaalbim. Yet the hand of the house of Joseph prevailed, so that they became subject to forced labor. 
-@36 The border of the Amorites was from the ascent of Akrabbim, from the rock, and upward. 
+@27 Manasseh_H4519 didn’t_H3808 drive_H3423 out_H3423 the_H0853 inhabitants_H3427 of_H0776 Beth Shean and_H0776 its_H0853 towns_H1323, nor_H3808 Taanach_H8590 and_H0776 its_H0853 towns_H1323, nor_H3808 the_H0853 inhabitants_H3427 of_H0776 Dor_H1756 and_H0776 its_H0853 towns_H1323, nor_H3808 the_H0853 inhabitants_H3427 of_H0776 Ibleam_H2991 and_H0776 its_H0853 towns_H1323, nor_H3808 the_H0853 inhabitants_H3427 of_H0776 Megiddo_H4023 and_H0776 its_H0853 towns_H1323; but_H3808 the_H0853 Canaanites_H3669 would dwell_H3427 in_H3427 that_H3808 land_H0776. 
+@28 When_H3588 Israel_H3478 had_H1961 grown_H1961 strong_H2388, they_H3588 put_H7760 the_H0853 Canaanites_H3669 to_H1961 forced_H4522 labor_H4522, and_H3478 didn’t_H3808 utterly drive_H3423 them_H0853 out_H2388. 
+@29 Ephraim_H0669 didn’t_H3808 drive_H3423 out_H3423 the_H0853 Canaanites_H3669 who_H3427 lived_H3427 in_H3427 Gezer_H1507, but_H3808 the_H0853 Canaanites_H3669 lived_H3427 in_H3427 Gezer_H1507 among_H7130 them_H0853. 
+@30 Zebulun_H2074 didn’t_H3808 drive_H3423 out_H3423 the_H0853 inhabitants_H3427 of_H3427 Kitron_H7003, nor_H3808 the_H0853 inhabitants_H3427 of_H3427 Nahalol_H5096; but_H3808 the_H0853 Canaanites_H3669 lived_H3427 among_H7130 them_H0853, and_H3427 became_H1961 subject to_H1961 forced_H4522 labor_H4522. 
+@31 Asher_H0836 didn’t_H3808 drive_H3423 out_H3423 the_H0853 inhabitants_H3427 of_H3427 Acco_H5910, nor_H3808 the_H0853 inhabitants_H3427 of_H3427 Sidon_H6721, nor_H3808 of_H3427 Ahlab_H0303, nor_H3808 of_H3427 Achzib_H0392, nor_H3808 of_H3427 Helbah_H2462, nor_H3808 of_H3427 Aphik_H0663, nor_H3808 of_H3427 Rehob_H7340; 
+@32 but_H3588 the_H3588 Asherites_H0843 lived_H3427 among_H7130 the_H3588 Canaanites_H3669, the_H3588 inhabitants_H3427 of_H0776 the_H3588 land_H0776, for_H3588 they_H3588 didn’t_H3808 drive_H3423 them_H3423 out_H3423. 
+@33 Naphtali_H5321 didn’t_H3808 drive_H3423 out_H3423 the_H0853 inhabitants_H3427 of_H0776 Beth Shemesh, nor_H3808 the_H0853 inhabitants_H3427 of_H0776 Beth Anath; but_H3808 he_H3808 lived_H3427 among_H7130 the_H0853 Canaanites_H3669, the_H0853 inhabitants_H3427 of_H0776 the_H0853 land_H0776. Nevertheless the_H0853 inhabitants_H3427 of_H0776 Beth Shemesh and_H0776 of_H0776 Beth Anath became_H1961 subject to_H1961 forced_H4522 labor_H4522. 
+@34 The_H0853 Amorites_H0567 forced_H3905 the_H0853 children_H1121 of_H1121 Dan_H1835 into_H5414 the_H0853 hill_H2022 country_H2022, for_H3588 they_H3588 would not_H3808 allow_H5414 them_H5414 to_H3381 come_H3381 down_H3381 to_H3381 the_H0853 valley_H6010; 
+@35 but_H1961 the_H1961 Amorites_H0567 would dwell_H3427 in_H3427 Mount_H2022 Heres_H2776, in_H3427 Aijalon_H0357, and_H3027 in_H3427 Shaalbim_H8169. Yet the_H1961 hand_H3027 of_H1004 the_H1961 house_H1004 of_H1004 Joseph_H3130 prevailed, so_H1961 that_H1961 they_H3027 became_H1961 subject to_H1961 forced_H4522 labor_H4522. 
+@36 The_H4605 border_H1366 of_H1366 the_H4605 Amorites_H0567 was_H1366 from_H1366 the_H4605 ascent_H4610 of_H1366 Akrabbim_H4610, from_H1366 the_H4605 rock_H5553, and_H5553 upward_H4605. 
 
 # 2 
 ## The angel of the Lord's threat of punishment against Israel for violating covenant duty
-@1 Yahweh’s angel came up from Gilgal to Bochim. He said, “I brought you out of Egypt, and have brought you to the land which I swore to give your fathers. I said, ‘I will never break my covenant with you. 
-@2 You shall make no covenant with the inhabitants of this land. You shall break down their altars.’ But you have not listened to my voice. Why have you done this? 
-@3 Therefore I also said, ‘I will not drive them out from before you; but they shall be in your sides, and their gods will be a snare to you.’” 
+@1 Yahweh’s_H3068 angel_H4397 came_H0935 up_H5927 from_H4480 Gilgal_H1537 to_H0413 Bochim_H1066. He_H0834 said_H0559, “I_H0834 brought_H0935 you_H0834 out_H4480 of_H0776 Egypt_H4714, and_H0935 have_H0834 brought_H0935 you_H0834 to_H0413 the_H0853 land_H0776 which_H0834 I_H0834 swore_H7650 to_H0413 give_H0935 your_H3068 fathers_H0001. I_H0834 said_H0559, ‘I_H0834 will_H3068 never_H3808 break_H6565 my_H3068 covenant_H1285 with_H0854 you_H0834. 
+@2 You_H0859 shall_H0776 make_H6213 no_H3808 covenant_H1285 with_H1285 the_H8085 inhabitants_H3427 of_H0776 this_H2063 land_H0776. You_H0859 shall_H0776 break_H5422 down_H5422 their_H8085 altars_H4196.’ But_H3808 you_H0859 have_H0776 not_H3808 listened_H8085 to_H8085 my_H8085 voice_H6963. Why_H4100 have_H0776 you_H0859 done_H6213 this_H2063? 
+@3 Therefore_H1571 I_H1571 also_H1571 said_H0559, ‘I_H1571 will_H0430 not_H3808 drive_H1644 them_H0853 out_H1644 from_H6440 before_H6440 you_H6440; but_H3808 they_H3808 shall_H3808 be_H1961 in_H0430 your_H6440 sides_H6654, and_H0430 their_H6440 gods_H0430 will_H0430 be_H1961 a_H1961 snare_H4170 to_H0559 you_H6440.’” 
 
-@4 When Yahweh’s angel spoke these words to all the children of Israel, the people lifted up their voice and wept. 
-@5 They called the name of that place Bochim,^a^ and they sacrificed there to Yahweh.
+@4 When_H1961 Yahweh’s_H3068 angel_H4397 spoke_H1696 these_H0428 words_H1697 to_H0413 all_H3605 the_H3605 children_H1121 of_H1121 Israel_H3478, the_H3605 people_H5971 lifted_H5375 up_H5375 their_H3605 voice_H6963 and_H1121 wept_H1058. 
+@5 They_H8033 called_H7121 the_H3068 name_H8034 of_H3068 that_H1931 place_H4725 Bochim_H1066,^a^ and_H3068 they_H8033 sacrificed_H2076 there_H8033 to_H3068 Yahweh_H3068.
 
 ## After the death of Joshua and his companions, Israel turned to idolatry
-@6 Now when Joshua had sent the people away, the children of Israel each went to his inheritance to possess the land. 
-@7 The people served Yahweh all the days of Joshua, and all the days of the elders who outlived Joshua, who had seen all the great work of Yahweh that he had worked for Israel. 
-@8 Joshua the son of Nun, the servant of Yahweh, died, being one hundred ten years old. 
-@9 They buried him in the border of his inheritance in Timnath Heres, in the hill country of Ephraim, on the north of the mountain of Gaash. 
-@10 After all that generation were gathered to their fathers, another generation arose after them who didn’t know Yahweh, nor the work which he had done for Israel. 
-@11 The children of Israel did that which was evil in Yahweh’s sight, and served the Baals. 
-@12 They abandoned Yahweh, the God of their fathers, who brought them out of the land of Egypt, and followed other gods, of the gods of the peoples who were around them, and bowed themselves down to them; and they provoked Yahweh to anger.
+@6 Now when_H7971 Joshua_H3091 had_H3478 sent_H7971 the_H0853 people_H5971 away_H7971, the_H0853 children_H1121 of_H1121 Israel_H3478 each_H0376 went_H0376 to_H3478 his_H7971 inheritance_H5159 to_H3478 possess_H3423 the_H0853 land_H0776. 
+@7 The_H3605 people_H5971 served_H5647 Yahweh_H3068 all_H3605 the_H3605 days_H3117 of_H3068 Joshua_H3091, and_H3068 all_H3605 the_H3605 days_H3117 of_H3068 the_H3605 elders_H2205 who_H0834 outlived_H0310 Joshua_H3091, who_H0834 had_H3068 seen_H7200 all_H3605 the_H3605 great_H1419 work_H4639 of_H3068 Yahweh_H3068 that_H0834 he_H0834 had_H3068 worked_H5647 for_H3117 Israel_H3478. 
+@8 Joshua_H3091 the_H3068 son_H1121 of_H1121 Nun_H5126, the_H3068 servant_H5650 of_H1121 Yahweh_H3068, died_H4191, being_H1121 one_H1121 hundred_H3967 ten_H6235 years_H8141 old_H1121. 
+@9 They buried_H6912 him_H0853 in_H6912 the_H0853 border_H1366 of_H2022 his_H6912 inheritance_H5159 in_H6912 Timnath Heres, in_H6912 the_H0853 hill_H2022 country_H2022 of_H2022 Ephraim_H0669, on_H2022 the_H0853 north_H6828 of_H2022 the_H0853 mountain_H2022 of_H2022 Gaash_H1608. 
+@10 After_H0310 all_H3605 that_H0834 generation_H1755 were_H0834 gathered_H0622 to_H0413 their_H3605 fathers_H0001, another_H0312 generation_H1755 arose_H6965 after_H0310 them_H0413 who_H0834 didn’t_H3808 know_H3045 Yahweh_H3068, nor_H3808 the_H3605 work_H4639 which_H0834 he_H0834 had_H3068 done_H6213 for_H0413 Israel_H3478. 
+@11 The_H0853 children_H1121 of_H1121 Israel_H3478 did_H6213 that_H3068 which_H5869 was_H3068 evil_H7451 in_H3068 Yahweh’s_H3068 sight_H5869, and_H1121 served_H5647 the_H0853 Baals_H1168. 
+@12 They_H0834 abandoned_H5800 Yahweh_H3068, the_H0853 God_H0430 of_H0776 their_H3068 fathers_H0001, who_H0834 brought_H3318 them_H0853 out_H3318 of_H0776 the_H0853 land_H0776 of_H0776 Egypt_H4714, and_H3068 followed_H0310 other_H0312 gods_H0430, of_H0776 the_H0853 gods_H0430 of_H0776 the_H0853 peoples_H5971 who_H0834 were_H0834 around_H5439 them_H0853, and_H3068 bowed_H7812 themselves_H0310 down_H7812 to_H3068 them_H0853; and_H3068 they_H0834 provoked_H3707 Yahweh_H3068 to_H3068 anger_H3707.
 
 ## Regular alternation of apostasy and punishment, repentance and salvation; God's wrath
-@13 They abandoned Yahweh, and served Baal and the Ashtaroth. 
-@14 Yahweh’s anger burned against Israel, and he delivered them into the hands of raiders who plundered them. He sold them into the hands of their enemies all around, so that they could no longer stand before their enemies. 
-@15 Wherever they went out, Yahweh’s hand was against them for evil, as Yahweh had spoken, and as Yahweh had sworn to them; and they were very distressed. 
-@16 Yahweh raised up judges, who saved them out of the hand of those who plundered them. 
-@17 Yet they didn’t listen to their judges; for they prostituted themselves to other gods, and bowed themselves down to them. They quickly turned away from the way in which their fathers walked, obeying Yahweh’s commandments. They didn’t do so. 
-@18 When Yahweh raised up judges for them, then Yahweh was with the judge, and saved them out of the hand of their enemies all the days of the judge; for it grieved Yahweh because of their groaning by reason of those who oppressed them and troubled them. 
-@19 But when the judge was dead, they turned back, and dealt more corruptly than their fathers in following other gods to serve them and to bow down to them. They didn’t cease what they were doing, or give up their stubborn ways. 
-@20 Yahweh’s anger burned against Israel; and he said, “Because this nation transgressed my covenant which I commanded their fathers, and has not listened to my voice, 
-@21 I also will no longer drive out any of the nations that Joshua left when he died from before them; 
-@22 that by them I may test Israel, to see if they will keep Yahweh’s way to walk therein, as their fathers kept it, or not.” 
-@23 So Yahweh left those nations, without driving them out hastily. He didn’t deliver them into Joshua’s hand.
+@13 They_H3068 abandoned_H5800 Yahweh_H3068, and_H3068 served_H5647 Baal_H1168 and_H3068 the_H0853 Ashtaroth_H6252. 
+@14 Yahweh’s_H3068 anger_H0639 burned_H2734 against_H2734 Israel_H3478, and_H3068 he_H3068 delivered_H5414 them_H5414 into_H3027 the_H0853 hands_H3027 of_H3068 raiders who_H3068 plundered_H8155 them_H5414. He_H3068 sold_H4376 them_H5414 into_H3027 the_H0853 hands_H3027 of_H3068 their_H3068 enemies_H0341 all_H5439 around_H5439, so_H5414 that_H3068 they_H3808 could_H3201 no_H3808 longer_H5750 stand_H5975 before_H6440 their_H3068 enemies_H0341. 
+@15 Wherever_H0834 they_H0834 went_H3318 out_H3318, Yahweh’s_H3068 hand_H3027 was_H1961 against_H1696 them_H3318 for_H3027 evil_H7451, as_H0834 Yahweh_H3068 had_H3068 spoken_H1696, and_H3068 as_H0834 Yahweh_H3068 had_H3068 sworn_H7650 to_H1696 them_H3318; and_H3068 they_H0834 were_H0834 very_H3966 distressed. 
+@16 Yahweh_H3068 raised_H6965 up_H6965 judges_H8199, who_H3068 saved_H3467 them_H3027 out_H6965 of_H3068 the_H3068 hand_H3027 of_H3068 those_H3467 who_H3068 plundered_H8154 them_H3027. 
+@17 Yet_H3588 they_H0834 didn’t_H3808 listen_H8085 to_H0413 their_H3068 judges_H8199; for_H3588 they_H0834 prostituted_H2181 themselves_H0310 to_H0413 other_H0312 gods_H0430, and_H1980 bowed_H7812 themselves_H0310 down_H7812 to_H0413 them_H0413. They_H0834 quickly_H4118 turned_H5493 away_H5493 from_H4480 the_H0834 way_H1870 in_H1980 which_H0834 their_H3068 fathers_H0001 walked_H1980, obeying_H8085 Yahweh’s_H3068 commandments_H4687. They_H0834 didn’t_H3808 do_H6213 so_H3651. 
+@18 When_H3588 Yahweh_H3068 raised_H6965 up_H6965 judges_H8199 for_H3588 them_H6440, then_H1961 Yahweh_H3068 was_H1961 with_H5973 the_H3605 judge_H8199, and_H6965 saved_H3467 them_H6440 out_H6440 of_H3068 the_H3605 hand_H3027 of_H3068 their_H3605 enemies_H0341 all_H3605 the_H3605 days_H3117 of_H3068 the_H3605 judge_H8199; for_H3588 it_H3588 grieved Yahweh_H3068 because_H3588 of_H3068 their_H3605 groaning_H5009 by_H3027 reason of_H3068 those_H3605 who_H3605 oppressed_H3905 them_H6440 and_H6965 troubled them_H6440. 
+@19 But_H3808 when_H1961 the_H0310 judge_H8199 was_H1961 dead_H4191, they_H3808 turned_H7725 back_H7725, and_H0430 dealt more_H3808 corruptly_H7843 than_H3808 their_H7725 fathers_H0001 in_H0430 following_H0310 other_H0312 gods_H0430 to_H4191 serve_H5647 them_H7725 and_H0430 to_H4191 bow_H7812 down_H7812 to_H4191 them_H7725. They_H3808 didn’t_H3808 cease what_H1870 they_H3808 were_H1961 doing_H1870, or_H3808 give_H7725 up_H1961 their_H7725 stubborn_H7186 ways_H1870. 
+@20 Yahweh’s_H3068 anger_H0639 burned_H2734 against_H2734 Israel_H3478; and_H3068 he_H0834 said_H0559, “Because_H3282 this_H2088 nation_H1471 transgressed my_H8085 covenant_H1285 which_H0834 I_H0834 commanded_H6680 their_H3068 fathers_H0001, and_H3068 has_H3068 not_H3808 listened_H8085 to_H0559 my_H8085 voice_H6963, 
+@21 I_H0589 also_H1571 will_H0834 no_H3808 longer_H3254 drive_H3423 out_H4480 any_H4480 of_H0376 the_H6440 nations_H1471 that_H0834 Joshua_H3091 left_H5800 when_H0834 he_H0834 died_H4191 from_H4480 before_H6440 them_H6440; 
+@22 that_H0834 by_H3068 them_H1992 I_H0834 may_H3068 test_H5254 Israel_H3478, to_H3068 see_H0834 if_H0518 they_H1992 will_H3068 keep_H8104 Yahweh’s_H3068 way_H1870 to_H3068 walk_H1870 therein, as_H0834 their_H3068 fathers_H0001 kept_H8104 it_H0518, or_H0518 not_H3808.” 
+@23 So_H5414 Yahweh_H3068 left_H5414 those_H0428 nations_H1471, without_H3808 driving_H3423 them_H5414 out_H3423 hastily. He_H3068 didn’t_H3808 deliver_H5414 them_H5414 into_H3027 Joshua’s_H3091 hand_H3027.
 ^a^[**2:5** “Bochim” means “weepers”.] 
 
 # 3 
 ## Indication of the pagan peoples who remained in Canaan, whose God used the Israelites to test and guide
-@1 Now these are the nations which Yahweh left, to test Israel by them, even as many as had not known all the wars of Canaan; 
-@2 only that the generations of the children of Israel might know, to teach them war, at least those who knew nothing of it before: 
-@3 the five lords of the Philistines, all the Canaanites, the Sidonians, and the Hivites who lived on Mount Lebanon, from Mount Baal Hermon to the entrance of Hamath. 
-@4 They were left to test Israel by them, to know whether they would listen to Yahweh’s commandments, which he commanded their fathers by Moses. 
-@5 The children of Israel lived among the Canaanites, the Hittites, the Amorites, the Perizzites, the Hivites, and the Jebusites. 
-@6 They took their daughters to be their wives, and gave their own daughters to their sons and served their gods.
+@1 Now these_H0428 are_H0834 the_H3605 nations_H1471 which_H0834 Yahweh_H3068 left_H3240, to_H3068 test_H5254 Israel_H3478 by_H3068 them_H0853, even_H3808 as_H0834 many as_H0834 had_H3068 not_H3808 known_H3045 all_H3605 the_H3605 wars_H4421 of_H3068 Canaan_H3667; 
+@2 only_H7535 that_H0834 the_H6440 generations_H1755 of_H1121 the_H6440 children_H1121 of_H1121 Israel_H3478 might_H4616 know_H3045, to_H3478 teach_H3925 them_H6440 war_H4421, at_H3478 least those_H0834 who_H0834 knew_H3045 nothing_H3808 of_H1121 it_H3045 before_H6440: 
+@3 the_H3605 five_H2568 lords_H5633 of_H3427 the_H3605 Philistines_H6430, all_H3605 the_H3605 Canaanites_H3669, the_H3605 Sidonians_H6722, and_H0935 the_H3605 Hivites_H2340 who_H3605 lived_H3427 on_H0935 Mount_H2022 Lebanon_H3844, from_H0935 Mount_H2022 Baal Hermon to_H0935 the_H3605 entrance_H0935 of_H3427 Hamath_H2574. 
+@4 They_H0834 were_H0834 left_H1961 to_H1961 test_H5254 Israel_H3478 by_H3027 them_H0853, to_H1961 know_H3045 whether they_H0834 would_H3478 listen_H8085 to_H1961 Yahweh’s_H3068 commandments_H4687, which_H0834 he_H0834 commanded_H6680 their_H3068 fathers_H0001 by_H3027 Moses_H4872. 
+@5 The_H1121 children_H1121 of_H1121 Israel_H3478 lived_H3427 among_H7130 the_H1121 Canaanites_H3669, the_H1121 Hittites_H2850, the_H1121 Amorites_H0567, the_H1121 Perizzites_H6522, the_H1121 Hivites_H2340, and_H1121 the_H1121 Jebusites_H2983. 
+@6 They_H1992 took_H3947 their_H5414 daughters_H1323 to_H5414 be_H1121 their_H5414 wives_H0802, and_H1121 gave_H5414 their_H5414 own daughters_H1323 to_H5414 their_H5414 sons_H1121 and_H1121 served_H5647 their_H5414 gods_H0430.
 
 ## The first judges: Othniel, Ehud and Shamgar
-@7 The children of Israel did that which was evil in Yahweh’s sight, and forgot Yahweh their God, and served the Baals and the Asheroth. 
-@8 Therefore Yahweh’s anger burned against Israel, and he sold them into the hand of Cushan Rishathaim king of Mesopotamia; and the children of Israel served Cushan Rishathaim eight years. 
-@9 When the children of Israel cried to Yahweh, Yahweh raised up a savior to the children of Israel, who saved them, even Othniel the son of Kenaz, Caleb’s younger brother. 
-@10 Yahweh’s Spirit came on him, and he judged Israel; and he went out to war, and Yahweh delivered Cushan Rishathaim king of Mesopotamia into his hand. His hand prevailed against Cushan Rishathaim. 
-@11 The land had rest forty years, then Othniel the son of Kenaz died. 
+@7 The_H0853 children_H1121 of_H1121 Israel_H3478 did_H6213 that_H3068 which_H5869 was_H3068 evil_H7451 in_H0430 Yahweh’s_H3068 sight_H5869, and_H1121 forgot_H7911 Yahweh_H3068 their_H3068 God_H0430, and_H1121 served_H5647 the_H0853 Baals_H1168 and_H1121 the_H0853 Asheroth_H0842. 
+@8 Therefore_H3068 Yahweh’s_H3068 anger_H0639 burned_H2734 against_H2734 Israel_H3478, and_H1121 he_H3068 sold_H4376 them_H0853 into_H3027 the_H0853 hand_H3027 of_H1121 Cushan Rishathaim king_H4428 of_H1121 Mesopotamia_H0763; and_H1121 the_H0853 children_H1121 of_H1121 Israel_H3478 served_H5647 Cushan Rishathaim eight_H8083 years_H8141. 
+@9 When_H1121 the_H0853 children_H1121 of_H1121 Israel_H3478 cried_H2199 to_H0413 Yahweh_H3068, Yahweh_H3068 raised_H6965 up_H6965 a_H4480 savior_H3467 to_H0413 the_H0853 children_H1121 of_H1121 Israel_H3478, who_H3068 saved_H3467 them_H0413, even_H0853 Othniel_H6274 the_H0853 son_H1121 of_H1121 Kenaz_H7073, Caleb’s_H3612 younger_H6996 brother_H0251. 
+@10 Yahweh’s_H3068 Spirit_H7307 came_H1961 on_H5921 him_H5414, and_H3068 he_H3068 judged_H8199 Israel_H3478; and_H3068 he_H3068 went_H3318 out_H3318 to_H1961 war_H4421, and_H3068 Yahweh_H3068 delivered_H5414 Cushan Rishathaim king_H4428 of_H4428 Mesopotamia into_H8199 his_H5414 hand_H3027. His_H5414 hand_H3027 prevailed_H5810 against_H5921 Cushan Rishathaim. 
+@11 The_H0776 land_H0776 had_H8252 rest_H8252 forty_H0705 years_H8141, then_H4191 Othniel_H6274 the_H0776 son_H1121 of_H1121 Kenaz_H7073 died_H4191. 
 
-@12 The children of Israel again did that which was evil in Yahweh’s sight, and Yahweh strengthened Eglon the king of Moab against Israel, because they had done that which was evil in Yahweh’s sight. 
-@13 He gathered the children of Ammon and Amalek to himself; and he went and struck Israel, and they possessed the city of palm trees. 
-@14 The children of Israel served Eglon the king of Moab eighteen years. 
-@15 But when the children of Israel cried to Yahweh, Yahweh raised up a savior for them: Ehud the son of Gera, the Benjamite, a left-handed man. The children of Israel sent tribute by him to Eglon the king of Moab. 
-@16 Ehud made himself a sword which had two edges, a cubit^a^ in length; and he wore it under his clothing on his right thigh. 
-@17 He offered the tribute to Eglon king of Moab. Now Eglon was a very fat man. 
-@18 When Ehud had finished offering the tribute, he sent away the people who carried the tribute. 
-@19 But he himself turned back from the stone idols that were by Gilgal, and said, “I have a secret message for you, O king.” 
+@12 The_H0853 children_H1121 of_H1121 Israel_H3478 again_H3254 did_H6213 that_H3588 which_H5869 was_H3068 evil_H7451 in_H5921 Yahweh’s_H3068 sight_H5869, and_H1121 Yahweh_H3068 strengthened_H2388 Eglon_H5700 the_H0853 king_H4428 of_H1121 Moab_H4124 against_H5921 Israel_H3478, because_H3588 they_H3588 had_H3068 done_H6213 that_H3588 which_H5869 was_H3068 evil_H7451 in_H5921 Yahweh’s_H3068 sight_H5869. 
+@13 He_H0853 gathered_H0622 the_H0853 children_H1121 of_H1121 Ammon_H5983 and_H1121 Amalek_H6002 to_H0413 himself_H0413; and_H1121 he_H0853 went_H0413 and_H1121 struck_H5221 Israel_H3478, and_H1121 they_H5221 possessed_H3423 the_H0853 city_H5892 of_H1121 palm_H8558 trees_H8558. 
+@14 The_H0853 children_H1121 of_H1121 Israel_H3478 served_H5647 Eglon_H5700 the_H0853 king_H4428 of_H1121 Moab_H4124 eighteen_H6240 years_H8141. 
+@15 But_H0376 when_H7971 the_H0853 children_H1121 of_H1121 Israel_H3478 cried_H2199 to_H0413 Yahweh_H3068, Yahweh_H3068 raised_H6965 up_H6965 a_H7971 savior_H3467 for_H0413 them_H0413: Ehud_H0164 the_H0853 son_H1121 of_H1121 Gera_H1617, the_H0853 Benjamite_H1145, a_H7971 left-handed_H3225 man_H0376. The_H0853 children_H1121 of_H1121 Israel_H3478 sent_H7971 tribute_H4503 by_H3027 him_H0413 to_H0413 Eglon_H5700 the_H0853 king_H4428 of_H1121 Moab_H4124. 
+@16 Ehud_H0164 made_H6213 himself a_H5921 sword_H2719 which_H2719 had_H0853 two_H8147 edges_H6366, a_H5921 cubit_H1574^a^ in_H5921 length_H0753; and_H2719 he_H6213 wore_H5921 it_H5921 under_H8478 his_H5921 clothing on_H5921 his_H5921 right_H3225 thigh_H3409. 
+@17 He_H0853 offered_H7126 the_H0853 tribute_H4503 to_H0376 Eglon_H5700 king_H4428 of_H4428 Moab_H4124. Now Eglon_H5700 was_H0376 a_H7126 very_H3966 fat_H1277 man_H0376. 
+@18 When_H1961 Ehud_H3615 had_H0834 finished_H3615 offering_H4503 the_H0853 tribute_H4503, he_H0834 sent_H7971 away_H7971 the_H0853 people_H5971 who_H0834 carried_H5375 the_H0853 tribute_H4503. 
+@19 But_H4428 he_H0834 himself_H1931 turned_H7725 back_H7725 from_H4480 the_H3605 stone_H0834 idols_H6456 that_H0834 were_H0834 by_H5921 Gilgal_H1537, and_H4428 said_H0559, “I_H0834 have_H0834 a_H4480 secret message_H1697 for_H5921 you_H0834, O king_H4428.” 
 ^a^[**3:16** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters.]
 
-The king said, “Keep silence!” All who stood by him left him. 
+The_H3605 king_H4428 said_H0559, “Keep_H2013 silence_H2013!” All_H3605 who_H0834 stood_H5975 by_H5921 him_H0413 left_H3318 him_H0413. 
 
-@20 Ehud came to him; and he was sitting by himself alone in the cool upper room. Ehud said, “I have a message from God to you.” He arose out of his seat. 
-@21 Ehud put out his left hand, and took the sword from his right thigh, and thrust it into his body. 
-@22 The handle also went in after the blade; and the fat closed on the blade, for he didn’t draw the sword out of his body; and it came out behind. 
-@23 Then Ehud went out onto the porch, and shut the doors of the upper room on him, and locked them. 
+@20 Ehud_H0164 came_H0935 to_H0413 him_H0413; and_H0935 he_H0834 was_H0834 sitting_H3427 by_H5921 himself_H1931 alone_H0905 in_H3427 the_H0559 cool_H4747 upper_H5944 room_H5944. Ehud_H0164 said_H0559, “I_H0834 have_H0834 a_H0935 message_H1697 from_H0935 God_H0430 to_H0413 you_H0834.” He_H0834 arose_H6965 out_H5921 of_H0430 his_H5921 seat_H3678. 
+@21 Ehud_H0164 put_H7971 out_H7971 his_H5921 left_H8040 hand_H3027, and_H3027 took_H3947 the_H0853 sword_H2719 from_H5921 his_H5921 right_H3225 thigh_H3409, and_H3027 thrust_H8628 it_H5921 into_H5921 his_H5921 body_H0990. 
+@22 The_H3588 handle_H5325 also_H1571 went_H3318 in_H0935 after_H0310 the_H3588 blade_H3851; and_H0935 the_H3588 fat_H2459 closed_H5462 on_H0935 the_H3588 blade_H3851, for_H3588 he_H3588 didn’t_H3808 draw_H8025 the_H3588 sword_H2719 out_H3318 of_H0935 his_H0935 body_H0990; and_H0935 it_H3588 came_H0935 out_H3318 behind_H0310. 
+@23 Then_H3318 Ehud_H0164 went_H3318 out_H3318 onto the_H3318 porch, and_H3318 shut_H5462 the_H3318 doors_H1817 of_H1817 the_H3318 upper_H5944 room_H5944 on_H3318 him_H3318, and_H3318 locked_H5462 them_H3318. 
 
-@24 After he had gone, his servants came and saw that the doors of the upper room were locked. They said, “Surely he is covering his feet^a^ in the upper room.” 
-@25 They waited until they were ashamed; and behold, he didn’t open the doors of the upper room. Therefore they took the key and opened them, and behold, their lord had fallen down dead on the floor. 
+@24 After_H2009 he_H1931 had_H0853 gone_H3318, his_H0935 servants_H5650 came_H0935 and_H0935 saw_H7200 that_H7200 the_H0853 doors_H1817 of_H5650 the_H0853 upper_H5944 room_H2315 were_H5650 locked. They_H0559 said_H0559, “Surely_H0389 he_H1931 is_H1931 covering his_H0935 feet_H7272^a^ in_H0935 the_H0853 upper_H5944 room_H2315.” 
+@25 They_H5704 waited until_H5704 they_H5704 were_H0369 ashamed_H0954; and_H0776 behold_H2009, he_H5704 didn’t open_H6605 the_H0853 doors_H1817 of_H0776 the_H0853 upper_H5944 room_H5944. Therefore_H0776 they_H5704 took_H3947 the_H0853 key_H4668 and_H0776 opened_H6605 them_H0853, and_H0776 behold_H2009, their_H3947 lord_H0113 had_H0369 fallen_H5307 down_H5307 dead_H4191 on_H5307 the_H0853 floor_H0776. 
 ^a^[**3:24** or, “relieving himself”.]
 
-@26 Ehud escaped while they waited, passed beyond the stone idols, and escaped to Seirah. 
-@27 When he had come, he blew a trumpet in the hill country of Ephraim; and the children of Israel went down with him from the hill country, and he led them. 
+@26 Ehud_H0164 escaped_H4422 while_H5704 they_H5704 waited, passed_H5674 beyond_H5704 the_H0853 stone idols_H6456, and_H0853 escaped_H4422 to_H5704 Seirah_H8167. 
+@27 When_H1961 he_H1931 had_H1961 come_H0935, he_H1931 blew_H8628 a_H1961 trumpet_H7782 in_H0935 the_H6440 hill_H2022 country_H2022 of_H1121 Ephraim_H0669; and_H1121 the_H6440 children_H1121 of_H1121 Israel_H3478 went_H0935 down_H3381 with_H5973 him_H6440 from_H4480 the_H6440 hill_H2022 country_H2022, and_H1121 he_H1931 led_H0935 them_H3381. 
 
-@28 He said to them, “Follow me; for Yahweh has delivered your enemies the Moabites into your hand.” They followed him, and took the fords of the Jordan against the Moabites, and didn’t allow any man to pass over. 
-@29 They struck at that time about ten thousand men of Moab, every strong man and every man of valor. No man escaped. 
-@30 So Moab was subdued that day under the hand of Israel. Then the land had rest eighty years. 
+@28 He_H3588 said_H0559 to_H0413 them_H0413, “Follow_H0310 me_H0413; for_H3588 Yahweh_H3068 has_H3068 delivered_H5414 your_H3068 enemies_H0341 the_H0853 Moabites_H4124 into_H0413 your_H3068 hand_H3027.” They_H3588 followed_H0310 him_H0413, and_H3068 took_H3920 the_H0853 fords of_H0376 the_H0853 Jordan_H3383 against_H0413 the_H0853 Moabites_H4124, and_H3068 didn’t_H3808 allow_H5414 any_H0376 man_H0376 to_H0413 pass_H5674 over_H0413. 
+@29 They_H3808 struck_H5221 at_H3808 that_H3605 time_H6256 about_H5221 ten_H6235 thousand_H0505 men_H0376 of_H0376 Moab_H4124, every_H3605 strong_H2428 man_H0376 and_H0376 every_H3605 man_H0376 of_H0376 valor_H2428. No_H3808 man_H0376 escaped_H4422. 
+@30 So_H1931 Moab_H4124 was_H3478 subdued_H3665 that_H3117 day_H3117 under_H8478 the_H3117 hand_H3027 of_H0776 Israel_H3478. Then_H3478 the_H3117 land_H0776 had_H3478 rest_H8252 eighty_H8084 years_H8141. 
 
-@31 After him was Shamgar the son of Anath, who struck six hundred men of the Philistines with an ox goad. He also saved Israel. 
+@31 After_H0310 him_H5221 was_H1961 Shamgar_H8044 the_H0853 son_H1121 of_H1121 Anath_H6067, who_H0376 struck_H5221 six_H8337 hundred_H3967 men_H0376 of_H1121 the_H0853 Philistines_H6430 with_H0376 an_H1961 ox_H1241 goad. He_H1931 also_H1571 saved_H3467 Israel_H3478. 
 
 # 4 
 ## King Jabin and his general Sisera enslaved Israel
-@1 The children of Israel again did that which was evil in Yahweh’s sight, when Ehud was dead. 
-@2 Yahweh sold them into the hand of Jabin king of Canaan, who reigned in Hazor; the captain of whose army was Sisera, who lived in Harosheth of the Gentiles. 
-@3 The children of Israel cried to Yahweh, for he had nine hundred chariots of iron; and he mightily oppressed the children of Israel for twenty years.
+@1 The_H3068 children_H1121 of_H1121 Israel_H3478 again_H3254 did_H6213 that_H3068 which_H5869 was_H3068 evil_H7451 in_H3068 Yahweh’s_H3068 sight_H5869, when_H6213 Ehud_H0164 was_H3068 dead_H4191. 
+@2 Yahweh_H3068 sold_H4376 them_H3027 into_H3027 the_H0834 hand_H3027 of_H4428 Jabin_H2985 king_H4428 of_H4428 Canaan_H3667, who_H0834 reigned_H4427 in_H3427 Hazor_H2674; the_H0834 captain_H8269 of_H4428 whose_H0834 army_H6635 was_H0834 Sisera_H5516, who_H0834 lived_H3427 in_H3427 Harosheth of_H4428 the_H0834 Gentiles_H1471. 
+@3 The_H0853 children_H1121 of_H1121 Israel_H3478 cried_H6817 to_H0413 Yahweh_H3068, for_H3588 he_H1931 had_H3068 nine_H8672 hundred_H3967 chariots_H7393 of_H1121 iron_H1270; and_H1121 he_H1931 mightily oppressed_H3905 the_H0853 children_H1121 of_H1121 Israel_H3478 for_H3588 twenty_H6242 years_H8141.
 
 ## Debora and Barak's connection; Barak leads the army of the northern tribes into battle on Mount Thabor
-@4 Now Deborah, a prophetess, the wife of Lappidoth, judged Israel at that time. 
-@5 She lived under Deborah’s palm tree between Ramah and Bethel in the hill country of Ephraim; and the children of Israel came up to her for judgment. 
-@6 She sent and called Barak the son of Abinoam out of Kedesh Naphtali, and said to him, “Hasn’t Yahweh, the God of Israel, commanded, ‘Go and lead the way to Mount Tabor, and take with you ten thousand men of the children of Naphtali and of the children of Zebulun? 
-@7 I will draw to you, to the river Kishon, Sisera, the captain of Jabin’s army, with his chariots and his multitude; and I will deliver him into your hand.’” 
+@4 Now_H6256 Deborah_H1683, a_H3478 prophetess_H5031, the_H0853 wife_H0802 of_H0802 Lappidoth_H3941, judged_H8199 Israel_H3478 at_H3478 that_H1931 time_H6256. 
+@5 She_H1931 lived_H3427 under_H8478 Deborah’s palm_H8560 tree_H8560 between_H0996 Ramah_H7414 and_H1121 Bethel_H1008 in_H3427 the_H0413 hill_H2022 country_H2022 of_H1121 Ephraim_H0669; and_H1121 the_H0413 children_H1121 of_H1121 Israel_H3478 came_H5927 up_H5927 to_H0413 her_H0413 for_H8478 judgment_H4941. 
+@6 She_H7121 sent_H7971 and_H1121 called_H7121 Barak_H1301 the_H0559 son_H1121 of_H1121 Abinoam_H0042 out_H7971 of_H1121 Kedesh_H6943 Naphtali_H5321, and_H1121 said_H0559 to_H0413 him_H0413, “Hasn’t_H3808 Yahweh_H3068, the_H0559 God_H0430 of_H1121 Israel_H3478, commanded_H6680, ‘Go_H7971 and_H1121 lead_H0413 the_H0559 way_H7971 to_H0413 Mount_H2022 Tabor_H8396, and_H1121 take_H3947 with_H5973 you_H6680 ten_H6235 thousand_H0505 men_H0376 of_H1121 the_H0559 children_H1121 of_H1121 Naphtali_H5321 and_H1121 of_H1121 the_H0559 children_H1121 of_H1121 Zebulun_H2074? 
+@7 I_H5414 will_H3027 draw_H4900 to_H0413 you_H5414, to_H0413 the_H0853 river_H5158 Kishon_H7028, Sisera_H5516, the_H0853 captain_H8269 of_H3027 Jabin’s_H2985 army_H6635, with_H0413 his_H5414 chariots_H7393 and_H3027 his_H5414 multitude_H1995; and_H3027 I_H5414 will_H3027 deliver_H5414 him_H0413 into_H0413 your_H5414 hand_H3027.’” 
 
-@8 Barak said to her, “If you will go with me, then I will go; but if you will not go with me, I will not go.” 
+@8 Barak_H1301 said_H0559 to_H0413 her_H0413, “If_H0518 you_H0518 will_H3808 go_H1980 with_H5973 me_H0413, then_H1980 I_H0518 will_H3808 go_H1980; but_H0518 if_H0518 you_H0518 will_H3808 not_H3808 go_H1980 with_H5973 me_H0413, I_H0518 will_H3808 not_H3808 go_H1980.” 
 
-@9 She said, “I will surely go with you. Nevertheless, the journey that you take won’t be for your honor; for Yahweh will sell Sisera into a woman’s hand.” Deborah arose, and went with Barak to Kedesh. 
+@9 She_H0834 said_H0559, “I_H0834 will_H3068 surely_H3588 go_H1980 with_H5973 you_H0859. Nevertheless_H3588, the_H0853 journey_H1870 that_H0834 you_H0859 take_H1980 won’t_H3808 be_H1961 for_H3588 your_H3068 honor_H8597; for_H3588 Yahweh_H3068 will_H3068 sell_H4376 Sisera_H5516 into_H1980 a_H1961 woman’s_H0802 hand_H3027.” Deborah_H1683 arose_H6965, and_H1980 went_H1980 with_H5973 Barak_H1301 to_H0559 Kedesh_H6943. 
 
-@10 Barak called Zebulun and Naphtali together to Kedesh. Ten thousand men followed him; and Deborah went up with him. 
-@11 Now Heber the Kenite had separated himself from the Kenites, even from the children of Hobab, Moses’ brother-in-law, and had pitched his tent as far as the oak in Zaanannim, which is by Kedesh.
+@10 Barak_H1301 called_H2199 Zebulun_H2074 and_H0376 Naphtali_H5321 together_H2199 to_H0376 Kedesh_H6943. Ten_H6235 thousand_H0505 men_H0376 followed_H7272 him_H0853; and_H0376 Deborah_H1683 went_H5927 up_H5927 with_H5973 him_H0853. 
+@11 Now Heber_H2268 the_H0834 Kenite_H7017 had_H0834 separated_H6504 himself_H6504 from_H1121 the_H0834 Kenites_H7017, even_H5704 from_H1121 the_H0834 children_H1121 of_H1121 Hobab_H2246, Moses’_H4872 brother-in-law, and_H1121 had_H0834 pitched_H5186 his_H0834 tent_H0168 as_H0834 far_H5704 as_H0834 the_H0834 oak_H0436 in_H1121 Zaanannim_H6815, which_H0834 is_H0834 by_H5704 Kedesh_H6943.
 
 ## The defeat and murder of Sisera on the plain of Kison; The terrible deed of Jael
-@12 They told Sisera that Barak the son of Abinoam had gone up to Mount Tabor. 
-@13 Sisera gathered together all his chariots, even nine hundred chariots of iron, and all the people who were with him, from Harosheth of the Gentiles, to the river Kishon. 
+@12 They_H3588 told_H5046 Sisera_H5516 that_H3588 Barak_H1301 the_H3588 son_H1121 of_H1121 Abinoam_H0042 had_H3588 gone_H5927 up_H5927 to_H1121 Mount_H2022 Tabor_H8396. 
+@13 Sisera_H5516 gathered together_H2199 all_H3605 his_H3605 chariots_H7393, even_H0853 nine_H8672 hundred_H3967 chariots_H7393 of_H3605 iron_H1270, and_H3967 all_H3605 the_H3605 people_H5971 who_H0834 were_H0834 with_H0854 him_H0413, from_H0413 Harosheth of_H3605 the_H3605 Gentiles_H1471, to_H0413 the_H3605 river_H5158 Kishon_H7028. 
 
-@14 Deborah said to Barak, “Go; for this is the day in which Yahweh has delivered Sisera into your hand. Hasn’t Yahweh gone out before you?” So Barak went down from Mount Tabor, and ten thousand men after him. 
-@15 Yahweh confused Sisera, all his chariots, and all his army, with the edge of the sword before Barak. Sisera abandoned his chariot and fled away on his feet. 
-@16 But Barak pursued the chariots and the army to Harosheth of the Gentiles; and all the army of Sisera fell by the edge of the sword. There was not a man left. 
+@14 Deborah_H1683 said_H0559 to_H0413 Barak_H1301, “Go_H3318; for_H3588 this_H2088 is_H0834 the_H0853 day_H3117 in_H0413 which_H0834 Yahweh_H3068 has_H3068 delivered_H5414 Sisera_H5516 into_H0413 your_H3068 hand_H3027. Hasn’t_H3808 Yahweh_H3068 gone_H3318 out_H3318 before_H6440 you_H0834?” So_H5414 Barak_H1301 went_H3318 down_H3381 from_H3318 Mount_H2022 Tabor_H8396, and_H6965 ten_H6235 thousand_H0505 men_H0376 after_H0310 him_H0413. 
+@15 Yahweh_H3068 confused_H2000 Sisera_H5516, all_H3605 his_H3605 chariots_H7393, and_H3068 all_H3605 his_H3605 army_H4264, with_H3068 the_H3605 edge_H6310 of_H3068 the_H3605 sword_H2719 before_H6440 Barak_H1301. Sisera_H5516 abandoned his_H3605 chariot_H4818 and_H3068 fled_H5127 away_H5127 on_H5921 his_H3605 feet_H7272. 
+@16 But_H3808 Barak_H1301 pursued_H7291 the_H3605 chariots_H7393 and_H2719 the_H3605 army_H4264 to_H5704 Harosheth of_H6310 the_H3605 Gentiles_H1471; and_H2719 all_H3605 the_H3605 army_H4264 of_H6310 Sisera_H5516 fell_H5307 by_H3605 the_H3605 edge_H6310 of_H6310 the_H3605 sword_H2719. There_H3605 was_H0259 not_H3808 a_H5704 man_H3605 left_H7604. 
 
-@17 However Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite; for there was peace between Jabin the king of Hazor and the house of Heber the Kenite. 
-@18 Jael went out to meet Sisera, and said to him, “Turn in, my lord, turn in to me; don’t be afraid.” He came in to her into the tent, and she covered him with a rug. 
+@17 However Sisera_H5516 fled_H5127 away_H5127 on_H0413 his_H3588 feet_H7272 to_H0413 the_H3588 tent_H0168 of_H4428 Jael_H3278 the_H3588 wife_H0802 of_H4428 Heber_H2268 the_H3588 Kenite_H7017; for_H3588 there_H7965 was_H0802 peace_H7965 between_H0996 Jabin_H2985 the_H3588 king_H4428 of_H4428 Hazor_H2674 and_H4428 the_H3588 house_H1004 of_H4428 Heber_H2268 the_H3588 Kenite_H7017. 
+@18 Jael_H3278 went_H3318 out_H3318 to_H0413 meet_H7125 Sisera_H5516, and_H3318 said_H0559 to_H0413 him_H0413, “Turn_H5493 in_H0413, my_H3318 lord_H0113, turn_H5493 in_H0413 to_H0413 me_H0413; don’t_H0408 be_H0408 afraid_H3372.” He_H3318 came_H3318 in_H0413 to_H0413 her_H0413 into_H0413 the_H0559 tent_H0168, and_H3318 she covered_H3680 him_H0413 with_H0413 a_H3318 rug_H8063. 
 
-@19 He said to her, “Please give me a little water to drink; for I am thirsty.” 
+@19 He_H3588 said_H0559 to_H0413 her_H0413, “Please_H4994 give_H8248 me_H0413 a_H3588 little_H4592 water_H4325 to_H0413 drink_H8248; for_H3588 I_H3588 am thirsty_H6770.” 
 
-She opened a container of milk, and gave him a drink, and covered him. 
+She_H3588 opened_H6605 a_H3588 container of_H4325 milk_H2461, and_H2461 gave_H0559 him_H0413 a_H3588 drink_H8248, and_H2461 covered_H3680 him_H0413. 
 
-@20 He said to her, “Stand in the door of the tent, and if any man comes and inquires of you, and says, ‘Is there any man here?’ you shall say, ‘No.’” 
+@20 He_H0518 said_H0559 to_H0413 her_H0413, “Stand_H5975 in_H0935 the_H0559 door_H6607 of_H0376 the_H0559 tent_H0168, and_H0935 if_H0518 any_H0376 man_H0376 comes_H0935 and_H0935 inquires_H7592 of_H0376 you_H0518, and_H0935 says_H0559, ‘Is_H0369 there_H0369 any_H0376 man_H0376 here_H6311?’ you_H0518 shall_H0376 say_H0559, ‘No_H0369.’” 
 
-@21 Then Jael, Heber’s wife, took a tent peg, and took a hammer in her hand, and went softly to him, and struck the pin into his temples, and it pierced through into the ground, for he was in a deep sleep; so he fainted and died. 
-@22 Behold, as Barak pursued Sisera, Jael came out to meet him, and said to him, “Come, and I will show you the man whom you seek.” He came to her; and behold, Sisera lay dead, and the tent peg was in his temples. 
-@23 So God subdued Jabin the king of Canaan before the children of Israel on that day. 
-@24 The hand of the children of Israel prevailed more and more against Jabin the king of Canaan, until they had destroyed Jabin king of Canaan. 
+@21 Then_H3947 Jael_H3278, Heber’s_H2268 wife_H0802, took_H3947 a_H3947 tent_H0168 peg_H3489, and_H0935 took_H3947 a_H3947 hammer in_H0935 her_H0413 hand_H3027, and_H0935 went_H0935 softly to_H0413 him_H0413, and_H0935 struck the_H0853 pin_H3489 into_H0413 his_H3947 temples_H7541, and_H0935 it_H7760 pierced through_H3027 into_H0413 the_H0853 ground_H0776, for_H0413 he_H1931 was_H0776 in_H0935 a_H3947 deep sleep; so_H3947 he_H1931 fainted and_H0935 died_H4191. 
+@22 Behold_H2009, as_H0834 Barak_H1301 pursued_H7291 Sisera_H5516, Jael_H3278 came_H0935 out_H3318 to_H0413 meet_H7125 him_H0413, and_H0935 said_H0559 to_H0413 him_H0413, “Come_H0935, and_H0935 I_H0834 will_H0834 show_H7200 you_H0859 the_H0853 man_H0376 whom_H0834 you_H0859 seek_H1245.” He_H0834 came_H0935 to_H0413 her_H0413; and_H0935 behold_H2009, Sisera_H5516 lay_H5307 dead_H4191, and_H0935 the_H0853 tent_H3489 peg_H3489 was_H0834 in_H0935 his_H0834 temples_H7541. 
+@23 So_H6440 God_H0430 subdued_H3665 Jabin_H2985 the_H0853 king_H4428 of_H1121 Canaan_H3667 before_H6440 the_H0853 children_H1121 of_H1121 Israel_H3478 on_H3117 that_H3117 day_H3117. 
+@24 The_H0853 hand_H3027 of_H1121 the_H0853 children_H1121 of_H1121 Israel_H3478 prevailed more_H5921 and_H1980 more_H5921 against_H5921 Jabin_H2985 the_H0853 king_H4428 of_H1121 Canaan_H3667, until_H5704 they_H0834 had_H0834 destroyed_H3772 Jabin_H2985 king_H4428 of_H1121 Canaan_H3667. 
 
 # 5 
 ## Debora and Barak's victory song
-@1 Then Deborah and Barak the son of Abinoam sang on that day, saying, 
-@2 “Because the leaders took the lead in Israel, because the people offered themselves willingly, be blessed, Yahweh! 
-@3 “Hear, you kings! Give ear, you princes! I, even I, will sing to Yahweh. I will sing praise to Yahweh, the God of Israel.
+@1 Then_H0559 Deborah_H1683 and_H1121 Barak_H1301 the_H0559 son_H1121 of_H1121 Abinoam_H0042 sang_H7891 on_H3117 that_H3117 day_H3117, saying_H0559, 
+@2 “Because_H6544 the_H3068 leaders_H5068 took the_H3068 lead in_H3068 Israel_H3478, because_H6544 the_H3068 people_H5971 offered_H5068 themselves willingly_H5068, be_H1288 blessed_H1288, Yahweh_H3068! 
+@3 “Hear_H8085, you_H2167 kings_H4428! Give_H0238 ear_H0238, you_H2167 princes! I_H0595, even I_H0595, will_H3068 sing_H2167 to_H3068 Yahweh_H3068. I_H0595 will_H3068 sing_H2167 praise_H2167 to_H3068 Yahweh_H3068, the_H8085 God_H0430 of_H4428 Israel_H3478.
 
 ## God is coming in a storm
-@4 “Yahweh, when you went out of Seir, when you marched out of the field of Edom, the earth trembled, the sky also dropped. Yes, the clouds dropped water. 
-@5 The mountains quaked at Yahweh’s presence, even Sinai at the presence of Yahweh, the God of Israel.
+@4 “Yahweh_H3068, when_H3318 you_H0776 went_H3318 out_H3318 of_H0776 Seir_H8165, when_H3318 you_H0776 marched_H6805 out_H3318 of_H0776 the_H3068 field_H7704 of_H0776 Edom_H0123, the_H3068 earth_H0776 trembled, the_H3068 sky_H8064 also_H1571 dropped_H5197. Yes_H1571, the_H3068 clouds_H5645 dropped_H5197 water_H4325. 
+@5 The_H6440 mountains_H2022 quaked_H5140 at_H3478 Yahweh’s_H3068 presence_H6440, even Sinai_H5514 at_H3478 the_H6440 presence_H6440 of_H0430 Yahweh_H3068, the_H6440 God_H0430 of_H0430 Israel_H3478.
 
 ## The sad conditions so far
-@6 “In the days of Shamgar the son of Anath, in the days of Jael, the highways were unoccupied. The travelers walked through byways. 
-@7 The rulers ceased in Israel. They ceased until I, Deborah, arose; Until I arose a mother in Israel. 
-@8 They chose new gods. Then war was in the gates. Was there a shield or spear seen among forty thousand in Israel?
+@6 “In_H1980 the_H3117 days_H3117 of_H1121 Shamgar_H8044 the_H3117 son_H1121 of_H1121 Anath_H6067, in_H1980 the_H3117 days_H3117 of_H1121 Jael_H3278, the_H3117 highways_H0734 were_H1121 unoccupied. The_H3117 travelers_H1980 walked_H1980 through_H1980 byways. 
+@7 The_H5704 rulers ceased_H2308 in_H3478 Israel_H3478. They_H5704 ceased_H2308 until_H5704 I_H5704, Deborah_H1683, arose_H6965; Until_H5704 I_H5704 arose_H6965 a_H5704 mother_H0517 in_H3478 Israel_H3478. 
+@8 They_H0518 chose_H0977 new_H2319 gods_H0430. Then_H0227 war_H3901 was_H3478 in_H0430 the_H7200 gates_H8179. Was_H3478 there a_H7200 shield_H4043 or_H0518 spear_H7420 seen_H7200 among_H3478 forty_H0705 thousand_H0505 in_H0430 Israel_H3478?
 
 ## The happy present
-@9 My heart is toward the governors of Israel, who offered themselves willingly among the people. Bless Yahweh! 
-@10 “Speak, you who ride on white donkeys, you who sit on rich carpets, and you who walk by the way. 
-@11 Far from the noise of archers, in the places of drawing water, there they will rehearse Yahweh’s righteous acts, the righteous acts of his rule in Israel. “Then Yahweh’s people went down to the gates.
+@9 My_H3068 heart_H3820 is_H3068 toward the_H3068 governors of_H3068 Israel_H3478, who_H3068 offered_H5068 themselves willingly_H5068 among_H3478 the_H3068 people_H5971. Bless_H1288 Yahweh_H3068! 
+@10 “Speak_H7878, you_H5921 who_H3427 ride_H7392 on_H5921 white_H6715 donkeys_H0860, you_H5921 who_H3427 sit_H3427 on_H5921 rich carpets_H4055, and_H1980 you_H5921 who_H3427 walk_H1980 by_H5921 the_H5921 way_H1870. 
+@11 Far from_H3381 the_H3068 noise_H6963 of_H3068 archers, in_H3068 the_H3068 places_H4857 of_H3068 drawing water, there_H8033 they_H8033 will_H3068 rehearse Yahweh’s_H3068 righteous_H6666 acts_H6666, the_H3068 righteous_H6666 acts_H6666 of_H3068 his_H3068 rule in_H3068 Israel_H3478. “Then_H0227 Yahweh’s_H3068 people_H5971 went_H3381 down_H3381 to_H3381 the_H3068 gates_H8179.
 
 ## The Tribes of Israel in Battle
-@12 ‘Awake, awake, Deborah! Awake, awake, utter a song! Arise, Barak, and lead away your captives, you son of Abinoam.’ 
-@13 “Then a remnant of the nobles and the people came down. Yahweh came down for me against the mighty. 
-@14 Those whose root is in Amalek came out of Ephraim, after you, Benjamin, among your peoples. Governors come down out of Machir. Those who handle the marshal’s staff came out of Zebulun. 
-@15 The princes of Issachar were with Deborah. As was Issachar, so was Barak. They rushed into the valley at his feet. By the watercourses of Reuben, there were great resolves of heart. 
-@16 Why did you sit among the sheepfolds? To hear the whistling for the flocks? At the watercourses of Reuben, there were great searchings of heart. 
-@17 Gilead lived beyond the Jordan. Why did Dan remain in ships? Asher sat still at the haven of the sea, and lived by his creeks. 
-@18 Zebulun was a people that jeopardized their lives to the death; Naphtali also, on the high places of the field.
+@12 ‘Awake_H5782, awake_H5782, Deborah_H1683! Awake_H5782, awake_H5782, utter_H1696 a_H1696 song_H7892! Arise_H6965, Barak_H1301, and_H1121 lead away_H7617 your_H6965 captives_H7628, you_H1696 son_H1121 of_H1121 Abinoam_H0042.’ 
+@13 “Then_H0227 a_H3068 remnant_H8300 of_H3068 the_H3068 nobles_H0117 and_H3068 the_H3068 people_H5971 came down. Yahweh_H3068 came down for_H3068 me against the_H3068 mighty_H1368. 
+@14 Those_H4480 whose_H0669 root_H8328 is_H0669 in_H1144 Amalek_H6002 came_H3381 out_H4480 of_H7626 Ephraim_H0669, after_H0310 you_H4480, Benjamin_H1144, among_H4480 your_H4480 peoples_H5971. Governors come_H3381 down_H3381 out_H4480 of_H7626 Machir_H4353. Those_H4480 who_H1144 handle the_H4480 marshal’s staff_H7626 came_H3381 out_H4480 of_H7626 Zebulun_H2074. 
+@15 The_H7971 princes_H8269 of_H8269 Issachar_H3485 were_H7272 with_H5973 Deborah_H1683. As_H3651 was_H3820 Issachar_H3485, so_H3651 was_H3820 Barak_H1301. They_H3651 rushed_H7971 into the_H7971 valley_H6010 at_H3651 his_H7971 feet_H7272. By_H7971 the_H7971 watercourses of_H8269 Reuben_H7205, there were_H7272 great_H1419 resolves of_H8269 heart_H3820. 
+@16 Why_H4100 did_H4100 you_H4100 sit_H3427 among_H0996 the_H8085 sheepfolds_H4942? To_H8085 hear_H8085 the_H8085 whistling for_H3427 the_H8085 flocks_H5739? At_H3427 the_H8085 watercourses of_H3427 Reuben_H7205, there_H3427 were_H3427 great_H1419 searchings_H2714 of_H3427 heart_H3820. 
+@17 Gilead_H1568 lived_H3427 beyond_H5676 the_H5921 Jordan_H3383. Why_H4100 did_H4100 Dan_H1835 remain_H3427 in_H3427 ships_H0591? Asher_H0836 sat_H3427 still_H3427 at_H3427 the_H5921 haven_H2348 of_H3427 the_H5921 sea_H3220, and_H3427 lived_H3427 by_H5921 his_H5921 creeks. 
+@18 Zebulun_H2074 was_H5315 a_H5921 people_H5971 that_H5315 jeopardized their_H5921 lives_H5315 to_H4191 the_H5921 death_H4191; Naphtali_H5321 also, on_H5921 the_H5921 high_H4791 places_H4791 of_H5921 the_H5921 field_H7704.
 
 ## The battle
-@19 “The kings came and fought, then the kings of Canaan fought at Taanach by the waters of Megiddo. They took no plunder of silver. 
-@20 From the sky the stars fought. From their courses, they fought against Sisera. 
-@21 The river Kishon swept them away, that ancient river, the river Kishon. My soul, march on with strength. 
-@22 Then the horse hoofs stamped because of the prancing, the prancing of their strong ones. 
-@23 ‘Curse Meroz,’ said Yahweh’s angel. ‘Curse bitterly its inhabitants, because they didn’t come to help Yahweh, to help Yahweh against the mighty.’
+@19 “The_H5921 kings_H4428 came_H0935 and_H0935 fought_H3898, then_H0227 the_H5921 kings_H4428 of_H4428 Canaan_H3667 fought_H3898 at_H5921 Taanach_H8590 by_H5921 the_H5921 waters_H4325 of_H4428 Megiddo_H4023. They_H5921 took_H3947 no_H3808 plunder_H1215 of_H4428 silver_H3701. 
+@20 From_H4480 the_H4480 sky_H8064 the_H4480 stars_H3556 fought_H3898. From_H4480 their_H4480 courses_H4546, they_H4546 fought_H3898 against_H5973 Sisera_H5516. 
+@21 The_H1869 river_H5158 Kishon_H7028 swept_H1640 them_H1640 away_H1640, that_H5315 ancient_H6917 river_H5158, the_H1869 river_H5158 Kishon_H7028. My_H5315 soul_H5315, march_H1869 on_H1869 with_H5315 strength_H5797. 
+@22 Then_H0227 the_H0227 horse_H5483 hoofs_H6119 stamped because of_H6119 the_H0227 prancing, the_H0227 prancing of_H6119 their_H0227 strong_H0047 ones_H0047. 
+@23 ‘Curse_H0779 Meroz_H4789,’ said_H0559 Yahweh’s_H3068 angel_H4397. ‘Curse_H0779 bitterly its_H0935 inhabitants_H3427, because_H3588 they_H3588 didn’t_H3808 come_H0935 to_H0559 help_H5833 Yahweh_H3068, to_H0559 help_H5833 Yahweh_H3068 against_H0935 the_H0559 mighty_H1368.’
 
 ## Jael's feat
-@24 “Jael shall be blessed above women, the wife of Heber the Kenite; blessed shall she be above women in the tent. 
-@25 He asked for water. She gave him milk. She brought him butter in a lordly dish. 
-@26 She put her hand to the tent peg, and her right hand to the workmen’s hammer. With the hammer she struck Sisera. She struck through his head. Yes, she pierced and struck through his temples. 
-@27 At her feet he bowed, he fell, he lay. At her feet he bowed, he fell. Where he bowed, there he fell down dead.
+@24 “Jael_H3278 shall_H0802 be_H1288 blessed_H1288 above women_H0802, the_H1288 wife_H0802 of_H0168 Heber_H2268 the_H1288 Kenite_H7017; blessed_H1288 shall_H0802 she be_H1288 above women_H0802 in_H0802 the_H1288 tent_H0168. 
+@25 He_H5414 asked_H7592 for_H4325 water_H4325. She_H5602 gave_H5414 him_H5414 milk_H2461. She_H5602 brought_H7126 him_H5414 butter_H2529 in_H5414 a_H5414 lordly dish. 
+@26 She put_H7971 her_H7971 hand_H3027 to_H7971 the_H7971 tent_H3489 peg_H3489, and_H3027 her_H7971 right_H3225 hand_H3027 to_H7971 the_H7971 workmen’s hammer_H1989. With_H3027 the_H7971 hammer_H1989 she struck_H4272 Sisera_H5516. She struck_H4272 through_H3027 his_H7971 head_H7218. Yes, she pierced_H2498 and_H3027 struck_H4272 through_H3027 his_H7971 temples_H7541. 
+@27 At_H8033 her_H0996 feet_H7272 he_H0834 bowed_H3766, he_H0834 fell_H5307, he_H0834 lay_H7901. At_H8033 her_H0996 feet_H7272 he_H0834 bowed_H3766, he_H0834 fell_H5307. Where_H0834 he_H0834 bowed_H3766, there_H8033 he_H0834 fell_H5307 down_H7901 dead_H7703.
 
 ## In the house of Sisera
-@28 “Through the window she looked out, and cried: Sisera’s mother looked through the lattice. ‘Why is his chariot so long in coming? Why do the wheels of his chariots wait?’ 
-@29 Her wise ladies answered her, Yes, she returned answer to herself, 
-@30 ‘Have they not found, have they not divided the plunder? A lady, two ladies to every man; to Sisera a plunder of dyed garments, a plunder of dyed garments embroidered, of dyed garments embroidered on both sides, on the necks of the plunder?’
+@28 “Through_H1157 the_H0935 window_H2474 she_H0517 looked_H8259 out_H8259, and_H0935 cried_H2980: Sisera’s_H5516 mother_H0517 looked_H8259 through_H1157 the_H0935 lattice_H0822. ‘Why_H4069 is_H0935 his_H0935 chariot_H4818 so_H0935 long_H0309 in_H0935 coming_H0935? Why_H4069 do_H0935 the_H0935 wheels of_H7393 his_H0935 chariots_H7393 wait_H0309?’ 
+@29 Her_H7725 wise_H2450 ladies_H8282 answered_H0559 her_H7725, Yes_H0637, she_H1931 returned_H7725 answer_H6030 to_H0559 herself_H1931, 
+@30 ‘Have_H4672 they_H3808 not_H3808 found_H4672, have_H4672 they_H3808 not_H3808 divided_H2505 the_H3808 plunder_H7998? A_H4672 lady, two_H3808 ladies to_H3808 every_H7218 man_H1397; to_H3808 Sisera_H5516 a_H4672 plunder_H7998 of_H7218 dyed_H6648 garments, a_H4672 plunder_H7998 of_H7218 dyed_H6648 garments embroidered_H7553, of_H7218 dyed_H6648 garments embroidered_H7553 on_H1397 both sides, on_H1397 the_H3808 necks_H6677 of_H7218 the_H3808 plunder_H7998?’
 
 ## The swan song
-@31 “So let all your enemies perish, Yahweh, but let those who love him be as the sun when it rises in its strength.” 
+@31 “So_H3651 let_H3651 all_H3605 your_H3068 enemies_H0341 perish_H0006, Yahweh_H3068, but_H3651 let_H3651 those_H3605 who_H3605 love_H0157 him_H3605 be_H3068 as_H3068 the_H3605 sun_H8121 when_H3318 it_H3651 rises_H3318 in_H8141 its_H3605 strength_H1369.” 
 
-Then the land had rest forty years. 
+Then_H3318 the_H3605 land_H0776 had_H3068 rest_H8252 forty_H0705 years_H8141. 
 
 # 6 
 ## Renewed apostasy of the people results in the enslavement and plunder of the Midianites
-@1 The children of Israel did that which was evil in Yahweh’s sight, so Yahweh delivered them into the hand of Midian seven years. 
-@2 The hand of Midian prevailed against Israel; and because of Midian the children of Israel made themselves the dens which are in the mountains, the caves, and the strongholds. 
-@3 So it was, when Israel had sown, that the Midianites, the Amalekites, and the children of the east came up against them. 
-@4 They encamped against them, and destroyed the increase of the earth, until you come to Gaza. They left no sustenance in Israel, and no sheep, ox, or donkey. 
-@5 For they came up with their livestock and their tents. They came in as locusts for multitude. Both they and their camels were without number; and they came into the land to destroy it. 
-@6 Israel was brought very low because of Midian; and the children of Israel cried to Yahweh.
+@1 The_H5414 children_H1121 of_H1121 Israel_H3478 did_H6213 that_H3068 which_H5869 was_H3068 evil_H7451 in_H8141 Yahweh’s_H3068 sight_H5869, so_H6213 Yahweh_H3068 delivered_H5414 them_H5414 into_H3027 the_H5414 hand_H3027 of_H1121 Midian_H4080 seven_H7651 years_H8141. 
+@2 The_H0853 hand_H3027 of_H1121 Midian_H4080 prevailed_H5810 against_H5921 Israel_H3478; and_H1121 because_H5921 of_H1121 Midian_H4080 the_H0853 children_H1121 of_H1121 Israel_H3478 made_H6213 themselves_H5921 the_H0853 dens_H4492 which_H0834 are_H0834 in_H5921 the_H0853 mountains_H2022, the_H0853 caves_H4631, and_H1121 the_H0853 strongholds_H4679. 
+@3 So_H1961 it_H0518 was_H1961, when_H1961 Israel_H3478 had_H1961 sown_H2232, that_H1961 the_H5921 Midianites_H4080, the_H5921 Amalekites_H6002, and_H1121 the_H5921 children_H1121 of_H1121 the_H5921 east_H6924 came_H1961 up_H5927 against_H5921 them_H5921. 
+@4 They_H5921 encamped_H2583 against_H5921 them_H0853, and_H0935 destroyed_H7843 the_H0853 increase_H2981 of_H0776 the_H0853 earth_H0776, until_H5704 you_H5921 come_H0935 to_H0935 Gaza_H5804. They_H5921 left_H7604 no_H3808 sustenance_H4241 in_H5921 Israel_H3478, and_H0935 no_H3808 sheep_H7716, ox_H7794, or_H3808 donkey_H2543. 
+@5 For_H3588 they_H1992 came_H0935 up_H5927 with_H0935 their_H1992 livestock_H4735 and_H0935 their_H1992 tents_H0168. They_H1992 came_H0935 in_H0935 as_H0935 locusts_H0697 for_H3588 multitude_H7230. Both they_H1992 and_H0935 their_H1992 camels_H1581 were_H1992 without_H0369 number_H4557; and_H0935 they_H1992 came_H0935 into_H0935 the_H3588 land_H0776 to_H0935 destroy_H7843 it_H3588. 
+@6 Israel_H3478 was_H3068 brought_H1809 very_H3966 low_H1809 because_H6440 of_H1121 Midian_H4080; and_H1121 the_H6440 children_H1121 of_H1121 Israel_H3478 cried_H2199 to_H0413 Yahweh_H3068.
 
 ## Punishing Speech of a Prophet
-@7 When the children of Israel cried to Yahweh because of Midian, 
-@8 Yahweh sent a prophet to the children of Israel; and he said to them, “Yahweh, the God of Israel, says, ‘I brought you up from Egypt, and brought you out of the house of bondage. 
-@9 I delivered you out of the hand of the Egyptians and out of the hand of all who oppressed you, and drove them out from before you, and gave you their land. 
-@10 I said to you, “I am Yahweh your God. You shall not fear the gods of the Amorites, in whose land you dwell.” But you have not listened to my voice.’”
+@7 When_H3588 the_H5921 children_H1121 of_H1121 Israel_H3478 cried_H2199 to_H0413 Yahweh_H3068 because_H3588 of_H1121 Midian_H4080, 
+@8 Yahweh_H3068 sent_H7971 a_H7971 prophet_H5030 to_H0413 the_H0853 children_H1121 of_H1121 Israel_H3478; and_H1121 he_H0430 said_H0559 to_H0413 them_H0413, “Yahweh_H3068, the_H0853 God_H0430 of_H1121 Israel_H3478, says_H0559, ‘I_H0595 brought_H3318 you_H7971 up_H5927 from_H3318 Egypt_H4714, and_H1121 brought_H3318 you_H7971 out_H3318 of_H1121 the_H0853 house_H1004 of_H1121 bondage_H5650. 
+@9 I_H5414 delivered_H5337 you_H5414 out_H1644 of_H0776 the_H3605 hand_H3027 of_H0776 the_H3605 Egyptians_H4713 and_H0776 out_H1644 of_H0776 the_H3605 hand_H3027 of_H0776 all_H3605 who_H3605 oppressed_H3905 you_H5414, and_H0776 drove_H1644 them_H5414 out_H1644 from_H6440 before_H6440 you_H5414, and_H0776 gave_H5414 you_H5414 their_H3605 land_H0776. 
+@10 I_H0589 said_H0559 to_H0559 you_H0859, “I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430. You_H0859 shall_H3068 not_H3808 fear_H3372 the_H0853 gods_H0430 of_H0776 the_H0853 Amorites_H0567, in_H3427 whose_H0834 land_H0776 you_H0859 dwell_H3427.” But_H3808 you_H0859 have_H0834 not_H3808 listened_H8085 to_H0559 my_H8085 voice_H6963.’”
 
 ## Gideon calls him an angel; His worries quelled by a sign from God
-@11 Yahweh’s angel came and sat under the oak which was in Ophrah, that belonged to Joash the Abiezrite. His son Gideon was beating out wheat in the wine press, to hide it from the Midianites. 
-@12 Yahweh’s angel appeared to him, and said to him, “Yahweh is with you, you mighty man of valor!” 
+@11 Yahweh’s_H3068 angel_H4397 came_H0935 and_H1121 sat_H3427 under_H8478 the_H6440 oak_H0424 which_H0834 was_H0834 in_H3427 Ophrah_H6084, that_H0834 belonged to_H0935 Joash_H3101 the_H6440 Abiezrite_H0033. His_H3068 son_H1121 Gideon_H1439 was_H0834 beating_H2251 out_H6440 wheat_H2406 in_H3427 the_H6440 wine_H1660 press_H1660, to_H0935 hide it_H3068 from_H0935 the_H6440 Midianites_H4080. 
+@12 Yahweh’s_H3068 angel_H4397 appeared_H7200 to_H0413 him_H0413, and_H3068 said_H0559 to_H0413 him_H0413, “Yahweh_H3068 is_H3068 with_H5973 you_H5973, you_H5973 mighty_H1368 man_H1368 of_H3068 valor_H2428!” 
 
-@13 Gideon said to him, “Oh, my lord, if Yahweh is with us, why then has all this happened to us? Where are all his wondrous works which our fathers told us of, saying, ‘Didn’t Yahweh bring us up from Egypt?’ But now Yahweh has cast us off, and delivered us into the hand of Midian.” 
+@13 Gideon_H1439 said_H0559 to_H0413 him_H0413, “Oh, my_H3605 lord_H3068, if_H0834 Yahweh_H3068 is_H0834 with_H5973 us_H5414, why_H4100 then_H6258 has_H3068 all_H3605 this_H2063 happened_H4672 to_H0413 us_H5414? Where_H0834 are_H0834 all_H3605 his_H3605 wondrous_H6381 works_H6381 which_H0834 our_H3068 fathers_H0001 told_H0559 us_H5414 of_H3068, saying_H0559, ‘Didn’t_H3808 Yahweh_H3068 bring_H5927 us_H5414 up_H5927 from_H0413 Egypt_H4714?’ But_H3808 now_H6258 Yahweh_H3068 has_H3068 cast_H5414 us_H5414 off_H5414, and_H3068 delivered_H5414 us_H5414 into_H0413 the_H3605 hand_H3709 of_H3068 Midian_H4080.” 
 
-@14 Yahweh looked at him, and said, “Go in this your might, and save Israel from the hand of Midian. Haven’t I sent you?” 
+@14 Yahweh_H3068 looked_H6437 at_H0413 him_H0413, and_H3068 said_H0559, “Go_H7971 in_H0413 this_H2088 your_H3068 might_H3068, and_H3068 save_H3467 Israel_H3478 from_H3478 the_H0853 hand_H3709 of_H3068 Midian_H4080. Haven’t_H3808 I_H2088 sent_H7971 you_H7971?” 
 
-@15 He said to him, “O Lord,^a^ how shall I save Israel? Behold, my family is the poorest in Manasseh, and I am the least in my father’s house.” 
+@15 He_H0853 said_H0559 to_H0413 him_H0413, “O_H0136 Lord_H0136,^a^ how_H4100 shall_H3478 I_H0595 save_H3467 Israel_H3478? Behold_H2009, my_H3467 family_H1004 is_H4100 the_H0853 poorest in_H0413 Manasseh_H4519, and_H3478 I_H0595 am_H0595 the_H0853 least_H6810 in_H0413 my_H3467 father’s_H0001 house_H1004.” 
 ^a^[**6:15** The word translated “Lord” is “Adonai.”]
 
-@16 Yahweh said to him, “Surely I will be with you, and you shall strike the Midianites as one man.” 
+@16 Yahweh_H3068 said_H0559 to_H0413 him_H0413, “Surely_H3588 I_H3588 will_H3068 be_H1961 with_H5973 you_H3588, and_H3068 you_H3588 shall_H3068 strike_H5221 the_H0853 Midianites_H4080 as_H1961 one_H0259 man_H0376.” 
 
-@17 He said to him, “If now I have found favor in your sight, then show me a sign that it is you who talk with me. 
-@18 Please don’t go away until I come to you, and bring out my present, and lay it before you.” 
+@17 He_H0518 said_H0559 to_H0413 him_H0413, “If_H0518 now_H4994 I_H0518 have_H5869 found_H4672 favor_H2580 in_H0413 your_H0518 sight_H5869, then_H1696 show_H6213 me_H0413 a_H0518 sign_H0226 that_H0559 it_H0518 is_H5869 you_H0859 who_H0559 talk_H1696 with_H5973 me_H0413. 
+@18 Please_H4994 don’t_H0408 go_H3318 away_H7725 until_H5704 I_H0595 come_H0935 to_H0413 you_H6440, and_H0935 bring_H0935 out_H3318 my_H7725 present_H4503, and_H0935 lay_H3318 it_H7725 before_H6440 you_H6440.” 
 
-He said, “I will wait until you come back.” 
+He_H5704 said_H0559, “I_H0595 will_H5704 wait_H3427 until_H5704 you_H6440 come_H0935 back_H7725.” 
 
-@19 Gideon went in and prepared a young goat and unleavened cakes of an ephah^a^ of meal. He put the meat in a basket and he put the broth in a pot, and brought it out to him under the oak, and presented it. 
+@19 Gideon_H1439 went_H3318 in_H0935 and_H0935 prepared_H6213 a_H7760 young_H1423 goat_H5795 and_H0935 unleavened_H4682 cakes_H4682 of_H8478 an_H7760 ephah_H0374^a^ of_H8478 meal_H7058. He_H6213 put_H7760 the_H0413 meat_H1320 in_H0935 a_H7760 basket_H5536 and_H0935 he_H6213 put_H7760 the_H0413 broth_H4839 in_H0935 a_H7760 pot_H6517, and_H0935 brought_H0935 it_H7760 out_H3318 to_H0413 him_H0413 under_H8478 the_H0413 oak_H0424, and_H0935 presented_H0935 it_H7760. 
 ^a^[**6:19** 1 ephah is about 22 liters or about 2/3 of a bushel]
 
-@20 The angel of God said to him, “Take the meat and the unleavened cakes, and lay them on this rock, and pour out the broth.” 
+@20 The_H0853 angel_H4397 of_H0430 God_H0430 said_H0559 to_H0413 him_H0413, “Take_H3947 the_H0853 meat_H1320 and_H0430 the_H0853 unleavened_H4682 cakes_H4682, and_H0430 lay them_H0413 on_H0413 this_H3651 rock_H5553, and_H0430 pour_H8210 out_H8210 the_H0853 broth_H4839.” 
 
-He did so. 
-@21 Then Yahweh’s angel stretched out the end of the staff that was in his hand, and touched the meat and the unleavened cakes; and fire went up out of the rock and consumed the meat and the unleavened cakes. Then Yahweh’s angel departed out of his sight. 
+He_H3651 did_H6213 so_H3651. 
+@21 Then_H1980 Yahweh’s_H3068 angel_H4397 stretched_H7971 out_H4480 the_H0853 end_H7097 of_H3068 the_H0853 staff_H4938 that_H0834 was_H0834 in_H1980 his_H3068 hand_H3027, and_H1980 touched_H5060 the_H0853 meat_H1320 and_H1980 the_H0853 unleavened_H4682 cakes_H4682; and_H1980 fire_H0784 went_H1980 up_H5927 out_H4480 of_H3068 the_H0853 rock_H6697 and_H1980 consumed_H0398 the_H0853 meat_H1320 and_H1980 the_H0853 unleavened_H4682 cakes_H4682. Then_H1980 Yahweh’s_H3068 angel_H4397 departed_H1980 out_H4480 of_H3068 his_H3068 sight_H5869. 
 
-@22 Gideon saw that he was Yahweh’s angel; and Gideon said, “Alas, Lord Yahweh! Because I have seen Yahweh’s angel face to face!” 
+@22 Gideon_H1439 saw_H7200 that_H3588 he_H1931 was_H3068 Yahweh’s_H3068 angel_H4397; and_H3068 Gideon_H1439 said_H0559, “Alas_H0162, Lord_H3068 Yahweh_H3068! Because_H3588 I_H3588 have_H3068 seen_H7200 Yahweh’s_H3068 angel_H4397 face_H6440 to_H0413 face_H6440!” 
 
-@23 Yahweh said to him, “Peace be to you! Don’t be afraid. You shall not die.” 
+@23 Yahweh_H3068 said_H0559 to_H0559 him_H4191, “Peace_H7965 be_H4191 to_H0559 you_H3808! Don’t_H0408 be_H4191 afraid_H3372. You_H3808 shall_H3068 not_H3808 die_H4191.” 
 
-@24 Then Gideon built an altar there to Yahweh, and called it “Yahweh is Peace.”^a^ To this day it is still in Ophrah of the Abiezrites. 
+@24 Then_H2088 Gideon_H1439 built_H1129 an_H1129 altar_H4196 there_H8033 to_H5704 Yahweh_H3068, and_H3068 called_H7121 it_H7121 “Yahweh_H3068 is_H3068 Peace_H7965.”^a^ To_H5704 this_H2088 day_H3117 it_H7121 is_H3068 still_H5750 in_H3068 Ophrah_H6084 of_H3068 the_H3068 Abiezrites_H0033. 
 ^a^[**6:24** or, Yahweh Shalom]
 
 ## Appearance of Gideon against Baal; his salvation through his father; Raise an army against the Midianites; his double proof of God
-@25 That same night, Yahweh said to him, “Take your father’s bull, even the second bull seven years old, and throw down the altar of Baal that your father has, and cut down the Asherah that is by it. 
-@26 Then build an altar to Yahweh your God on the top of this stronghold, in an orderly way, and take the second bull, and offer a burnt offering with the wood of the Asherah which you shall cut down.” 
+@25 That_H0834 same_H1931 night_H3915, Yahweh_H3068 said_H0559 to_H0559 him_H5921, “Take_H3947 your_H3068 father’s_H0001 bull_H6499, even_H0853 the_H0853 second_H8145 bull_H6499 seven_H7651 years_H8141 old_H8141, and_H3068 throw down_H3772 the_H0853 altar_H4196 of_H3068 Baal_H1168 that_H0834 your_H3068 father_H0001 has_H3068, and_H3068 cut_H3772 down_H3772 the_H0853 Asherah_H0842 that_H0834 is_H0834 by_H5921 it_H1931. 
+@26 Then_H2088 build_H1129 an_H1129 altar_H4196 to_H5921 Yahweh_H3068 your_H3068 God_H0430 on_H5921 the_H0853 top_H7218 of_H0430 this_H2088 stronghold_H4581, in_H5921 an_H1129 orderly_H4634 way_H2088, and_H3068 take_H3947 the_H0853 second_H8145 bull_H6499, and_H3068 offer_H5927 a_H3947 burnt_H5930 offering_H5927 with_H3068 the_H0853 wood_H6086 of_H0430 the_H0853 Asherah_H0842 which_H0834 you_H0834 shall_H3068 cut_H3772 down_H3772.” 
 
-@27 Then Gideon took ten men of his servants, and did as Yahweh had spoken to him. Because he feared his father’s household and the men of the city, he could not do it by day, but he did it by night. 
+@27 Then_H1961 Gideon_H1439 took_H3947 ten_H6235 men_H0376 of_H1004 his_H3068 servants_H5650, and_H3068 did_H6213 as_H0834 Yahweh_H3068 had_H3068 spoken_H1696 to_H0413 him_H0413. Because_H0834 he_H0834 feared_H3372 his_H3068 father’s_H0001 household_H1004 and_H3068 the_H0853 men_H0376 of_H1004 the_H0853 city_H5892, he_H0834 could_H0376 not_H1961 do_H6213 it_H1961 by_H3068 day_H3119, but_H1961 he_H0834 did_H6213 it_H1961 by_H3068 night_H3915. 
 
-@28 When the men of the city arose early in the morning, behold, the altar of Baal was broken down, and the Asherah was cut down that was by it, and the second bull was offered on the altar that was built. 
-@29 They said to one another, “Who has done this thing?” 
+@28 When_H0834 the_H0853 men_H0376 of_H0376 the_H0853 city_H5892 arose_H7925 early_H7925 in_H5921 the_H0853 morning_H1242, behold_H2009, the_H0853 altar_H4196 of_H0376 Baal_H1168 was_H0834 broken_H5422 down_H5422, and_H0376 the_H0853 Asherah_H0842 was_H0834 cut_H3772 down_H5422 that_H0834 was_H0834 by_H5921 it_H5921, and_H0376 the_H0853 second_H8145 bull_H6499 was_H0834 offered_H5927 on_H5921 the_H0853 altar_H4196 that_H0834 was_H0834 built_H1129. 
+@29 They_H0376 said_H0559 to_H0413 one_H0376 another_H7453, “Who_H4310 has_H4310 done_H6213 this_H2088 thing_H1697?” 
 
-When they inquired and asked, they said, “Gideon the son of Joash has done this thing.” 
+When_H1121 they_H0376 inquired_H1875 and_H1121 asked_H0559, they_H0376 said_H0559, “Gideon_H1439 the_H0559 son_H1121 of_H1121 Joash_H3101 has_H4310 done_H6213 this_H2088 thing_H1697.” 
 
-@30 Then the men of the city said to Joash, “Bring out your son, that he may die, because he has broken down the altar of Baal, and because he has cut down the Asherah that was by it.” 
-@31 Joash said to all who stood against him, “Will you contend for Baal? Or will you save him? He who will contend for him, let him be put to death by morning! If he is a god, let him contend for himself, because someone has broken down his altar!” 
-@32 Therefore on that day he named him Jerub-Baal,^a^ saying, “Let Baal contend against him, because he has broken down his altar.” 
+@30 Then_H3318 the_H0853 men_H0376 of_H1121 the_H0853 city_H5892 said_H0559 to_H0413 Joash_H3101, “Bring_H3318 out_H3318 your_H5921 son_H1121, that_H0834 he_H0834 may_H0376 die_H4191, because_H3588 he_H0834 has_H0834 broken_H5422 down_H5422 the_H0853 altar_H4196 of_H1121 Baal_H1168, and_H1121 because_H3588 he_H0834 has_H0834 cut_H3772 down_H5422 the_H0853 Asherah_H0842 that_H0834 was_H0834 by_H5921 it_H5921.” 
+@31 Joash_H3101 said_H0559 to_H0559 all_H3605 who_H0834 stood_H5975 against_H5921 him_H5921, “Will_H0430 you_H0859 contend_H7378 for_H3588 Baal_H1168? Or_H0518 will_H0430 you_H0859 save_H3467 him_H5921? He_H0834 who_H0834 will_H0430 contend_H7378 for_H3588 him_H5921, let him_H5921 be_H4191 put_H4191 to_H0559 death_H4191 by_H5921 morning_H1242! If_H0518 he_H0834 is_H0834 a_H3588 god_H0430, let him_H5921 contend_H7378 for_H3588 himself_H1931, because_H3588 someone_H4191 has_H0430 broken_H5422 down_H5422 his_H3605 altar_H4196!” 
+@32 Therefore_H3588 on_H3117 that_H3588 day_H3117 he_H1931 named_H7121 him_H0853 Jerub-Baal_H3378,^a^ saying_H0559, “Let Baal_H1168 contend_H7378 against_H7378 him_H0853, because_H3588 he_H1931 has_H3117 broken_H5422 down_H5422 his_H7121 altar_H4196.” 
 ^a^[**6:32** “Jerub-Baal” means “Let Baal contend”.]
 
-@33 Then all the Midianites and the Amalekites and the children of the east assembled themselves together; and they passed over, and encamped in the valley of Jezreel. 
-@34 But Yahweh’s Spirit came on Gideon, and he blew a trumpet; and Abiezer was gathered together to follow him. 
-@35 He sent messengers throughout all Manasseh, and they also were gathered together to follow him. He sent messengers to Asher, to Zebulun, and to Naphtali; and they came up to meet them. 
+@33 Then_H5674 all_H3605 the_H3605 Midianites_H4080 and_H1121 the_H3605 Amalekites_H6002 and_H1121 the_H3605 children_H1121 of_H1121 the_H3605 east_H6924 assembled_H0622 themselves_H0622 together_H3162; and_H1121 they_H3605 passed_H5674 over_H5674, and_H1121 encamped_H2583 in_H2583 the_H3605 valley_H6010 of_H1121 Jezreel_H3157. 
+@34 But_H3068 Yahweh’s_H3068 Spirit_H7307 came_H3847 on_H3847 Gideon_H1439, and_H3068 he_H0310 blew_H8628 a_H3068 trumpet_H7782; and_H3068 Abiezer_H0044 was_H3068 gathered together_H2199 to_H3068 follow_H0310 him_H0853. 
+@35 He_H1931 sent_H7971 messengers_H4397 throughout_H3605 all_H3605 Manasseh_H4519, and_H7971 they_H0310 also_H1571 were_H1571 gathered together_H2199 to_H7971 follow_H0310 him_H7971. He_H1931 sent_H7971 messengers_H4397 to_H7971 Asher_H0836, to_H7971 Zebulun_H2074, and_H7971 to_H7971 Naphtali_H5321; and_H7971 they_H0310 came_H5927 up_H5927 to_H7971 meet_H7125 them_H7971. 
 
-@36 Gideon said to God, “If you will save Israel by my hand, as you have spoken, 
-@37 behold, I will put a fleece of wool on the threshing floor. If there is dew on the fleece only, and it is dry on all the ground, then I’ll know that you will save Israel by my hand, as you have spoken.” 
+@36 Gideon_H1439 said_H0559 to_H0413 God_H0430, “If_H0518 you_H0834 will_H0430 save_H3467 Israel_H3478 by_H3027 my_H0834 hand_H3027, as_H0834 you_H0834 have_H0834 spoken_H1696, 
+@37 behold_H2009, I_H0834 will_H1961 put_H3322 a_H1961 fleece_H1492 of_H0776 wool_H6785 on_H5921 the_H3605 threshing_H1637 floor_H1637. If_H0518 there_H2009 is_H0834 dew_H2919 on_H5921 the_H3605 fleece_H1492 only_H0905, and_H3478 it_H0518 is_H0834 dry_H2721 on_H5921 all_H3605 the_H3605 ground_H0776, then_H1961 I’ll know_H3045 that_H0834 you_H0834 will_H1961 save_H3467 Israel_H3478 by_H5921 my_H3605 hand_H3027, as_H0834 you_H0834 have_H1961 spoken_H1696.” 
 
-@38 It was so; for he rose up early on the next day, and pressed the fleece together, and wrung the dew out of the fleece, a bowl full of water. 
+@38 It_H4393 was_H1961 so_H3651; for_H4325 he_H3651 rose_H7925 up_H7925 early_H7925 on_H1961 the_H0853 next_H4283 day_H4283, and_H7925 pressed_H2115 the_H0853 fleece_H1492 together, and_H7925 wrung the_H0853 dew_H2919 out_H4480 of_H4480 the_H0853 fleece_H1492, a_H1961 bowl_H5602 full_H4393 of_H4480 water_H4325. 
 
-@39 Gideon said to God, “Don’t let your anger be kindled against me, and I will speak but this once. Please let me make a trial just this once with the fleece. Let it now be dry only on the fleece, and on all the ground let there be dew.” 
+@39 Gideon_H1439 said_H0559 to_H0413 God_H0430, “Don’t_H0408 let_H4994 your_H3605 anger_H0639 be_H1961 kindled_H2734 against_H5921 me_H0413, and_H0430 I_H0776 will_H0430 speak_H1696 but_H0389 this_H6471 once_H6471. Please_H4994 let_H4994 me_H0413 make_H5254 a_H1961 trial just_H0389 this_H6471 once_H6471 with_H0413 the_H3605 fleece_H1492. Let_H4994 it_H5921 now_H4994 be_H1961 dry_H2721 only_H0389 on_H5921 the_H3605 fleece_H1492, and_H0430 on_H5921 all_H3605 the_H3605 ground_H0776 let_H4994 there_H1961 be_H1961 dew_H2919.” 
 
-@40 God did so that night; for it was dry on the fleece only, and there was dew on all the ground. 
+@40 God_H0430 did_H6213 so_H3651 that_H3605 night_H3915; for_H5921 it_H1931 was_H1961 dry_H2721 on_H5921 the_H3605 fleece_H1492 only_H0905, and_H0430 there_H1961 was_H1961 dew_H2919 on_H5921 all_H3605 the_H3605 ground_H0776. 
 
 # 7 
 ## Gideon's victory over the Midianites
-@1 Then Jerubbaal, who is Gideon, and all the people who were with him, rose up early and encamped beside the spring of Harod. Midian’s camp was on the north side of them, by the hill of Moreh, in the valley.
+@1 Then_H1961 Jerubbaal_H3378, who_H0834 is_H0834 Gideon_H1439, and_H7925 all_H3605 the_H3605 people_H5971 who_H0834 were_H0834 with_H0854 him_H5921, rose_H7925 up_H7925 early_H7925 and_H7925 encamped_H2583 beside_H5921 the_H3605 spring of_H5921 Harod. Midian’s_H4080 camp_H4264 was_H1961 on_H5921 the_H3605 north_H6828 side_H6828 of_H5921 them_H5921, by_H5921 the_H3605 hill_H1389 of_H5921 Moreh_H4176, in_H5921 the_H3605 valley_H6010.
 
 ## Gideon's force is reduced to 300 men through two sightings
-@2 Yahweh said to Gideon, “The people who are with you are too many for me to give the Midianites into their hand, lest Israel brag against me, saying, ‘My own hand has saved me.’ 
-@3 Now therefore proclaim in the ears of the people, saying, ‘Whoever is fearful and trembling, let him return and depart from Mount Gilead.’” So twenty-two thousand of the people returned, and ten thousand remained. 
+@2 Yahweh_H3068 said_H0559 to_H0413 Gideon_H1439, “The_H0853 people_H5971 who_H0834 are_H0834 with_H0854 you_H0834 are_H0834 too_H5921 many_H7227 for_H5921 me_H0413 to_H0413 give_H5414 the_H0853 Midianites_H4080 into_H0413 their_H3068 hand_H3027, lest_H6435 Israel_H3478 brag_H6286 against_H5921 me_H0413, saying_H0559, ‘My_H5414 own hand_H3027 has_H3068 saved_H3467 me_H0413.’ 
+@3 Now_H6258 therefore_H6258 proclaim_H7121 in_H7604 the_H0559 ears_H0241 of_H2022 the_H0559 people_H5971, saying_H0559, ‘Whoever_H4310 is_H4310 fearful and_H7725 trembling, let_H4994 him_H7121 return_H7725 and_H7725 depart_H6852 from_H4480 Mount_H2022 Gilead_H1568.’” So_H4480 twenty-two_H8147 thousand_H0505 of_H2022 the_H0559 people_H5971 returned_H7725, and_H7725 ten_H6235 thousand_H0505 remained_H7604. 
 
-@4 Yahweh said to Gideon, “There are still too many people. Bring them down to the water, and I will test them for you there. It shall be, that those whom I tell you, ‘This shall go with you,’ shall go with you; and whoever I tell you, ‘This shall not go with you,’ shall not go.” 
-@5 So he brought down the people to the water; and Yahweh said to Gideon, “Everyone who laps of the water with his tongue, like a dog laps, you shall set him by himself; likewise everyone who bows down on his knees to drink.” 
-@6 The number of those who lapped, putting their hand to their mouth, was three hundred men; but all the rest of the people bowed down on their knees to drink water. 
-@7 Yahweh said to Gideon, “I will save you by the three hundred men who lapped, and deliver the Midianites into your hand. Let all the other people go, each to his own place.” 
+@4 Yahweh_H3068 said_H0559 to_H0413 Gideon_H1439, “There_H8033 are_H0834 still_H5750 too_H7227 many_H7227 people_H5971. Bring_H3381 them_H0413 down_H3381 to_H0413 the_H3605 water_H4325, and_H3068 I_H0834 will_H3068 test_H6884 them_H0413 for_H0413 you_H0834 there_H8033. It_H1931 shall_H3068 be_H1961, that_H0834 those_H3605 whom_H0834 I_H0834 tell_H0559 you_H0834, ‘This_H2088 shall_H3068 go_H3381 with_H5973 you_H0834,’ shall_H3068 go_H3381 with_H5973 you_H0834; and_H3068 whoever_H3605 I_H0834 tell_H0559 you_H0834, ‘This_H2088 shall_H3068 not_H3808 go_H3381 with_H5973 you_H0834,’ shall_H3068 not_H3808 go_H3381.” 
+@5 So_H4480 he_H0834 brought_H3381 down_H3381 the_H3605 people_H5971 to_H0413 the_H3605 water_H4325; and_H3068 Yahweh_H3068 said_H0559 to_H0413 Gideon_H1439, “Everyone_H3605 who_H0834 laps_H3952 of_H3068 the_H3605 water_H4325 with_H0413 his_H3605 tongue_H3956, like_H0834 a_H4480 dog_H3611 laps_H3952, you_H0834 shall_H3068 set_H3322 him_H0413 by_H5921 himself_H0905; likewise_H3068 everyone_H3605 who_H0834 bows down_H3381 on_H5921 his_H3605 knees_H1290 to_H0413 drink_H8354.” 
+@6 The_H3605 number_H4557 of_H0376 those_H3605 who_H3605 lapped_H3952, putting their_H3605 hand_H3027 to_H0413 their_H3605 mouth_H6310, was_H1961 three_H7969 hundred_H3967 men_H0376; but_H1961 all_H3605 the_H3605 rest_H3499 of_H0376 the_H3605 people_H5971 bowed_H3766 down_H3766 on_H5921 their_H3605 knees_H1290 to_H0413 drink_H8354 water_H4325. 
+@7 Yahweh_H3068 said_H0559 to_H0413 Gideon_H1439, “I_H5414 will_H3068 save_H3467 you_H5414 by_H3027 the_H3605 three_H7969 hundred_H3967 men_H0376 who_H3605 lapped_H3952, and_H3068 deliver_H3467 the_H3605 Midianites_H4080 into_H0413 your_H3068 hand_H3027. Let_H5414 all_H3605 the_H3605 other_H3605 people_H5971 go, each_H0376 to_H0413 his_H3605 own_H0376 place_H4725.” 
 
-@8 So the people took food in their hand, and their trumpets; and he sent all the rest of the men of Israel to their own tents, but retained the three hundred men; and the camp of Midian was beneath him in the valley.
+@8 So_H3947 the_H3605 people_H5971 took_H3947 food_H6720 in_H3478 their_H3605 hand_H3027, and_H3478 their_H3605 trumpets_H7782; and_H3478 he_H0853 sent_H7971 all_H3605 the_H3605 rest_H1961 of_H0376 the_H3605 men_H0376 of_H0376 Israel_H3478 to_H1961 their_H3605 own_H1961 tents_H0168, but_H1961 retained_H2388 the_H3605 three_H7969 hundred_H3967 men_H0376; and_H3478 the_H3605 camp_H4264 of_H0376 Midian_H4080 was_H1961 beneath_H8478 him_H7971 in_H3478 the_H3605 valley_H6010.
 
 ## Gideon's confidence is strengthened by infiltrating the enemy camp
-@9 That same night, Yahweh said to him, “Arise, go down into the camp, for I have delivered it into your hand. 
-@10 But if you are afraid to go down, go with Purah your servant down to the camp. 
-@11 You will hear what they say; and afterward your hands will be strengthened to go down into the camp.” Then went he down with Purah his servant to the outermost part of the armed men who were in the camp. 
+@9 That_H3588 same_H1931 night_H3915, Yahweh_H3068 said_H0559 to_H0413 him_H0413, “Arise_H6965, go_H3381 down_H3381 into_H0413 the_H0559 camp_H4264, for_H3588 I_H3588 have_H1961 delivered_H5414 it_H5414 into_H0413 your_H3068 hand_H3027. 
+@10 But_H0518 if_H0518 you_H0859 are_H0859 afraid_H3373 to_H0413 go_H3381 down_H3381, go_H3381 with_H0413 Purah_H6513 your_H0518 servant_H5288 down_H3381 to_H0413 the_H0413 camp_H4264. 
+@11 You_H0834 will_H0834 hear_H8085 what_H4100 they_H0834 say_H1696; and_H3027 afterward_H0310 your_H0834 hands_H3027 will_H0834 be_H3027 strengthened_H2388 to_H0413 go_H3381 down_H3381 into_H0413 the_H0834 camp_H4264.” Then_H1696 went_H3381 he_H0834 down_H3381 with_H0413 Purah_H6513 his_H8085 servant_H5288 to_H0413 the_H0834 outermost part_H3027 of_H3027 the_H0834 armed men_H5288 who_H0834 were_H0834 in_H0413 the_H0834 camp_H4264. 
 
-@12 The Midianites and the Amalekites and all the children of the east lay along in the valley like locusts for multitude; and their camels were without number, as the sand which is on the seashore for multitude. 
+@12 The_H3605 Midianites_H4080 and_H1121 the_H3605 Amalekites_H6002 and_H1121 all_H3605 the_H3605 children_H1121 of_H1121 the_H3605 east_H6924 lay_H5307 along_H5921 in_H5921 the_H3605 valley_H6010 like_H5307 locusts_H0697 for_H5921 multitude_H7230; and_H1121 their_H3605 camels_H1581 were_H1121 without_H0369 number_H4557, as_H7230 the_H3605 sand_H2344 which is_H0369 on_H5921 the_H3605 seashore_H3220 for_H5921 multitude_H7230. 
 
-@13 When Gideon had come, behold, there was a man telling a dream to his fellow. He said, “Behold, I dreamed a dream; and behold, a cake of barley bread tumbled into the camp of Midian, came to the tent, and struck it so that it fell, and turned it upside down, so that the tent lay flat.” 
+@13 When_H0935 Gideon_H1439 had_H0376 come_H0935, behold_H2009, there_H2009 was_H0376 a_H0935 man_H0376 telling_H0559 a_H0935 dream_H2472 to_H0559 his_H0376 fellow_H0376. He_H5704 said_H0559, “Behold_H2009, I_H5704 dreamed_H2492 a_H0935 dream_H2472; and_H0935 behold_H2009, a_H0935 cake of_H0376 barley_H8184 bread_H3899 tumbled into_H0935 the_H0559 camp_H4264 of_H0376 Midian_H4080, came_H0935 to_H0559 the_H0559 tent_H0168, and_H0935 struck_H5221 it_H5704 so_H0935 that_H0559 it_H5704 fell_H5307, and_H0935 turned_H2015 it_H5704 upside_H4605 down_H5221, so_H0935 that_H0559 the_H0559 tent_H0168 lay_H5307 flat_H5307.” 
 
-@14 His fellow answered, “This is nothing other than the sword of Gideon the son of Joash, a man of Israel. God has delivered Midian into his hand, with all the army.” 
+@14 His_H3605 fellow_H0376 answered_H0559, “This_H2063 is_H0369 nothing_H0369 other_H7453 than_H3605 the_H3605 sword_H2719 of_H1121 Gideon_H1439 the_H3605 son_H1121 of_H1121 Joash_H3101, a_H5414 man_H0376 of_H1121 Israel_H3478. God_H0430 has_H0430 delivered_H5414 Midian_H4080 into_H0376 his_H3605 hand_H3027, with_H0376 all_H3605 the_H3605 army_H4264.” 
 
-@15 It was so, when Gideon heard the telling of the dream and its interpretation, that he worshiped. Then he returned into the camp of Israel and said, “Arise, for Yahweh has delivered the army of Midian into your hand!”
+@15 It_H5414 was_H1961 so_H1961, when_H3588 Gideon_H1439 heard_H8085 the_H0853 telling_H0559 of_H3068 the_H0853 dream_H2472 and_H6965 its_H5414 interpretation_H7667, that_H3588 he_H3588 worshiped_H7812. Then_H1961 he_H3588 returned_H7725 into_H0413 the_H0853 camp_H4264 of_H3068 Israel_H3478 and_H6965 said_H0559, “Arise_H6965, for_H3588 Yahweh_H3068 has_H3068 delivered_H5414 the_H0853 army_H4264 of_H3068 Midian_H4080 into_H0413 your_H3068 hand_H3027!”
 
 ## Gideon's victorious raid on the Midianite camp
-@16 He divided the three hundred men into three companies, and he put into the hands of all of them trumpets and empty pitchers, with torches within the pitchers. 
+@16 He_H5414 divided_H2673 the_H3605 three_H7969 hundred_H3967 men_H0376 into_H8432 three_H7969 companies_H7218, and_H3967 he_H5414 put_H5414 into_H8432 the_H3605 hands_H3027 of_H0376 all_H3605 of_H0376 them_H5414 trumpets_H7782 and_H3967 empty_H7386 pitchers_H3537, with_H0376 torches_H3940 within_H8432 the_H3605 pitchers_H3537. 
 
-@17 He said to them, “Watch me, and do likewise. Behold, when I come to the outermost part of the camp, it shall be that, as I do, so you shall do. 
-@18 When I blow the trumpet, I and all who are with me, then blow the trumpets also on every side of all the camp, and shout, ‘For Yahweh and for Gideon!’” 
+@17 He_H0834 said_H0559 to_H0413 them_H0413, “Watch_H7200 me_H0413, and_H0935 do_H6213 likewise_H3651. Behold_H2009, when_H1961 I_H0834 come_H0935 to_H0413 the_H0559 outermost part_H4480 of_H4480 the_H0559 camp_H4264, it_H3651 shall_H0834 be_H1961 that_H0834, as_H0834 I_H0834 do_H6213, so_H3651 you_H0834 shall_H0834 do_H6213. 
+@18 When_H0834 I_H0834 blow_H8628 the_H3605 trumpet_H7782, I_H0834 and_H3068 all_H3605 who_H0834 are_H0834 with_H0854 me_H0834, then_H0859 blow_H8628 the_H3605 trumpets_H7782 also_H1571 on_H3068 every_H3605 side_H5439 of_H3068 all_H3605 the_H3605 camp_H4264, and_H3068 shout, ‘For_H3605 Yahweh_H3068 and_H3068 for_H3605 Gideon_H1439!’” 
 
-@19 So Gideon and the hundred men who were with him came to the outermost part of the camp in the beginning of the middle watch, when they had but newly set the watch. Then they blew the trumpets and broke in pieces the pitchers that were in their hands. 
-@20 The three companies blew the trumpets, broke the pitchers, and held the torches in their left hands and the trumpets in their right hands with which to blow; and they shouted, “The sword of Yahweh and of Gideon!” 
-@21 They each stood in his place around the camp, and all the army ran; and they shouted, and put them to flight. 
-@22 They blew the three hundred trumpets, and Yahweh set every man’s sword against his fellow and against all the army; and the army fled as far as Beth Shittah toward Zererah, as far as the border of Abel Meholah, by Tabbath.
+@19 So_H0834 Gideon_H1439 and_H0935 the_H0853 hundred_H3967 men_H0376 who_H0834 were_H0834 with_H0854 him_H0853 came_H0935 to_H0935 the_H0853 outermost part_H3027 of_H0376 the_H0853 camp_H4264 in_H0935 the_H0853 beginning_H7218 of_H0376 the_H0853 middle_H8484 watch_H8104, when_H0834 they_H0834 had_H0834 but_H0389 newly set_H6965 the_H0853 watch_H8104. Then_H6965 they_H0834 blew_H8628 the_H0853 trumpets_H7782 and_H0935 broke in_H0935 pieces the_H0853 pitchers_H3537 that_H0834 were_H0834 in_H0935 their_H0935 hands_H3027. 
+@20 The_H3068 three_H7969 companies_H7218 blew_H8628 the_H3068 trumpets_H7782, broke_H7665 the_H3068 pitchers_H3537, and_H3068 held_H2388 the_H3068 torches_H3940 in_H3068 their_H3068 left_H8040 hands_H3027 and_H3068 the_H3068 trumpets_H7782 in_H3068 their_H3068 right_H3225 hands_H3027 with_H3068 which_H2719 to_H3068 blow_H8628; and_H3068 they_H3068 shouted_H7121, “The_H3068 sword_H2719 of_H3068 Yahweh_H3068 and_H3068 of_H3068 Gideon_H1439!” 
+@21 They_H0376 each_H0376 stood_H5975 in_H0376 his_H3605 place_H8478 around_H5439 the_H3605 camp_H4264, and_H0376 all_H3605 the_H3605 army_H4264 ran_H7323; and_H0376 they_H0376 shouted_H7321, and_H0376 put_H5127 them_H5975 to_H0376 flight_H5127. 
+@22 They_H5921 blew_H8628 the_H3605 three_H7969 hundred_H3967 trumpets_H7782, and_H3068 Yahweh_H3068 set_H7760 every_H3605 man’s_H0376 sword_H2719 against_H5921 his_H3605 fellow_H0376 and_H3068 against_H5921 all_H3605 the_H3605 army_H4264; and_H3068 the_H3605 army_H4264 fled_H5127 as_H5704 far_H5704 as_H5704 Beth Shittah toward_H5921 Zererah_H6888, as_H5704 far_H5704 as_H5704 the_H3605 border of_H0376 Abel Meholah, by_H5921 Tabbath_H2888.
 
 ## Chase successful; the jealous Ephraimites appeased by Gideon
-@23 The men of Israel were gathered together out of Naphtali, out of Asher, and out of all Manasseh, and pursued Midian. 
-@24 Gideon sent messengers throughout all the hill country of Ephraim, saying, “Come down against Midian and take the waters before them as far as Beth Barah, even the Jordan!” So all the men of Ephraim were gathered together and took the waters as far as Beth Barah, even the Jordan. 
-@25 They took the two princes of Midian, Oreb and Zeeb. They killed Oreb at Oreb’s rock, and Zeeb they killed at Zeeb’s wine press, as they pursued Midian. Then they brought the heads of Oreb and Zeeb to Gideon beyond the Jordan. 
+@23 The_H3605 men_H0376 of_H0376 Israel_H3478 were_H3478 gathered together_H6817 out_H4480 of_H0376 Naphtali_H5321, out_H4480 of_H0376 Asher_H0836, and_H3478 out_H4480 of_H0376 all_H3605 Manasseh_H4519, and_H3478 pursued_H7291 Midian_H4080. 
+@24 Gideon_H1439 sent_H7971 messengers_H4397 throughout_H3605 all_H3605 the_H3605 hill_H2022 country_H2022 of_H0376 Ephraim_H0669, saying_H0559, “Come_H3381 down_H3381 against_H7125 Midian_H4080 and_H7971 take_H3920 the_H3605 waters_H4325 before_H5704 them_H0853 as_H5704 far_H5704 as_H5704 Beth Barah, even_H5704 the_H3605 Jordan_H3383!” So_H7971 all_H3605 the_H3605 men_H0376 of_H0376 Ephraim_H0669 were_H0376 gathered together_H6817 and_H7971 took_H3920 the_H3605 waters_H4325 as_H5704 far_H5704 as_H5704 Beth Barah, even_H5704 the_H3605 Jordan_H3383. 
+@25 They_H0935 took_H3920 the_H0853 two_H8147 princes_H8269 of_H8269 Midian_H4080, Oreb_H6159 and_H0935 Zeeb_H2062. They_H0935 killed_H2026 Oreb_H6159 at_H0413 Oreb’s rock_H6697, and_H0935 Zeeb_H2062 they_H0935 killed_H2026 at_H0413 Zeeb’s wine_H3342 press_H3342, as_H0935 they_H0935 pursued_H7291 Midian_H4080. Then_H0853 they_H0935 brought_H0935 the_H0853 heads_H7218 of_H8269 Oreb_H6159 and_H0935 Zeeb_H2062 to_H0413 Gideon_H1439 beyond_H5676 the_H0853 Jordan_H3383. 
 
 # 8 
-@1 The men of Ephraim said to him, “Why have you treated us this way, that you didn’t call us when you went to fight with Midian?” They rebuked him sharply. 
-@2 He said to them, “What have I now done in comparison with you? Isn’t the gleaning of the grapes of Ephraim better than the vintage of Abiezer? 
-@3 God has delivered into your hand the princes of Midian, Oreb and Zeeb! What was I able to do in comparison with you?” Then their anger was abated toward him when he had said that.
+@1 The_H0559 men_H0376 of_H0376 Ephraim_H0669 said_H0559 to_H0413 him_H0413, “Why_H4100 have_H0376 you_H3588 treated_H0854 us_H0413 this_H2088 way_H1697, that_H3588 you_H3588 didn’t call_H7121 us_H0413 when_H3588 you_H3588 went_H1980 to_H0413 fight_H3898 with_H0854 Midian_H4080?” They_H3588 rebuked him_H0413 sharply. 
+@2 He_H6213 said_H0559 to_H0413 them_H0413, “What_H4100 have_H6258 I_H6258 now_H6258 done_H6213 in_H0413 comparison with_H0413 you_H6213? Isn’t_H3808 the_H0559 gleaning_H5955 of_H0559 the_H0559 grapes of_H0559 Ephraim_H0669 better_H2896 than_H3808 the_H0559 vintage_H1210 of_H0559 Abiezer_H0044? 
+@3 God_H0430 has_H0430 delivered_H5414 into_H5921 your_H5414 hand_H3027 the_H0853 princes_H8269 of_H0430 Midian_H4080, Oreb_H6159 and_H0430 Zeeb_H2062! What_H4100 was_H0430 I_H5414 able_H3201 to_H1696 do_H6213 in_H5921 comparison with_H5921 you_H5414?” Then_H0227 their_H5414 anger_H7307 was_H0430 abated toward_H5921 him_H5414 when_H1696 he_H0430 had_H0430 said_H1696 that_H1697.
 
 ## Gideon's request at Sukkoth and Pnuel was cruelly refused
-@4 Gideon came to the Jordan and passed over, he and the three hundred men who were with him, faint, yet pursuing. 
-@5 He said to the men of Succoth, “Please give loaves of bread to the people who follow me; for they are faint, and I am pursuing after Zebah and Zalmunna, the kings of Midian.” 
+@4 Gideon_H1439 came_H0935 to_H0935 the_H0834 Jordan_H3383 and_H0935 passed_H5674 over_H5674, he_H0834 and_H0935 the_H0834 three_H7969 hundred_H3967 men_H0376 who_H0834 were_H0834 with_H0854 him_H0935, faint_H5889, yet_H5889 pursuing_H7291. 
+@5 He_H0834 said_H0559 to_H0559 the_H0559 men_H0376 of_H4428 Succoth_H5523, “Please_H4994 give_H5414 loaves_H3899 of_H4428 bread_H3899 to_H0559 the_H0559 people_H5971 who_H0834 follow_H0310 me_H5414; for_H3588 they_H1992 are_H0834 faint_H5889, and_H4428 I_H0834 am_H0595 pursuing_H7291 after_H0310 Zebah_H2078 and_H4428 Zalmunna_H6759, the_H0559 kings_H4428 of_H4428 Midian_H4080.” 
 
-@6 The princes of Succoth said, “Are the hands of Zebah and Zalmunna now in your hand, that we should give bread to your army?” 
+@6 The_H0559 princes_H8269 of_H3027 Succoth_H5523 said_H0559, “Are_H3027 the_H0559 hands_H3027 of_H3027 Zebah_H2078 and_H3027 Zalmunna_H6759 now_H6258 in_H3899 your_H5414 hand_H3027, that_H3588 we_H3588 should_H3588 give_H5414 bread_H3899 to_H0559 your_H5414 army_H6635?” 
 
-@7 Gideon said, “Therefore when Yahweh has delivered Zebah and Zalmunna into my hand, then I will tear your flesh with the thorns of the wilderness and with briers.” 
+@7 Gideon_H1439 said_H0559, “Therefore_H3651 when_H3068 Yahweh_H3068 has_H3068 delivered_H5414 Zebah_H2078 and_H3068 Zalmunna_H6759 into_H3027 my_H5414 hand_H3027, then_H0853 I_H5414 will_H3068 tear your_H3068 flesh_H1320 with_H0854 the_H0853 thorns_H6975 of_H3068 the_H0853 wilderness_H4057 and_H3068 with_H0854 briers_H1303.” 
 
-@8 He went up there to Penuel, and spoke to them in the same way; and the men of Penuel answered him as the men of Succoth had answered. 
-@9 He spoke also to the men of Penuel, saying, “When I come again in peace, I will break down this tower.”
+@8 He_H0834 went_H5927 up_H5927 there_H8033 to_H0413 Penuel_H6439, and_H0376 spoke_H1696 to_H0413 them_H0413 in_H0413 the_H0853 same_H0853 way_H2063; and_H0376 the_H0853 men_H0376 of_H0376 Penuel_H6439 answered_H6030 him_H0413 as_H0834 the_H0853 men_H0376 of_H0376 Succoth_H5523 had_H0834 answered_H6030. 
+@9 He_H0853 spoke_H0559 also_H1571 to_H0559 the_H0853 men_H0376 of_H0376 Penuel_H6439, saying_H0559, “When_H7725 I_H2088 come_H7725 again_H7725 in_H0376 peace_H7965, I_H2088 will_H0376 break_H5422 down_H5422 this_H2088 tower_H4026.”
 
 ## Gideon captures the two kings and takes revenge on the two hostile cities
-@10 Now Zebah and Zalmunna were in Karkor, and their armies with them, about fifteen thousand men, all who were left of all the army of the children of the east; for there fell one hundred twenty thousand men who drew sword. 
-@11 Gideon went up by the way of those who lived in tents on the east of Nobah and Jogbehah, and struck the army; for the army felt secure. 
-@12 Zebah and Zalmunna fled and he pursued them. He took the two kings of Midian, Zebah and Zalmunna, and confused all the army. 
-@13 Gideon the son of Joash returned from the battle from the ascent of Heres. 
-@14 He caught a young man of the men of Succoth, and inquired of him; and he described for him the princes of Succoth, and its elders, seventy-seven men. 
-@15 He came to the men of Succoth, and said, “See Zebah and Zalmunna, concerning whom you taunted me, saying, ‘Are the hands of Zebah and Zalmunna now in your hand, that we should give bread to your men who are weary?’” 
-@16 He took the elders of the city, and thorns of the wilderness and briers, and with them he taught the men of Succoth. 
-@17 He broke down the tower of Penuel, and killed the men of the city.
+@10 Now Zebah_H2078 and_H1121 Zalmunna_H6759 were_H1121 in_H0376 Karkor, and_H1121 their_H3605 armies_H4264 with_H5973 them_H5307, about_H3605 fifteen_H6240 thousand_H0505 men_H0376, all_H3605 who_H3605 were_H1121 left_H3498 of_H1121 all_H3605 the_H3605 army_H4264 of_H1121 the_H3605 children_H1121 of_H1121 the_H3605 east_H6924; for_H3605 there_H6924 fell_H5307 one_H0376 hundred_H3967 twenty_H6242 thousand_H0505 men_H0376 who_H3605 drew_H8025 sword_H2719. 
+@11 Gideon_H1439 went_H5927 up_H5927 by_H1870 the_H0853 way_H1870 of_H0168 those_H0853 who_H5221 lived_H7931 in_H7931 tents_H0168 on_H1870 the_H0853 east_H6924 of_H0168 Nobah_H5025 and_H1870 Jogbehah_H3011, and_H1870 struck_H5221 the_H0853 army_H4264; for_H4264 the_H0853 army_H4264 felt secure_H0983. 
+@12 Zebah_H2078 and_H4428 Zalmunna_H6759 fled_H5127 and_H4428 he_H0310 pursued_H7291 them_H0853. He_H0310 took_H3920 the_H3605 two_H8147 kings_H4428 of_H4428 Midian_H4080, Zebah_H2078 and_H4428 Zalmunna_H6759, and_H4428 confused all_H3605 the_H3605 army_H4264. 
+@13 Gideon_H1439 the_H4480 son_H1121 of_H1121 Joash_H3101 returned_H7725 from_H4480 the_H4480 battle_H4421 from_H4480 the_H4480 ascent_H4608 of_H1121 Heres. 
+@14 He_H0853 caught_H3920 a_H0376 young_H5288 man_H0376 of_H0376 the_H0853 men_H0376 of_H0376 Succoth_H5523, and_H0376 inquired_H7592 of_H0376 him_H0413; and_H0376 he_H0853 described_H3789 for_H0413 him_H0413 the_H0853 princes_H8269 of_H0376 Succoth_H5523, and_H0376 its_H0853 elders_H2205, seventy-seven_H7657 men_H0376. 
+@15 He_H0834 came_H0935 to_H0413 the_H0853 men_H0376 of_H0376 Succoth_H5523, and_H0935 said_H0559, “See_H2009 Zebah_H2078 and_H0935 Zalmunna_H6759, concerning_H0413 whom_H0834 you_H0834 taunted_H2778 me_H0413, saying_H0559, ‘Are_H0834 the_H0853 hands_H3027 of_H0376 Zebah_H2078 and_H0935 Zalmunna_H6759 now_H6258 in_H0935 your_H5414 hand_H3027, that_H0834 we_H3588 should_H0376 give_H5414 bread_H3899 to_H0413 your_H5414 men_H0376 who_H0834 are_H0834 weary_H3286?’” 
+@16 He_H0853 took_H3947 the_H0853 elders_H2205 of_H0376 the_H0853 city_H5892, and_H0376 thorns_H6975 of_H0376 the_H0853 wilderness_H4057 and_H0376 briers_H1303, and_H0376 with_H3045 them_H0853 he_H0853 taught_H3045 the_H0853 men_H0376 of_H0376 Succoth_H5523. 
+@17 He_H0853 broke_H5422 down_H5422 the_H0853 tower_H4026 of_H0376 Penuel_H6439, and_H0376 killed_H2026 the_H0853 men_H0376 of_H0376 the_H0853 city_H5892.
 
 ## Gideon practices blood revenge against the two Midianite kings
-@18 Then he said to Zebah and Zalmunna, “What kind of men were they whom you killed at Tabor?” 
+@18 Then_H0559 he_H0834 said_H0559 to_H0413 Zebah_H2078 and_H1121 Zalmunna_H6759, “What_H0834 kind_H0375 of_H1121 men_H0376 were_H0834 they_H0834 whom_H0834 you_H0834 killed_H2026 at_H0413 Tabor_H8396?” 
 
-They answered, “They were like you. They all resembled the children of a king.” 
+They_H0834 answered_H0559, “They_H0834 were_H0834 like_H3644 you_H0834. They_H0834 all_H0259 resembled the_H0559 children_H1121 of_H1121 a_H3644 king_H4428.” 
 
-@19 He said, “They were my brothers, the sons of my mother. As Yahweh lives, if you had saved them alive, I would not kill you.” 
+@19 He_H3068 said_H0559, “They_H1992 were_H1121 my_H3068 brothers_H0251, the_H0853 sons_H1121 of_H1121 my_H3068 mother_H0517. As_H3068 Yahweh_H3068 lives_H2416, if_H3863 you_H0853 had_H3068 saved them_H1992 alive_H2416, I_H0559 would_H3068 not_H3808 kill_H2026 you_H0853.” 
 
-@20 He said to Jether his firstborn, “Get up and kill them!” But the youth didn’t draw his sword; for he was afraid, because he was yet a youth. 
+@20 He_H3588 said_H0559 to_H0559 Jether_H3500 his_H3588 firstborn_H1060, “Get_H6965 up_H6965 and_H6965 kill_H2026 them_H0853!” But_H3588 the_H0853 youth_H5288 didn’t_H3808 draw_H8025 his_H3588 sword_H2719; for_H3588 he_H3588 was_H5288 afraid_H3372, because_H3588 he_H3588 was_H5288 yet_H5750 a_H3588 youth_H5288. 
 
-@21 Then Zebah and Zalmunna said, “You rise and fall on us; for as the man is, so is his strength.” Gideon arose, and killed Zebah and Zalmunna, and took the crescents that were on their camels’ necks.
+@21 Then_H6965 Zebah_H2078 and_H6965 Zalmunna_H6759 said_H0559, “You_H0859 rise_H6965 and_H6965 fall_H6293 on_H6965 us_H3588; for_H3588 as_H0834 the_H0853 man_H0376 is_H0834, so_H3947 is_H0834 his_H3947 strength_H1369.” Gideon_H1439 arose_H6965, and_H6965 killed_H2026 Zebah_H2078 and_H6965 Zalmunna_H6759, and_H6965 took_H3947 the_H0853 crescents that_H0834 were_H0834 on_H6965 their_H3947 camels’_H1581 necks_H6677.
 
 ## Gideon rejects kingship; his idolatry and his end of life
-@22 Then the men of Israel said to Gideon, “Rule over us, both you, your son, and your son’s son also; for you have saved us out of the hand of Midian.” 
+@22 Then_H0859 the_H0559 men_H0376 of_H1121 Israel_H3478 said_H0559 to_H0413 Gideon_H1439, “Rule_H4910 over_H0413 us_H0413, both_H1571 you_H0859, your_H3588 son_H1121, and_H1121 your_H3588 son’s_H1121 son_H1121 also_H1571; for_H3588 you_H0859 have_H1571 saved_H3467 us_H0413 out_H0413 of_H1121 the_H0559 hand_H3027 of_H1121 Midian_H4080.” 
 
-@23 Gideon said to them, “I will not rule over you, neither shall my son rule over you. Yahweh shall rule over you.” 
-@24 Gideon said to them, “I do have a request: that you would each give me the earrings of his plunder.” (For they had golden earrings, because they were Ishmaelites.) 
+@23 Gideon_H1439 said_H0559 to_H0413 them_H0413, “I_H0589 will_H3068 not_H3808 rule_H4910 over_H0413 you_H3808, neither_H3808 shall_H1121 my_H3068 son_H1121 rule_H4910 over_H0413 you_H3808. Yahweh_H3068 shall_H1121 rule_H4910 over_H0413 you_H3808.” 
+@24 Gideon_H1439 said_H0559 to_H0413 them_H0413, “I_H3588 do have_H0376 a_H3588 request_H7592: that_H3588 you_H3588 would_H0559 each_H0376 give_H5414 me_H0413 the_H0559 earrings_H5141 of_H0376 his_H5414 plunder_H7998.” (For_H3588 they_H1992 had_H3588 golden_H2091 earrings_H5141, because_H3588 they_H1992 were_H0376 Ishmaelites_H3459.) 
 
-@25 They answered, “We will willingly give them.” They spread a garment, and every man threw the earrings of his plunder into it. 
-@26 The weight of the golden earrings that he requested was one thousand and seven hundred shekels^a^ of gold, in addition to the crescents, and the pendants, and the purple clothing that was on the kings of Midian, and in addition to the chains that were about their camels’ necks. 
-@27 Gideon made an ephod out of it, and put it in Ophrah, his city. Then all Israel played the prostitute with it there; and it became a snare to Gideon and to his house. 
-@28 So Midian was subdued before the children of Israel, and they lifted up their heads no more. The land had rest forty years in the days of Gideon. 
+@25 They_H8033 answered_H0559, “We_H8033 will_H0376 willingly give_H5414 them_H5414.” They_H8033 spread_H6566 a_H5414 garment_H8071, and_H0376 every_H0376 man_H0376 threw_H7993 the_H0853 earrings_H5141 of_H0376 his_H5414 plunder_H7998 into_H0376 it_H5414. 
+@26 The_H0834 weight_H4948 of_H4428 the_H0834 golden_H2091 earrings_H5141 that_H0834 he_H0834 requested_H7592 was_H1961 one_H4480 thousand_H0505 and_H3967 seven_H7651 hundred_H3967 shekels_H4948^a^ of_H4428 gold_H2091, in_H5921 addition_H5921 to_H1961 the_H0834 crescents, and_H3967 the_H0834 pendants_H5188, and_H3967 the_H0834 purple_H0713 clothing_H0899 that_H0834 was_H1961 on_H5921 the_H0834 kings_H4428 of_H4428 Midian_H4080, and_H3967 in_H5921 addition_H5921 to_H1961 the_H0834 chains that_H0834 were_H0834 about_H1961 their_H5921 camels’_H1581 necks_H6677. 
+@27 Gideon_H1439 made_H6213 an_H1961 ephod_H0646 out_H3605 of_H1004 it_H8033, and_H3478 put_H3322 it_H8033 in_H1004 Ophrah_H6084, his_H3605 city_H5892. Then_H1961 all_H3605 Israel_H3478 played_H2181 the_H3605 prostitute_H2181 with_H1004 it_H8033 there_H8033; and_H3478 it_H8033 became_H1961 a_H1961 snare_H4170 to_H1961 Gideon_H1439 and_H3478 to_H1961 his_H3605 house_H1004. 
+@28 So_H3808 Midian_H4080 was_H3478 subdued_H3665 before_H6440 the_H6440 children_H1121 of_H1121 Israel_H3478, and_H1121 they_H3117 lifted_H5375 up_H5375 their_H5375 heads_H7218 no_H3808 more_H3254. The_H6440 land_H0776 had_H3478 rest_H8252 forty_H0705 years_H8141 in_H8141 the_H6440 days_H3117 of_H1121 Gideon_H1439. 
 ^a^[**8:26** A shekel is about 10 grams or about 0.32 Troy ounces, so 1700 shekels is about 17 kilograms or 37.4 pounds.]
 
-@29 Jerubbaal the son of Joash went and lived in his own house. 
-@30 Gideon had seventy sons conceived from his body, for he had many wives. 
-@31 His concubine who was in Shechem also bore him a son, and he named him Abimelech. 
-@32 Gideon the son of Joash died in a good old age, and was buried in the tomb of Joash his father, in Ophrah of the Abiezrites.
+@29 Jerubbaal_H3378 the_H1121 son_H1121 of_H1121 Joash_H3101 went_H1004 and_H1121 lived_H3427 in_H3427 his_H3427 own house_H1004. 
+@30 Gideon_H1439 had_H1961 seventy_H7657 sons_H1121 conceived from_H3318 his_H1961 body, for_H3588 he_H3588 had_H1961 many_H7227 wives_H0802. 
+@31 His_H7760 concubine_H6370 who_H0834 was_H8034 in_H1121 Shechem_H7927 also_H1571 bore_H3205 him_H3205 a_H7760 son_H1121, and_H1121 he_H0834 named_H8034 him_H3205 Abimelech_H0040. 
+@32 Gideon_H1439 the_H4191 son_H1121 of_H1121 Joash_H3101 died_H4191 in_H4191 a_H4191 good_H2896 old_H1121 age_H1121, and_H1121 was_H1121 buried_H6912 in_H4191 the_H4191 tomb_H6913 of_H1121 Joash_H3101 his_H4191 father_H0001, in_H4191 Ophrah_H6084 of_H1121 the_H4191 Abiezrites_H0033.
 
 ## New apostasy of the Israelites from God and their ingratitude towards Gideon
-@33 As soon as Gideon was dead, the children of Israel turned again and played the prostitute following the Baals, and made Baal Berith their god. 
-@34 The children of Israel didn’t remember Yahweh their God, who had delivered them out of the hand of all their enemies on every side; 
-@35 neither did they show kindness to the house of Jerubbaal, that is, Gideon, according to all the goodness which he had shown to Israel. 
+@33 As_H0834 soon as_H0834 Gideon_H1439 was_H1961 dead_H4191, the_H0834 children_H1121 of_H1121 Israel_H3478 turned_H7725 again_H7725 and_H1121 played_H2181 the_H0834 prostitute_H2181 following_H0310 the_H0834 Baals_H1168, and_H1121 made_H7760 Baal_H1168 Berith their_H7760 god_H0430. 
+@34 The_H3605 children_H1121 of_H1121 Israel_H3478 didn’t_H3808 remember_H2142 Yahweh_H3068 their_H3605 God_H0430, who_H3605 had_H3068 delivered_H5337 them_H0853 out_H3605 of_H1121 the_H3605 hand_H3027 of_H1121 all_H3605 their_H3605 enemies_H0341 on_H3068 every_H3605 side_H5439; 
+@35 neither_H3808 did_H6213 they_H0834 show_H6213 kindness_H2617 to_H3478 the_H3605 house_H1004 of_H1004 Jerubbaal_H3378, that_H0834 is_H0834, Gideon_H1439, according to_H3478 all_H3605 the_H3605 goodness which_H0834 he_H0834 had_H0834 shown_H5973 to_H3478 Israel_H3478. 
 
 # 9 
 ## Abimelech's fratricide in Ophra and his reign in Shechem
-@1 Abimelech the son of Jerubbaal went to Shechem to his mother’s brothers, and spoke with them and with all the family of the house of his mother’s father, saying, 
-@2 “Please speak in the ears of all the men of Shechem, ‘Is it better for you that all the sons of Jerubbaal, who are seventy persons, rule over you, or that one rule over you?’ Remember also that I am your bone and your flesh.” 
+@1 Abimelech_H0040 the_H3605 son_H1121 of_H1121 Jerubbaal_H3378 went_H0413 to_H0413 Shechem_H7927 to_H0413 his_H3605 mother’s_H0517 brothers_H0251, and_H1121 spoke_H1696 with_H0413 them_H0413 and_H1121 with_H0413 all_H3605 the_H3605 family_H4940 of_H1121 the_H3605 house_H1004 of_H1121 his_H3605 mother’s_H0517 father_H0001, saying_H0559, 
+@2 “Please_H4994 speak_H1696 in_H0376 the_H3605 ears_H0241 of_H1121 all_H3605 the_H3605 men_H0376 of_H1121 Shechem_H7927, ‘Is_H4100 it_H0518 better_H2896 for_H3588 you_H3588 that_H3588 all_H3605 the_H3605 sons_H1121 of_H1121 Jerubbaal_H3378, who_H3605 are_H4100 seventy_H7657 persons_H0376, rule_H4910 over_H4910 you_H3588, or_H0518 that_H3588 one_H0259 rule_H4910 over_H4910 you_H3588?’ Remember_H2142 also_H3588 that_H3588 I_H0589 am_H0589 your_H3605 bone_H6106 and_H1121 your_H3605 flesh_H1320.” 
 
-@3 His mother’s brothers spoke of him in the ears of all the men of Shechem all these words. Their hearts inclined to follow Abimelech; for they said, “He is our brother.” 
-@4 They gave him seventy pieces of silver out of the house of Baal Berith, with which Abimelech hired vain and reckless fellows who followed him. 
-@5 He went to his father’s house at Ophrah, and killed his brothers the sons of Jerubbaal, being seventy persons, on one stone; but Jotham the youngest son of Jerubbaal was left, for he hid himself. 
-@6 All the men of Shechem assembled themselves together with all the house of Millo, and went and made Abimelech king by the oak of the pillar that was in Shechem.
+@3 His_H3605 mother’s_H0517 brothers_H0251 spoke_H1696 of_H1697 him_H5921 in_H5921 the_H3605 ears_H0241 of_H1697 all_H3605 the_H3605 men_H1167 of_H1697 Shechem_H7927 all_H3605 these_H0428 words_H1697. Their_H3605 hearts_H3820 inclined_H5186 to_H0559 follow_H0310 Abimelech_H0040; for_H3588 they_H3588 said_H0559, “He_H1931 is_H1931 our_H3605 brother_H0251.” 
+@4 They_H0376 gave_H5414 him_H5414 seventy_H7657 pieces of_H1004 silver_H3701 out_H0376 of_H1004 the_H5414 house_H1004 of_H1004 Baal Berith, with_H1004 which_H1004 Abimelech_H0040 hired_H7936 vain and_H1004 reckless_H6348 fellows_H0376 who_H0376 followed_H0310 him_H5414. 
+@5 He_H3588 went_H0935 to_H0935 his_H5921 father’s_H0001 house_H1004 at_H5921 Ophrah_H6084, and_H1121 killed_H2026 his_H5921 brothers_H0251 the_H0853 sons_H1121 of_H1121 Jerubbaal_H3378, being_H1121 seventy_H7657 persons_H0376, on_H5921 one_H0259 stone_H0068; but_H3588 Jotham_H3147 the_H0853 youngest_H6996 son_H1121 of_H1121 Jerubbaal_H3378 was_H0376 left_H3498, for_H3588 he_H3588 hid_H2244 himself_H0376. 
+@6 All_H3605 the_H3605 men_H1167 of_H4428 Shechem_H7927 assembled_H0622 themselves_H0622 together_H0622 with_H5973 all_H3605 the_H3605 house_H1004 of_H4428 Millo_H4407, and_H4428 went_H1004 and_H4428 made_H3605 Abimelech_H0040 king_H4428 by_H3605 the_H3605 oak_H0436 of_H4428 the_H3605 pillar_H5324 that_H0834 was_H0834 in_H1004 Shechem_H7927.
 
 ## Jotham reads a serious warning fable to the Shechemites and curses them and Abimelech
-@7 When they told it to Jotham, he went and stood on the top of Mount Gerizim and lifted up his voice, cried out, and said to them, “Listen to me, you men of Shechem, that God may listen to you. 
-@8 The trees set out to anoint a king over themselves. They said to the olive tree, ‘Reign over us.’ 
+@7 When_H8085 they_H0559 told_H5046 it_H7121 to_H0413 Jotham_H3147, he_H0430 went_H0413 and_H0430 stood_H5975 on_H0413 the_H0559 top_H7218 of_H0430 Mount_H2022 Gerizim_H1630 and_H0430 lifted_H5375 up_H5375 his_H5375 voice_H6963, cried_H7121 out_H0413, and_H0430 said_H0559 to_H0413 them_H0413, “Listen_H8085 to_H0413 me_H0413, you_H5046 men_H1167 of_H0430 Shechem_H7927, that_H8085 God_H0430 may_H0430 listen_H8085 to_H0413 you_H5046. 
+@8 The_H0559 trees_H6086 set_H1980 out_H5921 to_H0559 anoint_H4886 a_H5921 king_H4428 over_H5921 themselves_H5921. They_H5921 said_H0559 to_H0559 the_H0559 olive_H2132 tree_H6086, ‘Reign_H4427 over_H5921 us_H5921.’ 
 
-@9 “But the olive tree said to them, ‘Should I stop producing my oil, with which they honor God and man by me, and go to wave back and forth over the trees?’ 
+@9 “But_H0376 the_H0853 olive_H2132 tree_H6086 said_H0559 to_H0559 them_H0853, ‘Should_H0376 I_H0834 stop_H2308 producing my_H5921 oil, with_H1980 which_H0834 they_H0834 honor_H3513 God_H0430 and_H1980 man_H0376 by_H5921 me_H5921, and_H1980 go_H1980 to_H0559 wave_H5128 back_H1980 and_H1980 forth_H1980 over_H5921 the_H0853 trees_H6086?’ 
 
-@10 “The trees said to the fig tree, ‘Come and reign over us.’ 
+@10 “The_H0559 trees_H6086 said_H0559 to_H0559 the_H0559 fig_H8384 tree_H6086, ‘Come and_H6086 reign_H4427 over_H5921 us_H5921.’ 
 
-@11 “But the fig tree said to them, ‘Should I leave my sweetness, and my good fruit, and go to wave back and forth over the trees?’ 
+@11 “But_H0559 the_H0853 fig_H8384 tree_H6086 said_H0559 to_H0559 them_H0853, ‘Should_H1980 I_H0559 leave_H1980 my_H5921 sweetness_H4987, and_H1980 my_H5921 good_H2896 fruit_H8570, and_H1980 go_H1980 to_H0559 wave_H5128 back_H1980 and_H1980 forth_H1980 over_H5921 the_H0853 trees_H6086?’ 
 
-@12 “The trees said to the vine, ‘Come and reign over us.’ 
+@12 “The_H0559 trees_H6086 said_H0559 to_H0559 the_H0559 vine_H1612, ‘Come and_H6086 reign_H4427 over_H5921 us_H5921.’ 
 
-@13 “The vine said to them, ‘Should I leave my new wine, which cheers God and man, and go to wave back and forth over the trees?’ 
+@13 “The_H0853 vine_H1612 said_H0559 to_H0559 them_H0853, ‘Should_H0376 I_H0559 leave_H1980 my_H5921 new_H8492 wine_H8492, which_H6086 cheers_H8055 God_H0430 and_H1980 man_H0376, and_H1980 go_H1980 to_H0559 wave_H5128 back_H1980 and_H1980 forth_H1980 over_H5921 the_H0853 trees_H6086?’ 
 
-@14 “Then all the trees said to the bramble, ‘Come and reign over us.’ 
+@14 “Then_H0859 all_H3605 the_H3605 trees_H6086 said_H0559 to_H0413 the_H3605 bramble_H0329, ‘Come and_H6086 reign_H4427 over_H5921 us_H0413.’ 
 
-@15 “The bramble said to the trees, ‘If in truth you anoint me king over you, then come and take refuge in my shade; and if not, let fire come out of the bramble, and devour the cedars of Lebanon.’ 
+@15 “The_H0853 bramble_H0329 said_H0559 to_H0413 the_H0853 trees_H6086, ‘If_H0518 in_H5921 truth_H0571 you_H0859 anoint_H4886 me_H0413 king_H4428 over_H5921 you_H0859, then_H3318 come_H0935 and_H0935 take_H2620 refuge_H2620 in_H5921 my_H5921 shade_H6738; and_H0935 if_H0518 not_H0369, let fire_H0784 come_H0935 out_H3318 of_H4428 the_H0853 bramble_H0329, and_H0935 devour_H0398 the_H0853 cedars_H0730 of_H4428 Lebanon_H3844.’ 
 
-@16 “Now therefore, if you have dealt truly and righteously, in that you have made Abimelech king, and if you have dealt well with Jerubbaal and his house, and have done to him according to the deserving of his hands 
-@17 (for my father fought for you, risked his life, and delivered you out of the hand of Midian; 
-@18 and you have risen up against my father’s house today and have slain his sons, seventy persons, on one stone, and have made Abimelech, the son of his female servant, king over the men of Shechem, because he is your brother); 
-@19 if you then have dealt truly and righteously with Jerubbaal and with his house today, then rejoice in Abimelech, and let him also rejoice in you; 
-@20 but if not, let fire come out from Abimelech and devour the men of Shechem and the house of Millo; and let fire come out from the men of Shechem and from the house of Millo and devour Abimelech.” 
+@16 “Now_H6258 therefore_H6258, if_H0518 you_H0518 have_H0518 dealt truly_H0571 and_H3027 righteously, in_H1004 that_H3027 you_H0518 have_H0518 made_H6213 Abimelech_H0040 king_H4427, and_H3027 if_H0518 you_H0518 have_H0518 dealt well_H2895 with_H5973 Jerubbaal_H3378 and_H3027 his_H0518 house_H1004, and_H3027 have_H0518 done_H6213 to_H3027 him_H0853 according_H3027 to_H3027 the_H0853 deserving of_H1004 his_H0518 hands_H3027 
+@17 (for_H5921 my_H5921 father_H0001 fought_H3898 for_H5921 you_H0834, risked his_H5921 life_H5315, and_H3027 delivered_H5337 you_H0834 out_H5921 of_H3027 the_H0853 hand_H3027 of_H3027 Midian_H4080; 
+@18 and_H1121 you_H0859 have_H0001 risen_H6965 up_H6965 against_H5921 my_H5921 father’s_H0001 house_H1004 today_H3117 and_H1121 have_H0001 slain_H2026 his_H5921 sons_H1121, seventy_H7657 persons_H0376, on_H5921 one_H0259 stone_H0068, and_H1121 have_H0001 made Abimelech_H0040, the_H0853 son_H1121 of_H1121 his_H5921 female_H0519 servant_H0519, king_H4427 over_H5921 the_H0853 men_H0376 of_H1121 Shechem_H7927, because_H3588 he_H1931 is_H1931 your_H5921 brother_H0251); 
+@19 if_H0518 you_H0518 then_H2088 have_H1571 dealt truly_H0571 and_H1004 righteously with_H5973 Jerubbaal_H3378 and_H1004 with_H5973 his_H0518 house_H1004 today_H3117, then_H2088 rejoice_H8055 in_H1004 Abimelech_H0040, and_H1004 let_H8055 him_H5973 also_H1571 rejoice_H8055 in_H1004 you_H0518; 
+@20 but_H0518 if_H0518 not_H0369, let fire_H0784 come_H3318 out_H3318 from_H3318 Abimelech_H0040 and_H1004 devour_H0398 the_H0853 men_H1167 of_H1004 Shechem_H7927 and_H1004 the_H0853 house_H1004 of_H1004 Millo_H4407; and_H1004 let fire_H0784 come_H3318 out_H3318 from_H3318 the_H0853 men_H1167 of_H1004 Shechem_H7927 and_H1004 from_H3318 the_H0853 house_H1004 of_H1004 Millo_H4407 and_H1004 devour_H0398 Abimelech_H0040.” 
 
-@21 Jotham ran away and fled, and went to Beer^a^ and lived there, for fear of Abimelech his brother. 
+@21 Jotham_H3147 ran_H5127 away_H1272 and_H0251 fled_H5127, and_H0251 went_H6440 to_H6440 Beer_H0876^a^ and_H0251 lived_H3427 there_H8033, for_H3427 fear of_H3427 Abimelech_H0040 his_H6440 brother_H0251. 
 ^a^[**9:21** “Beer” is Hebrew for “well”, i. e., a village named for its well.]
 
 ## Disastrous development of the situation in Shechem
-@22 Abimelech was prince over Israel three years. 
-@23 Then God sent an evil spirit between Abimelech and the men of Shechem; and the men of Shechem dealt treacherously with Abimelech, 
-@24 that the violence done to the seventy sons of Jerubbaal might come, and that their blood might be laid on Abimelech their brother who killed them, and on the men of Shechem who strengthened his hands to kill his brothers. 
-@25 The men of Shechem set an ambush for him on the tops of the mountains, and they robbed all who came along that way by them; and Abimelech was told about it. 
+@22 Abimelech_H0040 was_H3478 prince over_H5921 Israel_H3478 three_H7969 years_H8141. 
+@23 Then_H7971 God_H0430 sent_H7971 an_H7971 evil_H7451 spirit_H7307 between_H0996 Abimelech_H0040 and_H0430 the_H0996 men_H1167 of_H0430 Shechem_H7927; and_H0430 the_H0996 men_H1167 of_H0430 Shechem_H7927 dealt_H0898 treacherously_H0898 with_H0430 Abimelech_H0040, 
+@24 that_H0834 the_H0853 violence_H2555 done_H3027 to_H0935 the_H0853 seventy_H7657 sons_H1121 of_H1121 Jerubbaal_H3378 might_H1121 come_H0935, and_H1121 that_H0834 their_H5921 blood_H1818 might_H1121 be_H1121 laid_H7760 on_H5921 Abimelech_H0040 their_H5921 brother_H0251 who_H0834 killed_H2026 them_H0853, and_H1121 on_H5921 the_H0853 men_H1121 of_H1121 Shechem_H7927 who_H0834 strengthened_H2388 his_H5921 hands_H3027 to_H0935 kill_H2026 his_H5921 brothers_H0251. 
+@25 The_H3605 men_H1167 of_H2022 Shechem_H7927 set_H7760 an_H7760 ambush_H0693 for_H5921 him_H5921 on_H5921 the_H3605 tops_H7218 of_H2022 the_H3605 mountains_H2022, and_H7218 they_H0834 robbed_H1497 all_H3605 who_H0834 came along_H5921 that_H0834 way_H1870 by_H5921 them_H0853; and_H7218 Abimelech_H0040 was_H0834 told_H5046 about_H5921 it_H7760. 
 
-@26 Gaal the son of Ebed came with his brothers and went over to Shechem; and the men of Shechem put their trust in him. 
-@27 They went out into the field, harvested their vineyards, trod the grapes, celebrated, and went into the house of their god and ate and drank, and cursed Abimelech. 
-@28 Gaal the son of Ebed said, “Who is Abimelech, and who is Shechem, that we should serve him? Isn’t he the son of Jerubbaal? Isn’t Zebul his officer? Serve the men of Hamor the father of Shechem, but why should we serve him? 
-@29 I wish that this people were under my hand! Then I would remove Abimelech.” He said to Abimelech, “Increase your army and come out!” 
+@26 Gaal_H1603 the_H0935 son_H1121 of_H1121 Ebed_H5651 came_H0935 with_H0935 his_H0935 brothers_H0251 and_H1121 went_H0935 over_H5674 to_H0935 Shechem_H7927; and_H1121 the_H0935 men_H1121 of_H1121 Shechem_H7927 put_H0935 their_H0935 trust_H0982 in_H0935 him_H0935. 
+@27 They_H0935 went_H3318 out_H3318 into_H0935 the_H0853 field_H7704, harvested_H1219 their_H0398 vineyards_H3754, trod_H1869 the_H0853 grapes, celebrated_H6213, and_H0935 went_H3318 into_H0935 the_H0853 house_H1004 of_H1004 their_H0398 god_H0430 and_H0935 ate_H0398 and_H0935 drank_H8354, and_H0935 cursed_H7043 Abimelech_H0040. 
+@28 Gaal_H1603 the_H0853 son_H1121 of_H1121 Ebed_H5651 said_H0559, “Who_H4310 is_H4310 Abimelech_H0040, and_H1121 who_H4310 is_H4310 Shechem_H7927, that_H3588 we_H0587 should_H0376 serve_H5647 him_H0853? Isn’t_H3808 he_H3588 the_H0853 son_H1121 of_H1121 Jerubbaal_H3378? Isn’t_H3808 Zebul_H2083 his_H0376 officer_H6496? Serve_H5647 the_H0853 men_H0376 of_H1121 Hamor_H2544 the_H0853 father_H0001 of_H1121 Shechem_H7927, but_H3588 why_H4069 should_H0376 we_H0587 serve_H5647 him_H0853? 
+@29 I_H5414 wish_H4310 that_H2088 this_H2088 people_H5971 were_H3027 under_H3027 my_H5414 hand_H3027! Then_H3318 I_H5414 would_H4310 remove_H5493 Abimelech_H0040.” He_H5414 said_H0559 to_H0559 Abimelech_H0040, “Increase_H7235 your_H5414 army_H6635 and_H3027 come_H3318 out_H3318!” 
 
-@30 When Zebul the ruler of the city heard the words of Gaal the son of Ebed, his anger burned. 
-@31 He sent messengers to Abimelech craftily, saying, “Behold, Gaal the son of Ebed and his brothers have come to Shechem; and behold, they incite the city against you. 
-@32 Now therefore, go up by night, you and the people who are with you, and lie in wait in the field. 
-@33 It shall be that in the morning, as soon as the sun is up, you shall rise early and rush on the city. Behold, when he and the people who are with him come out against you, then may you do to them as you shall find occasion.” 
+@30 When_H8085 Zebul_H2083 the_H0853 ruler_H8269 of_H1121 the_H0853 city_H5892 heard_H8085 the_H0853 words_H1697 of_H1121 Gaal_H1603 the_H0853 son_H1121 of_H1121 Ebed_H5651, his_H8085 anger_H0639 burned_H2734. 
+@31 He_H0853 sent_H7971 messengers_H4397 to_H0413 Abimelech_H0040 craftily, saying_H0559, “Behold_H2009, Gaal_H1603 the_H0853 son_H1121 of_H1121 Ebed_H5651 and_H1121 his_H5921 brothers_H0251 have_H1121 come_H0935 to_H0413 Shechem_H7927; and_H1121 behold_H2009, they_H5921 incite the_H0853 city_H5892 against_H5921 you_H7971. 
+@32 Now_H6258 therefore_H6258, go_H6965 up_H6965 by_H3915 night_H3915, you_H0859 and_H6965 the_H0834 people_H5971 who_H0834 are_H0834 with_H0854 you_H0859, and_H6965 lie_H0693 in_H0693 wait_H0693 in_H0693 the_H0834 field_H7704. 
+@33 It_H1931 shall_H0834 be_H1961 that_H0834 in_H5921 the_H0834 morning_H1242, as_H0834 soon_H7925 as_H0834 the_H0834 sun_H8121 is_H0834 up_H7925, you_H0834 shall_H0834 rise_H7925 early_H7925 and_H3027 rush_H6584 on_H5921 the_H0834 city_H5892. Behold_H2009, when_H1961 he_H0834 and_H3027 the_H0834 people_H5971 who_H0834 are_H0834 with_H0854 him_H0413 come_H1961 out_H3318 against_H5921 you_H0834, then_H1961 may_H1961 you_H0834 do_H6213 to_H0413 them_H0413 as_H0834 you_H0834 shall_H0834 find_H4672 occasion_H3027.” 
 
-@34 Abimelech rose up, and all the people who were with him, by night, and they laid wait against Shechem in four companies. 
-@35 Gaal the son of Ebed went out, and stood in the entrance of the gate of the city. Abimelech rose up, and the people who were with him, from the ambush. 
+@34 Abimelech_H0040 rose_H6965 up_H6965, and_H6965 all_H3605 the_H3605 people_H5971 who_H0834 were_H0834 with_H5973 him_H5921, by_H5921 night_H3915, and_H6965 they_H0834 laid wait_H0693 against_H5921 Shechem_H7927 in_H5921 four_H0702 companies_H7218. 
+@35 Gaal_H1603 the_H0834 son_H1121 of_H1121 Ebed_H5651 went_H3318 out_H3318, and_H1121 stood_H5975 in_H1121 the_H0834 entrance_H6607 of_H1121 the_H0834 gate_H8179 of_H1121 the_H0834 city_H5892. Abimelech_H0040 rose_H6965 up_H6965, and_H1121 the_H0834 people_H5971 who_H0834 were_H0834 with_H0854 him_H0854, from_H4480 the_H0834 ambush_H3993. 
 
-@36 When Gaal saw the people, he said to Zebul, “Behold, people are coming down from the tops of the mountains.” 
+@36 When_H7200 Gaal_H1603 saw_H7200 the_H0853 people_H5971, he_H0853 said_H0559 to_H0413 Zebul_H2083, “Behold_H2009, people_H5971 are_H0376 coming_H3381 down_H3381 from_H3381 the_H0853 tops_H7218 of_H0376 the_H0853 mountains_H2022.” 
 
-Zebul said to him, “You see the shadows of the mountains as if they were men.” 
+Zebul_H2083 said_H0559 to_H0413 him_H0413, “You_H0859 see_H7200 the_H0853 shadows_H6738 of_H0376 the_H0853 mountains_H2022 as_H0376 if_H2009 they_H0376 were_H0376 men_H0376.” 
 
-@37 Gaal spoke again and said, “Behold, people are coming down by the middle of the land, and one company comes by the way of the oak of Meonenim.” 
+@37 Gaal_H1603 spoke_H1696 again_H5750 and_H0935 said_H0559, “Behold_H2009, people_H5971 are_H0776 coming_H0935 down_H3381 by_H1870 the_H0559 middle of_H0776 the_H0559 land_H0776, and_H0935 one_H0259 company_H7218 comes_H0935 by_H1870 the_H0559 way_H1870 of_H0776 the_H0559 oak_H0436 of_H0776 Meonenim.” 
 
-@38 Then Zebul said to him, “Now where is your mouth, that you said, ‘Who is Abimelech, that we should serve him?’ Isn’t this the people that you have despised? Please go out now and fight with them.” 
+@38 Then_H0645 Zebul_H2083 said_H0559 to_H0413 him_H0413, “Now_H6258 where_H0834 is_H0834 your_H0834 mouth_H6310, that_H0834 you_H0834 said_H0559, ‘Who_H0834 is_H0834 Abimelech_H0040, that_H0834 we_H3588 should_H3588 serve_H5647 him_H0413?’ Isn’t_H3808 this_H2088 the_H0559 people_H5971 that_H0834 you_H0834 have_H0834 despised? Please_H4994 go_H3318 out_H3318 now_H6258 and_H6310 fight_H3898 with_H0413 them_H0413.” 
 
-@39 Gaal went out before the men of Shechem, and fought with Abimelech. 
-@40 Abimelech chased him, and he fled before him, and many fell wounded, even to the entrance of the gate. 
-@41 Abimelech lived at Arumah; and Zebul drove out Gaal and his brothers, that they should not dwell in Shechem.
+@39 Gaal_H1603 went_H3318 out_H3318 before_H6440 the_H6440 men_H1167 of_H6440 Shechem_H7927, and_H6440 fought_H3898 with_H3318 Abimelech_H0040. 
+@40 Abimelech_H0040 chased_H7291 him_H6440, and_H6440 he_H5704 fled_H5127 before_H6440 him_H6440, and_H6440 many_H7227 fell_H5307 wounded_H2491, even_H5704 to_H5704 the_H6440 entrance_H6607 of_H8179 the_H6440 gate_H8179. 
+@41 Abimelech_H0040 lived_H3427 at_H3427 Arumah_H0725; and_H0251 Zebul_H2083 drove_H1644 out_H1644 Gaal_H1603 and_H0251 his_H3427 brothers_H0251, that_H0040 they should not dwell_H3427 in_H3427 Shechem_H7927.
 
 ## The bloody victory of Abimelech, destruction of the city of Shechem; Abimelech's indignation against the inhabitants of the castle and his inglorious end in Tebez
-@42 On the next day, the people went out into the field; and they told Abimelech. 
-@43 He took the people and divided them into three companies, and laid wait in the field; and he looked, and behold, the people came out of the city. So, he rose up against them and struck them. 
-@44 Abimelech and the companies that were with him rushed forward and stood in the entrance of the gate of the city; and the two companies rushed on all who were in the field and struck them. 
-@45 Abimelech fought against the city all that day; and he took the city and killed the people in it. He beat down the city and sowed it with salt. 
+@42 On_H1961 the_H1961 next_H4283 day_H4283, the_H1961 people_H5971 went_H3318 out_H3318 into_H1961 the_H1961 field_H7704; and_H7704 they_H5971 told_H5046 Abimelech_H0040. 
+@43 He_H4480 took_H3947 the_H0853 people_H5971 and_H6965 divided_H2673 them_H0853 into_H5921 three_H7969 companies_H7218, and_H6965 laid_H3318 wait_H0693 in_H5921 the_H0853 field_H7704; and_H6965 he_H4480 looked_H7200, and_H6965 behold_H2009, the_H0853 people_H5971 came_H3318 out_H3318 of_H7218 the_H0853 city_H5892. So_H4480, he_H4480 rose_H6965 up_H6965 against_H5921 them_H0853 and_H6965 struck_H5221 them_H0853. 
+@44 Abimelech_H0040 and_H7218 the_H3605 companies_H7218 that_H0834 were_H0834 with_H5973 him_H5921 rushed_H6584 forward and_H7218 stood_H5975 in_H5921 the_H3605 entrance_H6607 of_H7218 the_H3605 gate_H8179 of_H7218 the_H3605 city_H5892; and_H7218 the_H3605 two_H8147 companies_H7218 rushed_H6584 on_H5921 all_H3605 who_H0834 were_H0834 in_H5921 the_H3605 field_H7704 and_H7218 struck_H5221 them_H5921. 
+@45 Abimelech_H0040 fought_H3898 against_H3898 the_H3605 city_H5892 all_H3605 that_H0834 day_H3117; and_H3117 he_H0834 took_H3920 the_H3605 city_H5892 and_H3117 killed_H2026 the_H3605 people_H5971 in_H3117 it_H1931. He_H0834 beat down_H5422 the_H3605 city_H5892 and_H3117 sowed_H2232 it_H1931 with_H3117 salt_H4417. 
 
-@46 When all the men of the tower of Shechem heard of it, they entered into the stronghold of the house of Elberith. 
-@47 Abimelech was told that all the men of the tower of Shechem were gathered together. 
-@48 Abimelech went up to Mount Zalmon, he and all the people who were with him; and Abimelech took an ax in his hand, and cut down a bough from the trees, and took it up, and laid it on his shoulder. Then he said to the people who were with him, “What you have seen me do, make haste, and do as I have done!” 
-@49 All the people likewise each cut down his bough, followed Abimelech, and put them at the base of the stronghold, and set the stronghold on fire over them, so that all the people of the tower of Shechem died also, about a thousand men and women. 
-@50 Then Abimelech went to Thebez and encamped against Thebez, and took it. 
-@51 But there was a strong tower within the city, and all the men and women of the city fled there, and shut themselves in, and went up to the roof of the tower. 
-@52 Abimelech came to the tower and fought against it, and came near to the door of the tower to burn it with fire. 
-@53 A certain woman cast an upper millstone on Abimelech’s head, and broke his skull. 
+@46 When_H8085 all_H3605 the_H3605 men_H1167 of_H1004 the_H3605 tower_H4026 of_H1004 Shechem_H7927 heard_H8085 of_H1004 it_H3605, they_H0935 entered_H0935 into_H0413 the_H3605 stronghold of_H1004 the_H3605 house_H1004 of_H1004 Elberith. 
+@47 Abimelech_H0040 was_H3605 told_H5046 that_H3588 all_H3605 the_H3605 men_H1167 of_H3605 the_H3605 tower_H4026 of_H3605 Shechem_H7927 were_H7927 gathered_H6908 together_H6908. 
+@48 Abimelech_H0040 went_H5927 up_H5927 to_H0413 Mount_H2022 Zalmon_H6756, he_H0834 and_H3027 all_H3605 the_H3605 people_H5971 who_H0834 were_H0834 with_H5973 him_H0413; and_H3027 Abimelech_H0040 took_H3947 an_H7760 ax in_H5921 his_H3605 hand_H3027, and_H3027 cut_H3772 down_H3772 a_H3947 bough from_H5921 the_H3605 trees_H6086, and_H3027 took_H3947 it_H7760 up_H5927, and_H3027 laid_H7760 it_H7760 on_H5921 his_H3605 shoulder_H7926. Then_H3947 he_H0834 said_H0559 to_H0413 the_H3605 people_H5971 who_H0834 were_H0834 with_H5973 him_H0413, “What_H4100 you_H0834 have_H0834 seen_H7200 me_H0413 do_H6213, make_H7760 haste_H4116, and_H3027 do_H6213 as_H0834 I_H0834 have_H0834 done_H6213!” 
+@49 All_H3605 the_H3605 people_H5971 likewise_H1571 each_H0376 cut_H3772 down_H3772 his_H3605 bough, followed_H0310 Abimelech_H0040, and_H0376 put_H4191 them_H0853 at_H5921 the_H3605 base of_H0376 the_H3605 stronghold, and_H0376 set_H7760 the_H3605 stronghold on_H5921 fire_H0784 over_H5921 them_H0853, so_H1571 that_H3605 all_H3605 the_H3605 people_H5971 of_H0376 the_H3605 tower_H4026 of_H0376 Shechem_H7927 died_H4191 also_H1571, about_H5921 a_H3772 thousand_H0505 men_H0376 and_H0376 women_H0802. 
+@50 Then_H0040 Abimelech_H0040 went_H0413 to_H0413 Thebez_H8405 and_H0040 encamped_H2583 against_H0413 Thebez_H8405, and_H0040 took_H3920 it_H3920. 
+@51 But_H1961 there_H8033 was_H1961 a_H1961 strong_H5797 tower_H4026 within_H8432 the_H3605 city_H5892, and_H0376 all_H3605 the_H3605 men_H0376 and_H0376 women_H0802 of_H0376 the_H3605 city_H5892 fled_H5127 there_H8033, and_H0376 shut_H5462 themselves_H5921 in_H5921, and_H0376 went_H5927 up_H5927 to_H1961 the_H3605 roof_H1406 of_H0376 the_H3605 tower_H4026. 
+@52 Abimelech_H0040 came_H0935 to_H0935 the_H0935 tower_H4026 and_H0935 fought_H3898 against_H3898 it_H5704, and_H0935 came_H0935 near_H5066 to_H0935 the_H0935 door_H6607 of_H4026 the_H0935 tower_H4026 to_H0935 burn_H8313 it_H5704 with_H8313 fire_H0784. 
+@53 A_H5921 certain_H0259 woman_H0802 cast_H7993 an_H7993 upper_H7393 millstone_H7393 on_H5921 Abimelech’s_H0040 head_H7218, and_H7218 broke_H7533 his_H5921 skull_H1538. 
 
-@54 Then he called hastily to the young man, his armor bearer, and said to him, “Draw your sword and kill me, that men not say of me, ‘A woman killed him.’ His young man thrust him through, and he died.” 
+@54 Then_H5375 he_H0802 called_H7121 hastily to_H0413 the_H0559 young_H5288 man_H5288, his_H5375 armor_H3627 bearer_H5375, and_H0802 said_H0559 to_H0413 him_H0413, “Draw_H8025 your_H5375 sword_H2719 and_H0802 kill_H2026 me_H0413, that_H7121 men_H5288 not_H6435 say_H0559 of_H3627 me_H0413, ‘A_H5375 woman_H0802 killed_H2026 him_H0413.’ His_H5375 young_H5288 man_H5288 thrust_H1856 him_H0413 through_H1856, and_H0802 he_H0802 died_H4191.” 
 
-@55 When the men of Israel saw that Abimelech was dead, they each departed to his place. 
-@56 Thus God repaid the wickedness of Abimelech, which he did to his father in killing his seventy brothers; 
-@57 and God repaid all the wickedness of the men of Shechem on their heads; and the curse of Jotham the son of Jerubbaal came on them. 
+@55 When_H3588 the_H3588 men_H0376 of_H0376 Israel_H3478 saw_H7200 that_H3588 Abimelech_H0040 was_H3478 dead_H4191, they_H3588 each_H0376 departed to_H4191 his_H0376 place_H4725. 
+@56 Thus God_H0430 repaid_H7725 the_H0853 wickedness_H7451 of_H0430 Abimelech_H0040, which_H0834 he_H0834 did_H6213 to_H7725 his_H7725 father_H0001 in_H0430 killing_H2026 his_H7725 seventy_H7657 brothers_H0251; 
+@57 and_H1121 God_H0430 repaid_H7725 all_H3605 the_H3605 wickedness_H7451 of_H1121 the_H3605 men_H0376 of_H1121 Shechem_H7927 on_H0413 their_H3605 heads_H7218; and_H1121 the_H3605 curse_H7045 of_H1121 Jotham_H3147 the_H3605 son_H1121 of_H1121 Jerubbaal_H3378 came_H0935 on_H0413 them_H0413. 
 
 # 10 
 ## Judges Thola and Jair
-@1 After Abimelech, Tola the son of Puah, the son of Dodo, a man of Issachar, arose to save Israel. He lived in Shamir in the hill country of Ephraim. 
-@2 He judged Israel twenty-three years, and died, and was buried in Shamir. 
+@1 After_H0310 Abimelech_H0040, Tola_H8439 the_H0853 son_H1121 of_H1121 Puah_H6312, the_H0853 son_H1121 of_H1121 Dodo_H1734, a_H3478 man_H0376 of_H1121 Issachar_H3485, arose_H6965 to_H3478 save_H3467 Israel_H3478. He_H1931 lived_H3427 in_H3427 Shamir in_H3427 the_H0853 hill_H2022 country_H2022 of_H1121 Ephraim_H0669. 
+@2 He_H0853 judged_H8199 Israel_H3478 twenty-three years_H8141, and_H3478 died_H4191, and_H3478 was_H3478 buried_H6912 in_H8141 Shamir. 
 
-@3 After him Jair, the Gileadite, arose. He judged Israel twenty-two years. 
-@4 He had thirty sons who rode on thirty donkey colts. They had thirty cities, which are called Havvoth Jair to this day, which are in the land of Gilead. 
-@5 Jair died, and was buried in Kamon.
+@3 After_H0310 him_H0853 Jair_H2971, the_H0853 Gileadite_H1569, arose_H6965. He_H0310 judged_H8199 Israel_H3478 twenty-two_H8147 years_H8141. 
+@4 He_H0834 had_H0834 thirty_H7970 sons_H1121 who_H0834 rode_H7392 on_H5921 thirty_H7970 donkey colts_H1121. They_H1992 had_H0834 thirty_H7970 cities_H5895, which_H0834 are_H0834 called_H7121 Havvoth Jair to_H5704 this_H2088 day_H3117, which_H0834 are_H0834 in_H5921 the_H0834 land_H0776 of_H1121 Gilead_H1568. 
+@5 Jair_H2971 died_H4191, and_H4191 was buried_H6912 in_H4191 Kamon_H7056.
 
 ## The new apostasy of the people causes new tribulations among the Ammonites; sincere repentance produces divine grace
-@6 The children of Israel again did that which was evil in Yahweh’s sight, and served the Baals, the Ashtaroth, the gods of Syria, the gods of Sidon, the gods of Moab, the gods of the children of Ammon, and the gods of the Philistines. They abandoned Yahweh, and didn’t serve him. 
-@7 Yahweh’s anger burned against Israel, and he sold them into the hand of the Philistines and into the hand of the children of Ammon. 
-@8 They troubled and oppressed the children of Israel that year. For eighteen years they oppressed all the children of Israel that were beyond the Jordan in the land of the Amorites, which is in Gilead. 
-@9 The children of Ammon passed over the Jordan to fight also against Judah, and against Benjamin, and against the house of Ephraim, so that Israel was very distressed. 
-@10 The children of Israel cried to Yahweh, saying, “We have sinned against you, even because we have forsaken our God, and have served the Baals.” 
+@6 The_H0853 children_H1121 of_H1121 Israel_H3478 again_H3254 did_H6213 that_H3068 which_H5869 was_H3068 evil_H7451 in_H0430 Yahweh’s_H3068 sight_H5869, and_H1121 served_H5647 the_H0853 Baals_H1168, the_H0853 Ashtaroth_H6252, the_H0853 gods_H0430 of_H1121 Syria_H0758, the_H0853 gods_H0430 of_H1121 Sidon_H6721, the_H0853 gods_H0430 of_H1121 Moab_H4124, the_H0853 gods_H0430 of_H1121 the_H0853 children_H1121 of_H1121 Ammon_H5983, and_H1121 the_H0853 gods_H0430 of_H1121 the_H0853 Philistines_H6430. They_H3808 abandoned_H5800 Yahweh_H3068, and_H1121 didn’t_H3808 serve_H5647 him_H0853. 
+@7 Yahweh’s_H3068 anger_H0639 burned_H2734 against_H2734 Israel_H3478, and_H1121 he_H3068 sold_H4376 them_H3027 into_H3027 the_H3068 hand_H3027 of_H1121 the_H3068 Philistines_H6430 and_H1121 into_H3027 the_H3068 hand_H3027 of_H1121 the_H3068 children_H1121 of_H1121 Ammon_H5983. 
+@8 They_H0834 troubled and_H1121 oppressed_H7533 the_H3605 children_H1121 of_H1121 Israel_H3478 that_H0834 year_H8141. For_H0776 eighteen_H6240 years_H8141 they_H0834 oppressed_H7533 all_H3605 the_H3605 children_H1121 of_H1121 Israel_H3478 that_H0834 were_H0834 beyond_H5676 the_H3605 Jordan_H3383 in_H8141 the_H3605 land_H0776 of_H1121 the_H3605 Amorites_H0567, which_H0834 is_H0834 in_H8141 Gilead_H1568. 
+@9 The_H0853 children_H1121 of_H1121 Ammon_H5983 passed_H5674 over_H5674 the_H0853 Jordan_H3383 to_H3478 fight_H3898 also_H1571 against_H3898 Judah_H3063, and_H1121 against_H3898 Benjamin_H1144, and_H1121 against_H3898 the_H0853 house_H1004 of_H1121 Ephraim_H0669, so_H1571 that_H3478 Israel_H3478 was_H3478 very_H3966 distressed. 
+@10 The_H0853 children_H1121 of_H1121 Israel_H3478 cried_H2199 to_H0413 Yahweh_H3068, saying_H0559, “We_H3588 have_H1121 sinned_H2398 against_H0413 you_H3588, even_H3588 because_H3588 we_H3588 have_H1121 forsaken our_H3068 God_H0430, and_H1121 have_H1121 served_H5647 the_H0853 Baals_H1168.” 
 
-@11 Yahweh said to the children of Israel, “Didn’t I save you from the Egyptians, and from the Amorites, from the children of Ammon, and from the Philistines? 
-@12 The Sidonians also, and the Amalekites, and the Maonites, oppressed you; and you cried to me, and I saved you out of their hand. 
-@13 Yet you have forsaken me and served other gods. Therefore I will save you no more. 
-@14 Go and cry to the gods which you have chosen. Let them save you in the time of your distress!” 
+@11 Yahweh_H3068 said_H0559 to_H0413 the_H0559 children_H1121 of_H1121 Israel_H3478, “Didn’t_H3808 I_H4714 save you_H3808 from_H4480 the_H0559 Egyptians_H4714, and_H1121 from_H4480 the_H0559 Amorites_H0567, from_H4480 the_H0559 children_H1121 of_H1121 Ammon_H5983, and_H1121 from_H4480 the_H0559 Philistines_H6430? 
+@12 The_H0853 Sidonians_H6722 also_H0853, and_H3027 the_H0853 Amalekites_H6002, and_H3027 the_H0853 Maonites_H4584, oppressed_H3905 you_H0853; and_H3027 you_H0853 cried_H6817 to_H0413 me_H0413, and_H3027 I_H3027 saved_H3467 you_H0853 out_H0413 of_H3027 their_H0413 hand_H3027. 
+@13 Yet_H3254 you_H0859 have_H0859 forsaken me_H3254 and_H0430 served_H5647 other_H0312 gods_H0430. Therefore_H3651 I_H3651 will_H0430 save_H3467 you_H0859 no_H3808 more_H3254. 
+@14 Go and_H0430 cry_H2199 to_H0413 the_H0834 gods_H0430 which_H0834 you_H0834 have_H0834 chosen_H0977. Let_H6256 them_H0413 save_H3467 you_H0834 in_H0413 the_H0834 time_H6256 of_H0430 your_H0834 distress_H6869!” 
 
-@15 The children of Israel said to Yahweh, “We have sinned! Do to us whatever seems good to you; only deliver us, please, today.” 
-@16 They put away the foreign gods from among them and served Yahweh; and his soul was grieved for the misery of Israel.
+@15 The_H3605 children_H1121 of_H1121 Israel_H3478 said_H0559 to_H0413 Yahweh_H3068, “We_H3117 have_H5869 sinned_H2398! Do_H6213 to_H0413 us_H4994 whatever_H3605 seems_H3605 good_H2896 to_H0413 you_H0859; only_H0389 deliver_H5337 us_H4994, please_H4994, today_H3117.” 
+@16 They_H3068 put_H5493 away_H5493 the_H0853 foreign_H5236 gods_H0430 from_H5493 among_H7130 them_H0853 and_H3068 served_H5647 Yahweh_H3068; and_H3068 his_H3068 soul_H5315 was_H3068 grieved for_H0430 the_H0853 misery_H5999 of_H0430 Israel_H3478.
 
 ## Jephthah's call to judge
-@17 Then the children of Ammon were gathered together and encamped in Gilead. The children of Israel assembled themselves together and encamped in Mizpah. 
-@18 The people, the princes of Gilead, said to one another, “Who is the man who will begin to fight against the children of Ammon? He shall be head over all the inhabitants of Gilead.” 
+@17 Then_H6817 the_H0622 children_H1121 of_H1121 Ammon_H5983 were_H3478 gathered_H0622 together_H0622 and_H1121 encamped_H2583 in_H2583 Gilead_H1568. The_H0622 children_H1121 of_H1121 Israel_H3478 assembled_H0622 themselves_H0622 together_H0622 and_H1121 encamped_H2583 in_H2583 Mizpah_H4709. 
+@18 The_H3605 people_H5971, the_H3605 princes_H8269 of_H1121 Gilead_H1568, said_H0559 to_H0413 one_H0376 another_H7453, “Who_H0834 is_H0834 the_H3605 man_H0376 who_H0834 will_H4310 begin_H2490 to_H0413 fight_H3898 against_H0413 the_H3605 children_H1121 of_H1121 Ammon_H5983? He_H0834 shall_H1121 be_H1961 head_H7218 over_H0413 all_H3605 the_H3605 inhabitants_H3427 of_H1121 Gilead_H1568.” 
 
 # 11 
-@1 Now Jephthah the Gileadite was a mighty man of valor. He was the son of a prostitute. Gilead became the father of Jephthah. 
-@2 Gilead’s wife bore him sons. When his wife’s sons grew up, they drove Jephthah out and said to him, “You will not inherit in our father’s house, for you are the son of another woman.” 
-@3 Then Jephthah fled from his brothers and lived in the land of Tob. Outlaws joined up with Jephthah, and they went out with him. 
+@1 Now_H1961 Jephthah_H3316 the_H0853 Gileadite_H1569 was_H1961 a_H1961 mighty_H1368 man_H1368 of_H1121 valor_H2428. He_H1931 was_H1961 the_H0853 son_H1121 of_H1121 a_H1961 prostitute_H2181. Gilead_H1568 became_H3205 the_H0853 father_H3205 of_H1121 Jephthah_H3316. 
+@2 Gilead’s_H1568 wife_H0802 bore_H3205 him_H3205 sons_H1121. When_H3588 his_H3588 wife’s_H0802 sons_H1121 grew_H1431 up_H1431, they_H3588 drove_H1644 Jephthah_H3316 out_H1644 and_H1121 said_H0559 to_H0559 him_H3205, “You_H0859 will_H1004 not_H3808 inherit_H5157 in_H1004 our_H3588 father’s_H0001 house_H1004, for_H3588 you_H0859 are_H1121 the_H0853 son_H1121 of_H1121 another_H0312 woman_H0802.” 
+@3 Then_H3318 Jephthah_H3316 fled_H1272 from_H3318 his_H0376 brothers_H0251 and_H0776 lived_H3427 in_H3427 the_H6440 land_H0776 of_H0776 Tob_H2897. Outlaws joined_H3950 up_H3950 with_H5973 Jephthah_H3316, and_H0776 they_H0376 went_H3318 out_H3318 with_H5973 him_H0413. 
 
-@4 After a while, the children of Ammon made war against Israel. 
-@5 When the children of Ammon made war against Israel, the elders of Gilead went to get Jephthah out of the land of Tob. 
-@6 They said to Jephthah, “Come and be our chief, that we may fight with the children of Ammon.” 
+@4 After_H1961 a_H1961 while_H1961, the_H3117 children_H1121 of_H1121 Ammon_H5983 made_H1961 war against_H5973 Israel_H3478. 
+@5 When_H1961 the_H0853 children_H1121 of_H1121 Ammon_H5983 made_H1961 war against_H5973 Israel_H3478, the_H0853 elders_H2205 of_H1121 Gilead_H1568 went_H1961 to_H1961 get_H3947 Jephthah_H3316 out_H0853 of_H1121 the_H0853 land_H0776 of_H1121 Tob_H2897. 
+@6 They_H0559 said_H0559 to_H0559 Jephthah_H3316, “Come_H1961 and_H1121 be_H1961 our_H1961 chief_H7101, that_H0559 we may_H1961 fight_H3898 with_H1961 the_H0559 children_H1121 of_H1121 Ammon_H5983.” 
 
-@7 Jephthah said to the elders of Gilead, “Didn’t you hate me, and drive me out of my father’s house? Why have you come to me now when you are in distress?” 
+@7 Jephthah_H3316 said_H0559 to_H0413 the_H0853 elders_H2205 of_H1004 Gilead_H1568, “Didn’t_H3808 you_H0859 hate_H8130 me_H0413, and_H0935 drive_H1644 me_H0413 out_H1644 of_H1004 my_H0834 father’s_H0001 house_H1004? Why_H4069 have_H0834 you_H0859 come_H0935 to_H0413 me_H0413 now_H6258 when_H0834 you_H0859 are_H0834 in_H0935 distress_H6862?” 
 
-@8 The elders of Gilead said to Jephthah, “Therefore we have turned again to you now, that you may go with us and fight with the children of Ammon. You will be our head over all the inhabitants of Gilead.” 
+@8 The_H3605 elders_H2205 of_H1121 Gilead_H1568 said_H0559 to_H0413 Jephthah_H3316, “Therefore_H3651 we_H6258 have_H1961 turned_H7725 again_H7725 to_H0413 you_H3605 now_H6258, that_H3605 you_H3605 may_H1961 go_H1980 with_H5973 us_H0413 and_H1980 fight_H3898 with_H5973 the_H3605 children_H1121 of_H1121 Ammon_H5983. You_H3605 will_H1961 be_H1961 our_H3605 head_H7218 over_H0413 all_H3605 the_H3605 inhabitants_H3427 of_H1121 Gilead_H1568.” 
 
-@9 Jephthah said to the elders of Gilead, “If you bring me home again to fight with the children of Ammon, and Yahweh delivers them before me, will I be your head?” 
+@9 Jephthah_H3316 said_H0559 to_H0413 the_H0853 elders_H2205 of_H1121 Gilead_H1568, “If_H0518 you_H0859 bring_H7725 me_H0413 home_H7725 again_H7725 to_H0413 fight_H3898 with_H0413 the_H0853 children_H1121 of_H1121 Ammon_H5983, and_H1121 Yahweh_H3068 delivers_H5414 them_H0413 before_H6440 me_H0413, will_H3068 I_H0595 be_H1961 your_H3068 head_H7218?” 
 
-@10 The elders of Gilead said to Jephthah, “Yahweh will be witness between us. Surely we will do what you say.” 
+@10 The_H0559 elders_H2205 of_H3068 Gilead_H1568 said_H0559 to_H0413 Jephthah_H3316, “Yahweh_H3068 will_H3068 be_H1961 witness_H8085 between_H0996 us_H0413. Surely_H0518 we_H0518 will_H3068 do_H6213 what_H1697 you_H0518 say_H0559.” 
 
-@11 Then Jephthah went with the elders of Gilead, and the people made him head and chief over them. Jephthah spoke all his words before Yahweh in Mizpah.
+@11 Then_H1696 Jephthah_H3316 went_H6440 with_H5973 the_H3605 elders_H2205 of_H3068 Gilead_H1568, and_H3068 the_H3605 people_H5971 made_H7760 him_H5921 head_H7218 and_H3068 chief_H7218 over_H5921 them_H0853. Jephthah_H3316 spoke_H1696 all_H3605 his_H3605 words_H1697 before_H6440 Yahweh_H3068 in_H5921 Mizpah_H4709.
 
 ## Jephthah's failed negotiations with the Ammonites
-@12 Jephthah sent messengers to the king of the children of Ammon, saying, “What do you have to do with me, that you have come to me to fight against my land?” 
+@12 Jephthah_H3316 sent_H7971 messengers_H4397 to_H0413 the_H0559 king_H4428 of_H1121 the_H0559 children_H1121 of_H1121 Ammon_H5983, saying_H0559, “What_H4100 do_H4100 you_H3588 have_H1121 to_H0413 do_H4100 with_H0413 me_H0413, that_H3588 you_H3588 have_H1121 come_H0935 to_H0413 me_H0413 to_H0413 fight_H3898 against_H0413 my_H7971 land_H0776?” 
 
-@13 The king of the children of Ammon answered the messengers of Jephthah, “Because Israel took away my land when he came up out of Egypt, from the Arnon even to the Jabbok, and to the Jordan. Now therefore restore that territory again peaceably.” 
+@13 The_H0853 king_H4428 of_H1121 the_H0853 children_H1121 of_H1121 Ammon_H5983 answered_H0559 the_H0853 messengers_H4397 of_H1121 Jephthah_H3316, “Because_H3588 Israel_H3478 took_H3947 away_H7725 my_H3947 land_H0776 when_H3588 he_H3588 came_H5927 up_H5927 out_H0413 of_H1121 Egypt_H4714, from_H7725 the_H0853 Arnon_H0769 even_H5704 to_H0413 the_H0853 Jabbok_H2999, and_H1121 to_H0413 the_H0853 Jordan_H3383. Now_H6258 therefore_H6258 restore_H7725 that_H3588 territory_H0776 again_H7725 peaceably_H7965.” 
 
-@14 Jephthah sent messengers again to the king of the children of Ammon; 
-@15 and he said to him, “Jephthah says: Israel didn’t take away the land of Moab, nor the land of the children of Ammon; 
-@16 but when they came up from Egypt, and Israel went through the wilderness to the Red Sea, and came to Kadesh, 
-@17 then Israel sent messengers to the king of Edom, saying, ‘Please let me pass through your land;’ but the king of Edom didn’t listen. In the same way, he sent to the king of Moab, but he refused; so Israel stayed in Kadesh. 
-@18 Then they went through the wilderness, and went around the land of Edom, and the land of Moab, and came by the east side of the land of Moab, and they encamped on the other side of the Arnon; but they didn’t come within the border of Moab, for the Arnon was the border of Moab. 
-@19 Israel sent messengers to Sihon king of the Amorites, the king of Heshbon; and Israel said to him, ‘Please let us pass through your land to my place.’ 
-@20 But Sihon didn’t trust Israel to pass through his border; but Sihon gathered all his people together, and encamped in Jahaz, and fought against Israel. 
-@21 Yahweh, the God of Israel, delivered Sihon and all his people into the hand of Israel, and they struck them. So Israel possessed all the land of the Amorites, the inhabitants of that country. 
-@22 They possessed all the border of the Amorites, from the Arnon even to the Jabbok, and from the wilderness even to the Jordan. 
-@23 So now Yahweh, the God of Israel, has dispossessed the Amorites from before his people Israel, and should you possess them? 
-@24 Won’t you possess that which Chemosh your god gives you to possess? So whoever Yahweh our God has dispossessed from before us, them will we possess. 
-@25 Now are you anything better than Balak the son of Zippor, king of Moab? Did he ever strive against Israel, or did he ever fight against them? 
-@26 Israel lived in Heshbon and its towns, and in Aroer and its towns, and in all the cities that are along the side of the Arnon for three hundred years! Why didn’t you recover them within that time? 
-@27 Therefore I have not sinned against you, but you do me wrong to war against me. May Yahweh the Judge be judge today between the children of Israel and the children of Ammon.” 
+@14 Jephthah_H3316 sent_H7971 messengers_H4397 again_H5750 to_H0413 the_H0413 king_H4428 of_H1121 the_H0413 children_H1121 of_H1121 Ammon_H5983; 
+@15 and_H1121 he_H3808 said_H0559 to_H0559 him_H0853, “Jephthah_H3316 says_H0559: Israel_H3478 didn’t_H3808 take_H3947 away_H3947 the_H0853 land_H0776 of_H1121 Moab_H4124, nor_H3808 the_H0853 land_H0776 of_H1121 the_H0853 children_H1121 of_H1121 Ammon_H5983; 
+@16 but_H3588 when_H3588 they_H3588 came_H0935 up_H5927 from_H0935 Egypt_H4714, and_H0935 Israel_H3478 went_H0935 through_H0935 the_H3588 wilderness_H4057 to_H0935 the_H3588 Red Sea_H3220, and_H0935 came_H0935 to_H0935 Kadesh_H6946, 
+@17 then_H7971 Israel_H3478 sent_H7971 messengers_H4397 to_H0413 the_H0559 king_H4428 of_H4428 Edom_H0123, saying_H0559, ‘Please_H4994 let_H7971 me_H0413 pass_H5674 through_H5674 your_H8085 land_H0776;’ but_H3808 the_H0559 king_H4428 of_H4428 Edom_H0123 didn’t_H3808 listen_H8085. In_H3427 the_H0559 same way_H7971, he_H3808 sent_H7971 to_H0413 the_H0559 king_H4428 of_H4428 Moab_H4124, but_H3808 he_H3808 refused_H0014; so_H7971 Israel_H3478 stayed_H3427 in_H3427 Kadesh_H6946. 
+@18 Then_H0853 they_H3588 went_H0935 through_H0935 the_H0853 wilderness_H4057, and_H0935 went_H0935 around_H5437 the_H0853 land_H0776 of_H0776 Edom_H0123, and_H0935 the_H0853 land_H0776 of_H0776 Moab_H4124, and_H0935 came_H0935 by_H0935 the_H0853 east_H4217 side_H5676 of_H0776 the_H0853 land_H0776 of_H0776 Moab_H4124, and_H0935 they_H3588 encamped_H2583 on_H0776 the_H0853 other_H5676 side_H5676 of_H0776 the_H0853 Arnon_H0769; but_H3588 they_H3588 didn’t_H3808 come_H0935 within_H0935 the_H0853 border_H1366 of_H0776 Moab_H4124, for_H3588 the_H0853 Arnon_H0769 was_H0776 the_H0853 border_H1366 of_H0776 Moab_H4124. 
+@19 Israel_H3478 sent_H7971 messengers_H4397 to_H0413 Sihon_H5511 king_H4428 of_H4428 the_H0559 Amorites_H0567, the_H0559 king_H4428 of_H4428 Heshbon_H2809; and_H3478 Israel_H3478 said_H0559 to_H0413 him_H0413, ‘Please_H4994 let_H7971 us_H4994 pass_H5674 through_H5674 your_H7971 land_H0776 to_H0413 my_H7971 place_H4725.’ 
+@20 But_H3808 Sihon_H5511 didn’t_H3808 trust_H0539 Israel_H3478 to_H3478 pass_H5674 through_H5674 his_H3605 border_H1366; but_H3808 Sihon_H5511 gathered_H0622 all_H3605 his_H3605 people_H5971 together_H0622, and_H3478 encamped_H2583 in_H2583 Jahaz_H3096, and_H3478 fought_H3898 against_H5973 Israel_H3478. 
+@21 Yahweh_H3068, the_H3605 God_H0430 of_H0776 Israel_H3478, delivered_H5414 Sihon_H5511 and_H3068 all_H3605 his_H3605 people_H5971 into_H0776 the_H3605 hand_H3027 of_H0776 Israel_H3478, and_H3068 they_H3068 struck_H5221 them_H5414. So_H5414 Israel_H3478 possessed_H3423 all_H3605 the_H3605 land_H0776 of_H0776 the_H3605 Amorites_H0567, the_H3605 inhabitants_H3427 of_H0776 that_H3605 country_H0776. 
+@22 They_H5704 possessed_H3423 all_H3605 the_H3605 border_H1366 of_H1366 the_H3605 Amorites_H0567, from_H4480 the_H3605 Arnon_H0769 even_H5704 to_H5704 the_H3605 Jabbok_H2999, and_H0853 from_H4480 the_H3605 wilderness_H4057 even_H5704 to_H5704 the_H3605 Jordan_H3383. 
+@23 So_H6258 now_H6258 Yahweh_H3068, the_H0853 God_H0430 of_H0430 Israel_H3478, has_H3068 dispossessed_H3423 the_H0853 Amorites_H0567 from_H6440 before_H6440 his_H3068 people_H5971 Israel_H3478, and_H3068 should_H3068 you_H0859 possess_H3423 them_H0853? 
+@24 Won’t_H3808 you_H0834 possess_H3423 that_H0834 which_H0834 Chemosh_H3645 your_H3068 god_H0430 gives_H3423 you_H0834 to_H3068 possess_H3423? So_H3808 whoever_H3605 Yahweh_H3068 our_H3068 God_H0430 has_H3068 dispossessed_H3423 from_H6440 before_H6440 us_H6440, them_H0853 will_H3068 we_H0834 possess_H3423. 
+@25 Now_H6258 are_H3478 you_H0859 anything better_H2896 than_H2896 Balak_H1111 the_H0518 son_H1121 of_H1121 Zippor_H6834, king_H4428 of_H1121 Moab_H4124? Did he_H0518 ever_H7378 strive_H7378 against_H5973 Israel_H3478, or_H0518 did he_H0518 ever_H7378 fight_H3898 against_H5973 them_H0859? 
+@26 Israel_H3478 lived_H3427 in_H3427 Heshbon_H2809 and_H3478 its_H3605 towns_H1323, and_H3478 in_H3427 Aroer_H6177 and_H3478 its_H3605 towns_H1323, and_H3478 in_H3427 all_H3605 the_H3605 cities_H5892 that_H0834 are_H0834 along_H5921 the_H3605 side_H3027 of_H1323 the_H3605 Arnon_H0769 for_H5921 three_H7969 hundred_H3967 years_H8141! Why_H4069 didn’t_H3808 you_H0834 recover_H5337 them_H5921 within_H5921 that_H0834 time_H6256? 
+@27 Therefore_H3068 I_H0595 have_H1121 not_H3808 sinned_H2398 against_H2398 you_H0859, but_H3808 you_H0859 do_H6213 me_H3808 wrong_H7451 to_H3068 war against_H2398 me_H3808. May_H3068 Yahweh_H3068 the_H0853 Judge_H8199 be_H3808 judge_H8199 today_H3117 between_H0996 the_H0853 children_H1121 of_H1121 Israel_H3478 and_H1121 the_H0853 children_H1121 of_H1121 Ammon_H5983.” 
 
-@28 However, the king of the children of Ammon didn’t listen to the words of Jephthah which he sent him.
+@28 However_H8085, the_H0834 king_H4428 of_H1121 the_H0834 children_H1121 of_H1121 Ammon_H5983 didn’t_H3808 listen_H8085 to_H0413 the_H0834 words_H1697 of_H1121 Jephthah_H3316 which_H0834 he_H0834 sent_H7971 him_H0413.
 
 ## Jephthah's vows; his victory over the ammonites
-@29 Then Yahweh’s Spirit came on Jephthah, and he passed over Gilead and Manasseh, and passed over Mizpah of Gilead, and from Mizpah of Gilead he passed over to the children of Ammon. 
+@29 Then_H1961 Yahweh’s_H3068 Spirit_H7307 came_H1961 on_H5921 Jephthah_H3316, and_H1121 he_H3068 passed_H5674 over_H5921 Gilead_H1568 and_H1121 Manasseh_H4519, and_H1121 passed_H5674 over_H5921 Mizpah_H4708 of_H1121 Gilead_H1568, and_H1121 from_H5921 Mizpah_H4708 of_H1121 Gilead_H1568 he_H3068 passed_H5674 over_H5921 to_H1961 the_H0853 children_H1121 of_H1121 Ammon_H5983. 
 
-@30 Jephthah vowed a vow to Yahweh, and said, “If you will indeed deliver the children of Ammon into my hand, 
-@31 then it shall be, that whatever comes out of the doors of my house to meet me when I return in peace from the children of Ammon, it shall be Yahweh’s, and I will offer it up for a burnt offering.” 
+@30 Jephthah_H3316 vowed_H5087 a_H5414 vow_H5088 to_H0559 Yahweh_H3068, and_H1121 said_H0559, “If_H0518 you_H5414 will_H3068 indeed_H0518 deliver_H5414 the_H0853 children_H1121 of_H1121 Ammon_H5983 into_H3027 my_H5414 hand_H3027, 
+@31 then_H1961 it_H7725 shall_H1121 be_H1961, that_H0834 whatever_H0834 comes_H3318 out_H3318 of_H1121 the_H0834 doors_H1817 of_H1121 my_H3068 house_H1004 to_H7725 meet_H7125 me_H7725 when_H1961 I_H0834 return_H7725 in_H3068 peace_H7965 from_H7725 the_H0834 children_H1121 of_H1121 Ammon_H5983, it_H7725 shall_H1121 be_H1961 Yahweh’s_H3068, and_H1121 I_H0834 will_H3068 offer_H5927 it_H7725 up_H5927 for_H1004 a_H1961 burnt_H5930 offering_H5927.” 
 
-@32 So Jephthah passed over to the children of Ammon to fight against them; and Yahweh delivered them into his hand. 
-@33 He struck them from Aroer until you come to Minnith, even twenty cities, and to Abelcheramim, with a very great slaughter. So the children of Ammon were subdued before the children of Israel.
+@32 So_H5414 Jephthah_H3316 passed_H5674 over_H0413 to_H0413 the_H0413 children_H1121 of_H1121 Ammon_H5983 to_H0413 fight_H3898 against_H0413 them_H0413; and_H1121 Yahweh_H3068 delivered_H5414 them_H0413 into_H0413 his_H5414 hand_H3027. 
+@33 He_H5704 struck_H5221 them_H5221 from_H0935 Aroer_H6177 until_H5704 you_H6440 come_H0935 to_H0935 Minnith_H4511, even_H5704 twenty_H6242 cities_H5892, and_H1121 to_H0935 Abelcheramim, with_H0935 a_H0935 very_H3966 great_H1419 slaughter_H4347. So_H0935 the_H6440 children_H1121 of_H1121 Ammon_H5983 were_H3478 subdued_H3665 before_H6440 the_H6440 children_H1121 of_H1121 Israel_H3478.
 
 ## The return of Jephthah and the execution of the vow by sacrificing his daughter
-@34 Jephthah came to Mizpah to his house; and behold, his daughter came out to meet him with tambourines and with dances. She was his only child. Besides her he had neither son nor daughter. 
-@35 When he saw her, he tore his clothes, and said, “Alas, my daughter! You have brought me very low, and you are one of those who trouble me; for I have opened my mouth to Yahweh, and I can’t go back.” 
+@34 Jephthah_H3316 came_H0935 to_H0413 Mizpah_H4709 to_H0413 his_H0935 house_H1004; and_H1121 behold_H2009, his_H0935 daughter_H1323 came_H0935 out_H3318 to_H0413 meet_H7125 him_H0413 with_H0413 tambourines_H8596 and_H1121 with_H0413 dances_H4246. She_H1931 was_H0369 his_H0935 only_H7535 child_H1121. Besides_H4480 her_H0413 he_H1931 had_H0369 neither_H0369 son_H1121 nor_H0369 daughter_H1323. 
+@35 When_H1961 he_H3068 saw_H7200 her_H0413, he_H3068 tore_H7167 his_H3068 clothes_H0899, and_H3068 said_H0559, “Alas_H0162, my_H3068 daughter_H1323! You_H0859 have_H1961 brought_H7725 me_H0413 very_H3766 low_H3766, and_H3068 you_H0859 are_H3068 one_H3808 of_H3068 those_H0853 who_H3068 trouble_H5916 me_H0413; for_H0413 I_H0595 have_H1961 opened_H6475 my_H3068 mouth_H6310 to_H0413 Yahweh_H3068, and_H3068 I_H0595 can’t_H3808 go_H7725 back_H7725.” 
 
-@36 She said to him, “My father, you have opened your mouth to Yahweh; do to me according to that which has proceeded out of your mouth, because Yahweh has taken vengeance for you on your enemies, even on the children of Ammon.” 
-@37 Then she said to her father, “Let this thing be done for me. Leave me alone two months, that I may depart and go down on the mountains, and bewail my virginity, I and my companions.” 
+@36 She_H0834 said_H0559 to_H0413 him_H0413, “My_H3068 father_H0001, you_H0834 have_H0834 opened_H6475 your_H3068 mouth_H6310 to_H0413 Yahweh_H3068; do_H6213 to_H0413 me_H0413 according_H6310 to_H0413 that_H0834 which_H0834 has_H3068 proceeded_H3318 out_H3318 of_H1121 your_H3068 mouth_H6310, because_H0834 Yahweh_H3068 has_H3068 taken_H3318 vengeance_H5360 for_H0413 you_H0834 on_H0413 your_H3068 enemies_H0341, even_H0853 on_H0413 the_H0853 children_H1121 of_H1121 Ammon_H5983.” 
+@37 Then_H2088 she_H2320 said_H0559 to_H0413 her_H0413 father_H0001, “Let_H7503 this_H2088 thing_H1697 be_H1697 done_H6213 for_H5921 me_H0413. Leave_H4480 me_H0413 alone_H7503 two_H8147 months_H2320, that_H1697 I_H0595 may_H6213 depart and_H0001 go_H3381 down_H3381 on_H5921 the_H0559 mountains_H2022, and_H0001 bewail_H1058 my_H5921 virginity_H1331, I_H0595 and_H0001 my_H5921 companions.” 
 
-@38 He said, “Go.” He sent her away for two months; and she departed, she and her companions, and mourned her virginity on the mountains. 
-@39 At the end of two months, she returned to her father, who did with her according to his vow which he had vowed. She was a virgin. It became a custom in Israel 
-@40 that the daughters of Israel went yearly to celebrate the daughter of Jephthah the Gileadite four days in a year. 
+@38 He_H1931 said_H0559, “Go_H7971.” He_H1931 sent_H7971 her_H7971 away_H7971 for_H5921 two_H8147 months_H2320; and_H7971 she_H1931 departed, she_H1931 and_H7971 her_H7971 companions_H7464, and_H7971 mourned_H1058 her_H7971 virginity_H1331 on_H5921 the_H0853 mountains_H2022. 
+@39 At_H0413 the_H0853 end_H7093 of_H0376 two_H8147 months_H2320, she_H1931 returned_H7725 to_H0413 her_H0413 father_H0001, who_H0834 did_H6213 with_H0413 her_H0413 according_H0413 to_H0413 his_H7725 vow_H5088 which_H0834 he_H0834 had_H0834 vowed_H5087. She_H1931 was_H1961 a_H1961 virgin. It_H1931 became_H1961 a_H1961 custom_H2706 in_H0413 Israel_H3478 
+@40 that_H3117 the_H3117 daughters_H1323 of_H3117 Israel_H3478 went yearly_H3117 to_H3478 celebrate the_H3117 daughter_H1323 of_H3117 Jephthah_H3316 the_H3117 Gileadite_H1569 four_H0702 days_H3117 in_H8141 a_H3117 year_H8141. 
 
 # 12 
 ## Jephthah's victorious battle with the Ephraimites and his death
-@1 The men of Ephraim were gathered together, and passed northward; and they said to Jephthah, “Why did you pass over to fight against the children of Ammon, and didn’t call us to go with you? We will burn your house around you with fire!” 
+@1 The_H0559 men_H0376 of_H1121 Ephraim_H0669 were_H1121 gathered together_H5973, and_H1121 passed_H5674 northward_H6828; and_H1121 they_H5921 said_H0559 to_H0559 Jephthah_H3316, “Why_H4069 did_H3808 you_H5921 pass_H5674 over_H5921 to_H0559 fight_H3898 against_H5921 the_H0559 children_H1121 of_H1121 Ammon_H5983, and_H1121 didn’t_H3808 call_H7121 us_H5921 to_H0559 go_H5674 with_H5973 you_H5921? We will_H0376 burn_H8313 your_H5921 house_H1004 around_H5921 you_H5921 with_H5973 fire_H0784!” 
 
-@2 Jephthah said to them, “I and my people were at great strife with the children of Ammon; and when I called you, you didn’t save me out of their hand. 
-@3 When I saw that you didn’t save me, I put my life in my hand, and passed over against the children of Ammon, and Yahweh delivered them into my hand. Why then have you come up to me today, to fight against me?” 
+@2 Jephthah_H3316 said_H0559 to_H0413 them_H0413, “I_H0589 and_H1121 my_H1961 people_H5971 were_H1961 at_H0413 great_H3966 strife_H7379 with_H0413 the_H0853 children_H1121 of_H1121 Ammon_H5983; and_H1121 when_H1961 I_H0589 called_H2199 you_H0853, you_H0853 didn’t_H3808 save_H3467 me_H0413 out_H2199 of_H1121 their_H1961 hand_H3027. 
+@3 When_H3588 I_H3588 saw_H7200 that_H3588 you_H3588 didn’t save_H3467 me_H0413, I_H3588 put_H5414 my_H5414 life_H5315 in_H0413 my_H5414 hand_H3027, and_H1121 passed_H5674 over_H0413 against_H0413 the_H3588 children_H1121 of_H1121 Ammon_H5983, and_H1121 Yahweh_H3068 delivered_H5414 them_H0413 into_H0413 my_H5414 hand_H3027. Why_H4100 then_H2088 have_H0369 you_H3588 come_H5927 up_H5927 to_H0413 me_H0413 today_H3117, to_H0413 fight_H3898 against_H0413 me_H0413?” 
 
-@4 Then Jephthah gathered together all the men of Gilead, and fought with Ephraim. The men of Gilead struck Ephraim, because they said, “You are fugitives of Ephraim, you Gileadites, in the middle of Ephraim, and in the middle of Manasseh.” 
-@5 The Gileadites took the fords of the Jordan against the Ephraimites. Whenever a fugitive of Ephraim said, “Let me go over,” the men of Gilead said to him, “Are you an Ephraimite?” If he said, “No;” 
-@6 then they said to him, “Now say ‘Shibboleth;’” and he said “Sibboleth”; for he couldn’t manage to pronounce it correctly, then they seized him and killed him at the fords of the Jordan. At that time, forty-two thousand of Ephraim fell. 
+@4 Then_H0853 Jephthah_H3316 gathered_H6908 together_H6908 all_H3605 the_H3605 men_H0376 of_H0376 Gilead_H1568, and_H0376 fought_H3898 with_H0854 Ephraim_H0669. The_H3605 men_H0376 of_H0376 Gilead_H1568 struck_H5221 Ephraim_H0669, because_H3588 they_H3588 said_H0559, “You_H0859 are_H0376 fugitives_H6412 of_H0376 Ephraim_H0669, you_H0859 Gileadites_H1568, in_H8432 the_H3605 middle_H8432 of_H0376 Ephraim_H0669, and_H0376 in_H8432 the_H3605 middle_H8432 of_H0376 Manasseh_H4519.” 
+@5 The_H0853 Gileadites_H1568 took_H3920 the_H0853 fords of_H0376 the_H0853 Jordan_H3383 against_H0376 the_H0853 Ephraimites_H0669. Whenever_H1961 a_H1961 fugitive_H6412 of_H0376 Ephraim_H0669 said_H0559, “Let_H1961 me_H1961 go_H1961 over_H5674,” the_H0853 men_H0376 of_H0376 Gilead_H1568 said_H0559 to_H0559 him_H0853, “Are_H0376 you_H0859 an_H1961 Ephraimite_H0673?” If_H3588 he_H3588 said_H0559, “No_H3808;” 
+@6 then_H1696 they_H3651 said_H0559 to_H0413 him_H0413, “Now_H4994 say_H0559 ‘Shibboleth;’” and_H0669 he_H1931 said_H0559 “Sibboleth_H5451”; for_H0413 he_H1931 couldn’t_H3808 manage to_H0413 pronounce_H1696 it_H1931 correctly_H3651, then_H1696 they_H3651 seized_H0270 him_H0413 and_H0669 killed_H7819 him_H0413 at_H0413 the_H0853 fords of_H6256 the_H0853 Jordan_H3383. At_H0413 that_H1931 time_H6256, forty-two_H8147 thousand_H0505 of_H6256 Ephraim_H0669 fell_H5307. 
 
-@7 Jephthah judged Israel six years. Then Jephthah the Gileadite died, and was buried in the cities of Gilead.
+@7 Jephthah_H3316 judged_H8199 Israel_H3478 six_H8337 years_H8141. Then_H0853 Jephthah_H3316 the_H0853 Gileadite_H1569 died_H4191, and_H3478 was_H3478 buried_H6912 in_H8141 the_H0853 cities_H5892 of_H8141 Gilead_H1568.
 
 ## Judges Ibzan, Elon and Abdon
-@8 After him Ibzan of Bethlehem judged Israel. 
-@9 He had thirty sons. He sent his thirty daughters outside his clan, and he brought in thirty daughters from outside his clan for his sons. He judged Israel seven years. 
-@10 Ibzan died, and was buried at Bethlehem. 
+@8 After_H0310 him_H0853 Ibzan_H0078 of_H8199 Bethlehem_H1035 judged_H8199 Israel_H3478. 
+@9 He_H4480 had_H1961 thirty_H7970 sons_H1121. He_H4480 sent_H7971 his_H1961 thirty_H7970 daughters_H1323 outside_H2351 his_H1961 clan, and_H1121 he_H4480 brought_H0935 in_H8141 thirty_H7970 daughters_H1323 from_H4480 outside_H2351 his_H1961 clan for_H7971 his_H1961 sons_H1121. He_H4480 judged_H8199 Israel_H3478 seven_H7651 years_H8141. 
+@10 Ibzan_H0078 died_H4191, and_H4191 was buried_H6912 at_H4191 Bethlehem_H1035. 
 
-@11 After him, Elon the Zebulunite judged Israel; and he judged Israel ten years. 
-@12 Elon the Zebulunite died, and was buried in Aijalon in the land of Zebulun. 
+@11 After_H0310 him_H0853, Elon_H0356 the_H0853 Zebulunite_H2075 judged_H8199 Israel_H3478; and_H3478 he_H0310 judged_H8199 Israel_H3478 ten_H6235 years_H8141. 
+@12 Elon the_H0776 Zebulunite_H2075 died_H4191, and_H0776 was_H0776 buried_H6912 in_H0776 Aijalon_H0357 in_H0776 the_H0776 land_H0776 of_H0776 Zebulun_H2074. 
 
-@13 After him, Abdon the son of Hillel the Pirathonite judged Israel. 
-@14 He had forty sons and thirty sons’ sons who rode on seventy donkey colts. He judged Israel eight years. 
-@15 Abdon the son of Hillel the Pirathonite died, and was buried in Pirathon in the land of Ephraim, in the hill country of the Amalekites. 
+@13 After_H0310 him_H0853, Abdon_H5658 the_H0853 son_H1121 of_H1121 Hillel_H1985 the_H0853 Pirathonite_H6553 judged_H8199 Israel_H3478. 
+@14 He_H0853 had_H1961 forty_H0705 sons_H1121 and_H1121 thirty_H7970 sons’_H1121 sons_H1121 who_H1121 rode_H7392 on_H5921 seventy_H7657 donkey colts_H1121. He_H0853 judged_H8199 Israel_H3478 eight_H8083 years_H8141. 
+@15 Abdon_H5658 the_H0776 son_H1121 of_H1121 Hillel_H1985 the_H0776 Pirathonite_H6553 died_H4191, and_H1121 was_H0776 buried_H6912 in_H0776 Pirathon_H6552 in_H0776 the_H0776 land_H0776 of_H1121 Ephraim_H0669, in_H0776 the_H0776 hill_H2022 country_H2022 of_H1121 the_H0776 Amalekites_H6003. 
 
 # 13 
 ## Prehistory: Philistine rule; two apparitions of an angel announcing the birth and consecration of Samson to God
-@1 The children of Israel again did that which was evil in Yahweh’s sight; and Yahweh delivered them into the hand of the Philistines forty years. 
+@1 The_H5414 children_H1121 of_H1121 Israel_H3478 again_H3254 did_H6213 that_H3068 which_H5869 was_H3068 evil_H7451 in_H8141 Yahweh’s_H3068 sight_H5869; and_H1121 Yahweh_H3068 delivered_H5414 them_H5414 into_H3027 the_H5414 hand_H3027 of_H1121 the_H5414 Philistines_H6430 forty_H0705 years_H8141. 
 
-@2 There was a certain man of Zorah, of the family of the Danites, whose name was Manoah; and his wife was barren, and childless. 
-@3 Yahweh’s angel appeared to the woman, and said to her, “See now, you are barren and childless; but you shall conceive and bear a son. 
-@4 Now therefore please beware and drink no wine nor strong drink, and don’t eat any unclean thing; 
-@5 for, behold, you shall conceive and give birth to a son. No razor shall come on his head, for the child shall be a Nazirite to God from the womb. He shall begin to save Israel out of the hand of the Philistines.” 
+@2 There_H1961 was_H8034 a_H1961 certain_H0259 man_H0376 of_H0376 Zorah_H6881, of_H0376 the_H3205 family_H4940 of_H0376 the_H3205 Danites_H1839, whose_H0376 name_H8034 was_H8034 Manoah_H4495; and_H0376 his_H1961 wife_H0802 was_H8034 barren_H6135, and_H0376 childless_H6135. 
+@3 Yahweh’s_H3068 angel_H4397 appeared_H7200 to_H0413 the_H0559 woman_H0802, and_H1121 said_H0559 to_H0413 her_H0413, “See_H7200 now_H4994, you_H0859 are_H1121 barren_H6135 and_H1121 childless_H6135; but_H3808 you_H0859 shall_H1121 conceive_H2029 and_H1121 bear_H3205 a_H3205 son_H1121. 
+@4 Now_H6258 therefore_H6258 please_H4994 beware_H8104 and_H0398 drink_H8354 no_H0408 wine_H3196 nor_H0408 strong_H7941 drink_H8354, and_H0398 don’t_H0408 eat_H0398 any_H3605 unclean_H2931 thing_H4994; 
+@5 for_H3588, behold_H2009, you_H3588 shall_H1121 conceive_H2029 and_H1121 give_H3205 birth_H3205 to_H1961 a_H1961 son_H1121. No_H3808 razor shall_H1121 come_H1961 on_H5921 his_H5921 head_H7218, for_H3588 the_H0853 child_H5288 shall_H1121 be_H1961 a_H1961 Nazirite_H5139 to_H1961 God_H0430 from_H4480 the_H0853 womb_H0990. He_H1931 shall_H1121 begin_H2490 to_H1961 save_H3467 Israel_H3478 out_H4480 of_H1121 the_H0853 hand_H3027 of_H1121 the_H0853 Philistines_H6430.” 
 
-@6 Then the woman came and told her husband, saying, “A man of God came to me, and his face was like the face of the angel of God, very awesome. I didn’t ask him where he was from, neither did he tell me his name; 
-@7 but he said to me, ‘Behold, you shall conceive and bear a son; and now drink no wine nor strong drink. Don’t eat any unclean thing, for the child shall be a Nazirite to God from the womb to the day of his death.’” 
+@6 Then_H2088 the_H0853 woman_H0802 came_H0935 and_H0935 told_H5046 her_H0413 husband_H0376, saying_H0559, “A_H0935 man_H0376 of_H0376 God_H0430 came_H0935 to_H0413 me_H0413, and_H0935 his_H0376 face_H4758 was_H8034 like_H4758 the_H0853 face_H4758 of_H0376 the_H0853 angel_H4397 of_H0376 God_H0430, very_H3966 awesome_H3372. I_H2088 didn’t_H3808 ask_H7592 him_H0413 where_H0335 he_H1931 was_H8034 from_H0935, neither_H3808 did_H3808 he_H1931 tell_H5046 me_H0413 his_H0376 name_H8034; 
+@7 but_H3588 he_H3588 said_H0559 to_H0559 me_H4480, ‘Behold_H2009, you_H3588 shall_H1121 conceive_H2029 and_H1121 bear_H3205 a_H1961 son_H1121; and_H1121 now_H6258 drink_H8354 no_H0408 wine_H3196 nor_H0408 strong_H7941 drink_H8354. Don’t_H0408 eat_H0398 any_H3605 unclean_H2932 thing_H3588, for_H3588 the_H3605 child_H5288 shall_H1121 be_H1961 a_H1961 Nazirite_H5139 to_H0559 God_H0430 from_H4480 the_H3605 womb_H0990 to_H0559 the_H3605 day_H3117 of_H1121 his_H3605 death_H4194.’” 
 
-@8 Then Manoah entreated Yahweh, and said, “Oh, Lord, please let the man of God whom you sent come again to us, and teach us what we should do to the child who shall be born.” 
+@8 Then_H0935 Manoah_H4495 entreated_H6279 Yahweh_H3068, and_H0935 said_H0559, “Oh_H4994, Lord_H3068, please_H4994 let_H7971 the_H0559 man_H0376 of_H0376 God_H0430 whom_H0834 you_H0834 sent_H7971 come_H0935 again_H5750 to_H0413 us_H4994, and_H0935 teach_H3384 us_H4994 what_H4100 we_H0834 should_H4100 do_H6213 to_H0413 the_H0559 child_H5288 who_H0834 shall_H3068 be_H5750 born_H3205.” 
 
-@9 God listened to the voice of Manoah, and the angel of God came again to the woman as she sat in the field; but Manoah, her husband, wasn’t with her. 
-@10 The woman hurried and ran, and told her husband, saying to him, “Behold, the man who came to me that day has appeared to me.” 
+@9 God_H0430 listened_H8085 to_H0413 the_H0413 voice_H6963 of_H0376 Manoah_H4495, and_H0935 the_H0413 angel_H4397 of_H0376 God_H0430 came_H0935 again_H5750 to_H0413 the_H0413 woman_H0802 as_H0935 she_H1931 sat_H3427 in_H3427 the_H0413 field_H7704; but_H0369 Manoah_H4495, her_H0413 husband_H0376, wasn’t with_H5973 her_H0413. 
+@10 The_H0559 woman_H0802 hurried_H4116 and_H0935 ran_H7323, and_H0935 told_H5046 her_H0413 husband_H0376, saying_H0559 to_H0413 him_H0413, “Behold_H2009, the_H0559 man_H0376 who_H0834 came_H0935 to_H0413 me_H0413 that_H0834 day_H3117 has_H0834 appeared_H7200 to_H0413 me_H0413.” 
 
-@11 Manoah arose and followed his wife, and came to the man, and said to him, “Are you the man who spoke to my wife?” 
+@11 Manoah_H4495 arose_H6965 and_H0935 followed_H0310 his_H0834 wife_H0802, and_H0935 came_H0935 to_H0413 the_H0559 man_H0376, and_H0935 said_H0559 to_H0413 him_H0413, “Are_H0834 you_H0859 the_H0559 man_H0376 who_H0834 spoke_H1696 to_H0413 my_H0834 wife_H0802?” 
 
-He said, “I am.” 
+He_H0834 said_H0559, “I_H0589 am_H0589.” 
 
-@12 Manoah said, “Now let your words happen. What shall the child’s way of life and mission be?” 
+@12 Manoah_H4495 said_H0559, “Now_H6258 let_H6258 your_H0935 words_H1697 happen_H1961. What_H4100 shall_H4100 the_H0559 child’s_H5288 way_H1697 of_H1697 life_H4941 and_H0935 mission be_H1961?” 
 
-@13 Yahweh’s angel said to Manoah, “Of all that I said to the woman let her beware. 
-@14 She may not eat of anything that comes of the vine, neither let her drink wine or strong drink, nor eat any unclean thing. Let her observe all that I commanded her.” 
+@13 Yahweh’s_H3068 angel_H4397 said_H0559 to_H0413 Manoah_H4495, “Of_H3068 all_H3605 that_H0834 I_H0834 said_H0559 to_H0413 the_H3605 woman_H0802 let her_H3605 beware_H8104. 
+@14 She_H0834 may_H0834 not_H3808 eat_H0398 of_H3605 anything_H3605 that_H0834 comes_H3318 of_H3605 the_H3605 vine_H1612, neither_H3808 let_H0408 her_H3605 drink_H8354 wine_H3196 or_H3808 strong_H7941 drink_H8354, nor_H3808 eat_H0398 any_H3605 unclean_H2932 thing_H3605. Let_H0408 her_H3605 observe_H8104 all_H3605 that_H0834 I_H0834 commanded_H6680 her_H3605.” 
 
-@15 Manoah said to Yahweh’s angel, “Please stay with us, that we may make a young goat ready for you.” 
+@15 Manoah_H4495 said_H0559 to_H0413 Yahweh’s_H3068 angel_H4397, “Please_H4994 stay with_H0413 us_H4994, that_H3068 we_H4994 may_H4994 make_H6213 a_H3068 young_H1423 goat_H5795 ready for_H0413 you_H6440.” 
 
-@16 Yahweh’s angel said to Manoah, “Though you detain me, I won’t eat your bread. If you will prepare a burnt offering, you must offer it to Yahweh.” For Manoah didn’t know that he was Yahweh’s angel. 
+@16 Yahweh’s_H3068 angel_H4397 said_H0559 to_H0413 Manoah_H4495, “Though_H3588 you_H3588 detain_H6113 me_H0413, I_H3588 won’t_H3808 eat_H0398 your_H3068 bread_H3899. If_H0518 you_H3588 will_H3068 prepare_H6213 a_H3588 burnt_H5930 offering_H5927, you_H3588 must_H0518 offer_H5927 it_H1931 to_H0413 Yahweh_H3068.” For_H3588 Manoah_H4495 didn’t_H3808 know_H3045 that_H3588 he_H1931 was_H3068 Yahweh’s_H3068 angel_H4397. 
 
-@17 Manoah said to Yahweh’s angel, “What is your name, that when your words happen, we may honor you?” 
+@17 Manoah_H4495 said_H0559 to_H0413 Yahweh’s_H3068 angel_H4397, “What_H1697 is_H3068 your_H3068 name_H8034, that_H3588 when_H3588 your_H3068 words_H1697 happen_H1697, we_H3588 may_H3068 honor_H3513 you_H3588?” 
 
-@18 Yahweh’s angel said to him, “Why do you ask about my name, since it is incomprehensible^a^ ?” 
+@18 Yahweh’s_H3068 angel_H4397 said_H0559 to_H0559 him_H1931, “Why_H4100 do_H4100 you_H4100 ask_H7592 about_H8034 my_H3068 name_H8034, since it_H1931 is_H3068 incomprehensible^a^ ?” 
 ^a^[**13:18** or, wonderful]
 
-@19 So Manoah took the young goat with the meal offering, and offered it on the rock to Yahweh. Then the angel did an amazing thing as Manoah and his wife watched. 
-@20 For when the flame went up toward the sky from off the altar, Yahweh’s angel ascended in the flame of the altar. Manoah and his wife watched; and they fell on their faces to the ground. 
-@21 But Yahweh’s angel didn’t appear to Manoah or to his wife any more. Then Manoah knew that he was Yahweh’s angel. 
-@22 Manoah said to his wife, “We shall surely die, because we have seen God.” 
+@19 So_H6213 Manoah_H4495 took_H3947 the_H0853 young_H1423 goat_H5795 with_H3068 the_H0853 meal_H4503 offering_H4503, and_H3068 offered_H5927 it_H5921 on_H5921 the_H0853 rock_H6697 to_H5921 Yahweh_H3068. Then_H3947 the_H0853 angel did_H6213 an_H7200 amazing_H6381 thing as_H3068 Manoah_H4495 and_H3068 his_H5921 wife_H0802 watched_H7200. 
+@20 For_H5921 when_H1961 the_H6440 flame_H3851 went_H5927 up_H5927 toward_H5921 the_H6440 sky_H8064 from_H5921 off_H5921 the_H6440 altar_H4196, Yahweh’s_H3068 angel_H4397 ascended_H5927 in_H5921 the_H6440 flame_H3851 of_H0776 the_H6440 altar_H4196. Manoah_H4495 and_H3068 his_H5921 wife_H0802 watched_H7200; and_H3068 they_H5921 fell_H5307 on_H5921 their_H3068 faces_H6440 to_H1961 the_H6440 ground_H0776. 
+@21 But_H3588 Yahweh’s_H3068 angel_H4397 didn’t_H3808 appear_H7200 to_H0413 Manoah_H4495 or_H3808 to_H0413 his_H3068 wife_H0802 any_H5750 more_H5750. Then_H0227 Manoah_H4495 knew_H3045 that_H3588 he_H1931 was_H3068 Yahweh’s_H3068 angel_H4397. 
+@22 Manoah_H4495 said_H0559 to_H0413 his_H7200 wife_H0802, “We_H3588 shall_H0802 surely_H3588 die_H4191, because_H3588 we_H3588 have_H7200 seen_H7200 God_H0430.” 
 
-@23 But his wife said to him, “If Yahweh were pleased to kill us, he wouldn’t have received a burnt offering and a meal offering at our hand, and he wouldn’t have shown us all these things, nor would he have told us such things as these at this time.” 
-@24 The woman bore a son and named him Samson. The child grew, and Yahweh blessed him.
+@23 But_H3808 his_H3605 wife_H0802 said_H0559 to_H0559 him_H0853, “If_H3863 Yahweh_H3068 were_H0428 pleased_H2654 to_H0559 kill_H4191 us_H7200, he_H3068 wouldn’t have_H3068 received_H3947 a_H3947 burnt_H5930 offering_H4503 and_H3068 a_H3947 meal_H4503 offering_H4503 at_H3068 our_H3068 hand_H3027, and_H3068 he_H3068 wouldn’t have_H3068 shown_H7200 us_H7200 all_H3605 these_H0428 things_H0428, nor_H3808 would_H3068 he_H3068 have_H3068 told_H0559 us_H7200 such_H0428 things_H0428 as_H3068 these_H0428 at_H3068 this_H2063 time_H6256.” 
+@24 The_H0853 woman_H0802 bore_H3205 a_H3205 son_H1121 and_H1121 named_H8034 him_H3205 Samson_H8123. The_H0853 child_H5288 grew_H1431, and_H1121 Yahweh_H3068 blessed_H1288 him_H3205.
 
 ## The Simpsons courtship for a philistine woman; his tearing from a lion, his wedding, his riddle and his revenge
-@25 Yahweh’s Spirit began to move him in Mahaneh Dan, between Zorah and Eshtaol. 
+@25 Yahweh’s_H3068 Spirit_H7307 began_H2490 to_H3068 move him_H3068 in_H3068 Mahaneh Dan_H1835, between_H0996 Zorah_H6881 and_H3068 Eshtaol_H0847. 
 
 # 14 
-@1 Samson went down to Timnah, and saw a woman in Timnah of the daughters of the Philistines. 
-@2 He came up, and told his father and his mother, saying, “I have seen a woman in Timnah of the daughters of the Philistines. Now therefore get her for me as my wife.” 
+@1 Samson_H8123 went_H3381 down_H3381 to_H3381 Timnah_H8553, and_H0802 saw_H7200 a_H7200 woman_H0802 in_H0802 Timnah_H8553 of_H1323 the_H7200 daughters_H1323 of_H1323 the_H7200 Philistines_H6430. 
+@2 He_H0853 came_H5927 up_H5927, and_H0802 told_H5046 his_H3947 father_H0001 and_H0802 his_H3947 mother_H0517, saying_H0559, “I_H6258 have_H0001 seen_H7200 a_H3947 woman_H0802 in_H0802 Timnah_H8553 of_H1323 the_H0853 daughters_H1323 of_H1323 the_H0853 Philistines_H6430. Now_H6258 therefore_H6258 get_H3947 her_H5046 for_H0802 me_H5046 as_H5927 my_H7200 wife_H0802.” 
 
-@3 Then his father and his mother said to him, “Isn’t there a woman among your brothers’ daughters, or among all my people, that you go to take a wife of the uncircumcised Philistines?” 
+@3 Then_H1980 his_H3605 father_H0001 and_H1980 his_H3605 mother_H0517 said_H0559 to_H0413 him_H0413, “Isn’t there_H0369 a_H3947 woman_H0802 among_H0413 your_H3605 brothers’_H0251 daughters_H1323, or_H0369 among_H0413 all_H3605 my_H3605 people_H5971, that_H3588 you_H0859 go_H1980 to_H0413 take_H3947 a_H3947 wife_H0802 of_H1323 the_H3605 uncircumcised_H6189 Philistines_H6430?” 
 
-Samson said to his father, “Get her for me, for she pleases me well.” 
+Samson_H8123 said_H0559 to_H0413 his_H3605 father_H0001, “Get_H3947 her_H3605 for_H3588 me_H0413, for_H3588 she_H1931 pleases_H5869 me_H0413 well.” 
 
-@4 But his father and his mother didn’t know that it was of Yahweh; for he sought an occasion against the Philistines. Now at that time the Philistines ruled over Israel. 
+@4 But_H3588 his_H3068 father_H0001 and_H3068 his_H3068 mother_H0517 didn’t_H3808 know_H3045 that_H3588 it_H1931 was_H3068 of_H3068 Yahweh_H3068; for_H3588 he_H1931 sought_H1245 an_H3588 occasion against the_H3588 Philistines_H6430. Now_H3588 at_H3478 that_H3588 time_H6256 the_H3588 Philistines_H6430 ruled_H4910 over_H4910 Israel_H3478. 
 
-@5 Then Samson went down to Timnah with his father and his mother, and came to the vineyards of Timnah; and behold, a young lion roared at him. 
-@6 Yahweh’s Spirit came mightily on him, and he tore him as he would have torn a young goat with his bare hands, but he didn’t tell his father or his mother what he had done. 
-@7 He went down and talked with the woman, and she pleased Samson well. 
-@8 After a while he returned to take her, and he went over to see the carcass of the lion; and behold, there was a swarm of bees in the body of the lion, and honey. 
-@9 He took it into his hands, and went on, eating as he went. He came to his father and mother and gave to them, and they ate, but he didn’t tell them that he had taken the honey out of the lion’s body. 
-@10 His father went down to the woman; and Samson made a feast there, for the young men used to do so. 
-@11 When they saw him, they brought thirty companions to be with him. 
+@5 Then_H2009 Samson_H8123 went_H0935 down_H3381 to_H0935 Timnah_H8553 with_H0935 his_H0935 father_H0001 and_H0935 his_H0935 mother_H0517, and_H0935 came_H0935 to_H0935 the_H0935 vineyards_H3754 of_H0001 Timnah_H8553; and_H0935 behold_H2009, a_H0935 young_H3715 lion_H0738 roared_H7580 at_H0935 him_H0935. 
+@6 Yahweh’s_H3068 Spirit_H7307 came_H7307 mightily on_H5921 him_H5921, and_H3068 he_H0834 tore_H8156 him_H5921 as_H0834 he_H0834 would_H3068 have_H0834 torn a_H0834 young_H1423 goat_H1423 with_H3068 his_H5921 bare hands_H3027, but_H3808 he_H0834 didn’t_H3808 tell_H5046 his_H5921 father_H0001 or_H3808 his_H5921 mother_H0517 what_H0834 he_H0834 had_H3068 done_H6213. 
+@7 He_H1696 went_H3381 down_H3381 and_H5869 talked_H1696 with_H1696 the_H1696 woman_H0802, and_H5869 she pleased_H5869 Samson_H8123 well. 
+@8 After_H3117 a_H3947 while_H3117 he_H3117 returned_H7725 to_H7725 take_H3947 her_H3947, and_H7725 he_H3117 went_H7725 over_H0853 to_H7725 see_H7200 the_H0853 carcass_H1472 of_H3117 the_H0853 lion_H0738; and_H7725 behold_H2009, there_H2009 was_H3117 a_H3947 swarm_H5712 of_H3117 bees_H1682 in_H3117 the_H0853 body of_H3117 the_H0853 lion_H0738, and_H7725 honey_H1706. 
+@9 He_H3588 took_H1980 it_H5414 into_H0413 his_H5414 hands_H3709, and_H1980 went_H1980 on_H0413, eating_H0398 as_H3588 he_H3588 went_H1980. He_H3588 came_H1980 to_H0413 his_H5414 father_H0001 and_H1980 mother_H0517 and_H1980 gave_H5414 to_H0413 them_H0413, and_H1980 they_H3588 ate_H0398, but_H3588 he_H3588 didn’t_H3808 tell_H5046 them_H0413 that_H3588 he_H3588 had_H0001 taken_H5414 the_H3588 honey_H1706 out_H0413 of_H0001 the_H3588 lion’s_H0738 body. 
+@10 His_H3588 father_H0001 went_H3381 down_H3381 to_H0413 the_H3588 woman_H0802; and_H0802 Samson_H8123 made_H6213 a_H3588 feast_H4960 there_H8033, for_H3588 the_H3588 young_H0970 men_H0970 used_H6213 to_H0413 do_H6213 so_H3651. 
+@11 When_H1961 they_H7200 saw_H7200 him_H0853, they_H7200 brought_H3947 thirty_H7970 companions_H4828 to_H1961 be_H1961 with_H0854 him_H0853. 
 
-@12 Samson said to them, “Let me tell you a riddle now. If you can tell me the answer within the seven days of the feast, and find it out, then I will give you thirty linen garments and thirty changes of clothing; 
-@13 but if you can’t tell me the answer, then you shall give me thirty linen garments and thirty changes of clothing.” 
+@12 Samson_H8123 said_H0559 to_H0559 them_H5414, “Let_H4994 me_H5414 tell_H5046 you_H5414 a_H5414 riddle_H2420 now_H4994. If_H0518 you_H5414 can_H0518 tell_H5046 me_H5414 the_H0853 answer_H0559 within the_H0853 seven_H7651 days_H3117 of_H3117 the_H0853 feast_H4960, and_H3117 find_H4672 it_H5414 out_H4672, then_H0853 I_H0518 will_H5414 give_H5414 you_H5414 thirty_H7970 linen_H5466 garments_H0899 and_H3117 thirty_H7970 changes_H2487 of_H3117 clothing_H0899; 
+@13 but_H0518 if_H0518 you_H0859 can’t_H3808 tell_H5046 me_H5414 the_H0559 answer_H0559, then_H0859 you_H0859 shall_H3808 give_H5414 me_H5414 thirty_H7970 linen_H5466 garments_H0899 and_H8085 thirty_H7970 changes_H2487 of_H0559 clothing_H0899.” 
 
-They said to him, “Tell us your riddle, that we may hear it.” 
+They_H0518 said_H0559 to_H0559 him_H5414, “Tell_H5046 us_H5414 your_H5414 riddle_H2420, that_H8085 we_H0518 may_H5414 hear_H8085 it_H5414.” 
 
-@14 He said to them, “Out of the eater came out food. Out of the strong came out sweetness.” 
+@14 He_H3117 said_H0559 to_H0559 them_H0398, “Out_H3318 of_H3117 the_H0559 eater_H0398 came_H3318 out_H3318 food_H3978. Out_H3318 of_H3117 the_H0559 strong_H5794 came_H3318 out_H3318 sweetness.” 
 
-They couldn’t in three days declare the riddle. 
-@15 On the seventh day, they said to Samson’s wife, “Entice your husband, that he may declare to us the riddle, lest we burn you and your father’s house with fire. Have you called us to impoverish us? Isn’t that so?” 
+They_H3117 couldn’t_H3808 in_H3117 three_H7969 days_H3117 declare_H5046 the_H0559 riddle_H2420. 
+@15 On_H3117 the_H0853 seventh_H7637 day_H3117, they_H3117 said_H0559 to_H0559 Samson’s_H8123 wife_H0802, “Entice your_H1961 husband_H0376, that_H3117 he_H3117 may_H1961 declare_H5046 to_H0559 us_H5046 the_H0853 riddle_H2420, lest_H6435 we_H3117 burn_H8313 you_H3117 and_H1004 your_H1961 father’s_H0001 house_H1004 with_H1004 fire_H0784. Have_H1961 you_H3117 called_H7121 us_H5046 to_H0559 impoverish_H3423 us_H5046? Isn’t_H3808 that_H3117 so_H6435?” 
 
-@16 Samson’s wife wept before him, and said, “You just hate me, and don’t love me. You’ve told a riddle to the children of my people, and haven’t told it to me.” 
+@16 Samson’s_H8123 wife_H0802 wept_H1058 before_H5921 him_H5921, and_H1121 said_H0559, “You_H5921 just hate_H8130 me_H5046, and_H1121 don’t_H3808 love_H0157 me_H5046. You’ve told_H5046 a_H5921 riddle_H2420 to_H0559 the_H0559 children_H1121 of_H1121 my_H5921 people_H5971, and_H1121 haven’t_H3808 told_H5046 it_H5921 to_H0559 me_H5046.” 
 
-He said to her, “Behold, I haven’t told my father or my mother, so why should I tell you?” 
+He_H3808 said_H0559 to_H0559 her_H5046, “Behold_H2009, I_H2009 haven’t_H3808 told_H5046 my_H5921 father_H0001 or_H3808 my_H5921 mother_H0517, so_H3808 why_H3808 should_H0001 I_H2009 tell_H5046 you_H5921?” 
 
-@17 She wept before him the seven days, while their feast lasted; and on the seventh day, he told her, because she pressed him severely; and she told the riddle to the children of her people. 
-@18 The men of the city said to him on the seventh day before the sun went down, “What is sweeter than honey? What is stronger than a lion?” 
+@17 She_H0834 wept_H1058 before_H5921 him_H5921 the_H0834 seven_H7651 days_H3117, while_H1961 their_H5921 feast_H4960 lasted_H1961; and_H1121 on_H5921 the_H0834 seventh_H7637 day_H3117, he_H0834 told_H5046 her_H5046, because_H3588 she_H0834 pressed_H6693 him_H5921 severely; and_H1121 she_H0834 told_H5046 the_H0834 riddle_H2420 to_H1961 the_H0834 children_H1121 of_H1121 her_H5046 people_H5971. 
+@18 The_H0559 men_H0376 of_H0376 the_H0559 city_H5892 said_H0559 to_H0559 him_H0935 on_H3117 the_H0559 seventh_H7637 day_H3117 before_H2962 the_H0559 sun went_H0935 down, “What_H4100 is_H4100 sweeter_H4966 than_H3808 honey_H1706? What_H4100 is_H4100 stronger_H5794 than_H3808 a_H4672 lion_H0738?” 
 
-He said to them, “If you hadn’t plowed with my heifer, you wouldn’t have found out my riddle.” 
+He_H3117 said_H0559 to_H0559 them_H0935, “If_H3884 you_H3117 hadn’t plowed_H2790 with_H0935 my_H0935 heifer_H5697, you_H3117 wouldn’t have_H0376 found_H4672 out_H4100 my_H0935 riddle_H2420.” 
 
-@19 Yahweh’s Spirit came mightily on him, and he went down to Ashkelon and struck thirty men of them. He took their plunder, then gave the changes of clothing to those who declared the riddle. His anger burned, and he went up to his father’s house. 
-@20 But Samson’s wife was given to his companion, who had been his friend. 
+@19 Yahweh’s_H3068 Spirit_H7307 came_H5927 mightily on_H5921 him_H5414, and_H3068 he_H3068 went_H5927 down_H3381 to_H3381 Ashkelon_H0831 and_H3068 struck_H5221 thirty_H7970 men_H0376 of_H1004 them_H5414. He_H3068 took_H3947 their_H3068 plunder, then_H3947 gave_H5414 the_H0853 changes_H2487 of_H1004 clothing to_H3381 those_H0376 who_H0376 declared_H5046 the_H0853 riddle_H2420. His_H5414 anger_H0639 burned_H2734, and_H3068 he_H3068 went_H5927 up_H5927 to_H3381 his_H5414 father’s_H0001 house_H1004. 
+@20 But_H1961 Samson’s_H8123 wife_H0802 was_H1961 given to_H1961 his_H1961 companion_H4828, who_H0834 had_H0834 been_H1961 his_H1961 friend. 
 
 # 15 
 ## Samson, betrayed by his father-in-law, takes revenge on the Philistines by chasing foxes
-@1 But after a while, in the time of wheat harvest, Samson visited his wife with a young goat. He said, “I will go in to my wife’s room.” 
+@1 But_H3808 after_H1961 a_H1961 while_H1961, in_H0935 the_H0853 time_H3117 of_H3117 wheat_H2406 harvest_H7105, Samson_H8123 visited_H0935 his_H5414 wife_H0802 with_H0413 a_H1961 young_H1423 goat_H5795. He_H3117 said_H0559, “I_H5414 will_H1961 go_H0935 in_H0935 to_H0413 my_H5414 wife’s_H0802 room_H2315.” 
 
-But her father wouldn’t allow him to go in. 
-@2 Her father said, “I most certainly thought that you utterly hated her; therefore I gave her to your companion. Isn’t her younger sister more beautiful than she? Please, take her instead.” 
+But_H3808 her_H0413 father_H0001 wouldn’t allow_H5414 him_H0413 to_H0413 go_H0935 in_H0935. 
+@2 Her_H5414 father_H0001 said_H0559, “I_H3588 most_H4480 certainly_H3588 thought_H0559 that_H3588 you_H3588 utterly hated_H8130 her_H5414; therefore_H1961 I_H3588 gave_H5414 her_H5414 to_H0559 your_H5414 companion_H4828. Isn’t_H3808 her_H5414 younger_H6996 sister_H0269 more_H4480 beautiful than_H4480 she_H3588? Please_H4994, take_H1961 her_H5414 instead_H8478.” 
 
-@3 Samson said to them, “This time I will be blameless in the case of the Philistines when I harm them.” 
-@4 Samson went and caught three hundred foxes, and took torches, and turned tail to tail, and put a torch in the middle between every two tails. 
-@5 When he had set the torches on fire, he let them go into the standing grain of the Philistines, and burned up both the shocks and the standing grain, and also the olive groves. 
+@3 Samson_H8123 said_H0559 to_H0559 them_H6213, “This_H3588 time_H6471 I_H0589 will_H0589 be_H3588 blameless_H5352 in_H0559 the_H0559 case_H3588 of_H0559 the_H0559 Philistines_H6430 when_H3588 I_H0589 harm_H7451 them_H6213.” 
+@4 Samson_H8123 went_H0413 and_H3967 caught_H3920 three_H7969 hundred_H3967 foxes_H7776, and_H3967 took_H3947 torches_H3940, and_H3967 turned_H6437 tail_H2180 to_H0413 tail_H2180, and_H3967 put_H7760 a_H3947 torch_H3940 in_H0413 the_H0413 middle_H8432 between_H0996 every_H0259 two_H8147 tails_H2180. 
+@5 When_H5704 he_H5704 had_H6430 set_H7971 the_H5704 torches_H3940 on_H7971 fire_H0784, he_H5704 let_H7971 them_H7971 go_H7971 into the_H5704 standing_H7054 grain_H7054 of_H3754 the_H5704 Philistines_H6430, and_H7971 burned_H1197 up_H5704 both the_H5704 shocks and_H7971 the_H5704 standing_H7054 grain_H7054, and_H7971 also_H6430 the_H5704 olive_H2132 groves_H2132. 
 
-@6 Then the Philistines said, “Who has done this?” 
+@6 Then_H3947 the_H0853 Philistines_H6430 said_H0559, “Who_H4310 has_H4310 done_H6213 this_H2063?” 
 
-They said, “Samson, the son-in-law of the Timnite, because he has taken his wife and given her to his companion.” The Philistines came up, and burned her and her father with fire. 
+They_H3588 said_H0559, “Samson_H8123, the_H0853 son-in-law_H2860 of_H0001 the_H0853 Timnite_H8554, because_H3588 he_H3588 has_H4310 taken_H3947 his_H5414 wife_H0802 and_H0802 given_H5414 her_H3947 to_H0559 his_H5414 companion_H4828.” The_H0853 Philistines_H6430 came_H5927 up_H5927, and_H0802 burned_H8313 her_H3947 and_H0802 her_H3947 father_H0001 with_H8313 fire_H0784. 
 
-@7 Samson said to them, “If you behave like this, surely I will take revenge on you, and after that I will cease.” 
-@8 He struck them hip and thigh with a great slaughter; and he went down and lived in the cave in Etam’s rock.
+@7 Samson_H8123 said_H0559 to_H0559 them_H0310, “If_H0518 you_H3588 behave_H6213 like this_H2063, surely_H3588 I_H3588 will_H0518 take_H5358 revenge_H5358 on you_H3588, and_H0310 after_H0310 that_H3588 I_H3588 will_H0518 cease_H2308.” 
+@8 He_H0853 struck_H5221 them_H0853 hip_H3409 and_H1419 thigh_H3409 with_H5921 a_H5221 great_H1419 slaughter_H4347; and_H1419 he_H0853 went_H3381 down_H3381 and_H1419 lived_H3427 in_H3427 the_H0853 cave in_H3427 Etam’s rock_H5553.
 
 ## Capture and exploitation of Simpson in Lehi
-@9 Then the Philistines went up, encamped in Judah, and spread themselves in Lehi. 
+@9 Then_H5927 the_H5927 Philistines_H6430 went_H5927 up_H5927, encamped_H2583 in_H2583 Judah_H3063, and_H3063 spread_H5203 themselves in_H2583 Lehi_H3896. 
 
-@10 The men of Judah said, “Why have you come up against us?” 
+@10 The_H0853 men_H0376 of_H0376 Judah_H3063 said_H0559, “Why_H4100 have_H0834 you_H0834 come_H5927 up_H5927 against_H5921 us_H5921?” 
 
-They said, “We have come up to bind Samson, to do to him as he has done to us.” 
+They_H0834 said_H0559, “We_H0834 have_H0834 come_H5927 up_H5927 to_H0559 bind_H0631 Samson_H8123, to_H0559 do_H6213 to_H0559 him_H5921 as_H0834 he_H0834 has_H0834 done_H6213 to_H0559 us_H5921.” 
 
-@11 Then three thousand men of Judah went down to the cave in Etam’s rock, and said to Samson, “Don’t you know that the Philistines are rulers over us? What then is this that you have done to us?” 
+@11 Then_H3651 three_H7969 thousand_H0505 men_H0376 of_H0376 Judah_H3063 went_H3381 down_H3381 to_H0413 the_H0559 cave in_H0413 Etam’s rock_H5553, and_H3063 said_H0559 to_H0413 Samson_H8123, “Don’t_H3808 you_H0834 know_H3045 that_H0834 the_H0559 Philistines_H6430 are_H0834 rulers_H4910 over_H0413 us_H0413? What_H4100 then_H3651 is_H0834 this_H2063 that_H0834 you_H0834 have_H0834 done_H6213 to_H0413 us_H0413?” 
 
-He said to them, “As they did to me, so I have done to them.” 
+He_H0834 said_H0559 to_H0413 them_H0413, “As_H0834 they_H0834 did_H6213 to_H0413 me_H0413, so_H3651 I_H0834 have_H0834 done_H6213 to_H0413 them_H0413.” 
 
-@12 They said to him, “We have come down to bind you, that we may deliver you into the hand of the Philistines.” 
+@12 They_H0559 said_H0559 to_H0559 him_H5414, “We_H6435 have_H0859 come_H3381 down_H3381 to_H0559 bind_H0631 you_H0859, that_H0559 we_H6435 may_H5414 deliver_H5414 you_H0859 into_H3027 the_H0559 hand_H3027 of_H3027 the_H0559 Philistines_H6430.” 
 
-Samson said to them, “Swear to me that you will not attack me yourselves.” 
+Samson_H8123 said_H0559 to_H0559 them_H5414, “Swear_H7650 to_H0559 me_H5414 that_H0559 you_H0859 will_H3027 not_H6435 attack_H6293 me_H5414 yourselves_H0859.” 
 
-@13 They spoke to him, saying, “No, but we will bind you securely and deliver you into their hands; but surely we will not kill you.” They bound him with two new ropes, and brought him up from the rock. 
+@13 They_H3588 spoke_H0559 to_H0559 him_H5414, saying_H0559, “No_H3808, but_H3588 we_H3588 will_H3027 bind_H0631 you_H3588 securely and_H3027 deliver_H5414 you_H3588 into_H3027 their_H5414 hands_H3027; but_H3588 surely_H3588 we_H3588 will_H3027 not_H3808 kill_H4191 you_H3588.” They_H3588 bound_H0631 him_H5414 with_H3027 two_H8147 new_H2319 ropes_H5688, and_H3027 brought_H5927 him_H5414 up_H5927 from_H4480 the_H0559 rock_H5553. 
 
-@14 When he came to Lehi, the Philistines shouted as they met him. Then Yahweh’s Spirit came mightily on him, and the ropes that were on his arms became as flax that was burned with fire; and his bands dropped from off his hands. 
-@15 He found a fresh jawbone of a donkey, put out his hand, took it, and struck a thousand men with it. 
-@16 Samson said, “With the jawbone of a donkey, heaps on heaps; with the jawbone of a donkey I have struck a thousand men.” 
-@17 When he had finished speaking, he threw the jawbone out of his hand; and that place was called Ramath Lehi.^a^ 
+@14 When_H1961 he_H0834 came_H0935 to_H0935 Lehi_H3896, the_H0834 Philistines_H6430 shouted_H7321 as_H0834 they_H0834 met_H7125 him_H5921. Then_H1961 Yahweh’s_H3068 Spirit_H7307 came_H0935 mightily on_H5921 him_H5921, and_H0935 the_H0834 ropes_H5688 that_H0834 were_H0834 on_H5921 his_H5921 arms_H2220 became_H1961 as_H0834 flax_H6593 that_H0834 was_H1961 burned_H1197 with_H3068 fire_H0784; and_H0935 his_H5921 bands dropped_H4549 from_H0935 off_H5921 his_H5921 hands_H3027. 
+@15 He_H7971 found_H4672 a_H3947 fresh_H2961 jawbone_H3895 of_H0376 a_H3947 donkey_H2543, put_H7971 out_H7971 his_H3947 hand_H3027, took_H3947 it_H3947, and_H3027 struck_H5221 a_H3947 thousand_H0505 men_H0376 with_H0376 it_H3947. 
+@16 Samson_H8123 said_H0559, “With_H0376 the_H0559 jawbone_H3895 of_H0376 a_H5221 donkey_H2543, heaps_H2565 on_H5221 heaps_H2565; with_H0376 the_H0559 jawbone_H3895 of_H0376 a_H5221 donkey_H2543 I_H0559 have_H0376 struck_H5221 a_H5221 thousand_H0505 men_H0376.” 
+@17 When_H1961 he_H1931 had_H1961 finished_H3615 speaking_H1696, he_H1931 threw_H7993 the_H7121 jawbone_H3895 out_H7993 of_H3027 his_H1961 hand_H3027; and_H3027 that_H1931 place_H4725 was_H1961 called_H7121 Ramath_H7437 Lehi.^a^ 
 ^a^[**15:17** “Ramath” means “hill” and “Lehi” means “jawbone”.]
 
-@18 He was very thirsty, and called on Yahweh and said, “You have given this great deliverance by the hand of your servant; and now shall I die of thirst, and fall into the hands of the uncircumcised?” 
+@18 He_H3068 was_H3068 very_H3966 thirsty_H6770, and_H3068 called_H7121 on_H0413 Yahweh_H3068 and_H3068 said_H0559, “You_H0859 have_H5650 given_H5414 this_H2063 great_H1419 deliverance_H8668 by_H3027 the_H0853 hand_H3027 of_H3068 your_H3068 servant_H5650; and_H3068 now_H6258 shall_H3068 I_H5414 die_H4191 of_H3068 thirst_H6772, and_H3068 fall_H5307 into_H0413 the_H0853 hands_H3027 of_H3068 the_H0853 uncircumcised_H6189?” 
 
-@19 But God split the hollow place that is in Lehi, and water came out of it. When he had drunk, his spirit came again, and he revived. Therefore its name was called En Hakkore, which is in Lehi, to this day. 
-@20 He judged Israel twenty years in the days of the Philistines. 
+@19 But_H3651 God_H0430 split_H1234 the_H0853 hollow_H4388 place_H2088 that_H0834 is_H0834 in_H5921 Lehi_H3896, and_H0430 water_H4325 came_H3318 out_H3318 of_H0430 it_H5921. When_H3117 he_H0834 had_H0834 drunk_H8354, his_H5921 spirit_H7307 came_H3318 again_H7725, and_H0430 he_H0834 revived_H7725. Therefore_H3651 its_H0853 name_H8034 was_H8034 called_H7121 En Hakkore, which_H0834 is_H0834 in_H5921 Lehi_H3896, to_H5704 this_H2088 day_H3117. 
+@20 He_H3117 judged_H8199 Israel_H3478 twenty_H6242 years_H8141 in_H8141 the_H0853 days_H3117 of_H3117 the_H0853 Philistines_H6430. 
 
 # 16 
 ## The power of the Simpsons in Gaza
-@1 Samson went to Gaza, and saw there a prostitute, and went in to her. 
-@2 The Gazites were told, “Samson is here!” They surrounded him and laid wait for him all night in the gate of the city, and were quiet all the night, saying, “Wait until morning light; then we will kill him.” 
-@3 Samson lay until midnight, then arose at midnight and took hold of the doors of the gate of the city, with the two posts, and plucked them up, bar and all, and put them on his shoulders and carried them up to the top of the mountain that is before Hebron.
+@1 Samson_H8123 went_H0935 to_H0413 Gaza_H5804, and_H0935 saw_H7200 there_H8033 a_H7200 prostitute_H2181, and_H0935 went_H0935 in_H0935 to_H0413 her_H0413. 
+@2 The_H3605 Gazites_H5841 were_H8179 told_H0559, “Samson_H8123 is_H3605 here_H2008!” They_H5704 surrounded_H5437 him_H0935 and_H0935 laid_H0935 wait_H0693 for_H3605 him_H0935 all_H3605 night_H3915 in_H0935 the_H3605 gate_H8179 of_H8179 the_H3605 city_H5892, and_H0935 were_H8179 quiet all_H3605 the_H3605 night_H3915, saying_H0559, “Wait_H0693 until_H5704 morning_H1242 light_H0216; then_H0935 we_H5704 will_H5704 kill_H2026 him_H0935.” 
+@3 Samson_H8123 lay_H7901 until_H5704 midnight, then_H6965 arose_H6965 at_H0413 midnight and_H6965 took_H5927 hold_H0270 of_H2022 the_H6440 doors_H1817 of_H2022 the_H6440 gate_H8179 of_H2022 the_H6440 city_H5892, with_H5973 the_H6440 two_H8147 posts_H4201, and_H6965 plucked_H5265 them_H0413 up_H5927, bar_H1280 and_H6965 all_H5704, and_H6965 put_H7760 them_H0413 on_H5921 his_H5921 shoulders_H3802 and_H6965 carried_H5927 them_H0413 up_H5927 to_H0413 the_H6440 top_H7218 of_H2022 the_H6440 mountain_H2022 that_H0834 is_H0834 before_H6440 Hebron_H2275.
 
 ## Samson betrayed by Delilah, blinded by the Philistines and imprisoned in Gaza
-@4 It came to pass afterward that he loved a woman in the valley of Sorek, whose name was Delilah. 
-@5 The lords of the Philistines came up to her and said to her, “Entice him, and see in which his great strength lies, and by what means we may prevail against him, that we may bind him to afflict him; and we will each give you eleven hundred pieces of silver.” 
+@4 It_H3651 came_H1961 to_H1961 pass_H1961 afterward_H0310 that_H3651 he_H0310 loved_H0157 a_H1961 woman_H0802 in_H0802 the_H0310 valley_H5158 of_H0802 Sorek, whose_H8034 name_H8034 was_H8034 Delilah_H1807. 
+@5 The_H0853 lords_H5633 of_H0376 the_H0853 Philistines_H6430 came_H5927 up_H5927 to_H0413 her_H0413 and_H3967 said_H0559 to_H0413 her_H0413, “Entice him_H0413, and_H3967 see_H7200 in_H0413 which_H4100 his_H5414 great_H1419 strength_H3581 lies, and_H3967 by_H0413 what_H4100 means_H5927 we_H0587 may_H0376 prevail_H3201 against_H0413 him_H0413, that_H7200 we_H0587 may_H0376 bind_H0631 him_H0413 to_H0413 afflict_H6031 him_H0413; and_H3967 we_H0587 will_H0376 each_H0376 give_H5414 you_H5414 eleven hundred_H3967 pieces of_H0376 silver_H3701.” 
 
-@6 Delilah said to Samson, “Please tell me where your great strength lies, and what you might be bound to afflict you.” 
+@6 Delilah_H1807 said_H0559 to_H0413 Samson_H8123, “Please_H4994 tell_H5046 me_H0413 where_H4100 your_H4994 great_H1419 strength_H3581 lies, and_H1419 what_H4100 you_H5046 might_H3581 be_H4994 bound_H0631 to_H0413 afflict_H6031 you_H5046.” 
 
-@7 Samson said to her, “If they bind me with seven green cords that were never dried, then shall I become weak, and be as another man.” 
+@7 Samson_H8123 said_H0559 to_H0413 her_H0413, “If_H0518 they_H0834 bind_H0631 me_H0413 with_H0413 seven_H7651 green_H3892 cords that_H0834 were_H0834 never_H3808 dried, then_H1961 shall_H3808 I_H0834 become_H1961 weak_H3808, and_H0120 be_H1961 as_H0834 another_H0259 man_H0120.” 
 
-@8 Then the lords of the Philistines brought up to her seven green cords which had not been dried, and she bound him with them. 
-@9 Now she had an ambush waiting in the inner room. She said to him, “The Philistines are on you, Samson!” He broke the cords as a flax thread is broken when it touches the fire. So his strength was not known. 
+@8 Then_H5927 the_H0834 lords_H5633 of_H3808 the_H0834 Philistines_H6430 brought_H5927 up_H5927 to_H5927 her seven_H7651 green_H3892 cords which_H0834 had_H0834 not_H3808 been_H0834 dried, and_H6430 she_H0834 bound_H0631 him_H5927 with_H5927 them_H5927. 
+@9 Now she_H0834 had_H0834 an_H0693 ambush_H0693 waiting in_H3427 the_H0853 inner_H2315 room_H2315. She_H0834 said_H0559 to_H0413 him_H0413, “The_H0853 Philistines_H6430 are_H0834 on_H5921 you_H0834, Samson_H8123!” He_H0834 broke_H5423 the_H0853 cords_H6616 as_H0834 a_H0834 flax thread_H6616 is_H0834 broken_H5423 when_H0834 it_H5921 touches the_H0853 fire_H0784. So_H3808 his_H5921 strength_H3581 was_H0834 not_H3808 known_H3045. 
 
-@10 Delilah said to Samson, “Behold, you have mocked me, and told me lies. Now please tell me how you might be bound.” 
+@10 Delilah_H1807 said_H0559 to_H0413 Samson_H8123, “Behold_H2009, you_H5046 have_H6258 mocked_H2048 me_H0413, and_H1696 told_H5046 me_H0413 lies_H3576. Now_H6258 please_H4994 tell_H5046 me_H0413 how_H4100 you_H5046 might be_H4994 bound_H0631.” 
 
-@11 He said to her, “If they only bind me with new ropes with which no work has been done, then shall I become weak, and be as another man.” 
+@11 He_H0834 said_H0559 to_H0413 her_H0413, “If_H0518 they_H0834 only_H0518 bind_H0631 me_H0413 with_H0413 new_H2319 ropes_H5688 with_H0413 which_H0834 no_H3808 work_H4399 has_H0834 been_H1961 done_H6213, then_H1961 shall_H3808 I_H0834 become_H1961 weak_H3808, and_H0120 be_H1961 as_H0834 another_H0259 man_H0120.” 
 
-@12 So Delilah took new ropes and bound him with them, then said to him, “The Philistines are on you, Samson!” The ambush was waiting in the inner room. He broke them off his arms like a thread. 
+@12 So_H3947 Delilah_H1807 took_H3947 new_H2319 ropes_H5688 and_H6430 bound_H0631 him_H0413 with_H0413 them_H0413, then_H3947 said_H0559 to_H0413 him_H0413, “The_H0559 Philistines_H6430 are_H6430 on_H5921 you_H5921, Samson_H8123!” The_H0559 ambush_H0693 was_H6430 waiting in_H3427 the_H0559 inner_H2315 room_H2315. He_H5921 broke_H5423 them_H0413 off_H5921 his_H5921 arms_H2220 like_H2220 a_H3947 thread_H2339. 
 
-@13 Delilah said to Samson, “Until now, you have mocked me and told me lies. Tell me with what you might be bound.” 
+@13 Delilah_H1807 said_H0559 to_H0413 Samson_H8123, “Until_H5704 now_H2008, you_H0518 have_H0518 mocked_H2048 me_H0413 and_H7218 told_H5046 me_H0413 lies_H3576. Tell_H5046 me_H0413 with_H5973 what_H4100 you_H0518 might be bound_H0631.” 
 
-He said to her, “If you weave the seven locks of my head with the fabric on the loom.” 
+He_H0518 said_H0559 to_H0413 her_H0413, “If_H0518 you_H0518 weave_H0707 the_H0853 seven_H7651 locks_H4253 of_H7218 my_H5046 head_H7218 with_H5973 the_H0853 fabric_H4545 on_H0413 the_H0853 loom.” 
 
-@14 She fastened it with the pin, and said to him, “The Philistines are on you, Samson!” He awakened out of his sleep, and plucked away the pin of the beam and the fabric. 
+@14 She fastened_H8628 it_H5921 with_H0854 the_H0559 pin_H3489, and_H6430 said_H0559 to_H0413 him_H0413, “The_H0559 Philistines_H6430 are_H6430 on_H5921 you_H5921, Samson_H8123!” He_H5921 awakened_H3364 out_H5265 of_H5921 his_H5921 sleep_H8142, and_H6430 plucked_H5265 away the_H0559 pin_H3489 of_H5921 the_H0559 beam and_H6430 the_H0559 fabric_H4545. 
 
-@15 She said to him, “How can you say, ‘I love you,’ when your heart is not with me? You have mocked me these three times, and have not told me where your great strength lies.” 
+@15 She_H3820 said_H0559 to_H0413 him_H0413, “How_H4100 can_H4100 you_H5046 say_H0559, ‘I_H2088 love_H0157 you_H5046,’ when_H0559 your_H0157 heart_H3820 is_H0369 not_H3808 with_H0854 me_H0413? You_H5046 have_H0369 mocked_H2048 me_H0413 these_H2088 three_H7969 times_H6471, and_H1419 have_H0369 not_H3808 told_H5046 me_H0413 where_H4100 your_H0157 great_H1419 strength_H3581 lies.” 
 
-@16 When she pressed him daily with her words and urged him, his soul was troubled to death. 
-@17 He told her all his heart and said to her, “No razor has ever come on my head; for I have been a Nazirite to God from my mother’s womb. If I am shaved, then my strength will go from me and I will become weak, and be like any other man.” 
+@16 When_H3588 she_H3588 pressed_H6693 him_H3605 daily_H3117 with_H3117 her_H3605 words_H1697 and_H3117 urged_H0509 him_H3605, his_H3605 soul_H5315 was_H1961 troubled to_H4191 death_H4191. 
+@17 He_H3588 told_H5046 her_H3605 all_H3605 his_H3605 heart_H3820 and_H0430 said_H0559 to_H0559 her_H3605, “No_H3808 razor has_H0430 ever_H0120 come_H1961 on_H5921 my_H3605 head_H7218; for_H3588 I_H0589 have_H1961 been_H1961 a_H1961 Nazirite_H5139 to_H0559 God_H0430 from_H4480 my_H3605 mother’s_H0517 womb_H0990. If_H0518 I_H0589 am_H0589 shaved_H1548, then_H1961 my_H3605 strength_H3581 will_H0430 go_H5927 from_H4480 me_H5046 and_H0430 I_H0589 will_H0430 become_H1961 weak_H3808, and_H0430 be_H1961 like_H1961 any_H3605 other_H3605 man_H0120.” 
 
-@18 When Delilah saw that he had told her all his heart, she sent and called for the lords of the Philistines, saying, “Come up this once, for he has told me all his heart.” Then the lords of the Philistines came up to her and brought the money in their hand. 
-@19 She made him sleep on her knees; and she called for a man and shaved off the seven locks of his head; and she began to afflict him, and his strength went from him. 
-@20 She said, “The Philistines are upon you, Samson!” 
+@18 When_H3588 Delilah_H1807 saw_H7200 that_H3588 he_H3588 had_H3588 told_H5046 her_H3605 all_H3605 his_H3605 heart_H3820, she_H3588 sent_H7971 and_H3027 called_H7121 for_H3588 the_H3605 lords_H5633 of_H3027 the_H3605 Philistines_H6430, saying_H0559, “Come_H5927 up_H5927 this_H3588 once_H6471, for_H3588 he_H3588 has_H3820 told_H5046 me_H0413 all_H3605 his_H3605 heart_H3820.” Then_H0853 the_H3605 lords_H5633 of_H3027 the_H3605 Philistines_H6430 came_H5927 up_H5927 to_H0413 her_H3605 and_H3027 brought_H5927 the_H3605 money_H3701 in_H0413 their_H3605 hand_H3027. 
+@19 She_H7121 made_H7121 him_H5921 sleep_H3462 on_H5921 her_H5921 knees_H1290; and_H0376 she_H7121 called_H7121 for_H5921 a_H7121 man_H0376 and_H0376 shaved_H1548 off_H5921 the_H0853 seven_H7651 locks_H4253 of_H0376 his_H5921 head_H7218; and_H0376 she_H7121 began_H2490 to_H5921 afflict_H6031 him_H5921, and_H0376 his_H5921 strength_H3581 went_H0376 from_H5493 him_H5921. 
+@20 She_H1931 said_H0559, “The_H0559 Philistines_H6430 are_H3068 upon_H5921 you_H3588, Samson_H8123!” 
 
-He awoke out of his sleep, and said, “I will go out as at other times, and shake myself free.” But he didn’t know that Yahweh had departed from him. 
-@21 The Philistines laid hold on him and put out his eyes; and they brought him down to Gaza and bound him with fetters of bronze; and he ground at the mill in the prison. 
-@22 However, the hair of his head began to grow again after he was shaved.
+He_H1931 awoke_H3364 out_H3318 of_H3068 his_H5921 sleep_H8142, and_H3068 said_H0559, “I_H3588 will_H3068 go_H3318 out_H3318 as_H3068 at_H5921 other_H6471 times_H6471, and_H3068 shake_H5287 myself_H3045 free_H3318.” But_H3588 he_H1931 didn’t_H3808 know_H3045 that_H3588 Yahweh_H3068 had_H3068 departed_H3318 from_H5493 him_H5921. 
+@21 The_H0853 Philistines_H6430 laid hold_H0270 on_H1961 him_H0853 and_H1004 put_H3381 out_H0853 his_H1961 eyes_H5869; and_H1004 they_H6430 brought_H3381 him_H0853 down_H3381 to_H1961 Gaza_H5804 and_H1004 bound_H0631 him_H0853 with_H1004 fetters_H5178 of_H1004 bronze_H5178; and_H1004 he_H0853 ground_H2912 at_H1004 the_H0853 mill in_H1004 the_H0853 prison_H1004. 
+@22 However, the_H0834 hair_H8181 of_H7218 his_H0834 head_H7218 began_H2490 to_H0834 grow_H6779 again_H6779 after he_H0834 was_H0834 shaved_H1548.
 
 ## Humiliation, final revenge and death of the Simpsons
-@23 The lords of the Philistines gathered together to offer a great sacrifice to Dagon their god, and to rejoice; for they said, “Our god has delivered Samson our enemy into our hand.” 
-@24 When the people saw him, they praised their god; for they said, “Our god has delivered our enemy and the destroyer of our country, who has slain many of us, into our hand.” 
+@23 The_H0853 lords_H5633 of_H0430 the_H0853 Philistines_H6430 gathered_H0622 together_H0622 to_H0559 offer_H2076 a_H5414 great_H1419 sacrifice_H2077 to_H0559 Dagon_H1712 their_H5414 god_H0430, and_H0430 to_H0559 rejoice_H8057; for_H3027 they_H0559 said_H0559, “Our_H5414 god_H0430 has_H0430 delivered_H5414 Samson_H8123 our_H5414 enemy_H0341 into_H3027 our_H5414 hand_H3027.” 
+@24 When_H3588 the_H0853 people_H5971 saw_H7200 him_H5414, they_H0834 praised_H1984 their_H5414 god_H0430; for_H3588 they_H0834 said_H0559, “Our_H5414 god_H0430 has_H0430 delivered_H5414 our_H5414 enemy_H0341 and_H0430 the_H0853 destroyer of_H0776 our_H5414 country_H0776, who_H0834 has_H0430 slain_H2491 many_H7235 of_H0776 us_H5414, into_H0776 our_H5414 hand_H3027.” 
 
-@25 When their hearts were merry, they said, “Call for Samson, that he may entertain us.” They called for Samson out of the prison; and he performed before them. They set him between the pillars; 
-@26 and Samson said to the boy who held him by the hand, “Allow me to feel the pillars on which the house rests, that I may lean on them.” 
-@27 Now the house was full of men and women; and all the lords of the Philistines were there; and there were on the roof about three thousand men and women, who saw while Samson performed. 
-@28 Samson called to Yahweh, and said, “Lord Yahweh, remember me, please, and strengthen me, please, only this once, God, that I may be at once avenged of the Philistines for my two eyes.” 
-@29 Samson took hold of the two middle pillars on which the house rested and leaned on them, the one with his right hand and the other with his left. 
-@30 Samson said, “Let me die with the Philistines!” He bowed himself with all his might; and the house fell on the lords, and on all the people who were in it. So the dead that he killed at his death were more than those who he killed in his life. 
+@25 When_H3588 their_H3588 hearts_H3820 were_H1961 merry, they_H3588 said_H0559, “Call_H7121 for_H3588 Samson_H8123, that_H3588 he_H3588 may_H1961 entertain_H7832 us_H3588.” They_H3588 called_H7121 for_H3588 Samson_H8123 out_H6440 of_H1004 the_H0853 prison_H1004; and_H1004 he_H3588 performed before_H6440 them_H0853. They_H3588 set_H5975 him_H0853 between_H0996 the_H0853 pillars_H5982; 
+@26 and_H3027 Samson_H8123 said_H0559 to_H0413 the_H0853 boy_H5288 who_H0834 held_H2388 him_H0413 by_H5921 the_H0853 hand_H3027, “Allow_H3240 me_H0413 to_H0413 feel_H3559 the_H0853 pillars_H5982 on_H5921 which_H0834 the_H0853 house_H1004 rests_H3559, that_H0834 I_H0834 may_H0834 lean_H8172 on_H5921 them_H0413.” 
+@27 Now_H0802 the_H3605 house_H1004 was_H0376 full_H4390 of_H1004 men_H0376 and_H1004 women_H0802; and_H1004 all_H3605 the_H3605 lords_H5633 of_H1004 the_H3605 Philistines_H6430 were_H0376 there_H8033; and_H1004 there_H8033 were_H0376 on_H5921 the_H3605 roof_H1406 about_H5921 three_H7969 thousand_H0505 men_H0376 and_H1004 women_H0802, who_H3605 saw_H7200 while_H5921 Samson_H8123 performed. 
+@28 Samson_H8123 called_H7121 to_H0413 Yahweh_H3068, and_H3068 said_H0559, “Lord_H3068 Yahweh_H3068, remember_H2142 me_H0413, please_H4994, and_H3068 strengthen_H2388 me_H0413, please_H4994, only_H0389 this_H2088 once_H0259, God_H0430, that_H2088 I_H2088 may_H4994 be_H3068 at_H0413 once_H0259 avenged_H5358 of_H0430 the_H0559 Philistines_H6430 for_H7121 my_H3068 two_H8147 eyes_H5869.” 
+@29 Samson_H8123 took_H0853 hold_H1004 of_H1004 the_H0853 two_H8147 middle_H8432 pillars_H5982 on_H5921 which_H0834 the_H0853 house_H1004 rested_H3559 and_H1004 leaned_H5564 on_H5921 them_H0853, the_H0853 one_H0259 with_H1004 his_H5921 right_H3225 hand_H3225 and_H1004 the_H0853 other_H0259 with_H1004 his_H5921 left_H8040. 
+@30 Samson_H8123 said_H0559, “Let_H1961 me_H5315 die_H4191 with_H5973 the_H3605 Philistines_H6430!” He_H0834 bowed_H5186 himself_H5315 with_H5973 all_H3605 his_H3605 might_H3581; and_H1004 the_H3605 house_H1004 fell_H5307 on_H5921 the_H3605 lords_H5633, and_H1004 on_H5921 all_H3605 the_H3605 people_H5971 who_H0834 were_H0834 in_H5921 it_H5921. So_H1961 the_H3605 dead_H4191 that_H0834 he_H0834 killed_H4191 at_H5921 his_H3605 death_H4191 were_H0834 more_H5921 than_H5921 those_H3605 who_H0834 he_H0834 killed_H4191 in_H5921 his_H3605 life_H5315. 
 
-@31 Then his brothers and all the house of his father came down and took him, and brought him up and buried him between Zorah and Eshtaol in the burial site of Manoah his father. He judged Israel twenty years. 
+@31 Then_H0853 his_H3605 brothers_H0251 and_H3478 all_H3605 the_H3605 house_H1004 of_H1004 his_H3605 father_H0001 came_H5927 down_H3381 and_H3478 took_H5375 him_H0853, and_H3478 brought_H5927 him_H0853 up_H5927 and_H3478 buried_H6912 him_H0853 between_H0996 Zorah_H6881 and_H3478 Eshtaol_H0847 in_H8141 the_H3605 burial_H6913 site of_H1004 Manoah_H4495 his_H3605 father_H0001. He_H1931 judged_H8199 Israel_H3478 twenty_H6242 years_H8141. 
 
 # 17 
 ## Micah and his mother established idolatry on Mount Ephraim
-@1 There was a man of the hill country of Ephraim, whose name was Micah. 
-@2 He said to his mother, “The eleven hundred pieces of silver that were taken from you, about which you uttered a curse, and also spoke it in my ears—behold, the silver is with me. I took it.” 
+@1 There_H1961 was_H8034 a_H1961 man_H0376 of_H0376 the_H1961 hill_H2022 country_H2022 of_H0376 Ephraim_H0669, whose_H0376 name_H8034 was_H8034 Micah_H4319. 
+@2 He_H0834 said_H0559 to_H0559 his_H3068 mother_H0517, “The_H0559 eleven hundred_H3967 pieces of_H1121 silver_H3701 that_H0834 were_H0834 taken_H3947 from_H1121 you_H0859, about_H3947 which_H0834 you_H0859 uttered_H0422 a_H3947 curse_H1288, and_H1121 also_H1571 spoke_H0559 it_H3947 in_H3068 my_H3068 ears_H0241—behold_H2009, the_H0559 silver_H3701 is_H0834 with_H0854 me_H0589. I_H0589 took_H3947 it_H3947.” 
 
-His mother said, “May Yahweh bless my son!” 
+His_H3068 mother_H0517 said_H0559, “May_H3068 Yahweh_H3068 bless_H1288 my_H3068 son_H1121!” 
 
-@3 He restored the eleven hundred pieces of silver to his mother, then his mother said, “I most certainly dedicate the silver to Yahweh from my hand for my son, to make a carved image and a molten image. Now therefore I will restore it to you.” 
+@3 He_H6213 restored_H7725 the_H0853 eleven hundred_H3967 pieces of_H1121 silver_H3701 to_H0559 his_H3068 mother_H0517, then_H6258 his_H3068 mother_H0517 said_H0559, “I_H6258 most certainly_H7725 dedicate_H6942 the_H0853 silver_H3701 to_H0559 Yahweh_H3068 from_H7725 my_H3068 hand_H3027 for_H3027 my_H3068 son_H1121, to_H0559 make_H6213 a_H3068 carved_H6459 image_H6459 and_H1121 a_H3068 molten image_H6459. Now_H6258 therefore_H6258 I_H6258 will_H3068 restore_H7725 it_H7725 to_H0559 you_H7725.” 
 
-@4 When he restored the money to his mother, his mother took two hundred pieces of silver, and gave them to a silversmith, who made a carved image and a molten image out of it. It was in the house of Micah. 
+@4 When_H1961 he_H6213 restored_H7725 the_H0853 money_H3701 to_H7725 his_H5414 mother_H0517, his_H5414 mother_H0517 took_H3947 two_H3947 hundred_H3967 pieces of_H1004 silver_H3701, and_H3967 gave_H5414 them_H5414 to_H7725 a_H1961 silversmith_H6884, who_H0517 made_H6213 a_H1961 carved_H6459 image_H6459 and_H3967 a_H1961 molten image_H6459 out_H0853 of_H1004 it_H5414. It_H5414 was_H1961 in_H1004 the_H0853 house_H1004 of_H1004 Micah_H4319. 
 
-@5 The man Micah had a house of gods, and he made an ephod, and teraphim,^a^ and consecrated one of his sons, who became his priest. 
-@6 In those days there was no king in Israel. Everyone did that which was right in his own eyes.
+@5 The_H0853 man_H0376 Micah_H4318 had_H1961 a_H1961 house_H1004 of_H1121 gods_H0430, and_H1121 he_H0430 made_H6213 an_H1961 ephod_H0646, and_H1121 teraphim_H8655,^a^ and_H1121 consecrated one_H0259 of_H1121 his_H1961 sons_H1121, who_H0376 became_H1961 his_H1961 priest_H3548. 
+@6 In_H3478 those_H0376 days_H3117 there_H0369 was_H0369 no_H0369 king_H4428 in_H3478 Israel_H3478. Everyone_H0376 did_H6213 that_H3117 which_H5869 was_H0369 right_H3477 in_H3478 his_H0376 own_H0376 eyes_H5869.
 
 ## Micah appoints a wandering Levite from Judah as a priest at his sanctuary
-@7 There was a young man out of Bethlehem Judah, of the family of Judah, who was a Levite; and he lived there. 
-@8 The man departed out of the city, out of Bethlehem Judah, to live where he could find a place, and he came to the hill country of Ephraim, to the house of Micah, as he traveled. 
-@9 Micah said to him, “Where did you come from?” 
+@7 There_H8033 was_H1961 a_H1961 young_H5288 man_H5288 out_H8033 of_H4940 Bethlehem_H1035 Judah_H3063, of_H4940 the_H1961 family_H4940 of_H4940 Judah_H3063, who_H1931 was_H1961 a_H1961 Levite_H3881; and_H3063 he_H1931 lived_H1481 there_H8033. 
+@8 The_H0834 man_H0376 departed_H0935 out_H4672 of_H1004 the_H0834 city_H5892, out_H4672 of_H1004 Bethlehem_H1035 Judah_H3063, to_H0935 live_H1481 where_H0834 he_H0834 could_H0376 find_H4672 a_H4672 place_H1004, and_H0935 he_H0834 came_H0935 to_H0935 the_H0834 hill_H2022 country_H2022 of_H1004 Ephraim_H0669, to_H0935 the_H0834 house_H1004 of_H1004 Micah_H4318, as_H0834 he_H0834 traveled_H0935. 
+@9 Micah_H4318 said_H0559 to_H0413 him_H0413, “Where_H0834 did_H0834 you_H0834 come_H0935 from_H0935?” 
 ^a^[**17:5** teraphim were household idols that may have been associated with inheritance rights to the household property.]
 
-He said to him, “I am a Levite of Bethlehem Judah, and I am looking for a place to live.” 
+He_H0834 said_H0559 to_H0413 him_H0413, “I_H0834 am_H0595 a_H4672 Levite_H3881 of_H0935 Bethlehem_H1035 Judah_H3063, and_H1980 I_H0834 am_H0595 looking_H4672 for_H0413 a_H4672 place_H0935 to_H0413 live_H1980.” 
 
-@10 Micah said to him, “Dwell with me, and be to me a father and a priest, and I will give you ten pieces of silver per year, a suit of clothing, and your food.” So the Levite went in. 
-@11 The Levite was content to dwell with the man; and the young man was to him as one of his sons. 
-@12 Micah consecrated the Levite, and the young man became his priest, and was in the house of Micah. 
-@13 Then Micah said, “Now I know that Yahweh will do good to me, since I have a Levite as my priest.” 
+@10 Micah_H4318 said_H0559 to_H0559 him_H5414, “Dwell_H3427 with_H3427 me_H5414, and_H3701 be_H1961 to_H0559 me_H5414 a_H1961 father_H0001 and_H3701 a_H1961 priest_H3548, and_H3701 I_H0595 will_H1961 give_H5414 you_H5414 ten_H6235 pieces of_H3117 silver_H3701 per year_H3117, a_H1961 suit_H6187 of_H3117 clothing_H0899, and_H3701 your_H5414 food.” So_H1961 the_H0559 Levite_H3881 went_H1961 in_H3427. 
+@11 The_H1961 Levite_H3881 was_H1961 content to_H1961 dwell_H3427 with_H0854 the_H1961 man_H0376; and_H1121 the_H1961 young_H5288 man_H0376 was_H1961 to_H1961 him_H0854 as_H1961 one_H0259 of_H1121 his_H1961 sons_H1121. 
+@12 Micah_H4318 consecrated the_H0853 Levite_H3881, and_H3027 the_H0853 young_H5288 man_H5288 became_H1961 his_H1961 priest_H3548, and_H3027 was_H1961 in_H1004 the_H0853 house_H1004 of_H1004 Micah_H4318. 
+@13 Then_H1961 Micah_H4318 said_H0559, “Now_H6258 I_H3588 know_H3045 that_H3588 Yahweh_H3068 will_H3068 do_H3190 good_H3190 to_H0559 me_H1961, since_H3588 I_H3588 have_H1961 a_H1961 Levite_H3881 as_H1961 my_H3068 priest_H3548.” 
 
 # 18 
 ## The Danish spies in Micha's house; the result of his exploration of the area around the city of Lais
-@1 In those days there was no king in Israel. In those days the tribe of the Danites sought an inheritance to dwell in; for to that day, their inheritance had not fallen to them among the tribes of Israel. 
-@2 The children of Dan sent five men of their family from their whole number, men of valor, from Zorah and from Eshtaol, to spy out the land and to search it. They said to them, “Go, explore the land!” 
+@1 In_H3427 those_H1992 days_H3117 there_H0369 was_H0369 no_H3808 king_H4428 in_H3427 Israel_H3478. In_H3427 those_H1992 days_H3117 the_H3588 tribe_H7626 of_H4428 the_H3588 Danites_H1839 sought_H1245 an_H3588 inheritance_H5159 to_H5704 dwell_H3427 in_H3427; for_H3588 to_H5704 that_H3588 day_H3117, their_H1992 inheritance_H5159 had_H3478 not_H3808 fallen_H5307 to_H5704 them_H1992 among_H8432 the_H3588 tribes_H7626 of_H4428 Israel_H3478. 
+@2 The_H0853 children_H1121 of_H1121 Dan_H1835 sent_H7971 five_H2568 men_H0376 of_H1121 their_H7971 family_H4940 from_H0935 their_H7971 whole_H7098 number_H7098, men_H0376 of_H1121 valor_H2428, from_H0935 Zorah_H6881 and_H1121 from_H0935 Eshtaol_H0847, to_H0413 spy_H7270 out_H7971 the_H0853 land_H0776 and_H1121 to_H0413 search_H2713 it_H8033. They_H8033 said_H0559 to_H0413 them_H0413, “Go_H0935, explore_H2713 the_H0853 land_H0776!” 
 
-They came to the hill country of Ephraim, to the house of Micah, and lodged there. 
-@3 When they were by the house of Micah, they knew the voice of the young man the Levite; so they went over there and said to him, “Who brought you here? What do you do in this place? What do you have here?” 
+They_H8033 came_H0935 to_H0413 the_H0853 hill_H2022 country_H2022 of_H1121 Ephraim_H0669, to_H0413 the_H0853 house_H1004 of_H1121 Micah_H4318, and_H1121 lodged there_H8033. 
+@3 When_H0935 they_H1992 were_H1992 by_H0935 the_H0853 house_H1004 of_H1004 Micah_H4318, they_H1992 knew the_H0853 voice_H6963 of_H1004 the_H0853 young_H5288 man_H5288 the_H0853 Levite_H3881; so_H6213 they_H1992 went_H0935 over_H0853 there_H8033 and_H0935 said_H0559 to_H0559 him_H0853, “Who_H4310 brought_H0935 you_H0859 here_H6311? What_H4100 do_H6213 you_H0859 do_H6213 in_H0935 this_H2088 place_H1004? What_H4100 do_H6213 you_H0859 have_H0859 here_H6311?” 
 
-@4 He said to them, “Thus and thus has Micah dealt with me, and he has hired me, and I have become his priest.” 
+@4 He_H6213 said_H0559 to_H0413 them_H0413, “Thus_H2088 and_H3548 thus_H2088 has_H1961 Micah_H4318 dealt with_H0413 me_H0413, and_H3548 he_H6213 has_H1961 hired_H7936 me_H0413, and_H3548 I_H2088 have_H1961 become_H1961 his_H1961 priest_H3548.” 
 
-@5 They said to him, “Please ask counsel of God, that we may know whether our way which we go shall be prosperous.” 
+@5 They_H0834 said_H0559 to_H0559 him_H5921, “Please_H4994 ask_H7592 counsel of_H0430 God_H0430, that_H0834 we_H0587 may_H4994 know_H3045 whether our_H5921 way_H1870 which_H0834 we_H0587 go_H1980 shall_H0834 be_H4994 prosperous_H6743.” 
 
-@6 The priest said to them, “Go in peace. Your way in which you go is before Yahweh.” 
+@6 The_H0559 priest_H3548 said_H0559 to_H0559 them_H1870, “Go in_H3068 peace_H7965. Your_H3068 way_H1870 in_H3068 which_H0834 you_H0834 go is_H0834 before_H5227 Yahweh_H3068.” 
 
-@7 Then the five men departed and came to Laish and saw the people who were there, how they lived in safety, in the way of the Sidonians, quiet and secure; for there was no one in the land possessing authority, that might put them to shame in anything, and they were far from the Sidonians, and had no dealings with anyone else. 
-@8 They came to their brothers at Zorah and Eshtaol; and their brothers asked them, “What do you say?” 
+@7 Then_H0853 the_H0853 five_H2568 men_H0376 departed_H0935 and_H0935 came_H0935 to_H0935 Laish and_H0935 saw_H7200 the_H0853 people_H5971 who_H0834 were_H0834 there_H0369, how_H0834 they_H1992 lived_H3427 in_H3427 safety_H0983, in_H3427 the_H0853 way_H1697 of_H0776 the_H0853 Sidonians_H6722, quiet_H8252 and_H0935 secure_H0982; for_H0776 there_H0369 was_H0369 no_H0369 one_H0376 in_H3427 the_H0853 land_H0776 possessing authority_H1697, that_H0834 might_H0834 put_H0935 them_H1992 to_H0935 shame_H3637 in_H3427 anything_H1697, and_H0935 they_H1992 were_H0834 far_H7350 from_H0935 the_H0853 Sidonians_H6722, and_H0935 had_H0834 no_H0369 dealings_H1697 with_H5973 anyone_H0376 else. 
+@8 They_H0559 came_H0935 to_H0413 their_H0935 brothers_H0251 at_H0413 Zorah_H6881 and_H0935 Eshtaol_H0847; and_H0935 their_H0935 brothers_H0251 asked_H0559 them_H0413, “What_H4100 do_H4100 you_H0859 say_H0559?” 
 
-@9 They said, “Arise, and let’s go up against them; for we have seen the land, and behold, it is very good. Do you stand still? Don’t be slothful to go and to enter in to possess the land. 
-@10 When you go, you will come to an unsuspecting people, and the land is large; for God has given it into your hand, a place where there is no lack of anything that is in the earth.”
+@9 They_H3588 said_H0559, “Arise_H6965, and_H0935 let’s go_H0935 up_H5927 against_H5921 them_H0853; for_H3588 we_H3588 have_H0776 seen_H7200 the_H0853 land_H0776, and_H0935 behold_H2009, it_H5921 is_H0776 very_H3966 good_H2896. Do_H0408 you_H0859 stand_H6965 still_H2814? Don’t_H0408 be_H0408 slothful to_H0559 go_H0935 and_H0935 to_H0559 enter_H0935 in_H5921 to_H0559 possess_H3423 the_H0853 land_H0776. 
+@10 When_H3588 you_H0834 go_H0935, you_H0834 will_H0430 come_H0935 to_H0413 an_H5414 unsuspecting_H0982 people_H5971, and_H0935 the_H3605 land_H0776 is_H0369 large; for_H3588 God_H0430 has_H0430 given_H5414 it_H5414 into_H0413 your_H3605 hand_H3027, a_H3588 place_H4725 where_H0834 there_H8033 is_H0369 no_H0369 lack_H4270 of_H0776 anything_H3605 that_H0834 is_H0369 in_H0935 the_H3605 earth_H0776.”
 
 ## The Danites sent to conquer the city of Laish rob Micah's shrines along the way and take the priest with them
-@11 The family of the Danites set out from Zorah and Eshtaol with six hundred men armed with weapons of war. 
-@12 They went up and encamped in Kiriath Jearim in Judah. Therefore they call that place Mahaneh Dan to this day. Behold, it is behind Kiriath Jearim. 
-@13 They passed from there to the hill country of Ephraim, and came to the house of Micah. 
+@11 The_H8033 family_H4940 of_H0376 the_H8033 Danites_H1839 set_H5265 out_H5265 from_H5265 Zorah_H6881 and_H3967 Eshtaol_H0847 with_H0376 six_H8337 hundred_H3967 men_H0376 armed_H2296 with_H0376 weapons_H3627 of_H0376 war_H4421. 
+@12 They_H3651 went_H5927 up_H5927 and_H3063 encamped_H2583 in_H5921 Kiriath_H7157 Jearim in_H5921 Judah_H3063. Therefore_H3651 they_H3651 call_H7121 that_H3117 place_H4725 Mahaneh Dan to_H5704 this_H2088 day_H3117. Behold_H2009, it_H1931 is_H2088 behind_H0310 Kiriath_H7157 Jearim. 
+@13 They_H8033 passed_H5674 from_H0935 there_H8033 to_H0935 the_H0935 hill_H2022 country_H2022 of_H1004 Ephraim_H0669, and_H0935 came_H0935 to_H0935 the_H0935 house_H1004 of_H1004 Micah_H4318. 
 
-@14 Then the five men who went to spy out the country of Laish answered and said to their brothers, “Do you know that there is in these houses an ephod, and teraphim,^a^ and a carved image, and a molten image? Now therefore consider what you have to do.” 
-@15 They went over there and came to the house of the young Levite man, even to the house of Micah, and asked him how he was doing. 
-@16 The six hundred men armed with their weapons of war, who were of the children of Dan, stood by the entrance of the gate. 
-@17 The five men who went to spy out the land went up, and came in there, and took the engraved image, the ephod, the teraphim, and the molten image; and the priest stood by the entrance of the gate with the six hundred men armed with weapons of war. 
+@14 Then_H6030 the_H0853 five_H2568 men_H0376 who_H0376 went_H1980 to_H0413 spy_H7270 out_H3045 the_H0853 country_H0776 of_H1004 Laish answered_H0559 and_H1980 said_H0559 to_H0413 their_H3588 brothers_H0251, “Do_H6213 you_H3588 know_H3045 that_H3588 there_H3426 is_H4100 in_H1980 these_H0428 houses_H1004 an_H3588 ephod_H0646, and_H1980 teraphim_H8655,^a^ and_H1980 a_H3588 carved_H6459 image_H6459, and_H1980 a_H3588 molten image_H6459? Now_H6258 therefore_H6258 consider_H3045 what_H4100 you_H3588 have_H3426 to_H0413 do_H6213.” 
+@15 They_H8033 went_H0935 over_H0413 there_H8033 and_H0935 came_H0935 to_H0413 the_H0413 house_H1004 of_H1004 the_H0413 young_H5288 Levite_H3881 man_H5288, even to_H0413 the_H0413 house_H1004 of_H1004 Micah_H4318, and_H0935 asked_H7592 him_H0413 how_H7965 he_H8033 was_H1004 doing. 
+@16 The_H0834 six_H8337 hundred_H3967 men_H0376 armed_H2296 with_H0376 their_H0834 weapons_H3627 of_H1121 war_H4421, who_H0834 were_H0834 of_H1121 the_H0834 children_H1121 of_H1121 Dan_H1835, stood_H5324 by_H0376 the_H0834 entrance_H6607 of_H1121 the_H0834 gate_H8179. 
+@17 The_H0853 five_H2568 men_H0376 who_H0376 went_H1980 to_H0935 spy_H7270 out_H7270 the_H0853 land_H0776 went_H1980 up_H5927, and_H1980 came_H0935 in_H1980 there_H8033, and_H1980 took_H3947 the_H0853 engraved_H6456 image, the_H0853 ephod_H0646, the_H0853 teraphim_H8655, and_H1980 the_H0853 molten image; and_H1980 the_H0853 priest_H3548 stood_H5324 by_H0935 the_H0853 entrance_H6607 of_H0776 the_H0853 gate_H8179 with_H1980 the_H0853 six_H8337 hundred_H3967 men_H0376 armed_H2296 with_H1980 weapons_H3627 of_H0776 war_H4421. 
 ^a^[**18:14** teraphim were household idols that may have been associated with inheritance rights to the household property.]
 
-@18 When these went into Micah’s house, and took the engraved image, the ephod, the teraphim, and the molten image, the priest said to them, “What are you doing?” 
+@18 When_H0935 these_H0428 went_H0935 into_H0413 Micah’s_H4318 house_H1004, and_H0935 took_H3947 the_H0853 engraved image_H6459, the_H0853 ephod_H0646, the_H0853 teraphim_H8655, and_H0935 the_H0853 molten image_H6459, the_H0853 priest_H3548 said_H0559 to_H0413 them_H0413, “What_H4100 are_H0428 you_H0859 doing_H6213?” 
 
-@19 They said to him, “Hold your peace, put your hand on your mouth, and go with us. Be a father and a priest to us. Is it better for you to be priest to the house of one man, or to be priest to a tribe and a family in Israel?” 
+@19 They_H5921 said_H0559 to_H0559 him_H5921, “Hold_H1004 your_H5921 peace, put_H7760 your_H5921 hand_H3027 on_H5921 your_H5921 mouth_H6310, and_H3478 go_H1961 with_H5973 us_H5921. Be_H1961 a_H1961 father_H0001 and_H3478 a_H1961 priest_H3548 to_H0559 us_H5921. Is_H0376 it_H7760 better_H2896 for_H5921 you_H5921 to_H0559 be_H1961 priest_H3548 to_H0559 the_H0559 house_H1004 of_H1004 one_H0259 man_H0376, or_H0176 to_H0559 be_H1961 priest_H3548 to_H0559 a_H1961 tribe_H7626 and_H3478 a_H1961 family_H4940 in_H5921 Israel_H3478?” 
 
-@20 The priest’s heart was glad, and he took the ephod, the teraphim, and the engraved image, and went with the people. 
-@21 So they turned and departed, and put the little ones, the livestock, and the goods before them. 
-@22 When they were a good way from the house of Micah, the men who were in the houses near Micah’s house gathered together and overtook the children of Dan. 
-@23 As they called to the children of Dan, they turned their faces, and said to Micah, “What ails you, that you come with such a company?” 
+@20 The_H0853 priest’s_H3548 heart_H3820 was_H3820 glad_H3190, and_H0935 he_H0853 took_H3947 the_H0853 ephod_H0646, the_H0853 teraphim_H8655, and_H0935 the_H0853 engraved image_H6459, and_H0935 went_H0935 with_H0935 the_H0853 people_H5971. 
+@21 So_H7760 they_H7760 turned_H6437 and_H6440 departed, and_H6440 put_H7760 the_H0853 little_H2945 ones_H2945, the_H0853 livestock_H4735, and_H6440 the_H0853 goods before_H6440 them_H0853. 
+@22 When_H0834 they_H1992 were_H0834 a_H0834 good_H7368 way from_H0376 the_H0853 house_H1004 of_H1121 Micah_H4318, the_H0853 men_H0376 who_H0834 were_H0834 in_H1004 the_H0853 houses_H1004 near_H5973 Micah’s_H4318 house_H1004 gathered together_H2199 and_H1121 overtook_H1692 the_H0853 children_H1121 of_H1121 Dan_H1835. 
+@23 As_H1121 they_H3588 called_H7121 to_H0413 the_H0559 children_H1121 of_H1121 Dan_H1835, they_H3588 turned_H5437 their_H3588 faces_H6440, and_H1121 said_H0559 to_H0413 Micah_H4318, “What_H4100 ails you_H3588, that_H3588 you_H3588 come_H5437 with_H0413 such a_H3588 company?” 
 
-@24 He said, “You have taken away my gods which I made, and the priest, and have gone away! What more do I have? How can you ask me, ‘What ails you?’” 
+@24 He_H0834 said_H0559, “You_H0834 have_H0834 taken_H3947 away_H3947 my_H3947 gods_H0430 which_H0834 I_H0834 made_H6213, and_H0430 the_H0853 priest_H3548, and_H0430 have_H0834 gone away_H3947! What_H4100 more_H5750 do_H6213 I_H0834 have_H0834? How_H4100 can_H4100 you_H0834 ask_H0559 me_H0413, ‘What_H4100 ails you_H0834?’” 
 
-@25 The children of Dan said to him, “Don’t let your voice be heard among us, lest angry fellows fall on you, and you lose your life, with the lives of your household.” 
+@25 The_H0559 children_H1121 of_H1121 Dan_H1835 said_H0559 to_H0413 him_H0413, “Don’t_H0408 let_H0408 your_H8085 voice_H6963 be_H0408 heard_H8085 among_H5973 us_H0413, lest_H6435 angry fellows_H0376 fall_H6293 on_H0413 you_H5973, and_H1121 you_H5973 lose_H0622 your_H8085 life_H5315, with_H5973 the_H0559 lives_H5315 of_H1121 your_H8085 household_H1004.” 
 
-@26 The children of Dan went their way; and when Micah saw that they were too strong for him, he turned and went back to his house.
+@26 The_H3588 children_H1121 of_H1121 Dan_H1835 went_H7725 their_H1992 way_H1870; and_H1121 when_H3588 Micah_H4318 saw_H7200 that_H3588 they_H1992 were_H1121 too_H4480 strong_H2389 for_H3588 him_H0413, he_H3588 turned_H6437 and_H1121 went_H7725 back_H7725 to_H0413 his_H7725 house_H1004.
 
 ## The Danites conquer Lais and establish the Micah painting service and the Mosaic Jonathan priesthood there
-@27 They took that which Micah had made, and the priest whom he had, and came to Laish, to a people quiet and unsuspecting, and struck them with the edge of the sword; then they burned the city with fire. 
-@28 There was no deliverer, because it was far from Sidon, and they had no dealings with anyone else; and it was in the valley that lies by Beth Rehob. They built the city and lived in it. 
-@29 They called the name of the city Dan, after the name of Dan their father, who was born to Israel; however the name of the city used to be Laish. 
-@30 The children of Dan set up for themselves the engraved image; and Jonathan, the son of Gershom, the son of Moses, and his sons were priests to the tribe of the Danites until the day of the captivity of the land. 
-@31 So they set up for themselves Micah’s engraved image which he made, and it remained all the time that God’s house was in Shiloh. 
+@27 They_H1992 took_H3947 that_H0834 which_H0834 Micah_H4318 had_H0834 made_H6213, and_H0935 the_H0853 priest_H3548 whom_H0834 he_H0834 had_H0834, and_H0935 came_H0935 to_H0935 Laish, to_H0935 a_H1961 people_H5971 quiet_H8252 and_H0935 unsuspecting_H0982, and_H0935 struck_H5221 them_H1992 with_H8313 the_H0853 edge_H6310 of_H5921 the_H0853 sword_H2719; then_H1961 they_H1992 burned_H8313 the_H0853 city_H5892 with_H8313 fire_H0784. 
+@28 There_H0369 was_H0369 no_H0369 deliverer_H5337, because_H3588 it_H1931 was_H0369 far_H7350 from_H5337 Sidon_H6721, and_H0120 they_H0834 had_H0834 no_H0369 dealings_H1697 with_H5973 anyone_H0120 else; and_H0120 it_H1931 was_H0369 in_H3427 the_H0853 valley_H6010 that_H0834 lies_H0834 by_H3427 Beth Rehob. They_H0834 built_H1129 the_H0853 city_H5892 and_H0120 lived_H3427 in_H3427 it_H1931. 
+@29 They_H0834 called_H7121 the_H0834 name_H8034 of_H3205 the_H0834 city_H5892 Dan_H1835, after_H8034 the_H0834 name_H8034 of_H3205 Dan_H1835 their_H0834 father_H0001, who_H0834 was_H8034 born_H3205 to_H3478 Israel_H3478; however_H0199 the_H0834 name_H8034 of_H3205 the_H0834 city_H5892 used to_H3478 be_H8034 Laish. 
+@30 The_H0853 children_H1121 of_H1121 Dan_H1835 set_H6965 up_H6965 for_H0776 themselves the_H0853 engraved image_H6459; and_H1121 Jonathan_H3129, the_H0853 son_H1121 of_H1121 Gershom_H1647, the_H0853 son_H1121 of_H1121 Moses, and_H1121 his_H1961 sons_H1121 were_H1961 priests_H3548 to_H5704 the_H0853 tribe_H7626 of_H1121 the_H0853 Danites_H1839 until_H5704 the_H0853 day_H3117 of_H1121 the_H0853 captivity_H1540 of_H1121 the_H0853 land_H0776. 
+@31 So_H6213 they_H0834 set_H7760 up_H7760 for_H1004 themselves_H7760 Micah’s_H4318 engraved image_H6459 which_H0834 he_H0834 made_H6213, and_H0430 it_H7760 remained_H1961 all_H3605 the_H3605 time_H3117 that_H0834 God’s_H0430 house_H1004 was_H1961 in_H0430 Shiloh_H7887. 
 
 # 19 
 ## The visit of a Levite to Bethlehem to retrieve his concubine
-@1 In those days, when there was no king in Israel, there was a certain Levite living on the farther side of the hill country of Ephraim, who took for himself a concubine out of Bethlehem Judah. 
-@2 His concubine played the prostitute against him, and went away from him to her father’s house to Bethlehem Judah, and was there for four months. 
-@3 Her husband arose and went after her to speak kindly to her, to bring her again, having his servant with him and a couple of donkeys. She brought him into her father’s house; and when the father of the young lady saw him, he rejoiced to meet him. 
-@4 His father-in-law, the young lady’s father, kept him there; and he stayed with him three days. So they ate and drank, and stayed there. 
+@1 In_H3478 those_H0376 days_H3117, when_H1961 there_H0369 was_H0369 no_H0369 king_H4428 in_H3478 Israel_H3478, there_H0369 was_H0369 a_H1961 certain_H0376 Levite_H3881 living_H1481 on_H3117 the_H3947 farther side_H1992 of_H4428 the_H3947 hill_H2022 country_H2022 of_H4428 Ephraim_H0669, who_H0376 took_H3947 for_H3117 himself_H3117 a_H1961 concubine_H6370 out_H0376 of_H4428 Bethlehem_H1035 Judah_H3063. 
+@2 His_H5921 concubine_H6370 played_H2181 the_H0853 prostitute_H2181 against_H5921 him_H0413, and_H3063 went_H0413 away from_H5921 him_H0413 to_H0413 her_H0413 father’s_H0001 house_H1004 to_H0413 Bethlehem_H1035 Judah_H3063, and_H3063 was_H1961 there_H8033 for_H5921 four_H0702 months_H2320. 
+@3 Her_H5921 husband_H0376 arose_H6965 and_H0935 went_H0935 after_H0310 her_H5921 to_H0935 speak_H1696 kindly_H3820 to_H0935 her_H5921, to_H0935 bring_H0935 her_H5921 again_H7725, having his_H5921 servant_H5288 with_H5973 him_H5921 and_H0935 a_H7200 couple_H6776 of_H1004 donkeys_H2543. She_H3820 brought_H0935 him_H5921 into_H0935 her_H5921 father’s_H0001 house_H1004; and_H0935 when_H7200 the_H5921 father_H0001 of_H1004 the_H5921 young_H5288 lady_H5291 saw_H7200 him_H5921, he_H0310 rejoiced_H8055 to_H0935 meet_H7125 him_H5921. 
+@4 His_H2388 father-in-law_H2859, the_H3117 young_H5291 lady’s father_H0001, kept_H0398 him_H0854 there_H8033; and_H0398 he_H3117 stayed_H3427 with_H0854 him_H0854 three_H7969 days_H3117. So_H3427 they_H8033 ate_H0398 and_H0398 drank_H8354, and_H0398 stayed_H3427 there_H8033. 
 
-@5 On the fourth day, they got up early in the morning, and he rose up to depart. The young lady’s father said to his son-in-law, “Strengthen your heart with a morsel of bread, and afterward you shall go your way.” 
-@6 So they sat down, ate, and drank, both of them together. Then the young lady’s father said to the man, “Please be pleased to stay all night, and let your heart be merry.” 
-@7 The man rose up to depart; but his father-in-law urged him, and he stayed there again. 
-@8 He arose early in the morning on the fifth day to depart; and the young lady’s father said, “Please strengthen your heart and stay until the day declines;” and they both ate. 
+@5 On_H3117 the_H0559 fourth_H7243 day_H3117, they_H3117 got_H6965 up_H6965 early_H7925 in_H0413 the_H0559 morning_H1242, and_H6965 he_H0310 rose_H6965 up_H6965 to_H0413 depart. The_H0559 young_H5291 lady’s father_H0001 said_H0559 to_H0413 his_H1961 son-in-law_H2860, “Strengthen_H6965 your_H1961 heart_H3820 with_H0413 a_H1961 morsel_H6595 of_H3117 bread_H3899, and_H6965 afterward_H0310 you_H3117 shall_H3117 go_H6965 your_H1961 way.” 
+@6 So_H3427 they_H0376 sat_H3427 down_H3427, ate_H0398, and_H0398 drank_H8354, both_H8147 of_H0376 them_H0413 together_H3162. Then_H0559 the_H0559 young_H5291 lady’s father_H0001 said_H0559 to_H0413 the_H0559 man_H0376, “Please_H4994 be_H0376 pleased_H2974 to_H0413 stay_H3427 all_H3162 night, and_H0398 let_H4994 your_H0398 heart_H3820 be_H0376 merry_H3190.” 
+@7 The_H7725 man_H0376 rose_H6965 up_H6965 to_H7725 depart; but_H0376 his_H7725 father-in-law_H2859 urged_H6484 him_H7725, and_H6965 he_H8033 stayed_H3885 there_H8033 again_H7725. 
+@8 He_H5704 arose_H7925 early_H7925 in_H3117 the_H0559 morning_H1242 on_H3117 the_H0559 fifth_H2549 day_H3117 to_H0559 depart; and_H0398 the_H0559 young_H5291 lady’s father_H0001 said_H0559, “Please_H4994 strengthen your_H5186 heart_H3824 and_H0398 stay until_H5704 the_H0559 day_H3117 declines;” and_H0398 they_H3117 both_H8147 ate_H0398. 
 
-@9 When the man rose up to depart, he, and his concubine, and his servant, his father-in-law, the young lady’s father, said to him, “Behold, now the day draws toward evening, please stay all night. Behold, the day is ending. Stay here, that your heart may be merry; and tomorrow go on your way early, that you may go home.” 
-@10 But the man wouldn’t stay that night, but he rose up and went near Jebus (also called Jerusalem). With him were a couple of saddled donkeys. His concubine also was with him.
+@9 When_H3117 the_H0559 man_H0376 rose_H6965 up_H6965 to_H0559 depart_H1980, he_H1931, and_H1980 his_H0376 concubine_H6370, and_H1980 his_H0376 servant_H5288, his_H0376 father-in-law_H2859, the_H0559 young_H5288 lady’s father_H0001, said_H0559 to_H0559 him_H1931, “Behold_H2009, now_H4994 the_H0559 day_H3117 draws toward_H1870 evening_H6150, please_H4994 stay_H3885 all_H3117 night. Behold_H2009, the_H0559 day_H3117 is_H1931 ending. Stay_H3885 here_H6311, that_H3117 your_H4994 heart_H3824 may_H4994 be_H0376 merry_H3190; and_H1980 tomorrow_H4279 go_H1980 on_H3117 your_H4994 way_H1870 early_H7925, that_H3117 you_H3117 may_H4994 go_H1980 home_H0168.” 
+@10 But_H3808 the_H0935 man_H0376 wouldn’t stay_H3885 that_H1931 night, but_H3808 he_H1931 rose_H6965 up_H6965 and_H0935 went_H0935 near_H5973 Jebus_H2982 (also_H0935 called Jerusalem_H3389). With_H5973 him_H5973 were_H0376 a_H0935 couple_H6776 of_H0376 saddled_H2280 donkeys_H2543. His_H0376 concubine_H6370 also_H0935 was_H1931 with_H5973 him_H5973.
 
 ## Contemplation and reception of man in Gibeah
-@11 When they were by Jebus, the day was far spent; and the servant said to his master, “Please come and let’s enter into this city of the Jebusites, and stay in it.” 
+@11 When_H3117 they_H1992 were_H1992 by_H0413 Jebus_H2982, the_H0559 day_H3117 was_H3117 far_H0413 spent_H3885; and_H3117 the_H0559 servant_H5288 said_H0559 to_H0413 his_H5493 master_H0113, “Please_H4994 come_H4994 and_H3117 let’s_H4994 enter into_H0413 this_H2063 city_H5892 of_H3117 the_H0559 Jebusites_H2983, and_H3117 stay_H3885 in_H0413 it.” 
 
-@12 His master said to him, “We won’t enter into the city of a foreigner that is not of the children of Israel; but we will pass over to Gibeah.” 
-@13 He said to his servant, “Come and let’s draw near to one of these places; and we will lodge in Gibeah, or in Ramah.” 
-@14 So they passed on and went their way; and the sun went down on them near Gibeah, which belongs to Benjamin. 
-@15 They went over there, to go in to stay in Gibeah. He went in, and sat down in the street of the city; for there was no one who took them into his house to stay. 
+@12 His_H0834 master_H0113 said_H0559 to_H0413 him_H0413, “We_H0834 won’t_H3808 enter into_H0413 the_H0559 city_H5892 of_H1121 a_H0834 foreigner_H5237 that_H0834 is_H0834 not_H3808 of_H1121 the_H0559 children_H1121 of_H1121 Israel_H3478; but_H3808 we_H0834 will_H0834 pass_H5674 over_H0413 to_H0413 Gibeah_H1390.” 
+@13 He_H0559 said_H0559 to_H0559 his_H7126 servant_H5288, “Come_H7126 and_H5288 let’s draw_H7126 near_H7126 to_H0559 one_H0259 of_H4725 these places_H4725; and_H5288 we will_H5288 lodge in_H0176 Gibeah_H1390, or_H0176 in_H0176 Ramah_H7414.” 
+@14 So_H0834 they_H0834 passed_H5674 on_H0935 and_H0935 went_H0935 their_H0935 way; and_H0935 the_H0834 sun_H8121 went_H0935 down on_H0935 them_H0935 near_H0681 Gibeah_H1390, which_H0834 belongs to_H0935 Benjamin_H1144. 
+@15 They_H8033 went_H0935 over_H0853 there_H8033, to_H0935 go_H0935 in_H3427 to_H0935 stay_H3427 in_H3427 Gibeah_H1390. He_H8033 went_H0935 in_H3427, and_H0935 sat_H3427 down_H3427 in_H3427 the_H0853 street_H7339 of_H1004 the_H0853 city_H5892; for_H1004 there_H8033 was_H0369 no_H0369 one_H0376 who_H0376 took_H5493 them_H0853 into_H0935 his_H0376 house_H1004 to_H0935 stay_H3427. 
 
-@16 Behold, an old man came from his work out of the field at evening. Now the man was from the hill country of Ephraim, and he lived in Gibeah; but the men of the place were Benjamites. 
-@17 He lifted up his eyes, and saw the wayfaring man in the street of the city; and the old man said, “Where are you going? Where did you come from?” 
+@16 Behold_H2009, an_H4480 old_H2205 man_H0376 came_H0935 from_H4480 his_H0376 work_H4639 out_H4480 of_H0376 the_H0935 field_H7704 at_H0935 evening_H6153. Now_H2009 the_H0935 man_H0376 was_H1931 from_H4480 the_H0935 hill_H2022 country_H2022 of_H0376 Ephraim_H0669, and_H0935 he_H1931 lived_H1481 in_H0935 Gibeah_H1390; but_H0376 the_H0935 men_H0376 of_H0376 the_H0935 place_H4725 were_H0376 Benjamites_H1145. 
+@17 He_H0853 lifted_H5375 up_H5375 his_H5375 eyes_H5869, and_H0935 saw_H7200 the_H0853 wayfaring man_H0376 in_H0935 the_H0853 street_H7339 of_H0376 the_H0853 city_H5892; and_H0935 the_H0853 old_H2205 man_H0376 said_H0559, “Where_H0575 are_H0376 you_H0935 going_H0935? Where_H0575 did_H0376 you_H0935 come_H0935 from_H0935?” 
 
-@18 He said to him, “We are passing from Bethlehem Judah to the farther side of the hill country of Ephraim. I am from there, and I went to Bethlehem Judah. I am going to Yahweh’s house; and there is no one who has taken me into his house. 
-@19 Yet there is both straw and feed for our donkeys; and there is bread and wine also for me, and for your servant, and for the young man who is with your servants. There is no lack of anything.” 
+@18 He_H5704 said_H0559 to_H0413 him_H0413, “We_H0587 are_H0376 passing_H1980 from_H0376 Bethlehem_H1035 Judah_H3063 to_H0413 the_H0853 farther side of_H1004 the_H0853 hill_H2022 country_H2022 of_H1004 Ephraim_H0669. I_H0589 am_H0589 from_H0376 there_H8033, and_H1980 I_H0589 went_H1980 to_H0413 Bethlehem_H1035 Judah_H3063. I_H0589 am_H0589 going_H1980 to_H0413 Yahweh’s_H3068 house_H1004; and_H1980 there_H8033 is_H0369 no_H0369 one_H0376 who_H0376 has_H3068 taken_H0622 me_H0413 into_H0413 his_H3068 house_H1004. 
+@19 Yet_H1571 there_H0369 is_H0369 both_H1571 straw_H8401 and_H5650 feed_H4554 for_H3605 our_H3605 donkeys_H2543; and_H5650 there_H0369 is_H0369 bread_H3899 and_H5650 wine_H3196 also_H1571 for_H3605 me_H5973, and_H5650 for_H3605 your_H3605 servant_H5650, and_H5650 for_H3605 the_H3605 young_H5288 man_H5288 who_H3605 is_H0369 with_H5973 your_H3605 servants_H5650. There_H0369 is_H0369 no_H0369 lack_H4270 of_H1697 anything_H3605.” 
 
-@20 The old man said, “Peace be to you! Just let me supply all your needs, but don’t sleep in the street.” 
-@21 So he brought him into his house, and gave the donkeys fodder. Then they washed their feet, and ate and drank.
+@20 The_H3605 old_H2205 man_H0376 said_H0559, “Peace_H7965 be_H0408 to_H0559 you_H3605! Just_H3605 let_H0408 me_H5921 supply all_H3605 your_H3605 needs_H4270, but_H7535 don’t_H0408 sleep in_H5921 the_H3605 street_H7339.” 
+@21 So_H0935 he_H1004 brought_H0935 him_H0935 into_H0935 his_H0935 house_H1004, and_H0935 gave_H0935 the_H0935 donkeys_H2543 fodder. Then_H0935 they_H0935 washed_H7364 their_H0398 feet_H7272, and_H0935 ate_H0398 and_H0935 drank_H8354.
 
 ## The outrage of the woman and the return of the Levite
-@22 As they were making their hearts merry, behold, the men of the city, certain wicked fellows, surrounded the house, beating at the door; and they spoke to the master of the house, the old man, saying, “Bring out the man who came into your house, that we can have sex with him!” 
+@22 As_H0834 they_H1992 were_H0834 making their_H1992 hearts_H3820 merry_H3190, behold_H2009, the_H0853 men_H0376 of_H1121 the_H0853 city_H5892, certain_H0376 wicked_H1100 fellows_H0376, surrounded_H5437 the_H0853 house_H1004, beating at_H0413 the_H0853 door_H1817; and_H1121 they_H1992 spoke_H0559 to_H0413 the_H0853 master_H0559 of_H1121 the_H0853 house_H1004, the_H0853 old_H1121 man_H0376, saying_H0559, “Bring_H0935 out_H3318 the_H0853 man_H0376 who_H0834 came_H0935 into_H0413 your_H5921 house_H1004, that_H0834 we_H0834 can_H0834 have_H0834 sex with_H0413 him_H0413!” 
 
-@23 The man, the master of the house, went out to them, and said to them, “No, my brothers, please don’t act so wickedly; since this man has come into my house, don’t do this folly. 
-@24 Behold, here is my virgin daughter and his concubine. I will bring them out now. Humble them, and do with them what seems good to you; but to this man don’t do any such folly.” 
+@23 The_H0853 man_H0376, the_H0853 master_H0559 of_H1004 the_H0853 house_H1004, went_H3318 out_H3318 to_H0413 them_H0413, and_H0935 said_H0559 to_H0413 them_H0413, “No_H0408, my_H0834 brothers_H0251, please_H4994 don’t_H0408 act_H5039 so_H6213 wickedly; since_H0310 this_H2088 man_H0376 has_H0834 come_H0935 into_H0413 my_H0834 house_H1004, don’t_H0408 do_H6213 this_H2088 folly_H5039. 
+@24 Behold_H2009, here_H2009 is_H2088 my_H3318 virgin_H1330 daughter_H1323 and_H0376 his_H0376 concubine_H6370. I_H2009 will_H0376 bring_H3318 them_H0853 out_H3318 now_H4994. Humble them_H0853, and_H0376 do_H6213 with_H0376 them_H0853 what_H1697 seems_H5869 good_H2896 to_H0376 you_H6213; but_H3808 to_H0376 this_H2088 man_H0376 don’t_H3808 do_H6213 any_H0376 such_H2088 folly_H5039.” 
 
-@25 But the men wouldn’t listen to him; so the man grabbed his concubine, and brought her out to them; and they had sex with her, and abused her all night until the morning. When the day began to dawn, they let her go. 
-@26 Then the woman came in the dawning of the day, and fell down at the door of the man’s house where her lord was, until it was light. 
-@27 Her lord rose up in the morning and opened the doors of the house, and went out to go his way; and behold, the woman his concubine had fallen down at the door of the house, with her hands on the threshold. 
+@25 But_H3808 the_H3605 men_H0376 wouldn’t listen_H8085 to_H0413 him_H0413; so_H7971 the_H3605 man_H0376 grabbed_H2388 his_H3605 concubine_H6370, and_H7971 brought_H3318 her_H3605 out_H3318 to_H0413 them_H0413; and_H7971 they_H3808 had_H3045 sex with_H0413 her_H3605, and_H7971 abused her_H3605 all_H3605 night_H3915 until_H5704 the_H3605 morning_H1242. When_H8085 the_H3605 day_H1242 began to_H0413 dawn_H7837, they_H3808 let_H7971 her_H3605 go_H3318. 
+@26 Then_H0935 the_H0834 woman_H0802 came_H0935 in_H0935 the_H0834 dawning of_H1004 the_H0834 day_H1242, and_H0935 fell_H5307 down_H5307 at_H1004 the_H0834 door_H6607 of_H1004 the_H0834 man’s_H0376 house_H1004 where_H0834 her_H0802 lord_H0113 was_H0834, until_H5704 it_H5704 was_H0834 light_H0216. 
+@27 Her_H5921 lord_H0113 rose_H6965 up_H6965 in_H5921 the_H5921 morning_H1242 and_H6965 opened_H6605 the_H5921 doors_H1817 of_H1004 the_H5921 house_H1004, and_H6965 went_H3318 out_H3318 to_H5921 go_H3318 his_H5921 way_H1870; and_H6965 behold_H2009, the_H5921 woman_H0802 his_H5921 concubine_H6370 had_H3027 fallen_H5307 down_H5307 at_H5921 the_H5921 door_H1817 of_H1004 the_H5921 house_H1004, with_H1004 her_H5921 hands_H3027 on_H5921 the_H5921 threshold. 
 
-@28 He said to her, “Get up, and let’s get going!” but no one answered. Then he took her up on the donkey; and the man rose up, and went to his place. 
+@28 He_H0376 said_H0559 to_H0413 her_H0413, “Get_H3947 up_H6965, and_H6965 let’s get_H3947 going!” but_H0369 no_H0369 one_H0376 answered_H0559. Then_H6030 he_H0376 took_H3947 her_H0413 up_H6965 on_H5921 the_H0559 donkey_H2543; and_H6965 the_H0559 man_H0376 rose_H6965 up_H6965, and_H6965 went_H6965 to_H0413 his_H5921 place_H4725. 
 
-@29 When he had come into his house, he took a knife and cut up his concubine, and divided her, limb by limb, into twelve pieces, and sent her throughout all the borders of Israel. 
-@30 It was so, that all who saw it said, “Such a deed has not been done or seen from the day that the children of Israel came up out of the land of Egypt to this day! Consider it, take counsel, and speak.” 
+@29 When_H0935 he_H0853 had_H3478 come_H0935 into_H0413 his_H3605 house_H1004, he_H0853 took_H3947 a_H3947 knife_H3979 and_H0935 cut_H5408 up_H0935 his_H3605 concubine_H6370, and_H0935 divided her_H3605, limb_H6106 by_H0413 limb_H6106, into_H0413 twelve_H6240 pieces_H5409, and_H0935 sent_H7971 her_H3605 throughout_H3605 all_H3605 the_H3605 borders_H1366 of_H1004 Israel_H3478. 
+@30 It_H7760 was_H1961 so_H1961, that_H3605 all_H3605 who_H3605 saw_H7200 it_H7760 said_H0559, “Such_H2088 a_H1961 deed has_H1961 not_H3808 been_H1961 done_H1961 or_H3808 seen_H7200 from_H5921 the_H3605 day_H3117 that_H3605 the_H3605 children_H1121 of_H1121 Israel_H3478 came_H1961 up_H5927 out_H5921 of_H1121 the_H3605 land_H0776 of_H1121 Egypt_H4714 to_H0559 this_H2088 day_H3117! Consider_H7200 it_H7760, take_H7760 counsel_H5779, and_H1121 speak_H1696.” 
 
 # 20 
 ## Advise the Israelite tribes at Mizpah; his deployment to war
-@1 Then all the children of Israel went out, and the congregation was assembled as one man, from Dan even to Beersheba, with the land of Gilead, to Yahweh at Mizpah. 
-@2 The chiefs of all the people, even of all the tribes of Israel, presented themselves in the assembly of the people of God, four hundred thousand footmen who drew sword. 
-@3 (Now the children of Benjamin heard that the children of Israel had gone up to Mizpah.) The children of Israel said, “Tell us, how did this wickedness happen?” 
+@1 Then_H3318 all_H3605 the_H3605 children_H1121 of_H1121 Israel_H3478 went_H3318 out_H3318, and_H1121 the_H3605 congregation_H5712 was_H3068 assembled_H6950 as_H5704 one_H0259 man_H0376, from_H3318 Dan_H1835 even_H5704 to_H0413 Beersheba_H0884, with_H0413 the_H3605 land_H0776 of_H1121 Gilead_H1568, to_H0413 Yahweh_H3068 at_H0413 Mizpah_H4709. 
+@2 The_H3605 chiefs_H6438 of_H0376 all_H3605 the_H3605 people_H5971, even of_H0376 all_H3605 the_H3605 tribes_H7626 of_H0376 Israel_H3478, presented_H3320 themselves_H3320 in_H0430 the_H3605 assembly_H6951 of_H0376 the_H3605 people_H5971 of_H0376 God_H0430, four_H0702 hundred_H3967 thousand_H0505 footmen_H7273 who_H3605 drew_H8025 sword_H2719. 
+@3 (Now_H1961 the_H0559 children_H1121 of_H1121 Benjamin_H1144 heard_H8085 that_H3588 the_H0559 children_H1121 of_H1121 Israel_H3478 had_H1961 gone_H5927 up_H5927 to_H0559 Mizpah_H4709.) The_H0559 children_H1121 of_H1121 Israel_H3478 said_H0559, “Tell_H0559 us_H3588, how_H0349 did this_H2063 wickedness_H7451 happen_H1961?” 
 
-@4 The Levite, the husband of the woman who was murdered, answered, “I came into Gibeah that belongs to Benjamin, I and my concubine, to spend the night. 
-@5 The men of Gibeah rose against me, and surrounded the house by night. They intended to kill me and they raped my concubine, and she is dead. 
-@6 I took my concubine and cut her in pieces, and sent her throughout all the country of the inheritance of Israel; for they have committed lewdness and folly in Israel. 
-@7 Behold, you children of Israel, all of you, give here your advice and counsel.” 
+@4 The_H0559 Levite_H3881, the_H0559 husband_H0376 of_H0376 the_H0559 woman_H0802 who_H0834 was_H0834 murdered_H7523, answered_H0559, “I_H0589 came_H0935 into_H0935 Gibeah_H1390 that_H0834 belongs to_H0559 Benjamin_H1144, I_H0589 and_H0935 my_H0834 concubine_H6370, to_H0559 spend_H3885 the_H0559 night. 
+@5 The_H0853 men_H1167 of_H1004 Gibeah_H1390 rose_H6965 against_H5921 me_H5921, and_H6965 surrounded_H5437 the_H0853 house_H1004 by_H5921 night_H3915. They_H5921 intended_H1819 to_H4191 kill_H2026 me_H5921 and_H6965 they_H5921 raped my_H5921 concubine_H6370, and_H6965 she_H6965 is_H1004 dead_H4191. 
+@6 I_H3588 took_H0270 my_H3605 concubine_H6370 and_H3478 cut_H5408 her_H3605 in_H3478 pieces_H5408, and_H3478 sent_H7971 her_H3605 throughout_H3605 all_H3605 the_H3605 country_H7704 of_H7704 the_H3605 inheritance_H5159 of_H7704 Israel_H3478; for_H3588 they_H3588 have_H3478 committed_H6213 lewdness_H2154 and_H3478 folly_H5039 in_H3478 Israel_H3478. 
+@7 Behold_H2009, you_H3605 children_H1121 of_H1121 Israel_H3478, all_H3605 of_H1121 you_H3605, give_H3051 here_H2009 your_H3605 advice_H6098 and_H1121 counsel_H6098.” 
 
-@8 All the people arose as one man, saying, “None of us will go to his tent, neither will any of us turn to his house. 
-@9 But now this is the thing which we will do to Gibeah: we will go up against it by lot; 
-@10 and we will take ten men of one hundred throughout all the tribes of Israel, and one hundred of one thousand, and a thousand out of ten thousand to get food for the people, that they may do, when they come to Gibeah of Benjamin, according to all the folly that the men of Gibeah have done in Israel.” 
-@11 So all the men of Israel were gathered against the city, knit together as one man.
+@8 All_H3605 the_H3605 people_H5971 arose_H6965 as_H0376 one_H0259 man_H0376, saying_H0559, “None_H3808 of_H1004 us_H0559 will_H0376 go_H6965 to_H0559 his_H3605 tent_H0168, neither_H3808 will_H0376 any_H3605 of_H1004 us_H0559 turn_H5493 to_H0559 his_H3605 house_H1004. 
+@9 But_H6258 now_H6258 this_H2088 is_H0834 the_H0834 thing_H1697 which_H0834 we_H0834 will_H0834 do_H6213 to_H5921 Gibeah_H1390: we_H0834 will_H0834 go up_H5921 against_H5921 it_H5921 by_H5921 lot_H1486; 
+@10 and_H0935 we_H0834 will_H0834 take_H3947 ten_H6235 men_H0376 of_H0376 one_H0376 hundred_H3967 throughout_H3605 all_H3605 the_H3605 tribes_H7626 of_H0376 Israel_H3478, and_H0935 one_H0376 hundred_H3967 of_H0376 one_H0376 thousand_H0505, and_H0935 a_H3947 thousand_H0505 out_H3605 of_H0376 ten_H6235 thousand_H0505 to_H0935 get_H3947 food_H6720 for_H3605 the_H3605 people_H5971, that_H0834 they_H0834 may_H0376 do_H6213, when_H0834 they_H0834 come_H0935 to_H0935 Gibeah of_H0376 Benjamin_H1144, according_H0376 to_H0935 all_H3605 the_H3605 folly_H5039 that_H0834 the_H3605 men_H0376 of_H0376 Gibeah have_H0834 done_H6213 in_H0935 Israel_H3478.” 
+@11 So_H0259 all_H3605 the_H3605 men_H0376 of_H0376 Israel_H3478 were_H3478 gathered_H0622 against_H0413 the_H3605 city_H5892, knit together_H0622 as_H0376 one_H0259 man_H0376.
 
 ## The Benjaminites, instead of handing over the evildoers, also arm themselves for battle
-@12 The tribes of Israel sent men through all the tribe of Benjamin, saying, “What wickedness is this that has happened among you? 
-@13 Now therefore deliver up the men, the wicked fellows who are in Gibeah, that we may put them to death and put away evil from Israel.” 
+@12 The_H3605 tribes_H7626 of_H0376 Israel_H3478 sent_H7971 men_H0376 through_H3605 all_H3605 the_H3605 tribe_H7626 of_H0376 Benjamin_H1144, saying_H0559, “What_H4100 wickedness_H7451 is_H0834 this_H2063 that_H0834 has_H0834 happened_H1961 among_H0376 you_H0834? 
+@13 Now_H6258 therefore_H6258 deliver_H5414 up_H5414 the_H0853 men_H0376, the_H0853 wicked_H7451 fellows_H0376 who_H0834 are_H0834 in_H3478 Gibeah_H1390, that_H0834 we_H0834 may_H0376 put_H5414 them_H5414 to_H4191 death_H4191 and_H1121 put_H5414 away_H7451 evil_H7451 from_H0376 Israel_H3478.” 
 
-But Benjamin would not listen to the voice of their brothers, the children of Israel. 
-@14 The children of Benjamin gathered themselves together out of the cities to Gibeah, to go out to battle against the children of Israel. 
-@15 The children of Benjamin were counted on that day out of the cities twenty-six thousand men who drew the sword, in addition to the inhabitants of Gibeah, who were counted seven hundred chosen men. 
-@16 Among all these soldiers there were seven hundred chosen men who were left-handed. Every one of them could sling a stone at a hair and not miss. 
-@17 The men of Israel, besides Benjamin, were counted four hundred thousand men who drew sword. All these were men of war.
+But_H3808 Benjamin_H1144 would_H0014 not_H3808 listen_H8085 to_H4191 the_H0853 voice_H6963 of_H1121 their_H5414 brothers_H0251, the_H0853 children_H1121 of_H1121 Israel_H3478. 
+@14 The_H4480 children_H1121 of_H1121 Benjamin_H1144 gathered_H0622 themselves_H0622 together_H0622 out_H3318 of_H1121 the_H4480 cities_H5892 to_H3478 Gibeah_H1390, to_H3478 go_H3318 out_H3318 to_H3478 battle_H4421 against_H5973 the_H4480 children_H1121 of_H1121 Israel_H3478. 
+@15 The_H3117 children_H1121 of_H1121 Benjamin_H1144 were_H1121 counted_H6485 on_H3117 that_H3117 day_H3117 out_H3427 of_H1121 the_H3117 cities_H5892 twenty-six_H8337 thousand_H0505 men_H0376 who_H0376 drew_H8025 the_H3117 sword_H2719, in_H3427 addition to_H0376 the_H3117 inhabitants_H3427 of_H1121 Gibeah_H1390, who_H0376 were_H1121 counted_H6485 seven_H7651 hundred_H3967 chosen men_H0376. 
+@16 Among_H0413 all_H3605 these_H2088 soldiers_H0376 there_H2088 were_H0376 seven_H7651 hundred_H3967 chosen men_H0376 who_H3605 were_H0376 left-handed_H3225. Every_H3605 one_H0376 of_H0376 them_H0413 could_H0376 sling a_H2088 stone_H0068 at_H0413 a_H2088 hair_H8185 and_H3967 not_H3808 miss_H2398. 
+@17 The_H3605 men_H0376 of_H0376 Israel_H3478, besides_H0905 Benjamin_H1144, were_H3478 counted_H6485 four_H0702 hundred_H3967 thousand_H0505 men_H0376 who_H3605 drew_H8025 sword_H2719. All_H3605 these_H2088 were_H3478 men_H0376 of_H0376 war_H4421.
 
 ## Bloody defeat of the Israelites in the first two days of the battle; your application at Bethel
-@18 The children of Israel arose, went up to Bethel, and asked counsel of God. They asked, “Who shall go up for us first to battle against the children of Benjamin?” 
+@18 The_H0559 children_H1121 of_H1121 Israel_H3478 arose_H6965, went_H5927 up_H5927 to_H0559 Bethel_H1008, and_H1121 asked_H7592 counsel of_H1121 God_H0430. They_H3068 asked_H7592, “Who_H4310 shall_H1121 go_H5927 up_H5927 for_H7592 us_H0559 first_H8462 to_H0559 battle_H4421 against_H5973 the_H0559 children_H1121 of_H1121 Benjamin_H1144?” 
 
-Yahweh said, “Judah first.” 
+Yahweh_H3068 said_H0559, “Judah_H3063 first_H8462.” 
 
-@19 The children of Israel rose up in the morning and encamped against Gibeah. 
-@20 The men of Israel went out to battle against Benjamin; and the men of Israel set the battle in array against them at Gibeah. 
-@21 The children of Benjamin came out of Gibeah, and on that day destroyed twenty-two thousand of the Israelite men down to the ground. 
-@22 The people, the men of Israel, encouraged themselves, and set the battle again in array in the place where they set themselves in array the first day. 
-@23 The children of Israel went up and wept before Yahweh until evening; and they asked of Yahweh, saying, “Shall I again draw near to battle against the children of Benjamin my brother?” 
+@19 The_H5921 children_H1121 of_H1121 Israel_H3478 rose_H6965 up_H6965 in_H5921 the_H5921 morning_H1242 and_H1121 encamped_H2583 against_H5921 Gibeah_H1390. 
+@20 The_H0853 men_H0376 of_H0376 Israel_H3478 went_H3318 out_H3318 to_H0413 battle_H4421 against_H0413 Benjamin_H1144; and_H3478 the_H0853 men_H0376 of_H0376 Israel_H3478 set_H3318 the_H0853 battle_H4421 in_H0413 array_H4421 against_H0413 them_H0413 at_H0413 Gibeah_H1390. 
+@21 The_H4480 children_H1121 of_H1121 Benjamin_H1144 came_H3318 out_H3318 of_H1121 Gibeah_H1390, and_H1121 on_H3117 that_H3117 day_H3117 destroyed_H7843 twenty-two_H8147 thousand_H0505 of_H1121 the_H4480 Israelite_H3478 men_H0376 down to_H3478 the_H4480 ground_H0776. 
+@22 The_H0834 people_H5971, the_H0834 men_H0376 of_H0376 Israel_H3478, encouraged_H2388 themselves, and_H3478 set_H0834 the_H0834 battle_H4421 again_H3254 in_H3478 array_H4421 in_H3478 the_H0834 place_H4725 where_H0834 they_H0834 set_H0834 themselves in_H3478 array_H4421 the_H0834 first_H7223 day_H3117. 
+@23 The_H0559 children_H1121 of_H1121 Israel_H3478 went_H5927 up_H5927 and_H1121 wept_H1058 before_H6440 Yahweh_H3068 until_H5704 evening_H6153; and_H1121 they_H3068 asked_H7592 of_H1121 Yahweh_H3068, saying_H0559, “Shall_H1121 I_H5704 again_H3254 draw_H5066 near_H5066 to_H0413 battle_H4421 against_H0413 the_H0559 children_H1121 of_H1121 Benjamin_H1144 my_H3068 brother_H0251?” 
 
-Yahweh said, “Go up against him.” 
+Yahweh_H3068 said_H0559, “Go_H5927 up_H5927 against_H0413 him_H0413.” 
 
-@24 The children of Israel came near against the children of Benjamin the second day. 
-@25 Benjamin went out against them out of Gibeah the second day, and destroyed down to the ground of the children of Israel again eighteen thousand men. All these drew the sword. 
+@24 The_H0413 children_H1121 of_H1121 Israel_H3478 came_H7126 near_H7126 against_H0413 the_H0413 children_H1121 of_H1121 Benjamin_H1144 the_H0413 second_H8145 day_H3117. 
+@25 Benjamin_H1144 went_H3318 out_H3318 against_H4480 them_H3318 out_H3318 of_H1121 Gibeah_H1390 the_H3605 second_H8145 day_H3117, and_H1121 destroyed_H7843 down_H0428 to_H3478 the_H3605 ground_H0776 of_H1121 the_H3605 children_H1121 of_H1121 Israel_H3478 again_H5750 eighteen_H6240 thousand_H0505 men_H0376. All_H3605 these_H0428 drew_H8025 the_H3605 sword_H2719. 
 
-@26 Then all the children of Israel and all the people went up, and came to Bethel, and wept, and sat there before Yahweh, and fasted that day until evening; then they offered burnt offerings and peace offerings before Yahweh. 
-@27 The children of Israel asked Yahweh (for the ark of the covenant of God was there in those days, 
-@28 and Phinehas, the son of Eleazar, the son of Aaron, stood before it in those days), saying, “Shall I yet again go out to battle against the children of Benjamin my brother, or shall I cease?” 
+@26 Then_H0935 all_H3605 the_H3605 children_H1121 of_H1121 Israel_H3478 and_H1121 all_H3605 the_H3605 people_H5971 went_H0935 up_H5927, and_H1121 came_H0935 to_H0935 Bethel_H1008, and_H1121 wept_H1058, and_H1121 sat_H3427 there_H8033 before_H6440 Yahweh_H3068, and_H1121 fasted_H6684 that_H3605 day_H3117 until_H5704 evening_H6153; then_H0935 they_H8033 offered_H5927 burnt_H5930 offerings_H8002 and_H1121 peace_H8002 offerings_H8002 before_H6440 Yahweh_H3068. 
+@27 The_H3068 children_H1121 of_H1121 Israel_H3478 asked_H7592 Yahweh_H3068 (for_H3117 the_H3068 ark_H0727 of_H1121 the_H3068 covenant_H1285 of_H1121 God_H0430 was_H3068 there_H8033 in_H0430 those_H1992 days_H3117, 
+@28 and_H1121 Phinehas_H6372, the_H0559 son_H1121 of_H1121 Eleazar_H0499, the_H0559 son_H1121 of_H1121 Aaron_H0175, stood_H5975 before_H6440 it_H5414 in_H3068 those_H1992 days_H3117), saying_H0559, “Shall_H0175 I_H3588 yet_H5750 again_H5750 go_H3318 out_H3318 to_H0559 battle_H4421 against_H5973 the_H0559 children_H1121 of_H1121 Benjamin_H1144 my_H5414 brother_H0251, or_H0518 shall_H0175 I_H3588 cease_H2308?” 
 
-Yahweh said, “Go up; for tomorrow I will deliver him into your hand.”
+Yahweh_H3068 said_H0559, “Go_H3318 up_H5927; for_H3588 tomorrow_H4279 I_H3588 will_H3068 deliver_H5414 him_H5414 into_H3027 your_H3068 hand_H3027.”
 
 ## The destruction of Gibeas and the almost complete extermination of the tribe of Benjamin
-@29 Israel set ambushes all around Gibeah. 
-@30 The children of Israel went up against the children of Benjamin on the third day, and set themselves in array against Gibeah, as at other times. 
-@31 The children of Benjamin went out against the people, and were drawn away from the city; and they began to strike and kill of the people as at other times, in the highways, of which one goes up to Bethel and the other to Gibeah, in the field, about thirty men of Israel. 
+@29 Israel_H3478 set_H7760 ambushes_H0693 all_H5439 around_H5439 Gibeah_H1390. 
+@30 The_H0413 children_H1121 of_H1121 Israel_H3478 went_H5927 up_H5927 against_H0413 the_H0413 children_H1121 of_H1121 Benjamin_H1144 on_H3117 the_H0413 third_H7992 day_H3117, and_H1121 set_H5927 themselves in_H0413 array against_H0413 Gibeah_H1390, as_H3117 at_H0413 other_H6471 times_H6471. 
+@31 The_H0834 children_H1121 of_H1121 Benjamin_H1144 went_H3318 out_H3318 against_H4480 the_H0834 people_H5971, and_H1121 were_H0834 drawn_H5423 away_H4480 from_H4480 the_H0834 city_H5892; and_H1121 they_H0834 began_H2490 to_H3478 strike_H5221 and_H1121 kill_H5221 of_H1121 the_H0834 people_H5971 as_H0834 at_H3478 other_H0259 times_H6471, in_H3478 the_H0834 highways_H4546, of_H1121 which_H0834 one_H0259 goes_H3318 up_H5927 to_H3478 Bethel_H1008 and_H1121 the_H0834 other_H0259 to_H3478 Gibeah_H1390, in_H3478 the_H0834 field_H7704, about_H4480 thirty_H7970 men_H0376 of_H1121 Israel_H3478. 
 
-@32 The children of Benjamin said, “They are struck down before us, as at the first.” But the children of Israel said, “Let’s flee, and draw them away from the city to the highways.” 
+@32 The_H0559 children_H1121 of_H1121 Benjamin_H1144 said_H0559, “They_H1992 are_H1992 struck_H5062 down_H5062 before_H6440 us_H0413, as_H1121 at_H0413 the_H0559 first_H7223.” But_H1992 the_H0559 children_H1121 of_H1121 Israel_H3478 said_H0559, “Let’s_H5423 flee_H5127, and_H1121 draw_H5423 them_H0413 away_H4480 from_H4480 the_H0559 city_H5892 to_H0413 the_H0559 highways_H4546.” 
 
-@33 All the men of Israel rose up out of their place and set themselves in array at Baal Tamar. Then the ambushers of Israel broke out of their place, even out of Maareh Geba. 
-@34 Ten thousand chosen men out of all Israel came over against Gibeah, and the battle was severe; but they didn’t know that disaster was close to them. 
-@35 Yahweh struck Benjamin before Israel; and the children of Israel destroyed of Benjamin that day twenty-five thousand one hundred men. All these drew the sword. 
-@36 So the children of Benjamin saw that they were struck, for the men of Israel yielded to Benjamin because they trusted the ambushers whom they had set against Gibeah. 
-@37 The ambushers hurried, and rushed on Gibeah; then the ambushers spread out, and struck all the city with the edge of the sword. 
-@38 Now the appointed sign between the men of Israel and the ambushers was that they should make a great cloud of smoke rise up out of the city. 
-@39 The men of Israel turned in the battle, and Benjamin began to strike and kill of the men of Israel about thirty persons; for they said, “Surely they are struck down before us, as in the first battle.” 
-@40 But when the cloud began to arise up out of the city in a pillar of smoke, the Benjamites looked behind them; and behold, the whole city went up in smoke to the sky. 
-@41 The men of Israel turned, and the men of Benjamin were dismayed; for they saw that disaster had come on them. 
-@42 Therefore they turned their backs before the men of Israel to the way of the wilderness, but the battle followed hard after them; and those who came out of the cities destroyed them in the middle of it. 
-@43 They surrounded the Benjamites, chased them, and trod them down at their resting place, as far as near Gibeah toward the sunrise. 
-@44 Eighteen thousand men of Benjamin fell; all these were men of valor. 
-@45 They turned and fled toward the wilderness to the rock of Rimmon. They gleaned five thousand men of them in the highways, and followed hard after them to Gidom, and struck two thousand men of them. 
-@46 So that all who fell that day of Benjamin were twenty-five thousand men who drew the sword. All these were men of valor. 
-@47 But six hundred men turned and fled toward the wilderness to the rock of Rimmon, and stayed in the rock of Rimmon four months. 
-@48 The men of Israel turned again on the children of Benjamin, and struck them with the edge of the sword—including the entire city, the livestock, and all that they found. Moreover they set all the cities which they found on fire. 
+@33 All_H3605 the_H3605 men_H0376 of_H0376 Israel_H3478 rose_H6965 up_H6965 out_H3605 of_H0376 their_H3605 place_H4725 and_H6965 set_H6965 themselves in_H3478 array at_H3478 Baal Tamar. Then_H6965 the_H3605 ambushers of_H0376 Israel_H3478 broke_H1518 out_H3605 of_H0376 their_H3605 place_H4725, even out_H3605 of_H0376 Maareh Geba. 
+@34 Ten_H6235 thousand_H0505 chosen_H3045 men_H0376 out_H3045 of_H0376 all_H3605 Israel_H3478 came_H0935 over_H5921 against_H5921 Gibeah_H1390, and_H0935 the_H3605 battle_H4421 was_H3478 severe; but_H3588 they_H1992 didn’t_H3808 know_H3045 that_H3588 disaster_H7451 was_H3478 close_H5060 to_H0935 them_H1992. 
+@35 Yahweh_H3068 struck_H5062 Benjamin_H1144 before_H6440 Israel_H3478; and_H1121 the_H3605 children_H1121 of_H1121 Israel_H3478 destroyed_H7843 of_H1121 Benjamin_H1144 that_H3605 day_H3117 twenty-five_H2568 thousand_H0505 one_H0376 hundred_H3967 men_H0376. All_H3605 these_H0428 drew_H8025 the_H3605 sword_H2719. 
+@36 So_H5414 the_H0834 children_H1121 of_H1121 Benjamin_H1144 saw_H7200 that_H0834 they_H0834 were_H0834 struck_H5062, for_H3588 the_H0834 men_H0376 of_H1121 Israel_H3478 yielded_H5414 to_H0413 Benjamin_H1144 because_H3588 they_H0834 trusted_H0982 the_H0834 ambushers whom_H0834 they_H0834 had_H0834 set_H7760 against_H0413 Gibeah_H1390. 
+@37 The_H3605 ambushers hurried, and_H2719 rushed_H6584 on_H0413 Gibeah_H1390; then_H0853 the_H3605 ambushers spread out_H0413, and_H2719 struck_H5221 all_H3605 the_H3605 city_H5892 with_H0413 the_H3605 edge_H6310 of_H6310 the_H3605 sword_H2719. 
+@38 Now_H1961 the_H4480 appointed_H4150 sign_H4150 between_H5973 the_H4480 men_H0376 of_H0376 Israel_H3478 and_H3478 the_H4480 ambushers was_H1961 that_H4480 they_H0376 should_H0376 make a_H1961 great cloud_H4864 of_H0376 smoke_H6227 rise_H5927 up_H5927 out_H4480 of_H0376 the_H4480 city_H5892. 
+@39 The_H0559 men_H0376 of_H0376 Israel_H3478 turned_H2015 in_H3478 the_H0559 battle_H4421, and_H3478 Benjamin_H1144 began_H2490 to_H0559 strike_H5221 and_H3478 kill_H5221 of_H0376 the_H0559 men_H0376 of_H0376 Israel_H3478 about_H5221 thirty_H7970 persons_H0376; for_H3588 they_H3588 said_H0559, “Surely_H3588 they_H3588 are_H3478 struck_H5221 down_H5221 before_H6440 us_H3588, as_H0376 in_H3478 the_H0559 first_H7223 battle_H4421.” 
+@40 But_H2009 when_H4480 the_H4480 cloud_H4864 began_H2490 to_H4480 arise_H5927 up_H5927 out_H4480 of_H4480 the_H4480 city_H5892 in_H8064 a_H4480 pillar_H5982 of_H4480 smoke_H6227, the_H4480 Benjamites looked_H6437 behind_H0310 them_H0310; and_H8064 behold_H2009, the_H4480 whole_H3632 city_H5892 went_H5927 up_H5927 in_H8064 smoke_H6227 to_H4480 the_H4480 sky_H8064. 
+@41 The_H5921 men_H0376 of_H0376 Israel_H3478 turned_H2015, and_H3478 the_H5921 men_H0376 of_H0376 Benjamin_H1144 were_H3478 dismayed_H0926; for_H3588 they_H3588 saw_H7200 that_H3588 disaster_H7451 had_H3478 come_H5060 on_H5921 them_H5921. 
+@42 Therefore_H0834 they_H0834 turned_H6437 their_H6440 backs before_H6440 the_H0853 men_H0376 of_H0376 Israel_H3478 to_H0413 the_H0853 way_H1870 of_H0376 the_H0853 wilderness_H4057, but_H0376 the_H0853 battle_H4421 followed hard after_H0413 them_H0413; and_H3478 those_H0834 who_H0834 came_H0413 out_H6440 of_H0376 the_H0853 cities_H5892 destroyed_H7843 them_H0413 in_H0413 the_H0853 middle_H8432 of_H0376 it_H6440. 
+@43 They_H5704 surrounded_H3803 the_H0853 Benjamites, chased_H7291 them_H0853, and_H0853 trod_H1869 them_H0853 down_H1869 at_H1144 their_H1869 resting_H4496 place_H4496, as_H5704 far_H5704 as_H5704 near_H5704 Gibeah_H1390 toward_H5704 the_H0853 sunrise_H4217. 
+@44 Eighteen_H6240 thousand_H0505 men_H0376 of_H0376 Benjamin_H1144 fell_H5307; all_H3605 these_H0428 were_H0428 men_H0376 of_H0376 valor_H2428. 
+@45 They_H0376 turned_H6437 and_H0376 fled_H5127 toward_H0413 the_H0413 wilderness_H4057 to_H0413 the_H0413 rock_H5553 of_H0376 Rimmon_H7417. They_H0376 gleaned five_H2568 thousand_H0505 men_H0376 of_H0376 them_H0413 in_H0413 the_H0413 highways_H4546, and_H0376 followed_H0310 hard after_H0310 them_H0413 to_H0413 Gidom_H1440, and_H0376 struck_H5221 two_H4480 thousand_H0505 men_H0376 of_H0376 them_H0413. 
+@46 So_H1961 that_H3605 all_H3605 who_H3605 fell_H5307 that_H3605 day_H3117 of_H0376 Benjamin_H1144 were_H1961 twenty-five_H2568 thousand_H0505 men_H0376 who_H3605 drew_H8025 the_H3605 sword_H2719. All_H3605 these_H0428 were_H1961 men_H0376 of_H0376 valor_H2428. 
+@47 But_H0376 six_H8337 hundred_H3967 men_H0376 turned_H6437 and_H3967 fled_H5127 toward_H0413 the_H0413 wilderness_H4057 to_H0413 the_H0413 rock_H5553 of_H0376 Rimmon_H7417, and_H3967 stayed_H3427 in_H3427 the_H0413 rock_H5553 of_H0376 Rimmon_H7417 four_H0702 months_H2320. 
+@48 The_H3605 men_H0376 of_H1121 Israel_H3478 turned_H7725 again_H7725 on_H0413 the_H3605 children_H1121 of_H1121 Benjamin_H1144, and_H1121 struck_H5221 them_H0413 with_H0413 the_H3605 edge_H6310 of_H1121 the_H3605 sword_H2719—including_H5704 the_H3605 entire_H3605 city_H5892, the_H3605 livestock_H0929, and_H1121 all_H3605 that_H3605 they_H0376 found_H4672. Moreover_H1571 they_H0376 set_H7971 all_H3605 the_H3605 cities_H5892 which_H2719 they_H0376 found_H4672 on_H0413 fire_H0784. 
 
 # 21 
 ## Community Grief; the Benjaminites are assigned maidens from the city of Jabez
-@1 Now the men of Israel had sworn in Mizpah, saying, “None of us will give his daughter to Benjamin as a wife.” 
-@2 The people came to Bethel and sat there until evening before God, and lifted up their voices, and wept severely. 
-@3 They said, “Yahweh, the God of Israel, why has this happened in Israel, that there should be one tribe lacking in Israel today?” 
+@1 Now_H5414 the_H0559 men_H0376 of_H0376 Israel_H3478 had_H3478 sworn_H7650 in_H3478 Mizpah_H4709, saying_H0559, “None_H3808 of_H0376 us_H5414 will_H3478 give_H5414 his_H5414 daughter_H1323 to_H0559 Benjamin_H1144 as_H0376 a_H5414 wife_H0802.” 
+@2 The_H6440 people_H5971 came_H0935 to_H0935 Bethel_H1008 and_H0935 sat_H3427 there_H8033 until_H5704 evening_H6153 before_H6440 God_H0430, and_H0935 lifted_H5375 up_H5375 their_H5375 voices_H6963, and_H0935 wept_H1058 severely. 
+@3 They_H3117 said_H0559, “Yahweh_H3068, the_H0559 God_H0430 of_H0430 Israel_H3478, why_H4100 has_H3068 this_H2063 happened_H1961 in_H0430 Israel_H3478, that_H3117 there_H1961 should_H4100 be_H1961 one_H0259 tribe_H7626 lacking in_H0430 Israel_H3478 today_H3117?” 
 
-@4 On the next day, the people rose early and built an altar there, and offered burnt offerings and peace offerings. 
-@5 The children of Israel said, “Who is there among all the tribes of Israel who didn’t come up in the assembly to Yahweh?” For they had made a great oath concerning him who didn’t come up to Yahweh to Mizpah, saying, “He shall surely be put to death.” 
-@6 The children of Israel grieved for Benjamin their brother, and said, “There is one tribe cut off from Israel today. 
-@7 How shall we provide wives for those who remain, since we have sworn by Yahweh that we will not give them of our daughters to wives?” 
-@8 They said, “What one is there of the tribes of Israel who didn’t come up to Yahweh to Mizpah?” Behold, no one came from Jabesh Gilead to the camp to the assembly. 
-@9 For when the people were counted, behold, there were none of the inhabitants of Jabesh Gilead there. 
-@10 The congregation sent twelve thousand of the most valiant men there, and commanded them, saying, “Go and strike the inhabitants of Jabesh Gilead with the edge of the sword, with the women and the little ones. 
-@11 This is the thing that you shall do: you shall utterly destroy every male, and every woman who has lain with a man.” 
-@12 They found among the inhabitants of Jabesh Gilead four hundred young virgins who had not known man by lying with him; and they brought them to the camp to Shiloh, which is in the land of Canaan. 
+@4 On_H1961 the_H1129 next_H4283 day_H4283, the_H1129 people_H5971 rose_H7925 early_H7925 and_H4196 built_H1129 an_H1129 altar_H4196 there_H8033, and_H4196 offered_H5927 burnt_H5930 offerings_H8002 and_H4196 peace_H8002 offerings_H8002. 
+@5 The_H3605 children_H1121 of_H1121 Israel_H3478 said_H0559, “Who_H0834 is_H0834 there_H1961 among_H0413 all_H3605 the_H3605 tribes_H7626 of_H1121 Israel_H3478 who_H0834 didn’t_H3808 come_H1961 up_H5927 in_H0413 the_H3605 assembly_H6951 to_H0413 Yahweh_H3068?” For_H3588 they_H0834 had_H3068 made_H1961 a_H1961 great_H1419 oath_H7621 concerning_H0413 him_H0413 who_H0834 didn’t_H3808 come_H1961 up_H5927 to_H0413 Yahweh_H3068 to_H0413 Mizpah_H4709, saying_H0559, “He_H0834 shall_H1121 surely_H3588 be_H1961 put_H4191 to_H0413 death_H4191.” 
+@6 The_H0559 children_H1121 of_H1121 Israel_H3478 grieved for_H0413 Benjamin_H1144 their_H0413 brother_H0251, and_H1121 said_H0559, “There is_H3117 one_H0259 tribe_H7626 cut_H1438 off_H1438 from_H3478 Israel_H3478 today_H3117. 
+@7 How_H4100 shall_H3068 we_H0587 provide_H5414 wives_H0802 for_H3068 those who_H3068 remain_H3498, since we_H0587 have_H3068 sworn_H7650 by_H3068 Yahweh_H3068 that_H3068 we_H0587 will_H3068 not_H1115 give_H5414 them_H5414 of_H3068 our_H3068 daughters_H1323 to_H3068 wives_H0802?” 
+@8 They_H0834 said_H0559, “What_H0834 one_H0259 is_H0834 there_H2009 of_H0376 the_H0559 tribes_H7626 of_H0376 Israel_H3478 who_H0834 didn’t_H3808 come_H0935 up_H5927 to_H0413 Yahweh_H3068 to_H0413 Mizpah_H4709?” Behold_H2009, no_H3808 one_H0259 came_H0935 from_H0935 Jabesh_H3003 Gilead_H1568 to_H0413 the_H0559 camp_H4264 to_H0413 the_H0559 assembly_H6951. 
+@9 For_H8033 when_H0376 the_H6485 people_H5971 were_H0376 counted_H6485, behold_H2009, there_H8033 were_H0376 none_H0369 of_H0376 the_H6485 inhabitants_H3427 of_H0376 Jabesh_H3003 Gilead_H1568 there_H8033. 
+@10 The_H0853 congregation_H5712 sent_H7971 twelve_H6240 thousand_H0505 of_H1121 the_H0853 most valiant_H2428 men_H0376 there_H8033, and_H1121 commanded_H6680 them_H0853, saying_H0559, “Go_H7971 and_H1121 strike_H5221 the_H0853 inhabitants_H3427 of_H1121 Jabesh_H3003 Gilead_H1568 with_H0376 the_H0853 edge_H6310 of_H1121 the_H0853 sword_H2719, with_H0376 the_H0853 women_H0802 and_H1121 the_H0853 little_H2945 ones_H2945. 
+@11 This_H2088 is_H0834 the_H3605 thing_H1697 that_H0834 you_H0834 shall_H0802 do_H6213: you_H0834 shall_H0802 utterly destroy_H2763 every_H3605 male_H2145, and_H0802 every_H3605 woman_H0802 who_H0834 has_H0834 lain with_H3045 a_H0834 man_H2145.” 
+@12 They_H0834 found_H4672 among_H0413 the_H0853 inhabitants_H3427 of_H0776 Jabesh_H3003 Gilead_H1568 four_H0702 hundred_H3967 young_H5291 virgins_H1330 who_H0834 had_H0834 not_H3808 known_H3045 man_H0376 by_H0413 lying_H4904 with_H0413 him_H0413; and_H0935 they_H0834 brought_H0935 them_H0413 to_H0413 the_H0853 camp_H4264 to_H0413 Shiloh_H7887, which_H0834 is_H0834 in_H3427 the_H0853 land_H0776 of_H0776 Canaan_H3667. 
 
-@13 The whole congregation sent and spoke to the children of Benjamin who were in the rock of Rimmon, and proclaimed peace to them. 
-@14 Benjamin returned at that time; and they gave them the women whom they had saved alive of the women of Jabesh Gilead. There still weren’t enough for them.
+@13 The_H3605 whole_H3605 congregation_H5712 sent_H7971 and_H1121 spoke_H1696 to_H0413 the_H3605 children_H1121 of_H1121 Benjamin_H1144 who_H0834 were_H0834 in_H0413 the_H3605 rock_H5553 of_H1121 Rimmon_H7417, and_H1121 proclaimed_H7121 peace_H7965 to_H0413 them_H0413. 
+@14 Benjamin_H1144 returned_H7725 at_H7725 that_H0834 time_H6256; and_H7725 they_H0834 gave_H5414 them_H5414 the_H0834 women_H0802 whom_H0834 they_H0834 had_H0834 saved alive_H2421 of_H0802 the_H0834 women_H0802 of_H0802 Jabesh_H3003 Gilead_H1568. There_H4672 still_H7725 weren’t enough_H4672 for_H6256 them_H5414.
 
 ## The robbery of the maidens of Shiloh by the Benjaminites; the story ends
-@15 The people grieved for Benjamin, because Yahweh had made a breach in the tribes of Israel. 
-@16 Then the elders of the congregation said, “How shall we provide wives for those who remain, since the women are destroyed out of Benjamin?” 
-@17 They said, “There must be an inheritance for those who are escaped of Benjamin, that a tribe not be blotted out from Israel. 
-@18 However, we may not give them wives of our daughters, for the children of Israel had sworn, saying, ‘Cursed is he who gives a wife to Benjamin.’” 
-@19 They said, “Behold, there is a feast of Yahweh from year to year in Shiloh, which is on the north of Bethel, on the east side of the highway that goes up from Bethel to Shechem, and on the south of Lebonah.” 
-@20 They commanded the children of Benjamin, saying, “Go and lie in wait in the vineyards, 
-@21 and see, and behold, if the daughters of Shiloh come out to dance in the dances, then come out of the vineyards, and each man catch his wife of the daughters of Shiloh, and go to the land of Benjamin. 
-@22 It shall be, when their fathers or their brothers come to complain to us, that we will say to them, ‘Grant them graciously to us, because we didn’t take for each man his wife in battle, neither did you give them to them; otherwise you would now be guilty.’” 
+@15 The_H3588 people_H5971 grieved for_H3588 Benjamin_H1144, because_H3588 Yahweh_H3068 had_H3068 made_H6213 a_H3588 breach_H6556 in_H3068 the_H3588 tribes_H7626 of_H3068 Israel_H3478. 
+@16 Then_H0559 the_H0559 elders_H2205 of_H2205 the_H0559 congregation_H5712 said_H0559, “How_H4100 shall_H5712 we_H3588 provide_H6213 wives_H0802 for_H3588 those_H3588 who_H0802 remain_H3498, since_H3588 the_H0559 women_H0802 are_H4100 destroyed_H8045 out_H4100 of_H2205 Benjamin_H1144?” 
+@17 They_H3808 said_H0559, “There must_H3808 be_H3808 an_H0559 inheritance_H3425 for_H3808 those who_H3478 are_H3478 escaped_H6413 of_H7626 Benjamin_H1144, that_H0559 a_H3808 tribe_H7626 not_H3808 be_H3808 blotted out_H4229 from_H3478 Israel_H3478. 
+@18 However, we_H0587 may_H3478 not_H3808 give_H5414 them_H5414 wives_H0802 of_H1121 our_H5414 daughters_H1323, for_H3588 the_H0559 children_H1121 of_H1121 Israel_H3478 had_H3478 sworn_H7650, saying_H0559, ‘Cursed_H0779 is_H3478 he_H3588 who_H1121 gives_H5414 a_H3588 wife_H0802 to_H0559 Benjamin_H1144.’” 
+@19 They_H0834 said_H0559, “Behold_H2009, there_H2009 is_H0834 a_H0834 feast_H2282 of_H3068 Yahweh_H3068 from_H5927 year_H3117 to_H0559 year_H3117 in_H3068 Shiloh_H7887, which_H0834 is_H0834 on_H3117 the_H0559 north_H6828 of_H3068 Bethel_H1008, on_H3117 the_H0559 east_H4217 side_H6828 of_H3068 the_H0559 highway_H4546 that_H0834 goes_H5927 up_H5927 from_H5927 Bethel_H1008 to_H0559 Shechem_H7927, and_H3068 on_H3117 the_H0559 south_H5045 of_H3068 Lebonah_H3829.” 
+@20 They_H0559 commanded_H6680 the_H0853 children_H1121 of_H1121 Benjamin_H1144, saying_H0559, “Go and_H1121 lie_H0693 in_H0693 wait_H0693 in_H0693 the_H0853 vineyards_H3754, 
+@21 and_H1980 see_H7200, and_H1980 behold_H2009, if_H0518 the_H7200 daughters_H1323 of_H0776 Shiloh_H7887 come_H1980 out_H3318 to_H1980 dance_H4246 in_H1980 the_H7200 dances_H4246, then_H1980 come_H1980 out_H3318 of_H0776 the_H7200 vineyards_H3754, and_H1980 each_H0376 man_H0376 catch_H2414 his_H0376 wife_H0802 of_H0776 the_H7200 daughters_H1323 of_H0776 Shiloh_H7887, and_H1980 go_H1980 to_H1980 the_H7200 land_H0776 of_H0776 Benjamin_H1144. 
+@22 It_H5414 shall_H0376 be_H1961, when_H3588 their_H5414 fathers_H0001 or_H0176 their_H5414 brothers_H0251 come_H0935 to_H0413 complain_H7378 to_H0413 us_H5414, that_H3588 we_H3588 will_H1961 say_H0559 to_H0413 them_H0413, ‘Grant_H5414 them_H0413 graciously_H2603 to_H0413 us_H5414, because_H3588 we_H3588 didn’t_H3808 take_H3947 for_H3588 each_H0376 man_H0376 his_H5414 wife_H0802 in_H0935 battle_H4421, neither_H3808 did_H3808 you_H0859 give_H5414 them_H0413 to_H0413 them_H0413; otherwise_H3808 you_H0859 would_H0559 now_H1961 be_H1961 guilty_H0816.’” 
 
-@23 The children of Benjamin did so, and took wives for themselves according to their number, of those who danced, whom they carried off. They went and returned to their inheritance, built the cities, and lived in them. 
-@24 The children of Israel departed from there at that time, every man to his tribe and to his family, and they each went out from there to his own inheritance. 
-@25 In those days there was no king in Israel. Everyone did that which was right in his own eyes. 
+@23 The_H0853 children_H1121 of_H1121 Benjamin_H1144 did_H6213 so_H3651, and_H1121 took_H5375 wives_H0802 for_H0413 themselves_H1129 according_H0413 to_H0413 their_H5375 number_H4557, of_H1121 those_H0834 who_H0834 danced, whom_H0834 they_H0834 carried_H5375 off_H5375. They_H0834 went_H7725 and_H1121 returned_H7725 to_H0413 their_H5375 inheritance_H5159, built_H1129 the_H0853 cities_H5892, and_H1121 lived_H3427 in_H3427 them_H0413. 
+@24 The_H8033 children_H1121 of_H1121 Israel_H3478 departed_H1980 from_H3318 there_H8033 at_H3478 that_H1931 time_H6256, every_H0376 man_H0376 to_H1980 his_H0376 tribe_H7626 and_H1980 to_H1980 his_H0376 family_H4940, and_H1980 they_H8033 each_H0376 went_H1980 out_H3318 from_H3318 there_H8033 to_H1980 his_H0376 own_H0376 inheritance_H5159. 
+@25 In_H3478 those_H0376 days_H3117 there_H0369 was_H0369 no_H0369 king_H4428 in_H3478 Israel_H3478. Everyone_H0376 did_H6213 that_H3117 which_H5869 was_H0369 right_H3477 in_H3478 his_H0376 own_H0376 eyes_H5869. 

@@ -1,1486 +1,812 @@
 # 1 
 ## Jesus as the “Word” made man
-@1 In the beginning was the Word, and the Word was with God, and the Word was God. 
-@2 The same was in the beginning with God. 
-@3 All things were made through him. Without him, nothing was made that has been made. 
-@4 In him was life, and the life was the light of men. 
-@5 The light shines in the darkness, and the darkness hasn’t overcome^a^ it. 
+@1 In_G1722 the_G3588 beginning_G0746 was_G1510 the_G3588 Word_G3056, and_G2532 the_G3588 Word_G3056 was_G1510 with_G1722 God_G2316, and_G2532 the_G3588 Word_G3056 was_G1510 God_G2316. 
+@2 The_G3588 same_G3778 was_G1510 in_G1722 the_G3588 beginning_G0746 with_G1722 God_G2316. 
+@3 All_G3956 things_G3956 were_G3956 made_G1096 through_G1223 him_G0846. Without_G5565 him_G0846, nothing_G3956 was_G3739 made_G1096 that_G3739 has_G3739 been_G1096 made_G1096. 
+@4 In_G1722 him_G0846 was_G1510 life_G2222, and_G2532 the_G3588 life_G2222 was_G1510 the_G3588 light_G5457 of_G1722 men_G0444. 
+@5 The_G3588 light_G5457 shines_G5316 in_G1722 the_G3588 darkness_G4653, and_G2532 the_G3588 darkness_G4653 hasn’t_G3756 overcome^a^ it_G0846. 
 ^a^[**1:5** The word translated “overcome” (κατέλαβεν) can also be translated “comprehended.” It refers to getting a grip on an enemy to defeat him. ]
 
-@6 There came a man sent from God, whose name was John. 
-@7 The same came as a witness, that he might testify about the light, that all might believe through him. 
-@8 He was not the light, but was sent that he might testify about the light. 
-@9 The true light that enlightens everyone was coming into the world. 
+@6 There_G1096 came_G1096 a_G1096 man_G0444 sent_G0649 from_G3844 God_G2316, whose_G0846 name_G3686 was_G1096 John_G2491. 
+@7 The_G3956 same_G0846 came_G2064 as_G1519 a_G2064 witness_G3140, that_G2443 he_G0846 might_G3956 testify_G3140 about_G4012 the_G3956 light_G5457, that_G2443 all_G3956 might_G3956 believe_G4100 through_G1223 him_G0846. 
+@8 He_G1510 was_G1510 not_G3756 the_G3588 light_G5457, but_G0235 was_G1510 sent that_G2443 he_G1510 might testify_G3140 about_G4012 the_G3588 light_G5457. 
+@9 The_G3956 true_G0228 light_G5457 that_G3739 enlightens_G5461 everyone_G3956 was_G1510 coming_G2064 into_G1519 the_G3956 world_G2889. 
 
-@10 He was in the world, and the world was made through him, and the world didn’t recognize him. 
-@11 He came to his own, and those who were his own didn’t receive him. 
-@12 But as many as received him, to them he gave the right to become God’s children, to those who believe in his name: 
-@13 who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God. 
+@10 He_G2532 was_G1510 in_G1722 the_G3588 world_G2889, and_G2532 the_G3588 world_G2889 was_G1510 made_G1096 through_G1223 him_G0846, and_G2532 the_G3588 world_G2889 didn’t_G3756 recognize_G1097 him_G0846. 
+@11 He_G2532 came_G2064 to_G1519 his_G0846 own_G2398, and_G2532 those_G3588 who_G3588 were_G3588 his_G0846 own_G2398 didn’t_G3756 receive_G3880 him_G0846. 
+@12 But_G1161 as_G1519 many_G3745 as_G1519 received_G2983 him_G0846, to_G1519 them_G0846 he_G0846 gave_G1325 the_G3588 right_G1849 to_G1519 become_G1096 God’s_G2316 children_G5043, to_G1519 those_G3588 who_G3588 believe_G4100 in_G1519 his_G0846 name_G3686: 
+@13 who_G3739 were_G3739 born_G1080, not_G3756 of_G1537 blood_G0129, nor_G3761 of_G1537 the_G3739 will_G2307 of_G1537 the_G3739 flesh_G4561, nor_G3761 of_G1537 the_G3739 will_G2307 of_G1537 man_G0435, but_G0235 of_G1537 God_G2316. 
 
-@14 The Word became flesh and lived among us. We saw his glory, such glory as of the only born^a^ Son of the Father, full of grace and truth. 
-@15 John testified about him. He cried out, saying, “This was he of whom I said, ‘He who comes after me has surpassed me, for he was before me.’” 
-@16 From his fullness we all received grace upon grace. 
-@17 For the law was given through Moses. Grace and truth were realized through Jesus Christ.^b^ 
-@18 No one has seen God at any time. The only born^c^ Son,^d^ who is in the bosom of the Father, has declared him. 
+@14 The_G3588 Word_G3056 became_G1096 flesh_G4561 and_G2532 lived among_G1722 us_G1722. We_G2249 saw_G2300 his_G0846 glory_G1391, such glory_G1391 as_G5613 of_G3056 the_G3588 only_G3439 born_G1096^a^ Son of_G3056 the_G3588 Father_G3962, full_G4134 of_G3056 grace_G5485 and_G2532 truth_G0225. 
+@15 John_G2491 testified_G3140 about_G4012 him_G0846. He_G2532 cried_G2896 out_G2896, saying_G3004, “This_G3778 was_G1510 he_G2532 of_G4012 whom_G3739 I_G1473 said_G3004, ‘He_G2532 who_G3739 comes_G2064 after_G3694 me_G3004 has_G3739 surpassed me_G3004, for_G3754 he_G2532 was_G1510 before_G1715 me_G3004.’” 
+@16 From_G1537 his_G0846 fullness_G4138 we_G2249 all_G3956 received_G2983 grace_G5485 upon_G5485 grace_G5485. 
+@17 For_G3754 the_G3588 law_G3551 was_G2424 given_G1325 through_G1223 Moses_G3475. Grace_G5485 and_G2532 truth_G0225 were_G1096 realized_G1096 through_G1223 Jesus_G2424 Christ_G5547.^b^ 
+@18 No_G3762 one_G3762 has_G2316 seen_G3708 God_G2316 at_G1519 any_G3762 time_G4455. The_G3588 only_G3439 born^c^ Son_G5207,^d^ who_G3588 is_G1510 in_G1519 the_G3588 bosom_G2859 of_G5207 the_G3588 Father_G3962, has_G2316 declared him_G3708. 
 ^a^[**1:14** The phrase “only born” is from the Greek word “μονογενους”, which is sometimes translated “only begotten” or “one and only”.] ^b^[**1:17** “Christ” means “Anointed One”.] ^c^[**1:18** The phrase “only born” is from the Greek word “μονογενη”, which is sometimes translated “only begotten” or “one and only”.] ^d^[**1:18** NU reads “God”]
 
 ## The Baptist's Self Testimony
-@19 This is John’s testimony, when the Jews sent priests and Levites from Jerusalem to ask him, “Who are you?” 
+@19 This_G3778 is_G1510 John’s_G2491 testimony_G3141, when_G3753 the_G3588 Jews_G2453 sent_G0649 priests_G2409 and_G2532 Levites_G3019 from_G1537 Jerusalem_G2414 to_G2443 ask_G2065 him_G0846, “Who_G3588 are_G1510 you_G4771?” 
 
-@20 He declared, and didn’t deny, but he declared, “I am not the Christ.” 
+@20 He_G2532 declared, and_G2532 didn’t_G3756 deny_G0720, but_G2532 he_G2532 declared, “I_G1473 am_G1510 not_G3756 the_G3588 Christ_G5547.” 
 
-@21 They asked him, “What then? Are you Elijah?” 
+@21 They_G0846 asked_G2065 him_G0846, “What_G5101 then_G2532? Are_G1510 you_G4771 Elijah_G2243?” 
 
-He said, “I am not.” 
+He_G2532 said_G3004, “I_G2532 am_G1510 not_G3756.” 
 
-“Are you the prophet?” 
+“Are_G1510 you_G4771 the_G3588 prophet_G4396?” 
 
-He answered, “No.” 
+He_G2532 answered_G0611, “No_G3756.” 
 
-@22 They said therefore to him, “Who are you? Give us an answer to take back to those who sent us. What do you say about yourself?” 
+@22 They_G0846 said_G3004 therefore_G3767 to_G2443 him_G0846, “Who_G3588 are_G1510 you_G1325? Give_G1325 us_G1325 an_G1510 answer_G0612 to_G2443 take back_G1325 to_G2443 those_G3588 who_G3588 sent_G3992 us_G1325. What_G5101 do_G1510 you_G1325 say_G3004 about_G4012 yourself_G4572?” 
 
-@23 He said, “I am the voice of one crying in the wilderness, ‘Make straight the way of the Lord,’^a^ as Isaiah the prophet said.” 
+@23 He_G3004 said_G3004, “I_G1473 am_G5456 the_G3588 voice_G5456 of_G2962 one_G3588 crying_G0994 in_G1722 the_G3588 wilderness_G2048, ‘Make_G2116 straight_G2116 the_G3588 way_G3598 of_G2962 the_G3588 Lord_G2962,’^a^ as_G2531 Isaiah_G2268 the_G3588 prophet_G4396 said_G3004.” 
 ^a^[**1:23** Isaiah 40:3]
 
-@24 The ones who had been sent were from the Pharisees. 
-@25 They asked him, “Why then do you baptize if you are not the Christ, nor Elijah, nor the prophet?” 
+@24 The_G3588 ones who_G3588 had_G1510 been_G1510 sent_G0649 were_G1510 from_G1537 the_G3588 Pharisees_G5330. 
+@25 They_G0846 asked_G2065 him_G0846, “Why_G5101 then_G2532 do_G1510 you_G4771 baptize_G0907 if_G1487 you_G4771 are_G1510 not_G3756 the_G3588 Christ_G5547, nor_G3761 Elijah_G2243, nor_G3761 the_G3588 prophet_G4396?” 
 
-@26 John answered them, “I baptize in water, but among you stands one whom you don’t know. 
-@27 He is the one who comes after me, who is preferred before me, whose sandal strap I’m not worthy to loosen.” 
-@28 These things were done in Bethany beyond the Jordan, where John was baptizing.
+@26 John_G2491 answered_G0611 them_G0846, “I_G1473 baptize_G0907 in_G1722 water_G5204, but_G1473 among_G1722 you_G5210 stands_G2476 one_G3739 whom_G3739 you_G5210 don’t_G3756 know_G1492. 
+@27 He_G0846 is_G1510 the_G3588 one_G3739 who_G3739 comes_G2064 after_G3694 me_G1473, who_G3739 is_G1510 preferred before_G3588 me_G1473, whose_G3739 sandal_G5266 strap I’m not_G3756 worthy_G0514 to_G2443 loosen.” 
+@28 These_G3778 things_G3778 were_G1510 done_G1096 in_G1722 Bethany_G0963 beyond_G4008 the_G3588 Jordan_G2446, where_G3699 John_G2491 was_G1510 baptizing_G0907.
 
 ## The Baptist's testimony about Jesus
-@29 The next day, he saw Jesus coming to him, and said, “Behold,^a^ the Lamb of God, who takes away the sin of the world! 
-@30 This is he of whom I said, ‘After me comes a man who is preferred before me, for he was before me.’ 
-@31 I didn’t know him, but for this reason I came baptizing in water, that he would be revealed to Israel.” 
-@32 John testified, saying, “I have seen the Spirit descending like a dove out of heaven, and it remained on him. 
-@33 I didn’t recognize him, but he who sent me to baptize in water said to me, ‘On whomever you will see the Spirit descending and remaining on him is he who baptizes in the Holy Spirit.’ 
-@34 I have seen and have testified that this is the Son of God.” 
+@29 The_G3588 next_G1887 day_G1887, he_G2532 saw_G3708 Jesus_G2424 coming_G2064 to_G4314 him_G0846, and_G2532 said_G3004, “Behold_G2396,^a^ the_G3588 Lamb_G0286 of_G2316 God_G2316, who_G3588 takes_G0142 away_G0142 the_G3588 sin_G0266 of_G2316 the_G3588 world_G2889! 
+@30 This_G3778 is_G1510 he_G3739 of_G0435 whom_G3739 I_G1473 said_G3004, ‘After_G3694 me_G3004 comes_G2064 a_G1096 man_G0435 who_G3739 is_G1510 preferred before_G1715 me_G3004, for_G3754 he_G3739 was_G1510 before_G1715 me_G3004.’ 
+@31 I_G1473 didn’t_G3756 know_G1492 him_G0846, but_G0235 for_G1223 this_G3778 reason_G1223 I_G1473 came_G2064 baptizing_G0907 in_G1722 water_G5204, that_G2443 he_G0846 would_G0846 be_G3778 revealed_G5319 to_G2443 Israel_G2474.” 
+@32 John_G2491 testified_G3140, saying_G3004, “I_G2532 have_G2532 seen_G2300 the_G3588 Spirit_G4151 descending_G2597 like_G5613 a_G5613 dove_G4058 out_G1537 of_G1537 heaven_G3772, and_G2532 it_G0846 remained_G3306 on_G1909 him_G0846. 
+@33 I_G1473 didn’t_G3756 recognize_G1492 him_G0846, but_G0235 he_G2532 who_G3739 sent_G3992 me_G3004 to_G3004 baptize_G0907 in_G1722 water_G5204 said_G3004 to_G3004 me_G3004, ‘On_G1909 whomever_G3739 you_G3739 will_G1510 see_G3708 the_G3588 Spirit_G4151 descending_G2597 and_G2532 remaining_G3306 on_G1909 him_G0846 is_G1510 he_G2532 who_G3739 baptizes_G0907 in_G1722 the_G3588 Holy_G0040 Spirit_G4151.’ 
+@34 I_G2532 have_G1510 seen_G3708 and_G2532 have_G1510 testified_G3140 that_G3754 this_G3778 is_G1510 the_G3588 Son_G5207 of_G5207 God_G2316.” 
 ^a^[**1:29** “Behold”, from “ἰδοὺ”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.]
 
-@35 Again, the next day, John was standing with two of his disciples, 
-@36 and he looked at Jesus as he walked, and said, “Behold, the Lamb of God!” 
-@37 The two disciples heard him speak, and they followed Jesus. 
-@38 Jesus turned and saw them following, and said to them, [“What are you looking for?”]{.wj} 
+@35 Again_G3825, the_G3588 next_G1887 day_G1887, John_G2491 was_G3588 standing_G2476 with_G1537 two_G1417 of_G1537 his_G0846 disciples_G3101, 
+@36 and_G2532 he_G2532 looked_G3708 at_G1689 Jesus_G2424 as_G2532 he_G2532 walked_G4043, and_G2532 said_G3004, “Behold_G2396, the_G3588 Lamb_G0286 of_G2316 God_G2316!” 
+@37 The_G3588 two_G1417 disciples_G3101 heard_G0191 him_G0846 speak_G2980, and_G2532 they_G0846 followed_G0190 Jesus_G2424. 
+@38 Jesus_G2424 turned_G4762 and_G2532 saw_G2300 them_G0846 following_G0190, and_G2532 said_G3004 to_G3004 them_G0846, j_“said_G3004 to_G3004 him_G0846, “Rabbi_G4461” (which_G5101 is_G5101 to_G3004 say_G3004, being interpreted, Teacher_G1320), “where_G4226 are_G3588 you_G3004 staying_G3306?” 
 
-They said to him, “Rabbi” (which is to say, being interpreted, Teacher), “where are you staying?” 
-
-@39 He said to them, [“Come and see.”]{.wj} 
-
-They came and saw where he was staying, and they stayed with him that day. It was about the tenth hour.^a^ 
-@40 One of the two who heard John and followed him was Andrew, Simon Peter’s brother. 
-@41 He first found his own brother, Simon, and said to him, “We have found the Messiah!” (which is, being interpreted, Christ^b^ ). 
-@42 He brought him to Jesus. Jesus looked at him and said, [“You are Simon the son of Jonah. You shall be called Cephas”]{.wj} (which is by interpretation, Peter).^c^ 
+@39 He_G2532 said_G3004 to_G3004 them_G0846, j_“came_G2064 and_G2532 saw_G3708 where_G4226 he_G2532 was_G1510 staying_G3306, and_G2532 they_G0846 stayed_G3306 with_G3844 him_G0846 that_G3739 day_G2250. It_G0846 was_G1510 about_G5613 the_G3588 tenth_G1182 hour_G5610.^a^ 
+@40 One_G1520 of_G2250 the_G3588 two_G1417 who_G3588 heard_G0191 John_G2491 and_G2532 followed_G0190 him_G0846 was_G1510 Andrew_G0406, Simon_G4613 Peter’s_G4074 brother_G0080. 
+@41 He_G2532 first_G4413 found_G2147 his_G0846 own_G2398 brother_G0080, Simon_G4613, and_G2532 said_G3004 to_G3004 him_G0846, “We_G2532 have_G1510 found_G2147 the_G3588 Messiah_G5547!” (which_G3588 is_G1510, being_G1510 interpreted, Christ_G5547^b^ ). 
+@42 He_G2532 brought_G0071 him_G0846 to_G4314 Jesus_G2424. Jesus_G2424 looked_G1689 at_G4314 him_G0846 and_G2532 said_G3004, j_“is_G1510 by_G3004 interpretation, Peter_G4074).^c^ 
 ^a^[**1:39** 4:00 p. m.] ^b^[**1:41** “Messiah” (Hebrew) and “Christ” (Greek) both mean “Anointed One”.] ^c^[**1:42** “Cephas” (Aramaic) and “Peter” (Greek) both mean “Rock”.]
 
-@43 On the next day, he was determined to go out into Galilee, and he found Philip. Jesus said to him, [“Follow me.”]{.wj} 
-@44 Now Philip was from Bethsaida, the city of Andrew and Peter. 
-@45 Philip found Nathanael, and said to him, “We have found him of whom Moses in the law and also the prophets, wrote: Jesus of Nazareth, the son of Joseph.” 
+@43 On_G1519 the_G3588 next_G1887 day_G1887, he_G2532 was_G1510 determined to_G1519 go_G1831 out_G1831 into_G1519 Galilee_G1056, and_G2532 he_G2532 found_G2147 Philip_G5376. Jesus_G2424 said_G3004 to_G1519 him_G0846, j_“Philip_G5376 was_G1510 from_G0575 Bethsaida_G0966, the_G3588 city_G4172 of_G0575 Andrew_G0406 and_G2532 Peter_G4074. 
+@45 Philip_G5376 found_G2147 Nathanael_G3482, and_G2532 said_G3004 to_G3004 him_G0846, “We_G2532 have_G1510 found_G2147 him_G0846 of_G5207 whom_G3588 Moses_G3475 in_G1722 the_G3588 law_G3551 and_G2532 also_G2532 the_G3588 prophets_G4396, wrote_G1125: Jesus_G2424 of_G5207 Nazareth_G3478, the_G3588 son_G5207 of_G5207 Joseph_G2501.” 
 
-@46 Nathanael said to him, “Can any good thing come out of Nazareth?” 
+@46 Nathanael_G3482 said_G3004 to_G3004 him_G0846, “Can_G1410 any_G3739 good_G0018 thing_G0018 come_G2064 out_G0575 of_G5207 Nazareth_G3478?” 
 
-Philip said to him, “Come and see.” 
+Philip_G5376 said_G3004 to_G3004 him_G0846, “Come_G2064 and_G2532 see_G3708.” 
 
-@47 Jesus saw Nathanael coming to him, and said about him, [“Behold, an Israelite indeed, in whom is no deceit!”]{.wj} 
+@47 Jesus_G2424 saw_G3708 Nathanael_G3482 coming_G2064 to_G4314 him_G0846, and_G2532 said_G3004 about_G4012 him_G0846, j_“said_G3004 to_G4314 him_G0846, “How_G4159 do_G1510 you_G4771 know_G1097 me_G3004?” 
 
-@48 Nathanael said to him, “How do you know me?” 
+Jesus_G2424 answered_G0611 him_G0846, j_“answered_G0611 him_G0846, “Rabbi_G4461, you_G4771 are_G1510 the_G3588 Son_G5207 of_G5207 God_G2316! You_G4771 are_G1510 King_G0935 of_G5207 Israel_G2474!” 
 
-Jesus answered him, [“Before Philip called you, when you were under the fig tree, I saw you.”]{.wj} 
+@50 Jesus_G2424 answered_G0611 him_G0846, j_“said_G3004 to_G3004 him_G0846, j_“Most_third_G5154 day_G2250, there_G1563 was_G1510 a_G1096 wedding_G1062 in_G1722 Cana_G2580 of_G2250 Galilee_G1056. Jesus’_G2424 mother_G3384 was_G1510 there_G1563. 
+@2 Jesus_G2424 also_G2532 was_G2424 invited_G2564, with_G2532 his_G0846 disciples_G3101, to_G1519 the_G3588 wedding_G1062. 
+@3 When_G2532 the_G3588 wine_G3631 ran_G5302 out_G1510, Jesus’_G2424 mother_G3384 said_G3004 to_G4314 him_G0846, “They_G0846 have_G2192 no_G3756 wine_G3631.” 
 
-@49 Nathanael answered him, “Rabbi, you are the Son of God! You are King of Israel!” 
+@4 Jesus_G2424 said_G3004 to_G3004 her_G0846, j_“mother_G3384 said_G3004 to_G3004 the_G3588 servants_G1249, “Whatever_G3739 he_G0846 says_G3004 to_G3004 you_G5210, do_G4160 it_G0846.” 
 
-@50 Jesus answered him, [“Because I told you, ‘I saw you underneath the fig tree,’ do you believe? You will see greater things than these!”]{.wj} 
-@51 He said to him, [“Most certainly, I tell you all, hereafter you will see heaven opened, and the angels of God ascending and descending on the Son of Man.”]{.wj} 
-
-# 2 
-## The first miraculous sign of Jesus at the wedding in Cana
-@1 The third day, there was a wedding in Cana of Galilee. Jesus’ mother was there. 
-@2 Jesus also was invited, with his disciples, to the wedding. 
-@3 When the wine ran out, Jesus’ mother said to him, “They have no wine.” 
-
-@4 Jesus said to her, [“Woman, what does that have to do with you and me? My hour has not yet come.”]{.wj} 
-
-@5 His mother said to the servants, “Whatever he says to you, do it.” 
-
-@6 Now there were six water pots of stone set there after the Jews’ way of purifying, containing two or three metretes^a^ apiece. 
-@7 Jesus said to them, [“Fill the water pots with water.”]{.wj} So they filled them up to the brim. 
-@8 He said to them, [“Now draw some out, and take it to the ruler of the feast.”]{.wj} So they took it. 
-@9 When the ruler of the feast tasted the water now become wine, and didn’t know where it came from (but the servants who had drawn the water knew), the ruler of the feast called the bridegroom 
-@10 and said to him, “Everyone serves the good wine first, and when the guests have drunk freely, then that which is worse. You have kept the good wine until now!” 
-@11 This beginning of his signs Jesus did in Cana of Galilee, and revealed his glory; and his disciples believed in him. 
+@6 Now_G1161 there_G1563 were_G1510 six_G1803 water pots of_G2596 stone_G3035 set_G2749 there_G1563 after_G2596 the_G3588 Jews’ way_G2596 of_G2596 purifying, containing_G5562 two_G1417 or_G2228 three_G5140 metretes^a^ apiece_G0303. 
+@7 Jesus_G2424 said_G3004 to_G3004 them_G0846, j_“they_G0846 filled_G1072 them_G0846 up_G1072 to_G3004 the_G3588 brim_G0507. 
+@8 He_G2532 said_G3004 to_G3004 them_G0846, j_“they_G0846 took_G5342 it_G0846. 
+@9 When_G5613 the_G3588 ruler of_G1249 the_G3588 feast tasted_G1089 the_G3588 water_G5204 now_G1161 become_G1096 wine_G3631, and_G2532 didn’t_G3756 know_G1492 where_G4159 it_G1161 came_G1096 from_G2532 (but_G1161 the_G3588 servants_G1249 who_G3588 had_G1510 drawn_G0501 the_G3588 water_G5204 knew_G1492), the_G3588 ruler of_G1249 the_G3588 feast called_G5455 the_G3588 bridegroom_G3566 
+@10 and_G2532 said_G3004 to_G3004 him_G0846, “Everyone_G3956 serves_G5087 the_G3956 good_G2570 wine_G3631 first_G4413, and_G2532 when_G3752 the_G3956 guests have_G2532 drunk_G3184 freely_G3184, then_G2532 that_G3004 which_G3588 is_G0444 worse. You_G4771 have_G2532 kept_G5083 the_G3956 good_G2570 wine_G3631 until_G2193 now_G2532!” 
+@11 This_G3778 beginning_G0746 of_G1391 his_G0846 signs_G4592 Jesus_G2424 did_G4160 in_G1722 Cana_G2580 of_G1391 Galilee_G1056, and_G2532 revealed_G5319 his_G0846 glory_G1391; and_G2532 his_G0846 disciples_G3101 believed_G4100 in_G1722 him_G0846. 
 ^a^[**2:6** 2 to 3 metretes is about 20 to 30 U. S. Gallons, or 75 to 115 liters.]
 
-## Jesus for the first time in Jerusalem on Passover
-@12 After this, he went down to Capernaum, he, and his mother, his brothers, and his disciples; and they stayed there a few days. 
+@12 After_G3326 this_G3778, he_G2532 went_G2597 down_G2597 to_G1519 Capernaum_G2584, he_G2532, and_G2532 his_G0846 mother_G3384, his_G0846 brothers_G0080, and_G2532 his_G0846 disciples_G3101; and_G2532 they_G0846 stayed_G3306 there_G1563 a_G2532 few days_G2250. 
 
-@13 The Passover of the Jews was at hand, and Jesus went up to Jerusalem. 
-@14 He found in the temple those who sold oxen, sheep, and doves, and the changers of money sitting. 
-@15 He made a whip of cords and drove all out of the temple, both the sheep and the oxen; and he poured out the changers’ money and overthrew their tables. 
-@16 To those who sold the doves, he said, [“Take these things out of here! Don’t make my Father’s house a marketplace!”]{.wj} 
-@17 His disciples remembered that it was written, “Zeal for your house will eat me up.”^a^ 
+@13 The_G3588 Passover_G3957 of_G2424 the_G3588 Jews_G2453 was_G1510 at_G1519 hand, and_G2532 Jesus_G2424 went_G0305 up_G0305 to_G1519 Jerusalem_G2414. 
+@14 He_G2532 found_G2147 in_G1722 the_G3588 temple_G2413 those_G3588 who_G3588 sold_G4453 oxen_G1016, sheep_G4263, and_G2532 doves_G4058, and_G2532 the_G3588 changers_G2773 of_G1722 money_G2773 sitting_G2521. 
+@15 He_G2532 made_G4160 a_G4160 whip of_G1537 cords_G4979 and_G2532 drove_G1544 all_G3956 out_G1537 of_G1537 the_G3956 temple_G2413, both_G5037 the_G3956 sheep_G4263 and_G2532 the_G3956 oxen_G1016; and_G2532 he_G2532 poured out_G1537 the_G3956 changers’ money and_G2532 overthrew their_G2532 tables_G5132. 
+@16 To_G3004 those_G3588 who_G3588 sold_G4453 the_G3588 doves_G4058, he_G2532 said_G3004, j_“disciples_G3101 remembered_G3403 that_G3754 it_G0846 was_G1510 written_G1125, “Zeal_G2205 for_G3754 your_G3588 house_G3624 will_G1510 eat_G2719 me_G1473 up.”^a^ 
 ^a^[**2:17** Psalm 69:9]
 
-@18 The Jews therefore answered him, “What sign do you show us, seeing that you do these things?” 
+@18 The_G3588 Jews_G2453 therefore_G3767 answered_G0611 him_G0846, “What_G5101 sign_G4592 do_G4160 you_G3754 show_G1166 us_G3004, seeing that_G3754 you_G3754 do_G4160 these_G3778 things_G3778?” 
 
-@19 Jesus answered them, [“Destroy this temple, and in three days I will raise it up.”]{.wj} 
+@19 Jesus_G2424 answered_G0611 them_G0846, j_“Jews_G2453 therefore_G3767 said_G3004, “It_G0846 took forty-six years_G2094 to_G3004 build_G3618 this_G3778 temple_G3485! Will_G2250 you_G4771 raise_G1453 it_G0846 up_G1453 in_G1722 three_G5140 days_G2250?” 
+@21 But_G1161 he_G0846 spoke_G3004 of_G4983 the_G3588 temple_G3485 of_G4983 his_G0846 body_G4983. 
+@22 When_G3753 therefore_G3767 he_G2532 was_G2424 raised_G1453 from_G1537 the_G3588 dead_G3498, his_G0846 disciples_G3101 remembered_G3403 that_G3754 he_G2532 said_G3004 this_G3778, and_G2532 they_G0846 believed_G4100 the_G3588 Scripture_G1124 and_G2532 the_G3588 word_G3056 which_G3739 Jesus_G2424 had_G2424 said_G3004. 
 
-@20 The Jews therefore said, “It took forty-six years to build this temple! Will you raise it up in three days?” 
-@21 But he spoke of the temple of his body. 
-@22 When therefore he was raised from the dead, his disciples remembered that he said this, and they believed the Scripture and the word which Jesus had said. 
-
-@23 Now when he was in Jerusalem at the Passover, during the feast, many believed in his name, observing his signs which he did. 
-@24 But Jesus didn’t entrust himself to them, because he knew everyone, 
-@25 and because he didn’t need for anyone to testify concerning man; for he himself knew what was in man. 
+@23 Now_G1161 when_G5613 he_G0846 was_G1510 in_G1722 Jerusalem_G2414 at_G1722 the_G3588 Passover_G3957, during_G1722 the_G3588 feast_G1859, many_G4183 believed_G4100 in_G1722 his_G0846 name_G3686, observing_G2334 his_G0846 signs_G4592 which_G3739 he_G0846 did_G4160. 
+@24 But_G1161 Jesus_G2424 didn’t_G3756 entrust_G4100 himself_G1438 to_G0846 them_G0846, because_G1223 he_G0846 knew_G1097 everyone_G3956, 
+@25 and_G2532 because_G3754 he_G2532 didn’t_G3756 need_G5532 for_G1063 anyone_G5100 to_G2443 testify_G3140 concerning_G4012 man_G0444; for_G1063 he_G2532 himself_G0846 knew_G1097 what_G5101 was_G1510 in_G1722 man_G0444. 
 
 # 3 
+## The first miraculous sign of Jesus at the wedding in Cana
+@1 Now_G1161 there_G1510 was_G1510 a_G1510 man_G0444 of_G1537 the_G3588 Pharisees_G5330 named_G3686 Nicodemus_G3530, a_G1510 ruler_G0758 of_G1537 the_G3588 Jews_G2453. 
+@2 He_G2532 came_G2064 to_G4314 Jesus_G0846 by_G0575 night_G3571 and_G2532 said_G3004 to_G4314 him_G0846, “Rabbi_G4461, we_G3739 know_G1492 that_G3754 you_G4771 are_G1510 a_G1510 teacher_G1320 come_G2064 from_G0575 God_G2316, for_G1063 no_G3762 one_G3762 can_G1410 do_G4160 these_G3778 signs_G4592 that_G3754 you_G4771 do_G4160, unless_G1437 God_G2316 is_G1510 with_G3326 him_G0846.” 
+
+@3 Jesus_G2424 answered_G0611 him_G0846, j_“Most_said_G3004 to_G1519 him_G0846, “How_G4459 can_G1410 a_G1510 man_G0444 be_G1510 born_G1080 when_G2532 he_G2532 is_G1510 old_G1088? Can_G1410 he_G2532 enter_G1525 a_G1510 second_G1208 time_G1208 into_G1519 his_G0846 mother’s_G3384 womb_G2836 and_G2532 be_G1510 born_G1080?” 
+
+@5 Jesus_G2424 answered_G0611, j_“Most_answered_G0611 him_G0846, “How_G4459 can_G1410 these_G3778 things_G3778 be_G1096?” 
+
+@10 Jesus_G2424 answered_G0611 him_G0846, j_“these_G3778 things_G3778, Jesus_G2424 came_G2064 with_G3326 his_G0846 disciples_G3101 into_G1519 the_G3588 land_G1093 of_G1093 Judea_G2453. He_G2532 stayed_G1304 there_G1563 with_G3326 them_G0846 and_G2532 baptized_G0907. 
+@23 John_G2491 also_G2532 was_G1510 baptizing_G0907 in_G1722 Enon near_G1451 Salim_G4530, because_G3754 there_G1563 was_G1510 much_G4183 water_G5204 there_G1563. They_G2532 came_G3854 and_G2532 were_G1510 baptized_G0907;
+
+## Jesus for the first time in Jerusalem on Passover
 ## Jesus and Nicodemus
-@1 Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews. 
-@2 He came to Jesus by night and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.” 
-
-@3 Jesus answered him, [“Most certainly I tell you, unless one is born anew,]{.wj}^a^ [he can’t see God’s Kingdom.”]{.wj} 
-^a^[**3:3** The word translated “anew” here and in John 3:7 (ἄνωθεν) also means “again” and “from above”.]
-
-@4 Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb and be born?” 
-
-@5 Jesus answered, [“Most certainly I tell you, unless one is born of water and Spirit, he can’t enter into God’s Kingdom.]{.wj} 
-@6 [That which is born of the flesh is flesh. That which is born of the Spirit is spirit.]{.wj} 
-@7 [Don’t marvel that I said to you, ‘You must be born anew.’]{.wj} 
-@8 [The wind]{.wj}^a^ [blows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”]{.wj} 
-^a^[**3:8** The same Greek word (πνεῦμα) means wind, breath, and spirit.]
-
-@9 Nicodemus answered him, “How can these things be?” 
-
-@10 Jesus answered him, [“Are you the teacher of Israel, and don’t understand these things?]{.wj} 
-@11 [Most certainly I tell you, we speak that which we know and testify of that which we have seen, and you don’t receive our witness.]{.wj} 
-@12 [If I told you earthly things and you don’t believe, how will you believe if I tell you heavenly things?]{.wj} 
-@13 [No one has ascended into heaven but he who descended out of heaven, the Son of Man, who is in heaven.]{.wj} 
-@14 [As Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,]{.wj} 
-@15 [that whoever believes in him should not perish, but have eternal life.]{.wj} 
-@16 [For God so loved the world, that he gave his only born]{.wj}^a^ [Son, that whoever believes in him should not perish, but have eternal life.]{.wj} 
-@17 [For God didn’t send his Son into the world to judge the world, but that the world should be saved through him.]{.wj} 
-@18 [He who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the only born Son of God.]{.wj} 
-@19 [This is the judgment, that the light has come into the world, and men loved the darkness rather than the light, for their works were evil.]{.wj} 
-@20 [For everyone who does evil hates the light and doesn’t come to the light, lest his works would be exposed.]{.wj} 
-@21 [But he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”]{.wj} 
-^a^[**3:16** The phrase “only born” is from the Greek word “μονογενη”, which is sometimes translated “only begotten” or “one and only”.]
-
 ## Jesus in Judea and the final testimony of the Baptist
-@22 After these things, Jesus came with his disciples into the land of Judea. He stayed there with them and baptized. 
-@23 John also was baptizing in Enon near Salim, because there was much water there. They came and were baptized; 
-@24 for John was not yet thrown into prison. 
-@25 Therefore a dispute arose on the part of John’s disciples with some Jews about purification. 
-@26 They came to John and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, he baptizes, and everyone is coming to him.” 
+@24 for_G1063 John_G2491 was_G1510 not_G1510 yet_G3768 thrown_G0906 into_G1519 prison_G5438. 
+@25 Therefore_G3767 a_G1096 dispute arose_G1096 on_G1537 the_G3588 part of_G1537 John’s_G2491 disciples_G3101 with_G3326 some_G1537 Jews_G2453 about_G4012 purification_G2512. 
+@26 They_G0846 came_G2064 to_G4314 John_G2491 and_G2532 said_G3004 to_G4314 him_G0846, “Rabbi_G4461, he_G2532 who_G3739 was_G1510 with_G3326 you_G4771 beyond_G4008 the_G3956 Jordan_G2446, to_G4314 whom_G3739 you_G4771 have_G1510 testified_G3140, behold_G2396, he_G2532 baptizes_G0907, and_G2532 everyone_G3956 is_G1510 coming_G2064 to_G4314 him_G0846.” 
 
-@27 John answered, “A man can receive nothing unless it has been given him from heaven. 
-@28 You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’ 
-@29 He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. Therefore my joy is made full. 
-@30 He must increase, but I must decrease. 
+@27 John_G2491 answered_G0611, “A_G2983 man_G0444 can_G1410 receive_G2983 nothing_G3762 unless_G1437 it_G0846 has_G0444 been_G1510 given_G1325 him_G0846 from_G1537 heaven_G3772. 
+@28 You_G5210 yourselves_G0846 testify_G3140 that_G3754 I_G1473 said_G3004, ‘I_G1473 am_G1510 not_G3756 the_G3588 Christ_G5547,’ but_G0235, ‘I_G1473 have_G1510 been_G1510 sent_G0649 before_G1715 him_G0846.’ 
+@29 He_G2532 who_G3588 has_G2192 the_G3588 bride_G3565 is_G1510 the_G3588 bridegroom_G3566; but_G1161 the_G3588 friend_G5384 of_G1223 the_G3588 bridegroom_G3566, who_G3588 stands_G2476 and_G2532 hears_G0191 him_G0846, rejoices_G5463 greatly_G5479 because_G1223 of_G1223 the_G3588 bridegroom’s_G3566 voice_G5456. Therefore_G3767 my_G1699 joy_G5479 is_G1510 made_G4137 full_G4137. 
+@30 He_G1161 must_G1163 increase_G0837, but_G1161 I_G1473 must_G1163 decrease_G1642. 
 
-@31 “He who comes from above is above all. He who is from the earth belongs to the earth and speaks of the earth. He who comes from heaven is above all. 
-@32 What he has seen and heard, of that he testifies; and no one receives his witness. 
-@33 He who has received his witness has set his seal to this, that God is true. 
-@34 For he whom God has sent speaks the words of God; for God gives the Spirit without measure. 
-@35 The Father loves the Son, and has given all things into his hand. 
-@36 One who believes in the Son has eternal life, but one who disobeys^a^ the Son won’t see life, but the wrath of God remains on him.”
+@31 “He_G2532 who_G3588 comes_G2064 from_G1537 above_G0509 is_G1510 above_G0509 all_G3956. He_G2532 who_G3588 is_G1510 from_G1537 the_G3956 earth_G1093 belongs_G1510 to_G2064 the_G3956 earth_G1093 and_G2532 speaks_G2980 of_G1537 the_G3956 earth_G1093. He_G2532 who_G3588 comes_G2064 from_G1537 heaven_G3772 is_G1510 above_G0509 all_G3956. 
+@32 What_G3739 he_G2532 has_G3739 seen_G3708 and_G2532 heard_G0191, of_G3141 that_G3739 he_G2532 testifies_G3140; and_G2532 no_G3762 one_G3762 receives_G2983 his_G0846 witness_G3140. 
+@33 He_G0846 who_G3588 has_G2316 received_G2983 his_G0846 witness_G3141 has_G2316 set_G4972 his_G0846 seal_G4972 to_G0846 this_G3588, that_G3754 God_G2316 is_G1510 true_G0227. 
+@34 For_G1063 he_G3739 whom_G3739 God_G2316 has_G2316 sent_G0649 speaks_G2980 the_G3588 words_G4487 of_G1537 God_G2316; for_G1063 God_G2316 gives_G1325 the_G3588 Spirit_G4151 without_G3756 measure_G3358. 
+@35 The_G3956 Father_G3962 loves_G0025 the_G3956 Son_G5207, and_G2532 has_G3962 given_G1325 all_G3956 things_G3956 into_G1722 his_G0846 hand_G5495. 
+@36 One_G3588 who_G3588 believes_G4100 in_G1519 the_G3588 Son_G5207 has_G2192 eternal_G0166 life_G2222, but_G1161 one_G3588 who_G3588 disobeys^a^ the_G3588 Son_G5207 won’t_G3756 see_G3708 life_G2222, but_G1161 the_G3588 wrath_G3709 of_G5207 God_G2316 remains_G3306 on_G1909 him_G0846.”
 ^a^[**3:36** The same word can be translated “disobeys” or “disbelieves” in this context.] 
 
 # 4 
 ## Jesus talks to the Samaritan woman at Jacob's well
-@1 Therefore when the Lord knew that the Pharisees had heard that Jesus was making and baptizing more disciples than John 
-@2 (although Jesus himself didn’t baptize, but his disciples), 
-@3 he left Judea and departed into Galilee. 
-@4 He needed to pass through Samaria. 
-@5 So he came to a city of Samaria called Sychar, near the parcel of ground that Jacob gave to his son Joseph. 
-@6 Jacob’s well was there. Jesus therefore, being tired from his journey, sat down by the well. It was about the sixth hour.^a^ 
+@1 Therefore_G3767 when_G5613 the_G3588 Lord knew_G1097 that_G3754 the_G3588 Pharisees_G5330 had_G2424 heard_G0191 that_G3754 Jesus_G2424 was_G2424 making_G4160 and_G2532 baptizing_G0907 more_G4183 disciples_G3101 than_G2228 John_G2491 
+@2 (although_G2544 Jesus_G2424 himself_G0846 didn’t_G3756 baptize_G0907, but_G0235 his_G0846 disciples_G3101), 
+@3 he_G2532 left_G0863 Judea_G2449 and_G2532 departed_G0565 into_G1519 Galilee_G1056. 
+@4 He_G0846 needed_G1163 to_G1163 pass_G1330 through_G1223 Samaria_G4540. 
+@5 So_G3767 he_G0846 came_G2064 to_G1519 a_G1325 city_G4172 of_G5207 Samaria_G4540 called_G3004 Sychar_G4965, near_G4139 the_G3588 parcel_G5564 of_G5207 ground_G5564 that_G3739 Jacob_G2384 gave_G1325 to_G1519 his_G0846 son_G5207 Joseph_G2501. 
+@6 Jacob’s_G2384 well_G4077 was_G1510 there_G1563. Jesus_G2424 therefore_G3767, being_G1510 tired from_G1537 his_G1909 journey_G3597, sat_G2516 down_G2516 by_G1537 the_G3588 well_G4077. It_G1161 was_G1510 about_G5613 the_G3588 sixth_G1623 hour_G5610.^a^ 
 ^a^[**4:6** noon]
 
-@7 A woman of Samaria came to draw water. Jesus said to her, [“Give me a drink.”]{.wj} 
-@8 For his disciples had gone away into the city to buy food. 
+@7 A_G1325 woman_G1135 of_G1537 Samaria_G4540 came_G2064 to_G3004 draw_G0501 water_G5204. Jesus_G2424 said_G3004 to_G3004 her_G0846, j_“his_G0846 disciples_G3101 had_G3588 gone_G0565 away_G0565 into_G1519 the_G3588 city_G4172 to_G1519 buy_G0059 food_G5160. 
 
-@9 The Samaritan woman therefore said to him, “How is it that you, being a Jew, ask for a drink from me, a Samaritan woman?” (For Jews have no dealings with Samaritans.) 
+@9 The_G3588 Samaritan_G4542 woman_G1135 therefore_G3767 said_G3004 to_G3004 him_G0846, “How_G4459 is_G1510 it_G0846 that_G3004 you_G4771, being_G1510 a_G1510 Jew_G2453, ask_G0154 for_G1063 a_G1510 drink_G4095 from_G3844 me_G3004, a_G1510 Samaritan_G4542 woman_G1135?” (For_G1063 Jews_G2453 have_G1510 no dealings_G4798 with_G3844 Samaritans.) 
 
-@10 Jesus answered her, [“If you knew the gift of God, and who it is who says to you, ‘Give me a drink,’ you would have asked him, and he would have given you living water.”]{.wj} 
+@10 Jesus_G2424 answered_G0611 her_G0846, j_“woman_G1135 said_G3004 to_G3004 him_G0846, “Sir_G2962, you_G3004 have_G2192 nothing_G3777 to_G3004 draw_G0502 with_G2532, and_G2532 the_G3588 well_G2532 is_G1510 deep_G0901. So_G3767 where_G4159 do_G2192 you_G3004 get_G2192 that_G3004 living_G2198 water_G5204? 
+@12 Are_G1510 you_G4771 greater_G3173 than_G3173 our_G2532 father_G3962 Jacob_G2384, who_G3739 gave_G1325 us_G1325 the_G3588 well_G2532 and_G2532 drank_G4095 from_G1537 it_G0846 himself_G0846, as_G2532 did_G1510 his_G0846 children and_G2532 his_G0846 livestock_G2353?” 
 
-@11 The woman said to him, “Sir, you have nothing to draw with, and the well is deep. So where do you get that living water? 
-@12 Are you greater than our father Jacob, who gave us the well and drank from it himself, as did his children and his livestock?” 
+@13 Jesus_G2424 answered_G0611 her_G0846, j_“woman_G1135 said_G3004 to_G4314 him_G0846, “Sir_G2962, give_G1325 me_G1325 this_G3778 water_G5204, so_G2443 that_G2443 I_G1473 don’t_G3361 get thirsty_G1372, neither_G3366 come_G1330 all_G3588 the_G3588 way_G1330 here_G1759 to_G4314 draw_G0501.” 
 
-@13 Jesus answered her, [“Everyone who drinks of this water will thirst again,]{.wj} 
-@14 [but whoever drinks of the water that I will give him will never thirst again; but the water that I will give him will become in him a well of water springing up to eternal life.”]{.wj} 
+@16 Jesus_G0846 said_G3004 to_G3004 her_G0846, j_“woman_G1135 answered_G0611, “I_G2532 have_G2192 no_G3756 husband_G0435.” 
 
-@15 The woman said to him, “Sir, give me this water, so that I don’t get thirsty, neither come all the way here to draw.” 
+Jesus_G2424 said_G3004 to_G3004 her_G0846, j_“woman_G1135 said_G3004 to_G3004 him_G0846, “Sir_G2962, I_G3754 perceive_G2334 that_G3754 you_G4771 are_G1510 a_G1510 prophet_G4396. 
+@20 Our_G2532 fathers_G3962 worshiped_G4352 in_G1722 this_G3778 mountain_G3735, and_G2532 you_G5210 Jews say_G3004 that_G3754 in_G1722 Jerusalem_G2414 is_G1510 the_G3588 place_G5117 where_G3699 people_G1510 ought_G1163 to_G3004 worship_G4352.” 
 
-@16 Jesus said to her, [“Go, call your husband, and come here.”]{.wj} 
-
-@17 The woman answered, “I have no husband.” 
-
-Jesus said to her, [“You said well, ‘I have no husband,’]{.wj} 
-@18 [for you have had five husbands; and he whom you now have is not your husband. This you have said truly.”]{.wj} 
-
-@19 The woman said to him, “Sir, I perceive that you are a prophet. 
-@20 Our fathers worshiped in this mountain, and you Jews say that in Jerusalem is the place where people ought to worship.” 
-
-@21 Jesus said to her, [“Woman, believe me, the hour is coming when neither in this mountain nor in Jerusalem will you worship the Father.]{.wj} 
-@22 [You worship that which you don’t know. We worship that which we know; for salvation is from the Jews.]{.wj} 
-@23 [But the hour comes, and now is, when the true worshipers will worship the Father in spirit and truth, for the Father seeks such to be his worshipers.]{.wj} 
-@24 [God is spirit, and those who worship him must worship in spirit and truth.”]{.wj} 
-
-@25 The woman said to him, “I know that Messiah is coming, he who is called Christ.^a^ When he has come, he will declare to us all things.” 
+@21 Jesus_G2424 said_G3004 to_G3004 her_G0846, j_“woman_G1135 said_G3004 to_G3004 him_G0846, “I_G1473 know_G1492 that_G3754 Messiah_G5547 is_G3588 coming_G2064, he_G0846 who_G3588 is_G3588 called_G3004 Christ_G5547.^a^ When_G3752 he_G0846 has_G5547 come_G2064, he_G0846 will_G3748 declare_G0312 to_G3004 us_G3004 all_G0537 things_G0846.” 
 ^a^[**4:25** “Messiah” (Hebrew) and “Christ” (Greek) both mean “Anointed One”.]
 
-@26 Jesus said to her, [“I am he, the one who speaks to you.”]{.wj}
+@26 Jesus_G2424 said_G3004 to_G3004 her_G0846, j_“then_G2532, his_G0846 disciples_G3101 came_G2064. They_G0846 marveled_G2296 that_G3754 he_G2532 was_G3588 speaking_G2980 with_G3326 a_G2228 woman_G1135; yet_G2532 no_G3762 one_G3762 said_G3004, “What_G5101 are_G3778 you_G3754 looking_G2212 for_G3754?” or_G2228, “Why_G5101 do_G3004 you_G3754 speak_G2980 with_G3326 her_G0846?”
 
 ## Jesus and the disciples
-@27 Just then, his disciples came. They marveled that he was speaking with a woman; yet no one said, “What are you looking for?” or, “Why do you speak with her?” 
-@28 So the woman left her water pot, went away into the city, and said to the people, 
-@29 “Come, see a man who told me everything that I have done. Can this be the Christ?” 
-@30 They went out of the city, and were coming to him. 
+@28 So_G3767 the_G3588 woman_G1135 left_G0863 her_G0846 water pot, went_G0565 away_G0565 into_G1519 the_G3588 city_G4172, and_G2532 said_G3004 to_G1519 the_G3588 people_G0444, 
+@29 “Come_G1205, see_G3708 a_G1510 man_G0444 who_G3739 told_G3004 me_G3004 everything_G3956 that_G3739 I_G1473 have_G1510 done_G4160. Can_G3004 this_G3778 be_G1510 the_G3956 Christ_G5547?” 
+@30 They_G0846 went_G1831 out_G1831 of_G1537 the_G3588 city_G4172, and_G2532 were_G3588 coming_G2064 to_G4314 him_G0846. 
 
-@31 In the meanwhile, the disciples urged him, saying, “Rabbi, eat.” 
+@31 In_G1722 the_G3588 meanwhile_G3342, the_G3588 disciples_G3101 urged him_G0846, saying_G3004, “Rabbi_G4461, eat_G2068.” 
 
-@32 But he said to them, [“I have food to eat that you don’t know about.”]{.wj} 
+@32 But_G1161 he_G0846 said_G3004 to_G3004 them_G0846, j_“disciples_G3101 therefore_G3767 said_G3004 to_G4314 one_G0240 another_G0240, “Has_G5100 anyone_G5100 brought_G5342 him_G0846 something_G5100 to_G4314 eat_G2068?” 
 
-@33 The disciples therefore said to one another, “Has anyone brought him something to eat?” 
-
-@34 Jesus said to them, [“My food is to do the will of him who sent me and to accomplish his work.]{.wj} 
-@35 [Don’t you say, ‘There are yet four months until the harvest?’ Behold, I tell you, lift up your eyes and look at the fields, that they are white for harvest already.]{.wj} 
-@36 [He who reaps receives wages and gathers fruit to eternal life, that both he who sows and he who reaps may rejoice together.]{.wj} 
-@37 [For in this the saying is true, ‘One sows, and another reaps.’]{.wj} 
-@38 [I sent you to reap that for which you haven’t labored. Others have labored, and you have entered into their labor.”]{.wj} 
-
-@39 From that city many of the Samaritans believed in him because of the word of the woman, who testified, “He told me everything that I have done.” 
-@40 So when the Samaritans came to him, they begged him to stay with them. He stayed there two days. 
-@41 Many more believed because of his word. 
-@42 They said to the woman, “Now we believe, not because of your speaking; for we have heard for ourselves, and know that this is indeed the Christ, the Savior of the world.”
+@34 Jesus_G2424 said_G3004 to_G2443 them_G0846, j_“that_G3754 city_G4172 many_G4183 of_G1537 the_G3956 Samaritans_G4541 believed_G4100 in_G1519 him_G0846 because_G3754 of_G1537 the_G3956 word_G3056 of_G1537 the_G3956 woman_G1135, who_G3739 testified_G3140, “He_G0846 told_G3004 me_G3004 everything_G3956 that_G3754 I_G1473 have_G3748 done_G4160.” 
+@40 So_G3767 when_G5613 the_G3588 Samaritans_G4541 came_G2064 to_G4314 him_G0846, they_G0846 begged_G2065 him_G0846 to_G4314 stay_G3306 with_G4314 them_G0846. He_G2532 stayed_G3306 there_G1563 two_G1417 days_G2250. 
+@41 Many_G4183 more_G4183 believed_G4100 because_G1223 of_G3056 his_G0846 word_G3056. 
+@42 They_G0846 said_G3004 to_G3004 the_G3588 woman_G1135, “Now_G2532 we_G3778 believe_G4100, not_G1510 because_G3754 of_G1223 your_G4674 speaking_G3004; for_G1063 we_G3778 have_G1510 heard_G0191 for_G1063 ourselves_G0846, and_G2532 know_G1492 that_G3754 this_G3778 is_G1510 indeed_G2532 the_G3588 Christ_G0846, the_G3588 Savior_G4990 of_G1223 the_G3588 world_G2889.”
 
 ## Healing the son of a royal official in Capernaum
-@43 After the two days he went out from there and went into Galilee. 
-@44 For Jesus himself testified that a prophet has no honor in his own country. 
-@45 So when he came into Galilee, the Galileans received him, having seen all the things that he did in Jerusalem at the feast, for they also went to the feast. 
-@46 Jesus came therefore again to Cana of Galilee, where he made the water into wine. There was a certain nobleman whose son was sick at Capernaum. 
-@47 When he heard that Jesus had come out of Judea into Galilee, he went to him and begged him that he would come down and heal his son, for he was at the point of death. 
-@48 Jesus therefore said to him, [“Unless you see signs and wonders, you will in no way believe.”]{.wj} 
+@43 After_G3326 the_G3588 two_G1417 days_G2250 he_G1161 went_G1831 out_G1831 from_G1831 there_G1564 and_G1161 went_G1831 into_G1519 Galilee_G1056. 
+@44 For_G1063 Jesus_G2424 himself_G0846 testified_G3140 that_G3754 a_G2192 prophet_G4396 has_G2192 no_G3756 honor_G5092 in_G1722 his_G0846 own_G2398 country_G3968. 
+@45 So_G3767 when_G3753 he_G2532 came_G2064 into_G1519 Galilee_G1056, the_G3956 Galileans_G1057 received_G1209 him_G0846, having_G4160 seen_G3708 all_G3956 the_G3956 things_G3956 that_G3739 he_G2532 did_G4160 in_G1722 Jerusalem_G2414 at_G1722 the_G3956 feast_G1859, for_G1063 they_G0846 also_G2532 went_G2064 to_G1519 the_G3956 feast_G1859. 
+@46 Jesus_G1510 came_G2064 therefore_G3767 again_G3825 to_G1519 Cana_G2580 of_G5207 Galilee_G1056, where_G3699 he_G2532 made_G4160 the_G3588 water_G5204 into_G1519 wine_G3631. There_G1510 was_G1510 a_G1510 certain nobleman whose_G3739 son_G5207 was_G1510 sick_G0770 at_G1722 Capernaum_G2584. 
+@47 When_G2532 he_G2532 heard_G0191 that_G3754 Jesus_G2424 had_G2424 come_G2240 out_G1537 of_G5207 Judea_G2449 into_G1519 Galilee_G1056, he_G2532 went_G0565 to_G1519 him_G0846 and_G2532 begged_G2065 him_G0846 that_G3754 he_G2532 would_G3195 come_G2240 down_G2597 and_G2532 heal_G2390 his_G0846 son_G5207, for_G1063 he_G2532 was_G2424 at_G1519 the_G3588 point_G3195 of_G5207 death_G0599. 
+@48 Jesus_G2424 therefore_G3767 said_G3004 to_G4314 him_G0846, j_“nobleman said_G3004 to_G4314 him_G0846, “Sir_G2962, come_G2597 down_G2597 before_G4250 my_G3004 child_G3813 dies_G0599.” 
 
-@49 The nobleman said to him, “Sir, come down before my child dies.” 
-
-@50 Jesus said to him, [“Go your way. Your son lives.”]{.wj} The man believed the word that Jesus spoke to him, and he went his way. 
-@51 As he was going down, his servants met him and reported, saying “Your child lives!” 
-@52 So he inquired of them the hour when he began to get better. They said therefore to him, “Yesterday at the seventh hour,^a^ the fever left him.” 
-@53 So the father knew that it was at that hour in which Jesus said to him, [“Your son lives.”]{.wj} He believed, as did his whole house. 
-@54 This is again the second sign that Jesus did, having come out of Judea into Galilee.
+@50 Jesus_G2424 said_G3004 to_G3004 him_G0846, j_“man_G0444 believed_G4100 the_G3588 word_G3056 that_G3739 Jesus_G2424 spoke_G3004 to_G3004 him_G0846, and_G2532 he_G2532 went_G4198 his_G0846 way_G4198. 
+@51 As_G2532 he_G2532 was_G3588 going_G2597 down_G2597, his_G0846 servants_G1401 met_G5221 him_G0846 and_G2532 reported_G3004, saying_G3004 “Your_G2532 child_G3816 lives_G2198!” 
+@52 So_G3767 he_G0846 inquired_G4441 of_G1722 them_G0846 the_G3588 hour_G5610 when_G1722 he_G0846 began to_G3004 get_G2192 better_G2866. They_G0846 said_G3004 therefore_G3767 to_G3004 him_G0846, “Yesterday_G5504 at_G1722 the_G3588 seventh_G1442 hour_G5610,^a^ the_G3588 fever_G4446 left_G0863 him_G0846.” 
+@53 So_G3767 the_G3588 father_G3962 knew_G1097 that_G3754 it_G0846 was_G2424 at_G1722 that_G3754 hour_G5610 in_G1722 which_G3739 Jesus_G2424 said_G3004 to_G3004 him_G0846, j_“believed_G4100, as_G1722 did_G1097 his_G0846 whole_G3650 house_G3614. 
+@54 This_G3778 is_G3778 again_G3825 the_G3588 second_G1208 sign_G4592 that_G3778 Jesus_G2424 did_G4160, having_G4160 come_G2064 out_G1537 of_G1537 Judea_G2449 into_G1519 Galilee_G1056.
 ^a^[**4:52** 1:00 p. m.] 
 
 # 5 
 ## Healing of the Sick at the Pool of Bethesda near Jerusalem and Sabbath Contest
-@1 After these things, there was a feast of the Jews, and Jesus went up to Jerusalem. 
-@2 Now in Jerusalem by the sheep gate, there is a pool, which is called in Hebrew, “Bethesda”, having five porches. 
-@3 In these lay a great multitude of those who were sick, blind, lame, or paralyzed, waiting for the moving of the water; 
+@1 After_G3326 these_G3778 things_G3778, there_G1510 was_G1510 a_G1510 feast_G1859 of_G2424 the_G3588 Jews_G2453, and_G2532 Jesus_G2424 went_G0305 up_G0305 to_G1519 Jerusalem_G2414. 
+@2 Now_G1161 in_G1722 Jerusalem_G2414 by_G1722 the_G3588 sheep_G4262 gate, there_G1510 is_G1510 a_G2192 pool_G2861, which_G3588 is_G1510 called_G3004 in_G1722 Hebrew_G1447, “Bethesda_G0964”, having_G2192 five_G4002 porches. 
+@3 In_G1722 these_G3778 lay_G2621 a_G1722 great_G4128 multitude_G4128 of_G4128 those_G3588 who_G3588 were_G3778 sick_G0770, blind_G5185, lame_G5560, or_G3588 paralyzed, waiting for_G1722 the_G3588 moving of_G4128 the_G3588 water; 
 @4 for an angel went down at certain times into the pool and stirred up the water. Whoever stepped in first after the stirring of the water was healed of whatever disease he had.^a^ 
-@5 A certain man was there who had been sick for thirty-eight years. 
-@6 When Jesus saw him lying there, and knew that he had been sick for a long time, he asked him, [“Do you want to be made well?”]{.wj} 
-^a^[**5:4** NU omits from “waiting” in verse 3 to the end of verse 4.]
+@5 A_G2192 certain_G5100 man_G0444 was_G1510 there_G1563 who_G3588 had_G2192 been_G1510 sick_G0769 for_G1722 thirty-eight years_G2094. 
+@6 When_G2532 Jesus_G2424 saw_G3708 him_G0846 lying_G2621 there_G1096, and_G2532 knew_G1097 that_G3754 he_G2532 had_G2192 been_G1096 sick_G2621 for_G3754 a_G2192 long_G4183 time_G5550, he_G2532 asked_G3004 him_G0846, j_“sick_G0770 man_G0444 answered_G0611 him_G0846, “Sir_G2962, I_G1473 have_G2192 no_G3756 one_G3739 to_G1519 put_G0906 me_G1473 into_G1519 the_G3588 pool_G2861 when_G3752 the_G3588 water_G5204 is_G3739 stirred_G5015 up_G1519, but_G1161 while_G1722 I’m coming_G2064, another_G0243 steps_G2597 down_G2597 before_G4253 me_G1473.” 
 
-@7 The sick man answered him, “Sir, I have no one to put me into the pool when the water is stirred up, but while I’m coming, another steps down before me.” 
+@8 Jesus_G2424 said_G3004 to_G3004 him_G0846, j_“, the_G3588 man_G0444 was_G1510 made_G1096 well_G2532, and_G2532 took_G0142 up_G0142 his_G0846 mat_G2895 and_G2532 walked_G4043. 
 
-@8 Jesus said to him, [“Arise, take up your mat, and walk.”]{.wj} 
+Now_G1161 that_G1565 day_G2250 was_G1510 a_G1096 Sabbath_G4521. 
+@10 So_G3767 the_G3588 Jews_G2453 said_G3004 to_G3004 him_G2532 who_G3588 was_G1510 cured_G2323, “It_G1510 is_G1510 the_G3588 Sabbath_G4521. It_G1510 is_G1510 not_G3756 lawful_G1832 for_G2532 you_G4771 to_G3004 carry_G0142 the_G3588 mat_G2895.” 
 
-@9 Immediately, the man was made well, and took up his mat and walked. 
+@11 He_G2532 answered_G0611 them_G0846, “He_G2532 who_G3588 made_G4160 me_G3004 well_G2532 said_G3004 to_G3004 me_G3004, j_‘they_G0846 asked_G2065 him_G0846, “Who_G3588 is_G1510 the_G3588 man_G0444 who_G3588 said_G3004 to_G3004 you_G4771, j_‘he_G1161 who_G3588 was_G1510 healed_G2390 didn’t_G3756 know_G1492 who_G3588 it_G1161 was_G1510, for_G1063 Jesus_G2424 had_G2424 withdrawn, a_G1510 crowd_G3793 being_G1510 in_G1722 the_G3588 place_G5117. 
 
-Now that day was a Sabbath. 
-@10 So the Jews said to him who was cured, “It is the Sabbath. It is not lawful for you to carry the mat.” 
-
-@11 He answered them, “He who made me well said to me, [‘Take up your mat and walk.’]{.wj}” 
-
-@12 Then they asked him, “Who is the man who said to you, [‘Take up your mat and walk’]{.wj}?” 
-
-@13 But he who was healed didn’t know who it was, for Jesus had withdrawn, a crowd being in the place. 
-
-@14 Afterward Jesus found him in the temple and said to him, [“Behold, you are made well. Sin no more, so that nothing worse happens to you.”]{.wj} 
-
-@15 The man went away, and told the Jews that it was Jesus who had made him well. 
-@16 For this cause the Jews persecuted Jesus and sought to kill him, because he did these things on the Sabbath. 
-@17 But Jesus answered them, [“My Father is still working, so I am working, too.”]{.wj} 
-
-@18 For this cause therefore the Jews sought all the more to kill him, because he not only broke the Sabbath, but also called God his own Father, making himself equal with God.
+@14 Afterward_G1096 Jesus_G2424 found_G2147 him_G0846 in_G1722 the_G3588 temple_G2413 and_G2532 said_G3004 to_G2443 him_G0846, j_“man_G0444 went_G0565 away_G0565, and_G2532 told_G3004 the_G3588 Jews_G2453 that_G3754 it_G0846 was_G1510 Jesus_G2424 who_G3588 had_G2424 made_G4160 him_G0846 well_G2532. 
+@16 For_G3754 this_G3778 cause_G4160 the_G3588 Jews_G2453 persecuted_G1377 Jesus_G2424 and_G2532 sought to_G2532 kill him_G4160, because_G3754 he_G2532 did_G4160 these_G3778 things_G3778 on_G1722 the_G3588 Sabbath_G4521. 
+@17 But_G1161 Jesus_G0846 answered_G0611 them_G0846, j_“My_this_G3778 cause_G4160 therefore_G3767 the_G3588 Jews_G2453 sought_G2212 all_G3588 the_G3588 more_G3123 to_G3004 kill_G0615 him_G0846, because_G3754 he_G2532 not_G3756 only_G3440 broke_G3089 the_G3588 Sabbath_G4521, but_G0235 also_G2532 called_G3004 God_G2316 his_G0846 own_G2398 Father_G3962, making_G4160 himself_G1438 equal_G2470 with_G1223 God_G2316. 
+@19 Jesus_G2424 therefore_G3767 answered_G0611 them_G0846, j_“Most_these_G3778 things_G3778, Jesus_G2424 went_G0565 away_G0565 to_G3778 the_G3588 other_G4008 side_G4008 of_G2281 the_G3588 sea_G2281 of_G2281 Galilee_G1056, which_G3588 is_G3778 also called the_G3588 Sea_G2281 of_G2281 Tiberias_G5085.
 
 ## The testimony of Jesus of his divine work and his divine sonship; Jesus as judge and giver of life
-@19 Jesus therefore answered them, [“Most certainly, I tell you, the Son can do nothing of himself, but what he sees the Father doing. For whatever things he does, these the Son also does likewise.]{.wj} 
-@20 [For the Father has affection for the Son, and shows him all things that he himself does. He will show him greater works than these, that you may marvel.]{.wj} 
-@21 [For as the Father raises the dead and gives them life, even so the Son also gives life to whom he desires.]{.wj} 
-@22 [For the Father judges no one, but he has given all judgment to the Son,]{.wj} 
-@23 [that all may honor the Son, even as they honor the Father. He who doesn’t honor the Son doesn’t honor the Father who sent him.]{.wj} 
+@2 A_G3708 great_G4183 multitude_G3793 followed_G0190 him_G0846, because_G3754 they_G0846 saw_G3708 his_G0846 signs_G4592 which_G3739 he_G0846 did_G4160 on_G1909 those_G3588 who_G3739 were_G3793 sick_G0770. 
+@3 Jesus_G2424 went_G0424 up_G1519 into_G1519 the_G3588 mountain_G3735, and_G2532 he_G2532 sat_G2521 there_G1563 with_G3326 his_G0846 disciples_G3101. 
+@4 Now_G1161 the_G3588 Passover_G3957, the_G3588 feast_G1859 of_G3588 the_G3588 Jews_G2453, was_G1510 at_G1161 hand_G1161. 
+@5 Jesus_G2424 therefore_G3767, lifting_G1869 up_G1869 his_G0846 eyes_G3788 and_G2532 seeing_G2300 that_G3754 a_G3793 great_G4183 multitude_G3793 was_G2424 coming_G2064 to_G4314 him_G0846, said_G3004 to_G4314 Philip_G5376, j_“said_G3004 this_G3778 to_G3004 test_G3985 him_G0846, for_G1063 he_G0846 himself_G0846 knew_G1492 what_G5101 he_G0846 would_G3195 do_G4160. 
 
-@24 [“Most certainly I tell you, he who hears my word and believes him who sent me has eternal life, and doesn’t come into judgment, but has passed out of death into life.]{.wj} 
-@25 [Most certainly I tell you, the hour comes, and now is, when the dead will hear the Son of God’s voice; and those who hear will live.]{.wj} 
-@26 [For as the Father has life in himself, even so he gave to the Son also to have life in himself.]{.wj} 
-@27 [He also gave him authority to execute judgment, because he is a son of man.]{.wj} 
-@28 [Don’t marvel at this, for the hour comes in which all who are in the tombs will hear his voice]{.wj} 
-@29 [and will come out; those who have done good, to the resurrection of life; and those who have done evil, to the resurrection of judgment.]{.wj} 
-@30 [I can of myself do nothing. As I hear, I judge; and my judgment is righteous, because I don’t seek my own will, but the will of my Father who sent me.]{.wj}
-
-## John's testimony
-@31 [“If I testify about myself, my witness is not valid.]{.wj} 
-@32 [It is another who testifies about me. I know that the testimony which he testifies about me is true.]{.wj} 
-@33 [You have sent to John, and he has testified to the truth.]{.wj} 
-@34 [But the testimony which I receive is not from man. However, I say these things that you may be saved.]{.wj} 
-@35 [He was the burning and shining lamp, and you were willing to rejoice for a while in his light.]{.wj}
-
-## Father's Testimony
-@36 [But the testimony which I have is greater than that of John; for the works which the Father gave me to accomplish, the very works that I do, testify about me, that the Father has sent me.]{.wj} 
-@37 [The Father himself, who sent me, has testified about me. You have neither heard his voice at any time, nor seen his form.]{.wj} 
-@38 [You don’t have his word living in you, because you don’t believe him whom he sent.]{.wj} 
-
-@39 [“You search the Scriptures, because you think that in them you have eternal life; and these are they which testify about me.]{.wj} 
-@40 [Yet you will not come to me, that you may have life.]{.wj}
-
-## Attack on the unbelief and ambition of the Jews; Testimony of Moses
-@41 [I don’t receive glory from men.]{.wj} 
-@42 [But I know you, that you don’t have God’s love in yourselves.]{.wj} 
-@43 [I have come in my Father’s name, and you don’t receive me. If another comes in his own name, you will receive him.]{.wj} 
-@44 [How can you believe, who receive glory from one another, and you don’t seek the glory that comes from the only God?]{.wj} 
-
-@45 [“Don’t think that I will accuse you to the Father. There is one who accuses you, even Moses, on whom you have set your hope.]{.wj} 
-@46 [For if you believed Moses, you would believe me; for he wrote about me.]{.wj} 
-@47 [But if you don’t believe his writings, how will you believe my words?”]{.wj} 
-
-# 6 
-## Jesus feeds the five thousand
-@1 After these things, Jesus went away to the other side of the sea of Galilee, which is also called the Sea of Tiberias. 
-@2 A great multitude followed him, because they saw his signs which he did on those who were sick. 
-@3 Jesus went up into the mountain, and he sat there with his disciples. 
-@4 Now the Passover, the feast of the Jews, was at hand. 
-@5 Jesus therefore, lifting up his eyes and seeing that a great multitude was coming to him, said to Philip, [“Where are we to buy bread, that these may eat?”]{.wj} 
-@6 He said this to test him, for he himself knew what he would do. 
-
-@7 Philip answered him, “Two hundred denarii^a^ worth of bread is not sufficient for them, that every one of them may receive a little.” 
+@7 Philip_G5376 answered_G0611 him_G0846, “Two_G1250 hundred_G1250 denarii_G1220^a^ worth_G0740 of_G5100 bread_G0740 is_G5100 not_G3756 sufficient_G0714 for_G2443 them_G0846, that_G2443 every_G1538 one_G5100 of_G5100 them_G0846 may_G2443 receive_G2983 a_G2983 little_G1024.” 
 ^a^[**6:7** A denarius was a silver coin worth about a day’s wages for an agricultural laborer, so 200 denarii would be between 6 and 7 month’s pay.]
 
-@8 One of his disciples, Andrew, Simon Peter’s brother, said to him, 
-@9 “There is a boy here who has five barley loaves and two fish, but what are these among so many?” 
+@8 One_G1520 of_G1537 his_G0846 disciples_G3101, Andrew_G0406, Simon_G4613 Peter’s_G4074 brother_G0080, said_G3004 to_G3004 him_G0846, 
+@9 “There_G1510 is_G1510 a_G2192 boy here_G5602 who_G3739 has_G2192 five_G4002 barley_G2916 loaves_G0740 and_G2532 two_G1417 fish_G3795, but_G0235 what_G5101 are_G1510 these_G3778 among_G1519 so_G2532 many_G5118?” 
 
-@10 Jesus said, [“Have the people sit down.”]{.wj} Now there was much grass in that place. So the men sat down, in number about five thousand. 
-@11 Jesus took the loaves, and having given thanks, he distributed to the disciples, and the disciples to those who were sitting down, likewise also of the fish as much as they desired. 
-@12 When they were filled, he said to his disciples, [“Gather up the broken pieces which are left over, that nothing be lost.”]{.wj} 
-@13 So they gathered them up, and filled twelve baskets with broken pieces from the five barley loaves, which were left over by those who had eaten. 
-@14 When therefore the people saw the sign which Jesus did, they said, “This is truly the prophet who comes into the world.” 
-@15 Jesus therefore, perceiving that they were about to come and take him by force to make him king, withdrew again to the mountain by himself.
+@10 Jesus_G2424 said_G3004, j_“there_G1510 was_G1510 much_G4183 grass_G5528 in_G1722 that_G3004 place_G5117. So_G3767 the_G3588 men_G0444 sat_G0377 down_G0377, in_G1722 number_G0706 about_G5613 five_G4000 thousand_G4000. 
+@11 Jesus_G2424 took_G2983 the_G3588 loaves_G0740, and_G2532 having_G3767 given_G1325 thanks_G2168, he_G2532 distributed_G1239 to_G2309 the_G3588 disciples, and_G2532 the_G3588 disciples to_G2309 those_G3588 who_G3588 were_G3588 sitting down, likewise_G3668 also_G2532 of_G1537 the_G3588 fish_G3795 as_G3745 much_G3745 as_G3745 they_G3767 desired_G2309. 
+@12 When_G5613 they_G0846 were_G3101 filled, he_G0846 said_G3004 to_G2443 his_G0846 disciples_G3101, j_“they_G3767 gathered_G4863 them_G3739 up_G1072, and_G2532 filled_G1072 twelve_G1427 baskets_G2894 with_G1537 broken_G2801 pieces_G2801 from_G1537 the_G3588 five_G4002 barley_G2916 loaves_G0740, which_G3739 were_G3739 left_G4052 over_G4052 by_G1537 those_G3588 who_G3739 had_G3739 eaten_G0977. 
+@14 When_G2064 therefore_G3767 the_G3588 people_G0444 saw_G3708 the_G3588 sign_G4592 which_G3739 Jesus_G3004 did_G4160, they_G3767 said_G3004, “This_G3778 is_G1510 truly_G0230 the_G3588 prophet_G4396 who_G3739 comes_G2064 into_G1519 the_G3588 world_G2889.” 
+@15 Jesus_G2424 therefore_G3767, perceiving_G1097 that_G3754 they_G0846 were_G3588 about_G3195 to_G1519 come_G2064 and_G2532 take_G0726 him_G0846 by_G3735 force_G0726 to_G1519 make_G4160 him_G0846 king_G0935, withdrew_G0402 again_G3825 to_G1519 the_G3588 mountain_G3735 by_G3735 himself_G0846. 
 
-## Jesus walks on the lake
-@16 When evening came, his disciples went down to the sea. 
-@17 They entered into the boat, and were going over the sea to Capernaum. It was now dark, and Jesus had not come to them. 
-@18 The sea was tossed by a great wind blowing. 
-@19 When therefore they had rowed about twenty-five or thirty stadia,^a^ they saw Jesus walking on the sea^b^ and drawing near to the boat; and they were afraid. 
-@20 But he said to them, [“It is I.]{.wj}^c^ [Don’t be afraid.”]{.wj} 
-@21 They were willing therefore to receive him into the boat. Immediately the boat was at the land where they were going. 
+@16 When_G5613 evening_G3798 came_G1096, his_G0846 disciples_G3101 went_G2597 down_G2597 to_G1909 the_G3588 sea_G2281. 
+@17 They_G0846 entered_G2064 into_G1519 the_G3588 boat_G4143, and_G2532 were_G1096 going_G2064 over_G1519 the_G3588 sea_G2281 to_G1519 Capernaum_G2584. It_G0846 was_G2424 now_G1161 dark_G4653, and_G2532 Jesus_G2424 had_G2424 not_G3768 come_G2064 to_G1519 them_G0846. 
+@18 The_G3588 sea_G2281 was_G3588 tossed by_G5037 a great_G3173 wind_G0417 blowing_G4154. 
+@19 When_G5613 therefore_G3767 they_G3767 had_G2424 rowed_G1643 about_G5613 twenty-five or_G2228 thirty_G5144 stadia,^a^ they_G3767 saw_G2334 Jesus_G2424 walking_G4043 on_G1909 the_G3588 sea_G2281^b^ and_G2532 drawing_G1096 near_G1451 to_G1909 the_G3588 boat_G4143; and_G2532 they_G3767 were_G1096 afraid_G5399. 
+@20 But_G1161 he_G0846 said_G3004 to_G3004 them_G0846, j_“were_G3739 willing_G2309 therefore_G3767 to_G1519 receive_G2983 him_G0846 into_G1519 the_G3588 boat_G4143. Immediately_G2112 the_G3588 boat_G4143 was_G3739 at_G1909 the_G3588 land_G1093 where_G3739 they_G0846 were_G3739 going_G5217. 
 ^a^[**6:19** 25 to 30 stadia is about 5 to 6 kilometers or about 3 to 4 miles] ^b^[**6:19** See Job 9:8] ^c^[**6:20** or, I AM]
 
-## The reunion with the people and the demand for a signal from the people
-@22 On the next day, the multitude that stood on the other side of the sea saw that there was no other boat there, except the one in which his disciples had embarked, and that Jesus hadn’t entered with his disciples into the boat, but his disciples had gone away alone. 
-@23 However, boats from Tiberias came near to the place where they ate the bread after the Lord had given thanks. 
-@24 When the multitude therefore saw that Jesus wasn’t there, nor his disciples, they themselves got into the boats and came to Capernaum, seeking Jesus. 
-@25 When they found him on the other side of the sea, they asked him, “Rabbi, when did you come here?” 
+@22 On_G1519 the_G3588 next_G1887 day_G1887, the_G3588 multitude_G3793 that_G3754 stood_G2476 on_G1519 the_G3588 other_G0243 side_G4008 of_G1520 the_G3588 sea_G2281 saw_G3708 that_G3754 there_G1563 was_G1510 no_G3756 other_G0243 boat_G4143 there_G1563, except_G1487 the_G3588 one_G1520 in_G1519 which_G3748 his_G0846 disciples_G3101 had_G2424 embarked, and_G2532 that_G3754 Jesus_G2424 hadn’t entered_G4897 with_G2532 his_G0846 disciples_G3101 into_G1519 the_G3588 boat_G4143, but_G0235 his_G0846 disciples_G3101 had_G2424 gone_G0565 away_G0565 alone_G3441. 
+@23 However_G0235, boats_G4142 from_G1537 Tiberias_G5085 came_G2064 near_G1451 to_G2064 the_G3588 place_G5117 where_G3699 they_G5315 ate_G2068 the_G3588 bread_G0740 after_G1537 the_G3588 Lord_G2962 had_G2064 given_G2168 thanks_G2168. 
+@24 When_G3753 the_G3588 multitude_G3793 therefore_G3767 saw_G3708 that_G3754 Jesus_G2424 wasn’t_G3756 there_G1563, nor_G3761 his_G0846 disciples_G3101, they_G0846 themselves_G0846 got_G1684 into_G1519 the_G3588 boats_G4142 and_G2532 came_G2064 to_G1519 Capernaum_G2584, seeking_G2212 Jesus_G2424. 
+@25 When_G2532 they_G0846 found_G2147 him_G0846 on_G0846 the_G3588 other_G4008 side_G4008 of_G2281 the_G3588 sea_G2281, they_G0846 asked_G3004 him_G0846, “Rabbi_G4461, when_G2532 did_G2147 you_G3004 come_G1096 here_G5602?” 
 
-@26 Jesus answered them, [“Most certainly I tell you, you seek me, not because you saw signs, but because you ate of the loaves and were filled.]{.wj} 
-@27 [Don’t work for the food which perishes, but for the food which remains to eternal life, which the Son of Man will give to you. For God the Father has sealed him.”]{.wj} 
+@26 Jesus_G2424 answered_G0611 them_G0846, j_“Most_said_G3004 therefore_G3767 to_G4314 him_G0846, “What_G5101 must_G4160 we_G3767 do_G4160, that_G2443 we_G3767 may_G2443 work_G2041 the_G3588 works_G2041 of_G2316 God_G2316?” 
 
-@28 They said therefore to him, “What must we do, that we may work the works of God?” 
-
-@29 Jesus answered them, [“This is the work of God, that you believe in him whom he has sent.”]{.wj} 
-
-@30 They said therefore to him, “What then do you do for a sign, that we may see and believe you? What work do you do? 
-@31 Our fathers ate the manna in the wilderness. As it is written, ‘He gave them bread out of heaven^a^ to eat.’”^b^ 
+@29 Jesus_G2424 answered_G0611 them_G0846, j_“said_G3004 therefore_G3767 to_G2443 him_G0846, “What_G5101 then_G2532 do_G4160 you_G4771 do_G4160 for_G2443 a_G3708 sign_G4592, that_G2443 we_G2532 may_G2532 see_G3708 and_G2532 believe_G4100 you_G4771? What_G5101 work_G2038 do_G4160 you_G4771 do_G4160? 
+@31 Our_G1722 fathers_G3962 ate_G2068 the_G3588 manna_G3131 in_G1722 the_G3588 wilderness_G2048. As_G2531 it_G0846 is_G1510 written_G1125, ‘He_G0846 gave_G1325 them_G0846 bread_G0740 out_G1537 of_G1537 heaven_G3772^a^ to_G1722 eat_G2068.’”^b^ 
 ^a^[**6:31** Greek and Hebrew use the same word for “heaven”, “the heavens”, “the sky”, and “the air”.] ^b^[**6:31** Exodus 16:4; Nehemiah 9:15; Psalm 78:24-25]
 
-## Jesus' discourse on the bread of life
-@32 Jesus therefore said to them, [“Most certainly, I tell you, it wasn’t Moses who gave you the bread out of heaven, but my Father gives you the true bread out of heaven.]{.wj} 
-@33 [For the bread of God is that which comes down out of heaven and gives life to the world.”]{.wj} 
+## John's testimony
+@32 Jesus_G2424 therefore_G3767 said_G3004 to_G3004 them_G0846, j_“Most_said_G3004 therefore_G3767 to_G4314 him_G0846, “Lord_G2962, always_G3842 give_G1325 us_G1325 this_G3778 bread_G0740.” 
 
-@34 They said therefore to him, “Lord, always give us this bread.” 
+@35 Jesus_G2424 said_G3004 to_G1519 them_G0846, j_“Jews_G2453 therefore_G3767 murmured concerning_G4012 him_G0846, because_G3754 he_G0846 said_G3004, j_“said_G3004, “Isn’t_G3756 this_G3778 Jesus_G2424, the_G3588 son_G5207 of_G5207 Joseph_G2501, whose_G3739 father_G3962 and_G2532 mother_G3384 we_G2249 know_G1492? How_G4459 then_G2532 does_G1492 he_G2532 say_G3004, j_‘answered_G0611 them_G0846, j_“’t_G3361 Jews_G2453 therefore_G3767 contended with_G4314 one_G0240 another_G0240, saying_G3004, “How_G4459 can_G1410 this_G3778 man_G3778 give_G1325 us_G1325 his_G0846 flesh_G4561 to_G4314 eat_G2068?”
 
-@35 Jesus said to them, [“I am the bread of life. Whoever comes to me will not be hungry, and whoever believes in me will never be thirsty.]{.wj} 
-@36 [But I told you that you have seen me, and yet you don’t believe.]{.wj} 
-@37 [All those whom the Father gives me will come to me. He who comes to me I will in no way throw out.]{.wj} 
-@38 [For I have come down from heaven, not to do my own will, but the will of him who sent me.]{.wj} 
-@39 [This is the will of my Father who sent me, that of all he has given to me I should lose nothing, but should raise him up at the last day.]{.wj} 
-@40 [This is the will of the one who sent me, that everyone who sees the Son and believes in him should have eternal life; and I will raise him up at the last day.”]{.wj} 
+## Father's Testimony
+@53 Jesus_G2424 therefore_G3767 said_G3004 to_G3004 them_G0846, j_“Most_said_G3004 these_G3778 things_G3778 in_G1722 the_G1722 synagogue_G4864, as_G1722 he_G3778 taught_G1321 in_G1722 Capernaum_G2584.
 
-@41 The Jews therefore murmured concerning him, because he said, [“I am the bread which came down out of heaven.”]{.wj} 
-@42 They said, “Isn’t this Jesus, the son of Joseph, whose father and mother we know? How then does he say, [‘I have come down out of heaven?’”]{.wj} 
+## Attack on the unbelief and ambition of the Jews; Testimony of Moses
+@60 Therefore_G3767 many_G4183 of_G1537 his_G0846 disciples_G3101, when_G0191 they_G0846 heard_G0191 this_G3778, said_G3004, “This_G3778 is_G1510 a_G1510 hard_G4183 saying_G3004! Who_G3588 can_G1410 listen_G0191 to_G3004 it_G0846?” 
 
-@43 Therefore Jesus answered them, [“Don’t murmur among yourselves.]{.wj} 
-@44 [No one can come to me unless the Father who sent me draws him; and I will raise him up in the last day.]{.wj} 
-@45 [It is written in the prophets, ‘They will all be taught by God.’]{.wj} ^a^ [Therefore everyone who hears from the Father and has learned, comes to me.]{.wj} 
-@46 [Not that anyone has seen the Father, except he who is from God. He has seen the Father.]{.wj} 
-@47 [Most certainly, I tell you, he who believes in me has eternal life.]{.wj} 
-@48 [I am the bread of life.]{.wj} 
-@49 [Your fathers ate the manna in the wilderness and they died.]{.wj} 
-@50 [This is the bread which comes down out of heaven, that anyone may eat of it and not die.]{.wj} 
-@51 [I am the living bread which came down out of heaven. If anyone eats of this bread, he will live forever. Yes, the bread which I will give for the life of the world is my flesh.”]{.wj} 
-^a^[**6:45** Isaiah 54:13]
+@61 But_G1161 Jesus_G2424 knowing_G1492 in_G1722 himself_G1438 that_G3754 his_G0846 disciples_G3101 murmured at_G1722 this_G3778, said_G3004 to_G3004 them_G0846, j_“Jesus_G2424 knew_G1492 from_G1537 the_G3588 beginning_G0746 who_G3739 they_G0846 were_G1510 who_G3739 didn’t_G3756 believe_G4100, and_G2532 who_G3739 it_G0846 was_G1510 who_G3739 would_G5100 betray_G3860 him_G0846. 
+@65 He_G2532 said_G3004, j_“this_G3778, many_G4183 of_G1537 his_G0846 disciples_G3101 went_G0565 back_G3694 and_G2532 walked_G4043 no_G3765 more_G4183 with_G3326 him_G0846. 
+@67 Jesus_G2424 said_G3004 therefore_G3767 to_G3004 the_G3588 twelve_G1427, j_“Peter_G4074 answered_G0611 him_G0846, “Lord_G2962, to_G4314 whom_G5101 would_G2962 we_G2192 go_G0565? You_G5101 have_G2192 the_G2192 words_G4487 of_G2962 eternal_G0166 life_G2222. 
+@69 We_G2249 have_G1510 come_G1510 to_G2532 believe_G4100 and_G2532 know_G1097 that_G3754 you_G4771 are_G1510 the_G3588 Christ, the_G3588 Son of_G2316 the_G3588 living God_G2316.” 
 
-@52 The Jews therefore contended with one another, saying, “How can this man give us his flesh to eat?” 
-
-@53 Jesus therefore said to them, [“Most certainly I tell you, unless you eat the flesh of the Son of Man and drink his blood, you don’t have life in yourselves.]{.wj} 
-@54 [He who eats my flesh and drinks my blood has eternal life, and I will raise him up at the last day.]{.wj} 
-@55 [For my flesh is food indeed, and my blood is drink indeed.]{.wj} 
-@56 [He who eats my flesh and drinks my blood lives in me, and I in him.]{.wj} 
-@57 [As the living Father sent me, and I live because of the Father, so he who feeds on me will also live because of me.]{.wj} 
-@58 [This is the bread which came down out of heaven—not as our fathers ate the manna and died. He who eats this bread will live forever.”]{.wj} 
-@59 He said these things in the synagogue, as he taught in Capernaum.
-
-## The divorce of the disciples of Jesus as an effect of speech
-@60 Therefore many of his disciples, when they heard this, said, “This is a hard saying! Who can listen to it?” 
-
-@61 But Jesus knowing in himself that his disciples murmured at this, said to them, [“Does this cause you to stumble?]{.wj} 
-@62 [Then what if you would see the Son of Man ascending to where he was before?]{.wj} 
-@63 [It is the spirit who gives life. The flesh profits nothing. The words that I speak to you are spirit, and are life.]{.wj} 
-@64 [But there are some of you who don’t believe.”]{.wj} For Jesus knew from the beginning who they were who didn’t believe, and who it was who would betray him. 
-@65 He said, [“For this cause I have said to you that no one can come to me, unless it is given to him by my Father.”]{.wj} 
-
-@66 At this, many of his disciples went back and walked no more with him. 
-@67 Jesus said therefore to the twelve, [“You don’t also want to go away, do you?”]{.wj} 
-
-@68 Simon Peter answered him, “Lord, to whom would we go? You have the words of eternal life. 
-@69 We have come to believe and know that you are the Christ, the Son of the living God.” 
-
-@70 Jesus answered them, [“Didn’t I choose you, the twelve, and one of you is a devil?”]{.wj} 
-@71 Now he spoke of Judas, the son of Simon Iscariot, for it was he who would betray him, being one of the twelve. 
+@70 Jesus_G2424 answered_G0611 them_G0846, j_“’t_G3756 he_G0846 spoke_G3004 of_G1537 Judas_G2455, the_G3588 son of_G1537 Simon_G4613 Iscariot_G2469, for_G1063 it_G0846 was_G1510 he_G0846 who_G3588 would_G3195 betray_G3860 him_G0846, being_G1510 one_G1520 of_G1537 the_G3588 twelve_G1427. 
 
 # 7 
-## Jesus travels to Jerusalem for the Feast of Tabernacles
-@1 After these things, Jesus was walking in Galilee, for he wouldn’t walk in Judea, because the Jews sought to kill him. 
-@2 Now the feast of the Jews, the Feast of Booths, was at hand. 
-@3 His brothers therefore said to him, “Depart from here and go into Judea, that your disciples also may see your works which you do. 
-@4 For no one does anything in secret while he seeks to be known openly. If you do these things, reveal yourself to the world.” 
-@5 For even his brothers didn’t believe in him. 
+## Jesus feeds the five thousand
+@1 After_G3326 these_G3778 things_G3778, Jesus_G2424 was_G2424 walking_G4043 in_G1722 Galilee_G1056, for_G1063 he_G2532 wouldn’t walk_G4043 in_G1722 Judea_G2453, because_G3754 the_G3588 Jews_G2453 sought_G2212 to_G2309 kill_G0615 him_G0846. 
+@2 Now_G1161 the_G3588 feast_G1859 of_G3588 the_G3588 Jews_G2453, the_G3588 Feast_G1859 of_G3588 Booths_G4634, was_G1510 at_G1161 hand_G1161. 
+@3 His_G0846 brothers_G0080 therefore_G3767 said_G3004 to_G1519 him_G0846, “Depart_G3327 from_G3327 here_G1782 and_G2532 go_G5217 into_G1519 Judea_G2449, that_G3739 your_G4160 disciples_G3101 also_G2532 may_G2532 see_G2334 your_G4160 works_G2041 which_G3739 you_G4771 do_G4160. 
+@4 For_G1063 no_G3762 one_G3762 does_G4160 anything_G5100 in_G1722 secret_G2927 while_G1722 he_G2532 seeks_G2212 to_G2212 be_G1510 known_G5319 openly_G3954. If_G1487 you_G1487 do_G4160 these_G3778 things_G3778, reveal_G5319 yourself_G4572 to_G2212 the_G3588 world_G2889.” 
+@5 For_G1063 even_G3761 his_G0846 brothers_G0080 didn’t believe_G4100 in_G1519 him_G0846. 
 
-@6 Jesus therefore said to them, [“My time has not yet come, but your time is always ready.]{.wj} 
-@7 [The world can’t hate you, but it hates me, because I testify about it, that its works are evil.]{.wj} 
-@8 [You go up to the feast. I am not yet going up to this feast, because my time is not yet fulfilled.”]{.wj} 
+@6 Jesus_G2424 therefore_G3767 said_G3004 to_G3004 them_G0846, j_“these_G3778 things_G3778 to_G3004 them_G0846, he_G0846 stayed_G3306 in_G1722 Galilee_G1056. 
+@10 But_G1161 when_G5613 his_G0846 brothers_G0080 had_G3588 gone_G0305 up_G0305 to_G1519 the_G3588 feast_G1859, then_G2532 he_G2532 also_G2532 went_G0305 up_G0305, not_G3756 publicly_G5320, but_G1161 as_G5613 it_G0846 were_G3588 in_G1722 secret_G2927. 
+@11 The_G3588 Jews_G2453 therefore_G3767 sought_G2212 him_G0846 at_G1722 the_G3588 feast_G1859, and_G2532 said_G3004, “Where_G4226 is_G1510 he_G2532?” 
+@12 There_G1510 was_G1510 much_G4183 murmuring among_G1722 the_G3588 multitudes_G3793 concerning_G4012 him_G0846. Some_G3588 said_G3004, “He_G2532 is_G1510 a_G1510 good_G0018 man_G0243.” Others_G0243 said_G3004, “Not_G3756 so_G2532, but_G1161 he_G2532 leads_G4105 the_G3588 multitude_G3793 astray_G4105.” 
+@13 Yet_G3305 no_G3762 one_G3762 spoke_G2980 openly_G3954 of_G1223 him_G0846 for_G1223 fear_G5401 of_G1223 the_G3588 Jews_G2453. 
+@14 But_G1161 when_G2532 it_G1161 was_G2424 now_G1161 the_G3588 middle of_G2424 the_G3588 feast_G1859, Jesus_G2424 went_G0305 up_G0305 into_G1519 the_G3588 temple_G2411 and_G2532 taught_G1321. 
+@15 The_G3588 Jews_G2453 therefore_G3767 marveled_G2296, saying_G3004, “How_G4459 does_G1492 this_G3778 man_G3778 know_G1492 letters_G1121, having_G3767 never_G3361 been_G3361 educated_G3129?”
 
-@9 Having said these things to them, he stayed in Galilee. 
-@10 But when his brothers had gone up to the feast, then he also went up, not publicly, but as it were in secret. 
-@11 The Jews therefore sought him at the feast, and said, “Where is he?” 
-@12 There was much murmuring among the multitudes concerning him. Some said, “He is a good man.” Others said, “Not so, but he leads the multitude astray.” 
-@13 Yet no one spoke openly of him for fear of the Jews.
+## Jesus walks on the lake
+@16 Jesus_G2424 therefore_G3767 answered_G0611 them_G0846, j_“multitude_G3793 answered_G0611, “You_G4771 have_G2192 a_G2192 demon_G1140! Who_G3588 seeks_G2212 to_G2212 kill_G0615 you_G4771?” 
 
-## Jesus' appearance and self-testimony on the Feast of Tabernacles
-@14 But when it was now the middle of the feast, Jesus went up into the temple and taught. 
-@15 The Jews therefore marveled, saying, “How does this man know letters, having never been educated?” 
+@21 Jesus_G2424 answered_G0611 them_G0846, j_“some_G5100 of_G1537 them_G3739 of_G1537 Jerusalem_G2415 said_G3004, “Isn’t_G3756 this_G3778 he_G3739 whom_G3739 they_G3767 seek_G2212 to_G3004 kill_G0615?
 
-@16 Jesus therefore answered them, [“My teaching is not mine, but his who sent me.]{.wj} 
-@17 [If anyone desires to do his will, he will know about the teaching, whether it is from God or if I am speaking from myself.]{.wj} 
-@18 [He who speaks from himself seeks his own glory, but he who seeks the glory of him who sent him is true, and no unrighteousness is in him.]{.wj} 
-@19 [Didn’t Moses give you the law, and yet none of you keeps the law? Why do you seek to kill me?”]{.wj} 
+## The reunion with the people and the demand for a signal from the people
+@26 Behold_G2396, he_G2532 speaks_G2980 openly_G3954, and_G2532 they_G0846 say_G3004 nothing_G3762 to_G3004 him_G0846. Can_G3004 it_G0846 be_G1510 that_G3754 the_G3588 rulers_G0758 indeed_G2532 know_G1097 that_G3754 this_G3778 is_G1510 truly_G0230 the_G3588 Christ_G5547? 
+@27 However_G1161, we_G3778 know_G1097 where_G4159 this_G3778 man_G3778 comes_G2064 from_G2064, but_G1161 when_G3752 the_G3588 Christ_G5547 comes_G2064, no_G3762 one_G3762 will_G1510 know_G1097 where_G4159 he_G3778 comes_G2064 from_G2064.” 
 
-@20 The multitude answered, “You have a demon! Who seeks to kill you?” 
+@28 Jesus_G2424 therefore_G3767 cried_G2896 out_G2896 in_G1722 the_G3588 temple_G2413, teaching_G1321 and_G2532 saying_G3004, j_“sought_G2212 therefore_G3767 to_G1909 take him_G0846; but_G2532 no_G3762 one_G3762 laid_G1911 a_G2064 hand_G5495 on_G1909 him_G0846, because_G3754 his_G0846 hour_G5610 had_G3748 not_G3762 yet_G2532 come_G2064. 
+@31 But_G1161 of_G1537 the_G3588 multitude_G3793, many_G4183 believed_G4100 in_G1519 him_G0846. They_G0846 said_G3004, “When_G3752 the_G3588 Christ_G5547 comes_G2064, he_G2532 won’t_G3361 do_G4160 more_G4183 signs_G4592 than_G4183 those_G3588 which_G3739 this_G3778 man_G3778 has_G3739 done_G4160, will_G3739 he_G2532?”
 
-@21 Jesus answered them, [“I did one work and you all marvel because of it.]{.wj} 
-@22 [Moses has given you circumcision (not that it is of Moses, but of the fathers), and on the Sabbath you circumcise a boy.]{.wj} 
-@23 [If a boy receives circumcision on the Sabbath, that the law of Moses may not be broken, are you angry with me because I made a man completely healthy on the Sabbath?]{.wj} 
-@24 [Don’t judge according to appearance, but judge righteous judgment.”]{.wj}
+## Jesus' discourse on the bread of life
+@32 The_G3588 Pharisees_G5330 heard_G0191 the_G3588 multitude_G3793 murmuring_G1111 these_G3778 things_G3778 concerning_G4012 him_G0846, and_G2532 the_G3588 chief_G0749 priests_G0749 and_G2532 the_G3588 Pharisees_G5330 sent_G0649 officers_G5257 to_G2443 arrest_G4084 him_G0846. 
 
-## Jesus comes from God
-@25 Therefore some of them of Jerusalem said, “Isn’t this he whom they seek to kill? 
-@26 Behold, he speaks openly, and they say nothing to him. Can it be that the rulers indeed know that this is truly the Christ? 
-@27 However, we know where this man comes from, but when the Christ comes, no one will know where he comes from.” 
+@33 Then_G2532 Jesus_G2424 said_G3004, j_“Jews_G2453 therefore_G3767 said_G3004 among_G1519 themselves_G1438, “Where_G4226 will_G3195 this_G3778 man_G3778 go_G4198 that_G3754 we_G3778 won’t_G3756 find_G2147 him_G0846? Will_G3195 he_G2532 go_G4198 to_G1519 the_G3588 Dispersion_G1290 among_G1519 the_G3588 Greeks_G1672 and_G2532 teach_G1321 the_G3588 Greeks_G1672? 
+@36 What_G5101 is_G1510 this_G3778 word_G3056 that_G3739 he_G2532 said_G3004, j_‘j_‘on_G1722 the_G3588 last_G2078 and_G2532 greatest_G3173 day_G2250 of_G2250 the_G3588 feast_G1859, Jesus_G2424 stood_G2476 and_G2532 cried_G2896 out_G2896, j_“he_G0846 said_G3004 this_G3778 about_G4012 the_G3588 Spirit_G4151, which_G3739 those_G3588 believing_G4100 in_G1519 him_G0846 were_G1510 to_G1519 receive_G2983. For_G1063 the_G3588 Holy Spirit_G4151 was_G1510 not_G1510 yet_G1161 given, because_G3754 Jesus_G2424 wasn’t yet_G1161 glorified_G1392. 
 
-@28 Jesus therefore cried out in the temple, teaching and saying, [“You both know me, and know where I am from. I have not come of myself, but he who sent me is true, whom you don’t know.]{.wj} 
-@29 [I know him, because I am from him, and he sent me.”]{.wj} 
-
-@30 They sought therefore to take him; but no one laid a hand on him, because his hour had not yet come. 
-@31 But of the multitude, many believed in him. They said, “When the Christ comes, he won’t do more signs than those which this man has done, will he?” 
-@32 The Pharisees heard the multitude murmuring these things concerning him, and the chief priests and the Pharisees sent officers to arrest him.
-
-## Jesus announces his return to God
-@33 Then Jesus said, [“I will be with you a little while longer, then I go to him who sent me.]{.wj} 
-@34 [You will seek me and won’t find me. You can’t come where I am.”]{.wj} 
-
-@35 The Jews therefore said among themselves, “Where will this man go that we won’t find him? Will he go to the Dispersion among the Greeks and teach the Greeks? 
-@36 What is this word that he said, [‘You will seek me, and won’t find me;’]{.wj} and [‘Where I am, you can’t come’]{.wj}?”
-
-## Jesus at the height of the party as giver of the water of life
-@37 Now on the last and greatest day of the feast, Jesus stood and cried out, [“If anyone is thirsty, let him come to me and drink!]{.wj} 
-@38 [He who believes in me, as the Scripture has said, from within him will flow rivers of living water.”]{.wj} 
-@39 But he said this about the Spirit, which those believing in him were to receive. For the Holy Spirit was not yet given, because Jesus wasn’t yet glorified. 
-
-@40 Many of the multitude therefore, when they heard these words, said, “This is truly the prophet.” 
-@41 Others said, “This is the Christ.” But some said, “What, does the Christ come out of Galilee? 
-@42 Hasn’t the Scripture said that the Christ comes of the offspring^a^ of David, ^b^ and from Bethlehem,^c^ the village where David was?” 
-@43 So a division arose in the multitude because of him. 
-@44 Some of them would have arrested him, but no one laid hands on him.
-
-## Failure of plan to arrest leaders; Division among members of the high council; Warning of Nicodemus
-@45 The officers therefore came to the chief priests and Pharisees; and they said to them, “Why didn’t you bring him?” 
+@40 Many_G3793 of_G1537 the_G3588 multitude_G3793 therefore_G3767, when_G0191 they_G3767 heard_G0191 these_G3778 words_G3056, said_G3004, “This_G3778 is_G1510 truly_G0230 the_G3588 prophet_G4396.” 
+@41 Others_G0243 said_G3004, “This_G3778 is_G1510 the_G3588 Christ_G5547.” But_G1161 some_G1537 said_G3004, “What_G3588, does_G1510 the_G3588 Christ_G5547 come_G2064 out_G1537 of_G1537 Galilee_G1056? 
+@42 Hasn’t_G3756 the_G3588 Scripture_G1124 said_G3004 that_G3754 the_G3588 Christ_G5547 comes_G2064 of_G1537 the_G3588 offspring^a^ of_G1537 David_G1138, ^b^ and_G2532 from_G0575 Bethlehem_G0965,^c^ the_G3588 village_G2968 where_G3699 David_G1138 was_G1510?” 
+@43 So_G3767 a_G1096 division_G4978 arose_G1096 in_G1722 the_G3588 multitude_G3793 because_G1223 of_G1223 him_G0846. 
+@44 Some_G5100 of_G1537 them_G0846 would_G5100 have_G5100 arrested him_G0846, but_G1161 no_G3762 one_G3762 laid_G1911 hands_G5495 on_G1909 him_G0846. 
+@45 The_G3588 officers_G5257 therefore_G3767 came_G2064 to_G4314 the_G3588 chief_G0749 priests_G0749 and_G2532 Pharisees_G5330; and_G2532 they_G0846 said_G3004 to_G4314 them_G0846, “Why_G5101 didn’t_G3756 you_G3004 bring_G0071 him_G0846?” 
 ^a^[**7:42** or, seed] ^b^[**7:42** 2 Samuel 7:12] ^c^[**7:42** Micah 5:2]
 
-@46 The officers answered, “No man ever spoke like this man!” 
+@46 The_G3588 officers_G5257 answered_G0611, “No man_G0444 ever_G3763 spoke_G2980 like_G5613 this_G3778 man_G0444!” 
 
-@47 The Pharisees therefore answered them, “You aren’t also led astray, are you? 
-@48 Have any of the rulers or any of the Pharisees believed in him? 
-@49 But this multitude that doesn’t know the law is cursed.” 
+@47 The_G3588 Pharisees_G5330 therefore_G3767 answered_G0611 them_G0846, “You_G5210 aren’t_G3361 also_G2532 led_G4105 astray_G4105, are_G3588 you_G5210? 
+@48 Have_G5100 any_G5100 of_G1537 the_G3588 rulers_G0758 or_G2228 any_G5100 of_G1537 the_G3588 Pharisees_G5330 believed_G4100 in_G1519 him_G0846? 
+@49 But_G0235 this_G3778 multitude_G3793 that_G1097 doesn’t_G3361 know_G1097 the_G3588 law_G3551 is_G1510 cursed_G1944.” 
 
-@50 Nicodemus (he who came to him by night, being one of them) said to them, 
-@51 “Does our law judge a man unless it first hears from him personally and knows what he does?” 
+@50 Nicodemus_G3530 (he_G0846 who_G0846 came_G2064 to_G4314 him_G0846 by_G1537 night, being_G1510 one_G1520 of_G1537 them_G0846) said_G3004 to_G4314 them_G0846, 
+@51 “Does_G4160 our_G2532 law_G3551 judge_G2919 a_G4160 man_G0444 unless_G1437 it_G0846 first_G4413 hears_G0191 from_G3844 him_G0846 personally_G0846 and_G2532 knows_G1097 what_G5101 he_G2532 does_G4160?” 
 
-@52 They answered him, “Are you also from Galilee? Search and see that no prophet has arisen out of Galilee.”^a^ 
+@52 They_G0846 answered_G0611 him_G0846, “Are_G1510 you_G4771 also_G2532 from_G1537 Galilee_G1056? Search_G2045 and_G2532 see_G3708 that_G3754 no_G3756 prophet_G4396 has_G3708 arisen_G1453 out_G1537 of_G1537 Galilee_G1056.”^a^ 
 ^a^[**7:52** See Isaiah 9:1; Matthew 4:13-16]
 
-@53 Everyone went to his own house, 
+@53 Everyone_G1538 went_G4198 to_G1519 his_G0846 own_G0846 house_G3624, 
 
 # 8 
-## Jesus and the adulteress
-@1 but Jesus went to the Mount of Olives. 
+@1 but_G1161 Jesus_G2424 went_G4198 to_G1519 the_G3588 Mount_G3735 of_G3735 Olives_G1636. 
 
-@2 Now very early in the morning, he came again into the temple, and all the people came to him. He sat down and taught them. 
-@3 The scribes and the Pharisees brought a woman taken in adultery. Having set her in the middle, 
-@4 they told him, “Teacher, we found this woman in adultery, in the very act. 
-@5 Now in our law, Moses commanded us to stone such women.^a^ What then do you say about her?” 
-@6 They said this testing him, that they might have something to accuse him of. 
+@2 Now_G1161 very_G0846 early_G3722 in_G1519 the_G3956 morning_G3722, he_G2532 came_G2064 again_G3825 into_G1519 the_G3956 temple_G0846, and_G2532 all_G3956 the_G3956 people_G2992 came_G2064 to_G1519 him_G0846. He_G2532 sat_G2523 down_G2523 and_G2532 taught_G1321 them_G0846. 
+@3 The_G3588 scribes_G1122 and_G2532 the_G3588 Pharisees_G5330 brought_G0071 a_G2532 woman_G1135 taken in_G1722 adultery_G3430. Having set_G2476 her_G0846 in_G1722 the_G3588 middle_G3319, 
+@4 they_G0846 told_G3004 him_G0846, “Teacher_G1320, we_G3778 found_G2638 this_G3778 woman_G1135 in_G3004 adultery_G3431, in_G3004 the_G3588 very_G0846 act. 
+@5 Now_G1161 in_G1722 our_G1722 law_G3551, Moses_G3475 commanded_G1781 us_G3004 to_G3004 stone_G3036 such_G5108 women_G5108.^a^ What_G5101 then_G3767 do_G3004 you_G4771 say_G3004 about_G1722 her?” 
+@6 They_G0846 said_G3004 this_G3778 testing_G3985 him_G0846, that_G2443 they_G0846 might have_G2192 something to_G1519 accuse_G2723 him_G0846 of_G1093. 
 ^a^[**8:5** Leviticus 20:10; Deuteronomy 22:22]
 
-But Jesus stooped down and wrote on the ground with his finger. 
-@7 But when they continued asking him, he looked up and said to them, [“He who is without sin among you, let him throw the first stone at her.”]{.wj} 
-@8 Again he stooped down and wrote on the ground with his finger. 
+But_G1161 Jesus_G2424 stooped_G2955 down_G2736 and_G1161 wrote_G1125 on_G1519 the_G3588 ground_G1093 with_G1519 his_G0846 finger_G1147. 
+@7 But_G1161 when_G5613 they_G0846 continued_G1961 asking_G2065 him_G0846, he_G0846 looked up and_G1161 said_G3004 to_G4314 them_G0846, j_“he_G2532 stooped_G2955 down_G2736 and_G2532 wrote_G1125 on_G1519 the_G3588 ground_G1093 with_G2532 his_G2532 finger. 
 
-@9 They, when they heard it, being convicted by their conscience, went out one by one, beginning from the oldest, even to the last. Jesus was left alone with the woman where she was, in the middle. 
-@10 Jesus, standing up, saw her and said, [“Woman, where are your accusers? Did no one condemn you?”]{.wj} 
+@9 They_G2532, when_G2532 they_G2532 heard_G0191 it_G0191, being_G1135 convicted_G1651 by_G1722 their_G2532 conscience_G4893, went_G1831 out_G1831 one_G1520 by_G1722 one_G1520, beginning_G0756 from_G0575 the_G3588 oldest, even_G2532 to_G2596 the_G3588 last_G2078. Jesus_G2424 was_G2424 left_G1831 alone_G3441 with_G1722 the_G3588 woman_G1135 where_G1722 she_G1135 was_G2424, in_G1722 the_G3588 middle_G3319. 
+@10 Jesus_G2424, standing up, saw_G2300 her_G0846 and_G2532 said_G3004, j_“said_G3004, “No_G3762 one_G3762, Lord_G2962.” 
 
-@11 She said, “No one, Lord.” 
+Jesus_G2424 said_G3004, j_“, therefore_G3767, Jesus_G2424 spoke_G2980 to_G3004 them_G0846, saying_G3004, j_“Pharisees_G5330 therefore_G3767 said_G3004 to_G3004 him_G0846, “You_G4771 testify_G3140 about_G4012 yourself_G4572. Your_G4572 testimony_G3141 is_G1510 not_G3756 valid.” 
 
-Jesus said, [“Neither do I condemn you. Go your way. From now on, sin no more.”]{.wj}^a^ 
-^a^[**8:11** NU includes John 7:53–John 8:11, but puts brackets around it to indicate that the textual critics had less confidence that this was original.]
+@14 Jesus_G2424 answered_G0611 them_G0846, j_“said_G3004 therefore_G3767 to_G3004 him_G0846, “Where_G4226 is_G1510 your_G1487 Father_G3962?” 
 
-## The self-witness of Jesus as the light of the world and the Son of God
-@12 Again, therefore, Jesus spoke to them, saying, [“I am the light of the world.]{.wj}^a^ [He who follows me will not walk in the darkness, but will have the light of life.”]{.wj} 
-^a^[**8:12** Isaiah 60:1]
+Jesus_G2424 answered_G0611, j_“spoke_G2980 these_G3778 words_G4487 in_G1722 the_G3588 treasury_G1049, as_G1722 he_G2532 taught_G1321 in_G1722 the_G3588 temple_G2413. Yet_G2532 no_G3762 one_G3762 arrested him_G0846, because_G3754 his_G0846 hour_G5610 had_G3748 not_G3762 yet_G2532 come_G2064. 
+@21 Jesus_G0846 said_G3004 therefore_G3767 again_G3825 to_G3004 them_G0846, j_“Jews_G2453 therefore_G3767 said_G3004, “Will_G3748 he_G3754 kill_G0615 himself_G1438, because_G3754 he_G3754 says_G3004, j_‘said_G3004 to_G3004 them_G0846, j_“said_G3004 therefore_G3767 to_G3004 him_G0846, “Who_G3739 are_G1510 you_G5210?” 
 
-@13 The Pharisees therefore said to him, “You testify about yourself. Your testimony is not valid.” 
+Jesus_G2424 said_G3004 to_G3004 them_G0846, j_“didn’t_G3756 understand_G1097 that_G3754 he_G0846 spoke_G3004 to_G3004 them_G0846 about_G3588 the_G3588 Father_G3962. 
+@28 Jesus_G2424 therefore_G3767 said_G3004 to_G3004 them_G4160, j_“he_G0846 spoke_G2980 these_G3778 things_G3778, many_G4183 believed_G4100 in_G1519 him_G0846. 
+@31 Jesus_G2424 therefore_G3767 said_G3004 to_G4314 those_G3588 Jews_G2453 who_G3588 had_G2424 believed_G4100 him_G0846, j_“answered_G0611 him_G0846, “We_G2532 are_G1510 Abraham’s_G0011 offspring, and_G2532 have_G1510 never_G3762 been_G1510 in_G2532 bondage_G1398 to_G4314 anyone_G3762. How_G4459 do_G1096 you_G4771 say_G3004, j_‘answered_G0611 them_G0846, j_“Most_certainly_answered_G0611 him_G0846, “Our_G2424 father_G3962 is_G1510 Abraham_G0011.” 
 
-@14 Jesus answered them, [“Even if I testify about myself, my testimony is true, for I know where I came from, and where I am going; but you don’t know where I came from, or where I am going.]{.wj} 
-@15 [You judge according to the flesh. I judge no one.]{.wj} 
-@16 [Even if I do judge, my judgment is true, for I am not alone, but I am with the Father who sent me.]{.wj} 
-@17 [It’s also written in your law that the testimony of two people is valid.]{.wj}^a^ 
-@18 [I am one who testifies about myself, and the Father who sent me testifies about me.”]{.wj} 
-^a^[**8:17** Deuteronomy 17:6; 19:15]
+Jesus_G2424 said_G3004 to_G3004 them_G0846, j_“said_G3004 to_G3004 him_G0846, “We_G2249 were_G3588 not_G3756 born_G1080 of_G1537 sexual_G4202 immorality_G4202. We_G2249 have_G2192 one_G1520 Father_G3962, God_G2316.” 
 
-@19 They said therefore to him, “Where is your Father?” 
+@42 Therefore Jesus_G2424 said_G3004 to_G3004 them_G0846, j_“the_G3588 Jews_G2453 answered_G0611 him_G0846, “Don’t_G3756 we_G2249 say_G3004 well_G2573 that_G3754 you_G4771 are_G1510 a_G2192 Samaritan_G4541, and_G2532 have_G2192 a_G2192 demon_G1140?” 
 
-Jesus answered, [“You know neither me nor my Father. If you knew me, you would know my Father also.”]{.wj} 
-@20 Jesus spoke these words in the treasury, as he taught in the temple. Yet no one arrested him, because his hour had not yet come.
+@49 Jesus_G2424 answered_G0611, j_“the_G3588 Jews_G2453 said_G3004 to_G1519 him_G0846, “Now_G3568 we_G1437 know_G1097 that_G3754 you_G4771 have_G2192 a_G2192 demon_G1140. Abraham_G0011 died_G0599, as_G1519 did_G1097 the_G3588 prophets_G4396; and_G2532 you_G4771 say_G3004, j_‘you_G4771 greater_G3173 than_G3173 our_G2532 father_G3962 Abraham_G0011, who_G3588 died_G0599? The_G3588 prophets_G4396 died_G0599. Who_G3588 do_G4160 you_G4771 make_G4160 yourself_G4572 out_G4572 to_G2532 be_G1510?” 
 
-## Jesus bears witness to the deep abyss that separates him from the Jews according to their origins
-@21 Jesus said therefore again to them, [“I am going away, and you will seek me, and you will die in your sins. Where I go, you can’t come.”]{.wj} 
+@54 Jesus_G2424 answered_G0611, j_“Jews_G2453 therefore_G3767 said_G3004 to_G4314 him_G0846, “You_G3708 are_G3588 not_G3768 yet_G2532 fifty_G4004 years_G2094 old! Have_G2192 you_G3708 seen_G3708 Abraham_G0011?” 
 
-@22 The Jews therefore said, “Will he kill himself, because he says, [‘Where I am going, you can’t come’]{.wj}?” 
-
-@23 He said to them, [“You are from beneath. I am from above. You are of this world. I am not of this world.]{.wj} 
-@24 [I said therefore to you that you will die in your sins; for unless you believe that I am]{.wj}^a^ [he, you will die in your sins.”]{.wj} 
-^a^[**8:24** or, I AM]
-
-@25 They said therefore to him, “Who are you?” 
-
-Jesus said to them, [“Just what I have been saying to you from the beginning.]{.wj} 
-@26 [I have many things to speak and to judge concerning you. However, he who sent me is true; and the things which I heard from him, these I say to the world.”]{.wj} 
-
-@27 They didn’t understand that he spoke to them about the Father. 
-@28 Jesus therefore said to them, [“When you have lifted up the Son of Man, then you will know that I am he, and I do nothing of myself, but as my Father taught me, I say these things.]{.wj} 
-@29 [He who sent me is with me. The Father hasn’t left me alone, for I always do the things that are pleasing to him.”]{.wj}
-
-## The testimony of Jesus of his affiliation with God and of the slavery of the sin of the Jews despite his descent from Abraham
-@30 As he spoke these things, many believed in him. 
-@31 Jesus therefore said to those Jews who had believed him, [“If you remain in my word, then you are truly my disciples.]{.wj} 
-@32 [You will know the truth, and the truth will make you free.”]{.wj}^a^ 
-^a^[**8:32** Psalm 119:45]
-
-@33 They answered him, “We are Abraham’s offspring, and have never been in bondage to anyone. How do you say, [‘You will be made free’]{.wj}?” 
-
-@34 Jesus answered them, [“Most certainly I tell you, everyone who commits sin is the bondservant of sin.]{.wj} 
-@35 [A bondservant doesn’t live in the house forever. A son remains forever.]{.wj} 
-@36 [If therefore the Son makes you free, you will be free indeed.]{.wj}
-
-## Unbelieving Jews are not children of Abraham or of God, but children of the devil
-@37 [I know that you are Abraham’s offspring, yet you seek to kill me, because my word finds no place in you.]{.wj} 
-@38 [I say the things which I have seen with my Father; and you also do the things which you have seen with your father.”]{.wj} 
-
-@39 They answered him, “Our father is Abraham.” 
-
-Jesus said to them, [“If you were Abraham’s children, you would do the works of Abraham.]{.wj} 
-@40 [But now you seek to kill me, a man who has told you the truth which I heard from God. Abraham didn’t do this.]{.wj} 
-@41 [You do the works of your father.”]{.wj} 
-
-They said to him, “We were not born of sexual immorality. We have one Father, God.” 
-
-@42 Therefore Jesus said to them, [“If God were your father, you would love me, for I came out and have come from God. For I haven’t come of myself, but he sent me.]{.wj} 
-@43 [Why don’t you understand my speech? Because you can’t hear my word.]{.wj} 
-@44 [You are of your father the devil, and you want to do the desires of your father. He was a murderer from the beginning, and doesn’t stand in the truth, because there is no truth in him. When he speaks a lie, he speaks on his own; for he is a liar, and the father of lies.]{.wj} 
-@45 [But because I tell the truth, you don’t believe me.]{.wj} 
-@46 [Which of you convicts me of sin? If I tell the truth, why do you not believe me?]{.wj} 
-@47 [He who is of God hears the words of God. For this cause you don’t hear, because you are not of God.”]{.wj}
-
-## The testimony of Jesus of the majesty of himself and his superiority over Abraham
-@48 Then the Jews answered him, “Don’t we say well that you are a Samaritan, and have a demon?” 
-
-@49 Jesus answered, [“I don’t have a demon, but I honor my Father and you dishonor me.]{.wj} 
-@50 [But I don’t seek my own glory. There is one who seeks and judges.]{.wj} 
-@51 [Most certainly, I tell you, if a person keeps my word, he will never see death.”]{.wj} 
-
-@52 Then the Jews said to him, “Now we know that you have a demon. Abraham died, as did the prophets; and you say, [‘If a man keeps my word, he will never taste of death.’]{.wj} 
-@53 Are you greater than our father Abraham, who died? The prophets died. Who do you make yourself out to be?” 
-
-@54 Jesus answered, [“If I glorify myself, my glory is nothing. It is my Father who glorifies me, of whom you say that he is our God.]{.wj} 
-@55 [You have not known him, but I know him. If I said, ‘I don’t know him,’ I would be like you, a liar. But I know him and keep his word.]{.wj} 
-@56 [Your father Abraham rejoiced to see my day. He saw it and was glad.”]{.wj} 
-
-@57 The Jews therefore said to him, “You are not yet fifty years old! Have you seen Abraham?” 
-
-@58 Jesus said to them, [“Most certainly, I tell you, before Abraham came into existence, I AM.]{.wj}^a^ [”]{.wj} 
-^a^[**8:58** Exodus 3:14]
-
-@59 Therefore they took up stones to throw at him, but Jesus hid himself and went out of the temple, having gone through the middle of them, and so passed by. 
+@58 Jesus_G2424 said_G3004 to_G3004 them_G0846, j_“Most_certainly, _they_G0846 took_G0142 up_G0142 stones_G3037 to_G2443 throw_G0906 at_G1909 him_G0846, but_G1161 Jesus_G2424 hid_G2928 himself_G0846 and_G2532 went_G1831 out_G1831 of_G1537 the_G3588 temple_G2413, having_G3767 gone_G1831 through_G1537 the_G3588 middle of_G1537 them_G0846, and_G2532 so_G2443 passed by_G1537. 
 
 # 9 
-## The healing of the man born blind on the Sabbath
-@1 As he passed by, he saw a man blind from birth. 
-@2 His disciples asked him, “Rabbi, who sinned, this man or his parents, that he was born blind?” 
+@1 As_G2532 he_G2532 passed_G3855 by_G1537, he_G2532 saw_G3708 a_G3708 man_G0444 blind_G5185 from_G1537 birth_G1079. 
+@2 His_G0846 disciples_G3101 asked_G2065 him_G0846, “Rabbi_G4461, who_G3588 sinned_G0264, this_G3778 man_G3778 or_G2228 his_G0846 parents_G1118, that_G2443 he_G2532 was_G3588 born_G1080 blind_G5185?” 
 
-@3 Jesus answered, [“This man didn’t sin, nor did his parents, but that the works of God might be revealed in him.]{.wj} 
-@4 [I must work the works of him who sent me while it is day. The night is coming, when no one can work.]{.wj} 
-@5 [While I am in the world, I am the light of the world.”]{.wj} 
-@6 When he had said this, he spat on the ground, made mud with the saliva, anointed the blind man’s eyes with the mud, 
-@7 and said to him, [“Go, wash in the pool of Siloam”]{.wj} (which means “Sent”). So he went away, washed, and came back seeing. 
+@3 Jesus_G2424 answered_G0611, j_“he_G2532 had_G3588 said_G3004 this_G3778, he_G2532 spat_G4429 on_G1909 the_G3588 ground_G5476, made_G4160 mud_G4081 with_G1537 the_G3588 saliva, anointed_G2025 the_G3588 blind man’s_G3778 eyes_G3788 with_G1537 the_G3588 mud_G4081, 
+@7 and_G2532 said_G3004 to_G1519 him_G0846, j_“means_G3004 “Sent_G0649”). So_G3767 he_G2532 went_G0565 away_G0565, washed_G3538, and_G2532 came_G2064 back_G0565 seeing_G0991. 
 
-@8 Therefore the neighbors and those who saw that he was blind before said, “Isn’t this he who sat and begged?” 
-@9 Others were saying, “It is he.” Still others were saying, “He looks like him.” 
+@8 Therefore_G3767 the_G3588 neighbors_G1069 and_G2532 those_G3588 who_G3588 saw_G2334 that_G3754 he_G2532 was_G1510 blind before_G4387 said_G3004, “Isn’t_G3756 this_G3778 he_G2532 who_G3588 sat_G2521 and_G2532 begged?” 
+@9 Others_G0243 were_G1510 saying_G3004, “It_G0846 is_G1510 he_G0846.” Still others_G0243 were_G1510 saying_G3004, “He_G0846 looks like_G3664 him_G0846.” 
 
-He said, “I am he.” 
+He_G0846 said_G3004, “I_G1473 am_G1510 he_G0846.” 
 
-@10 They therefore were asking him, “How were your eyes opened?” 
+@10 They_G0846 therefore_G3767 were_G3788 asking_G3004 him_G0846, “How_G4459 were_G3788 your_G0455 eyes_G3788 opened_G0455?” 
 
-@11 He answered, “A man called Jesus made mud, anointed my eyes, and said to me, [‘Go to the pool of Siloam and wash.’]{.wj} So I went away and washed, and I received sight.” 
+@11 He_G2532 answered_G0611, “A_G4160 man_G0444 called_G3004 Jesus_G2424 made_G4160 mud_G4081, anointed_G2025 my_G0308 eyes_G3788, and_G2532 said_G3004 to_G1519 me_G3004, j_‘I_G1473 went_G0565 away_G0565 and_G2532 washed_G3538, and_G2532 I_G1473 received_G0308 sight_G0308.” 
 
-@12 Then they asked him, “Where is he?” 
+@12 Then_G2532 they_G0846 asked_G3004 him_G0846, “Where_G4226 is_G1510 he_G2532?” 
 
-He said, “I don’t know.”
+He_G2532 said_G3004, “I_G2532 don’t_G3756 know_G1492.” 
 
-## The first interrogation of the Pharisees
-@13 They brought him who had been blind to the Pharisees. 
-@14 It was a Sabbath when Jesus made the mud and opened his eyes. 
-@15 Again therefore the Pharisees also asked him how he received his sight. He said to them, “He put mud on my eyes, I washed, and I see.” 
+@13 They_G0846 brought_G0071 him_G0846 who_G3588 had_G3588 been blind_G5185 to_G4314 the_G3588 Pharisees_G5330. 
+@14 It_G0846 was_G1510 a_G1510 Sabbath_G4521 when_G2532 Jesus_G2424 made_G4160 the_G3588 mud_G4081 and_G2532 opened_G0455 his_G0846 eyes_G3788. 
+@15 Again_G3825 therefore_G3767 the_G3588 Pharisees_G5330 also_G2532 asked_G2065 him_G0846 how_G4459 he_G2532 received_G0308 his_G0846 sight_G0308. He_G2532 said_G3004 to_G3004 them_G0846, “He_G2532 put_G2007 mud_G4081 on_G1909 my_G0308 eyes_G3788, I_G1473 washed_G3538, and_G2532 I_G1473 see_G0991.” 
 
-@16 Some therefore of the Pharisees said, “This man is not from God, because he doesn’t keep the Sabbath.” 
+@16 Some_G5100 therefore_G3767 of_G1537 the_G3588 Pharisees_G5330 said_G3004, “This_G3778 man_G0444 is_G1510 not_G3756 from_G1537 God_G2316, because_G3754 he_G2532 doesn’t_G3756 keep_G5083 the_G3588 Sabbath_G4521.” 
 
-Others said, “How can a man who is a sinner do such signs?” So there was division among them. 
+Others_G0243 said_G3004, “How_G4459 can_G1410 a_G1510 man_G0444 who_G3588 is_G1510 a_G1510 sinner_G0268 do_G4160 such_G5108 signs_G4592?” So_G3767 there_G1510 was_G1510 division_G4978 among_G1722 them_G0846. 
 
-@17 Therefore they asked the blind man again, “What do you say about him, because he opened your eyes?” 
+@17 Therefore_G3767 they_G0846 asked_G3004 the_G3588 blind_G5185 man_G5185 again_G3825, “What_G5101 do_G1510 you_G4771 say_G3004 about_G4012 him_G0846, because_G3754 he_G0846 opened_G0455 your_G0455 eyes_G3788?” 
 
-He said, “He is a prophet.”
+He_G0846 said_G3004, “He_G0846 is_G1510 a_G1510 prophet_G4396.” 
 
-## Parent questioning
-@18 The Jews therefore didn’t believe concerning him, that he had been blind and had received his sight, until they called the parents of him who had received his sight, 
-@19 and asked them, “Is this your son, whom you say was born blind? How then does he now see?” 
+@18 The_G3588 Jews_G2453 therefore_G3767 didn’t_G3756 believe_G4100 concerning_G4012 him_G0846, that_G3754 he_G2532 had_G1510 been_G1510 blind_G5185 and_G2532 had_G1510 received_G0308 his_G0846 sight_G0308, until_G2193 they_G0846 called_G5455 the_G3588 parents_G1118 of_G4012 him_G0846 who_G3588 had_G1510 received_G0308 his_G0846 sight_G0308, 
+@19 and_G2532 asked_G2065 them_G0846, “Is_G1510 this_G3778 your_G2532 son_G5207, whom_G3739 you_G5210 say_G3004 was_G1510 born_G1080 blind_G5185? How_G4459 then_G2532 does_G1510 he_G2532 now_G2532 see_G0991?” 
 
-@20 His parents answered them, “We know that this is our son, and that he was born blind; 
-@21 but how he now sees, we don’t know; or who opened his eyes, we don’t know. He is of age. Ask him. He will speak for himself.” 
-@22 His parents said these things because they feared the Jews; for the Jews had already agreed that if any man would confess him as Christ, he would be put out of the synagogue. 
-@23 Therefore his parents said, “He is of age. Ask him.”
+@20 His_G0846 parents_G1118 answered_G0611 them_G0846, “We_G2249 know_G1492 that_G3754 this_G3778 is_G1510 our_G2532 son_G5207, and_G2532 that_G3754 he_G2532 was_G1510 born_G1080 blind_G5185; 
+@21 but_G1161 how_G4459 he_G0846 now_G1161 sees_G0991, we_G2249 don’t_G3756 know_G1492; or_G2228 who_G3588 opened_G0455 his_G0846 eyes_G3788, we_G2249 don’t_G3756 know_G1492. He_G0846 is_G5101 of_G4012 age_G2244. Ask_G2065 him_G0846. He_G0846 will_G5101 speak_G2980 for_G4012 himself_G1438.” 
+@22 His_G0846 parents_G1118 said_G3004 these_G3778 things_G3778 because_G3754 they_G0846 feared_G5399 the_G3588 Jews_G2453; for_G1063 the_G3588 Jews_G2453 had_G3748 already_G2235 agreed_G4934 that_G3754 if_G1437 any_G5100 man_G3778 would_G5547 confess_G3670 him_G0846 as_G1096 Christ_G5547, he_G0846 would_G5547 be_G1096 put_G0656 out_G1096 of_G5100 the_G3588 synagogue_G0656. 
+@23 Therefore_G1223 his_G0846 parents_G1118 said_G3004, “He_G0846 is_G3778 of_G1223 age_G2244. Ask_G1905 him_G0846.” 
 
-## The second interrogation of the cured
-@24 So they called the man who was blind a second time, and said to him, “Give glory to God. We know that this man is a sinner.” 
+@24 So_G3767 they_G0846 called_G3004 the_G3588 man_G0444 who_G3739 was_G1510 blind_G5185 a_G1510 second_G1208 time_G1208, and_G2532 said_G3004 to_G3004 him_G0846, “Give_G1325 glory_G1391 to_G3004 God_G2316. We_G2249 know_G1492 that_G3754 this_G3778 man_G0444 is_G1510 a_G1510 sinner_G0268.” 
 
-@25 He therefore answered, “I don’t know if he is a sinner. One thing I do know: that though I was blind, now I see.” 
+@25 He_G3754 therefore_G3767 answered_G0611, “I_G1487 don’t_G3756 know_G1492 if_G1487 he_G3754 is_G1510 a_G1510 sinner_G0268. One_G1520 thing_G1520 I_G1487 do_G1492 know_G1492: that_G3754 though_G1487 I_G1487 was_G1510 blind_G5185, now_G0737 I_G1487 see_G0991.” 
 
-@26 They said to him again, “What did he do to you? How did he open your eyes?” 
+@26 They_G0846 said_G3004 to_G3004 him_G0846 again, “What_G5101 did_G4160 he_G0846 do_G4160 to_G3004 you_G4771? How_G4459 did_G4160 he_G0846 open_G0455 your_G4160 eyes_G3788?” 
 
-@27 He answered them, “I told you already, and you didn’t listen. Why do you want to hear it again? You don’t also want to become his disciples, do you?” 
+@27 He_G2532 answered_G0611 them_G0846, “I_G2532 told_G3004 you_G5210 already_G2235, and_G2532 you_G5210 didn’t_G3756 listen_G0191. Why_G5101 do_G1096 you_G5210 want_G2309 to_G3004 hear_G0191 it_G0846 again_G3825? You_G5210 don’t_G3756 also_G2532 want_G2309 to_G3004 become_G1096 his_G0846 disciples_G3101, do_G1096 you_G5210?” 
 
-@28 They insulted him and said, “You are his disciple, but we are disciples of Moses. 
-@29 We know that God has spoken to Moses. But as for this man, we don’t know where he comes from.” 
+@28 They_G0846 insulted him_G0846 and_G2532 said_G3004, “You_G4771 are_G1510 his_G0846 disciple_G3101, but_G1161 we_G2249 are_G1510 disciples_G3101 of_G3101 Moses_G3475. 
+@29 We_G2249 know_G1492 that_G3754 God_G2316 has_G2316 spoken_G2980 to_G2980 Moses_G3475. But_G1161 as_G1161 for_G3754 this_G3778 man_G3778, we_G2249 don’t_G3756 know_G1492 where_G4159 he_G3778 comes_G1510 from_G2980.” 
 
-@30 The man answered them, “How amazing! You don’t know where he comes from, yet he opened my eyes. 
-@31 We know that God doesn’t listen to sinners, but if anyone is a worshiper of God and does his will, he listens to him.^a^ 
-@32 Since the world began it has never been heard of that anyone opened the eyes of someone born blind. 
-@33 If this man were not from God, he could do nothing.” 
+@30 The_G3588 man_G0444 answered_G0611 them_G0846, “How_G3754 amazing_G2298! You_G5210 don’t_G3756 know_G1492 where_G4159 he_G2532 comes_G1510 from_G1722, yet_G2532 he_G2532 opened_G0455 my_G1722 eyes_G3788. 
+@31 We_G1437 know_G1492 that_G3754 God_G2316 doesn’t_G3756 listen_G0191 to_G2532 sinners_G0268, but_G0235 if_G1437 anyone_G5100 is_G1510 a_G1510 worshiper of_G2316 God_G2316 and_G2532 does_G4160 his_G0846 will_G2307, he_G2532 listens_G0191 to_G2532 him_G0846.^a^ 
+@32 Since_G3754 the_G3588 world_G0165 began it_G0191 has_G3748 never_G3756 been_G5100 heard_G0191 of_G1537 that_G3754 anyone_G5100 opened_G0455 the_G3588 eyes_G3788 of_G1537 someone_G5100 born_G1080 blind_G5185. 
+@33 If_G1487 this_G3778 man_G3778 were_G1510 not_G3756 from_G3844 God_G2316, he_G3778 could_G1410 do_G4160 nothing_G3762.” 
 ^a^[**9:31** Psalm 66:18; Proverbs 15:29; 28:9]
 
-@34 They answered him, “You were altogether born in sins, and do you teach us?” Then they threw him out.
+@34 They_G0846 answered_G0611 him_G0846, “You_G4771 were_G0846 altogether born_G1080 in_G1722 sins_G0266, and_G2532 do_G3004 you_G4771 teach_G1321 us_G3004?” Then_G2532 they_G0846 threw_G1544 him_G0846 out_G1854. 
 
-## The faith of the healed in Jesus; Jesus as the light of those who do not see and as the blindness of those who see
-@35 Jesus heard that they had thrown him out, and finding him, he said, [“Do you believe in the Son of God?”]{.wj} 
+@35 Jesus_G2424 heard_G0191 that_G3754 they_G0846 had_G2424 thrown him_G0846 out_G1854, and_G2532 finding_G2147 him_G0846, he_G2532 said_G3004, j_“answered_G0611, “Who_G5101 is_G1510 he_G2532, Lord_G2962, that_G2443 I_G2532 may_G2532 believe_G4100 in_G1519 him_G0846?” 
 
-@36 He answered, “Who is he, Lord, that I may believe in him?” 
+@37 Jesus_G2424 said_G3004 to_G3004 him_G0846, j_“said_G5346, “Lord_G2962, I_G2532 believe_G4100!” and_G2532 he_G2532 worshiped_G4352 him_G0846. 
 
-@37 Jesus said to him, [“You have both seen him, and it is he who speaks with you.”]{.wj} 
+@39 Jesus_G2424 said_G3004, j_“of_G1537 the_G3588 Pharisees_G5330 who_G3588 were_G1510 with_G3326 him_G0846 heard_G0191 these_G3588 things_G0846, and_G2532 said_G3004 to_G3004 him_G0846, “Are_G1510 we_G2249 also_G2532 blind_G5185?” 
 
-@38 He said, “Lord, I believe!” and he worshiped him. 
+@41 Jesus_G2424 said_G3004 to_G3004 them_G0846, j_“spoke_G2980 this_G3778 parable_G3942 to_G3004 them_G0846, but_G1161 they_G0846 didn’t_G3756 understand_G1097 what_G5101 he_G0846 was_G1510 telling_G3004 them_G0846. 
 
-@39 Jesus said, [“I came into this world for judgment, that those who don’t see may see; and that those who see may become blind.”]{.wj} 
-
-@40 Those of the Pharisees who were with him heard these things, and said to him, “Are we also blind?” 
-
-@41 Jesus said to them, [“If you were blind, you would have no sin; but now you say, ‘We see.’ Therefore your sin remains.]{.wj} 
-
-# 10 
-## The figurative language of the shepherd and thief and of the good shepherd and employee
-@1 [“Most certainly, I tell you, one who doesn’t enter by the door into the sheep fold, but climbs up some other way, is a thief and a robber.]{.wj} 
-@2 [But one who enters in by the door is the shepherd of the sheep.]{.wj} 
-@3 [The gatekeeper opens the gate for him, and the sheep listen to his voice. He calls his own sheep by name and leads them out.]{.wj} 
-@4 [Whenever he brings out his own sheep, he goes before them; and the sheep follow him, for they know his voice.]{.wj} 
-@5 [They will by no means follow a stranger, but will flee from him; for they don’t know the voice of strangers.”]{.wj} 
-@6 Jesus spoke this parable to them, but they didn’t understand what he was telling them.
-
-## I am the gate for the sheep!
-@7 Jesus therefore said to them again, [“Most certainly, I tell you, I am the sheep’s door.]{.wj} 
-@8 [All who came before me are thieves and robbers, but the sheep didn’t listen to them.]{.wj} 
-@9 [I am the door. If anyone enters in by me, he will be saved, and will go in and go out and will find pasture.]{.wj} 
-@10 [The thief only comes to steal, kill, and destroy. I came that they may have life, and may have it abundantly.]{.wj}
-
-## Jesus as the good shepherd
-@11 [“I am the good shepherd.]{.wj}^a^ [The good shepherd lays down his life for the sheep.]{.wj} 
-@12 [He who is a hired hand, and not a shepherd, who doesn’t own the sheep, sees the wolf coming, leaves the sheep, and flees. The wolf snatches the sheep and scatters them.]{.wj} 
-@13 [The hired hand flees because he is a hired hand and doesn’t care for the sheep.]{.wj} 
-@14 [I am the good shepherd. I know my own, and I’m known by my own;]{.wj} 
-@15 [even as the Father knows me, and I know the Father. I lay down my life for the sheep.]{.wj} 
-@16 [I have other sheep which are not of this fold.]{.wj}^b^ [I must bring them also, and they will hear my voice. They will become one flock with one shepherd.]{.wj} 
-@17 [Therefore the Father loves me, because I lay down my life,]{.wj}^c^ [that I may take it again.]{.wj} 
-@18 [No one takes it away from me, but I lay it down by myself. I have power to lay it down, and I have power to take it again. I received this commandment from my Father.”]{.wj} 
-^a^[**10:11** Isaiah 40:11; Ezekiel 34:11-12,15,22] ^b^[**10:16** Isaiah 56:8 ] ^c^[**10:17** Isaiah 53:7-8]
-
-@19 Therefore a division arose again among the Jews because of these words. 
-@20 Many of them said, “He has a demon and is insane! Why do you listen to him?” 
-@21 Others said, “These are not the sayings of one possessed by a demon. It isn’t possible for a demon to open the eyes of the blind, is it?”^a^ 
+@7 Jesus_G2424 therefore_G3767 said_G3004 to_G3004 them_G0846 again_G3825, j_“Most_certainly, _a_G1096 division_G4978 arose_G1096 again_G3825 among_G1722 the_G3588 Jews_G2453 because_G1223 of_G3056 these_G3778 words_G3056. 
+@20 Many_G4183 of_G1537 them_G0846 said_G3004, “He_G2532 has_G2192 a_G2192 demon_G1140 and_G2532 is_G5101 insane_G3105! Why_G5101 do_G2192 you_G3004 listen_G0191 to_G3004 him_G0846?” 
+@21 Others_G0243 said_G3004, “These_G3778 are_G1510 not_G3756 the_G3588 sayings_G4487 of_G4487 one_G3778 possessed by_G3004 a_G1510 demon_G1140. It_G3778 isn’t_G3756 possible for_G3778 a_G1510 demon_G1140 to_G3004 open_G0455 the_G3588 eyes_G3788 of_G4487 the_G3588 blind_G5185, is_G1510 it_G3778?”^a^ 
 ^a^[**10:21** Exodus 4:11]
 
-## The last justification of Jesus to the Jews on the feast of the dedication of the temple
-@22 It was the Feast of the Dedication^a^ at Jerusalem. 
-@23 It was winter, and Jesus was walking in the temple, in Solomon’s porch. 
-@24 The Jews therefore came around him and said to him, “How long will you hold us in suspense? If you are the Christ, tell us plainly.” 
+@22 It_G5119 was_G1510 the_G3588 Feast_G1456 of_G1722 the_G3588 Dedication_G1456^a^ at_G1722 Jerusalem_G2414. 
+@23 It_G2532 was_G2424 winter, and_G2532 Jesus_G2424 was_G2424 walking_G4043 in_G1722 the_G3588 temple_G2413, in_G1722 Solomon’s_G4672 porch. 
+@24 The_G3588 Jews_G2453 therefore_G3767 came_G1510 around_G2944 him_G0846 and_G2532 said_G3004 to_G3004 him_G0846, “How_G2193 long_G2193 will_G1510 you_G4771 hold us_G3004 in_G2532 suspense? If_G1487 you_G4771 are_G1510 the_G3588 Christ_G5547, tell_G3004 us_G3004 plainly_G3954.” 
 ^a^[**10:22** The “Feast of the Dedication” is the Greek name for “Hanukkah”, a celebration of the rededication of the Temple.]
 
-@25 Jesus answered them, [“I told you, and you don’t believe. The works that I do in my Father’s name, these testify about me.]{.wj} 
-@26 [But you don’t believe, because you are not of my sheep, as I told you.]{.wj} 
-@27 [My sheep hear my voice, and I know them, and they follow me.]{.wj} 
-@28 [I give eternal life to them. They will never perish, and no one will snatch them out of my hand.]{.wj} 
-@29 [My Father who has given them to me is greater than all. No one is able to snatch them out of my Father’s hand.]{.wj} 
-@30 [I and the Father are one.”]{.wj} 
+@25 Jesus_G2424 answered_G0611 them_G0846, j_“the_G3588 Jews_G2453 took up_G0941 stones_G3037 again_G3825 to_G2443 stone_G3037 him_G0846. 
+@32 Jesus_G2424 answered_G0611 them_G0846, j_“Jews_G2453 answered_G0611 him_G0846, “We_G2532 don’t_G3756 stone_G3034 you_G4771 for_G3754 a_G1510 good_G2570 work_G2041, but_G0235 for_G3754 blasphemy_G0988, because_G3754 you_G4771, being_G1510 a_G1510 man_G0444, make_G4160 yourself_G4572 God_G2316.” 
 
-@31 Therefore the Jews took up stones again to stone him. 
-@32 Jesus answered them, [“I have shown you many good works from my Father. For which of those works do you stone me?”]{.wj} 
-
-@33 The Jews answered him, “We don’t stone you for a good work, but for blasphemy, because you, being a man, make yourself God.” 
-
-@34 Jesus answered them, [“Isn’t it written in your law, ‘I said, you are gods?’]{.wj}^a^ 
-@35 [If he called them gods, to whom the word of God came (and the Scripture can’t be broken),]{.wj} 
-@36 [do you say of him whom the Father sanctified and sent into the world, ‘You blaspheme,’ because I said, ‘I am the Son of God?’]{.wj} 
-@37 [If I don’t do the works of my Father, don’t believe me.]{.wj} 
-@38 [But if I do them, though you don’t believe me, believe the works, that you may know and believe that the Father is in me, and I in the Father.”]{.wj} 
-^a^[**10:34** Psalm 82:6]
-
-@39 They sought again to seize him, and he went out of their hand.
-
-## Jesus and Lazarus; Jesus as the resurrection and the life
-@40 He went away again beyond the Jordan into the place where John was baptizing at first, and he stayed there. 
-@41 Many came to him. They said, “John indeed did no sign, but everything that John said about this man is true.” 
-@42 Many believed in him there. 
+@34 Jesus_G2424 answered_G0611 them_G0846, j_“’t_G3756 sought_G2212 again_G3825 to_G2212 seize_G4084 him_G0846, and_G2532 he_G2532 went_G1831 out_G1831 of_G1537 their_G0846 hand_G5495. 
+@40 He_G2532 went_G0565 away_G0565 again_G3825 beyond_G4008 the_G3588 Jordan_G2446 into_G1519 the_G3588 place_G5117 where_G3699 John_G2491 was_G1510 baptizing_G0907 at_G1519 first_G4413, and_G2532 he_G2532 stayed_G3306 there_G1563. 
+@41 Many_G4183 came_G2064 to_G4314 him_G0846. They_G0846 said_G3004, “John_G2491 indeed_G2532 did_G4160 no_G3762 sign_G4592, but_G1161 everything_G3956 that_G3754 John_G2491 said_G3004 about_G4012 this_G3778 man_G3778 is_G1510 true_G0227.” 
+@42 Many_G4183 believed_G4100 in_G1519 him_G0846 there_G1563. 
 
 # 11 
-@1 Now a certain man was sick, Lazarus from Bethany, of the village of Mary and her sister, Martha. 
-@2 It was that Mary who had anointed the Lord with ointment and wiped his feet with her hair, whose brother Lazarus was sick. 
-@3 The sisters therefore sent to him, saying, “Lord, behold, he for whom you have great affection is sick.” 
+@1 Now_G1161 a_G1510 certain_G5100 man_G5100 was_G1510 sick_G0770, Lazarus_G2976 from_G0575 Bethany_G0963, of_G1537 the_G3588 village_G2968 of_G1537 Mary_G3137 and_G2532 her_G0846 sister_G0079, Martha_G3136. 
+@2 It_G0846 was_G1510 that_G3739 Mary_G3137 who_G3739 had_G1510 anointed_G0218 the_G3588 Lord_G2962 with_G2532 ointment_G3464 and_G2532 wiped_G1591 his_G0846 feet_G4228 with_G2532 her_G0846 hair_G2359, whose_G3739 brother_G0080 Lazarus_G2976 was_G1510 sick_G0770. 
+@3 The_G3588 sisters_G0079 therefore_G3767 sent_G0649 to_G4314 him_G0846, saying_G3004, “Lord_G2962, behold_G2396, he_G0846 for_G4314 whom_G3739 you_G3739 have_G3708 great affection is_G3739 sick_G0770.” 
 
-@4 But when Jesus heard it, he said, [“This sickness is not to death, but for the glory of God, that God’s Son may be glorified by it.”]{.wj} 
-@5 Now Jesus loved Martha, and her sister, and Lazarus. 
-@6 When therefore he heard that he was sick, he stayed two days in the place where he was. 
-@7 Then after this he said to the disciples, [“Let’s go into Judea again.”]{.wj} 
+@4 But_G1161 when_G1161 Jesus_G2424 heard_G0191 it_G0846, he_G0846 said_G3004, j_“Jesus_G2424 loved_G0025 Martha_G3136, and_G2532 her_G0846 sister_G0079, and_G2532 Lazarus_G2976. 
+@6 When_G5613 therefore_G3767 he_G3739 heard_G0191 that_G3754 he_G3739 was_G1510 sick_G0770, he_G3739 stayed_G3306 two_G1417 days_G2250 in_G1722 the_G1722 place_G5117 where_G3739 he_G3739 was_G1510. 
+@7 Then_G1899 after_G3326 this_G3778 he_G3778 said_G3004 to_G1519 the_G3588 disciples_G3101, j_“Let’s_disciples_G3101 asked_G3004 him_G0846, “Rabbi_G4461, the_G3588 Jews_G2453 were_G3101 just_G2532 trying_G2212 to_G3004 stone_G3034 you_G4771. Are_G3588 you_G4771 going_G5217 there_G1563 again_G3825?” 
 
-@8 The disciples asked him, “Rabbi, the Jews were just trying to stone you. Are you going there again?” 
+@9 Jesus_G2424 answered_G0611, j_“’t_G3756 said_G3004 these_G3778 things_G3778, and_G2532 after_G3326 that_G2443, he_G2532 said_G3004 to_G2443 them_G0846, j_“disciples_G3101 therefore_G3767 said_G3004, “Lord_G2962, if_G1487 he_G0846 has_G2962 fallen_G2837 asleep_G2837, he_G0846 will_G2962 recover_G4982.” 
 
-@9 Jesus answered, [“Aren’t there twelve hours of daylight? If a man walks in the day, he doesn’t stumble, because he sees the light of this world.]{.wj} 
-@10 [But if a man walks in the night, he stumbles, because the light isn’t in him.”]{.wj} 
-@11 He said these things, and after that, he said to them, [“Our friend Lazarus has fallen asleep, but I am going so that I may awake him out of sleep.”]{.wj} 
-
-@12 The disciples therefore said, “Lord, if he has fallen asleep, he will recover.” 
-
-@13 Now Jesus had spoken of his death, but they thought that he spoke of taking rest in sleep. 
-@14 So Jesus said to them plainly then, [“Lazarus is dead.]{.wj} 
-@15 [I am glad for your sakes that I was not there, so that you may believe. Nevertheless, let’s go to him.”]{.wj} 
-
-@16 Thomas therefore, who is called Didymus,^a^ said to his fellow disciples, “Let’s also go, that we may die with him.” 
+@13 Now_G1161 Jesus_G2424 had_G2424 spoken_G3004 of_G4012 his_G0846 death_G2288, but_G1161 they_G0846 thought_G1380 that_G3754 he_G0846 spoke_G3004 of_G4012 taking rest in_G3004 sleep_G5258. 
+@14 So_G3767 Jesus_G2424 said_G3004 to_G3004 them_G0846 plainly_G3954 then_G5119, j_“therefore_G3767, who_G3588 is_G3588 called_G3004 Didymus_G1324,^a^ said_G3004 to_G2443 his_G0846 fellow_G4827 disciples_G4827, “Let’s also_G2532 go_G0071, that_G2443 we_G2249 may_G2532 die_G0599 with_G3326 him_G0846.” 
 ^a^[**11:16** “Didymus” means “Twin”.]
 
-## The return of Jesus to Bethany; his meeting with Martha and Maria
-@17 So when Jesus came, he found that he had been in the tomb four days already. 
-@18 Now Bethany was near Jerusalem, about fifteen stadia^a^ away. 
-@19 Many of the Jews had joined the women around Martha and Mary, to console them concerning their brother. 
-@20 Then when Martha heard that Jesus was coming, she went and met him, but Mary stayed in the house. 
-@21 Therefore Martha said to Jesus, “Lord, if you would have been here, my brother wouldn’t have died. 
-@22 Even now I know that whatever you ask of God, God will give you.” 
+@17 So_G3767 when_G1722 Jesus_G2424 came_G2064, he_G0846 found_G2147 that_G0846 he_G0846 had_G2192 been_G2192 in_G1722 the_G3588 tomb_G3419 four_G5064 days_G2250 already_G2235. 
+@18 Now_G1161 Bethany_G0963 was_G1510 near_G1451 Jerusalem_G2414, about_G5613 fifteen_G1178 stadia^a^ away_G0575. 
+@19 Many_G4183 of_G1537 the_G3588 Jews_G2453 had_G2064 joined the_G3588 women_G0846 around_G4012 Martha_G3136 and_G2532 Mary_G3137, to_G4314 console_G3888 them_G0846 concerning_G4012 their_G0846 brother_G0080. 
+@20 Then_G3767 when_G5613 Martha_G3136 heard_G0191 that_G3754 Jesus_G2424 was_G2424 coming_G2064, she_G0846 went_G2064 and_G1161 met_G5221 him_G0846, but_G1161 Mary_G3137 stayed_G2516 in_G1722 the_G3588 house_G3624. 
+@21 Therefore_G3767 Martha_G3136 said_G3004 to_G4314 Jesus_G2424, “Lord_G2962, if_G1487 you_G1487 would_G0302 have_G1510 been_G1510 here_G5602, my_G3004 brother_G0080 wouldn’t have_G1510 died_G0599. 
+@22 Even_G2532 now_G3568 I_G2532 know_G1492 that_G3754 whatever_G3745 you_G4771 ask_G0154 of_G2316 God_G2316, God_G2316 will_G2316 give_G1325 you_G4771.” 
 ^a^[**11:18** 15 stadia is about 2.8 kilometers or 1.7 miles]
 
-@23 Jesus said to her, [“Your brother will rise again.”]{.wj} 
+@23 Jesus_G2424 said_G3004 to_G3004 her_G0846, j_“said_G3004 to_G3004 him_G0846, “I_G3754 know_G1492 that_G3754 he_G0846 will_G2250 rise_G0450 again_G0450 in_G1722 the_G3588 resurrection_G0386 at_G1722 the_G3588 last_G2078 day_G2250.” 
 
-@24 Martha said to him, “I know that he will rise again in the resurrection at the last day.” 
+@25 Jesus_G2424 said_G3004 to_G1519 her_G0846, j_“said_G3004 to_G1519 him_G0846, “Yes_G3483, Lord_G2962. I_G1473 have_G1510 come_G2064 to_G1519 believe_G4100 that_G3754 you_G4771 are_G1510 the_G3588 Christ_G5547, God’s_G2316 Son_G5207, he_G0846 who_G3588 comes_G2064 into_G1519 the_G3588 world_G2889.” 
 
-@25 Jesus said to her, [“I am the resurrection and the life. He who believes in me will still live, even if he dies.]{.wj} 
-@26 [Whoever lives and believes in me will never die. Do you believe this?”]{.wj} 
+@28 When_G2532 she_G0846 had_G3588 said_G3004 this_G3778, she_G0846 went_G0565 away_G0565 and_G2532 called_G3004 Mary_G3137, her_G0846 sister_G0079, secretly_G2977, saying_G3004, “The_G3588 Teacher_G1320 is_G3778 here_G3918 and_G2532 is_G3778 calling_G5455 you_G4771.” 
 
-@27 She said to him, “Yes, Lord. I have come to believe that you are the Christ, God’s Son, he who comes into the world.” 
+@29 When_G5613 she_G0846 heard_G0191 this_G1565, she_G0846 arose quickly_G5035 and_G2532 went_G2064 to_G4314 him_G0846. 
+@30 Now_G1161 Jesus_G2424 had_G2424 not_G1510 yet_G1161 come_G2064 into_G1519 the_G3588 village_G2968, but_G1161 was_G1510 in_G1722 the_G3588 place_G5117 where_G3699 Martha_G3136 met_G5221 him_G0846. 
+@31 Then_G2532 the_G3588 Jews_G2453 who_G3588 were_G1510 with_G3326 her_G0846 in_G1722 the_G3588 house_G3614 and_G2532 were_G1510 consoling_G3888 her_G0846, when_G2532 they_G0846 saw_G3708 Mary_G3137, that_G3754 she_G0846 rose_G0450 up_G0450 quickly_G5030 and_G2532 went_G1831 out_G1831, followed_G0190 her_G0846, saying_G3754, “She_G0846 is_G1510 going_G5217 to_G1519 the_G3588 tomb_G3419 to_G1519 weep_G2799 there_G1563.” 
 
-@28 When she had said this, she went away and called Mary, her sister, secretly, saying, “The Teacher is here and is calling you.” 
+@32 Therefore_G3767 when_G5613 Mary_G3137 came_G2064 to_G4314 where_G3699 Jesus_G2424 was_G1510 and_G2064 saw_G3708 him_G0846, she_G0846 fell_G4098 down_G4098 at_G4314 his_G0846 feet_G4228, saying_G3004 to_G4314 him_G0846, “Lord_G2962, if_G1487 you_G1487 would_G0302 have_G1510 been_G1510 here_G5602, my_G3708 brother_G0080 wouldn’t have_G1510 died_G0599.” 
 
-@29 When she heard this, she arose quickly and went to him. 
-@30 Now Jesus had not yet come into the village, but was in the place where Martha met him. 
-@31 Then the Jews who were with her in the house and were consoling her, when they saw Mary, that she rose up quickly and went out, followed her, saying, “She is going to the tomb to weep there.” 
+@33 When_G5613 Jesus_G2424 therefore_G3767 saw_G3708 her_G0846 weeping_G2799, and_G2532 the_G3588 Jews_G2453 weeping_G2799 who_G3588 came_G4905 with_G2532 her_G0846, he_G2532 groaned in_G2532 the_G3588 spirit_G4151 and_G2532 was_G2424 troubled_G5015, 
+@34 and_G2532 said_G3004, j_“told_G3004 him_G0846, “Lord_G2962, come_G2064 and_G2532 see_G3708.” 
 
-@32 Therefore when Mary came to where Jesus was and saw him, she fell down at his feet, saying to him, “Lord, if you would have been here, my brother wouldn’t have died.” 
+@35 Jesus_G2424 wept_G1145. 
 
-@33 When Jesus therefore saw her weeping, and the Jews weeping who came with her, he groaned in the spirit and was troubled,
+@36 The_G3588 Jews_G2453 therefore_G3767 said_G3004, “See_G3708 how_G4459 much affection he_G0846 had_G3588 for_G3004 him_G0846!” 
+@37 Some_G5100 of_G1537 them_G0846 said_G3004, “Couldn’t_G3756 this_G3778 man_G3778, who_G3588 opened_G0455 the_G3588 eyes_G3788 of_G1537 him_G0846 who_G3588 was_G3588 blind_G5185, have_G2532 also_G2532 kept_G4160 this_G3778 man_G3778 from_G1537 dying_G0599?” 
 
-## Jesus in the tomb and his prayer; the raising of Lazarus from the dead
-@34 and said, [“Where have you laid him?”]{.wj} 
+@38 Jesus_G2424 therefore_G3767, again_G3825 groaning in_G1722 himself_G1438, came_G2064 to_G1519 the_G3588 tomb_G3419. Now_G1161 it_G0846 was_G1510 a_G1510 cave_G4693, and_G2532 a_G1510 stone_G3037 lay against_G1909 it_G0846. 
+@39 Jesus_G2424 said_G3004, j_“, the_G3588 sister_G0079 of_G2962 him_G0846 who_G3588 was_G1510 dead, said_G3004 to_G3004 him_G0846, “Lord_G2962, by_G3004 this_G3588 time_G2235 there_G1510 is_G1510 a_G1510 stench_G3605, for_G1063 he_G0846 has_G2962 been_G1510 dead four days.” 
 
-They told him, “Lord, come and see.” 
+@40 Jesus_G2424 said_G3004 to_G3004 her_G0846, j_“’t_G3756 they_G3767 took_G0142 away_G0142 the_G3588 stone_G3037 from_G0191 the_G3588 place_G1473 where the_G3588 dead man was_G2424 lying.^a^ Jesus_G2424 lifted_G0142 up_G0142 his_G0191 eyes_G3788 and_G2532 said_G3004, j_“he_G2532 had_G2532 said_G3004 this_G3778, he_G2532 cried_G2905 with_G2532 a_G3004 loud_G3173 voice_G5456, j_“who_G3588 was_G2424 dead_G2348 came_G1831 out_G1831, bound_G1210 hand_G5495 and_G2532 foot_G4228 with_G2532 wrappings_G2750, and_G2532 his_G0846 face_G3799 was_G2424 wrapped_G4019 around_G4019 with_G2532 a_G3004 cloth_G4676. 
 
-@35 Jesus wept. 
+Jesus_G2424 said_G3004 to_G3004 them_G0846, j_“many_G4183 of_G1537 the_G3588 Jews_G2453 who_G3739 came_G2064 to_G1519 Mary_G3137 and_G2532 saw_G2300 what_G3739 Jesus_G0846 did_G4160 believed_G4100 in_G1519 him_G0846. 
+@46 But_G1161 some_G5100 of_G1537 them_G0846 went_G0565 away_G0565 to_G4314 the_G3588 Pharisees_G5330 and_G2532 told_G3004 them_G0846 the_G3588 things_G3739 which_G3739 Jesus_G2424 had_G2424 done_G4160. 
+@47 The_G3588 chief_G0749 priests_G0749 therefore_G3767 and_G2532 the_G3588 Pharisees_G5330 gathered_G4863 a_G4160 council_G4892, and_G2532 said_G3004, “What_G5101 are_G3778 we_G3778 doing_G4160? For_G3754 this_G3778 man_G0444 does_G4160 many_G4183 signs_G4592. 
+@48 If_G1437 we_G2249 leave_G0863 him_G0846 alone_G0863 like_G3779 this_G3779, everyone_G3956 will_G3956 believe_G4100 in_G1519 him_G0846, and_G2532 the_G3956 Romans_G4514 will_G3956 come_G2064 and_G2532 take_G0142 away_G0142 both_G2532 our_G2532 place_G5117 and_G2532 our_G2532 nation_G1484.” 
 
-@36 The Jews therefore said, “See how much affection he had for him!” 
-@37 Some of them said, “Couldn’t this man, who opened the eyes of him who was blind, have also kept this man from dying?” 
+@49 But_G1161 a_G1510 certain_G5100 one_G1520 of_G1537 them_G0846, Caiaphas_G2533, being_G1510 high_G0749 priest_G0749 that_G1565 year_G1763, said_G3004 to_G3004 them_G0846, “You_G5210 know_G1492 nothing_G3762 at_G1537 all_G3588, 
+@50 nor_G3761 do_G3361 you_G5210 consider_G3049 that_G3754 it_G2532 is_G0444 advantageous for_G3754 us that_G3754 one_G1520 man_G0444 should_G2443 die_G0599 for_G3754 the_G3588 people_G2992, and_G2532 that_G3754 the_G3588 whole_G3650 nation_G1484 not_G3361 perish_G0622.” 
+@51 Now_G1161 he_G3778 didn’t_G3756 say_G3004 this_G3778 of_G0575 himself_G1438, but_G1161 being_G1510 high_G0749 priest_G0749 that_G3754 year_G1763, he_G3778 prophesied_G4395 that_G3754 Jesus_G2424 would_G3195 die_G0599 for_G3754 the_G3588 nation_G1484, 
+@52 and_G2532 not_G3756 for_G1519 the_G3588 nation_G1484 only_G3440, but_G0235 that_G2443 he_G2532 might_G2532 also_G2532 gather_G4863 together_G4863 into_G1519 one_G1520 the_G3588 children_G5043 of_G2316 God_G2316 who_G3588 are_G3588 scattered_G1287 abroad_G1287. 
+@53 So_G2443 from_G0575 that_G2443 day_G2250 forward they_G0846 took counsel that_G2443 they_G0846 might put_G0615 him_G0846 to_G2443 death_G0615. 
+@54 Jesus_G2424 therefore_G3767 walked_G4043 no_G3765 more_G3765 openly_G3954 among_G1722 the_G3588 Jews_G2453, but_G0235 departed_G0565 from_G1722 there_G1564 into_G1519 the_G3588 country_G5561 near_G1451 the_G3588 wilderness_G2048, to_G1519 a_G3004 city_G4172 called_G3004 Ephraim_G2187. He_G3004 stayed_G3306 there_G1564 with_G3326 his_G3326 disciples_G3101. 
 
-@38 Jesus therefore, again groaning in himself, came to the tomb. Now it was a cave, and a stone lay against it. 
-@39 Jesus said, [“Take away the stone.”]{.wj} 
-
-Martha, the sister of him who was dead, said to him, “Lord, by this time there is a stench, for he has been dead four days.” 
-
-@40 Jesus said to her, [“Didn’t I tell you that if you believed, you would see God’s glory?”]{.wj} 
-
-@41 So they took away the stone from the place where the dead man was lying.^a^ Jesus lifted up his eyes and said, [“Father, I thank you that you listened to me.]{.wj} 
-@42 [I know that you always listen to me, but because of the multitude standing around I said this, that they may believe that you sent me.”]{.wj} 
-@43 When he had said this, he cried with a loud voice, [“Lazarus, come out!”]{.wj} 
-^a^[**11:41** NU omits “from the place where the dead man was lying.”]
-
-@44 He who was dead came out, bound hand and foot with wrappings, and his face was wrapped around with a cloth. 
-
-Jesus said to them, [“Free him, and let him go.”]{.wj}
-
-## The effects of the miracle; death resolution of the high council; Jesus escapes to Ephraim
-@45 Therefore many of the Jews who came to Mary and saw what Jesus did believed in him. 
-@46 But some of them went away to the Pharisees and told them the things which Jesus had done. 
-@47 The chief priests therefore and the Pharisees gathered a council, and said, “What are we doing? For this man does many signs. 
-@48 If we leave him alone like this, everyone will believe in him, and the Romans will come and take away both our place and our nation.” 
-
-@49 But a certain one of them, Caiaphas, being high priest that year, said to them, “You know nothing at all, 
-@50 nor do you consider that it is advantageous for us that one man should die for the people, and that the whole nation not perish.” 
-@51 Now he didn’t say this of himself, but being high priest that year, he prophesied that Jesus would die for the nation, 
-@52 and not for the nation only, but that he might also gather together into one the children of God who are scattered abroad. 
-@53 So from that day forward they took counsel that they might put him to death. 
-@54 Jesus therefore walked no more openly among the Jews, but departed from there into the country near the wilderness, to a city called Ephraim. He stayed there with his disciples. 
-
-@55 Now the Passover of the Jews was at hand. Many went up from the country to Jerusalem before the Passover, to purify themselves. 
-@56 Then they sought for Jesus and spoke with one another as they stood in the temple, “What do you think—that he isn’t coming to the feast at all?” 
-@57 Now the chief priests and the Pharisees had commanded that if anyone knew where he was, he should report it, that they might seize him. 
+@55 Now_G1161 the_G3588 Passover_G3957 of_G1537 the_G3588 Jews_G2453 was_G1510 at_G1519 hand_G1161. Many_G4183 went_G0305 up_G0305 from_G1537 the_G3588 country_G5561 to_G1519 Jerusalem_G2414 before_G4253 the_G3588 Passover_G3957, to_G1519 purify_G0048 themselves_G1438. 
+@56 Then_G2532 they_G3767 sought_G2212 for_G1519 Jesus_G2424 and_G2532 spoke_G3004 with_G3326 one_G0240 another_G0240 as_G1519 they_G3767 stood_G2476 in_G1722 the_G3588 temple_G2413, “What_G5101 do_G1380 you_G5210 think_G1380—that_G3754 he_G2532 isn’t_G3756 coming_G2064 to_G1519 the_G3588 feast_G1859 at_G1722 all_G3588?” 
+@57 Now_G1161 the_G3588 chief_G0749 priests_G0749 and_G2532 the_G3588 Pharisees_G5330 had_G1510 commanded_G1785 that_G2443 if_G1437 anyone_G5100 knew_G1097 where_G4226 he_G2532 was_G1510, he_G2532 should_G5100 report_G3377 it_G0846, that_G2443 they_G0846 might_G2532 seize_G4084 him_G0846. 
 
 # 12 
-## The anointing of Jesus (death consecration) at Bethany
-@1 Then, six days before the Passover, Jesus came to Bethany, where Lazarus was, who had been dead, whom he raised from the dead. 
-@2 So they made him a supper there. Martha served, but Lazarus was one of those who sat at the table with him. 
-@3 Therefore Mary took a pound^a^ of ointment of pure nard, very precious, and anointed Jesus’s feet and wiped his feet with her hair. The house was filled with the fragrance of the ointment. 
+@1 Then_G3767, six_G1803 days_G2250 before_G4253 the_G3588 Passover_G3957, Jesus_G2424 came_G2064 to_G1519 Bethany_G0963, where_G3699 Lazarus_G2976 was_G1510, who_G3739 had_G2424 been_G1510 dead_G3498, whom_G3739 he_G3739 raised_G1453 from_G1537 the_G3588 dead_G3498. 
+@2 So_G3767 they_G0846 made_G4160 him_G0846 a_G1510 supper_G1173 there_G1563. Martha_G3136 served_G1247, but_G1161 Lazarus_G2976 was_G1510 one_G1520 of_G1537 those_G3588 who_G3588 sat at_G1537 the_G3588 table with_G4862 him_G0846. 
+@3 Therefore_G3767 Mary_G3137 took_G2983 a_G2983 pound_G3046^a^ of_G1537 ointment_G3464 of_G1537 pure_G4101 nard_G3487, very_G0846 precious_G4186, and_G2532 anointed_G0218 Jesus’s feet_G4228 and_G2532 wiped_G1591 his_G0846 feet_G4228 with_G1537 her_G0846 hair_G2359. The_G3588 house_G3614 was_G2424 filled_G4137 with_G1537 the_G3588 fragrance_G3744 of_G1537 the_G3588 ointment_G3464. 
 ^a^[**12:3** a Roman pound of 12 ounces, or about 340 grams]
 
-@4 Then Judas Iscariot, Simon’s son, one of his disciples, who would betray him, said, 
-@5 “Why wasn’t this ointment sold for three hundred denarii^a^ and given to the poor?” 
-@6 Now he said this, not because he cared for the poor, but because he was a thief, and having the money box, used to steal what was put into it. 
+@4 Then_G1161 Judas_G2455 Iscariot_G2469, Simon’s son, one_G1520 of_G1537 his_G0846 disciples_G3101, who_G3588 would_G3195 betray_G3860 him_G0846, said_G3004, 
+@5 “Why_G5101 wasn’t_G3756 this_G3778 ointment_G3464 sold_G4097 for_G1223 three_G5145 hundred_G5145 denarii_G1220^a^ and_G2532 given_G1325 to_G2532 the_G3588 poor_G4434?” 
+@6 Now_G1161 he_G2532 said_G3004 this_G3778, not_G3756 because_G3754 he_G2532 cared for_G3754 the_G3588 poor_G4434, but_G1161 because_G3754 he_G2532 was_G1510 a_G2192 thief_G2812, and_G2532 having_G2192 the_G3588 money_G1101 box_G1101, used to_G3004 steal what_G3588 was_G1510 put_G0906 into_G0906 it_G0846. 
 ^a^[**12:5** 300 denarii was about a year’s wages for an agricultural laborer.]
 
-@7 But Jesus said, [“Leave her alone. She has kept this for the day of my burial.]{.wj} 
-@8 [For you always have the poor with you, but you don’t always have me.”]{.wj} 
+@7 But_G1438 Jesus_G2424 said_G3004, j_“large_G4183 crowd_G3793 therefore_G3767 of_G1537 the_G3588 Jews_G2453 learned_G1097 that_G3754 he_G2532 was_G1510 there_G1563; and_G2532 they_G3767 came_G2064, not_G3756 for_G3754 Jesus’_G2424 sake_G1223 only_G3440, but_G0235 that_G3754 they_G3767 might_G2532 see_G3708 Lazarus_G2976 also_G2532, whom_G3739 he_G2532 had_G2424 raised_G1453 from_G1537 the_G3588 dead_G3498. 
+@10 But_G1161 the_G3588 chief_G0749 priests_G0749 conspired to_G2443 put_G0615 Lazarus_G2976 to_G2443 death_G0615 also_G2532, 
+@11 because_G3754 on_G1519 account_G1223 of_G1223 him_G0846 many_G4183 of_G1223 the_G3588 Jews_G2453 went_G5217 away_G5217 and_G2532 believed_G4100 in_G1519 Jesus_G2424. 
 
-@9 A large crowd therefore of the Jews learned that he was there; and they came, not for Jesus’ sake only, but that they might see Lazarus also, whom he had raised from the dead. 
-@10 But the chief priests conspired to put Lazarus to death also, 
-@11 because on account of him many of the Jews went away and believed in Jesus.
-
-## The entry of Jesus into Jerusalem on Palm Sunday
-@12 On the next day a great multitude had come to the feast. When they heard that Jesus was coming to Jerusalem, 
-@13 they took the branches of the palm trees and went out to meet him, and cried out, “Hosanna!^a^ Blessed is he who comes in the name of the Lord,^b^ the King of Israel!” 
+@12 On_G1519 the_G3588 next_G1887 day_G1887 a_G0191 great_G4183 multitude_G3793 had_G2424 come_G2064 to_G1519 the_G3588 feast_G1859. When_G0191 they_G3754 heard_G0191 that_G3754 Jesus_G2424 was_G2424 coming_G2064 to_G1519 Jerusalem_G2414, 
+@13 they_G0846 took_G2983 the_G3588 branches_G0902 of_G2962 the_G3588 palm_G5404 trees_G5404 and_G2532 went_G1831 out_G1831 to_G1519 meet_G5222 him_G0846, and_G2532 cried_G2905 out_G1831, “Hosanna_G5614!^a^ Blessed_G2127 is_G2962 he_G2532 who_G3588 comes_G2064 in_G1722 the_G3588 name_G3686 of_G2962 the_G3588 Lord_G2962,^b^ the_G3588 King_G0935 of_G2962 Israel_G2474!” 
 ^a^[**12:13** “Hosanna” means “save us” or “help us, we pray”.] ^b^[**12:13** Psalm 118:25-26 ]
 
-@14 Jesus, having found a young donkey, sat on it. As it is written, 
-@15 “Don’t be afraid, daughter of Zion. Behold, your King comes, sitting on a donkey’s colt.”^a^ 
-@16 His disciples didn’t understand these things at first, but when Jesus was glorified, then they remembered that these things were written about him, and that they had done these things to him. 
-@17 The multitude therefore that was with him when he called Lazarus out of the tomb and raised him from the dead was testifying about it. 
-@18 For this cause also the multitude went and met him, because they heard that he had done this sign. 
-@19 The Pharisees therefore said among themselves, “See how you accomplish nothing. Behold, the world has gone after him.” 
+@14 Jesus_G2424, having found_G2147 a_G1510 young_G3678 donkey_G3678, sat_G2523 on_G1909 it_G0846. As_G2531 it_G0846 is_G1510 written_G1125, 
+@15 “Don’t_G3361 be_G3361 afraid_G5399, daughter_G2364 of_G1909 Zion_G4622. Behold_G2400, your_G3708 King_G0935 comes_G2064, sitting_G2521 on_G1909 a_G3708 donkey’s_G3688 colt_G4454.”^a^ 
+@16 His_G0846 disciples_G3101 didn’t_G3756 understand_G1097 these_G3778 things_G3778 at_G1909 first_G4413, but_G0235 when_G3753 Jesus_G2424 was_G1510 glorified_G1392, then_G2532 they_G0846 remembered_G3403 that_G3754 these_G3778 things_G3778 were_G1510 written_G1125 about_G1909 him_G0846, and_G2532 that_G3754 they_G0846 had_G2424 done_G4160 these_G3778 things_G3778 to_G1909 him_G0846. 
+@17 The_G3588 multitude_G3793 therefore_G3767 that_G3754 was_G1510 with_G3326 him_G0846 when_G3753 he_G2532 called_G5455 Lazarus_G2976 out_G1537 of_G1537 the_G3588 tomb_G3419 and_G2532 raised_G1453 him_G0846 from_G1537 the_G3588 dead_G3498 was_G1510 testifying_G3140 about_G3588 it_G0846. 
+@18 For_G3754 this_G3778 cause_G4160 also_G2532 the_G3588 multitude_G3793 went_G5221 and_G2532 met_G5221 him_G0846, because_G3754 they_G0846 heard_G0191 that_G3754 he_G2532 had_G3748 done_G4160 this_G3778 sign_G4592. 
+@19 The_G3588 Pharisees_G5330 therefore_G3767 said_G3004 among_G4314 themselves_G1438, “See_G3708 how_G3754 you_G3754 accomplish nothing_G3762. Behold_G2396, the_G3588 world_G2889 has_G3762 gone_G0565 after_G3694 him_G0846.” 
 ^a^[**12:15** Zechariah 9:9]
 
-## Jesus announces his mortal suffering and subsequent glorification as savior of the world
-@20 Now there were certain Greeks among those who went up to worship at the feast. 
-@21 Therefore, these came to Philip, who was from Bethsaida of Galilee, and asked him, saying, “Sir, we want to see Jesus.” 
-@22 Philip came and told Andrew, and in turn, Andrew came with Philip, and they told Jesus. 
+@20 Now_G1161 there_G1510 were_G1510 certain_G5100 Greeks_G1672 among_G1722 those_G3588 who_G3588 went_G0305 up_G0305 to_G2443 worship_G4352 at_G1722 the_G3588 feast_G1859. 
+@21 Therefore_G3767, these_G3778 came_G4334 to_G3004 Philip_G5376, who_G3588 was_G2424 from_G0575 Bethsaida_G0966 of_G0575 Galilee_G1056, and_G2532 asked_G2065 him_G0846, saying_G3004, “Sir_G2962, we_G3778 want_G2309 to_G3004 see_G3708 Jesus_G2424.” 
+@22 Philip_G5376 came_G2064 and_G2532 told_G3004 Andrew_G0406, and_G2532 in_G2532 turn, Andrew_G0406 came_G2064 with_G2532 Philip_G5376, and_G2532 they_G2532 told_G3004 Jesus_G2424. 
 
-@23 Jesus answered them, [“The time has come for the Son of Man to be glorified.]{.wj} 
-@24 [Most certainly I tell you, unless a grain of wheat falls into the earth and dies, it remains by itself alone. But if it dies, it bears much fruit.]{.wj} 
-@25 [He who loves his life will lose it. He who hates his life in this world will keep it to eternal life.]{.wj} 
-@26 [If anyone serves me, let him follow me. Where I am, there my servant will also be. If anyone serves me, the Father will honor him.]{.wj} 
+@23 Jesus_G2424 answered_G0611 them_G0846, j_“a_G3825 voice_G5456 came_G2064 out_G1537 of_G1537 the_G3588 sky_G3772, saying, “I_G2532 have_G2532 both_G2532 glorified_G1392 it_G3825 and_G2532 will_G2532 glorify_G1392 it_G3825 again_G3825.” 
 
-@27 [“Now my soul is troubled. What shall I say? ‘Father, save me from this time?’ But I came to this time for this cause.]{.wj} 
-@28 [Father, glorify your name!”]{.wj} 
+@29 Therefore_G3767 the_G3588 multitude_G3793 who_G3588 stood_G2476 by_G3004 and_G2532 heard_G0191 it_G0846 said_G3004 that_G3004 it_G0846 had_G3588 thundered_G1027. Others_G0243 said_G3004, “An_G1096 angel_G0032 has_G1096 spoken_G2980 to_G3004 him_G0846.” 
 
-Then a voice came out of the sky, saying, “I have both glorified it and will glorify it again.” 
+@30 Jesus_G2424 answered_G0611, j_“he_G3778 said_G3004 this_G3778, signifying_G4591 by_G3004 what_G4169 kind_G4169 of_G4169 death_G2288 he_G3778 should_G3778 die_G0599. 
 
-@29 Therefore the multitude who stood by and heard it said that it had thundered. Others said, “An angel has spoken to him.” 
-
-@30 Jesus answered, [“This voice hasn’t come for my sake, but for your sakes.]{.wj} 
-@31 [Now is the judgment of this world. Now the prince of this world will be cast out.]{.wj} 
-@32 [And I, if I am lifted up from the earth, will draw all people to myself.”]{.wj} 
-@33 But he said this, signifying by what kind of death he should die. 
-
-@34 The multitude answered him, “We have heard out of the law that the Christ remains forever.^a^ How do you say, [‘The Son of Man must be lifted up?’]{.wj} Who is this Son of Man?” 
+@34 The_G3588 multitude_G3793 answered_G0611 him_G0846, “We_G2249 have_G1510 heard_G0191 out_G1537 of_G5207 the_G3588 law_G3551 that_G3754 the_G3588 Christ_G5547 remains_G3306 forever_G0165.^a^ How_G4459 do_G1510 you_G4771 say_G3004, j_‘is_G1510 this_G3778 Son_G5207 of_G5207 Man_G0444?” 
 ^a^[**12:34** Isaiah 9:7; Daniel 2:44; See Isaiah 53:8]
 
-@35 Jesus therefore said to them, [“Yet a little while the light is with you. Walk while you have the light, that darkness doesn’t overtake you. He who walks in the darkness doesn’t know where he is going.]{.wj} 
-@36 [While you have the light, believe in the light, that you may become children of light.”]{.wj} Jesus said these things, and he departed and hid himself from them.
-
-## The Evangelist's Review of Jesus' Public Activity
-@37 But though he had done so many signs before them, yet they didn’t believe in him, 
-@38 that the word of Isaiah the prophet might be fulfilled, which he spoke: “Lord, who has believed our report? To whom has the arm of the Lord been revealed?”^a^ 
+@35 Jesus_G2424 therefore_G3767 said_G3004 to_G2443 them_G0846, j_“said_G2980 these_G3778 things_G3778, and_G2532 he_G2532 departed_G0565 and_G2532 hid_G2928 himself_G0846 from_G0575 them_G0846. 
+@37 But_G1161 though_G1161 he_G0846 had_G0846 done_G4160 so_G1161 many_G5118 signs_G4592 before_G1715 them_G0846, yet_G1161 they_G0846 didn’t_G3756 believe_G4100 in_G1519 him_G0846, 
+@38 that_G3739 the_G3588 word_G3056 of_G3056 Isaiah_G2268 the_G3588 prophet_G4396 might_G2532 be_G2532 fulfilled_G4137, which_G3739 he_G2532 spoke_G3004: “Lord_G2962, who_G3739 has_G2962 believed_G4100 our_G2532 report_G3056? To_G2443 whom_G3739 has_G2962 the_G3588 arm_G1023 of_G3056 the_G3588 Lord_G2962 been_G2532 revealed_G0601?”^a^ 
 ^a^[**12:38** Isaiah 53:1]
 
-@39 For this cause they couldn’t believe, for Isaiah said again: 
-@40 “He has blinded their eyes and he hardened their heart, lest they should see with their eyes, and perceive with their heart, and would turn, and I would heal them.”^a^ 
+@39 For_G3754 this_G3778 cause they_G3754 couldn’t_G3756 believe_G4100, for_G3754 Isaiah_G2268 said_G3004 again_G3825: 
+@40 “He_G2532 has_G3708 blinded_G5186 their_G0846 eyes_G3788 and_G2532 he_G2532 hardened_G4456 their_G0846 heart_G2588, lest_G3361 they_G0846 should_G2443 see_G3708 with_G2532 their_G0846 eyes_G3788, and_G2532 perceive_G3708 with_G2532 their_G0846 heart_G2588, and_G2532 would_G0846 turn_G4762, and_G2532 I_G2532 would_G0846 heal_G2390 them_G0846.”^a^ 
 ^a^[**12:40** Isaiah 6:10]
 
-@41 Isaiah said these things when he saw his glory, and spoke of him. ^a^ 
-@42 Nevertheless, even many of the rulers believed in him, but because of the Pharisees they didn’t confess it, so that they wouldn’t be put out of the synagogue, 
-@43 for they loved men’s praise more than God’s praise. 
+@41 Isaiah_G2268 said_G3004 these_G3778 things_G3778 when_G2532 he_G2532 saw_G3708 his_G0846 glory_G1391, and_G2532 spoke_G2980 of_G1391 him_G0846. ^a^ 
+@42 Nevertheless_G0235, even_G2532 many_G4183 of_G1537 the_G3588 rulers_G0758 believed_G4100 in_G1519 him_G0846, but_G0235 because_G1223 of_G1537 the_G3588 Pharisees_G5330 they_G0846 didn’t_G3756 confess_G3670 it_G0846, so_G2443 that_G2443 they_G0846 wouldn’t be_G1096 put_G0656 out_G1537 of_G1537 the_G3588 synagogue_G0656, 
+@43 for_G1063 they loved_G0025 men’s_G0444 praise_G1391 more_G3123 than_G2260 God’s_G2316 praise_G1391. 
 ^a^[**12:41** Isaiah 6:1]
 
-## The testimony of Jesus about himself and about his relationship with God
-@44 Jesus cried out and said, [“Whoever believes in me, believes not in me, but in him who sent me.]{.wj} 
-@45 [He who sees me sees him who sent me.]{.wj} 
-@46 [I have come as a light into the world, that whoever believes in me may not remain in the darkness.]{.wj} 
-@47 [If anyone listens to my sayings and doesn’t believe, I don’t judge him. For I came not to judge the world, but to save the world.]{.wj} 
-@48 [He who rejects me, and doesn’t receive my sayings, has one who judges him. The word that I spoke will judge him in the last day.]{.wj} 
-@49 [For I spoke not from myself, but the Father who sent me gave me a commandment, what I should say and what I should speak.]{.wj} 
-@50 [I know that his commandment is eternal life. The things therefore which I speak, even as the Father has said to me, so I speak.”]{.wj} 
-
-# 13 
-## The foot wash
-@1 Now before the feast of the Passover, Jesus, knowing that his time had come that he would depart from this world to the Father, having loved his own who were in the world, he loved them to the end. 
-@2 During supper, the devil having already put into the heart of Judas Iscariot, Simon’s son, to betray him, 
-@3 Jesus, knowing that the Father had given all things into his hands, and that he came from God and was going to God, 
-@4 arose from supper, and laid aside his outer garments. He took a towel and wrapped a towel around his waist. 
-@5 Then he poured water into the basin, and began to wash the disciples’ feet and to wipe them with the towel that was wrapped around him. 
-@6 Then he came to Simon Peter. He said to him, “Lord, do you wash my feet?” 
-
-@7 Jesus answered him, [“You don’t know what I am doing now, but you will understand later.”]{.wj} 
-
-@8 Peter said to him, “You will never wash my feet!” 
-
-Jesus answered him, [“If I don’t wash you, you have no part with me.”]{.wj} 
-
-@9 Simon Peter said to him, “Lord, not my feet only, but also my hands and my head!” 
-
-@10 Jesus said to him, [“Someone who has bathed only needs to have his feet washed, but is completely clean. You are clean, but not all of you.”]{.wj} 
-@11 For he knew him who would betray him; therefore he said, [“You are not all clean.”]{.wj}
-
-## Jesus' interpretation of his humble service of love
-@12 So when he had washed their feet, put his outer garment back on, and sat down again, he said to them, [“Do you know what I have done to you?]{.wj} 
-@13 [You call me, ‘Teacher’ and ‘Lord.’ You say so correctly, for so I am.]{.wj} 
-@14 [If I then, the Lord and the Teacher, have washed your feet, you also ought to wash one another’s feet.]{.wj} 
-@15 [For I have given you an example, that you should also do as I have done to you.]{.wj} 
-@16 [Most certainly I tell you, a servant is not greater than his lord, neither is one who is sent greater than he who sent him.]{.wj} 
-@17 [If you know these things, blessed are you if you do them.]{.wj} 
-@18 [I don’t speak concerning all of you. I know whom I have chosen; but that the Scripture may be fulfilled, ‘He who eats bread with me has lifted up his heel against me.’]{.wj}^a^ 
-@19 [From now on, I tell you before it happens, that when it happens, you may believe that I am he.]{.wj} 
-@20 [Most certainly I tell you, he who receives whomever I send, receives me; and he who receives me, receives him who sent me.”]{.wj} 
-^a^[**13:18** Psalm 41:9]
-
-## Identification and removal of the traitor
-@21 When Jesus had said this, he was troubled in spirit, and testified, [“Most certainly I tell you that one of you will betray me.”]{.wj} 
-
-@22 The disciples looked at one another, perplexed about whom he spoke. 
-@23 One of his disciples, whom Jesus loved, was at the table, leaning against Jesus’ breast. 
-@24 Simon Peter therefore beckoned to him, and said to him, “Tell us who it is of whom he speaks.” 
-
-@25 He, leaning back, as he was, on Jesus’ breast, asked him, “Lord, who is it?” 
-
-@26 Jesus therefore answered, [“It is he to whom I will give this piece of bread when I have dipped it.”]{.wj} So when he had dipped the piece of bread, he gave it to Judas, the son of Simon Iscariot. 
-@27 After the piece of bread, then Satan entered into him. 
-
-Then Jesus said to him, [“What you do, do quickly.”]{.wj} 
-
-@28 Now nobody at the table knew why he said this to him. 
-@29 For some thought, because Judas had the money box, that Jesus said to him, “Buy what things we need for the feast,” or that he should give something to the poor. 
-@30 Therefore having received that morsel, he went out immediately. It was night.
-
-## Jesus' announcement of his glorification
-@31 When he had gone out, Jesus said, [“Now the Son of Man has been glorified, and God has been glorified in him.]{.wj} 
-@32 [If God has been glorified in him, God will also glorify him in himself, and he will glorify him immediately.]{.wj} 
-@33 [Little children, I will be with you a little while longer. You will seek me, and as I said to the Jews, ‘Where I am going, you can’t come,’ so now I tell you.]{.wj}
-
-## The new commandment to love
-@34 [A new commandment I give to you, that you love one another. Just as I have loved you, you also love one another.]{.wj} 
-@35 [By this everyone will know that you are my disciples, if you have love for one another.”]{.wj}
-
-## Announcement of Peter's denial
-@36 Simon Peter said to him, “Lord, where are you going?” 
-
-Jesus answered, [“Where I am going, you can’t follow now, but you will follow afterwards.”]{.wj} 
-
-@37 Peter said to him, “Lord, why can’t I follow you now? I will lay down my life for you.” 
-
-@38 Jesus answered him, [“Will you lay down your life for me? Most certainly I tell you, the rooster won’t crow until you have denied me three times.]{.wj} 
-
-# 14 
-## Jesus the way to God, his union with God
-@1 [“Don’t let your heart be troubled. Believe in God. Believe also in me.]{.wj} 
-@2 [In my Father’s house are many homes. If it weren’t so, I would have told you. I am going to prepare a place for you.]{.wj} 
-@3 [If I go and prepare a place for you, I will come again and will receive you to myself; that where I am, you may be there also.]{.wj} 
-@4 [You know where I go, and you know the way.”]{.wj} 
-
-@5 Thomas said to him, “Lord, we don’t know where you are going. How can we know the way?” 
-
-@6 Jesus said to him, [“I am the way, the truth, and the life. No one comes to the Father, except through me.]{.wj} 
-@7 [If you had known me, you would have known my Father also. From now on, you know him and have seen him.”]{.wj} 
-
-@8 Philip said to him, “Lord, show us the Father, and that will be enough for us.” 
-
-@9 Jesus said to him, [“Have I been with you such a long time, and do you not know me, Philip? He who has seen me has seen the Father. How do you say, ‘Show us the Father?’]{.wj} 
-@10 [Don’t you believe that I am in the Father, and the Father in me? The words that I tell you, I speak not from myself; but the Father who lives in me does his works.]{.wj} 
-@11 [Believe me that I am in the Father, and the Father in me; or else believe me for the very works’ sake.]{.wj}
-
-## Promise of the Holy Spirit
-@12 [Most certainly I tell you, he who believes in me, the works that I do, he will do also; and he will do greater works than these, because I am going to my Father.]{.wj} 
-@13 [Whatever you will ask in my name, I will do it, that the Father may be glorified in the Son.]{.wj} 
-@14 [If you will ask anything in my name, I will do it.]{.wj} 
-@15 [If you love me, keep my commandments.]{.wj} 
-@16 [I will pray to the Father, and he will give you another Counselor,]{.wj}^a^ [that he may be with you forever:]{.wj} 
-@17 [the Spirit of truth, whom the world can’t receive, for it doesn’t see him and doesn’t know him. You know him, for he lives with you and will be in you.]{.wj} 
-@18 [I will not leave you orphans. I will come to you.]{.wj} 
-@19 [Yet a little while, and the world will see me no more; but you will see me. Because I live, you will live also.]{.wj} 
-@20 [In that day you will know that I am in my Father, and you in me, and I in you.]{.wj}
-
-## Promise of the most intimate community of spirit and love with God and Jesus
-@21 [One who has my commandments and keeps them, that person is one who loves me. One who loves me will be loved by my Father, and I will love him, and will reveal myself to him.”]{.wj} 
-^a^[**14:16** Greek παρακλητον: Counselor, Helper, Intercessor, Advocate, and Comforter.]
-
-@22 Judas (not Iscariot) said to him, “Lord, what has happened that you are about to reveal yourself to us, and not to the world?” 
-
-@23 Jesus answered him, [“If a man loves me, he will keep my word. My Father will love him, and we will come to him and make our home with him.]{.wj} 
-@24 [He who doesn’t love me doesn’t keep my words. The word which you hear isn’t mine, but the Father’s who sent me.]{.wj}
-
-## Holy Spirit Promise to Teach
-@25 [“I have said these things to you while still living with you.]{.wj} 
-@26 [But the Counselor, the Holy Spirit, whom the Father will send in my name, will teach you all things, and will remind you of all that I said to you.]{.wj} 
-@27 [Peace I leave with you. My peace I give to you; not as the world gives, I give to you. Don’t let your heart be troubled, neither let it be fearful.]{.wj} 
-@28 [You heard how I told you, ‘I am going away, and I will come back to you.’ If you loved me, you would have rejoiced because I said ‘I am going to my Father;’ for the Father is greater than I.]{.wj} 
-@29 [Now I have told you before it happens so that when it happens, you may believe.]{.wj} 
-@30 [I will no more speak much with you, for the prince of the world comes, and he has nothing in me.]{.wj} 
-@31 [But that the world may know that I love the Father, and as the Father commanded me, even so I do. Arise, let’s go from here.]{.wj} 
-
-# 15 
-## Parable of the vine and the branches
-@1 [“I am the true vine, and my Father is the farmer.]{.wj} 
-@2 [Every branch in me that doesn’t bear fruit, he takes away. Every branch that bears fruit, he prunes, that it may bear more fruit.]{.wj} 
-@3 [You are already pruned clean because of the word which I have spoken to you.]{.wj} 
-@4 [Remain in me, and I in you. As the branch can’t bear fruit by itself unless it remains in the vine, so neither can you, unless you remain in me.]{.wj} 
-@5 [I am the vine. You are the branches. He who remains in me and I in him bears much fruit, for apart from me you can do nothing.]{.wj} 
-@6 [If a man doesn’t remain in me, he is thrown out as a branch and is withered; and they gather them, throw them into the fire, and they are burned.]{.wj} 
-@7 [If you remain in me, and my words remain in you, you will ask whatever you desire, and it will be done for you.]{.wj} 
-
-@8 [“In this my Father is glorified, that you bear much fruit; and so you will be my disciples.]{.wj}
-
-## The commandment of love: Remain in the community of love with me and with each other!
-@9 [Even as the Father has loved me, I also have loved you. Remain in my love.]{.wj} 
-@10 [If you keep my commandments, you will remain in my love, even as I have kept my Father’s commandments and remain in his love.]{.wj} 
-@11 [I have spoken these things to you, that my joy may remain in you, and that your joy may be made full.]{.wj} 
-
-@12 [“This is my commandment, that you love one another, even as I have loved you.]{.wj} 
-@13 [Greater love has no one than this, that someone lay down his life for his friends.]{.wj} 
-@14 [You are my friends if you do whatever I command you.]{.wj} 
-@15 [No longer do I call you servants, for the servant doesn’t know what his lord does. But I have called you friends, for everything that I heard from my Father, I have made known to you.]{.wj} 
-@16 [You didn’t choose me, but I chose you and appointed you, that you should go and bear fruit, and that your fruit should remain; that whatever you will ask of the Father in my name, he may give it to you.]{.wj} 
-
-@17 [“I command these things to you, that you may love one another.]{.wj}
-
-## Prophecy of the fate of the disciples, suffering the hatred of the world
-@18 [If the world hates you, you know that it has hated me before it hated you.]{.wj} 
-@19 [If you were of the world, the world would love its own. But because you are not of the world, since I chose you out of the world, therefore the world hates you.]{.wj} 
-@20 [Remember the word that I said to you: ‘A servant is not greater than his lord.’]{.wj}^a^ [If they persecuted me, they will also persecute you. If they kept my word, they will also keep yours.]{.wj} 
-@21 [But they will do all these things to you for my name’s sake, because they don’t know him who sent me.]{.wj} 
-@22 [If I had not come and spoken to them, they would not have had sin; but now they have no excuse for their sin.]{.wj} 
-@23 [He who hates me, hates my Father also.]{.wj} 
-@24 [If I hadn’t done among them the works which no one else did, they wouldn’t have had sin. But now they have seen and also hated both me and my Father.]{.wj} 
-@25 [But this happened so that the word may be fulfilled which was written in their law, ‘They hated me without a cause.’]{.wj}^b^ 
-^a^[**15:20** John 13:16] ^b^[**15:25** Psalm 35:19; 69:4]
-
-@26 [“When the Counselor]{.wj}^a^ [has come, whom I will send to you from the Father, the Spirit of truth, who proceeds from the Father, he will testify about me.]{.wj} 
-@27 [You will also testify, because you have been with me from the beginning.]{.wj}
-^a^[**15:26** Greek Parakletos: Counselor, Helper, Advocate, Intercessor, and Comforter.] 
-
-# 16 
-@1 [“I have said these things to you so that you wouldn’t be caused to stumble.]{.wj} 
-@2 [They will put you out of the synagogues. Yes, the time is coming that whoever kills you will think that he offers service to God.]{.wj} 
-@3 [They will do these things]{.wj}^a^ [because they have not known the Father nor me.]{.wj} 
-@4 [But I have told you these things so that when the time comes, you may remember that I told you about them. I didn’t tell you these things from the beginning, because I was with you.]{.wj}
-
-## Promise of the Holy Spirit and his charitable work in the world and in the disciples
-@5 [But now I am going to him who sent me, and none of you asks me, ‘Where are you going?’]{.wj} 
-@6 [But because I have told you these things, sorrow has filled your heart.]{.wj} 
-@7 [Nevertheless I tell you the truth: It is to your advantage that I go away; for if I don’t go away, the Counselor won’t come to you. But if I go, I will send him to you.]{.wj} 
-@8 [When he has come, he will convict the world about sin, about righteousness, and about judgment;]{.wj} 
-@9 [about sin, because they don’t believe in me;]{.wj} 
-@10 [about righteousness, because I am going to my Father, and you won’t see me any more;]{.wj} 
-@11 [about judgment, because the prince of this world has been judged.]{.wj} 
-^a^[**16:3** TR adds “to you”]
-
-@12 [“I still have many things to tell you, but you can’t bear them now.]{.wj} 
-@13 [However, when he, the Spirit of truth, has come, he will guide you into all truth, for he will not speak from himself; but whatever he hears, he will speak. He will declare to you things that are coming.]{.wj} 
-@14 [He will glorify me, for he will take from what is mine and will declare it to you.]{.wj} 
-@15 [All things that the Father has are mine; therefore I said that he takes]{.wj}^a^ [of mine and will declare it to you.]{.wj} 
-^a^[**16:15** TR reads “will take” instead of “takes”]
-
-## Promise of early meeting and admonition to pray in Jesus name
-@16 [“A little while, and you will not see me. Again a little while, and you will see me.”]{.wj} 
-
-@17 Some of his disciples therefore said to one another, “What is this that he says to us, [‘A little while, and you won’t see me, and again a little while, and you will see me;’]{.wj} and, [‘Because I go to the Father’]{.wj}?” 
-@18 They said therefore, “What is this that he says, [‘A little while’]{.wj}? We don’t know what he is saying.” 
-
-@19 Therefore Jesus perceived that they wanted to ask him, and he said to them, [“Do you inquire among yourselves concerning this, that I said, ‘A little while, and you won’t see me, and again a little while, and you will see me?’]{.wj} 
-@20 [Most certainly I tell you that you will weep and lament, but the world will rejoice. You will be sorrowful, but your sorrow will be turned into joy.]{.wj} 
-@21 [A woman, when she gives birth, has sorrow because her time has come. But when she has delivered the child, she doesn’t remember the anguish any more, for the joy that a human being is born into the world.]{.wj} 
-@22 [Therefore you now have sorrow, but I will see you again, and your heart will rejoice, and no one will take your joy away from you.]{.wj} 
-
-@23 [“In that day you will ask me no questions. Most certainly I tell you, whatever you may ask of the Father in my name, he will give it to you.]{.wj} 
-@24 [Until now, you have asked nothing in my name. Ask, and you will receive, that your joy may be made full.]{.wj}
-
-## Promise to complete communion with God for the disciples; Conclusion of the farewell speeches
-@25 [“I have spoken these things to you in figures of speech. But the time is coming when I will no more speak to you in figures of speech, but will tell you plainly about the Father.]{.wj} 
-@26 [In that day you will ask in my name; and I don’t say to you that I will pray to the Father for you,]{.wj} 
-@27 [for the Father himself loves you, because you have loved me, and have believed that I came from God.]{.wj} 
-@28 [I came from the Father and have come into the world. Again, I leave the world and go to the Father.”]{.wj} 
-
-@29 His disciples said to him, “Behold, now you are speaking plainly, and using no figures of speech. 
-@30 Now we know that you know all things, and don’t need for anyone to question you. By this we believe that you came from God.” 
-
-@31 Jesus answered them, [“Do you now believe?]{.wj} 
-@32 [Behold, the time is coming, yes, and has now come, that you will be scattered, everyone to his own place, and you will leave me alone. Yet I am not alone, because the Father is with me.]{.wj} 
-@33 [I have told you these things, that in me you may have peace. In the world you have trouble; but cheer up! I have overcome the world.”]{.wj} 
-
-# 17 
-## Farewell prayer of Jesus with his and for his own
-@1 Jesus said these things, then lifting up his eyes to heaven, he said, [“Father, the time has come. Glorify your Son, that your Son may also glorify you;]{.wj} 
-@2 [even as you gave him authority over all flesh, so he will give eternal life to all whom you have given him.]{.wj} 
-@3 [This is eternal life, that they should know you, the only true God, and him whom you sent, Jesus Christ.]{.wj} 
-@4 [I glorified you on the earth. I have accomplished the work which you have given me to do.]{.wj} 
-@5 [Now, Father, glorify me with your own self with the glory which I had with you before the world existed.]{.wj}
-
-## The intercession of Jesus for the keeping of the disciples in the correct knowledge of God
-@6 [“I revealed your name to the people whom you have given me out of the world. They were yours, and you have given them to me. They have kept your word.]{.wj} 
-@7 [Now they have known that all things whatever you have given me are from you,]{.wj} 
-@8 [for the words which you have given me I have given to them; and they received them, and knew for sure that I came from you. They have believed that you sent me.]{.wj} 
-@9 [I pray for them. I don’t pray for the world, but for those whom you have given me, for they are yours.]{.wj} 
-@10 [All things that are mine are yours, and yours are mine, and I am glorified in them.]{.wj} 
-@11 [I am no more in the world, but these are in the world, and I am coming to you. Holy Father, keep them through your name which you have given me, that they may be one, even as we are.]{.wj} 
-@12 [While I was with them in the world, I kept them in your name. I have kept those whom you have given me. None of them is lost except the son of destruction, that the Scripture might be fulfilled.]{.wj} 
-@13 [But now I come to you, and I say these things in the world, that they may have my joy made full in themselves.]{.wj} 
-@14 [I have given them your word. The world hated them because they are not of the world, even as I am not of the world.]{.wj} 
-@15 [I pray not that you would take them from the world, but that you would keep them from the evil one.]{.wj} 
-@16 [They are not of the world, even as I am not of the world.]{.wj} 
-@17 [Sanctify them in your truth. Your word is truth.]{.wj}^a^ 
-@18 [As you sent me into the world, even so I have sent them into the world.]{.wj} 
-@19 [For their sakes I sanctify myself, that they themselves also may be sanctified in truth.]{.wj} 
-^a^[**17:17** Psalm 119:142]
-
-## Intercession for all believers
-@20 [“Not for these only do I pray, but for those also who will believe in me through their word,]{.wj} 
-@21 [that they may all be one; even as you, Father, are in me, and I in you, that they also may be one in us; that the world may believe that you sent me.]{.wj} 
-@22 [The glory which you have given me, I have given to them, that they may be one, even as we are one,]{.wj} 
-@23 [I in them, and you in me, that they may be perfected into one, that the world may know that you sent me and loved them, even as you loved me.]{.wj} 
-@24 [Father, I desire that they also whom you have given me be with me where I am, that they may see my glory which you have given me, for you loved me before the foundation of the world.]{.wj} 
-@25 [Righteous Father, the world hasn’t known you, but I knew you; and these knew that you sent me.]{.wj} 
-@26 [I made known to them your name, and will make it known; that the love with which you loved me may be in them, and I in them.”]{.wj} 
-
-# 18 
-## Jesus in Gethsemane: Judas, Malchus, arrest of Jesus
-@1 When Jesus had spoken these words, he went out with his disciples over the brook Kidron, where there was a garden, into which he and his disciples entered. 
-@2 Now Judas, who betrayed him, also knew the place, for Jesus often met there with his disciples. 
-@3 Judas then, having taken a detachment of soldiers and officers from the chief priests and the Pharisees, came there with lanterns, torches, and weapons. 
-@4 Jesus therefore, knowing all the things that were happening to him, went out and said to them, [“Who are you looking for?”]{.wj} 
-
-@5 They answered him, “Jesus of Nazareth.” 
-
-Jesus said to them, [“I am he.”]{.wj} 
-
-Judas also, who betrayed him, was standing with them. 
-@6 When therefore he said to them, [“I am he,”]{.wj} they went backward and fell to the ground. 
-
-@7 Again therefore he asked them, [“Who are you looking for?”]{.wj} 
-
-They said, “Jesus of Nazareth.” 
-
-@8 Jesus answered, [“I told you that I am he. If therefore you seek me, let these go their way,”]{.wj} 
-@9 that the word might be fulfilled which he spoke, [“Of those whom you have given me, I have lost none.”]{.wj}^a^ 
-^a^[**18:9** John 6:39]
-
-@10 Simon Peter therefore, having a sword, drew it, struck the high priest’s servant, and cut off his right ear. The servant’s name was Malchus. 
-@11 Jesus therefore said to Peter, [“Put the sword into its sheath. The cup which the Father has given me, shall I not surely drink it?”]{.wj} 
-
-@12 So the detachment, the commanding officer, and the officers of the Jews seized Jesus and bound him, 
-@13 and led him to Annas first, for he was father-in-law to Caiaphas, who was high priest that year. 
-@14 Now it was Caiaphas who advised the Jews that it was expedient that one man should perish for the people.
-
-## Peter's first denial
-@15 Simon Peter followed Jesus, as did another disciple. Now that disciple was known to the high priest, and entered in with Jesus into the court of the high priest; 
-@16 but Peter was standing at the door outside. So the other disciple, who was known to the high priest, went out and spoke to her who kept the door, and brought in Peter. 
-@17 Then the maid who kept the door said to Peter, “Are you also one of this man’s disciples?” 
-
-He said, “I am not.” 
-
-@18 Now the servants and the officers were standing there, having made a fire of coals, for it was cold. They were warming themselves. Peter was with them, standing and warming himself.
-
-## Jesus before the high priests Annas and Caiaphas
-@19 The high priest therefore asked Jesus about his disciples and about his teaching. 
-
-@20 Jesus answered him, [“I spoke openly to the world. I always taught in synagogues and in the temple, where the Jews always meet. I said nothing in secret.]{.wj} 
-@21 [Why do you ask me? Ask those who have heard me what I said to them. Behold, they know the things which I said.”]{.wj} 
-
-@22 When he had said this, one of the officers standing by slapped Jesus with his hand, saying, “Do you answer the high priest like that?” 
-
-@23 Jesus answered him, [“If I have spoken evil, testify of the evil; but if well, why do you beat me?”]{.wj} 
-
-@24 Annas sent him bound to Caiaphas, the high priest.
-
-## Second and third denial of Peter
-@25 Now Simon Peter was standing and warming himself. They said therefore to him, “You aren’t also one of his disciples, are you?” 
-
-He denied it and said, “I am not.” 
-
-@26 One of the servants of the high priest, being a relative of him whose ear Peter had cut off, said, “Didn’t I see you in the garden with him?” 
-
-@27 Peter therefore denied it again, and immediately the rooster crowed.
-
-## The interrogation and confession of Jesus before the Roman governor Pilate; his scourging, mockery and condemnation
-@28 They led Jesus therefore from Caiaphas into the Praetorium. It was early, and they themselves didn’t enter into the Praetorium, that they might not be defiled, but might eat the Passover. 
-@29 Pilate therefore went out to them and said, “What accusation do you bring against this man?” 
-
-@30 They answered him, “If this man weren’t an evildoer, we wouldn’t have delivered him up to you.” 
-
-@31 Pilate therefore said to them, “Take him yourselves, and judge him according to your law.” 
-
-Therefore the Jews said to him, “It is illegal for us to put anyone to death,” 
-@32 that the word of Jesus might be fulfilled, which he spoke, signifying by what kind of death he should die. 
-
-@33 Pilate therefore entered again into the Praetorium, called Jesus, and said to him, “Are you the King of the Jews?” 
-
-@34 Jesus answered him, [“Do you say this by yourself, or did others tell you about me?”]{.wj} 
-
-@35 Pilate answered, “I’m not a Jew, am I? Your own nation and the chief priests delivered you to me. What have you done?” 
-
-@36 Jesus answered, [“My Kingdom is not of this world. If my Kingdom were of this world, then my servants would fight, that I wouldn’t be delivered to the Jews. But now my Kingdom is not from here.”]{.wj} 
-
-@37 Pilate therefore said to him, “Are you a king then?” 
-
-Jesus answered, [“You say that I am a king. For this reason I have been born, and for this reason I have come into the world, that I should testify to the truth. Everyone who is of the truth listens to my voice.”]{.wj} 
-
-@38 Pilate said to him, “What is truth?” 
-
-When he had said this, he went out again to the Jews, and said to them, “I find no basis for a charge against him. 
-@39 But you have a custom that I should release someone to you at the Passover. Therefore, do you want me to release to you the King of the Jews?” 
-
-@40 Then they all shouted again, saying, “Not this man, but Barabbas!” Now Barabbas was a robber. 
+@44 Jesus_G2424 cried_G2896 out_G2896 and_G2532 said_G3004, j_“before_G4253 the_G3588 feast_G1859 of_G1537 the_G3588 Passover_G3957, Jesus_G2424, knowing_G1492 that_G3754 his_G0846 time_G5610 had_G2424 come_G2064 that_G3754 he_G0846 would_G0846 depart_G3327 from_G1537 this_G3778 world_G2889 to_G1519 the_G3588 Father_G3962, having loved_G0025 his_G0846 own_G2398 who_G3588 were_G3778 in_G1722 the_G3588 world_G2889, he_G0846 loved_G0025 them_G0846 to_G1519 the_G3588 end_G5056. 
+@2 During_G1096 supper_G1173, the_G3588 devil_G1228 having_G1228 already_G2235 put_G0906 into_G1519 the_G3588 heart_G2588 of_G2588 Judas_G2455 Iscariot_G2469, Simon’s_G4613 son, to_G1519 betray_G3860 him_G0846, 
+@3 Jesus_G0846, knowing_G1492 that_G3754 the_G3956 Father_G3962 had_G2316 given_G1325 all_G3956 things_G3956 into_G1519 his_G0846 hands_G5495, and_G2532 that_G3754 he_G2532 came_G1831 from_G0575 God_G2316 and_G2532 was_G3588 going_G5217 to_G1519 God_G2316, 
+@4 arose from_G1537 supper_G1173, and_G2532 laid_G5087 aside_G5087 his_G2983 outer_G2440 garments_G2440. He_G2532 took_G2983 a_G2983 towel_G3012 and_G2532 wrapped a_G2983 towel_G3012 around his_G2983 waist. 
+@5 Then_G2532 he_G2532 poured_G0906 water_G5204 into_G1519 the_G3588 basin_G3537, and_G2532 began_G0757 to_G1519 wash_G3538 the_G3588 disciples’_G3101 feet_G4228 and_G2532 to_G1519 wipe_G1591 them_G3739 with_G2532 the_G3588 towel_G3012 that_G3739 was_G1510 wrapped around him_G3739. 
+@6 Then_G3767 he_G0846 came_G2064 to_G4314 Simon_G4613 Peter_G4074. He_G0846 said_G3004 to_G4314 him_G0846, “Lord_G2962, do_G3004 you_G4771 wash_G3538 my_G3538 feet_G4228?” 
+
+@7 Jesus_G2424 answered_G0611 him_G0846, j_“said_G3004 to_G1519 him_G0846, “You_G4771 will_G0846 never_G3756 wash_G3538 my_G3538 feet_G4228!” 
+
+Jesus_G2424 answered_G0611 him_G0846, j_“Peter_G4074 said_G3004 to_G3004 him_G0846, “Lord_G2962, not_G3361 my_G3004 feet_G4228 only_G3440, but_G0235 also_G2532 my_G3004 hands_G5495 and_G2532 my_G3004 head_G2776!” 
+
+@10 Jesus_G2424 said_G3004 to_G3004 him_G0846, j_“Someone_he_G0846 knew_G1492 him_G0846 who_G3588 would_G0846 betray_G3860 him_G0846; therefore_G1223 he_G0846 said_G3004, j_“when_G3753 he_G2532 had_G3588 washed_G3538 their_G0846 feet_G4228, put_G4160 his_G0846 outer_G2440 garment_G2440 back_G3825 on_G4160, and_G2532 sat_G0377 down_G0377 again_G3825, he_G2532 said_G3004 to_G3004 them_G0846, j_“Jesus_G2424 had_G2424 said_G3004 this_G3778, he_G2532 was_G2424 troubled_G5015 in_G2532 spirit_G4151, and_G2532 testified_G3140, j_“Most_disciples_G3101 looked at_G1519 one_G0240 another_G0240, perplexed_G0639 about_G4012 whom_G5101 he_G3004 spoke_G3004. 
+@23 One_G1520 of_G1537 his_G0846 disciples_G3101, whom_G3739 Jesus_G2424 loved_G0025, was_G1510 at_G1722 the_G3588 table, leaning against_G1722 Jesus’_G2424 breast. 
+@24 Simon_G4613 Peter_G4074 therefore_G3767 beckoned to_G3004 him_G0846, and_G2532 said_G3004 to_G3004 him_G0846, “Tell_G3004 us_G3004 who_G3739 it_G0846 is_G1510 of_G4012 whom_G3739 he_G2532 speaks_G3004.” 
+
+@25 He_G0846, leaning_G0377 back_G0377, as_G0846 he_G0846 was_G1510, on_G1909 Jesus’_G2424 breast_G4738, asked_G3004 him_G0846, “Lord_G2962, who_G3588 is_G1510 it_G0846?” 
+
+@26 Jesus_G2424 therefore_G3767 answered_G0611, j_“when_G2532 he_G2532 had_G2424 dipped_G0911 the_G3588 piece of_G3588 bread, he_G2532 gave_G1325 it_G0846 to_G2532 Judas_G2455, the_G3588 son of_G3588 Simon_G4613 Iscariot_G2469. 
+@27 After_G3326 the_G3588 piece of_G3004 bread, then_G2532 Satan_G4567 entered_G1525 into_G1519 him_G0846. 
+
+Then_G2532 Jesus_G2424 said_G3004 to_G1519 him_G0846, j_“nobody_G3762 at_G4314 the_G3588 table knew_G1097 why_G5101 he_G0846 said_G3004 this_G3778 to_G4314 him_G0846. 
+@29 For_G1063 some_G5100 thought_G1380, because_G3754 Judas_G2455 had_G2192 the_G3588 money_G1101 box_G1101, that_G3754 Jesus_G2424 said_G3004 to_G1519 him_G0846, “Buy_G0059 what_G3739 things_G3739 we_G3739 need_G5532 for_G1063 the_G3588 feast_G1859,” or_G2228 that_G3754 he_G0846 should_G5100 give_G1325 something_G5100 to_G1519 the_G3588 poor_G4434. 
+@30 Therefore_G3767 having_G3767 received_G2983 that_G1565 morsel_G5596, he_G1161 went_G1831 out_G1831 immediately_G2117. It_G1161 was_G1510 night_G3571. 
+
+@31 When_G3753 he_G2532 had_G2424 gone_G1831 out_G1831, Jesus_G2424 said_G3004, j_“Peter_G4074 said_G3004 to_G3004 him_G0846, “Lord_G2962, where_G3699 are_G0846 you_G3004 going_G5217?” 
+
+Jesus_G2424 answered_G0611, j_“said_G3004 to_G3004 him_G0846, “Lord_G2962, why_G5101 can’t_G3756 I_G1473 follow_G0190 you_G4771 now_G0737? I_G1473 will_G5101 lay_G5087 down_G5087 my_G5087 life_G5590 for_G5228 you_G4771.” 
+
+@38 Jesus_G2424 answered_G0611 him_G3739, j_“said_G3004 to_G3004 him_G0846, “Lord_G2962, we_G2532 don’t_G3756 know_G1492 where_G4226 you_G3004 are_G3588 going_G5217. How_G4459 can_G1410 we_G2532 know_G1492 the_G3588 way_G3598?” 
+
+@6 Jesus_G2424 said_G3004 to_G4314 him_G0846, j_“said_G3004 to_G3004 him_G0846, “Lord_G2962, show_G1166 us_G3004 the_G3588 Father_G3962, and_G2532 that_G3004 will_G2962 be_G2532 enough_G0714 for_G2532 us_G3004.” 
+
+@9 Jesus_G2424 said_G3004 to_G3004 him_G0846, j_“(not_G3756 Iscariot_G2469) said_G3004 to_G3004 him_G0846, “Lord_G2962, what_G5101 has_G2962 happened_G1096 that_G3754 you_G3754 are_G3588 about_G3195 to_G3004 reveal yourself_G4572 to_G3004 us_G3004, and_G2532 not_G3756 to_G3004 the_G3588 world_G2889?” 
+
+@23 Jesus_G2424 answered_G0611 him_G0846, j_“of_G1537 his_G0846 disciples_G3101 therefore_G3767 said_G3004 to_G4314 one_G0240 another_G0240, “What_G5101 is_G1510 this_G3778 that_G3754 he_G2532 says_G3004 to_G4314 us_G3004, j_‘, j_‘said_G3004 therefore_G3767, “What_G5101 is_G1510 this_G3778 that_G3739 he_G3739 says_G3004, j_‘don’t_G3756 know_G1492 what_G5101 he_G3739 is_G1510 saying_G3004.” 
+
+@19 Therefore Jesus_G2424 perceived_G1097 that_G3754 they_G0846 wanted_G2309 to_G3004 ask_G2065 him_G0846, and_G2532 he_G2532 said_G3004 to_G3004 them_G0846, j_“disciples_G3101 said_G3004 to_G3004 him_G0846, “Behold_G2396, now_G3568 you_G1722 are_G3588 speaking_G2980 plainly_G3954, and_G2532 using_G3004 no_G3762 figures of_G1722 speech_G3942. 
+@30 Now_G3568 we_G3778 know_G1492 that_G3754 you_G4771 know_G1492 all_G3956 things_G3778, and_G2532 don’t_G3756 need_G5532 for_G3754 anyone_G5100 to_G2443 question_G2065 you_G4771. By_G1722 this_G3778 we_G3778 believe_G4100 that_G3754 you_G4771 came_G1831 from_G0575 God_G2316.” 
+
+@31 Jesus_G2424 answered_G0611 them_G0846, j_“said_G3004 these_G3778 things_G3778, then_G2532 lifting_G1869 up_G1519 his_G0846 eyes_G3788 to_G1519 heaven_G3772, he_G2532 said_G3004, j_“Jesus_G2424 had_G2424 spoken_G3004 these_G3778 words_G2532, he_G2532 went_G1831 out_G1831 with_G4862 his_G0846 disciples_G3101 over_G1519 the_G3588 brook Kidron_G2748, where_G3699 there_G1510 was_G1510 a_G1510 garden_G2779, into_G1519 which_G3739 he_G2532 and_G2532 his_G0846 disciples_G3101 entered_G1525. 
+@2 Now_G1161 Judas_G2455, who_G3588 betrayed_G3860 him_G0846, also_G2532 knew_G1492 the_G3588 place_G5117, for_G3754 Jesus_G2424 often_G4178 met_G4863 there_G1563 with_G3326 his_G0846 disciples_G3101. 
+@3 Judas_G2455 then_G2532, having_G3767 taken_G2983 a_G2983 detachment of_G1537 soldiers and_G2532 officers_G5257 from_G1537 the_G3588 chief_G0749 priests_G0749 and_G2532 the_G3588 Pharisees_G5330, came_G2064 there_G1563 with_G3326 lanterns_G5322, torches_G2985, and_G2532 weapons_G3696. 
+@4 Jesus_G2424 therefore_G3767, knowing_G1492 all_G3956 the_G3956 things_G3956 that_G3004 were_G3956 happening to_G3004 him_G0846, went_G1831 out_G1831 and_G2532 said_G3004 to_G3004 them_G0846, j_“answered_G0611 him_G0846, “Jesus_G2424 of_G3004 Nazareth_G3480.” 
+
+Jesus_G2424 said_G3004 to_G3004 them_G0846, j_“also_G2532, who_G3588 betrayed_G3860 him_G0846, was_G1510 standing_G2476 with_G3326 them_G0846. 
+@6 When_G5613 therefore_G3767 he_G2532 said_G3004 to_G1519 them_G0846, j_“went_G0565 backward and_G2532 fell_G4098 to_G1519 the_G3588 ground_G5476. 
+
+@7 Again_G3825 therefore_G3767 he_G0846 asked_G1905 them_G0846, j_“said_G3004, “Jesus_G2424 of_G3004 Nazareth_G3480.” 
+
+@8 Jesus_G2424 answered_G0611, j_“the_G3588 word_G3056 might_G1473 be_G3056 fulfilled_G4137 which_G3739 he_G0846 spoke_G3004, j_“Peter_G4074 therefore_G3767, having_G2192 a_G2192 sword_G3162, drew_G1670 it_G0846, struck_G3817 the_G3588 high_G0749 priest’s_G0749 servant_G1401, and_G2532 cut_G0609 off_G0609 his_G0846 right_G1188 ear_G5621. The_G3588 servant’s name_G3686 was_G1510 Malchus_G3124. 
+@11 Jesus_G2424 therefore_G3767 said_G3004 to_G1519 Peter_G4074, j_“the_G3588 detachment, the_G3588 commanding officer_G5257, and_G2532 the_G3588 officers_G5257 of_G2424 the_G3588 Jews_G2453 seized_G4815 Jesus_G2424 and_G2532 bound_G1210 him_G0846, 
+@13 and_G2532 led_G0071 him_G3739 to_G4314 Annas_G0452 first_G4413, for_G1063 he_G2532 was_G1510 father-in-law_G3995 to_G4314 Caiaphas_G2533, who_G3739 was_G1510 high_G0749 priest_G0749 that_G3739 year_G1763. 
+@14 Now_G1161 it_G1161 was_G1510 Caiaphas_G2533 who_G3588 advised_G4823 the_G3588 Jews_G2453 that_G3754 it_G1161 was_G1510 expedient that_G3754 one_G1520 man_G0444 should perish for_G3754 the_G3588 people_G2992. 
+
+@15 Simon_G4613 Peter_G4074 followed_G0190 Jesus_G2424, as_G1519 did_G1510 another_G0243 disciple_G3101. Now_G1161 that_G1565 disciple_G3101 was_G1510 known_G1110 to_G1519 the_G3588 high_G0749 priest_G0749, and_G2532 entered_G4897 in_G1519 with_G2532 Jesus_G2424 into_G1519 the_G3588 court_G0833 of_G3101 the_G3588 high_G0749 priest_G0749; 
+@16 but_G1161 Peter_G4074 was_G4074 standing_G2476 at_G4314 the_G3588 door_G2374 outside_G1854. So_G3767 the_G3588 other_G0243 disciple_G3101, who_G3588 was_G4074 known_G1110 to_G4314 the_G3588 high_G0749 priest_G0749, went_G1831 out_G1831 and_G2532 spoke_G3004 to_G4314 her_G4314 who_G3588 kept_G2377 the_G3588 door_G2374, and_G2532 brought_G1521 in_G2532 Peter_G4074. 
+@17 Then_G2532 the_G3588 maid who_G3588 kept_G2377 the_G3588 door_G2377 said_G3004 to_G3004 Peter_G4074, “Are_G1510 you_G4771 also_G2532 one_G3778 of_G1537 this_G3778 man’s_G0444 disciples_G3101?” 
+
+He_G2532 said_G3004, “I_G2532 am_G1510 not_G3756.” 
+
+@18 Now_G1161 the_G3588 servants_G1401 and_G2532 the_G3588 officers_G5257 were_G1510 standing_G2476 there_G1510, having_G4160 made_G4160 a_G1510 fire_G0439 of_G1401 coals, for_G3754 it_G0846 was_G1510 cold_G5592. They_G0846 were_G1510 warming_G2328 themselves_G0846. Peter_G4074 was_G1510 with_G3326 them_G0846, standing_G2476 and_G2532 warming_G2328 himself_G0846. 
+
+@19 The_G3588 high_G0749 priest_G0749 therefore_G3767 asked_G2065 Jesus_G2424 about_G4012 his_G0846 disciples_G3101 and_G2532 about_G4012 his_G0846 teaching_G1322. 
+
+@20 Jesus_G2424 answered_G0611 him_G0846, j_“he_G0846 had_G2424 said_G3004 this_G3778, one_G1520 of_G1520 the_G3588 officers_G5257 standing_G3936 by_G3004 slapped Jesus_G2424 with_G0846 his_G0846 hand_G1161, saying_G3004, “Do_G3004 you_G1325 answer_G0611 the_G3588 high_G0749 priest_G0749 like_G3779 that_G3004?” 
+
+@23 Jesus_G2424 answered_G0611 him_G0846, j_“sent_G0649 him_G0846 bound_G1210 to_G4314 Caiaphas_G2533, the_G3588 high_G0749 priest_G0749. 
+
+@25 Now_G1161 Simon_G4613 Peter_G4074 was_G1510 standing_G2476 and_G2532 warming_G2328 himself_G0846. They_G0846 said_G3004 therefore_G3767 to_G3004 him_G0846, “You_G4771 aren’t_G3756 also_G2532 one_G3588 of_G1537 his_G0846 disciples_G3101, are_G1510 you_G4771?” 
+
+He_G2532 denied_G0720 it_G0846 and_G2532 said_G3004, “I_G2532 am_G1510 not_G3756.” 
+
+@26 One_G1520 of_G1537 the_G3588 servants_G1401 of_G1537 the_G3588 high_G0749 priest_G0749, being_G1510 a_G1510 relative_G4773 of_G1537 him_G0846 whose_G3739 ear_G5621 Peter_G4074 had_G1510 cut_G0609 off_G0609, said_G3004, “Didn’t_G3756 I_G1473 see_G3708 you_G4771 in_G1722 the_G3588 garden_G2779 with_G3326 him_G0846?” 
+
+@27 Peter_G4074 therefore_G3767 denied_G0720 it_G3825 again_G3825, and_G2532 immediately_G2112 the_G2532 rooster_G0220 crowed_G5455. 
+
+@28 They_G0846 led_G0071 Jesus_G2424 therefore_G3767 from_G0575 Caiaphas_G2533 into_G1519 the_G3588 Praetorium_G4232. It_G0846 was_G1510 early_G4404, and_G2532 they_G0846 themselves_G0846 didn’t_G3756 enter_G1525 into_G1519 the_G3588 Praetorium_G4232, that_G2443 they_G0846 might_G2532 not_G3756 be_G1510 defiled_G3392, but_G1161 might_G2532 eat_G2068 the_G3588 Passover_G3957. 
+@29 Pilate_G4091 therefore_G3767 went_G1831 out_G1831 to_G4314 them_G0846 and_G2532 said_G5346, “What_G5101 accusation_G2724 do_G5101 you_G2532 bring_G5342 against_G2596 this_G3778 man_G0444?” 
+
+@30 They_G0846 answered_G0611 him_G0846, “If_G1487 this_G3778 man_G3778 weren’t an_G1510 evildoer_G2556, we_G3778 wouldn’t have_G1510 delivered_G3860 him_G0846 up_G3860 to_G3004 you_G4771.” 
+
+@31 Pilate_G4091 therefore_G3767 said_G3004 to_G3004 them_G0846, “Take_G2983 him_G0846 yourselves_G0846, and_G2532 judge_G2919 him_G0846 according_G2596 to_G3004 your_G2532 law_G3551.” 
+
+Therefore_G3767 the_G3588 Jews_G2453 said_G3004 to_G3004 him_G0846, “It_G0846 is_G3588 illegal for_G2532 us_G3004 to_G3004 put_G0615 anyone_G3762 to_G3004 death_G0615,” 
+@32 that_G3739 the_G3588 word_G3056 of_G3056 Jesus_G2424 might be_G3195 fulfilled_G4137, which_G3739 he_G3739 spoke_G3004, signifying_G4591 by_G3004 what_G3739 kind_G4169 of_G3056 death_G2288 he_G3739 should_G2443 die_G0599. 
+
+@33 Pilate_G4091 therefore_G3767 entered_G1525 again_G3825 into_G1519 the_G3588 Praetorium_G4232, called_G3004 Jesus_G2424, and_G2532 said_G3004 to_G1519 him_G0846, “Are_G1510 you_G4771 the_G3588 King_G0935 of_G0935 the_G3588 Jews_G2453?” 
+
+@34 Jesus_G2424 answered_G0611 him_G4012, j_“answered_G0611, “I’m not_G1510 a_G1510 Jew_G2453, am_G1510 I_G1473? Your_G4674 own nation_G1484 and_G2532 the_G3588 chief_G0749 priests_G0749 delivered_G3860 you_G4771 to_G2532 me_G1473. What_G5101 have_G1510 you_G4771 done_G4160?” 
+
+@36 Jesus_G2424 answered_G0611, j_“therefore_G3767 said_G3004 to_G1519 him_G0846, “Are_G1510 you_G4771 a_G1510 king_G0935 then_G2532?” 
+
+Jesus_G2424 answered_G0611, j_“said_G3004 to_G4314 him_G0846, “What_G5101 is_G1510 truth_G0225?” 
+
+When_G2532 he_G2532 had_G1510 said_G3004 this_G3778, he_G2532 went_G1831 out_G1831 again_G3825 to_G4314 the_G3588 Jews_G2453, and_G2532 said_G3004 to_G4314 them_G0846, “I_G1473 find_G2147 no_G3762 basis_G0156 for_G4314 a_G1510 charge_G0156 against_G4314 him_G0846. 
+@39 But_G1161 you_G5210 have_G1510 a_G1510 custom_G4914 that_G2443 I_G1161 should_G2443 release_G0630 someone_G1520 to_G2443 you_G5210 at_G1722 the_G3588 Passover_G3957. Therefore_G3767, do_G1510 you_G5210 want_G1014 me_G0630 to_G2443 release_G0630 to_G2443 you_G5210 the_G3588 King_G0935 of_G1520 the_G3588 Jews_G2453?” 
+
+@40 Then_G3767 they_G3767 all_G3588 shouted again_G3825, saying_G3004, “Not_G3361 this_G3778 man_G3778, but_G1161 Barabbas_G0912!” Now_G1161 Barabbas_G0912 was_G1510 a_G1510 robber_G3027. 
 
 # 19 
-@1 So Pilate then took Jesus and flogged him. 
-@2 The soldiers twisted thorns into a crown and put it on his head, and dressed him in a purple garment. 
-@3 They kept saying, “Hail, King of the Jews!” and they kept slapping him. 
+@1 So_G3767 Pilate_G4091 then_G2532 took_G2983 Jesus_G2424 and_G2532 flogged him_G2532. 
+@2 The_G3588 soldiers_G4757 twisted_G4120 thorns_G0173 into a_G2532 crown_G4735 and_G2532 put_G2007 it_G0846 on_G1537 his_G0846 head_G2776, and_G2532 dressed_G4016 him_G0846 in_G2532 a_G2532 purple_G4210 garment_G2440. 
+@3 They_G0846 kept saying_G3004, “Hail_G5463, King_G0935 of_G0935 the_G3588 Jews_G2453!” and_G2532 they_G0846 kept slapping him_G0846. 
 
-@4 Then Pilate went out again, and said to them, “Behold, I bring him out to you, that you may know that I find no basis for a charge against him.” 
+@4 Then_G2532 Pilate_G4091 went_G1831 out_G1831 again_G3825, and_G2532 said_G3004 to_G2443 them_G0846, “Behold_G2396, I_G2532 bring_G0071 him_G0846 out_G1831 to_G2443 you_G5210, that_G3754 you_G5210 may_G2532 know_G1097 that_G3754 I_G2532 find_G2147 no_G3756 basis_G0156 for_G3754 a_G3708 charge_G0156 against_G1722 him_G0846.” 
 
-@5 Jesus therefore came out, wearing the crown of thorns and the purple garment. Pilate said to them, “Behold, the man!” 
+@5 Jesus_G2424 therefore_G3767 came_G1831 out_G1831, wearing_G5409 the_G3588 crown_G4735 of_G4735 thorns_G0174 and_G2532 the_G3588 purple_G4210 garment_G2440. Pilate_G3004 said_G3004 to_G3004 them_G0846, “Behold_G2400, the_G3588 man_G0444!” 
 
-@6 When therefore the chief priests and the officers saw him, they shouted, saying, “Crucify! Crucify!” 
+@6 When_G3753 therefore_G3767 the_G3588 chief_G0749 priests_G0749 and_G2532 the_G3588 officers_G5257 saw_G3708 him_G0846, they_G0846 shouted, saying_G3004, “Crucify_G4717! Crucify_G4717!” 
 
-Pilate said to them, “Take him yourselves and crucify him, for I find no basis for a charge against him.” 
+Pilate_G4091 said_G3004 to_G3004 them_G0846, “Take_G2983 him_G0846 yourselves_G0846 and_G2532 crucify_G4717 him_G0846, for_G1063 I_G1473 find_G2147 no_G3756 basis_G0156 for_G1063 a_G2983 charge_G0156 against_G1722 him_G0846.” 
 
-@7 The Jews answered him, “We have a law, and by our law he ought to die, because he made himself the Son of God.” 
+@7 The_G3588 Jews_G2453 answered_G0611 him_G0846, “We_G2249 have_G2192 a_G2192 law_G3551, and_G2532 by_G2596 our_G2316 law_G3551 he_G2532 ought_G3784 to_G2596 die_G0599, because_G3754 he_G2532 made_G4160 himself_G1438 the_G3588 Son_G5207 of_G5207 God_G2316.” 
 
-@8 When therefore Pilate heard this saying, he was more afraid. 
-@9 He entered into the Praetorium again, and said to Jesus, “Where are you from?” But Jesus gave him no answer. 
-@10 Pilate therefore said to him, “Aren’t you speaking to me? Don’t you know that I have power to release you and have power to crucify you?” 
+@8 When_G3753 therefore_G3767 Pilate_G4091 heard_G0191 this_G3778 saying_G3056, he_G3778 was_G3588 more_G3123 afraid_G5399. 
+@9 He_G2532 entered_G1525 into_G1519 the_G3588 Praetorium_G4232 again_G3825, and_G2532 said_G3004 to_G1519 Jesus_G2424, “Where_G4159 are_G1510 you_G4771 from_G2424?” But_G1161 Jesus_G2424 gave_G1325 him_G0846 no_G3756 answer_G0612. 
+@10 Pilate_G4091 therefore_G3767 said_G3004 to_G3004 him_G0846, “Aren’t_G3756 you_G4771 speaking_G2980 to_G3004 me_G3004? Don’t_G3756 you_G4771 know_G1492 that_G3754 I_G1473 have_G2192 power_G1849 to_G3004 release_G0630 you_G4771 and_G2532 have_G2192 power_G1849 to_G3004 crucify_G4717 you_G4771?” 
 
-@11 Jesus answered, [“You would have no power at all against me, unless it were given to you from above. Therefore he who delivered me to you has greater sin.”]{.wj} 
+@11 Jesus_G2424 answered_G0611, j_“this_G3778, Pilate_G4091 was_G1510 seeking_G2212 to_G3004 release_G0630 him_G0846, but_G1161 the_G3956 Jews_G2453 cried_G2905 out_G1537, saying_G3004, “If_G1437 you_G1437 release_G0630 this_G3778 man_G3778, you_G1437 aren’t_G3756 Caesar’s_G2541 friend_G5384! Everyone_G3956 who_G3588 makes_G4160 himself_G1438 a_G1510 king_G0935 speaks_G3004 against_G1537 Caesar_G2541!” 
 
-@12 At this, Pilate was seeking to release him, but the Jews cried out, saying, “If you release this man, you aren’t Caesar’s friend! Everyone who makes himself a king speaks against Caesar!” 
-
-@13 When Pilate therefore heard these words, he brought Jesus out and sat down on the judgment seat at a place called “The Pavement”, but in Hebrew, “Gabbatha.” 
-@14 Now it was the Preparation Day of the Passover, at about the sixth hour.^a^ He said to the Jews, “Behold, your King!” 
+@13 When_G2532 Pilate_G4091 therefore_G3767 heard_G0191 these_G3778 words_G3056, he_G2532 brought_G0071 Jesus_G2424 out_G1854 and_G2532 sat_G2523 down_G2523 on_G1909 the_G3588 judgment_G0968 seat_G0968 at_G1909 a_G0191 place_G5117 called_G3004 “The_G3588 Pavement_G3038”, but_G1161 in_G1519 Hebrew_G1447, “Gabbatha_G1042.” 
+@14 Now_G1161 it_G3708 was_G1510 the_G3588 Preparation_G3904 Day_G3904 of_G0935 the_G3588 Passover_G3957, at_G1161 about_G5613 the_G3588 sixth_G1623 hour_G5610.^a^ He_G2532 said_G3004 to_G3004 the_G3588 Jews_G2453, “Behold_G2396, your_G3708 King_G0935!” 
 ^a^[**19:14** “the sixth hour” would have been 6:00 a. m. according to the Roman timekeeping system, or noon for the Jewish timekeeping system in use, then. ]
 
-@15 They cried out, “Away with him! Away with him! Crucify him!” 
+@15 They_G0846 cried_G2905 out_G2905, “Away_G0142 with_G2192 him_G0846! Away_G0142 with_G2192 him_G0846! Crucify_G4717 him_G0846!” 
 
-Pilate said to them, “Shall I crucify your King?” 
+Pilate_G4091 said_G3004 to_G3004 them_G0846, “Shall I_G1487 crucify_G4717 your_G2192 King_G0935?” 
 
-The chief priests answered, “We have no king but Caesar!”
+The_G3588 chief_G0749 priests_G0749 answered_G0611, “We_G1487 have_G2192 no_G3756 king_G0935 but_G1487 Caesar_G2541!” 
 
-## The crucifixion and death of Jesus
-@16 So then he delivered him to them to be crucified. So they took Jesus and led him away. 
-@17 He went out, bearing his cross, to the place called “The Place of a Skull”, which is called in Hebrew, “Golgotha”, 
-@18 where they crucified him, and with him two others, on either side one, and Jesus in the middle. 
-@19 Pilate wrote a title also, and put it on the cross. There was written, “JESUS OF NAZARETH, THE KING OF THE JEWS.” 
-@20 Therefore many of the Jews read this title, for the place where Jesus was crucified was near the city; and it was written in Hebrew, in Latin, and in Greek. 
-@21 The chief priests of the Jews therefore said to Pilate, “Don’t write, ‘The King of the Jews,’ but, ‘he said, “I am King of the Jews.”’” 
+@16 So_G2443 then_G5119 he_G0846 delivered_G3860 him_G0846 to_G2443 them_G0846 to_G2443 be_G3767 crucified_G4717. So_G2443 they_G0846 took_G3880 Jesus_G2424 and_G2424 led him_G0846 away. 
+@17 He_G2532 went_G1831 out_G1831, bearing_G0941 his_G1438 cross_G4716, to_G1519 the_G3588 place_G5117 called_G3004 “The_G3588 Place_G5117 of_G3004 a_G3739 Skull_G2898”, which_G3739 is_G3739 called_G3004 in_G1519 Hebrew_G1447, “Golgotha_G1115”, 
+@18 where_G3699 they_G0846 crucified_G4717 him_G0846, and_G2532 with_G3326 him_G0846 two_G1417 others_G0243, on_G1161 either_G2532 side_G1782 one_G3588, and_G2532 Jesus_G2424 in_G2532 the_G3588 middle_G3319. 
+@19 Pilate_G4091 wrote_G1125 a_G1510 title also_G2532, and_G2532 put_G5087 it_G5087 on_G1909 the_G3588 cross_G4716. There_G1510 was_G1510 written_G1125, “JESUS_G2424 OF_G1909 NAZARETH_G3480, THE_G3588 KING_G0935 OF_G1909 THE_G3588 JEWS_G2453.” 
+@20 Therefore_G3767 many_G4183 of_G4172 the_G3588 Jews_G2453 read_G0314 this_G3778 title, for_G3754 the_G3588 place_G5117 where_G3699 Jesus_G2424 was_G1510 crucified_G4717 was_G1510 near_G1451 the_G3588 city_G4172; and_G2532 it_G3699 was_G1510 written_G1125 in_G2532 Hebrew_G1447, in_G2532 Latin_G4515, and_G2532 in_G2532 Greek_G1676. 
+@21 The_G3588 chief_G0749 priests_G0749 of_G0935 the_G3588 Jews_G2453 therefore_G3767 said_G3004 to_G3004 Pilate_G4091, “Don’t_G3361 write_G1125, ‘The_G3588 King_G0935 of_G0935 the_G3588 Jews_G2453,’ but_G0235, ‘he_G3754 said_G3004, “I_G3754 am_G1510 King_G0935 of_G0935 the_G3588 Jews_G2453.”’” 
 
-@22 Pilate answered, “What I have written, I have written.” 
+@22 Pilate_G4091 answered_G0611, “What_G3739 I_G3739 have_G3588 written_G1125, I_G3739 have_G3588 written_G1125.” 
 
-@23 Then the soldiers, when they had crucified Jesus, took his garments and made four parts, to every soldier a part; and also the tunic. Now the tunic was without seam, woven from the top throughout. 
-@24 Then they said to one another, “Let’s not tear it, but cast lots for it to decide whose it will be,” that the Scripture might be fulfilled, which says, “They parted my garments among them. They cast lots for my clothing.”^a^ Therefore the soldiers did these things. 
+@23 Then_G2532 the_G3588 soldiers_G4757, when_G3753 they_G0846 had_G2424 crucified_G4717 Jesus_G2424, took_G2983 his_G0846 garments_G2440 and_G2532 made_G4160 four_G5064 parts_G3313, to_G2532 every_G1538 soldier_G4757 a_G2983 part_G3313; and_G2532 also_G2532 the_G3588 tunic_G5509. Now_G1161 the_G3588 tunic_G5509 was_G1510 without_G2532 seam, woven_G5307 from_G1537 the_G3588 top_G0509 throughout_G3650. 
+@24 Then_G2532 they_G0846 said_G3004 to_G4314 one_G0240 another_G0240, “Let’s not_G3361 tear_G4977 it_G0846, but_G0235 cast_G0906 lots_G2819 for_G4012 it_G0846 to_G4314 decide whose_G5101 it_G0846 will_G1510 be_G1510,” that_G2443 the_G3588 Scripture_G1124 might_G2532 be_G1510 fulfilled_G4137, which_G5101 says_G3004, “They_G0846 parted my_G0906 garments_G2440 among_G4314 them_G0846. They_G0846 cast_G0906 lots_G2819 for_G4012 my_G0906 clothing_G2440.”^a^ Therefore_G3767 the_G3588 soldiers_G4757 did_G4160 these_G3778 things_G3778. 
 ^a^[**19:24** Psalm 22:18]
 
-@25 But standing by Jesus’ cross were his mother, his mother’s sister, Mary the wife of Clopas, and Mary Magdalene. 
-@26 Therefore when Jesus saw his mother, and the disciple whom he loved standing there, he said to his mother, [“Woman, behold, your son!”]{.wj} 
-@27 Then he said to the disciple, [“Behold, your mother!”]{.wj} From that hour, the disciple took her to his own home. 
+@25 But_G1161 standing_G2476 by_G3844 Jesus’_G2424 cross_G4716 were_G3588 his_G0846 mother_G3384, his_G0846 mother’s_G3384 sister_G0079, Mary_G3137 the_G3588 wife of_G3384 Clopas_G2832, and_G2532 Mary_G3137 Magdalene_G3094. 
+@26 Therefore_G3767 when_G2532 Jesus_G2424 saw_G3708 his_G3708 mother_G3384, and_G2532 the_G3588 disciple_G3101 whom_G3739 he_G2532 loved_G0025 standing_G3936 there_G3101, he_G2532 said_G3004 to_G3004 his_G3708 mother_G3384, j_“he_G2532 said_G3004 to_G1519 the_G3588 disciple_G3101, j_“that_G1565 hour_G5610, the_G3588 disciple_G3101 took_G2983 her_G0846 to_G1519 his_G0846 own_G2398 home_G2398. 
 
-@28 After this, Jesus, seeing^a^ that all things were now finished, that the Scripture might be fulfilled, said, [“I am thirsty!”]{.wj} 
-@29 Now a vessel full of vinegar was set there; so they put a sponge full of the vinegar on hyssop, and held it at his mouth. 
-@30 When Jesus therefore had received the vinegar, he said, [“It is finished!”]{.wj} Then he bowed his head and gave up his spirit. 
+@28 After_G3326 this_G3778, Jesus_G2424, seeing_G3708^a^ that_G3754 all_G3956 things_G3778 were_G3956 now_G2235 finished_G5055, that_G3754 the_G3956 Scripture_G1124 might_G3956 be_G3956 fulfilled_G5055, said_G3004, j_“a_G4060 vessel_G4632 full_G3324 of_G3324 vinegar was_G3588 set_G2749 there; so_G3767 they_G0846 put_G4060 a_G4060 sponge_G4699 full_G3324 of_G3324 the_G3588 vinegar on_G0846 hyssop_G5301, and_G0846 held it_G0846 at_G3588 his_G0846 mouth_G4750. 
+@30 When_G3753 Jesus_G2424 therefore_G3767 had_G2424 received_G2983 the_G3588 vinegar, he_G2532 said_G3004, j_“he_G2532 bowed_G2827 his_G2983 head_G2776 and_G2532 gave_G3860 up_G3860 his_G2983 spirit_G4151. 
 ^a^[**19:28** NU, TR read “knowing” instead of “seeing” ]
 
-@31 Therefore the Jews, because it was the Preparation Day, so that the bodies wouldn’t remain on the cross on the Sabbath (for that Sabbath was a special one), asked of Pilate that their legs might be broken and that they might be taken away. 
-@32 Therefore the soldiers came and broke the legs of the first and of the other who was crucified with him; 
-@33 but when they came to Jesus and saw that he was already dead, they didn’t break his legs. 
-@34 However, one of the soldiers pierced his side with a spear, and immediately blood and water came out. 
-@35 He who has seen has testified, and his testimony is true. He knows that he tells the truth, that you may believe. 
-@36 For these things happened that the Scripture might be fulfilled, “A bone of him will not be broken.”^a^ 
-@37 Again another Scripture says, “They will look on him whom they pierced.”^b^ 
+@31 Therefore_G3767 the_G3588 Jews_G2453, because_G1063 it_G0846 was_G1510 the_G3588 Preparation_G3904 Day_G2250, so_G2443 that_G2443 the_G3588 bodies_G4983 wouldn’t remain_G3306 on_G1909 the_G3588 cross_G4716 on_G1909 the_G3588 Sabbath_G4521 (for_G1063 that_G2443 Sabbath_G4521 was_G1510 a_G1510 special one_G3588), asked_G2065 of_G2250 Pilate_G4091 that_G2443 their_G0846 legs_G4628 might_G2532 be_G1510 broken_G2608 and_G2532 that_G2443 they_G0846 might_G2532 be_G1510 taken_G0142 away_G0142. 
+@32 Therefore_G3767 the_G3588 soldiers_G4757 came_G2064 and_G2532 broke_G2608 the_G3588 legs_G4628 of_G4413 the_G3588 first_G4413 and_G2532 of_G4413 the_G3588 other_G0243 who_G3588 was_G3588 crucified_G4957 with_G2532 him_G0846; 
+@33 but_G1161 when_G5613 they_G0846 came_G2064 to_G1909 Jesus_G2424 and_G1161 saw_G3708 that_G3708 he_G0846 was_G2424 already_G2235 dead_G2348, they_G0846 didn’t_G3756 break_G2608 his_G0846 legs_G4628. 
+@34 However_G0235, one_G1520 of_G1520 the_G3588 soldiers_G4757 pierced_G3572 his_G0846 side_G4125 with_G2532 a_G1520 spear_G3057, and_G2532 immediately_G2117 blood_G0129 and_G2532 water_G5204 came_G1831 out_G1831. 
+@35 He_G2532 who_G3588 has_G3708 seen_G3708 has_G3708 testified_G3140, and_G2532 his_G0846 testimony_G3141 is_G1510 true_G0228. He_G2532 knows_G1492 that_G3754 he_G2532 tells the_G3588 truth_G0227, that_G3754 you_G5210 may_G2532 believe_G4100. 
+@36 For_G1063 these_G3778 things_G3778 happened_G1096 that_G2443 the_G3588 Scripture_G1124 might be_G1096 fulfilled_G4137, “A_G1096 bone_G3747 of_G3588 him_G0846 will_G3778 not_G3756 be_G1096 broken_G4937.”^a^ 
+@37 Again_G3825 another_G2087 Scripture_G1124 says_G3004, “They_G3739 will_G3739 look_G3708 on_G1519 him_G3739 whom_G3739 they_G3739 pierced_G1574.”^b^ 
 ^a^[**19:36** Exodus 12:46; Numbers 9:12; Psalm 34:20 ] ^b^[**19:37** Zechariah 12:10]
 
-## Descent from the cross and burial of Jesus
-@38 After these things, Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, asked of Pilate that he might take away Jesus’ body. Pilate gave him permission. He came therefore and took away his body. 
-@39 Nicodemus, who at first came to Jesus by night, also came bringing a mixture of myrrh and aloes, about a hundred Roman pounds.^a^ 
-@40 So they took Jesus’ body, and bound it in linen cloths with the spices, as the custom of the Jews is to bury. 
-@41 Now in the place where he was crucified there was a garden. In the garden was a new tomb in which no man had ever yet been laid. 
-@42 Then, because of the Jews’ Preparation Day (for the tomb was near at hand), they laid Jesus there.
+@38 After_G3326 these_G3778 things_G3778, Joseph_G2501 of_G1223 Arimathaea, being_G1510 a_G1510 disciple_G3101 of_G1223 Jesus_G2424, but_G1161 secretly_G2928 for_G1223 fear_G5401 of_G1223 the_G3588 Jews_G2453, asked_G2065 of_G1223 Pilate_G4091 that_G2443 he_G2532 might_G2532 take_G0142 away_G0142 Jesus’_G2424 body_G4983. Pilate_G4091 gave_G2010 him_G0846 permission_G2010. He_G2532 came_G2064 therefore_G3767 and_G2532 took_G0142 away_G0142 his_G0846 body_G4983. 
+@39 Nicodemus_G3530, who_G3588 at_G4314 first_G4413 came_G2064 to_G4314 Jesus_G0846 by_G2532 night_G3571, also_G2532 came_G2064 bringing_G5342 a_G5613 mixture_G3395 of_G4413 myrrh_G4666 and_G2532 aloes_G0250, about_G5613 a_G5613 hundred_G1540 Roman pounds_G3046.^a^ 
+@40 So_G3767 they_G0846 took_G2983 Jesus’_G2424 body_G4983, and_G2532 bound_G1210 it_G0846 in_G2532 linen_G3608 cloths with_G3326 the_G3588 spices_G0759, as_G2531 the_G3588 custom_G1485 of_G4983 the_G3588 Jews_G2453 is_G1510 to_G2532 bury. 
+@41 Now_G1161 in_G1722 the_G3588 place_G5117 where_G3699 he_G2532 was_G1510 crucified_G4717 there_G1510 was_G1510 a_G1510 garden_G2779. In_G1722 the_G3588 garden_G2779 was_G1510 a_G1510 new_G2537 tomb_G3419 in_G1722 which_G3739 no_G3762 man_G3762 had_G1510 ever yet_G2532 been_G1510 laid_G5087. 
+@42 Then_G3767, because_G3754 of_G1223 the_G3588 Jews’ Preparation_G3904 Day_G3904 (for_G3754 the_G3588 tomb_G3419 was_G1510 near_G1451 at_G3588 hand), they_G3767 laid_G5087 Jesus_G2424 there_G1563.
 ^a^[**19:39** 100 Roman pounds of 12 ounces each, or about 72 pounds, or 33 Kilograms.] 
 
 # 20 
-## Mary Magdalene and the empty tomb; Peter and John at the tomb
-@1 Now on the first day of the week, Mary Magdalene went early, while it was still dark, to the tomb, and saw that the stone had been taken away from the tomb. 
-@2 Therefore she ran and came to Simon Peter and to the other disciple whom Jesus loved, and said to them, “They have taken away the Lord out of the tomb, and we don’t know where they have laid him!” 
+@1 Now_G1161 on_G1519 the_G3588 first_G1520 day_G4521 of_G1537 the_G3588 week_G4521, Mary_G3137 Magdalene_G3094 went_G2064 early_G4404, while_G1510 it_G1161 was_G1510 still_G2089 dark_G4653, to_G1519 the_G3588 tomb_G3419, and_G2532 saw_G0991 that_G0991 the_G3588 stone_G3037 had_G1510 been_G1510 taken_G0142 away_G0142 from_G1537 the_G3588 tomb_G3419. 
+@2 Therefore_G3767 she_G0846 ran_G5143 and_G2532 came_G2064 to_G4314 Simon_G4613 Peter_G4074 and_G2532 to_G4314 the_G3588 other_G0243 disciple_G3101 whom_G3739 Jesus_G2424 loved_G5368, and_G2532 said_G3004 to_G4314 them_G0846, “They_G0846 have_G2532 taken_G0142 away_G0142 the_G3588 Lord_G2962 out_G1537 of_G1537 the_G3588 tomb_G3419, and_G2532 we_G3739 don’t_G3756 know_G1492 where_G4226 they_G0846 have_G2532 laid_G5087 him_G0846!” 
 
-@3 Therefore Peter and the other disciple went out, and they went toward the tomb. 
-@4 They both ran together. The other disciple outran Peter and came to the tomb first. 
-@5 Stooping and looking in, he saw the linen cloths lying there; yet he didn’t enter in. 
-@6 Then Simon Peter came, following him, and entered into the tomb. He saw the linen cloths lying, 
-@7 and the cloth that had been on his head, not lying with the linen cloths, but rolled up in a place by itself. 
-@8 So then the other disciple who came first to the tomb also entered in, and he saw and believed. 
-@9 For as yet they didn’t know the Scripture, that he must rise from the dead. 
-@10 So the disciples went away again to their own homes.
+@3 Therefore_G3767 Peter_G4074 and_G2532 the_G3588 other_G0243 disciple_G3101 went_G1831 out_G1831, and_G2532 they_G3767 went_G1831 toward_G1519 the_G3588 tomb_G3419. 
+@4 They_G2532 both_G2532 ran_G5143 together_G3674. The_G3588 other_G0243 disciple_G3101 outran Peter_G4074 and_G2532 came_G2064 to_G1519 the_G3588 tomb_G3419 first_G4413. 
+@5 Stooping_G3879 and_G2532 looking_G0991 in_G2532, he_G2532 saw_G0991 the_G3588 linen_G3608 cloths lying_G2749 there; yet_G2532 he_G2532 didn’t_G3756 enter_G1525 in_G2532. 
+@6 Then_G2532 Simon_G4613 Peter_G4074 came_G2064, following_G0190 him_G0846, and_G2532 entered_G1525 into_G1519 the_G3588 tomb_G3419. He_G2532 saw_G2334 the_G3588 linen_G3608 cloths lying_G2749, 
+@7 and_G2532 the_G3588 cloth_G4676 that_G3739 had_G1510 been_G1510 on_G1909 his_G0846 head_G2776, not_G3756 lying_G2749 with_G3326 the_G3588 linen_G3608 cloths, but_G0235 rolled_G1794 up_G1519 in_G1519 a_G1510 place_G5117 by_G1909 itself_G0846. 
+@8 So_G3767 then_G2532 the_G3588 other_G0243 disciple_G3101 who_G3588 came_G2064 first_G4413 to_G1519 the_G3588 tomb_G3419 also_G2532 entered_G1525 in_G1519, and_G2532 he_G2532 saw_G3708 and_G2532 believed_G4100. 
+@9 For_G1063 as_G0846 yet_G3764 they_G0846 didn’t know_G1492 the_G3588 Scripture_G1124, that_G3754 he_G0846 must_G1163 rise_G0450 from_G1537 the_G3588 dead_G3498. 
+@10 So_G3767 the_G3588 disciples_G3101 went_G0565 away_G0565 again_G3825 to_G4314 their_G0846 own_G1438 homes. 
 
-## Appearance of Jesus to Mary Magdalene
-@11 But Mary was standing outside at the tomb weeping. So as she wept, she stooped and looked into the tomb, 
-@12 and she saw two angels in white sitting, one at the head and one at the feet, where the body of Jesus had lain. 
-@13 They asked her, “Woman, why are you weeping?” 
+@11 But_G1161 Mary_G3137 was_G3588 standing_G2476 outside_G1854 at_G1519 the_G3588 tomb_G3419 weeping_G2799. So_G3767 as_G5613 she_G5613 wept_G2799, she_G5613 stooped_G3879 and_G1161 looked_G3879 into_G1519 the_G3588 tomb_G3419, 
+@12 and_G2532 she saw_G2334 two_G1417 angels_G0032 in_G1722 white_G3022 sitting_G2516, one_G1520 at_G1722 the_G3588 head_G2776 and_G2532 one_G1520 at_G1722 the_G3588 feet_G4228, where_G3699 the_G3588 body_G4983 of_G1520 Jesus_G2424 had_G2424 lain_G2749. 
+@13 They_G0846 asked_G3004 her_G0846, “Woman_G1135, why_G5101 are_G3588 you_G3754 weeping_G2799?” 
 
-She said to them, “Because they have taken away my Lord, and I don’t know where they have laid him.” 
-@14 When she had said this, she turned around and saw Jesus standing, and didn’t know that it was Jesus. 
+She_G0846 said_G3004 to_G3004 them_G0846, “Because_G3754 they_G0846 have_G2532 taken_G0142 away_G0142 my_G5087 Lord_G2962, and_G2532 I_G1473 don’t_G3756 know_G1492 where_G4226 they_G0846 have_G2532 laid_G5087 him_G0846.” 
+@14 When_G2532 she_G3754 had_G2424 said_G3004 this_G3778, she_G3754 turned_G4762 around_G3694 and_G2532 saw_G1492 Jesus_G2424 standing_G2476, and_G2532 didn’t_G3756 know_G1492 that_G3754 it_G3778 was_G1510 Jesus_G2424. 
 
-@15 Jesus said to her, [“Woman, why are you weeping? Who are you looking for?”]{.wj} 
+@15 Jesus_G2424 said_G3004 to_G3004 her_G0846, j_“, supposing_G1380 him_G0846 to_G3004 be_G1510 the_G3588 gardener_G2780, said_G3004 to_G3004 him_G0846, “Sir_G2962, if_G1487 you_G4771 have_G1510 carried_G0941 him_G0846 away_G0142, tell_G3004 me_G3004 where_G4226 you_G4771 have_G1510 laid_G5087 him_G0846, and_G2962 I_G1473 will_G1510 take_G0142 him_G0846 away_G0142.” 
 
-She, supposing him to be the gardener, said to him, “Sir, if you have carried him away, tell me where you have laid him, and I will take him away.” 
-
-@16 Jesus said to her, [“Mary.”]{.wj} 
-
-She turned and said to him, “Rabboni!”^a^ which is to say, “Teacher!”^b^ 
+@16 Jesus_G2424 said_G3004 to_G3004 her_G0846, j_“turned_G4762 and_G2424 said_G3004 to_G3004 him_G0846, “Rabboni_G4462!”^a^ which_G3739 is_G3739 to_G3004 say_G3004, “Teacher_G1320!”^b^ 
 ^a^[**20:16** Rabboni is a transliteration of the Hebrew word for “great teacher.”] ^b^[**20:16** or, Master]
 
-@17 Jesus said to her, [“Don’t hold me, for I haven’t yet ascended to my Father; but go to my brothers and tell them, ‘I am ascending to my Father and your Father, to my God and your God.’”]{.wj} 
-
-@18 Mary Magdalene came and told the disciples that she had seen the Lord, and that he had said these things to her.
-
-## Jesus and the disciples on Easter Sunday night
-@19 When therefore it was evening on that day, the first day of the week, and when the doors were locked where the disciples were assembled, for fear of the Jews, Jesus came and stood in the middle and said to them, [“Peace be to you.”]{.wj} 
-
-@20 When he had said this, he showed them his hands and his side. The disciples therefore were glad when they saw the Lord. 
-@21 Jesus therefore said to them again, [“Peace be to you. As the Father has sent me, even so I send you.”]{.wj} 
-@22 When he had said this, he breathed on them, and said to them, [“Receive the Holy Spirit!]{.wj} 
-@23 [If you forgive anyone’s sins, they have been forgiven them. If you retain anyone’s sins, they have been retained.”]{.wj}
-
-## The disciples with Thomas
-@24 But Thomas, one of the twelve, called Didymus,^a^ wasn’t with them when Jesus came. 
-@25 The other disciples therefore said to him, “We have seen the Lord!” 
+@17 Jesus_G2424 said_G3004 to_G4314 her_G0846, j_“’t_G3361 Magdalene_G3094 came_G2064 and_G2532 told_G3004 the_G3588 disciples_G3101 that_G3754 she_G0846 had_G3748 seen_G3708 the_G3588 Lord_G2962, and_G2532 that_G3754 he_G2532 had_G3748 said_G3004 these_G3778 things_G3778 to_G3004 her_G0846. 
+@19 When_G2532 therefore_G3767 it_G0846 was_G1510 evening_G3798 on_G1519 that_G1565 day_G2250, the_G3588 first_G1520 day_G2250 of_G2250 the_G3588 week_G4521, and_G2532 when_G2532 the_G3588 doors_G2374 were_G1510 locked_G2808 where_G3699 the_G3588 disciples_G3101 were_G1510 assembled, for_G1519 fear_G5401 of_G2250 the_G3588 Jews_G2453, Jesus_G2424 came_G2064 and_G2532 stood_G2476 in_G1519 the_G3588 middle_G3319 and_G2532 said_G3004 to_G1519 them_G0846, j_“he_G2532 had_G3588 said_G3004 this_G3778, he_G2532 showed_G1166 them_G0846 his_G0846 hands_G5495 and_G2532 his_G0846 side_G4125. The_G3588 disciples_G3101 therefore_G3767 were_G3101 glad_G5463 when_G2532 they_G0846 saw_G3708 the_G3588 Lord_G2962. 
+@21 Jesus_G2424 therefore_G3767 said_G3004 to_G3004 them_G0846 again_G3825, j_“he_G2532 had_G2532 said_G3004 this_G3778, he_G2532 breathed_G1720 on_G4151 them_G0846, and_G2532 said_G3004 to_G3004 them_G0846, j_“Thomas_G2381, one_G1520 of_G1537 the_G3588 twelve_G1427, called_G3004 Didymus_G1324,^a^ wasn’t_G3756 with_G3326 them_G0846 when_G3753 Jesus_G2424 came_G2064. 
+@25 The_G3588 other_G0243 disciples_G3101 therefore_G3767 said_G3004 to_G1519 him_G0846, “We_G1437 have_G2532 seen_G3708 the_G3588 Lord_G2962!” 
 ^a^[**20:24** or, Twin]
 
-But he said to them, “Unless I see in his hands the print of the nails, put my finger into the print of the nails, and put my hand into his side, I will not believe.” 
+But_G1161 he_G2532 said_G3004 to_G1519 them_G0846, “Unless_G1437 I_G1473 see_G3708 in_G1722 his_G0846 hands_G5495 the_G3588 print of_G2962 the_G3588 nails_G2247, put_G0906 my_G3708 finger_G1147 into_G1519 the_G3588 print of_G2962 the_G3588 nails_G2247, and_G2532 put_G0906 my_G3708 hand_G5495 into_G1519 his_G0846 side_G4125, I_G1473 will_G2962 not_G3756 believe_G4100.” 
 
-@26 After eight days, again his disciples were inside and Thomas was with them. Jesus came, the doors being locked, and stood in the middle, and said, [“Peace be to you.”]{.wj} 
-@27 Then he said to Thomas, [“Reach here your finger, and see my hands. Reach here your hand, and put it into my side. Don’t be unbelieving, but believing.”]{.wj} 
+@26 After_G3326 eight_G3638 days_G2250, again_G3825 his_G0846 disciples_G3101 were_G1510 inside_G2080 and_G2532 Thomas_G2381 was_G1510 with_G3326 them_G0846. Jesus_G2424 came_G2064, the_G3588 doors_G2374 being_G1510 locked_G2808, and_G2532 stood_G2476 in_G1519 the_G3588 middle_G3319, and_G2532 said_G3004, j_“he_G2532 said_G3004 to_G1519 Thomas_G2381, j_“answered_G0611 him_G0846, “My_G2316 Lord_G2962 and_G2532 my_G2316 God_G2316!” 
 
-@28 Thomas answered him, “My Lord and my God!” 
-
-@29 Jesus said to him, [“Because you have seen me,]{.wj}^a^ [you have believed. Blessed are those who have not seen and have believed.”]{.wj} 
-^a^[**20:29** TR adds “Thomas,”]
-
-@30 Therefore Jesus did many other signs in the presence of his disciples, which are not written in this book; 
-@31 but these are written that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in his name. 
+@29 Jesus_G2424 said_G3004 to_G3004 him_G0846, j_“Jesus_G2424 did_G4160 many_G4183 other_G0243 signs_G4592 in_G1722 the_G3588 presence_G1799 of_G1799 his_G4160 disciples_G3101, which_G3739 are_G1510 not_G3756 written_G1125 in_G1722 this_G3778 book_G0975; 
+@31 but_G1161 these_G3778 are_G1510 written_G1125 that_G3754 you_G3754 may_G2532 believe_G4100 that_G3754 Jesus_G2424 is_G1510 the_G3588 Christ_G5547, the_G3588 Son_G5207 of_G5207 God_G2316, and_G2532 that_G3754 believing_G4100 you_G3754 may_G2532 have_G2192 life_G2222 in_G1722 his_G0846 name_G3686. 
 
 # 21 
-## Jesus reveals himself to his disciples at Lake Tiberias
-@1 After these things, Jesus revealed himself again to the disciples at the sea of Tiberias. He revealed himself this way. 
-@2 Simon Peter, Thomas called Didymus,^a^ Nathanael of Cana in Galilee, and the sons of Zebedee, and two others of his disciples were together. 
-@3 Simon Peter said to them, “I’m going fishing.” 
+@1 After_G3326 these_G3778 things_G3778, Jesus_G2424 revealed_G5319 himself_G1438 again_G3825 to_G1909 the_G3588 disciples_G3101 at_G1909 the_G3588 sea_G2281 of_G1909 Tiberias_G5085. He_G3778 revealed_G5319 himself_G1438 this_G3778 way_G3779. 
+@2 Simon_G4613 Peter_G4074, Thomas_G2381 called_G3004 Didymus_G1324,^a^ Nathanael_G3482 of_G1537 Cana_G2580 in_G2532 Galilee_G1056, and_G2532 the_G3588 sons of_G1537 Zebedee_G2199, and_G2532 two_G1417 others_G0243 of_G1537 his_G0846 disciples_G3101 were_G1510 together_G3674. 
+@3 Simon_G4613 Peter_G4074 said_G3004 to_G1519 them_G0846, “I’m going_G5217 fishing_G0232.” 
 ^a^[**21:2** or, Twin]
 
-They told him, “We are also coming with you.” They immediately went out and entered into the boat. That night, they caught nothing. 
-@4 But when day had already come, Jesus stood on the beach; yet the disciples didn’t know that it was Jesus. 
-@5 Jesus therefore said to them, [“Children, have you anything to eat?”]{.wj} 
+They_G0846 told_G3004 him_G0846, “We_G2249 are_G3588 also_G2532 coming_G2064 with_G1722 you_G4771.” They_G0846 immediately went_G1831 out_G1831 and_G2532 entered_G2064 into_G1519 the_G3588 boat_G4143. That_G1565 night_G3571, they_G0846 caught_G4084 nothing_G3762. 
+@4 But_G1161 when_G1161 day had_G2424 already_G2235 come_G1096, Jesus_G2424 stood_G2476 on_G1909 the_G3588 beach_G0123; yet_G1161 the_G3588 disciples_G3101 didn’t_G3756 know_G1492 that_G3754 it_G1161 was_G1510 Jesus_G2424. 
+@5 Jesus_G2424 therefore_G3767 said_G3004 to_G3004 them_G0846, j_“answered_G0611 him_G0846, “No_G3756.” 
 
-They answered him, “No.” 
+@6 He_G2532 said_G3004 to_G1519 them_G0846, j_“cast_G0906 it_G0846 therefore_G3767, and_G2532 now_G1161 they_G0846 weren’t able_G2480 to_G1519 draw_G1670 it_G0846 in_G1519 for_G1519 the_G3588 multitude_G4128 of_G0575 fish_G2486. 
+@7 That_G3754 disciple_G3101 therefore_G3767 whom_G3739 Jesus_G2424 loved_G0025 said_G3004 to_G1519 Peter_G4074, “It’s the_G3588 Lord_G2962!” 
 
-@6 He said to them, [“Cast the net on the right side of the boat, and you will find some.”]{.wj} 
+So_G3767 when_G2532 Simon_G4613 Peter_G4074 heard_G0191 that_G3754 it_G0191 was_G1510 the_G3588 Lord_G2962, he_G2532 wrapped his_G0025 coat around himself_G1438 (for_G1063 he_G2532 was_G1510 naked_G1131), and_G2532 threw_G0906 himself_G1438 into_G1519 the_G3588 sea_G2281. 
+@8 But_G1161 the_G3588 other_G0243 disciples_G3101 came_G2064 in_G0575 the_G3588 little_G4142 boat_G4142 (for_G1063 they_G1161 were_G1510 not_G3756 far_G3112 from_G0575 the_G3588 land_G1093, but_G1161 about_G5613 two_G1250 hundred_G1250 cubits_G4083^a^ away_G0575), dragging_G4951 the_G3588 net_G1350 full of_G0575 fish_G2486. 
+@9 So_G3767 when_G5613 they_G3767 got_G0576 out on_G1519 the_G3588 land_G1093, they_G3767 saw_G0991 a_G5613 fire_G0439 of_G1093 coals there, with_G2532 fish_G3795 and_G2532 bread_G0740 laid_G2749 on_G1519 it_G2532. 
+@10 Jesus_G2424 said_G3004 to_G3004 them_G0846, j_“Peter_G4074 went_G0305 up_G0305, and_G2532 drew_G1670 the_G3588 net_G1350 to_G1519 land_G1093, full_G3324 of_G1093 one_G3588 hundred_G1540 fifty-three_G4004 great_G3173 fish_G2486. Even_G2532 though_G2532 there_G1510 were_G1510 so_G3767 many_G5118, the_G3588 net_G1350 wasn’t_G3756 torn_G4977. 
 
-They cast it therefore, and now they weren’t able to draw it in for the multitude of fish. 
-@7 That disciple therefore whom Jesus loved said to Peter, “It’s the Lord!” 
+@12 Jesus_G2424 said_G3004 to_G3004 them_G0846, j_“of_G2962 the_G3588 disciples_G3101 dared_G5111 inquire_G1833 of_G2962 him_G0846, “Who_G3588 are_G1510 you_G4771?” knowing_G1492 that_G3754 it_G0846 was_G1510 the_G3588 Lord_G2962. 
 
-So when Simon Peter heard that it was the Lord, he wrapped his coat around himself (for he was naked), and threw himself into the sea. 
-@8 But the other disciples came in the little boat (for they were not far from the land, but about two hundred cubits^a^ away), dragging the net full of fish. 
-@9 So when they got out on the land, they saw a fire of coals there, with fish and bread laid on it. 
-@10 Jesus said to them, [“Bring some of the fish which you have just caught.”]{.wj} 
-^a^[**21:8** 200 cubits is about 100 yards or about 91 meters]
+@13 Then_G2532 Jesus_G2424 came_G2064 and_G2532 took_G2983 the_G3588 bread_G0740, gave_G1325 it_G0846 to_G2064 them_G0846, and_G2532 the_G3588 fish_G3795 likewise_G3668. 
+@14 This_G3778 is_G3778 now_G2235 the_G3588 third_G5154 time_G5154 that_G3778 Jesus_G2424 was_G2424 revealed_G5319 to_G3778 his_G3101 disciples_G3101 after_G1537 he_G3778 had_G2424 risen_G1453 from_G1537 the_G3588 dead_G3498. 
+@15 So_G3767 when_G3753 they_G0846 had_G2424 eaten their_G0846 breakfast_G0709, Jesus_G2424 said_G3004 to_G3004 Simon_G4613 Peter_G4074, j_“said_G3004 to_G3004 him_G0846, “Yes_G3483, Lord_G2962; you_G4771 know_G1492 that_G3754 I_G1473 have_G3748 affection for_G3754 you_G4771.” 
 
-@11 Simon Peter went up, and drew the net to land, full of one hundred fifty-three great fish. Even though there were so many, the net wasn’t torn. 
+He_G0846 said_G3004 to_G3004 him_G0846, j_“said_G3004 to_G3004 him_G0846 again_G3825 a_G3825 second_G1208 time_G1208, j_“said_G3004 to_G3004 him_G0846, “Yes_G3483, Lord_G2962; you_G4771 know_G1492 that_G3754 I_G1473 have_G3748 affection for_G3754 you_G4771.” 
 
-@12 Jesus said to them, [“Come and eat breakfast!”]{.wj} 
+He_G0846 said_G3004 to_G3004 him_G0846, j_“Tend_said_G3004 to_G3004 him_G0846 the_G3956 third_G5154 time_G5154, j_“was_G2424 grieved_G3076 because_G3754 he_G2532 asked_G3004 him_G0846 the_G3956 third_G5154 time_G5154, j_“said_G3004 to_G3004 him_G0846, “Lord_G2962, you_G4771 know_G1097 everything_G3956. You_G4771 know_G1097 that_G3754 I_G1473 have_G2532 affection for_G3754 you_G4771.” 
 
-None of the disciples dared inquire of him, “Who are you?” knowing that it was the Lord. 
+Jesus_G2424 said_G3004 to_G3004 him_G0846, j_“he_G2532 said_G3004 this_G3778, signifying_G4591 by_G3004 what_G4169 kind_G4169 of_G2316 death_G2288 he_G2532 would_G0846 glorify_G1392 God_G2316. When_G2532 he_G2532 had_G2316 said_G3004 this_G3778, he_G2532 said_G3004 to_G3004 him_G0846, j_“Peter_G4074, turning_G1994 around_G1909, saw_G0991 a_G1510 disciple_G3101 following_G0190. This_G3588 was_G1510 the_G3588 disciple_G3101 whom_G3739 Jesus_G2424 loved_G0025, the_G3588 one_G3739 who_G3739 had_G2424 also_G2532 leaned_G0377 on_G1909 Jesus’_G2424 breast_G4738 at_G1722 the_G3588 supper_G1173 and_G2532 asked_G3004, “Lord_G2962, who_G3739 is_G1510 going to_G3004 betray_G3860 you_G4771?” 
+@21 Peter_G4074, seeing_G3708 him_G3708, said_G3004 to_G3004 Jesus_G2424, “Lord_G2962, what_G5101 about_G3588 this_G3778 man_G3778?” 
 
-@13 Then Jesus came and took the bread, gave it to them, and the fish likewise. 
-@14 This is now the third time that Jesus was revealed to his disciples after he had risen from the dead.
-
-## Trus reinstated in his pastoral position; Prophecy about the end of the life of Peter and the beloved disciple
-@15 So when they had eaten their breakfast, Jesus said to Simon Peter, [“Simon, son of Jonah, do you love me more than these?”]{.wj} 
-
-He said to him, “Yes, Lord; you know that I have affection for you.” 
-
-He said to him, [“Feed my lambs.”]{.wj} 
-@16 He said to him again a second time, [“Simon, son of Jonah, do you love me?”]{.wj} 
-
-He said to him, “Yes, Lord; you know that I have affection for you.” 
-
-He said to him, [“Tend my sheep.”]{.wj} 
-@17 He said to him the third time, [“Simon, son of Jonah, do you have affection for me?”]{.wj} 
-
-Peter was grieved because he asked him the third time, [“Do you have affection for me?”]{.wj} He said to him, “Lord, you know everything. You know that I have affection for you.” 
-
-Jesus said to him, [“Feed my sheep.]{.wj} 
-@18 [Most certainly I tell you, when you were young, you dressed yourself and walked where you wanted to. But when you are old, you will stretch out your hands, and another will dress you and carry you where you don’t want to go.”]{.wj} 
-
-@19 Now he said this, signifying by what kind of death he would glorify God. When he had said this, he said to him, [“Follow me.”]{.wj} 
-
-@20 Then Peter, turning around, saw a disciple following. This was the disciple whom Jesus loved, the one who had also leaned on Jesus’ breast at the supper and asked, “Lord, who is going to betray you?” 
-@21 Peter, seeing him, said to Jesus, “Lord, what about this man?” 
-
-@22 Jesus said to him, [“If I desire that he stay until I come, what is that to you? You follow me.”]{.wj} 
-@23 This saying therefore went out among the brothers^a^ that this disciple wouldn’t die. Yet Jesus didn’t say to him that he wouldn’t die, but, [“If I desire that he stay until I come, what is that to you?”]{.wj} 
-^a^[**21:23** The word for “brothers” here may be also correctly translated “brothers and sisters” or “siblings.”]
-
-@24 This is the disciple who testifies about these things, and wrote these things. We know that his witness is true. 
-@25 There are also many other things which Jesus did, which if they would all be written, I suppose that even the world itself wouldn’t have room for the books that would be written. 
+@22 Jesus_G2424 said_G3004 to_G4314 him_G0846, j_“saying_G3004 therefore_G3767 went_G1831 out_G1831 among_G1519 the_G3588 brothers_G0080^a^ that_G3754 this_G3778 disciple_G3101 wouldn’t die_G0599. Yet_G2532 Jesus_G2424 didn’t_G3756 say_G3004 to_G1519 him_G0846 that_G3754 he_G2532 wouldn’t die_G0599, but_G1161, j_“is_G1510 the_G3588 disciple_G3101 who_G3588 testifies_G3140 about_G4012 these_G3778 things_G3778, and_G2532 wrote_G1125 these_G3778 things_G3778. We_G3778 know_G1492 that_G3754 his_G0846 witness_G3140 is_G1510 true_G0227. 
+@25 There_G1510 are_G1510 also_G2532 many_G4183 other_G0243 things_G4183 which_G2424 Jesus_G2424 did_G4160, which_G2424 if_G1437 they_G0846 would_G0846 all_G4183 be_G1510 written_G1125, I_G1437 suppose_G3633 that_G0846 even_G2532 the_G2532 world_G2889 itself_G0846 wouldn’t have_G1510 room_G5562 for_G1520 the_G2532 books_G0975 that_G0846 would_G0846 be_G1510 written_G1125. 

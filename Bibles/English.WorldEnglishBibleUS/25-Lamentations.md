@@ -1,186 +1,186 @@
 # 1 
 ## I'm sorry for the misery of the city
-@1 How the city sits solitary, that was full of people! She has become as a widow, who was great among the nations! She who was a princess among the provinces has become a slave! 
-@2 She weeps bitterly in the night. Her tears are on her cheeks. Among all her lovers she has no one to comfort her. All her friends have dealt treacherously with her. They have become her enemies. 
-@3 Judah has gone into captivity because of affliction and because of great servitude. She dwells among the nations. She finds no rest. All her persecutors overtook her in her distress. 
-@4 The roads to Zion mourn, because no one comes to the solemn assembly. All her gates are desolate. Her priests sigh. Her virgins are afflicted, and she herself is in bitterness. 
-@5 Her adversaries have become the head. Her enemies prosper; for Yahweh^a^ has afflicted her for the multitude of her transgressions. Her young children have gone into captivity before the adversary. 
-@6 All majesty has departed from the daughter of Zion. Her princes have become like deer that find no pasture. They have gone without strength before the pursuer. 
-@7 Jerusalem remembers in the days of her affliction and of her miseries all her pleasant things that were from the days of old; when her people fell into the hand of the adversary, and no one helped her. The adversaries saw her. They mocked at her desolations. 
-@8 Jerusalem has grievously sinned. Therefore she has become unclean. All who honored her despise her, because they have seen her nakedness. Yes, she sighs and turns backward. 
-@9 Her filthiness was in her skirts. She didn’t remember her latter end. Therefore she has come down astoundingly. She has no comforter. “See, Yahweh, my affliction; for the enemy has magnified himself.” 
-@10 The adversary has spread out his hand on all her pleasant things; for she has seen that the nations have entered into her sanctuary, concerning whom you commanded that they should not enter into your assembly. 
-@11 All her people sigh. They seek bread. They have given their pleasant things for food to refresh their soul. “Look, Yahweh, and see, for I have become despised.”
+@1 How_H0349 the_H1961 city_H5892 sits_H3427 solitary, that_H1961 was_H1961 full_H7227 of_H3427 people_H5971! She has_H1961 become_H1961 as_H1961 a_H1961 widow_H0490, who_H3427 was_H1961 great_H7227 among_H3427 the_H1961 nations_H1471! She who_H3427 was_H1961 a_H1961 princess_H8282 among_H3427 the_H1961 provinces_H4082 has_H1961 become_H1961 a_H1961 slave! 
+@2 She weeps_H1058 bitterly_H1058 in_H5921 the_H3605 night_H3915. Her_H3605 tears_H1832 are_H0369 on_H5921 her_H3605 cheeks_H3895. Among_H5921 all_H3605 her_H3605 lovers_H0157 she has_H0369 no_H0369 one_H0369 to_H1961 comfort_H5162 her_H3605. All_H3605 her_H3605 friends_H7453 have_H1961 dealt_H0898 treacherously_H0898 with_H5921 her_H3605. They_H5921 have_H1961 become_H1961 her_H3605 enemies_H0341. 
+@3 Judah_H3063 has_H3063 gone_H1540 into_H1540 captivity_H1540 because_H7230 of_H3427 affliction and_H3063 because_H7230 of_H3427 great_H7230 servitude_H5656. She_H1931 dwells_H3427 among_H0996 the_H3605 nations_H1471. She_H1931 finds_H4672 no_H3808 rest_H4494. All_H3605 her_H3605 persecutors_H7291 overtook_H5381 her_H3605 in_H3427 her_H3605 distress_H4712. 
+@4 The_H3605 roads_H1870 to_H0935 Zion_H6726 mourn_H0057, because_H1097 no_H1097 one_H3605 comes_H0935 to_H0935 the_H3605 solemn assembly_H4150. All_H3605 her_H3605 gates_H8179 are_H1870 desolate_H8074. Her_H3605 priests_H3548 sigh_H0584. Her_H3605 virgins_H1330 are_H1870 afflicted_H3013, and_H0935 she_H1931 herself_H1931 is_H1931 in_H0935 bitterness_H4751. 
+@5 Her_H5921 adversaries have_H1961 become_H1961 the_H6440 head_H7218. Her_H5921 enemies_H0341 prosper_H7951; for_H3588 Yahweh_H3068^a^ has_H3068 afflicted_H3013 her_H5921 for_H3588 the_H6440 multitude_H7230 of_H3068 her_H5921 transgressions_H6588. Her_H5921 young children_H5768 have_H1961 gone_H1980 into_H1980 captivity_H7628 before_H6440 the_H6440 adversary. 
+@6 All_H3605 majesty_H1926 has_H1961 departed_H3318 from_H4480 the_H3605 daughter_H1323 of_H1323 Zion. Her_H3605 princes_H8269 have_H1961 become_H1961 like_H1961 deer_H0354 that_H3605 find_H4672 no_H3808 pasture_H4829. They_H3808 have_H1961 gone_H3318 without_H3808 strength_H3581 before_H6440 the_H3605 pursuer_H7291. 
+@7 Jerusalem_H3389 remembers_H2142 in_H5921 the_H3605 days_H3117 of_H3117 her_H3605 affliction and_H3027 of_H3117 her_H3605 miseries all_H3605 her_H3605 pleasant things_H3605 that_H0834 were_H0834 from_H5921 the_H3605 days_H3117 of_H3117 old; when_H1961 her_H3605 people_H5971 fell_H5307 into_H5921 the_H3605 hand_H3027 of_H3117 the_H3605 adversary, and_H3027 no_H0369 one_H0369 helped_H5826 her_H3605. The_H3605 adversaries saw_H7200 her_H3605. They_H0834 mocked_H7832 at_H5921 her_H3605 desolations. 
+@8 Jerusalem_H3389 has_H1961 grievously sinned_H2398. Therefore_H3651 she_H1931 has_H1961 become_H1961 unclean_H5206. All_H3605 who_H3605 honored_H3513 her_H3605 despise her_H3605, because_H3588 they_H3588 have_H1961 seen_H7200 her_H3605 nakedness_H6172. Yes_H3588, she_H1931 sighs and_H7725 turns_H7725 backward_H0268. 
+@9 Her_H7200 filthiness was_H0369 in_H3068 her_H7200 skirts_H7757. She_H3588 didn’t_H3808 remember_H2142 her_H7200 latter_H0319 end_H0319. Therefore_H3068 she_H3588 has_H3068 come_H3381 down_H3381 astoundingly. She_H3588 has_H3068 no_H3808 comforter_H5162. “See_H7200, Yahweh_H3068, my_H3068 affliction; for_H3588 the_H0853 enemy_H0341 has_H3068 magnified_H1431 himself_H1431.” 
+@10 The_H3605 adversary has_H0834 spread_H6566 out_H5921 his_H3605 hand_H3027 on_H5921 all_H3605 her_H3605 pleasant_H4261 things_H3605; for_H3588 she_H0834 has_H0834 seen_H7200 that_H0834 the_H3605 nations_H1471 have_H0834 entered_H0935 into_H0935 her_H3605 sanctuary_H4720, concerning_H5921 whom_H0834 you_H0834 commanded_H6680 that_H0834 they_H0834 should_H3588 not_H3808 enter_H0935 into_H0935 your_H3605 assembly_H6951. 
+@11 All_H3605 her_H3605 people_H5971 sigh_H0584. They_H3588 seek_H1245 bread_H3899. They_H3588 have_H1961 given_H5414 their_H3605 pleasant things_H3605 for_H3588 food_H3899 to_H7725 refresh their_H3605 soul_H5315. “Look_H7200, Yahweh_H3068, and_H3068 see_H7200, for_H3588 I_H3588 have_H1961 become_H1961 despised.”
 
 ## Unfortunately, the city was filled with regrets and regretful confessions
-@12 “Is it nothing to you, all you who pass by? Look, and see if there is any sorrow like my sorrow, which is brought on me, with which Yahweh has afflicted me in the day of his fierce anger. 
-@13 “From on high has he sent fire into my bones, and it prevails against them. He has spread a net for my feet. He has turned me back. He has made me desolate and I faint all day long. 
-@14 “The yoke of my transgressions is bound by his hand. They are knit together. They have come up on my neck. He made my strength fail. The Lord^b^ has delivered me into their hands, against whom I am not able to stand. 
-@15 “The Lord has set at nothing all my mighty men within me. He has called a solemn assembly against me to crush my young men. The Lord has trodden the virgin daughter of Judah as in a wine press. 
-@16 “For these things I weep. My eye, my eye runs down with water, because the comforter who should refresh my soul is far from me. My children are desolate, because the enemy has prevailed.” 
-@17 Zion spreads out her hands. There is no one to comfort her. Yahweh has commanded concerning Jacob, that those who are around him should be his adversaries. Jerusalem is among them as an unclean thing.
+@12 “Is_H0834 it_H0518 nothing_H3808 to_H0413 you_H0834, all_H3605 you_H0834 who_H0834 pass_H5674 by_H3068? Look_H7200, and_H3068 see_H7200 if_H0518 there_H3426 is_H0834 any_H3605 sorrow_H4341 like_H0834 my_H3605 sorrow_H4341, which_H0834 is_H0834 brought on_H3117 me_H0413, with_H0413 which_H0834 Yahweh_H3068 has_H3068 afflicted_H3013 me_H0413 in_H0413 the_H3605 day_H3117 of_H3068 his_H3605 fierce_H2740 anger_H0639. 
+@13 “From_H7725 on_H3117 high_H4791 has_H0784 he_H3117 sent_H7971 fire_H0784 into_H5414 my_H3605 bones_H6106, and_H7725 it_H5414 prevails against_H3605 them_H5414. He_H3117 has_H0784 spread_H6566 a_H5414 net_H7568 for_H7971 my_H3605 feet_H7272. He_H3117 has_H0784 turned_H7725 me_H5414 back_H7725. He_H3117 has_H0784 made_H5414 me_H5414 desolate_H8076 and_H7725 I_H5414 faint_H1739 all_H3605 day_H3117 long_H3117. 
+@14 “The_H5921 yoke_H5923 of_H3027 my_H5414 transgressions_H6588 is_H3027 bound_H8244 by_H5921 his_H5414 hand_H3027. They_H5921 are_H3027 knit_H8276 together_H5921. They_H5921 have_H3027 come_H5927 up_H5927 on_H5921 my_H5414 neck_H6677. He_H3808 made_H5414 my_H5414 strength_H3581 fail_H3808. The_H5921 Lord_H0136^b^ has_H0136 delivered_H5414 me_H5414 into_H5921 their_H5414 hands_H3027, against_H5921 whom I_H5414 am not_H3808 able_H3201 to_H5921 stand_H6965. 
+@15 “The_H3605 Lord_H0136 has_H0136 set_H1869 at_H5921 nothing_H3605 all_H3605 my_H3605 mighty_H0047 men_H0970 within_H7130 me_H5921. He_H5921 has_H0136 called_H7121 a_H7121 solemn assembly_H4150 against_H5921 me_H5921 to_H5921 crush_H7665 my_H3605 young_H0970 men_H0970. The_H3605 Lord_H0136 has_H0136 trodden_H1869 the_H3605 virgin_H1330 daughter_H1323 of_H1323 Judah_H3063 as_H7121 in_H5921 a_H7121 wine_H1660 press_H1660. 
+@16 “For_H3588 these_H0428 things_H0428 I_H0589 weep_H1058. My_H5921 eye_H5869, my_H5921 eye_H5869 runs down_H3381 with_H5921 water_H4325, because_H3588 the_H5921 comforter_H5162 who_H1121 should_H3588 refresh my_H5921 soul_H5315 is_H5315 far_H7368 from_H4480 me_H5315. My_H5921 children_H1121 are_H0428 desolate_H8074, because_H3588 the_H5921 enemy_H0341 has_H1961 prevailed_H1396.” 
+@17 Zion_H6726 spreads_H6566 out_H6566 her_H0996 hands_H3027. There_H0369 is_H0369 no_H0369 one_H0369 to_H1961 comfort_H5162 her_H0996. Yahweh_H3068 has_H3068 commanded_H6680 concerning_H3068 Jacob_H3290, that_H3068 those_H1961 who_H3068 are_H3027 around_H5439 him_H6680 should_H3068 be_H1961 his_H3068 adversaries. Jerusalem_H3389 is_H0369 among_H0996 them_H6680 as_H1961 an_H1961 unclean_H5079 thing_H5079.
 
 ## Zion's prayer to God asking for help and revenge against enemies
-@18 “Yahweh is righteous, for I have rebelled against his commandment. Please hear all you peoples, and see my sorrow. My virgins and my young men have gone into captivity. 
-@19 “I called for my lovers, but they deceived me. My priests and my elders gave up the spirit in the city, while they sought food for themselves to refresh their souls. 
-@20 “Look, Yahweh; for I am in distress. My heart is troubled. My heart turns over within me, for I have grievously rebelled. Abroad, the sword bereaves. At home, it is like death. 
-@21 “They have heard that I sigh. There is no one to comfort me. All my enemies have heard of my trouble. They are glad that you have done it. You will bring the day that you have proclaimed, and they will be like me. 
-@22 “Let all their wickedness come before you. Do to them as you have done to me for all my transgressions. For my sighs are many, and my heart is faint.
+@18 “Yahweh_H3068 is_H3068 righteous_H6662, for_H3588 I_H3588 have_H3068 rebelled_H4784 against_H4784 his_H3605 commandment_H6310. Please_H4994 hear_H8085 all_H3605 you_H3588 peoples_H5971, and_H1980 see_H7200 my_H3605 sorrow_H4341. My_H3605 virgins_H1330 and_H1980 my_H3605 young_H0970 men_H0970 have_H3068 gone_H1980 into_H1980 captivity_H7628. 
+@19 “I_H3588 called_H7121 for_H3588 my_H1245 lovers_H0157, but_H3588 they_H1992 deceived_H7411 me_H5315. My_H1245 priests_H3548 and_H7725 my_H1245 elders_H2205 gave_H7121 up_H0853 the_H0853 spirit_H5315 in_H5315 the_H0853 city_H5892, while_H3588 they_H1992 sought_H1245 food_H0400 for_H3588 themselves_H5315 to_H7725 refresh their_H1992 souls_H5315. 
+@20 “Look_H7200, Yahweh_H3068; for_H3588 I_H3588 am_H3068 in_H3068 distress_H6862. My_H3068 heart_H3820 is_H3068 troubled. My_H3068 heart_H3820 turns_H2015 over_H3068 within_H7130 me_H7200, for_H3588 I_H3588 have_H3068 grievously rebelled_H4784. Abroad_H2351, the_H3588 sword_H2719 bereaves. At_H3068 home_H1004, it_H3588 is_H3068 like_H1004 death_H4194. 
+@21 “They_H3588 have_H1961 heard_H8085 that_H3588 I_H0589 sigh_H0584. There_H0369 is_H0369 no_H0369 one_H0369 to_H0935 comfort_H5162 me_H0935. All_H3605 my_H3605 enemies_H0341 have_H1961 heard_H8085 of_H3117 my_H3605 trouble_H7451. They_H3588 are_H3117 glad_H7797 that_H3588 you_H0859 have_H1961 done_H6213 it_H7121. You_H0859 will_H1961 bring_H0935 the_H3605 day_H3117 that_H3588 you_H0859 have_H1961 proclaimed_H7121, and_H0935 they_H3588 will_H1961 be_H1961 like_H3644 me_H0935. 
+@22 “Let all_H3605 their_H3605 wickedness_H7451 come_H0935 before_H6440 you_H0834. Do_H3605 to_H0935 them_H5921 as_H0834 you_H0834 have_H0834 done_H7451 to_H0935 me_H6440 for_H3588 all_H3605 my_H3605 transgressions_H6588. For_H3588 my_H3605 sighs are_H0834 many_H7227, and_H0935 my_H3605 heart_H3820 is_H0834 faint_H1742.
 ^a^[**1:5** “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.] ^b^[**1:14** The word translated “Lord” is “Adonai.”] 
 
 # 2 
 ## Description of the calamity from which the land and the people and especially Jerusalem are affected by the wrath of God
-@1 How has the Lord covered the daughter of Zion with a cloud in his anger! He has cast the beauty of Israel down from heaven to the earth, and hasn’t remembered his footstool in the day of his anger. 
-@2 The Lord has swallowed up all the dwellings of Jacob without pity. He has thrown down in his wrath the strongholds of the daughter of Judah. He has brought them down to the ground. He has profaned the kingdom and its princes. 
-@3 He has cut off all the horn of Israel in fierce anger. He has drawn back his right hand from before the enemy. He has burned up Jacob like a flaming fire, which devours all around. 
-@4 He has bent his bow like an enemy. He has stood with his right hand as an adversary. He has killed all that were pleasant to the eye. In the tent of the daughter of Zion, he has poured out his wrath like fire. 
-@5 The Lord has become as an enemy. He has swallowed up Israel. He has swallowed up all her palaces. He has destroyed his strongholds. He has multiplied mourning and lamentation in the daughter of Judah. 
-@6 He has violently taken away his tabernacle, as if it were a garden. He has destroyed his place of assembly. Yahweh has caused solemn assembly and Sabbath to be forgotten in Zion. In the indignation of his anger, he has despised the king and the priest. 
-@7 The Lord has cast off his altar. He has abhorred his sanctuary. He has given the walls of her palaces into the hand of the enemy. They have made a noise in Yahweh’s house, as in the day of a solemn assembly. 
-@8 Yahweh has purposed to destroy the wall of the daughter of Zion. He has stretched out the line. He has not withdrawn his hand from destroying; He has made the rampart and wall lament. They languish together. 
-@9 Her gates have sunk into the ground. He has destroyed and broken her bars. Her king and her princes are among the nations where the law is not. Yes, her prophets find no vision from Yahweh. 
-@10 The elders of the daughter of Zion sit on the ground. They keep silence. They have cast up dust on their heads. They have clothed themselves with sackcloth. The virgins of Jerusalem hang down their heads to the ground.
+@1 How_H0349 has_H3478 the_H0853 Lord_H0136 covered_H1323 the_H0853 daughter_H1323 of_H0776 Zion_H6726 with_H3117 a_H0776 cloud_H5743 in_H0776 his_H2142 anger_H0639! He_H3117 has_H3478 cast_H7993 the_H0853 beauty_H8597 of_H0776 Israel_H3478 down_H7993 from_H3478 heaven_H8064 to_H3478 the_H0853 earth_H0776, and_H3478 hasn’t_H3808 remembered_H2142 his_H2142 footstool in_H0776 the_H0853 day_H3117 of_H0776 his_H2142 anger_H0639. 
+@2 The_H3605 Lord_H0136 has_H0136 swallowed_H1104 up_H1104 all_H3605 the_H3605 dwellings of_H0776 Jacob_H3290 without_H3808 pity_H2550. He_H3808 has_H0136 thrown_H2040 down_H2040 in_H0776 his_H3605 wrath_H5678 the_H3605 strongholds_H4013 of_H0776 the_H3605 daughter_H1323 of_H0776 Judah_H3063. He_H3808 has_H0136 brought_H1104 them_H0853 down_H2040 to_H0776 the_H3605 ground_H0776. He_H3808 has_H0136 profaned_H2490 the_H3605 kingdom_H4467 and_H3063 its_H3605 princes_H8269. 
+@3 He_H6440 has_H3478 cut_H1438 off_H1438 all_H3605 the_H3605 horn_H7161 of_H6440 Israel_H3478 in_H3478 fierce_H2750 anger_H0639. He_H6440 has_H3478 drawn_H7725 back_H7725 his_H3605 right_H3225 hand_H3225 from_H7725 before_H6440 the_H3605 enemy_H0341. He_H6440 has_H3478 burned_H1197 up_H0398 Jacob_H3290 like_H3478 a_H3290 flaming_H3852 fire_H0784, which_H0784 devours_H0398 all_H3605 around_H5439. 
+@4 He_H3605 has_H0784 bent_H1869 his_H3605 bow_H7198 like_H1323 an enemy_H0341. He_H3605 has_H0784 stood_H5324 with_H3605 his_H3605 right_H3225 hand_H3225 as_H0168 an adversary. He_H3605 has_H0784 killed_H2026 all_H3605 that_H3605 were_H1323 pleasant_H4261 to_H5869 the_H3605 eye_H5869. In_H0784 the_H3605 tent_H0168 of_H1323 the_H3605 daughter_H1323 of_H1323 Zion_H6726, he_H3605 has_H0784 poured_H8210 out_H8210 his_H3605 wrath_H2534 like_H1323 fire_H0784. 
+@5 The_H3605 Lord_H0136 has_H1961 become_H1961 as_H1961 an_H1961 enemy_H0341. He_H3478 has_H1961 swallowed_H1104 up_H1104 Israel_H3478. He_H3478 has_H1961 swallowed_H1104 up_H1104 all_H3605 her_H3605 palaces_H0759. He_H3478 has_H1961 destroyed_H7843 his_H3605 strongholds_H4013. He_H3478 has_H1961 multiplied_H7235 mourning_H0592 and_H3063 lamentation in_H3478 the_H3605 daughter_H1323 of_H1323 Judah_H3063. 
+@6 He_H3068 has_H3068 violently_H2554 taken away his_H3068 tabernacle_H7900, as_H3068 if it_H3068 were_H4428 a_H3068 garden_H1588. He_H3068 has_H3068 destroyed_H7843 his_H3068 place_H4150 of_H4428 assembly_H4150. Yahweh_H3068 has_H3068 caused solemn assembly_H4150 and_H3068 Sabbath_H7676 to_H3068 be_H3068 forgotten_H7911 in_H3068 Zion_H6726. In_H3068 the_H3068 indignation_H2195 of_H4428 his_H3068 anger_H0639, he_H3068 has_H3068 despised_H5006 the_H3068 king_H4428 and_H3068 the_H3068 priest_H3548. 
+@7 The_H5414 Lord_H3068 has_H3068 cast_H5414 off_H5414 his_H5414 altar_H4196. He_H3117 has_H3068 abhorred his_H5414 sanctuary_H4720. He_H3117 has_H3068 given_H5414 the_H5414 walls_H2346 of_H1004 her_H5414 palaces_H0759 into_H3027 the_H5414 hand_H3027 of_H1004 the_H5414 enemy_H0341. They_H3117 have_H3068 made_H5414 a_H5414 noise_H6963 in_H3068 Yahweh’s_H3068 house_H1004, as_H3068 in_H3068 the_H5414 day_H3117 of_H1004 a_H5414 solemn assembly_H4150. 
+@8 Yahweh_H3068 has_H3068 purposed_H2803 to_H7725 destroy_H7843 the_H3068 wall_H2346 of_H3068 the_H3068 daughter_H1323 of_H3068 Zion_H6726. He_H3068 has_H3068 stretched_H5186 out_H5186 the_H3068 line. He_H3068 has_H3068 not_H3808 withdrawn his_H3068 hand_H3027 from_H7725 destroying_H7843; He_H3068 has_H3068 made_H7725 the_H3068 rampart_H2426 and_H3068 wall_H2346 lament_H0056. They_H3808 languish_H0535 together_H3162. 
+@9 Her_H1571 gates_H8179 have_H0369 sunk_H2883 into_H0776 the_H3068 ground_H0776. He_H3068 has_H3068 destroyed_H0006 and_H3068 broken_H7665 her_H1571 bars_H1280. Her_H1571 king_H4428 and_H3068 her_H1571 princes_H8269 are_H5030 among_H4672 the_H3068 nations_H1471 where_H3808 the_H3068 law_H8451 is_H0369 not_H3808. Yes_H1571, her_H1571 prophets_H5030 find_H4672 no_H3808 vision_H2377 from_H0776 Yahweh_H3068. 
+@10 The_H5921 elders_H2205 of_H0776 the_H5921 daughter_H1323 of_H0776 Zion_H6726 sit_H3427 on_H5921 the_H5921 ground_H0776. They_H5921 keep silence. They_H5921 have_H0776 cast_H5927 up_H5927 dust_H6083 on_H5921 their_H5921 heads_H7218. They_H5921 have_H0776 clothed_H2296 themselves_H5921 with_H5921 sackcloth_H8242. The_H5921 virgins_H1330 of_H0776 Jerusalem_H3389 hang down_H3381 their_H5921 heads_H7218 to_H3381 the_H5921 ground_H0776.
 
 ## Thoughts and feelings of the writer and the outside world; God kept his advice
-@11 My eyes fail with tears. My heart is troubled. My bile is poured on the earth, because of the destruction of the daughter of my people, because the young children and the infants swoon in the streets of the city. 
-@12 They ask their mothers, “Where is grain and wine?” when they swoon as the wounded in the streets of the city, when their soul is poured out into their mothers’ bosom. 
-@13 What shall I testify to you? What shall I liken to you, daughter of Jerusalem? What shall I compare to you, that I may comfort you, virgin daughter of Zion? For your breach is as big as the sea. Who can heal you? 
-@14 Your prophets have seen false and foolish visions for you. They have not uncovered your iniquity, to reverse your captivity, but have seen for you false revelations and causes of banishment. 
-@15 All that pass by clap their hands at you. They hiss and wag their head at the daughter of Jerusalem, saying, “Is this the city that men called ‘The perfection of beauty, the joy of the whole earth’?” 
-@16 All your enemies have opened their mouth wide against you. They hiss and gnash their teeth. They say, “We have swallowed her up. Certainly this is the day that we looked for. We have found it. We have seen it.” 
-@17 Yahweh has done that which he planned. He has fulfilled his word that he commanded in the days of old. He has thrown down, and has not pitied. He has caused the enemy to rejoice over you. He has exalted the horn of your adversaries.
+@11 My_H5921 eyes_H5869 fail_H3615 with_H5921 tears_H1832. My_H5921 heart_H4578 is_H0776 troubled. My_H5921 bile is_H0776 poured_H8210 on_H5921 the_H5921 earth_H0776, because_H5921 of_H0776 the_H5921 destruction_H7667 of_H0776 the_H5921 daughter_H1323 of_H0776 my_H5921 people_H5971, because_H5921 the_H5921 young children_H5768 and_H0776 the_H5921 infants_H3243 swoon in_H5921 the_H5921 streets_H7339 of_H0776 the_H5921 city_H7151. 
+@12 They_H0559 ask_H0559 their_H0413 mothers_H0517, “Where_H0346 is_H5315 grain_H1715 and_H3196 wine_H3196?” when_H0559 they_H0559 swoon as_H5315 the_H0559 wounded_H2491 in_H0413 the_H0559 streets_H7339 of_H5315 the_H0559 city_H5892, when_H0559 their_H0413 soul_H5315 is_H5315 poured_H8210 out_H8210 into_H0413 their_H0413 mothers’_H0517 bosom_H2436. 
+@13 What_H4100 shall_H4310 I_H3588 testify to_H3389 you_H3588? What_H4100 shall_H4310 I_H3588 liken_H1819 to_H3389 you_H3588, daughter_H1323 of_H1323 Jerusalem_H3389? What_H4100 shall_H4310 I_H3588 compare_H1819 to_H3389 you_H3588, that_H3588 I_H3588 may_H4310 comfort_H5162 you_H3588, virgin_H1330 daughter_H1323 of_H1323 Zion_H6726? For_H3588 your_H3588 breach is_H4310 as_H3588 big as_H3588 the_H3588 sea_H3220. Who_H4310 can_H4310 heal_H7495 you_H3588? 
+@14 Your_H5921 prophets_H5030 have_H5030 seen_H2372 false_H7723 and_H7725 foolish visions_H7723 for_H5921 you_H5921. They_H5921 have_H5030 not_H3808 uncovered_H1540 your_H5921 iniquity_H5771, to_H7725 reverse_H7725 your_H5921 captivity_H7622, but_H3808 have_H5030 seen_H2372 for_H5921 you_H5921 false_H7723 revelations and_H7725 causes of_H5921 banishment. 
+@15 All_H3605 that_H3605 pass_H5674 by_H5921 clap_H5606 their_H3605 hands_H3709 at_H5921 you_H3605. They_H5921 hiss_H8319 and_H0776 wag_H5128 their_H3605 head_H7218 at_H5921 the_H3605 daughter_H1323 of_H0776 Jerusalem_H3389, saying_H0559, “Is_H0776 this_H2063 the_H3605 city_H5892 that_H3605 men_H7218 called_H0559 ‘The_H3605 perfection_H3632 of_H0776 beauty_H3308, the_H3605 joy_H4885 of_H0776 the_H3605 whole_H3605 earth’?” 
+@16 All_H3605 your_H3605 enemies_H0341 have_H4672 opened_H6475 their_H3605 mouth_H6310 wide_H6475 against_H5921 you_H3605. They_H3117 hiss_H8319 and_H3117 gnash_H2786 their_H3605 teeth_H8127. They_H3117 say_H0559, “We_H3117 have_H4672 swallowed_H1104 her_H3605 up_H7200. Certainly_H0389 this_H2088 is_H2088 the_H3605 day_H3117 that_H3605 we_H3117 looked_H7200 for_H5921. We_H3117 have_H4672 found_H4672 it_H5921. We_H3117 have_H4672 seen_H7200 it_H5921.” 
+@17 Yahweh_H3068 has_H3068 done_H6213 that_H0834 which_H0834 he_H0834 planned_H2161. He_H0834 has_H3068 fulfilled his_H5921 word_H0565 that_H0834 he_H0834 commanded_H6680 in_H5921 the_H0834 days_H3117 of_H3068 old. He_H0834 has_H3068 thrown_H2040 down_H2040, and_H3068 has_H3068 not_H3808 pitied. He_H0834 has_H3068 caused_H0834 the_H0834 enemy_H0341 to_H5921 rejoice_H8055 over_H5921 you_H0834. He_H0834 has_H3068 exalted_H7311 the_H0834 horn_H7161 of_H3068 your_H3068 adversaries.
 
 ## Invitation to Zion to cry out to God for mercy; Zion's cry for help and a terrible question to God
-@18 Their heart cried to the Lord. O wall of the daughter of Zion, let tears run down like a river day and night. Give yourself no relief. Don’t let your eyes rest. 
-@19 Arise, cry out in the night, at the beginning of the watches! Pour out your heart like water before the face of the Lord. Lift up your hands toward him for the life of your young children, who faint for hunger at the head of every street. 
-@20 “Look, Yahweh, and see to whom you have done thus! Should the women eat their offspring, the children that they held and bounced on their knees? Should the priest and the prophet be killed in the sanctuary of the Lord? 
-@21 “The youth and the old man lie on the ground in the streets. My virgins and my young men have fallen by the sword. You have killed them in the day of your anger. You have slaughtered, and not pitied. 
-@22 “You have called, as in the day of a solemn assembly, my terrors on every side. There was no one that escaped or remained in the day of Yahweh’s anger. My enemy has consumed those whom I have cared for and brought up. 
+@18 Their_H5414 heart_H3820 cried_H6817 to_H0413 the_H0413 Lord_H0136. O_H0136 wall_H2346 of_H1323 the_H0413 daughter_H1323 of_H1323 Zion_H6726, let_H5414 tears_H1832 run_H3381 down_H3381 like_H3381 a_H5414 river_H5158 day_H3119 and_H5869 night_H3915. Give_H5414 yourself_H0413 no_H0408 relief_H6314. Don’t_H0408 let_H5414 your_H5414 eyes_H5869 rest. 
+@19 Arise_H6965, cry_H7442 out_H8210 in_H5921 the_H3605 night_H3915, at_H0413 the_H3605 beginning_H7218 of_H7218 the_H3605 watches_H0821! Pour_H8210 out_H8210 your_H3605 heart_H3820 like_H6440 water_H4325 before_H6440 the_H3605 face_H6440 of_H7218 the_H3605 Lord_H0136. Lift_H5375 up_H6965 your_H3605 hands_H3709 toward_H0413 him_H0413 for_H5921 the_H3605 life_H5315 of_H7218 your_H3605 young children_H5768, who_H3605 faint for_H5921 hunger_H7458 at_H0413 the_H3605 head_H7218 of_H7218 every_H3605 street_H2351. 
+@20 “Look_H7200, Yahweh_H3068, and_H3068 see_H7200 to_H3068 whom_H4310 you_H0518 have_H5030 done thus_H3541! Should_H0518 the_H3541 women_H0802 eat_H0398 their_H3068 offspring_H6529, the_H3541 children_H5768 that_H7200 they_H0518 held and_H3068 bounced on_H7200 their_H3068 knees? Should_H0518 the_H3541 priest_H3548 and_H3068 the_H3541 prophet_H5030 be_H3068 killed_H2026 in_H3068 the_H3541 sanctuary_H4720 of_H3068 the_H3541 Lord_H3068? 
+@21 “The_H3117 youth_H5288 and_H0776 the_H3117 old_H2205 man_H5288 lie_H7901 on_H3117 the_H3117 ground_H0776 in_H0776 the_H3117 streets_H2351. My_H3808 virgins_H1330 and_H0776 my_H3808 young_H5288 men_H5288 have_H0776 fallen_H5307 by_H3117 the_H3117 sword_H2719. You_H3117 have_H0776 killed_H2026 them_H5307 in_H0776 the_H3117 day_H3117 of_H0776 your_H3808 anger_H0639. You_H3117 have_H0776 slaughtered_H2873, and_H0776 not_H3808 pitied. 
+@22 “You_H0834 have_H1961 called_H7121, as_H0834 in_H3068 the_H0834 day_H3117 of_H3068 a_H1961 solemn assembly_H4150, my_H3068 terrors_H4032 on_H3117 every_H5439 side_H5439. There_H1961 was_H1961 no_H3808 one_H3808 that_H0834 escaped or_H3808 remained_H1961 in_H3068 the_H0834 day_H3117 of_H3068 Yahweh’s_H3068 anger_H0639. My_H3068 enemy_H0341 has_H3068 consumed_H3615 those_H0834 whom_H0834 I_H0834 have_H1961 cared for_H7121 and_H3068 brought_H1961 up_H1961. 
 
 # 3 
 ## Desperate complaint from a single national comrade for the difficult trials suffered; Ask for grace and hope for a new salvation
-@1 I am the man who has seen affliction by the rod of his wrath. 
-@2 He has led me and caused me to walk in darkness, and not in light. 
-@3 Surely he turns his hand against me again and again all day long. 
-@4 He has made my flesh and my skin old. He has broken my bones. 
-@5 He has built against me, and surrounded me with bitterness and hardship. 
-@6 He has made me dwell in dark places, as those who have been long dead. 
-@7 He has walled me about, so that I can’t go out. He has made my chain heavy. 
-@8 Yes, when I cry, and call for help, he shuts out my prayer. 
-@9 He has walled up my ways with cut stone. He has made my paths crooked. 
-@10 He is to me as a bear lying in wait, as a lion in hiding. 
-@11 He has turned away my path, and pulled me in pieces. He has made me desolate. 
-@12 He has bent his bow, and set me as a mark for the arrow. 
-@13 He has caused the shafts of his quiver to enter into my kidneys. 
-@14 I have become a derision to all my people, and their song all day long. 
-@15 He has filled me with bitterness. He has stuffed me with wormwood. 
-@16 He has also broken my teeth with gravel. He has covered me with ashes. 
-@17 You have removed my soul far away from peace. I forgot prosperity. 
-@18 I said, “My strength has perished, along with my expectation from Yahweh.” 
-@19 Remember my affliction and my misery, the wormwood and the bitterness. 
-@20 My soul still remembers them, and is bowed down within me. 
-@21 This I recall to my mind; therefore I have hope. 
-@22 It is because of Yahweh’s loving kindnesses that we are not consumed, because his mercies don’t fail. 
-@23 They are new every morning. Great is your faithfulness. 
-@24 “Yahweh is my portion,” says my soul. “Therefore I will hope in him.”
+@1 I_H0589 am_H0589 the_H7200 man_H1397 who_H1397 has seen_H7200 affliction_H7626 by_H1397 the_H7200 rod_H7626 of_H7626 his_H7200 wrath_H5678. 
+@2 He_H3808 has_H0216 led_H5090 me_H3808 and_H0853 caused me_H3808 to_H3808 walk in_H3808 darkness_H2822, and_H0853 not_H3808 in_H3808 light_H0216. 
+@3 Surely_H0389 he_H3117 turns_H7725 his_H3605 hand_H3027 against_H3027 me_H7725 again_H7725 and_H3027 again_H7725 all_H3605 day_H3117 long_H3117. 
+@4 He has_H1320 made my_H7665 flesh_H1320 and_H7665 my_H7665 skin_H5785 old_H1086. He has_H1320 broken_H7665 my_H7665 bones_H6106. 
+@5 He_H5921 has built_H1129 against_H5921 me_H5921, and_H1129 surrounded me_H5921 with_H5921 bitterness_H7219 and_H1129 hardship_H8513. 
+@6 He has made me_H4191 dwell_H3427 in_H3427 dark_H4285 places_H4285, as_H3427 those who_H3427 have been_H5769 long_H5769 dead_H4191. 
+@7 He_H3808 has_H3318 walled_H1443 me_H1157 about_H1157, so_H3808 that_H3808 I_H3808 can’t_H3808 go_H3318 out_H3318. He_H3808 has_H3318 made_H3513 my_H3318 chain_H5178 heavy_H3513. 
+@8 Yes_H3588, when_H3588 I_H3588 cry_H2199, and_H1571 call_H7768 for_H3588 help_H7768, he_H3588 shuts out_H2199 my_H3588 prayer_H8605. 
+@9 He has walled_H1443 up my_H1443 ways_H1870 with_H1870 cut_H1496 stone_H1496. He has made my_H1443 paths_H5410 crooked. 
+@10 He_H1931 is_H1931 to_H0693 me as_H0693 a_H1931 bear_H1677 lying_H0693 in_H0693 wait_H0693, as_H0693 a_H1931 lion_H0738 in_H0693 hiding_H4565. 
+@11 He_H7760 has turned_H5493 away_H5493 my_H7760 path_H1870, and_H1870 pulled me_H7760 in_H1870 pieces_H6582. He_H7760 has made_H7760 me_H7760 desolate_H8076. 
+@12 He has bent_H1869 his_H1869 bow_H7198, and_H7198 set_H5324 me_H5324 as a mark for the_H1869 arrow_H2671. 
+@13 He_H0935 has_H1121 caused the_H0935 shafts of_H1121 his_H0935 quiver_H0827 to_H0935 enter_H0935 into_H0935 my_H0935 kidneys_H3629. 
+@14 I_H3117 have_H1961 become_H1961 a_H1961 derision to_H1961 all_H3605 my_H3605 people_H5971, and_H3117 their_H3605 song_H5058 all_H3605 day_H3117 long_H3117. 
+@15 He has filled_H7646 me_H7301 with_H7646 bitterness_H4844. He has stuffed_H7646 me_H7301 with_H7646 wormwood_H3939. 
+@16 He has also broken_H1638 my_H1638 teeth_H8127 with_H8127 gravel_H2687. He has covered me with_H8127 ashes_H0665. 
+@17 You_H5315 have_H7965 removed my_H5315 soul_H5315 far away from_H5315 peace_H7965. I_H5315 forgot prosperity_H7965. 
+@18 I_H0559 said_H0559, “My_H3068 strength_H5331 has_H3068 perished_H0006, along with_H3068 my_H3068 expectation_H8431 from_H3068 Yahweh_H3068.” 
+@19 Remember_H2142 my_H2142 affliction and_H2142 my_H2142 misery, the_H2142 wormwood_H3939 and_H2142 the_H2142 bitterness_H7219. 
+@20 My_H5921 soul_H5315 still remembers_H2142 them_H5921, and_H5315 is_H5315 bowed_H7743 down_H7743 within_H5921 me_H5315. 
+@21 This_H2063 I_H3651 recall_H7725 to_H0413 my_H5921 mind_H3820; therefore_H3651 I_H3651 have_H3176 hope_H3176. 
+@22 It_H3588 is_H3068 because_H3588 of_H3068 Yahweh’s_H3068 loving kindnesses that_H3588 we_H3588 are_H3068 not_H3808 consumed_H3615, because_H3588 his_H3068 mercies_H7356 don’t_H3808 fail_H3615. 
+@23 They_H1242 are new_H2319 every_H1242 morning_H1242. Great_H7227 is your faithfulness_H0530. 
+@24 “Yahweh_H3068 is_H3068 my_H3068 portion_H2506,” says_H0559 my_H3068 soul_H5315. “Therefore_H3651 I_H3651 will_H3068 hope_H3176 in_H5921 him_H5921.”
 
 ## Reference to the goodness and mercy of God, to the sin and destruction of the people and to the writer's participation in the destiny of his people
-@25 Yahweh is good to those who wait for him, to the soul who seeks him. 
-@26 It is good that a man should hope and quietly wait for the salvation of Yahweh. 
-@27 It is good for a man that he bear the yoke in his youth. 
-@28 Let him sit alone and keep silence, because he has laid it on him. 
-@29 Let him put his mouth in the dust, if it is so that there may be hope. 
-@30 Let him give his cheek to him who strikes him. Let him be filled full of reproach. 
-@31 For the Lord will not cast off forever. 
-@32 For though he causes grief, yet he will have compassion according to the multitude of his loving kindnesses. 
-@33 For he does not afflict willingly, nor grieve the children of men. 
-@34 To crush under foot all the prisoners of the earth, 
-@35 to turn away the right of a man before the face of the Most High, 
-@36 to subvert a man in his cause, the Lord doesn’t approve. 
-@37 Who is he who says, and it comes to pass, when the Lord doesn’t command it? 
-@38 Doesn’t evil and good come out of the mouth of the Most High? 
-@39 Why should a living man complain, a man for the punishment of his sins? 
-@40 Let us search and try our ways, and turn again to Yahweh. 
-@41 Let’s lift up our heart with our hands to God^a^ in the heavens. 
-@42 “We have transgressed and have rebelled. You have not pardoned. 
-@43 “You have covered us with anger and pursued us. You have killed. You have not pitied. 
-@44 You have covered yourself with a cloud, so that no prayer can pass through. 
-@45 You have made us an off-scouring and refuse in the middle of the peoples. 
-@46 “All our enemies have opened their mouth wide against us. 
-@47 Terror and the pit have come on us, devastation and destruction.” 
-@48 My eye runs down with streams of water, for the destruction of the daughter of my people. 
-@49 My eye pours down and doesn’t cease, without any intermission, 
-@50 until Yahweh looks down, and sees from heaven. 
-@51 My eye affects my soul, because of all the daughters of my city.
+@25 Yahweh_H3068 is_H3068 good_H2896 to_H3068 those_H5315 who_H3068 wait_H6960 for_H3068 him_H5315, to_H3068 the_H3068 soul_H5315 who_H3068 seeks_H1875 him_H5315. 
+@26 It_H3068 is_H3068 good_H2896 that_H3068 a_H3068 man should_H3068 hope and_H3068 quietly wait for_H3068 the_H3068 salvation_H8668 of_H3068 Yahweh_H3068. 
+@27 It_H3588 is_H2896 good_H2896 for_H3588 a_H3588 man_H1397 that_H3588 he_H3588 bear_H5375 the_H3588 yoke_H5923 in_H3588 his_H5375 youth_H5271. 
+@28 Let him_H5921 sit_H3427 alone_H0910 and_H3427 keep silence, because_H3588 he_H3588 has_H3588 laid_H5190 it_H5921 on_H5921 him_H5921. 
+@29 Let_H5414 him_H5414 put_H5414 his_H5414 mouth_H6310 in_H5414 the_H5414 dust_H6083, if_H0194 it_H5414 is_H3426 so_H5414 that_H5414 there_H3426 may_H5414 be_H5414 hope_H8615. 
+@30 Let_H5414 him_H5414 give_H5414 his_H5414 cheek_H3895 to_H5414 him_H5414 who_H5221 strikes_H5221 him_H5414. Let_H5414 him_H5414 be_H5414 filled_H7646 full_H7646 of_H2781 reproach_H2781. 
+@31 For_H3588 the_H3588 Lord_H0136 will_H3808 not_H3808 cast off forever_H5769. 
+@32 For_H3588 though_H3588 he_H3588 causes_H3013 grief_H3013, yet_H3588 he_H3588 will_H0518 have_H7355 compassion_H7355 according to_H0518 the_H3588 multitude_H7230 of_H7230 his_H0518 loving kindnesses. 
+@33 For_H3588 he_H3588 does_H3808 not_H3808 afflict_H6031 willingly, nor_H3808 grieve_H3013 the_H3588 children_H1121 of_H1121 men_H0376. 
+@34 To_H0776 crush_H1792 under_H8478 foot_H7272 all_H3605 the_H3605 prisoners_H0615 of_H0776 the_H3605 earth_H0776, 
+@35 to_H6440 turn_H5186 away_H5186 the_H6440 right_H4941 of_H6440 a_H5186 man_H1397 before_H6440 the_H6440 face_H6440 of_H6440 the_H6440 Most High_H5186, 
+@36 to_H7200 subvert_H5791 a_H7200 man_H0120 in_H3808 his_H7200 cause_H7379, the_H7200 Lord_H0136 doesn’t_H3808 approve_H7200. 
+@37 Who_H4310 is_H2088 he_H3808 who_H4310 says_H0559, and_H2088 it_H1961 comes_H1961 to_H0559 pass_H1961, when_H1961 the_H0559 Lord_H0136 doesn’t_H3808 command_H6680 it_H1961? 
+@38 Doesn’t_H3808 evil_H7451 and_H6310 good_H2896 come_H3318 out_H3318 of_H6310 the_H3318 mouth_H6310 of_H6310 the_H3318 Most High? 
+@39 Why_H4100 should_H4100 a_H5921 living_H2416 man_H0120 complain_H0596, a_H5921 man_H0120 for_H5921 the_H5921 punishment of_H5921 his_H5921 sins_H2399? 
+@40 Let us_H7725 search_H2713 and_H3068 try our_H3068 ways_H1870, and_H3068 turn_H7725 again_H7725 to_H5704 Yahweh_H3068. 
+@41 Let’s lift_H5375 up_H5375 our_H0413 heart_H3824 with_H0413 our_H0413 hands_H3709 to_H0413 God_H0410^a^ in_H0413 the_H0413 heavens_H8064. 
+@42 “We_H5168 have_H0859 transgressed_H6586 and_H6586 have_H0859 rebelled_H4784. You_H0859 have_H0859 not_H3808 pardoned_H5545. 
+@43 “You_H3808 have_H2550 covered us with_H0639 anger_H0639 and_H0639 pursued_H7291 us. You_H3808 have_H2550 killed_H2026. You_H3808 have_H2550 not_H3808 pitied. 
+@44 You have covered yourself with_H5526 a cloud_H6051, so_H5674 that_H5674 no prayer_H8605 can_H8605 pass_H5674 through_H5674. 
+@45 You_H7760 have made_H7760 us_H7760 an_H7760 off-scouring and_H7130 refuse_H3973 in_H7130 the_H7760 middle_H7130 of_H7130 the_H7760 peoples_H5971. 
+@46 “All_H3605 our_H3605 enemies_H0341 have_H3605 opened_H6475 their_H3605 mouth_H6310 wide_H6475 against_H5921 us_H5921. 
+@47 Terror_H6343 and_H1961 the_H1961 pit_H6354 have_H1961 come_H1961 on_H1961 us, devastation_H7612 and_H1961 destruction_H7667.” 
+@48 My_H5921 eye_H5869 runs down_H3381 with_H5921 streams_H6388 of_H1323 water_H4325, for_H5921 the_H5921 destruction_H7667 of_H1323 the_H5921 daughter_H1323 of_H1323 my_H5921 people_H5971. 
+@49 My_H3808 eye_H5869 pours_H5064 down_H5064 and_H5869 doesn’t_H3808 cease_H0369, without_H3808 any_H0369 intermission, 
+@50 until_H5704 Yahweh_H3068 looks_H7200 down_H8259, and_H3068 sees_H7200 from_H5704 heaven_H8064. 
+@51 My_H3605 eye_H5869 affects my_H3605 soul_H5315, because_H3605 of_H1323 all_H3605 the_H3605 daughters_H1323 of_H1323 my_H3605 city_H5892.
 
 ## New complaint from the unhappy national comrade; Ask for ransom and revenge from the enemy
-@52 They have chased me relentlessly like a bird, those who are my enemies without cause. 
-@53 They have cut off my life in the dungeon, and have cast a stone on me. 
-@54 Waters flowed over my head. I said, “I am cut off.” 
-@55 I called on your name, Yahweh, out of the lowest dungeon. 
-@56 You heard my voice: “Don’t hide your ear from my sighing, and my cry.” 
-@57 You came near in the day that I called on you. You said, “Don’t be afraid.” 
-@58 Lord, you have pleaded the causes of my soul. You have redeemed my life. 
-@59 Yahweh, you have seen my wrong. Judge my cause. 
-@60 You have seen all their vengeance and all their plans against me. 
-@61 You have heard their reproach, Yahweh, and all their plans against me, 
-@62 the lips of those that rose up against me, and their plots against me all day long. 
-@63 You see their sitting down and their rising up. I am their song. 
-@64 You will pay them back, Yahweh, according to the work of their hands. 
-@65 You will give them hardness of heart, your curse to them. 
-@66 You will pursue them in anger, and destroy them from under the heavens of Yahweh.
+@52 They_H2600 have chased me_H2600 relentlessly like a_H2600 bird_H6833, those who are_H2600 my enemies_H0341 without_H2600 cause_H2600. 
+@53 They have cut_H6789 off_H6789 my_H3034 life_H2416 in_H0068 the_H3034 dungeon, and_H0068 have cast a_H3034 stone_H0068 on_H0068 me_H6789. 
+@54 Waters_H4325 flowed_H6687 over_H5921 my_H5921 head_H7218. I_H0559 said_H0559, “I_H0559 am cut_H1504 off_H5921.” 
+@55 I_H3068 called_H7121 on_H3068 your_H3068 name_H8034, Yahweh_H3068, out of_H3068 the_H3068 lowest_H8482 dungeon. 
+@56 You_H6963 heard_H8085 my_H8085 voice_H6963: “Don’t_H0408 hide_H5956 your_H8085 ear_H0241 from_H8085 my_H8085 sighing, and_H6963 my_H8085 cry_H7775.” 
+@57 You_H3117 came_H7126 near_H7126 in_H3117 the_H0559 day_H3117 that_H3117 I_H3117 called_H7121 on_H3117 you_H3117. You_H3117 said_H0559, “Don’t_H0408 be_H0408 afraid_H3372.” 
+@58 Lord_H0136, you_H5315 have_H7378 pleaded_H7378 the_H7378 causes of_H5315 my_H7378 soul_H5315. You_H5315 have_H7378 redeemed_H1350 my_H7378 life_H5315. 
+@59 Yahweh_H3068, you_H7200 have_H7200 seen_H7200 my_H3068 wrong. Judge_H8199 my_H3068 cause_H4941. 
+@60 You_H3605 have_H7200 seen_H7200 all_H3605 their_H3605 vengeance_H5360 and_H7200 all_H3605 their_H3605 plans_H4284 against_H3605 me_H7200. 
+@61 You_H3605 have_H3068 heard_H8085 their_H3605 reproach_H2781, Yahweh_H3068, and_H3068 all_H3605 their_H3605 plans_H4284 against_H5921 me_H5921, 
+@62 the_H3605 lips_H8193 of_H3117 those_H3605 that_H3605 rose_H6965 up_H6965 against_H5921 me_H5921, and_H6965 their_H3605 plots against_H5921 me_H5921 all_H3605 day_H3117 long_H3117. 
+@63 You_H3427 see_H5027 their_H3427 sitting_H3427 down_H3427 and_H3427 their_H3427 rising_H7012 up_H3427. I_H0589 am_H0589 their_H3427 song_H4485. 
+@64 You_H7725 will_H3068 pay_H1576 them_H7725 back_H7725, Yahweh_H3068, according_H3027 to_H7725 the_H3068 work_H4639 of_H3068 their_H3068 hands_H3027. 
+@65 You_H5414 will_H5414 give_H5414 them_H5414 hardness_H4044 of_H3820 heart_H3820, your_H5414 curse_H8381 to_H5414 them_H5414. 
+@66 You_H7291 will_H3068 pursue_H7291 them_H7291 in_H3068 anger_H0639, and_H3068 destroy_H8045 them_H7291 from_H8478 under_H8478 the_H3068 heavens_H8064 of_H3068 Yahweh_H3068.
 ^a^[**3:41** The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).] 
 
 # 4 
 ## Description of the terrible fate of the entire population of Jerusalem, especially the children
-@1 How the gold has become dim! The most pure gold has changed! The stones of the sanctuary are poured out at the head of every street. 
-@2 The precious sons of Zion, comparable to fine gold, how they are esteemed as earthen pitchers, the work of the hands of the potter! 
-@3 Even the jackals offer their breast. They nurse their young ones. But the daughter of my people has become cruel, like the ostriches in the wilderness. 
-@4 The tongue of the nursing child clings to the roof of his mouth for thirst. The young children ask for bread, and no one breaks it for them. 
-@5 Those who ate delicacies are desolate in the streets. Those who were brought up in purple embrace dunghills. 
-@6 For the iniquity of the daughter of my people is greater than the sin of Sodom, which was overthrown as in a moment. No hands were laid on her. 
-@7 Her nobles were purer than snow. They were whiter than milk. They were more ruddy in body than rubies. Their polishing was like sapphire. 
-@8 Their appearance is blacker than a coal. They are not known in the streets. Their skin clings to their bones. It is withered. It has become like wood. 
-@9 Those who are killed with the sword are better than those who are killed with hunger; for these pine away, stricken through, for lack of the fruits of the field. 
-@10 The hands of the pitiful women have boiled their own children. They were their food in the destruction of the daughter of my people. 
-@11 Yahweh has accomplished his wrath. He has poured out his fierce anger. He has kindled a fire in Zion, which has devoured its foundations. 
-@12 The kings of the earth didn’t believe, neither did all the inhabitants of the world, that the adversary and the enemy would enter into the gates of Jerusalem.
+@1 How_H0349 the_H3605 gold_H2091 has_H3605 become_H6004 dim! The_H3605 most_H6944 pure_H2896 gold_H2091 has_H3605 changed_H8132! The_H3605 stones_H0068 of_H7218 the_H3605 sanctuary_H6944 are_H0068 poured_H8210 out_H8210 at_H7218 the_H3605 head_H7218 of_H7218 every_H3605 street_H2351. 
+@2 The_H3027 precious_H3368 sons_H1121 of_H1121 Zion_H6726, comparable to_H3027 fine_H6337 gold_H6337, how_H0349 they_H3027 are_H3027 esteemed_H2803 as_H2803 earthen_H2789 pitchers, the_H3027 work_H4639 of_H1121 the_H3027 hands_H3027 of_H1121 the_H3027 potter_H3335! 
+@3 Even_H1571 the_H3588 jackals offer their_H3588 breast_H7699. They_H3588 nurse_H3243 their_H3588 young_H1482 ones. But_H3588 the_H3588 daughter_H1323 of_H1323 my_H3588 people_H5971 has_H1571 become cruel_H0393, like_H1323 the_H3588 ostriches_H3283 in_H1571 the_H3588 wilderness_H4057. 
+@4 The_H0413 tongue_H3956 of_H3899 the_H0413 nursing_H3243 child_H5768 clings_H1692 to_H0413 the_H0413 roof_H2441 of_H3899 his_H0413 mouth_H2441 for_H0413 thirst_H6772. The_H0413 young children_H5768 ask_H7592 for_H0413 bread_H3899, and_H3899 no_H0369 one_H0369 breaks it_H6566 for_H0413 them_H0413. 
+@5 Those_H5921 who ate_H0398 delicacies_H4574 are_H8074 desolate_H8074 in_H5921 the_H5921 streets_H2351. Those_H5921 who were_H5921 brought up_H5921 in_H5921 purple_H8438 embrace_H2263 dunghills. 
+@6 For_H3027 the_H3027 iniquity_H5771 of_H1323 the_H3027 daughter_H1323 of_H1323 my_H3027 people_H5971 is_H3027 greater_H1431 than_H3808 the_H3027 sin_H2403 of_H1323 Sodom_H5467, which was_H3027 overthrown_H2015 as_H3644 in_H3808 a_H3644 moment_H7281. No_H3808 hands_H3027 were_H1323 laid on_H3027 her_H1323. 
+@7 Her nobles were_H5139 purer_H2141 than snow_H7950. They were_H5139 whiter_H6705 than milk_H2461. They were_H5139 more ruddy_H0119 in_H7950 body_H6106 than rubies. Their polishing_H1508 was like_H7950 sapphire_H5601. 
+@8 Their_H5921 appearance_H8389 is_H1961 blacker_H2821 than_H3808 a_H1961 coal. They_H5921 are_H6106 not_H3808 known_H3808 in_H5921 the_H5921 streets_H2351. Their_H5921 skin_H5785 clings to_H1961 their_H5921 bones_H6106. It_H5921 is_H1961 withered_H3001. It_H5921 has_H1961 become_H1961 like_H1961 wood_H6086. 
+@9 Those_H1992 who are_H1992 killed_H2491 with_H2100 the_H1961 sword_H2719 are_H1992 better_H2896 than_H2896 those_H1992 who are_H1992 killed_H2491 with_H2100 hunger_H7458; for_H1961 these_H1992 pine_H2100 away_H2100, stricken_H1856 through_H1856, for_H1961 lack of_H7704 the_H1961 fruits_H8570 of_H7704 the_H1961 field_H7704. 
+@10 The_H1961 hands_H3027 of_H1323 the_H1961 pitiful women_H0802 have_H1961 boiled_H1310 their_H1961 own_H1961 children_H3206. They_H5971 were_H1961 their_H1961 food_H1262 in_H0802 the_H1961 destruction_H7667 of_H1323 the_H1961 daughter_H1323 of_H1323 my_H1961 people_H5971. 
+@11 Yahweh_H3068 has_H3068 accomplished_H3615 his_H3068 wrath_H2534. He_H3068 has_H3068 poured_H8210 out_H8210 his_H3068 fierce_H2740 anger_H0639. He_H3068 has_H3068 kindled_H3341 a_H3068 fire_H0784 in_H3068 Zion_H6726, which_H0784 has_H3068 devoured_H0398 its_H0853 foundations_H3247. 
+@12 The_H3605 kings_H4428 of_H4428 the_H3605 earth_H0776 didn’t_H3808 believe_H0539, neither_H3808 did_H3808 all_H3605 the_H3605 inhabitants_H3427 of_H4428 the_H3605 world_H8398, that_H3588 the_H3605 adversary and_H0935 the_H3605 enemy_H0341 would_H3605 enter_H0935 into_H0935 the_H3605 gates_H8179 of_H4428 Jerusalem_H3389.
 
 ## The guilt and fate of priests and prophets; the fate of the king and his followers; Desire for revenge against Edom
-@13 It is because of the sins of her prophets and the iniquities of her priests, that have shed the blood of the just in the middle of her. 
-@14 They wander as blind men in the streets. They are polluted with blood, So that men can’t touch their garments. 
-@15 “Go away!” they cried to them. “Unclean! Go away! Go away! Don’t touch! When they fled away and wandered, men said among the nations, “They can’t live here any more.” 
-@16 Yahweh’s anger has scattered them. He will not pay attention to them any more. They didn’t respect the persons of the priests. They didn’t favor the elders. 
-@17 Our eyes still fail, looking in vain for our help. In our watching we have watched for a nation that could not save. 
-@18 They hunt our steps, so that we can’t go in our streets. Our end is near. Our days are fulfilled, for our end has come. 
-@19 Our pursuers were swifter than the eagles of the sky. They chased us on the mountains. They set an ambush for us in the wilderness. 
-@20 The breath of our nostrils, the anointed of Yahweh, was taken in their pits; of whom we said, under his shadow we will live among the nations. 
-@21 Rejoice and be glad, daughter of Edom, who dwells in the land of Uz. The cup will pass through to you also. You will be drunken, and will make yourself naked. 
-@22 The punishment of your iniquity is accomplished, daughter of Zion. He will no more carry you away into captivity. He will visit your iniquity, daughter of Edom. He will uncover your sins. 
+@13 It_H7130 is_H6662 because_H5771 of_H1818 the_H7130 sins_H2403 of_H1818 her_H7130 prophets_H5030 and_H3548 the_H7130 iniquities_H5771 of_H1818 her_H7130 priests_H3548, that_H6662 have_H5030 shed_H8210 the_H7130 blood_H1818 of_H1818 the_H7130 just_H6662 in_H7130 the_H7130 middle_H7130 of_H1818 her_H7130. 
+@14 They_H3808 wander_H5128 as_H5060 blind_H5787 men_H5787 in_H3808 the_H5060 streets_H2351. They_H3808 are_H5787 polluted with_H1351 blood_H1818, So_H3808 that_H3808 men_H5787 can’t_H3808 touch_H5060 their_H5060 garments_H3830. 
+@15 “Go_H5493 away_H5493!” they_H3588 cried_H7121 to_H0559 them_H7121. “Unclean_H2931! Go_H5493 away_H5493! Go_H5493 away_H5493! Don’t_H0408 touch_H5060! When_H3588 they_H3588 fled away_H5493 and_H1471 wandered_H5128, men_H7121 said_H0559 among_H3808 the_H0559 nations_H1471, “They_H3588 can’t_H3808 live_H1481 here any_H1571 more_H3254.” 
+@16 Yahweh’s_H3068 anger_H5375 has_H3068 scattered_H2505 them_H6440. He_H3068 will_H3068 not_H3808 pay_H5027 attention_H6440 to_H3068 them_H6440 any_H6440 more_H3254. They_H3808 didn’t_H3808 respect_H6440 the_H6440 persons of_H3068 the_H6440 priests_H3548. They_H3808 didn’t_H3808 favor_H6440 the_H6440 elders_H2205. 
+@17 Our_H0413 eyes_H5869 still_H1471 fail_H3615, looking in_H0413 vain_H1892 for_H0413 our_H0413 help_H5833. In_H0413 our_H0413 watching_H6822 we have_H5869 watched_H6822 for_H0413 a_H3808 nation_H1471 that_H3808 could not_H3808 save_H3467. 
+@18 They_H3588 hunt_H6679 our_H3588 steps_H6806, so_H0935 that_H3588 we_H3588 can’t go_H0935 in_H0935 our_H3588 streets_H7339. Our_H3588 end_H7093 is_H3117 near_H7126. Our_H3588 days_H3117 are_H3117 fulfilled_H4390, for_H3588 our_H3588 end_H7093 has_H3117 come_H0935. 
+@19 Our_H5921 pursuers_H7291 were_H1961 swifter_H7031 than_H5921 the_H5921 eagles_H5404 of_H2022 the_H5921 sky_H8064. They_H5921 chased_H7291 us_H5921 on_H5921 the_H5921 mountains_H2022. They_H5921 set_H0693 an_H1961 ambush_H0693 for_H5921 us_H5921 in_H5921 the_H5921 wilderness_H4057. 
+@20 The_H0559 breath_H7307 of_H3068 our_H3068 nostrils_H0639, the_H0559 anointed_H4899 of_H3068 Yahweh_H3068, was_H0834 taken_H3920 in_H3068 their_H3068 pits_H7825; of_H3068 whom_H0834 we_H0834 said_H0559, under his_H3068 shadow_H6738 we_H0834 will_H3068 live_H2421 among the_H0559 nations_H1471. 
+@21 Rejoice_H7797 and_H0776 be_H1571 glad_H7797, daughter_H1323 of_H0776 Edom_H0123, who_H3427 dwells_H3427 in_H3427 the_H5921 land_H0776 of_H0776 Uz_H5780. The_H5921 cup_H3563 will_H0776 pass_H5674 through_H5674 to_H5921 you_H5921 also_H1571. You_H5921 will_H0776 be_H1571 drunken, and_H0776 will_H0776 make_H7937 yourself_H5921 naked_H6168. 
+@22 The_H5921 punishment_H5771 of_H1323 your_H5921 iniquity_H5771 is_H5771 accomplished, daughter_H1323 of_H1323 Zion_H6726. He_H3808 will_H3808 no_H3808 more_H3254 carry_H1540 you_H5921 away_H1540 into_H1540 captivity_H1540. He_H3808 will_H3808 visit_H6485 your_H5921 iniquity_H5771, daughter_H1323 of_H1323 Edom_H0123. He_H3808 will_H3808 uncover_H1540 your_H5921 sins_H2403. 
 
 # 5 
 ## Prayer of the oppressed community for mercy and restoration
-@1 Remember, Yahweh, what has come on us. Look, and see our reproach. 
-@2 Our inheritance has been turned over to strangers, our houses to aliens. 
-@3 We are orphans and fatherless. Our mothers are as widows. 
-@4 We must pay for water to drink. Our wood is sold to us. 
-@5 Our pursuers are on our necks. We are weary, and have no rest. 
-@6 We have given our hands to the Egyptians, and to the Assyrians, to be satisfied with bread. 
-@7 Our fathers sinned, and are no more. We have borne their iniquities. 
-@8 Servants rule over us. There is no one to deliver us out of their hand. 
-@9 We get our bread at the peril of our lives, because of the sword in the wilderness. 
-@10 Our skin is black like an oven, because of the burning heat of famine. 
-@11 They ravished the women in Zion, the virgins in the cities of Judah. 
-@12 Princes were hanged up by their hands. The faces of elders were not honored. 
-@13 The young men carry millstones. The children stumbled under loads of wood. 
-@14 The elders have ceased from the gate, and the young men from their music. 
-@15 The joy of our heart has ceased. Our dance is turned into mourning. 
-@16 The crown has fallen from our head. Woe to us, for we have sinned! 
-@17 For this our heart is faint. For these things our eyes are dim: 
-@18 for the mountain of Zion, which is desolate. The foxes walk on it.
+@1 Remember_H2142, Yahweh_H3068, what_H4100 has_H3068 come_H1961 on_H7200 us_H7200. Look_H7200, and_H3068 see_H7200 our_H3068 reproach_H2781. 
+@2 Our inheritance_H5159 has_H5159 been turned_H2015 over_H2015 to_H1004 strangers_H2114, our houses_H1004 to_H1004 aliens_H5237. 
+@3 We are_H0369 orphans_H3490 and_H0001 fatherless_H3490. Our_H1961 mothers_H0517 are_H0369 as_H1961 widows_H0490. 
+@4 We must pay_H3701 for_H4325 water_H4325 to_H0935 drink_H8354. Our_H0935 wood_H6086 is_H3701 sold to_H0935 us_H0935. 
+@5 Our_H5921 pursuers_H7291 are_H3808 on_H5921 our_H5921 necks_H6677. We are_H3808 weary_H3021, and_H6677 have_H3808 no_H3808 rest_H5117. 
+@6 We have_H7646 given_H5414 our_H5414 hands_H3027 to_H5414 the_H5414 Egyptians_H4713, and_H3027 to_H5414 the_H5414 Assyrians, to_H5414 be_H3027 satisfied_H7646 with_H7646 bread_H3899. 
+@7 Our_H0001 fathers_H0001 sinned_H2398, and_H0001 are_H0369 no_H0369 more_H0369. We_H0587 have_H0369 borne_H5445 their_H0369 iniquities_H5771. 
+@8 Servants_H5650 rule_H4910 over_H3027 us_H3027. There_H0369 is_H0369 no_H0369 one_H0369 to_H0369 deliver_H6561 us_H3027 out_H3027 of_H3027 their_H0369 hand_H3027. 
+@9 We_H5315 get_H0935 our_H0935 bread_H3899 at_H0935 the_H6440 peril of_H6440 our_H0935 lives_H5315, because_H6440 of_H6440 the_H6440 sword_H2719 in_H0935 the_H6440 wilderness_H4057. 
+@10 Our_H6440 skin_H5785 is_H6440 black like_H6440 an_H6440 oven_H8574, because_H6440 of_H6440 the_H6440 burning_H2152 heat_H2152 of_H6440 famine_H7458. 
+@11 They ravished the_H5892 women_H0802 in_H0802 Zion_H6726, the_H5892 virgins_H1330 in_H0802 the_H5892 cities_H5892 of_H0802 Judah_H3063. 
+@12 Princes_H8269 were_H3027 hanged_H8518 up by_H3027 their_H6440 hands_H3027. The_H6440 faces_H6440 of_H3027 elders_H2205 were_H3027 not_H3808 honored. 
+@13 The_H5375 young_H5288 men_H5288 carry_H5375 millstones. The_H5375 children_H5288 stumbled_H3782 under_H3782 loads of_H6086 wood_H6086. 
+@14 The_H8179 elders_H2205 have_H8179 ceased from_H8179 the_H8179 gate_H8179, and_H2205 the_H8179 young_H0970 men_H0970 from_H8179 their_H0970 music_H5058. 
+@15 The_H2015 joy_H4885 of_H3820 our heart_H3820 has_H3820 ceased. Our dance_H4234 is_H3820 turned_H2015 into_H2015 mourning_H0060. 
+@16 The_H3588 crown_H5850 has_H3588 fallen_H5307 from_H5307 our_H3588 head_H7218. Woe_H0188 to_H4994 us_H4994, for_H3588 we_H3588 have_H3588 sinned_H2398! 
+@17 For_H5921 this_H2088 our_H5921 heart_H3820 is_H2088 faint_H1739. For_H5921 these_H0428 things_H0428 our_H5921 eyes_H5869 are_H0428 dim_H2821: 
+@18 for_H5921 the_H5921 mountain_H2022 of_H2022 Zion_H6726, which_H2022 is_H6726 desolate_H8074. The_H5921 foxes_H7776 walk_H1980 on_H5921 it_H5921.
 
 ## Ask for new grace
-@19 You, Yahweh, remain forever. Your throne is from generation to generation. 
-@20 Why do you forget us forever, and forsake us for so long a time? 
-@21 Turn us to yourself, Yahweh, and we will be turned. Renew our days as of old. 
-@22 But you have utterly rejected us. You are very angry against us. 
+@19 You_H0859, Yahweh_H3068, remain_H3427 forever_H5769. Your_H3068 throne_H3678 is_H3068 from_H3068 generation_H1755 to_H3068 generation_H1755. 
+@20 Why_H4100 do_H4100 you_H3117 forget_H7911 us_H3117 forever_H5331, and_H3117 forsake_H5800 us_H3117 for_H3117 so_H5800 long_H0753 a_H3117 time_H3117? 
+@21 Turn_H7725 us_H0413 to_H0413 yourself_H0413, Yahweh_H3068, and_H3068 we_H3117 will_H3068 be_H3068 turned_H7725. Renew_H2318 our_H3068 days_H3117 as_H3068 of_H3068 old. 
+@22 But_H3588 you_H3588 have_H0518 utterly_H3966 rejected_H3988 us_H5921. You_H3588 are very_H3966 angry_H7107 against_H5921 us_H5921. 

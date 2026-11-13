@@ -1,62 +1,62 @@
 # 1 
 ## Call to mourn the devastation caused by locusts
-@1 Yahweh’s^a^ word that came to Joel, the son of Pethuel. 
-@2 Hear this, you elders, and listen, all you inhabitants of the land! Has this ever happened in your days, or in the days of your fathers? 
-@3 Tell your children about it, and have your children tell their children, and their children, another generation. 
-@4 What the swarming locust has left, the great locust has eaten. What the great locust has left, the grasshopper has eaten. What the grasshopper has left, the caterpillar has eaten. 
-@5 Wake up, you drunkards, and weep! Wail, all you drinkers of wine, because of the sweet wine, for it is cut off from your mouth. 
-@6 For a nation has come up on my land, strong, and without number. His teeth are the teeth of a lion, and he has the fangs of a lioness. 
-@7 He has laid my vine waste, and stripped my fig tree. He has stripped its bark, and thrown it away. Its branches are made white. 
-@8 Mourn like a virgin dressed in sackcloth for the husband of her youth! 
-@9 The meal offering and the drink offering are cut off from Yahweh’s house. The priests, Yahweh’s ministers, mourn. 
-@10 The field is laid waste. The land mourns, for the grain is destroyed, The new wine has dried up, and the oil languishes. 
-@11 Be confounded, you farmers! Wail, you vineyard keepers, for the wheat and for the barley; for the harvest of the field has perished. 
-@12 The vine has dried up, and the fig tree withered— the pomegranate tree, the palm tree also, and the apple tree, even all of the trees of the field are withered; for joy has withered away from the sons of men.
+@1 Yahweh’s_H3068^a^ word_H1697 that_H0834 came_H1961 to_H0413 Joel_H3100, the_H0834 son_H1121 of_H1121 Pethuel_H6602. 
+@2 Hear_H8085 this_H2063, you_H0518 elders_H2205, and_H0776 listen_H8085, all_H3605 you_H0518 inhabitants_H3427 of_H0776 the_H3605 land_H0776! Has_H1961 this_H2063 ever happened_H1961 in_H3427 your_H3605 days_H3117, or_H0518 in_H3427 the_H3605 days_H3117 of_H0776 your_H3605 fathers_H0001? 
+@3 Tell_H5608 your_H5921 children_H1121 about_H5921 it_H5921, and_H1121 have_H1121 your_H5921 children_H1121 tell_H5608 their_H5921 children_H1121, and_H1121 their_H5921 children_H1121, another_H0312 generation_H1755. 
+@4 What the_H0398 swarming_H0697 locust_H0697 has_H0697 left, the_H0398 great locust_H0697 has_H0697 eaten_H0398. What the_H0398 great locust_H0697 has_H0697 left, the_H0398 grasshopper_H2625 has_H0697 eaten_H0398. What the_H0398 grasshopper_H2625 has_H0697 left, the_H0398 caterpillar_H2625 has_H0697 eaten_H0398. 
+@5 Wake_H6974 up_H5921, you_H3588 drunkards_H7910, and_H6310 weep_H1058! Wail_H3213, all_H3605 you_H3588 drinkers_H8354 of_H5921 wine_H3196, because_H3588 of_H5921 the_H3605 sweet_H6071 wine_H3196, for_H3588 it_H5921 is_H3605 cut_H3772 off_H3772 from_H5921 your_H3605 mouth_H6310. 
+@6 For_H3588 a_H3588 nation_H1471 has_H0369 come_H5927 up_H5927 on_H5921 my_H5921 land_H0776, strong_H6099, and_H0776 without_H0369 number_H4557. His_H5921 teeth_H8127 are_H0776 the_H5921 teeth_H8127 of_H0776 a_H3588 lion_H0738, and_H0776 he_H3588 has_H0369 the_H5921 fangs_H4973 of_H0776 a_H3588 lioness_H3833. 
+@7 He_H7760 has_H1612 laid_H7760 my_H7760 vine_H1612 waste_H8047, and_H1612 stripped_H2834 my_H7760 fig_H8384 tree_H8384. He_H7760 has_H1612 stripped_H2834 its_H7760 bark, and_H1612 thrown_H7993 it_H7760 away_H7993. Its_H7760 branches_H8299 are_H8299 made_H7760 white_H3835. 
+@8 Mourn_H5921 like_H5921 a_H5921 virgin_H1330 dressed in_H5921 sackcloth_H8242 for_H5921 the_H5921 husband_H1167 of_H5921 her_H5921 youth_H5271! 
+@9 The_H3068 meal_H4503 offering_H4503 and_H3068 the_H3068 drink offering_H4503 are_H3068 cut_H3772 off_H3772 from_H3772 Yahweh’s_H3068 house_H1004. The_H3068 priests_H3548, Yahweh’s_H3068 ministers_H8334, mourn_H0056. 
+@10 The_H3588 field_H7704 is_H0127 laid waste_H7703. The_H3588 land_H0127 mourns_H0056, for_H3588 the_H3588 grain_H1715 is_H0127 destroyed_H7703, The_H3588 new_H8492 wine_H8492 has_H3588 dried_H3001 up_H3001, and_H7704 the_H3588 oil_H3323 languishes_H0535. 
+@11 Be_H3588 confounded_H0954, you_H3588 farmers_H0406! Wail_H3213, you_H3588 vineyard keepers, for_H3588 the_H5921 wheat_H2406 and_H0954 for_H3588 the_H5921 barley_H8184; for_H3588 the_H5921 harvest_H7105 of_H5921 the_H5921 field_H7704 has_H3588 perished_H0006. 
+@12 The_H3605 vine_H1612 has_H1571 dried_H3001 up_H3001, and_H1121 the_H3605 fig_H8384 tree_H6086 withered_H3001— the_H3605 pomegranate_H7416 tree_H6086, the_H3605 palm_H8558 tree_H6086 also_H1571, and_H1121 the_H3605 apple_H8598 tree_H6086, even_H1571 all_H3605 of_H1121 the_H3605 trees_H6086 of_H1121 the_H3605 field_H7704 are_H1121 withered_H3001; for_H3588 joy_H8342 has_H1571 withered_H3001 away_H4480 from_H4480 the_H3605 sons_H1121 of_H1121 men_H0120.
 
 ## First invitation to organize a day of penance
-@13 Put on sackcloth and mourn, you priests! Wail, you ministers of the altar. Come, lie all night in sackcloth, you ministers of my God,^b^ for the meal offering and the drink offering are withheld from your God’s house. 
-@14 Sanctify a fast. Call a solemn assembly. Gather the elders and all the inhabitants of the land to the house of Yahweh, your God, and cry to Yahweh. 
-@15 Alas for the day! For the day of Yahweh is at hand, and it will come as destruction from the Almighty. 
-@16 Isn’t the food cut off before our eyes, joy and gladness from the house of our God? 
-@17 The seeds rot under their clods. The granaries are laid desolate. The barns are broken down, for the grain has withered. 
-@18 How the animals groan! The herds of livestock are perplexed, because they have no pasture. Yes, the flocks of sheep are made desolate. 
-@19 Yahweh, I cry to you, for the fire has devoured the pastures of the wilderness, and the flame has burned all the trees of the field. 
-@20 Yes, the animals of the field pant to you, for the water brooks have dried up, and the fire has devoured the pastures of the wilderness. 
+@13 Put_H0935 on_H0935 sackcloth_H8242 and_H0935 mourn_H5594, you_H3588 priests_H3548! Wail_H3213, you_H3588 ministers_H8334 of_H1004 the_H3588 altar_H4196. Come_H0935, lie all night in_H0935 sackcloth_H8242, you_H3588 ministers_H8334 of_H1004 my_H0935 God_H0430,^b^ for_H3588 the_H3588 meal_H4503 offering_H4503 and_H0935 the_H3588 drink offering_H4503 are_H0430 withheld_H4513 from_H0935 your_H0935 God’s_H0430 house_H1004. 
+@14 Sanctify_H6942 a_H7121 fast_H6685. Call_H7121 a_H7121 solemn_H6116 assembly_H6116. Gather_H0622 the_H3605 elders_H2205 and_H3068 all_H3605 the_H3605 inhabitants_H3427 of_H0776 the_H3605 land_H0776 to_H0413 the_H3605 house_H1004 of_H0776 Yahweh_H3068, your_H3068 God_H0430, and_H3068 cry_H2199 to_H0413 Yahweh_H3068. 
+@15 Alas_H0162 for_H3588 the_H3588 day_H3117! For_H3588 the_H3588 day_H3117 of_H3068 Yahweh_H3068 is_H3068 at_H3068 hand_H7138, and_H0935 it_H3588 will_H3068 come_H0935 as_H0935 destruction_H7701 from_H0935 the_H3588 Almighty_H7706. 
+@16 Isn’t_H3808 the_H3772 food_H0400 cut_H3772 off_H3772 before_H5048 our_H0430 eyes_H5869, joy_H8057 and_H0430 gladness_H8057 from_H3772 the_H3772 house_H1004 of_H1004 our_H0430 God_H0430? 
+@17 The_H3588 seeds_H6507 rot under_H8478 their_H3588 clods_H4053. The_H3588 granaries are_H0214 laid_H8074 desolate_H8074. The_H3588 barns_H4460 are_H0214 broken_H2040 down_H2040, for_H3588 the_H3588 grain_H1715 has_H3588 withered_H3001. 
+@18 How_H4100 the_H3588 animals_H0929 groan_H0584! The_H3588 herds_H1241 of_H6629 livestock_H0929 are_H1992 perplexed, because_H3588 they_H1992 have_H0369 no_H0369 pasture_H4829. Yes_H3588, the_H3588 flocks_H6629 of_H6629 sheep_H6629 are_H1992 made_H1571 desolate_H0816. 
+@19 Yahweh_H3068, I_H3588 cry_H7121 to_H0413 you_H3588, for_H3588 the_H3605 fire_H0784 has_H3068 devoured_H0398 the_H3605 pastures_H4999 of_H3068 the_H3605 wilderness_H4057, and_H3068 the_H3605 flame_H3852 has_H3068 burned_H3857 all_H3605 the_H3605 trees_H6086 of_H3068 the_H3605 field_H7704. 
+@20 Yes_H3588, the_H3588 animals_H0929 of_H4325 the_H3588 field_H7704 pant_H6165 to_H0413 you_H3588, for_H3588 the_H3588 water_H4325 brooks_H0650 have_H1571 dried_H3001 up_H3001, and_H0398 the_H3588 fire_H0784 has_H0784 devoured_H0398 the_H3588 pastures_H4999 of_H4325 the_H3588 wilderness_H4057. 
 ^a^[**1:1** “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.] ^b^[**1:13** The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).]
 
 # 2 
 ## Irresistible locust attack on land
-@1 Blow the trumpet in Zion, and sound an alarm in my holy mountain! Let all the inhabitants of the land tremble, for the day of Yahweh comes, for it is close at hand: 
-@2 A day of darkness and gloominess, a day of clouds and thick darkness. As the dawn spreading on the mountains, a great and strong people; there has never been the like, neither will there be any more after them, even to the years of many generations. 
-@3 A fire devours before them, and behind them, a flame burns. The land is as the garden of Eden before them, and behind them, a desolate wilderness. Yes, and no one has escaped them. 
-@4 Their appearance is as the appearance of horses, and they run as horsemen. 
-@5 Like the noise of chariots on the tops of the mountains, they leap, like the noise of a flame of fire that devours the stubble, like a strong people set in battle array. 
-@6 At their presence the peoples are in anguish. All faces have grown pale. 
-@7 They run like mighty men. They climb the wall like warriors. They each march in his line, and they don’t swerve off course. 
-@8 One doesn’t jostle another. They each march in their own path. They burst through the defenses and don’t break ranks. 
-@9 They rush on the city. They run on the wall. They climb up into the houses. They enter in at the windows like thieves. 
-@10 The earth quakes before them. The heavens tremble. The sun and the moon are darkened, and the stars withdraw their shining. 
-@11 Yahweh thunders his voice before his army, for his forces are very great; for he is strong who obeys his command; for the day of Yahweh is great and very awesome, and who can endure it?
+@1 Blow_H8628 the_H3605 trumpet_H7782 in_H3427 Zion_H6726, and_H0935 sound_H7321 an_H0935 alarm_H7321 in_H3427 my_H3605 holy_H6944 mountain_H2022! Let all_H3605 the_H3605 inhabitants_H3427 of_H0776 the_H3605 land_H0776 tremble_H7264, for_H3588 the_H3605 day_H3117 of_H0776 Yahweh_H3068 comes_H0935, for_H3588 it_H3588 is_H3068 close_H7138 at_H3427 hand_H7138: 
+@2 A_H1961 day_H3117 of_H3117 darkness_H2822 and_H3117 gloominess, a_H1961 day_H3117 of_H3117 clouds_H6051 and_H3117 thick_H6205 darkness_H2822. As_H5704 the_H5921 dawn_H7837 spreading_H6566 on_H5921 the_H5921 mountains_H2022, a_H1961 great_H7227 and_H3117 strong_H6099 people_H5971; there_H1961 has_H1961 never_H3808 been_H1961 the_H5921 like_H3644, neither_H3808 will_H1961 there_H1961 be_H1961 any_H4480 more_H4480 after_H0310 them_H5921, even_H5704 to_H5704 the_H5921 years_H8141 of_H3117 many_H7227 generations_H1755. 
+@3 A_H1961 fire_H0784 devours_H0398 before_H6440 them_H0310, and_H0776 behind_H0310 them_H0310, a_H1961 flame_H3852 burns_H3857. The_H6440 land_H0776 is_H0776 as_H1961 the_H6440 garden_H1588 of_H0776 Eden_H5731 before_H6440 them_H0310, and_H0776 behind_H0310 them_H0310, a_H1961 desolate_H8077 wilderness_H4057. Yes_H1571, and_H0776 no_H3808 one_H3808 has_H1961 escaped_H6413 them_H0310. 
+@4 Their_H3651 appearance_H4758 is_H3651 as_H3651 the_H3651 appearance_H4758 of_H4758 horses_H5483, and_H7323 they_H3651 run_H7323 as_H3651 horsemen_H6571. 
+@5 Like_H7540 the_H5921 noise_H6963 of_H2022 chariots_H4818 on_H5921 the_H5921 tops_H7218 of_H2022 the_H5921 mountains_H2022, they_H5921 leap_H7540, like_H7540 the_H5921 noise_H6963 of_H2022 a_H5921 flame_H3851 of_H2022 fire_H0784 that_H0784 devours_H0398 the_H5921 stubble_H7179, like_H7540 a_H5921 strong_H6099 people_H5971 set in_H5921 battle_H4421 array_H4421. 
+@6 At_H6908 their_H3605 presence_H6440 the_H3605 peoples_H5971 are_H6440 in_H6440 anguish_H2342. All_H3605 faces_H6440 have_H3605 grown_H6908 pale_H6289. 
+@7 They_H0376 run_H7323 like_H3808 mighty_H1368 men_H0376. They_H0376 climb_H5927 the_H1870 wall_H2346 like_H3808 warriors_H1368. They_H0376 each_H0376 march in_H0376 his_H0376 line_H1870, and_H0376 they_H0376 don’t_H3808 swerve off_H5927 course_H1870. 
+@8 One_H0376 doesn’t_H3808 jostle_H1766 another_H0251. They_H0376 each_H0376 march in_H0376 their_H3808 own_H0376 path_H4546. They_H0376 burst_H5307 through_H1157 the_H3808 defenses_H7973 and_H0376 don’t_H3808 break_H1214 ranks_H1214. 
+@9 They_H0935 rush_H8264 on_H0935 the_H0935 city_H5892. They_H0935 run_H7323 on_H0935 the_H0935 wall_H2346. They_H0935 climb_H5927 up_H5927 into_H0935 the_H0935 houses_H1004. They_H0935 enter_H0935 in_H0935 at_H1004 the_H0935 windows_H2474 like_H1004 thieves_H1590. 
+@10 The_H6440 earth_H0776 quakes_H7264 before_H6440 them_H6440. The_H6440 heavens_H8064 tremble_H7264. The_H6440 sun_H8121 and_H0776 the_H6440 moon_H3394 are_H8064 darkened, and_H0776 the_H6440 stars_H3556 withdraw_H0622 their_H6440 shining. 
+@11 Yahweh_H3068 thunders_H5414 his_H5414 voice_H6963 before_H6440 his_H5414 army_H4264, for_H3588 his_H5414 forces_H4264 are_H3117 very_H3966 great_H1419; for_H3588 he_H3588 is_H3068 strong_H6099 who_H4310 obeys_H6963 his_H5414 command_H1697; for_H3588 the_H6440 day_H3117 of_H3068 Yahweh_H3068 is_H3068 great_H1419 and_H3068 very_H3966 awesome_H3372, and_H3068 who_H4310 can_H4310 endure_H3557 it_H5414?
 
 ## God's exhortation to repentance; renewed request to celebrate a day of penance
-@12 “Yet even now,” says Yahweh, “turn to me with all your heart, and with fasting, and with weeping, and with mourning.” 
-@13 Tear your heart and not your garments, and turn to Yahweh, your God; for he is gracious and merciful, slow to anger, and abundant in loving kindness, and relents from sending calamity. 
-@14 Who knows? He may turn and relent, and leave a blessing behind him, even a meal offering and a drink offering to Yahweh, your God. 
-@15 Blow the trumpet in Zion! Sanctify a fast. Call a solemn assembly. 
-@16 Gather the people. Sanctify the assembly. Assemble the elders. Gather the children, and those who nurse from breasts. Let the bridegroom go out of his room, and the bride out of her chamber. 
-@17 Let the priests, the ministers of Yahweh, weep between the porch and the altar, and let them say, “Spare your people, Yahweh, and don’t give your heritage to reproach, that the nations should rule over them. Why should they say among the peoples, ‘Where is their God?’”
+@12 “Yet_H1571 even_H1571 now_H6258,” says_H5002 Yahweh_H3068, “turn_H7725 to_H5704 me_H7725 with_H3068 all_H3605 your_H3068 heart_H3824, and_H3068 with_H3068 fasting_H6685, and_H3068 with_H3068 weeping_H1065, and_H3068 with_H3068 mourning_H4553.” 
+@13 Tear_H7167 your_H3068 heart_H3824 and_H3068 not_H0408 your_H3068 garments_H0899, and_H3068 turn_H7725 to_H0413 Yahweh_H3068, your_H3068 God_H0430; for_H3588 he_H1931 is_H3068 gracious_H2587 and_H3068 merciful_H7349, slow_H0750 to_H0413 anger_H0639, and_H3068 abundant_H7227 in_H5921 loving kindness_H2617, and_H3068 relents_H5162 from_H7725 sending calamity_H7451. 
+@14 Who_H4310 knows_H3045? He_H0310 may_H0430 turn_H7725 and_H3068 relent_H5162, and_H3068 leave_H7604 a_H3068 blessing_H1293 behind_H0310 him_H0310, even a_H3068 meal_H4503 offering_H4503 and_H3068 a_H3068 drink offering_H4503 to_H7725 Yahweh_H3068, your_H3068 God_H0430. 
+@15 Blow_H8628 the_H7121 trumpet_H7782 in_H7782 Zion_H6726! Sanctify_H6942 a_H7121 fast_H6685. Call_H7121 a_H7121 solemn_H6116 assembly_H6116. 
+@16 Gather_H6908 the_H3318 people_H5971. Sanctify_H6942 the_H3318 assembly_H6951. Assemble_H0622 the_H3318 elders_H2205. Gather_H6908 the_H3318 children_H5768, and_H3318 those who nurse_H3243 from_H3318 breasts_H7699. Let the_H3318 bridegroom go_H3318 out_H3318 of_H2205 his_H6942 room_H2315, and_H3318 the_H3318 bride_H3618 out_H3318 of_H2205 her_H3243 chamber_H2315. 
+@17 Let_H5414 the_H0559 priests_H3548, the_H0559 ministers_H8334 of_H0430 Yahweh_H3068, weep_H1058 between_H0996 the_H0559 porch_H0197 and_H3068 the_H0559 altar_H4196, and_H3068 let_H5414 them_H5414 say_H0559, “Spare_H2347 your_H3068 people_H5971, Yahweh_H3068, and_H3068 don’t_H0408 give_H5414 your_H3068 heritage_H5159 to_H0559 reproach_H2781, that_H3068 the_H0559 nations_H1471 should_H4100 rule_H4910 over_H5921 them_H5414. Why_H4100 should_H4100 they_H5921 say_H0559 among_H0996 the_H0559 peoples_H5971, ‘Where_H0346 is_H3068 their_H3068 God_H0430?’”
 
 ## Answer the prayer; God's Comforting Promise
-@18 Then Yahweh was jealous for his land, and had pity on his people. 
-@19 Yahweh answered his people, “Behold,^a^ I will send you grain, new wine, and oil, and you will be satisfied with them; and I will no more make you a reproach among the nations. 
-@20 But I will remove the northern army far away from you, and will drive it into a barren and desolate land, its front into the eastern sea, and its back into the western sea; and its stench will come up, and its bad smell will rise.” Surely he has done great things. 
-@21 Land, don’t be afraid. Be glad and rejoice, for Yahweh has done great things. 
-@22 Don’t be afraid, you animals of the field; for the pastures of the wilderness spring up, for the tree bears its fruit. The fig tree and the vine yield their strength. 
-@23 “Be glad then, you children of Zion, and rejoice in Yahweh, your God; for he gives you the early rain in just measure, and he causes the rain to come down for you, the early rain and the latter rain, as before. 
-@24 The threshing floors will be full of wheat, and the vats will overflow with new wine and oil. 
-@25 I will restore to you the years that the swarming locust has eaten, the great locust, the grasshopper, and the caterpillar, my great army, which I sent among you. 
-@26 You will have plenty to eat and be satisfied, and will praise the name of Yahweh, your God, who has dealt wondrously with you; and my people will never again be disappointed. 
-@27 You will know that I am among Israel, and that I am Yahweh, your God, and there is no one else; and my people will never again be disappointed.
+@18 Then_H3068 Yahweh_H3068 was_H3068 jealous_H7065 for_H5921 his_H5921 land_H0776, and_H3068 had_H3068 pity_H2550 on_H5921 his_H5921 people_H5971. 
+@19 Yahweh_H3068 answered_H0559 his_H5414 people_H5971, “Behold_H2005,^a^ I_H2005 will_H3068 send_H7971 you_H5414 grain_H1715, new_H8492 wine_H8492, and_H3068 oil_H3323, and_H3068 you_H5414 will_H3068 be_H5750 satisfied_H7646 with_H0854 them_H5414; and_H3068 I_H2005 will_H3068 no_H3808 more_H5750 make_H5414 you_H5414 a_H5414 reproach_H2781 among_H0854 the_H0853 nations_H1471. 
+@20 But_H3588 I_H3588 will_H0776 remove_H7368 the_H0853 northern_H6830 army_H5927 far_H7368 away_H5080 from_H5921 you_H3588, and_H0776 will_H0776 drive_H5080 it_H5921 into_H0413 a_H3588 barren and_H0776 desolate_H8077 land_H0776, its_H0853 front_H6440 into_H0413 the_H0853 eastern_H6931 sea_H3220, and_H0776 its_H0853 back_H5927 into_H0413 the_H0853 western_H0314 sea_H3220; and_H0776 its_H0853 stench_H0889 will_H0776 come_H5927 up_H5927, and_H0776 its_H0853 bad smell_H6709 will_H0776 rise_H5927.” Surely_H3588 he_H3588 has_H0776 done_H6213 great_H1431 things_H1431. 
+@21 Land_H0127, don’t_H0408 be_H0408 afraid_H3372. Be_H0408 glad_H8055 and_H3068 rejoice_H8055, for_H3588 Yahweh_H3068 has_H3068 done_H6213 great_H1431 things_H1431. 
+@22 Don’t_H0408 be_H0408 afraid_H3372, you_H3588 animals_H0929 of_H7704 the_H3588 field_H7704; for_H3588 the_H3588 pastures_H4999 of_H7704 the_H3588 wilderness_H4057 spring up_H5375, for_H3588 the_H3588 tree_H6086 bears_H5375 its_H5414 fruit_H6529. The_H3588 fig_H8384 tree_H6086 and_H6086 the_H3588 vine_H1612 yield_H5414 their_H5375 strength_H2428. 
+@23 “Be_H1121 glad_H8055 then_H0853, you_H3588 children_H1121 of_H1121 Zion_H6726, and_H1121 rejoice_H8055 in_H0430 Yahweh_H3068, your_H3068 God_H0430; for_H3588 he_H3588 gives_H5414 you_H3588 the_H0853 early rain_H1653 in_H0430 just_H6666 measure, and_H1121 he_H3588 causes_H5414 the_H0853 rain_H1653 to_H3381 come_H3381 down_H3381 for_H3588 you_H3588, the_H0853 early rain_H1653 and_H1121 the_H0853 latter_H4456 rain_H1653, as_H3068 before_H7223. 
+@24 The_H4390 threshing_H1637 floors_H1637 will_H3342 be full_H4390 of_H4390 wheat_H1250, and_H8492 the_H4390 vats_H3342 will_H3342 overflow_H7783 with_H4390 new_H8492 wine_H8492 and_H8492 oil_H3323. 
+@25 I_H0834 will_H0834 restore to_H7971 you_H0834 the_H0853 years_H8141 that_H0834 the_H0853 swarming_H0697 locust_H0697 has_H0834 eaten_H0398, the_H0853 great_H1419 locust_H0697, the_H0853 grasshopper_H2625, and_H0398 the_H0853 caterpillar_H2625, my_H7971 great_H1419 army_H2428, which_H0834 I_H0834 sent_H7971 among you_H0834. 
+@26 You_H0834 will_H3068 have_H0834 plenty_H7646 to_H3068 eat_H0398 and_H3068 be_H3808 satisfied_H7646, and_H3068 will_H3068 praise_H1984 the_H0853 name_H8034 of_H0430 Yahweh_H3068, your_H3068 God_H0430, who_H0834 has_H3068 dealt wondrously_H6381 with_H5973 you_H0834; and_H3068 my_H3068 people_H5971 will_H3068 never_H3808 again be_H3808 disappointed_H0954. 
+@27 You_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 among_H7130 Israel_H3478, and_H3068 that_H3588 I_H0589 am_H0589 Yahweh_H3068, your_H3068 God_H0430, and_H3068 there_H0369 is_H0369 no_H3808 one_H0369 else_H5750; and_H3068 my_H3068 people_H5971 will_H3068 never_H3808 again_H5750 be_H5750 disappointed_H0954.
 
 ## The outpouring of the divine spirit on all the people and the omens of world judgment
 @28 “It will happen afterward, that I will pour out my Spirit on all flesh; and your sons and your daughters will prophesy. Your old men will dream dreams. Your young men will see visions. 
@@ -68,11 +68,11 @@
 
 # 3 
 ## The day of the Lord as the day of judgment for the Gentiles and as the glorification of the church of Zion
-@1 “For, behold, in those days, and in that time, when I restore the fortunes of Judah and Jerusalem, 
-@2 I will gather all nations, and will bring them down into the valley of Jehoshaphat; and I will execute judgment on them there for my people, and for my heritage, Israel, whom they have scattered among the nations. They have divided my land, 
-@3 and have cast lots for my people, and have given a boy for a prostitute, and sold a girl for wine, that they may drink. 
-@4 “Yes, and what are you to me, Tyre and Sidon, and all the regions of Philistia? Will you repay me? And if you repay me, I will swiftly and speedily return your repayment on your own head. 
-@5 Because you have taken my silver and my gold, and have carried my finest treasures into your temples, 
+@1 “For_H5921, behold_H7200, in_H5921 those_H3605 days, and_H1121 in_H5921 that_H3605 time_H1961, when_H1961 I_H3651 restore the_H3605 fortunes of_H1121 Judah and_H1121 Jerusalem, 
+@2 I_H3117 will_H1571 gather all_H3117 nations, and_H3117 will_H1571 bring them_H1992 down_H5921 into_H5921 the_H0853 valley of_H3117 Jehoshaphat; and_H3117 I_H3117 will_H1571 execute judgment on_H5921 them_H1992 there_H1992 for_H5921 my_H5921 people, and_H3117 for_H5921 my_H5921 heritage, Israel, whom they_H1992 have_H1571 scattered among_H5921 the_H0853 nations. They_H1992 have_H1571 divided my_H5921 land, 
+@3 and_H0776 have_H0776 cast_H5414 lots for_H0776 my_H5414 people_H1818, and_H0776 have_H0776 given_H5414 a_H5414 boy for_H0776 a_H5414 prostitute, and_H0776 sold a_H5414 girl for_H0776 wine, that_H0784 they_H0776 may_H0776 drink. 
+@4 “Yes, and_H0935 what_H3372 are_H3117 you_H6440 to_H0935 me_H6440, Tyre and_H0935 Sidon, and_H0935 all_H3117 the_H6440 regions of_H3068 Philistia? Will_H3068 you_H6440 repay me_H6440? And_H0935 if you_H6440 repay me_H6440, I_H3117 will_H3068 swiftly and_H0935 speedily return_H0935 your_H3068 repayment on_H3117 your_H3068 own_H6440 head_H6440. 
+@5 Because_H3588 you_H0834 have_H1961 taken_H1961 my_H3605 silver and_H3068 my_H3605 gold, and_H3068 have_H1961 carried my_H3605 finest treasures into_H1961 your_H3068 temples, 
 @6 and have sold the children of Judah and the children of Jerusalem to the sons of the Greeks, that you may remove them far from their border. 
 @7 Behold, I will stir them up out of the place where you have sold them, and will return your repayment on your own head; 
 @8 and I will sell your sons and your daughters into the hands of the children of Judah, and they will sell them to the men of Sheba, to a faraway nation, for Yahweh has spoken it.”

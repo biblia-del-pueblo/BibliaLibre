@@ -1,1296 +1,1296 @@
 # 1 
 ## Solomon's access to government; his army and his wealth
-@1 Solomon the son of David was firmly established in his kingdom, and Yahweh^a^ his God^b^ was with him, and made him exceedingly great. 
+@1 Solomon_H8010 the_H5921 son_H1121 of_H1121 David_H1732 was_H3068 firmly_H2388 established_H2388 in_H5921 his_H5921 kingdom_H4438, and_H1121 Yahweh_H3068^a^ his_H5921 God_H0430^b^ was_H3068 with_H5973 him_H5921, and_H1121 made_H2388 him_H5921 exceedingly_H4605 great_H1431. 
 ^a^[**1:1** “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.] ^b^[**1:1** The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).]
 
-@2 Solomon spoke to all Israel, to the captains of thousands and of hundreds, to the judges, and to every prince in all Israel, the heads of the fathers’ households. 
-@3 Then Solomon, and all the assembly with him, went to the high place that was at Gibeon; for God’s Tent of Meeting was there, which Yahweh’s servant Moses had made in the wilderness. 
-@4 But David had brought God’s ark up from Kiriath Jearim to the place that David had prepared for it; for he had pitched a tent for it at Jerusalem. 
-@5 Moreover the bronze altar that Bezalel the son of Uri, the son of Hur, had made was there before Yahweh’s tabernacle; and Solomon and the assembly were seeking counsel there. 
-@6 Solomon went up there to the bronze altar before Yahweh, which was at the Tent of Meeting, and offered one thousand burnt offerings on it.
+@2 Solomon_H8010 spoke_H0559 to_H0559 all_H3605 Israel_H3478, to_H0559 the_H3605 captains_H8269 of_H8269 thousands_H0505 and_H3478 of_H8269 hundreds_H3967, to_H0559 the_H3605 judges_H8199, and_H3478 to_H0559 every_H3605 prince_H8269 in_H3478 all_H3605 Israel_H3478, the_H3605 heads_H7218 of_H8269 the_H3605 fathers’_H0001 households_H0001. 
+@3 Then_H1961 Solomon_H8010, and_H3068 all_H3605 the_H3605 assembly_H6951 with_H5973 him_H5973, went_H1961 to_H1961 the_H3605 high_H1116 place_H1116 that_H0834 was_H1961 at_H3068 Gibeon_H1391; for_H3588 God’s_H0430 Tent_H0168 of_H0430 Meeting_H4150 was_H1961 there_H8033, which_H0834 Yahweh’s_H3068 servant_H5650 Moses_H4872 had_H3068 made_H6213 in_H0430 the_H3605 wilderness_H4057. 
+@4 But_H3588 David_H1732 had_H0430 brought_H5927 God’s_H0430 ark_H0727 up_H5927 from_H5927 Kiriath_H7157 Jearim to_H3389 the_H3588 place_H3559 that_H3588 David_H1732 had_H0430 prepared_H3559 for_H3588 it_H3588; for_H3588 he_H3588 had_H0430 pitched_H5186 a_H3588 tent_H0168 for_H3588 it_H3588 at_H1732 Jerusalem_H3389. 
+@5 Moreover the_H6440 bronze_H5178 altar_H4196 that_H0834 Bezalel_H1212 the_H6440 son_H1121 of_H1121 Uri_H0221, the_H6440 son_H1121 of_H1121 Hur_H2354, had_H3068 made_H6213 was_H0834 there_H3068 before_H6440 Yahweh’s_H3068 tabernacle_H4908; and_H1121 Solomon_H8010 and_H1121 the_H6440 assembly_H6951 were_H0834 seeking_H1875 counsel there_H3068. 
+@6 Solomon_H8010 went_H5927 up_H5927 there_H8033 to_H5921 the_H6440 bronze_H5178 altar_H4196 before_H6440 Yahweh_H3068, which_H0834 was_H0834 at_H5921 the_H6440 Tent_H0168 of_H3068 Meeting_H4150, and_H3068 offered_H5927 one_H0834 thousand_H0505 burnt_H5930 offerings_H3068 on_H5921 it_H5921.
 
 ## The appearance of God (or sleep) after the sacrifice
-@7 That night, God appeared to Solomon and said to him, “Ask for what you want me to give you.” 
+@7 That_H7200 night_H3915, God_H0430 appeared_H7200 to_H0559 Solomon_H8010 and_H0430 said_H0559 to_H0559 him_H5414, “Ask_H7592 for_H7592 what_H4100 you_H5414 want me_H5414 to_H0559 give_H5414 you_H5414.” 
 
-@8 Solomon said to God, “You have shown great loving kindness to David my father, and have made me king in his place. 
-@9 Now, Yahweh God, let your promise to David my father be established; for you have made me king over a people like the dust of the earth in multitude. 
-@10 Now give me wisdom and knowledge, that I may go out and come in before this people; for who can judge this great people of yours?” 
+@8 Solomon_H8010 said_H0559 to_H0559 God_H0430, “You_H0859 have_H0001 shown_H5973 great_H1419 loving kindness_H2617 to_H0559 David_H1732 my_H1732 father_H0001, and_H0430 have_H0001 made_H6213 me_H5973 king_H4427 in_H0430 his_H1732 place_H8478. 
+@9 Now_H6258, Yahweh_H3068 God_H0430, let_H6258 your_H3068 promise_H1697 to_H5921 David_H1732 my_H3068 father_H0001 be_H1697 established_H0539; for_H3588 you_H0859 have_H0001 made me_H5921 king_H4427 over_H5921 a_H3588 people_H5971 like_H0776 the_H5921 dust_H6083 of_H0776 the_H5921 earth_H0776 in_H5921 multitude. 
+@10 Now_H6258 give_H5414 me_H5414 wisdom_H2451 and_H0935 knowledge_H4093, that_H3588 I_H3588 may_H4310 go_H3318 out_H3318 and_H0935 come_H0935 in_H0935 before_H6440 this_H2088 people_H5971; for_H3588 who_H4310 can_H4310 judge_H8199 this_H2088 great_H1419 people_H5971 of_H6440 yours_H5414?” 
 
-@11 God said to Solomon, “Because this was in your heart, and you have not asked riches, wealth, honor, or the life of those who hate you, nor yet have you asked for long life; but have asked for wisdom and knowledge for yourself, that you may judge my people, over whom I have made you king, 
-@12 therefore wisdom and knowledge is granted to you. I will give you riches, wealth, and honor, such as none of the kings have had who have been before you, and none after you will have.” 
+@11 God_H0430 said_H0559 to_H0559 Solomon_H8010, “Because_H5921 this_H2063 was_H1961 in_H5921 your_H5921 heart_H3824, and_H0430 you_H0834 have_H1961 not_H3808 asked_H7592 riches_H6239, wealth_H6239, honor_H3519, or_H3808 the_H0853 life_H5315 of_H0430 those_H0834 who_H0834 hate_H8130 you_H0834, nor_H3808 yet_H1571 have_H1961 you_H0834 asked_H7592 for_H5921 long_H3117 life_H5315; but_H3808 have_H1961 asked_H7592 for_H5921 wisdom_H2451 and_H0430 knowledge_H4093 for_H5921 yourself_H5315, that_H0834 you_H0834 may_H1961 judge_H8199 my_H5921 people_H5971, over_H5921 whom_H0834 I_H0834 have_H1961 made_H1961 you_H0834 king_H4427, 
+@12 therefore_H3651 wisdom_H2451 and_H4428 knowledge_H4093 is_H0834 granted_H5414 to_H1961 you_H0834. I_H0834 will_H1961 give_H5414 you_H0834 riches_H6239, wealth_H6239, and_H4428 honor_H3519, such_H3651 as_H0834 none_H3808 of_H4428 the_H6440 kings_H4428 have_H1961 had_H0834 who_H0834 have_H1961 been_H1961 before_H6440 you_H0834, and_H4428 none_H3808 after_H0310 you_H0834 will_H1961 have_H1961.” 
 
-@13 So Solomon came from the high place that was at Gibeon, from before the Tent of Meeting, to Jerusalem; and he reigned over Israel.
+@13 So_H0834 Solomon_H8010 came_H0935 from_H0935 the_H6440 high_H1116 place_H1116 that_H0834 was_H0834 at_H5921 Gibeon_H1391, from_H0935 before_H6440 the_H6440 Tent_H0168 of_H0168 Meeting_H4150, to_H0935 Jerusalem_H3389; and_H0935 he_H0834 reigned_H4427 over_H5921 Israel_H3478.
 
 ## Solomon's Wealth and Trade in Chariots and Horses
-@14 Solomon gathered chariots and horsemen. He had one thousand four hundred chariots and twelve thousand horsemen that he placed in the chariot cities, and with the king at Jerusalem. 
-@15 The king made silver and gold to be as common as stones in Jerusalem, and he made cedars to be as common as the sycamore trees that are in the lowland. 
-@16 The horses which Solomon had were brought out of Egypt and from Kue. The king’s merchants purchased them from Kue. 
-@17 They imported from Egypt then exported a chariot for six hundred pieces of silver and a horse for one hundred fifty.^a^ They also exported them to the Hittite kings and the Syrian^b^ kings.
+@14 Solomon_H8010 gathered_H0622 chariots_H7393 and_H3967 horsemen_H6571. He_H8010 had_H1961 one_H1961 thousand_H0505 four_H0702 hundred_H3967 chariots_H7393 and_H3967 twelve_H6240 thousand_H0505 horsemen_H6571 that_H1961 he_H8010 placed_H3240 in_H4428 the_H1961 chariot_H7393 cities_H5892, and_H3967 with_H5973 the_H1961 king_H4428 at_H4428 Jerusalem_H3389. 
+@15 The_H0853 king_H4428 made_H5414 silver_H3701 and_H4428 gold_H2091 to_H5414 be_H4428 as_H0834 common as_H0834 stones_H0068 in_H4428 Jerusalem_H3389, and_H4428 he_H0834 made_H5414 cedars_H0730 to_H5414 be_H4428 as_H0834 common as_H0834 the_H0853 sycamore_H8256 trees_H8256 that_H0834 are_H0834 in_H4428 the_H0853 lowland_H8219. 
+@16 The_H0834 horses_H5483 which_H0834 Solomon_H8010 had_H0834 were_H0834 brought_H3947 out of_H4428 Egypt_H4714 and_H4428 from_H3947 Kue. The_H0834 king’s_H4428 merchants_H5503 purchased them_H3947 from_H3947 Kue. 
+@17 They_H3651 imported from_H3318 Egypt_H4714 then_H3318 exported_H3318 a_H5927 chariot_H4818 for_H3027 six_H8337 hundred_H3967 pieces of_H4428 silver_H3701 and_H3967 a_H5927 horse_H5483 for_H3027 one_H3605 hundred_H3967 fifty_H2572.^a^ They_H3651 also_H4428 exported_H3318 them_H3318 to_H4714 the_H3605 Hittite_H2850 kings_H4428 and_H3967 the_H3605 Syrian_H0758^b^ kings_H4428.
 ^a^[**1:17** The pieces of silver were probably shekels, so 600 pieces would be about 13.2 pounds or 6 kilograms of silver, and 150 would be about 3.3 pounds or 1.5 kilograms of silver.] ^b^[**1:17** or, Aramean] 
 
 # 2 
 ## Solomon's treaty with Hiram of Tyre; Preparations for the construction of the temple
-@1 Now Solomon decided to build a house for Yahweh’s name, and a house for his kingdom. 
-@2 Solomon counted out seventy thousand men to bear burdens, eighty thousand men who were stone cutters in the mountains, and three thousand six hundred to oversee them.
+@1 Now Solomon_H8010 decided to_H5921 build a_H5921 house for_H5921 Yahweh’s name, and_H3967 a_H5921 house for_H5921 his_H5921 kingdom. 
+@2 Solomon_H8010 counted out_H7971 seventy thousand men_H0559 to_H0413 bear burdens, eighty thousand men_H0559 who_H0834 were_H0834 stone_H0834 cutters in_H3427 the_H0559 mountains, and_H4428 three thousand six hundred to_H0413 oversee them_H0413.
 
 ## Message from Solomon and request to Hiram
-@3 Solomon sent to Huram the king of Tyre, saying, “As you dealt with David my father, and sent him cedars to build him a house in which to dwell, so deal with me. 
-@4 Behold,^a^ I am about to build a house for the name of Yahweh my God, to dedicate it to him, to burn before him incense of sweet spices, for the continual show bread, and for the burnt offerings morning and evening, on the Sabbaths, on the new moons, and on the set feasts of Yahweh our God. This is an ordinance forever to Israel. 
+@3 Solomon sent to_H5921 Huram the_H6440 king_H5921 of_H1004 Tyre, saying, “As_H3068 you_H6440 dealt with_H1004 David my_H3068 father, and_H3068 sent him_H5921 cedars to_H5921 build_H1129 him_H5921 a_H1129 house_H1004 in_H5921 which_H4150 to_H5921 dwell, so_H0589 deal with_H1004 me_H6440. 
+@4 Behold,^a^ I_H0589 am_H0589 about_H1004 to_H0430 build_H1129 a_H3588 house_H1004 for_H3588 the_H3605 name of_H1004 Yahweh my_H3605 God_H0430, to_H0430 dedicate it_H3588 to_H0430 him_H3605, to_H0430 burn before_H0430 him_H3605 incense of_H1004 sweet spices, for_H3588 the_H3605 continual show bread, and_H0430 for_H3588 the_H3605 burnt offerings_H3588 morning and_H0430 evening, on_H1004 the_H3605 Sabbaths, on_H1004 the_H3605 new moons, and_H0430 on_H1004 the_H3605 set_H0834 feasts of_H1004 Yahweh our_H3605 God_H0430. This_H3588 is_H0834 an_H1129 ordinance forever to_H0430 Israel. 
 ^a^[**2:4** “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.]
 
-@5 “The house which I am building will be great, for our God is greater than all gods. 
-@6 But who is able to build him a house, since heaven and the heaven of heavens can’t contain him? Who am I then, that I should build him a house, except just to burn incense before him? 
+@5 “The_H6440 house_H1004 which_H0834 I_H0589 am_H0589 building_H1129 will_H4310 be_H3808 great, for_H3588 our_H3588 God_H3808 is_H0834 greater than_H3808 all gods. 
+@6 But_H0376 who_H0834 is_H0834 able to_H7971 build him_H7971 a_H7971 house, since_H0834 heaven and_H3063 the_H0834 heaven of_H0376 heavens can’t_H3045 contain him_H7971? Who_H0834 am I_H0834 then_H6258, that_H0834 I_H0834 should_H0376 build him_H7971 a_H7971 house, except just_H0834 to_H7971 burn incense before_H5973 him_H7971? 
 
-@7 “Now therefore send me a man skillful to work in gold, in silver, in bronze, in iron, and in purple, crimson, and blue, and who knows how to engrave engravings, to be with the skillful men who are with me in Judah and in Jerusalem, whom David my father provided. 
+@7 “Now_H2009 therefore_H3045 send_H7971 me_H7971 a_H3588 man skillful_H3045 to_H7971 work in_H5650 gold, in_H5650 silver, in_H5650 bronze, in_H5650 iron, and_H7971 in_H5650 purple, crimson, and_H7971 blue, and_H7971 who_H0834 knows_H3045 how_H0834 to_H7971 engrave engravings, to_H7971 be_H5650 with_H5973 the_H0834 skillful_H3045 men_H5650 who_H0834 are_H0834 with_H5973 me_H7971 in_H5650 Judah and_H7971 in_H5650 Jerusalem, whom_H0834 David_H5973 my_H7971 father provided_H3045. 
 
-@8 “Send me also cedar trees, cypress trees, and algum trees out of Lebanon, for I know that your servants know how to cut timber in Lebanon. Behold, my servants will be with your servants, 
-@9 even to prepare me timber in abundance; for the house which I am about to build will be great and wonderful. 
-@10 Behold, I will give to your servants, the cutters who cut timber, twenty thousand cors^a^ of beaten wheat, twenty thousand baths^b^ of barley, twenty thousand baths of wine, and twenty thousand baths of oil.” 
+@8 “Send me_H0589 also_H3588 cedar trees_H6086, cypress trees_H6086, and_H1004 algum trees_H6086 out_H3559 of_H1004 Lebanon, for_H3588 I_H0589 know that_H0834 your_H0834 servants know how_H0834 to_H1004 cut timber_H6086 in_H1004 Lebanon. Behold, my_H0834 servants will_H0834 be_H1004 with_H1004 your_H0834 servants, 
+@9 even to_H5414 prepare me_H5414 timber_H6086 in_H5650 abundance; for_H6086 the_H5414 house which_H6086 I_H5414 am about_H6086 to_H5414 build will_H5650 be_H5414 great and_H5650 wonderful. 
+@10 Behold, I_H5414 will_H3068 give_H5414 to_H0413 your_H3068 servants, the_H0853 cutters who_H3068 cut timber, twenty thousand cors^a^ of_H4428 beaten wheat, twenty thousand baths^b^ of_H4428 barley, twenty thousand baths of_H4428 wine, and_H3068 twenty thousand baths of_H4428 oil.” 
 ^a^[**2:10** 1 cor is the same as a homer, or about 55.9 U. S. gallons (liquid) or 211 liters or 6 bushels, so 20,000 cors of wheat would weigh about 545 metric tons] ^b^[**2:10** 1 bath is one tenth of a cor, or about 5.6 U. S. gallons or 21 liters or 2.4 pecks. 20,000 baths of barley would weigh about 262 metric tons.]
 
 ## Hiram's response and acceptance
-@11 Then Huram the king of Tyre answered in writing, which he sent to Solomon, “Because Yahweh loves his people, he has made you king over them.” 
-@12 Huram continued, “Blessed be Yahweh, the God of Israel, who made heaven and earth, who has given to David the king a wise son, endowed with discretion and understanding, who would build a house for Yahweh and a house for his kingdom. 
+@11 Then_H0853 Huram_H2361 the_H0853 king_H4428 of_H1121 Tyre answered_H0559 in_H0430 writing, which_H0834 he_H0834 sent_H5414 to_H0559 Solomon, “Because_H0834 Yahweh_H3068 loves his_H5414 people_H1121, he_H0834 has_H3068 made_H6213 you_H0834 king_H4428 over_H5414 them_H5414.” 
+@12 Huram_H2361 continued, “Blessed be_H0376 Yahweh, the_H3045 God_H7971 of_H0376 Israel, who_H0376 made_H3045 heaven and_H7971 earth, who_H0376 has_H0376 given to_H7971 David_H7971 the_H3045 king a_H7971 wise_H2450 son_H2450, endowed_H3045 with_H3045 discretion and_H7971 understanding_H0998, who_H0376 would_H0376 build a_H7971 house for_H7971 Yahweh and_H7971 a_H7971 house for_H7971 his_H7971 kingdom. 
 
-@13 Now I have sent a skillful man, endowed with understanding, Huram-abi,^a^ 
-@14 the son of a woman of the daughters of Dan; and his father was a man of Tyre. He is skillful to work in gold, in silver, in bronze, in iron, in stone, in timber, in purple, in blue, in fine linen, and in crimson, also to engrave any kind of engraving and to devise any device, that there may be a place appointed to him with your skillful men, and with the skillful men of my lord David your father. 
+@13 Now_H5414 I_H0834 have_H0834 sent_H5414 a_H5414 skillful_H2803 man_H0376, endowed_H3045 with_H5973 understanding, Huram-abi,^a^ 
+@14 the_H0559 son of_H5650 a_H7971 woman of_H5650 the_H0559 daughters of_H5650 Dan; and_H7971 his_H0834 father was_H0834 a_H7971 man of_H5650 Tyre. He_H0834 is_H0834 skillful to_H0559 work in_H5650 gold, in_H5650 silver, in_H5650 bronze, in_H5650 iron, in_H5650 stone_H0834, in_H5650 timber, in_H5650 purple, in_H5650 blue, in_H5650 fine linen, and_H7971 in_H5650 crimson, also_H0834 to_H0559 engrave any kind of_H5650 engraving and_H7971 to_H0559 devise any device, that_H0834 there_H0834 may_H0834 be_H0113 a_H7971 place appointed to_H0559 him_H7971 with_H8081 your_H0834 skillful men_H5650, and_H7971 with_H8081 the_H0559 skillful men_H5650 of_H5650 my_H7971 lord_H0113 David_H7971 your_H0834 father. 
 ^a^[**2:13** or, Huram, my father]
 
-@15 “Now therefore, the wheat, the barley, the oil, and the wine which my lord has spoken of, let him send to his servants; 
-@16 and we will cut wood out of Lebanon, as much as you need. We will bring it to you in rafts by sea to Joppa; then you shall carry it up to Jerusalem.”
+@15 “Now_H0935 therefore_H0859, the_H3605 wheat, the_H3605 barley, the_H3605 oil, and_H0935 the_H3605 wine which_H6086 my_H3605 lord has_H3605 spoken_H0935 of_H4480, let him_H5921 send_H5927 to_H0935 his_H3605 servants; 
+@16 and_H3478 we_H0834 will_H0776 cut wood out_H3605 of_H0776 Lebanon, as_H0834 much_H0834 as_H0834 you_H0834 need_H0376. We_H0834 will_H0776 bring it_H0834 to_H3478 you_H0834 in_H0776 rafts by_H3478 sea to_H3478 Joppa; then_H0310 you_H0834 shall_H3478 carry it_H0834 up_H3605 to_H3478 Jerusalem.”
 
 ## Solomon elevates non-Israelites to slave labor
-@17 Solomon counted all the foreigners who were in the land of Israel, after the census with which David his father had counted them; and they found one hundred fifty-three thousand six hundred. 
+@17 Solomon counted all_H0505 the_H0853 foreigners who_H6213 were_H1992 in_H3967 the_H0853 land of_H2022 Israel_H5971, after_H1992 the_H0853 census with_H2022 which_H2022 David his_H5647 father had_H0853 counted them_H1992; and_H3967 they_H1992 found one_H3967 hundred_H3967 fifty-three thousand_H0505 six_H8337 hundred_H3967. 
 @18 He set seventy thousand of them to bear burdens, eighty thousand who were stone cutters in the mountains, and three thousand six hundred overseers to assign the people their work. 
 
 # 3 
 ## Start of the construction of the temple; the temple furniture
-@1 Then Solomon began to build Yahweh’s house at Jerusalem on Mount Moriah, where Yahweh appeared to David his father, which he prepared in the place that David had appointed, on the threshing floor of Ornan the Jebusite. 
-@2 He began to build in the second day of the second month, in the fourth year of his reign.
+@1 Then_H0853 Solomon_H8010 began_H2490 to_H3068 build_H1129 Yahweh’s_H3068 house_H1004 at_H3068 Jerusalem_H3389 on_H7200 Mount_H2022 Moriah_H4179, where_H0834 Yahweh_H3068 appeared_H7200 to_H3068 David_H1732 his_H3068 father_H0001, which_H0834 he_H0834 prepared_H3559 in_H3068 the_H0853 place_H4725 that_H0834 David_H1732 had_H3068 appointed_H3559, on_H7200 the_H0853 threshing_H1637 floor_H1637 of_H1004 Ornan_H0771 the_H0853 Jebusite_H2983. 
+@2 He_H8141 began_H2490 to_H8141 build_H1129 in_H8141 the_H1129 second_H8145 day_H2320 of_H8141 the_H1129 second_H8145 month_H2320, in_H8141 the_H1129 fourth_H0702 year_H8141 of_H8141 his_H1129 reign_H4438.
 
 ## Dimensions and decorations of the temple house
-@3 Now these are the foundations which Solomon laid for the building of God’s house: the length by cubits^a^ after the first measure was sixty cubits, and the width twenty cubits. 
-@4 The porch that was in front, its length, across the width of the house, was twenty cubits, and the height one hundred twenty; and he overlaid it within with pure gold. 
-@5 He made the larger room with a ceiling of cypress wood, which he overlaid with fine gold, and ornamented it with palm trees and chains. 
-@6 He decorated the house with precious stones for beauty. The gold was gold from Parvaim. 
-@7 He also overlaid the house, the beams, the thresholds, its walls, and its doors with gold, and engraved cherubim on the walls. 
+@3 Now these_H0428 are_H0428 the_H0853 foundations_H3245 which_H0428 Solomon_H8010 laid_H3245 for_H1004 the_H0853 building_H1129 of_H1004 God’s_H0430 house_H1004: the_H0853 length_H0753 by_H0430 cubits_H0520^a^ after the_H0853 first_H7223 measure_H0520 was_H0430 sixty_H8346 cubits_H0520, and_H0430 the_H0853 width_H7341 twenty_H6242 cubits_H0520. 
+@4 The_H6440 porch_H0197 that_H0834 was_H0834 in_H5921 front_H6440, its_H5921 length_H0753, across_H5921 the_H6440 width_H7341 of_H1004 the_H6440 house_H1004, was_H0834 twenty_H6242 cubits_H0520, and_H3967 the_H6440 height_H1363 one_H0834 hundred_H3967 twenty_H6242; and_H3967 he_H0834 overlaid_H6823 it_H5921 within_H5921 with_H1004 pure_H2889 gold_H2091. 
+@5 He_H0853 made_H5927 the_H0853 larger_H1419 room_H1004 with_H1004 a_H5927 ceiling of_H1004 cypress_H1265 wood_H6086, which_H6086 he_H0853 overlaid_H2645 with_H1004 fine gold_H2091, and_H1004 ornamented it_H5921 with_H1004 palm_H8561 trees_H6086 and_H1004 chains_H8333. 
+@6 He_H0853 decorated the_H0853 house_H1004 with_H1004 precious_H3368 stones_H0068 for_H1004 beauty_H8597. The_H0853 gold_H2091 was_H1004 gold_H2091 from_H2091 Parvaim_H6516. 
+@7 He_H0853 also_H0853 overlaid_H2645 the_H0853 house_H1004, the_H0853 beams_H6982, the_H0853 thresholds_H5592, its_H0853 walls_H7023, and_H1004 its_H0853 doors_H1817 with_H1004 gold_H2091, and_H1004 engraved_H6605 cherubim_H3742 on_H5921 the_H0853 walls_H7023. 
 ^a^[**3:3** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters.]
 
 ## Holy of Holies Team
-@8 He made the most holy place. Its length, according to the width of the house, was twenty cubits, and its width twenty cubits; and he overlaid it with fine gold, amounting to six hundred talents.^a^ 
-@9 The weight of the nails was fifty shekels^b^ of gold. He overlaid the upper rooms with gold. 
+@8 He_H6213 made_H6213 the_H0853 most_H6944 holy_H6944 place_H6944. Its_H0853 length_H0753, according_H5921 to_H5921 the_H0853 width_H7341 of_H1004 the_H0853 house_H1004, was_H1004 twenty_H6242 cubits_H0520, and_H3967 its_H0853 width_H7341 twenty_H6242 cubits_H0520; and_H3967 he_H6213 overlaid_H2645 it_H5921 with_H1004 fine gold_H2091, amounting to_H5921 six_H8337 hundred_H3967 talents_H3603.^a^ 
+@9 The_H5944 weight_H4948 of_H8255 the_H5944 nails_H4548 was_H4948 fifty_H2572 shekels_H8255^b^ of_H8255 gold_H2091. He overlaid_H2645 the_H5944 upper_H5944 rooms_H5944 with_H2091 gold_H2091. 
 ^a^[**3:8** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 600 talents is about 18 metric tons] ^b^[**3:9** A shekel is about 10 grams or about 0.32 Troy ounces, so 50 shekels was about 0.5 kilograms or about 16 Troy ounces.]
 
-@10 In the most holy place he made two cherubim by carving, and they overlaid them with gold. 
-@11 The wings of the cherubim were twenty cubits long: the wing of the one was five cubits, reaching to the wall of the house; and the other wing was five cubits, reaching to the wing of the other cherub. 
-@12 The wing of the other cherub was five cubits, reaching to the wall of the house; and the other wing was five cubits, joining to the wing of the other cherub. 
-@13 The wings of these cherubim spread themselves out twenty cubits. They stood on their feet, and their faces were toward the house. 
-@14 He made the veil of blue, purple, crimson, and fine linen, and ornamented it with cherubim.
+@10 In_H1004 the_H0853 most_H6944 holy_H6944 place_H6944 he_H6213 made_H6213 two_H8147 cherubim_H3742 by_H2091 carving, and_H1004 they_H6213 overlaid_H6823 them_H0853 with_H1004 gold_H2091. 
+@11 The_H5060 wings_H3671 of_H1004 the_H5060 cherubim_H3742 were_H3742 twenty_H6242 cubits_H0520 long_H0753: the_H5060 wing_H3671 of_H1004 the_H5060 one_H0259 was_H0259 five_H2568 cubits_H0520, reaching_H5060 to_H1004 the_H5060 wall_H7023 of_H1004 the_H5060 house_H1004; and_H1004 the_H5060 other_H0312 wing_H3671 was_H0259 five_H2568 cubits_H0520, reaching_H5060 to_H1004 the_H5060 wing_H3671 of_H1004 the_H5060 other_H0312 cherub_H3742. 
+@12 The_H5060 wing_H3671 of_H1004 the_H5060 other_H0312 cherub_H3742 was_H0259 five_H2568 cubits_H0520, reaching_H5060 to_H1004 the_H5060 wall_H7023 of_H1004 the_H5060 house_H1004; and_H1004 the_H5060 other_H0312 wing_H3671 was_H0259 five_H2568 cubits_H0520, joining to_H1004 the_H5060 wing_H3671 of_H1004 the_H5060 other_H0312 cherub_H3742. 
+@13 The_H6440 wings_H3671 of_H1004 these_H0428 cherubim_H3742 spread_H6566 themselves_H1992 out_H6440 twenty_H6242 cubits_H0520. They_H1992 stood_H5975 on_H5921 their_H1992 feet_H7272, and_H1004 their_H1992 faces_H6440 were_H0428 toward_H5921 the_H6440 house_H1004. 
+@14 He_H6213 made_H6213 the_H0853 veil_H6532 of_H5921 blue_H8504, purple_H0713, crimson_H3758, and_H8504 fine_H0948 linen_H0948, and_H8504 ornamented it_H5921 with_H5921 cherubim_H3742.
 
 ## The two bronze pillars in front of the temple house
-@15 Also he made before the house two pillars thirty-five cubits high, and the capital that was on the top of each of them was five cubits. 
-@16 He made chains in the inner sanctuary, and put them on the tops of the pillars; and he made one hundred pomegranates, and put them on the chains. 
-@17 He set up the pillars before the temple, one on the right hand and the other on the left; and called the name of that on the right hand Jachin, and the name of that on the left Boaz. 
+@15 Also_H6213 he_H0834 made_H6213 before_H6440 the_H6440 house_H1004 two_H8147 pillars_H5982 thirty-five cubits_H0520 high, and_H1004 the_H6440 capital_H6858 that_H0834 was_H0834 on_H5921 the_H6440 top_H7218 of_H1004 each_H8147 of_H1004 them_H5921 was_H0834 five_H2568 cubits_H0520. 
+@16 He_H6213 made_H6213 chains_H8333 in_H5921 the_H5921 inner_H1687 sanctuary_H1687, and_H3967 put_H5414 them_H5414 on_H5921 the_H5921 tops_H7218 of_H7218 the_H5921 pillars_H5982; and_H3967 he_H6213 made_H6213 one_H6213 hundred_H3967 pomegranates_H7416, and_H3967 put_H5414 them_H5414 on_H5921 the_H5921 chains_H8333. 
+@17 He_H0853 set_H6965 up_H6965 the_H0853 pillars_H5982 before_H6440 the_H0853 temple_H1964, one_H0259 on_H5921 the_H0853 right_H3225 hand_H3225 and_H6965 the_H0853 other_H0259 on_H5921 the_H0853 left_H8040; and_H6965 called_H7121 the_H0853 name_H8034 of_H6440 that_H7121 on_H5921 the_H0853 right_H3225 hand_H3225 Jachin_H3199, and_H6965 the_H0853 name_H8034 of_H6440 that_H7121 on_H5921 the_H0853 left_H8040 Boaz_H1162. 
 
 # 4 
 ## Manufacturing implements for the temple
-@1 Then he made an altar of bronze, twenty cubits^a^ long, twenty cubits wide, and ten cubits high. 
-@2 Also he made the molten sea^b^ of ten cubits from brim to brim. It was round, five cubits high, and thirty cubits in circumference. 
-@3 Under it was the likeness of oxen, which encircled it, for ten cubits, encircling the sea. The oxen were in two rows, cast when it was cast. 
-@4 It stood on twelve oxen, three looking toward the north, three looking toward the west, three looking toward the south, and three looking toward the east; and the sea was set on them above, and all their hindquarters were inward. 
-@5 It was a handbreadth thick. Its brim was made like the brim of a cup, like the flower of a lily. It received and held three thousand baths.^c^ 
-@6 He also made ten basins, and put five on the right hand and five on the left, to wash in them. The things that belonged to the burnt offering were washed in them, but the sea was for the priests to wash in. 
+@1 Then_H6213 he_H6213 made_H6213 an altar_H4196 of_H4196 bronze_H5178, twenty_H6242 cubits_H0520^a^ long_H0753, twenty_H6242 cubits_H0520 wide_H7341, and_H4196 ten_H6235 cubits_H0520 high_H6967. 
+@2 Also_H0853 he_H6213 made_H6213 the_H0853 molten_H3332 sea_H3220^b^ of_H3220 ten_H6235 cubits_H0520 from_H0413 brim_H8193 to_H0413 brim_H8193. It_H5437 was_H3220 round_H5439, five_H2568 cubits_H0520 high_H6967, and_H3220 thirty_H7970 cubits_H0520 in_H0413 circumference_H5437. 
+@3 Under_H8478 it_H5437 was_H3220 the_H0853 likeness_H1823 of_H8478 oxen_H1241, which_H1823 encircled_H5437 it_H5437, for_H8478 ten_H6235 cubits_H0520, encircling_H5437 the_H0853 sea_H3220. The_H0853 oxen_H1241 were_H1241 in_H0520 two_H8147 rows_H2905, cast_H3332 when it_H5437 was_H3220 cast_H3332. 
+@4 It_H5921 stood_H5975 on_H5921 twelve_H6240 oxen_H1241, three_H7969 looking toward_H5921 the_H3605 north_H6828, three_H7969 looking toward_H5921 the_H3605 west_H3220, three_H7969 looking toward_H5921 the_H3605 south_H5045, and_H1004 three_H7969 looking toward_H5921 the_H3605 east_H4217; and_H1004 the_H3605 sea_H3220 was_H1004 set_H5975 on_H5921 them_H5921 above_H5921, and_H1004 all_H3605 their_H3605 hindquarters_H0268 were_H1241 inward_H1004. 
+@5 It_H2388 was_H8193 a_H2388 handbreadth_H2947 thick_H5672. Its brim_H8193 was_H8193 made_H2388 like_H7799 the_H2388 brim_H8193 of_H4639 a_H2388 cup_H3563, like_H7799 the_H2388 flower_H6525 of_H4639 a_H2388 lily_H7799. It_H2388 received_H2388 and_H2388 held_H2388 three_H7969 thousand_H0505 baths_H1324.^c^ 
+@6 He_H6213 also_H0853 made_H6213 ten_H6235 basins_H3595, and_H3548 put_H5414 five_H2568 on_H3220 the_H0853 right_H3225 hand_H3225 and_H3548 five_H2568 on_H3220 the_H0853 left_H8040, to_H5414 wash_H7364 in_H7364 them_H5414. The_H0853 things_H4639 that_H5414 belonged to_H5414 the_H0853 burnt_H5930 offering_H3548 were washed_H7364 in_H7364 them_H5414, but_H3225 the_H0853 sea_H3220 was_H5414 for_H5414 the_H0853 priests_H3548 to_H5414 wash_H7364 in_H7364. 
 ^a^[**4:1** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters.] ^b^[**4:2** or, pool, or, reservoir] ^c^[**4:5** A bath is about 5.6 U. S. gallons or 21.1 liters, so 3,000 baths is about 16,800 gallons or 63.3 kiloliters.]
 
-@7 He made the ten lamp stands of gold according to the ordinance concerning them; and he set them in the temple, five on the right hand and five on the left. 
-@8 He made also ten tables, and placed them in the temple, five on the right side and five on the left. He made one hundred basins of gold. 
-@9 Furthermore he made the court of the priests, the great court, and doors for the court, and overlaid their doors with bronze. 
-@10 He set the sea on the right side of the house eastward, toward the south. 
+@7 He_H6213 made_H6213 the_H0853 ten_H6235 lamp stands of_H4941 gold_H2091 according_H4941 to_H5414 the_H0853 ordinance_H4941 concerning them_H5414; and_H4941 he_H6213 set_H5414 them_H5414 in_H5414 the_H0853 temple_H1964, five_H2568 on_H2091 the_H0853 right_H3225 hand_H3225 and_H4941 five_H2568 on_H2091 the_H0853 left_H8040. 
+@8 He_H6213 made_H6213 also_H6213 ten_H6235 tables_H7979, and_H3967 placed_H3240 them_H6213 in_H2091 the_H6213 temple_H1964, five_H2568 on_H2091 the_H6213 right_H3225 side_H3225 and_H3967 five_H2568 on_H2091 the_H6213 left_H8040. He_H6213 made_H6213 one_H3225 hundred_H3967 basins_H4219 of_H4219 gold_H2091. 
+@9 Furthermore he_H6213 made_H6213 the_H6213 court_H2691 of_H3548 the_H6213 priests_H3548, the_H6213 great_H1419 court_H2691, and_H3548 doors_H1817 for_H3548 the_H6213 court_H2691, and_H3548 overlaid_H6823 their_H6823 doors_H1817 with_H6823 bronze_H5178. 
+@10 He_H5414 set_H5414 the_H0853 sea_H3220 on_H3220 the_H0853 right_H3233 side_H3802 of_H5045 the_H0853 house eastward_H6924, toward the_H0853 south_H5045. 
 
-@11 Huram made the pots, the shovels, and the basins. 
+@11 Huram_H2361 made_H6213 the_H0853 pots_H5518, the_H0853 shovels_H3257, and_H0430 the_H0853 basins_H4219. 
 
-So Huram finished doing the work that he did for King Solomon in God’s house: 
-@12 the two pillars, the bowls, the two capitals which were on the top of the pillars, the two networks to cover the two bowls of the capitals that were on the top of the pillars, 
-@13 and the four hundred pomegranates for the two networks—two rows of pomegranates for each network, to cover the two bowls of the capitals that were on the pillars. 
-@14 He also made the bases, and he made the basins on the bases— 
-@15 one sea, and the twelve oxen under it. 
-@16 Huram-abi^a^ also made the pots, the shovels, the forks, and all its vessels for King Solomon, for Yahweh’s house, of bright bronze. 
-@17 The king cast them in the plain of the Jordan, in the clay ground between Succoth and Zeredah. 
-@18 Thus Solomon made all these vessels in great abundance, so that the weight of the bronze could not be determined. 
+So_H6213 Huram_H2361 finished_H3615 doing_H6213 the_H0853 work_H4399 that_H0834 he_H0834 did_H6213 for_H1004 King_H4428 Solomon_H8010 in_H0430 God’s_H0430 house_H1004: 
+@12 the_H0853 two_H8147 pillars_H5982, the_H0853 bowls_H1543, the_H0853 two_H8147 capitals_H3805 which_H0834 were_H0834 on_H5921 the_H0853 top_H7218 of_H7218 the_H0853 pillars_H5982, the_H0853 two_H8147 networks_H7639 to_H5921 cover_H3680 the_H0853 two_H8147 bowls_H1543 of_H7218 the_H0853 capitals_H3805 that_H0834 were_H0834 on_H5921 the_H0853 top_H7218 of_H7218 the_H0853 pillars_H5982, 
+@13 and_H3967 the_H0853 four_H0702 hundred_H3967 pomegranates_H7416 for_H5921 the_H0853 two_H8147 networks_H7639—two_H8147 rows_H2905 of_H6440 pomegranates_H7416 for_H5921 each_H0259 network_H7639, to_H5921 cover_H3680 the_H0853 two_H8147 bowls_H1543 of_H6440 the_H0853 capitals_H3805 that_H0834 were_H0834 on_H5921 the_H0853 pillars_H5982. 
+@14 He_H6213 also_H0853 made_H6213 the_H0853 bases, and_H0853 he_H6213 made_H6213 the_H0853 basins_H3595 on_H5921 the_H0853 bases— 
+@15 one_H0259 sea_H3220, and_H1241 the_H0853 twelve_H6240 oxen_H1241 under_H8478 it_H8478. 
+@16 Huram-abi^a^ also_H3068 made_H6213 the_H3605 pots_H5518, the_H3605 shovels_H3257, the_H3605 forks, and_H3068 all_H3605 its_H3605 vessels_H3627 for_H1004 King_H4428 Solomon_H8010, for_H1004 Yahweh’s_H3068 house_H1004, of_H4428 bright bronze_H5178. 
+@17 The_H0996 king_H4428 cast_H3332 them in_H4428 the_H0996 plain_H3603 of_H4428 the_H0996 Jordan_H3383, in_H4428 the_H0996 clay ground_H0127 between_H0996 Succoth_H5523 and_H4428 Zeredah_H6868. 
+@18 Thus_H3808 Solomon_H8010 made_H6213 all_H3605 these_H0428 vessels_H3627 in_H3808 great_H3966 abundance_H7230, so_H6213 that_H3588 the_H3605 weight_H4948 of_H3627 the_H3605 bronze_H5178 could not_H3808 be_H3808 determined. 
 ^a^[**4:16** “abi” means “his father”]
 
-@19 Solomon made all the vessels that were in God’s house: the golden altar, the tables with the show bread on them, 
-@20 and the lamp stands with their lamps to burn according to the ordinance before the inner sanctuary, of pure gold; 
-@21 and the flowers, the lamps, and the tongs of gold that was purest gold; 
-@22 and the snuffers, the basins, the spoons, and the fire pans of pure gold. As for the entry of the house, its inner doors for the most holy place and the doors of the main hall of the temple were of gold. 
+@19 Solomon_H8010 made_H6213 all_H3605 the_H3605 vessels_H3627 that_H0834 were_H0834 in_H5921 God’s_H0430 house_H1004: the_H3605 golden_H2091 altar_H4196, the_H3605 tables_H7979 with_H1004 the_H3605 show_H6213 bread_H3899 on_H5921 them_H0853, 
+@20 and_H4941 the_H0853 lamp_H5216 stands with_H4941 their_H6440 lamps_H5216 to_H6440 burn_H1197 according_H4941 to_H6440 the_H0853 ordinance_H4941 before_H6440 the_H0853 inner_H1687 sanctuary_H1687, of_H6440 pure_H5462 gold_H2091; 
+@21 and_H2091 the_H1931 flowers_H6525, the_H1931 lamps_H5216, and_H2091 the_H1931 tongs_H4457 of_H2091 gold_H2091 that_H1931 was_H1931 purest_H4357 gold_H2091; 
+@22 and_H1004 the_H5462 snuffers_H4212, the_H5462 basins_H4219, the_H5462 spoons_H3709, and_H1004 the_H5462 fire pans_H3709 of_H1004 pure_H5462 gold_H2091. As_H1004 for_H1004 the_H5462 entry_H6607 of_H1004 the_H5462 house_H1004, its inner_H6442 doors_H1817 for_H1004 the_H5462 most_H6944 holy_H6944 place_H6944 and_H1004 the_H5462 doors_H1817 of_H1004 the_H5462 main hall_H1004 of_H1004 the_H5462 temple_H1004 were_H1004 of_H1004 gold_H2091. 
 
 # 5 
 ## Valuables stored in treasure vaults
-@1 Thus all the work that Solomon did for Yahweh’s house was finished. Solomon brought in the things that David his father had dedicated, even the silver, the gold, and all the vessels, and put them in the treasuries of God’s house.
+@1 Thus all_H3605 the_H3605 work_H4399 that_H0834 Solomon_H8010 did_H6213 for_H1004 Yahweh’s_H3068 house_H1004 was_H0834 finished_H7999. Solomon_H8010 brought_H0935 in_H0935 the_H3605 things_H6944 that_H0834 David_H1732 his_H3605 father_H0001 had_H3068 dedicated_H6944, even_H0853 the_H3605 silver_H3701, the_H3605 gold_H2091, and_H0935 all_H3605 the_H3605 vessels_H3627, and_H0935 put_H5414 them_H5414 in_H0935 the_H3605 treasuries_H0214 of_H1004 God’s_H0430 house_H1004.
 
 ## The transfer of the ark to the holy of holies
-@2 Then Solomon assembled the elders of Israel and all the heads of the tribes, the princes of the fathers’ households of the children of Israel, to Jerusalem, to bring up the ark of Yahweh’s covenant out of David’s city, which is Zion. 
-@3 So all the men of Israel assembled themselves to the king at the feast, which was in the seventh month. 
-@4 All the elders of Israel came. The Levites took up the ark. 
-@5 They brought up the ark, the Tent of Meeting, and all the holy vessels that were in the Tent. The Levitical priests brought these up. 
-@6 King Solomon and all the congregation of Israel who were assembled to him were before the ark, sacrificing sheep and cattle that could not be counted or numbered for multitude. 
-@7 The priests brought in the ark of Yahweh’s covenant to its place, into the inner sanctuary of the house, to the most holy place, even under the wings of the cherubim. 
-@8 For the cherubim spread out their wings over the place of the ark, and the cherubim covered the ark and its poles above. 
-@9 The poles were so long that the ends of the poles were seen from the ark in front of the inner sanctuary, but they were not seen outside; and it is there to this day. 
-@10 There was nothing in the ark except the two tablets which Moses put there at Horeb, when Yahweh made a covenant with the children of Israel, when they came out of Egypt.
+@2 Then_H0227 Solomon_H8010 assembled_H6950 the_H3605 elders_H2205 of_H1121 Israel_H3478 and_H1121 all_H3605 the_H3605 heads_H7218 of_H1121 the_H3605 tribes_H4294, the_H3605 princes_H5387 of_H1121 the_H3605 fathers’_H0001 households_H0001 of_H1121 the_H3605 children_H1121 of_H1121 Israel_H3478, to_H0413 Jerusalem_H3389, to_H0413 bring_H5927 up_H5927 the_H3605 ark_H0727 of_H1121 Yahweh’s_H3068 covenant_H1285 out_H0413 of_H1121 David’s_H1732 city_H5892, which_H1931 is_H3068 Zion_H6726. 
+@3 So_H1931 all_H3605 the_H3605 men_H0376 of_H4428 Israel_H3478 assembled_H6950 themselves_H6950 to_H0413 the_H3605 king_H4428 at_H0413 the_H3605 feast_H2282, which_H1931 was_H3478 in_H0413 the_H3605 seventh_H7637 month_H2320. 
+@4 All_H3605 the_H3605 elders_H2205 of_H2205 Israel_H3478 came_H0935. The_H3605 Levites_H3881 took_H5375 up_H5375 the_H3605 ark_H0727. 
+@5 They_H0834 brought_H5927 up_H5927 the_H3605 ark_H0727, the_H3605 Tent_H0168 of_H0168 Meeting_H4150, and_H3548 all_H3605 the_H3605 holy_H6944 vessels_H3627 that_H0834 were_H0834 in_H3881 the_H3605 Tent_H0168. The_H3605 Levitical_H3881 priests_H3548 brought_H5927 these_H3605 up_H5927. 
+@6 King_H4428 Solomon_H8010 and_H3478 all_H3605 the_H3605 congregation_H5712 of_H4428 Israel_H3478 who_H0834 were_H0834 assembled_H3259 to_H5921 him_H5921 were_H0834 before_H6440 the_H3605 ark_H0727, sacrificing_H2076 sheep_H6629 and_H3478 cattle_H1241 that_H0834 could not_H3808 be_H3808 counted_H5608 or_H3808 numbered_H5608 for_H5921 multitude_H7230. 
+@7 The_H0853 priests_H3548 brought_H0935 in_H0935 the_H0853 ark_H0727 of_H1004 Yahweh’s_H3068 covenant_H1285 to_H0413 its_H0853 place_H4725, into_H0413 the_H0853 inner_H1687 sanctuary_H6944 of_H1004 the_H0853 house_H1004, to_H0413 the_H0853 most_H6944 holy_H6944 place_H4725, even_H0853 under_H8478 the_H0853 wings_H3671 of_H1004 the_H0853 cherubim_H3742. 
+@8 For_H5921 the_H5921 cherubim_H3742 spread_H6566 out_H5921 their_H5921 wings_H3671 over_H5921 the_H5921 place_H4725 of_H0727 the_H5921 ark_H0727, and_H4725 the_H5921 cherubim_H3742 covered_H3680 the_H5921 ark_H0727 and_H4725 its_H5921 poles_H0905 above_H5921. 
+@9 The_H6440 poles_H0905 were_H1961 so_H4480 long_H5704 that_H3117 the_H6440 ends_H7218 of_H3117 the_H6440 poles_H0905 were_H1961 seen_H7200 from_H4480 the_H6440 ark_H0727 in_H5921 front_H6440 of_H3117 the_H6440 inner_H1687 sanctuary_H1687, but_H3808 they_H8033 were_H1961 not_H3808 seen_H7200 outside_H2351; and_H3117 it_H5921 is_H2088 there_H8033 to_H5704 this_H2088 day_H3117. 
+@10 There_H0369 was_H0369 nothing_H0369 in_H3068 the_H0834 ark_H0727 except_H7535 the_H0834 two_H8147 tablets_H3871 which_H0834 Moses_H4872 put_H5414 there_H0369 at_H3478 Horeb_H2722, when_H0834 Yahweh_H3068 made_H3772 a_H3772 covenant with_H5973 the_H0834 children_H1121 of_H1121 Israel_H3478, when_H0834 they_H0834 came_H3318 out_H3318 of_H1121 Egypt_H4714.
 
 ## The appearance of the glory of God
-@11 When the priests had come out of the holy place (for all the priests who were present had sanctified themselves, and didn’t keep their divisions; 
-@12 also the Levites who were the singers, all of them, even Asaph, Heman, Jeduthun, and their sons and their brothers, arrayed in fine linen, with cymbals and stringed instruments and harps, stood at the east end of the altar, and with them one hundred twenty priests sounding with trumpets); 
-@13 when the trumpeters and singers were as one, to make one sound to be heard in praising and thanking Yahweh; and when they lifted up their voice with the trumpets and cymbals and instruments of music, and praised Yahweh, saying, “For he is good, for his loving kindness endures forever!” then the house was filled with a cloud, even Yahweh’s house, 
-@14 so that the priests could not stand to minister by reason of the cloud; for Yahweh’s glory filled God’s house. 
+@11 When_H3588 the_H3605 priests_H3548 had_H1961 come_H1961 out_H3318 of_H4480 the_H3605 holy_H6944 place_H6944 (for_H3588 all_H3605 the_H3605 priests_H3548 who_H3605 were_H1961 present_H4672 had_H1961 sanctified_H6942 themselves_H6942, and_H3548 didn’t keep_H8104 their_H3605 divisions_H4256; 
+@12 also the_H3605 Levites_H3881 who_H3605 were_H1121 the_H3605 singers_H7891, all_H3605 of_H1121 them_H5975, even Asaph_H0623, Heman_H1968, Jeduthun_H3038, and_H1121 their_H3605 sons_H1121 and_H1121 their_H3605 brothers_H0251, arrayed_H3847 in_H3847 fine_H0948 linen_H0948, with_H5973 cymbals_H4700 and_H1121 stringed instruments and_H1121 harps_H3658, stood_H5975 at_H5975 the_H3605 east_H4217 end of_H1121 the_H3605 altar_H4196, and_H1121 with_H5973 them_H5975 one_H3605 hundred_H3967 twenty_H6242 priests_H3548 sounding with_H5973 trumpets_H2689); 
+@13 when_H3588 the_H3588 trumpeters_H2689 and_H3068 singers_H7891 were_H1961 as_H1961 one_H0259, to_H1961 make_H8085 one_H0259 sound_H6963 to_H1961 be_H1961 heard_H8085 in_H3068 praising_H1984 and_H3068 thanking Yahweh_H3068; and_H3068 when_H3588 they_H3588 lifted_H7311 up_H7311 their_H3068 voice_H6963 with_H4390 the_H3588 trumpets_H2689 and_H3068 cymbals_H4700 and_H3068 instruments_H3627 of_H1004 music_H7892, and_H3068 praised_H1984 Yahweh_H3068, saying_H6963, “For_H3588 he_H3588 is_H3068 good_H2896, for_H3588 his_H3068 loving kindness_H2617 endures_H5769 forever_H5769!” then_H1961 the_H3588 house_H1004 was_H1961 filled_H4390 with_H4390 a_H1961 cloud_H6051, even_H3588 Yahweh’s_H3068 house_H1004, 
+@14 so_H3808 that_H3588 the_H0853 priests_H3548 could_H3201 not_H3808 stand_H5975 to_H3068 minister_H8334 by_H3068 reason of_H1004 the_H0853 cloud_H6051; for_H3588 Yahweh’s_H3068 glory_H3519 filled_H4390 God’s_H0430 house_H1004. 
 
 # 6 
 ## The king's ordination and consecration speech to the people
-@1 Then Solomon said, “Yahweh has said that he would dwell in the thick darkness. 
-@2 But I have built you a house and home, a place for you to dwell in forever.” 
+@1 Then_H0227 Solomon_H8010 said_H0559, “Yahweh_H3068 has_H3068 said_H0559 that_H3068 he_H3068 would_H3068 dwell_H7931 in_H3068 the_H0559 thick_H6205 darkness_H6205. 
+@2 But_H0589 I_H0589 have_H0589 built_H1129 you_H3427 a_H1129 house_H1004 and_H1004 home_H1004, a_H1129 place_H4349 for_H1004 you_H3427 to_H1004 dwell_H3427 in_H3427 forever_H5769.” 
 
-@3 The king turned his face, and blessed all the assembly of Israel; and all the assembly of Israel stood. 
+@3 The_H3605 king_H4428 turned_H5437 his_H3605 face_H6440, and_H3478 blessed_H1288 all_H3605 the_H3605 assembly_H6951 of_H4428 Israel_H3478; and_H3478 all_H3605 the_H3605 assembly_H6951 of_H4428 Israel_H3478 stood_H5975. 
 
-@4 He said, “Blessed be Yahweh, the God of Israel, who spoke with his mouth to David my father, and has with his hands fulfilled it, saying, 
-@5 ‘Since the day that I brought my people out of the land of Egypt, I chose no city out of all the tribes of Israel to build a house in, that my name might be there, and I chose no man to be prince over my people Israel; 
-@6 but now I have chosen Jerusalem, that my name might be there; and I have chosen David to be over my people Israel.’ 
-@7 Now it was in the heart of David my father to build a house for the name of Yahweh, the God of Israel. 
-@8 But Yahweh said to David my father, ‘Whereas it was in your heart to build a house for my name, you did well that it was in your heart; 
-@9 nevertheless you shall not build the house, but your son who will come out of your body, he shall build the house for my name.’ 
+@4 He_H0834 said_H0559, “Blessed_H1288 be_H1288 Yahweh_H3068, the_H0853 God_H0430 of_H0430 Israel_H3478, who_H0834 spoke_H1696 with_H4390 his_H3068 mouth_H6310 to_H0559 David_H1732 my_H3068 father_H0001, and_H3068 has_H3068 with_H4390 his_H3068 hands_H3027 fulfilled_H4390 it_H0834, saying_H0559, 
+@5 ‘Since_H4480 the_H3605 day_H3117 that_H0834 I_H0834 brought_H3318 my_H3605 people_H5971 out_H3318 of_H0776 the_H3605 land_H0776 of_H0776 Egypt_H4714, I_H0834 chose_H0977 no_H3808 city_H5892 out_H3318 of_H0776 all_H3605 the_H3605 tribes_H7626 of_H0776 Israel_H3478 to_H1961 build_H1129 a_H1961 house_H1004 in_H5921, that_H0834 my_H3605 name_H8034 might_H3478 be_H1961 there_H8033, and_H3478 I_H0834 chose_H0977 no_H3808 man_H0376 to_H1961 be_H1961 prince_H5057 over_H5921 my_H3605 people_H5971 Israel_H3478; 
+@6 but_H1961 now_H1961 I_H3478 have_H1961 chosen_H0977 Jerusalem_H3389, that_H1732 my_H5921 name_H8034 might_H3478 be_H1961 there_H8033; and_H3478 I_H3478 have_H1961 chosen_H0977 David_H1732 to_H1961 be_H1961 over_H5921 my_H5921 people_H5971 Israel_H3478.’ 
+@7 Now_H1961 it_H1961 was_H8034 in_H0430 the_H3068 heart_H3824 of_H1004 David_H1732 my_H3068 father_H0001 to_H1961 build_H1129 a_H1961 house_H1004 for_H1004 the_H3068 name_H8034 of_H1004 Yahweh_H3068, the_H3068 God_H0430 of_H1004 Israel_H3478. 
+@8 But_H3588 Yahweh_H3068 said_H0559 to_H0413 David_H1732 my_H3068 father_H0001, ‘Whereas it_H3588 was_H8034 in_H0413 your_H3068 heart_H3824 to_H0413 build_H1129 a_H1961 house_H1004 for_H3588 my_H3068 name_H8034, you_H0834 did_H0834 well_H2895 that_H0834 it_H3588 was_H8034 in_H0413 your_H3068 heart_H3824; 
+@9 nevertheless_H3588 you_H0859 shall_H1121 not_H3808 build_H1129 the_H3588 house_H1004, but_H3588 your_H3588 son_H1121 who_H1931 will_H1004 come_H3318 out_H3318 of_H1121 your_H3588 body, he_H1931 shall_H1121 build_H1129 the_H3588 house_H1004 for_H3588 my_H3318 name_H8034.’ 
 
-@10 “Yahweh has performed his word that he spoke; for I have risen up in the place of David my father, and sit on the throne of Israel, as Yahweh promised, and have built the house for the name of Yahweh, the God of Israel. 
-@11 There I have set the ark, in which is Yahweh’s covenant, which he made with the children of Israel.”
+@10 “Yahweh_H3068 has_H3068 performed his_H5921 word_H1697 that_H0834 he_H0834 spoke_H1696; for_H5921 I_H0834 have_H0834 risen_H6965 up_H6965 in_H3427 the_H0853 place_H8478 of_H1004 David_H1732 my_H3068 father_H0001, and_H6965 sit_H3427 on_H5921 the_H0853 throne_H3678 of_H1004 Israel_H3478, as_H0834 Yahweh_H3068 promised_H1696, and_H6965 have_H0834 built_H1129 the_H0853 house_H1004 for_H5921 the_H0853 name_H8034 of_H1004 Yahweh_H3068, the_H0853 God_H0430 of_H1004 Israel_H3478. 
+@11 There_H8033 I_H0834 have_H0834 set_H7760 the_H0853 ark_H0727, in_H3068 which_H0834 is_H0834 Yahweh’s_H3068 covenant_H1285, which_H0834 he_H0834 made_H3772 with_H5973 the_H0853 children_H1121 of_H1121 Israel_H3478.”
 
 ## Solomon's Consecration Prayer
-@12 He stood before Yahweh’s altar in the presence of all the assembly of Israel, and spread out his hands 
-@13 (for Solomon had made a bronze platform, five cubits^a^ long, five cubits wide, and three cubits high, and had set it in the middle of the court; and he stood on it, and knelt down on his knees before all the assembly of Israel, and spread out his hands toward heaven). 
-@14 Then he said, “Yahweh, the God of Israel, there is no God like you in heaven or on earth—you who keep covenant and loving kindness with your servants who walk before you with all their heart; 
-@15 who have kept with your servant David my father that which you promised him. Yes, you spoke with your mouth, and have fulfilled it with your hand, as it is today. 
+@12 He_H3068 stood_H5975 before_H6440 Yahweh’s_H3068 altar_H4196 in_H3068 the_H3605 presence_H6440 of_H3068 all_H3605 the_H3605 assembly_H6951 of_H3068 Israel_H3478, and_H3068 spread_H6566 out_H6440 his_H3605 hands_H3709 
+@13 (for_H3588 Solomon_H8010 had_H3478 made_H6213 a_H3588 bronze_H5178 platform_H3595, five_H2568 cubits_H0520^a^ long_H0753, five_H2568 cubits_H0520 wide_H7341, and_H3478 three_H7969 cubits_H0520 high_H6967, and_H3478 had_H3478 set_H5414 it_H5414 in_H5921 the_H3605 middle_H8432 of_H5921 the_H3605 court_H5835; and_H3478 he_H3588 stood_H5975 on_H5921 it_H5414, and_H3478 knelt_H1288 down_H5414 on_H5921 his_H3605 knees_H1290 before_H5048 all_H3605 the_H3605 assembly_H6951 of_H5921 Israel_H3478, and_H3478 spread_H6566 out_H5921 his_H3605 hands_H3709 toward_H5921 heaven_H8064). 
+@14 Then_H1980 he_H0430 said_H0559, “Yahweh_H3068, the_H3605 God_H0430 of_H0776 Israel_H3478, there_H0369 is_H0369 no_H0369 God_H0430 like_H3644 you_H3605 in_H1980 heaven_H8064 or_H0369 on_H1980 earth_H0776—you_H3605 who_H3605 keep_H8104 covenant_H1285 and_H1980 loving kindness_H2617 with_H1980 your_H3068 servants_H5650 who_H3605 walk_H1980 before_H6440 you_H3605 with_H1980 all_H3605 their_H3605 heart_H3820; 
+@15 who_H0834 have_H0834 kept_H8104 with_H0854 your_H0834 servant_H5650 David_H1732 my_H8104 father_H0001 that_H0834 which_H0834 you_H0834 promised_H1696 him_H0854. Yes, you_H0834 spoke_H1696 with_H0854 your_H0834 mouth_H6310, and_H3027 have_H0834 fulfilled_H4390 it_H1696 with_H0854 your_H0834 hand_H3027, as_H0834 it_H1696 is_H0834 today_H3117. 
 ^a^[**6:13** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters.]
 
-@16 “Now therefore, Yahweh, the God of Israel, keep with your servant David my father that which you have promised him, saying, ‘There shall not fail you a man in my sight to sit on the throne of Israel, if only your children take heed to their way, to walk in my law as you have walked before me.’ 
-@17 Now therefore, Yahweh, the God of Israel, let your word be verified, which you spoke to your servant David. 
+@16 “Now_H6258 therefore_H6258, Yahweh_H3068, the_H0853 God_H0430 of_H1121 Israel_H3478, keep_H8104 with_H1980 your_H3068 servant_H5650 David_H1732 my_H8104 father_H0001 that_H0834 which_H0834 you_H0834 have_H0834 promised_H1696 him_H5921, saying_H0559, ‘There_H3427 shall_H1121 not_H3808 fail_H3772 you_H0834 a_H3772 man_H0376 in_H3427 my_H8104 sight_H6440 to_H0559 sit_H3427 on_H5921 the_H0853 throne_H3678 of_H1121 Israel_H3478, if_H0518 only_H7535 your_H3068 children_H1121 take_H8104 heed_H8104 to_H0559 their_H3068 way_H1870, to_H0559 walk_H1980 in_H3427 my_H8104 law_H8451 as_H0834 you_H0834 have_H0834 walked_H1980 before_H6440 me_H6440.’ 
+@17 Now_H6258 therefore_H6258, Yahweh_H3068, the_H0834 God_H0430 of_H0430 Israel_H3478, let_H6258 your_H3068 word_H1697 be_H3068 verified_H0539, which_H0834 you_H0834 spoke_H1696 to_H1696 your_H3068 servant_H5650 David_H1732. 
 
-@18 “But will God indeed dwell with men on the earth? Behold, heaven and the heaven of heavens can’t contain you; how much less this house which I have built! 
-@19 Yet have respect for the prayer of your servant and to his supplication, Yahweh my God, to listen to the cry and to the prayer which your servant prays before you; 
-@20 that your eyes may be open toward this house day and night, even toward the place where you have said that you would put your name, to listen to the prayer which your servant will pray toward this place. 
-@21 Listen to the petitions of your servant and of your people Israel, when they pray toward this place. Yes, hear from your dwelling place, even from heaven; and when you hear, forgive. 
+@18 “But_H3588 will_H0430 God_H0430 indeed_H3588 dwell_H3427 with_H0854 men_H0120 on_H5921 the_H0834 earth_H0776? Behold_H2009, heaven_H8064 and_H0430 the_H0834 heaven_H8064 of_H0776 heavens_H8064 can’t_H3808 contain_H3557 you_H0834; how_H0834 much_H0637 less_H0637 this_H2088 house_H1004 which_H0834 I_H0834 have_H0834 built_H1129! 
+@19 Yet_H3068 have_H0834 respect_H6437 for_H0413 the_H6440 prayer_H8605 of_H0430 your_H3068 servant_H5650 and_H3068 to_H0413 his_H3068 supplication_H8467, Yahweh_H3068 my_H8085 God_H0430, to_H0413 listen_H8085 to_H0413 the_H6440 cry_H7440 and_H3068 to_H0413 the_H6440 prayer_H8605 which_H0834 your_H3068 servant_H5650 prays_H6419 before_H6440 you_H0834; 
+@20 that_H0834 your_H7760 eyes_H5869 may_H1961 be_H1961 open_H6605 toward_H0413 this_H2088 house_H1004 day_H3119 and_H1004 night_H3915, even toward_H0413 the_H0559 place_H4725 where_H0834 you_H0834 have_H1961 said_H0559 that_H0834 you_H0834 would_H0559 put_H7760 your_H7760 name_H8034, to_H0413 listen_H8085 to_H0413 the_H0559 prayer_H8605 which_H0834 your_H7760 servant_H5650 will_H1961 pray_H6419 toward_H0413 this_H2088 place_H4725. 
+@21 Listen_H8085 to_H0413 the_H0834 petitions of_H3427 your_H0834 servant_H5650 and_H3478 of_H3427 your_H0834 people_H5971 Israel_H3478, when_H0834 they_H0834 pray_H6419 toward_H0413 this_H2088 place_H4725. Yes, hear_H8085 from_H4480 your_H0834 dwelling_H3427 place_H4725, even from_H4480 heaven_H8064; and_H3478 when_H0834 you_H0859 hear_H8085, forgive_H5545. 
 
-@22 “If a man sins against his neighbor, and an oath is laid on him to cause him to swear, and he comes and swears before your altar in this house, 
-@23 then hear from heaven, act, and judge your servants, bringing retribution to the wicked, to bring his way on his own head; and justifying the righteous, to give him according to his righteousness. 
+@22 “If_H0518 a_H0518 man_H0376 sins_H2398 against_H6440 his_H5375 neighbor_H7453, and_H0935 an_H0935 oath_H0423 is_H2088 laid_H5375 on_H0935 him_H6440 to_H0935 cause him_H6440 to_H0935 swear, and_H0935 he_H0518 comes_H0935 and_H0935 swears before_H6440 your_H0935 altar_H4196 in_H0935 this_H2088 house_H1004, 
+@23 then_H0853 hear_H8085 from_H4480 heaven_H8064, act_H6213, and_H7725 judge_H8199 your_H5414 servants_H5650, bringing_H7725 retribution to_H7725 the_H0853 wicked_H7563, to_H7725 bring_H7725 his_H5414 way_H1870 on_H1870 his_H5414 own head_H7218; and_H7725 justifying_H6663 the_H0853 righteous_H6662, to_H7725 give_H5414 him_H5414 according_H4480 to_H7725 his_H5414 righteousness_H6666. 
 
-@24 “If your people Israel are struck down before the enemy because they have sinned against you, and they turn again and confess your name, and pray and make supplication before you in this house, 
-@25 then hear from heaven, and forgive the sin of your people Israel, and bring them again to the land which you gave to them and to their fathers. 
+@24 “If_H0518 your_H7725 people_H5971 Israel_H3478 are_H3478 struck_H5062 down_H5062 before_H6440 the_H0853 enemy_H0341 because_H3588 they_H3588 have_H3478 sinned_H2398 against_H6440 you_H3588, and_H3478 they_H3588 turn_H7725 again_H7725 and_H3478 confess_H3034 your_H7725 name_H8034, and_H3478 pray_H6419 and_H3478 make_H7725 supplication_H6419 before_H6440 you_H3588 in_H1004 this_H2088 house_H1004, 
+@25 then_H0859 hear_H8085 from_H4480 heaven_H8064, and_H3478 forgive_H5545 the_H0834 sin_H2403 of_H0001 your_H5414 people_H5971 Israel_H3478, and_H3478 bring_H7725 them_H0413 again_H7725 to_H0413 the_H0834 land_H0127 which_H0834 you_H0859 gave_H5414 to_H0413 them_H0413 and_H3478 to_H0413 their_H5414 fathers_H0001. 
 
-@26 “When the sky is shut up and there is no rain because they have sinned against you, if they pray toward this place and confess your name, and turn from their sin when you afflict them, 
-@27 then hear in heaven, and forgive the sin of your servants, your people Israel, when you teach them the good way in which they should walk, and send rain on your land, which you have given to your people for an inheritance. 
+@26 “When_H3588 the_H0853 sky_H8064 is_H2088 shut_H6113 up_H0853 and_H7725 there_H1961 is_H2088 no_H3808 rain_H4306 because_H3588 they_H3588 have_H1961 sinned_H2398 against_H0413 you_H3588, if_H3588 they_H3588 pray_H6419 toward_H0413 this_H2088 place_H4725 and_H7725 confess_H3034 your_H7725 name_H8034, and_H7725 turn_H7725 from_H7725 their_H3588 sin_H2398 when_H3588 you_H3588 afflict_H6031 them_H0413, 
+@27 then_H0859 hear_H8085 in_H5921 heaven_H8064, and_H3478 forgive_H5545 the_H0834 sin_H2403 of_H0776 your_H5414 servants_H5650, your_H5414 people_H5971 Israel_H3478, when_H3588 you_H0859 teach_H3384 them_H0413 the_H0834 good_H2896 way_H1870 in_H5921 which_H0834 they_H0834 should_H3588 walk_H1870, and_H3478 send_H5414 rain_H4306 on_H5921 your_H5414 land_H0776, which_H0834 you_H0859 have_H0834 given_H5414 to_H0413 your_H5414 people_H5971 for_H3588 an_H5414 inheritance_H5159. 
 
-@28 “If there is famine in the land, if there is pestilence, if there is blight or mildew, locust or caterpillar; if their enemies besiege them in the land of their cities; whatever plague or whatever sickness there is— 
-@29 whatever prayer and supplication is made by any man, or by all your people Israel, who will each know his own plague and his own sorrow, and shall spread out his hands toward this house, 
-@30 then hear from heaven your dwelling place and forgive, and render to every man according to all his ways, whose heart you know (for you, even you only, know the hearts of the children of men), 
-@31 that they may fear you, to walk in your ways as long as they live in the land which you gave to our fathers. 
+@28 “If_H3588 there_H1961 is_H0776 famine_H7458 in_H0776 the_H3605 land_H0776, if_H3588 there_H1961 is_H0776 pestilence_H1698, if_H3588 there_H1961 is_H0776 blight_H7711 or_H5061 mildew_H3420, locust_H0697 or_H5061 caterpillar_H2625; if_H3588 their_H3605 enemies_H0341 besiege them_H1961 in_H0776 the_H3605 land_H0776 of_H0776 their_H3605 cities_H8179; whatever_H3605 plague_H1698 or_H5061 whatever_H3605 sickness_H4245 there_H1961 is_H0776— 
+@29 whatever_H0834 prayer_H8605 and_H3478 supplication_H8467 is_H0834 made_H3045 by_H0413 any_H3605 man_H0376, or_H0120 by_H0413 all_H3605 your_H3605 people_H5971 Israel_H3478, who_H0834 will_H1961 each_H0376 know_H3045 his_H3605 own_H1961 plague_H5061 and_H3478 his_H3605 own_H1961 sorrow_H4341, and_H3478 shall_H3478 spread_H6566 out_H3045 his_H3605 hands_H3709 toward_H0413 this_H2088 house_H1004, 
+@30 then_H0853 hear_H8085 from_H4480 heaven_H8064 your_H3605 dwelling_H3427 place_H4349 and_H1121 forgive_H5545, and_H1121 render_H5414 to_H8085 every_H3605 man_H0376 according_H4480 to_H8085 all_H3605 his_H3605 ways_H1870, whose_H0834 heart_H3824 you_H0859 know_H3045 (for_H3588 you_H0859, even_H3588 you_H0859 only_H0905, know_H3045 the_H3605 hearts_H3824 of_H1121 the_H3605 children_H1121 of_H1121 men_H0376), 
+@31 that_H0834 they_H1992 may_H0834 fear_H3372 you_H0834, to_H5921 walk_H1870 in_H5921 your_H3605 ways_H1870 as_H0834 long_H3117 as_H0834 they_H1992 live_H2416 in_H5921 the_H3605 land_H0127 which_H0834 you_H0834 gave_H5414 to_H5921 our_H3605 fathers_H0001. 
 
-@32 “Moreover, concerning the foreigner, who is not of your people Israel, when he comes from a far country for your great name’s sake and your mighty hand and your outstretched arm, when they come and pray toward this house, 
-@33 then hear from heaven, even from your dwelling place, and do according to all that the foreigner calls to you for; that all the peoples of the earth may know your name and fear you, as do your people Israel, and that they may know that this house which I have built is called by your name. 
+@32 “Moreover_H1571, concerning_H0413 the_H0834 foreigner_H5237, who_H0834 is_H0834 not_H3808 of_H1004 your_H0834 people_H5971 Israel_H3478, when_H0834 he_H0834 comes_H0935 from_H0935 a_H0935 far_H7350 country_H0776 for_H0413 your_H0834 great_H1419 name’s_H8034 sake_H4616 and_H0935 your_H0834 mighty_H2389 hand_H3027 and_H0935 your_H0834 outstretched_H5186 arm_H2220, when_H0834 they_H0834 come_H0935 and_H0935 pray_H6419 toward_H0413 this_H2088 house_H1004, 
+@33 then_H2088 hear_H8085 from_H4480 heaven_H8064, even_H3588 from_H4480 your_H3605 dwelling_H3427 place_H4349, and_H3478 do_H6213 according_H5921 to_H0413 all_H3605 that_H0834 the_H3605 foreigner_H5237 calls_H7121 to_H0413 you_H0859 for_H3588; that_H0834 all_H3605 the_H3605 peoples_H5971 of_H0776 the_H3605 earth_H0776 may_H0776 know_H3045 your_H3605 name_H8034 and_H3478 fear_H3372 you_H0859, as_H0834 do_H6213 your_H3605 people_H5971 Israel_H3478, and_H3478 that_H0834 they_H0834 may_H0776 know_H3045 that_H0834 this_H2088 house_H1004 which_H0834 I_H0834 have_H0834 built_H1129 is_H0834 called_H7121 by_H5921 your_H3605 name_H8034. 
 
-@34 “If your people go out to battle against their enemies, by whatever way you send them, and they pray to you toward this city which you have chosen, and the house which I have built for your name; 
-@35 then hear from heaven their prayer and their supplication, and maintain their cause. 
+@34 “If_H3588 your_H5921 people_H5971 go_H3318 out_H3318 to_H0413 battle_H4421 against_H5921 their_H5921 enemies_H0341, by_H5921 whatever_H0834 way_H1870 you_H0834 send_H7971 them_H0413, and_H1004 they_H0834 pray_H6419 to_H0413 you_H0834 toward_H0413 this_H2063 city_H5892 which_H0834 you_H0834 have_H0834 chosen_H0977, and_H1004 the_H0834 house_H1004 which_H0834 I_H0834 have_H0834 built_H1129 for_H3588 your_H5921 name_H8034; 
+@35 then_H0853 hear_H8085 from_H4480 heaven_H8064 their_H8085 prayer_H8605 and_H8064 their_H8085 supplication_H8467, and_H8064 maintain their_H8085 cause_H4941. 
 
-@36 “If they sin against you (for there is no man who doesn’t sin), and you are angry with them and deliver them to the enemy, so that they carry them away captive to a land far off or near; 
-@37 yet if they come to their senses in the land where they are carried captive, and turn again, and make supplication to you in the land of their captivity, saying, ‘We have sinned, we have done perversely, and have dealt wickedly;’ 
-@38 if they return to you with all their heart and with all their soul in the land of their captivity, where they have been taken captive, and pray toward their land which you gave to their fathers, and the city which you have chosen, and toward the house which I have built for your name; 
-@39 then hear from heaven, even from your dwelling place, their prayer and their petitions, and maintain their cause, and forgive your people who have sinned against you. 
+@36 “If_H3588 they_H0834 sin_H2398 against_H0413 you_H0834 (for_H3588 there_H0369 is_H0369 no_H3808 man_H0120 who_H0834 doesn’t_H3808 sin_H2398), and_H0776 you_H0834 are_H0834 angry_H0599 with_H0413 them_H0413 and_H0776 deliver_H5414 them_H0413 to_H0413 the_H6440 enemy_H0341, so_H5414 that_H0834 they_H0834 carry them_H0413 away_H7617 captive_H7617 to_H0413 a_H3588 land_H0776 far_H7350 off_H7350 or_H0176 near_H7138; 
+@37 yet if_H0834 they_H0834 come_H7725 to_H0413 their_H7725 senses in_H0413 the_H0559 land_H0776 where_H0834 they_H0834 are_H0834 carried_H7617 captive_H7617, and_H0776 turn_H7725 again_H7725, and_H0776 make_H7725 supplication to_H0413 you_H0834 in_H0413 the_H0559 land_H0776 of_H0776 their_H7725 captivity_H7633, saying_H0559, ‘We_H0834 have_H0834 sinned_H2398, we_H0834 have_H0834 done_H2398 perversely, and_H0776 have_H0834 dealt wickedly_H7561;’ 
+@38 if_H0834 they_H0834 return_H7725 to_H0413 you_H0834 with_H0413 all_H3605 their_H3605 heart_H3820 and_H0776 with_H0413 all_H3605 their_H3605 soul_H5315 in_H0413 the_H3605 land_H0776 of_H0776 their_H3605 captivity_H7633, where_H0834 they_H0834 have_H0834 been_H0834 taken_H7617 captive_H7617, and_H0776 pray_H6419 toward_H0413 their_H3605 land_H0776 which_H0834 you_H0834 gave_H5414 to_H0413 their_H3605 fathers_H0001, and_H0776 the_H3605 city_H5892 which_H0834 you_H0834 have_H0834 chosen_H0977, and_H0776 toward_H0413 the_H3605 house_H1004 which_H0834 I_H0834 have_H0834 built_H1129 for_H0413 your_H3605 name_H8034; 
+@39 then_H0853 hear_H8085 from_H4480 heaven_H8064, even_H0853 from_H4480 your_H0834 dwelling_H3427 place_H4349, their_H8085 prayer_H8605 and_H8064 their_H8085 petitions, and_H8064 maintain their_H8085 cause_H4941, and_H8064 forgive_H5545 your_H0834 people_H5971 who_H0834 have_H0834 sinned_H2398 against_H4480 you_H0834. 
 
-@40 “Now, my God, let, I beg you, your eyes be open, and let your ears be attentive to the prayer that is made in this place. 
+@40 “Now_H6258, my_H1961 God_H0430, let_H4994, I_H6258 beg_H4994 you_H6258, your_H4994 eyes_H5869 be_H1961 open_H6605, and_H0430 let_H4994 your_H4994 ears_H0241 be_H1961 attentive_H5869 to_H1961 the_H1961 prayer_H8605 that_H2088 is_H2088 made_H1961 in_H0430 this_H2088 place_H4725. 
 
-@41 “Now therefore arise, Yahweh God, into your resting place, you, and the ark of your strength. Let your priests, Yahweh God, be clothed with salvation, and let your saints rejoice in goodness. 
+@41 “Now_H6258 therefore_H6258 arise_H6965, Yahweh_H3068 God_H0430, into your_H3068 resting place, you_H0859, and_H6965 the_H3068 ark_H0727 of_H0430 your_H3068 strength_H5797. Let_H8055 your_H3068 priests_H3548, Yahweh_H3068 God_H0430, be_H3068 clothed_H3847 with_H3847 salvation_H8668, and_H6965 let_H8055 your_H3068 saints rejoice_H8055 in_H0430 goodness. 
 
-@42 “Yahweh God, don’t turn away the face of your anointed. Remember your loving kindnesses to David your servant.” 
+@42 “Yahweh_H3068 God_H0430, don’t_H0408 turn_H7725 away_H7725 the_H6440 face_H6440 of_H0430 your_H3068 anointed_H4899. Remember_H2142 your_H3068 loving kindnesses to_H7725 David_H1732 your_H3068 servant_H5650.” 
 
 # 7 
 ## Appearance of the glory of God; Solomon and the people solemn feast of sacrifices and celebration assembly
-@1 Now when Solomon had finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices; and Yahweh’s glory filled the house. 
-@2 The priests could not enter into Yahweh’s house, because Yahweh’s glory filled Yahweh’s house. 
-@3 All the children of Israel looked on, when the fire came down, and Yahweh’s glory was on the house. They bowed themselves with their faces to the ground on the pavement, worshiped, and gave thanks to Yahweh, saying, “For he is good, for his loving kindness endures forever!” 
+@1 Now_H3519 when_H3615 Solomon_H8010 had_H3068 finished_H3615 praying_H6419, fire_H0784 came_H3381 down_H3381 from_H3381 heaven_H8064 and_H3068 consumed_H0398 the_H0853 burnt_H5930 offering_H3068 and_H3068 the_H0853 sacrifices_H2077; and_H3068 Yahweh’s_H3068 glory_H3519 filled_H4390 the_H0853 house_H1004. 
+@2 The_H0853 priests_H3548 could_H3201 not_H3808 enter_H0935 into_H0413 Yahweh’s_H3068 house_H1004, because_H3588 Yahweh’s_H3068 glory_H3519 filled_H4390 Yahweh’s_H3068 house_H1004. 
+@3 All_H3605 the_H3605 children_H1121 of_H1121 Israel_H3478 looked_H7200 on_H5921, when_H3588 the_H3605 fire_H0784 came_H3381 down_H3381, and_H1121 Yahweh’s_H3068 glory_H3519 was_H3068 on_H5921 the_H3605 house_H1004. They_H3588 bowed_H7812 themselves_H7812 with_H1004 their_H3605 faces_H0639 to_H3381 the_H3605 ground_H0776 on_H5921 the_H3605 pavement_H7531, worshiped_H7812, and_H1121 gave_H3034 thanks_H3034 to_H3381 Yahweh_H3068, saying, “For_H3588 he_H3588 is_H3068 good_H2896, for_H3588 his_H3605 loving kindness_H2617 endures_H5769 forever_H5769!” 
 
-@4 Then the king and all the people offered sacrifices before Yahweh. 
-@5 King Solomon offered a sacrifice of twenty-two thousand head of cattle and a hundred twenty thousand sheep. So the king and all the people dedicated God’s house. 
-@6 The priests stood, according to their positions; the Levites also with instruments of music of Yahweh, which David the king had made to give thanks to Yahweh, when David praised by their ministry, saying “For his loving kindness endures forever.” The priests sounded trumpets before them; and all Israel stood. 
+@4 Then_H4428 the_H3605 king_H4428 and_H3068 all_H3605 the_H3605 people_H5971 offered_H2076 sacrifices_H2077 before_H6440 Yahweh_H3068. 
+@5 King_H4428 Solomon_H8010 offered_H2076 a_H2076 sacrifice_H2077 of_H4428 twenty-two_H8147 thousand_H0505 head of_H4428 cattle_H1241 and_H3967 a_H2076 hundred_H3967 twenty_H6242 thousand_H0505 sheep_H6629. So_H0853 the_H3605 king_H4428 and_H3967 all_H3605 the_H3605 people_H5971 dedicated_H2596 God’s_H0430 house_H1004. 
+@6 The_H3605 priests_H3548 stood_H5975, according_H5921 to_H5921 their_H3605 positions; the_H3605 Levites_H3881 also_H3068 with_H3068 instruments_H3627 of_H4428 music_H7892 of_H4428 Yahweh_H3068, which_H0834 David_H1732 the_H3605 king_H4428 had_H3068 made_H6213 to_H5921 give_H3034 thanks_H3034 to_H5921 Yahweh_H3068, when_H3588 David_H1732 praised_H1984 by_H5921 their_H3605 ministry, saying “For_H3588 his_H3605 loving kindness_H2617 endures_H5769 forever_H5769.” The_H3605 priests_H3548 sounded_H2690 trumpets_H2690 before_H5048 them_H5921; and_H3068 all_H3605 Israel_H3478 stood_H5975. 
 
-@7 Moreover Solomon made the middle of the court that was before Yahweh’s house holy; for there he offered the burnt offerings and the fat of the peace offerings, because the bronze altar which Solomon had made was not able to receive the burnt offering, the meal offering, and the fat. 
+@7 Moreover Solomon_H8010 made_H6213 the_H0853 middle_H8432 of_H1004 the_H0853 court_H2691 that_H0834 was_H0834 before_H6440 Yahweh’s_H3068 house_H1004 holy_H6942; for_H3588 there_H8033 he_H0834 offered the_H0853 burnt_H5930 offerings_H8002 and_H3068 the_H0853 fat_H2459 of_H1004 the_H0853 peace_H8002 offerings_H8002, because_H3588 the_H0853 bronze_H5178 altar_H4196 which_H0834 Solomon_H8010 had_H3068 made_H6213 was_H0834 not_H3808 able_H3201 to_H3068 receive the_H0853 burnt_H5930 offering_H4503, the_H0853 meal_H4503 offering_H4503, and_H3068 the_H0853 fat_H2459. 
 
-@8 So Solomon held the feast at that time for seven days, and all Israel with him, a very great assembly, from the entrance of Hamath to the brook of Egypt. 
+@8 So_H6213 Solomon_H8010 held_H6213 the_H3605 feast_H2282 at_H3478 that_H3605 time_H6256 for_H3605 seven_H7651 days_H3117, and_H0935 all_H3605 Israel_H3478 with_H5973 him_H0853, a_H0935 very_H3966 great_H1419 assembly_H6951, from_H0935 the_H3605 entrance_H0935 of_H3117 Hamath_H2574 to_H0935 the_H3605 brook_H5158 of_H3117 Egypt_H4714. 
 
-@9 On the eighth day, they held a solemn assembly; for they kept the dedication of the altar seven days, and the feast seven days. 
-@10 On the twenty-third day of the seventh month, he sent the people away to their tents, joyful and glad of heart for the goodness that Yahweh had shown to David, to Solomon, and to Israel his people.
+@9 On_H3117 the_H3588 eighth_H8066 day_H3117, they_H3588 held_H6213 a_H3588 solemn_H6116 assembly_H6116; for_H3588 they_H3588 kept_H6213 the_H3588 dedication_H2598 of_H3117 the_H3588 altar_H4196 seven_H7651 days_H3117, and_H3117 the_H3588 feast_H2282 seven_H7651 days_H3117. 
+@10 On_H5921 the_H0853 twenty-third_H6242 day_H3117 of_H3068 the_H0853 seventh_H7637 month_H2320, he_H0834 sent_H7971 the_H0853 people_H5971 away_H7971 to_H5921 their_H3068 tents_H0168, joyful_H8056 and_H3068 glad_H8056 of_H3068 heart_H3820 for_H5921 the_H0853 goodness that_H0834 Yahweh_H3068 had_H3068 shown_H6213 to_H5921 David_H1732, to_H5921 Solomon_H8010, and_H3068 to_H5921 Israel_H3478 his_H5921 people_H5971.
 
 ## The repeated appearance of God and his answer (promise and threat) to Solomon's prayer
-@11 Thus Solomon finished Yahweh’s house and the king’s house; and he successfully completed all that came into Solomon’s heart to make in Yahweh’s house and in his own house. 
+@11 Thus Solomon_H8010 finished_H3615 Yahweh’s_H3068 house_H1004 and_H0935 the_H3605 king’s_H4428 house_H1004; and_H0935 he_H6213 successfully completed_H3615 all_H3605 that_H3605 came_H0935 into_H0935 Solomon’s_H8010 heart_H3820 to_H0935 make_H6213 in_H5921 Yahweh’s_H3068 house_H1004 and_H0935 in_H5921 his_H3605 own house_H1004. 
 
-@12 Then Yahweh appeared to Solomon by night, and said to him, “I have heard your prayer, and have chosen this place for myself for a house of sacrifice. 
+@12 Then_H2088 Yahweh_H3068 appeared_H7200 to_H0413 Solomon_H8010 by_H3068 night_H3915, and_H3068 said_H0559 to_H0413 him_H0413, “I_H7200 have_H3068 heard_H8085 your_H3068 prayer_H8605, and_H3068 have_H3068 chosen_H0977 this_H2088 place_H4725 for_H0413 myself for_H0413 a_H7200 house_H1004 of_H1004 sacrifice_H2077. 
 
-@13 “If I shut up the sky so that there is no rain, or if I command the locust to devour the land, or if I send pestilence among my people, 
-@14 if my people who are called by my name will humble themselves, pray, seek my face, and turn from their wicked ways, then I will hear from heaven, will forgive their sin, and will heal their land. 
-@15 Now my eyes will be open and my ears attentive to prayer that is made in this place. 
-@16 For now I have chosen and made this house holy, that my name may be there forever; and my eyes and my heart will be there perpetually. 
+@13 “If_H0518 I_H0518 shut_H6113 up_H5921 the_H5921 sky_H8064 so_H7971 that_H3808 there_H1961 is_H0776 no_H3808 rain_H4306, or_H0518 if_H0518 I_H0518 command_H6680 the_H5921 locust_H2284 to_H1961 devour_H0398 the_H5921 land_H0776, or_H0518 if_H0518 I_H0518 send_H7971 pestilence_H1698 among_H5921 my_H5921 people_H5971, 
+@14 if_H0834 my_H8085 people_H5971 who_H0834 are_H0834 called_H7121 by_H5921 my_H8085 name_H8034 will_H0776 humble_H3665 themselves_H7451, pray_H6419, seek_H1245 my_H8085 face_H6440, and_H0776 turn_H7725 from_H4480 their_H5921 wicked_H7451 ways_H1870, then_H0853 I_H0589 will_H0776 hear_H8085 from_H4480 heaven_H8064, will_H0776 forgive_H5545 their_H5921 sin_H2403, and_H0776 will_H0776 heal_H7495 their_H5921 land_H0776. 
+@15 Now_H6258 my_H1961 eyes_H5869 will_H1961 be_H1961 open_H6605 and_H5869 my_H1961 ears_H0241 attentive_H5869 to_H1961 prayer_H8605 that_H2088 is_H2088 made_H1961 in_H4725 this_H2088 place_H4725. 
+@16 For_H1004 now_H6258 I_H5704 have_H1961 chosen_H0977 and_H1004 made_H1961 this_H2088 house_H1004 holy_H6942, that_H3605 my_H3605 name_H8034 may_H1961 be_H1961 there_H8033 forever_H5769; and_H1004 my_H3605 eyes_H5869 and_H1004 my_H3605 heart_H3820 will_H1961 be_H1961 there_H8033 perpetually_H5769. 
 
-@17 “As for you, if you will walk before me as David your father walked, and do according to all that I have commanded you, and will keep my statutes and my ordinances, 
-@18 then I will establish the throne of your kingdom, according as I covenanted with David your father, saying, ‘There shall not fail you a man to be ruler in Israel.’ 
+@17 “As_H0834 for_H4941 you_H0859, if_H0518 you_H0859 will_H0834 walk_H1980 before_H6440 me_H6440 as_H0834 David_H1732 your_H3605 father_H0001 walked_H1980, and_H1980 do_H6213 according_H4941 to_H1980 all_H3605 that_H0834 I_H0834 have_H0834 commanded_H6680 you_H0859, and_H1980 will_H0834 keep_H8104 my_H3605 statutes_H2706 and_H1980 my_H3605 ordinances_H4941, 
+@18 then_H6965 I_H0834 will_H0834 establish_H6965 the_H0853 throne_H3678 of_H0376 your_H0834 kingdom_H4438, according_H0376 as_H0834 I_H0834 covenanted_H3772 with_H0376 David_H1732 your_H0834 father_H0001, saying_H0559, ‘There_H0834 shall_H3478 not_H3808 fail_H3772 you_H0834 a_H3772 man_H0376 to_H0559 be_H3808 ruler_H4910 in_H3478 Israel_H3478.’ 
 
-@19 But if you turn away and forsake my statutes and my commandments which I have set before you, and go and serve other gods and worship them, 
-@20 then I will pluck them up by the roots out of my land which I have given them; and this house, which I have made holy for my name, I will cast out of my sight, and I will make it a proverb and a byword among all peoples. 
-@21 This house, which is so high, everyone who passes by it will be astonished and say, ‘Why has Yahweh done this to this land and to this house?’ 
-@22 They shall answer, ‘Because they abandoned Yahweh, the God of their fathers, who brought them out of the land of Egypt, and took other gods, worshiped them, and served them. Therefore he has brought all this evil on them.’” 
+@19 But_H0518 if_H0518 you_H0859 turn_H7725 away_H7725 and_H1980 forsake_H5800 my_H5414 statutes_H2708 and_H1980 my_H5414 commandments_H4687 which_H0834 I_H0834 have_H0834 set_H5414 before_H6440 you_H0859, and_H1980 go_H1980 and_H1980 serve_H5647 other_H0312 gods_H0430 and_H1980 worship_H7812 them_H5414, 
+@20 then_H2088 I_H0834 will_H0834 pluck_H5428 them_H5414 up_H5921 by_H5921 the_H3605 roots out_H6440 of_H1004 my_H3605 land_H0127 which_H0834 I_H0834 have_H0834 given_H5414 them_H5414; and_H1004 this_H2088 house_H1004, which_H0834 I_H0834 have_H0834 made_H5414 holy_H6942 for_H5921 my_H3605 name_H8034, I_H0834 will_H0834 cast_H7993 out_H6440 of_H1004 my_H3605 sight_H6440, and_H1004 I_H0834 will_H0834 make_H5414 it_H5414 a_H5414 proverb_H4912 and_H1004 a_H5414 byword_H4912 among_H5921 all_H3605 peoples_H5971. 
+@21 This_H2088 house_H1004, which_H0834 is_H0834 so_H6213 high, everyone_H3605 who_H0834 passes_H5674 by_H5921 it_H5921 will_H3068 be_H1961 astonished_H8074 and_H3068 say_H0559, ‘Why_H4100 has_H3068 Yahweh_H3068 done_H6213 this_H2088 to_H0559 this_H2088 land_H0776 and_H3068 to_H0559 this_H2088 house_H1004?’ 
+@22 They_H0834 shall_H3068 answer_H0559, ‘Because_H5921 they_H0834 abandoned_H5800 Yahweh_H3068, the_H3605 God_H0430 of_H0776 their_H3605 fathers_H0001, who_H0834 brought_H0935 them_H0853 out_H3318 of_H0776 the_H3605 land_H0776 of_H0776 Egypt_H4714, and_H0935 took_H3318 other_H0312 gods_H0430, worshiped_H7812 them_H0853, and_H0935 served_H5647 them_H0853. Therefore_H3651 he_H0834 has_H3068 brought_H0935 all_H3605 this_H2063 evil_H7451 on_H5921 them_H0853.’” 
 
 # 8 
 ## Information on the cities and fortresses of Solomon
-@1 At the end of twenty years, in which Solomon had built Yahweh’s house and his own house, 
-@2 Solomon built the cities which Huram had given to Solomon, and caused the children of Israel to dwell there. 
+@1 At_H3068 the_H0853 end_H7093 of_H1004 twenty_H6242 years_H8141, in_H8141 which_H0834 Solomon_H8010 had_H3068 built_H1129 Yahweh’s_H3068 house_H1004 and_H3068 his_H3068 own_H1961 house_H1004, 
+@2 Solomon_H8010 built_H1129 the_H0853 cities_H5892 which_H0834 Huram_H2361 had_H0834 given_H5414 to_H3478 Solomon_H8010, and_H1121 caused_H5414 the_H0853 children_H1121 of_H1121 Israel_H3478 to_H3478 dwell_H3427 there_H8033. 
 
-@3 Solomon went to Hamath Zobah, and prevailed against it. 
-@4 He built Tadmor in the wilderness, and all the storage cities, which he built in Hamath. 
-@5 Also he built Beth Horon the upper and Beth Horon the lower, fortified cities with walls, gates, and bars; 
-@6 and Baalath, and all the storage cities that Solomon had, and all the cities for his chariots, the cities for his horsemen, and all that Solomon desired to build for his pleasure in Jerusalem, in Lebanon, and in all the land of his dominion.
+@3 Solomon_H8010 went to_H5921 Hamath Zobah, and_H2388 prevailed_H2388 against_H5921 it_H5921. 
+@4 He_H0834 built_H1129 Tadmor_H8412 in_H1129 the_H3605 wilderness_H4057, and_H0853 all_H3605 the_H3605 storage_H4543 cities_H5892, which_H0834 he_H0834 built_H1129 in_H1129 Hamath_H2574. 
+@5 Also_H0853 he_H0853 built_H1129 Beth Horon the_H0853 upper_H5945 and_H0853 Beth Horon the_H0853 lower_H8481, fortified_H1129 cities_H5892 with_H1280 walls_H2346, gates_H1817, and_H0853 bars_H1280; 
+@6 and_H0776 Baalath_H1191, and_H0776 all_H3605 the_H3605 storage_H4543 cities_H5892 that_H0834 Solomon_H8010 had_H0834, and_H0776 all_H3605 the_H3605 cities_H5892 for_H0776 his_H3605 chariots_H7393, the_H3605 cities_H5892 for_H0776 his_H3605 horsemen_H6571, and_H0776 all_H3605 that_H0834 Solomon_H8010 desired to_H1961 build_H1129 for_H0776 his_H3605 pleasure in_H0776 Jerusalem_H3389, in_H0776 Lebanon_H3844, and_H0776 in_H0776 all_H3605 the_H3605 land_H0776 of_H0776 his_H3605 dominion.
 
 ## Solomon's workers and their foremen; His wife, the Egyptian princess, moves into the palace built for her
-@7 As for all the people who were left of the Hittites, the Amorites, the Perizzites, the Hivites, and the Jebusites, who were not of Israel— 
-@8 of their children who were left after them in the land, whom the children of Israel didn’t consume—of them Solomon conscripted forced labor to this day. 
-@9 But of the children of Israel, Solomon made no servants for his work, but they were men of war, chief of his captains, and rulers of his chariots and of his horsemen. 
-@10 These were the chief officers of King Solomon, even two-hundred fifty, who ruled over the people. 
+@7 As_H0834 for_H3605 all_H3605 the_H3605 people_H5971 who_H0834 were_H0834 left_H3498 of_H4480 the_H3605 Hittites_H2850, the_H3605 Amorites_H0567, the_H3605 Perizzites_H6522, the_H3605 Hivites_H2340, and_H3478 the_H3605 Jebusites_H2983, who_H0834 were_H0834 not_H3808 of_H4480 Israel_H3478— 
+@8 of_H1121 their_H0310 children_H1121 who_H0834 were_H0834 left_H3498 after_H0310 them_H0310 in_H0776 the_H0834 land_H0776, whom_H0834 the_H0834 children_H1121 of_H1121 Israel_H3478 didn’t_H3808 consume_H3615—of_H1121 them_H0310 Solomon_H8010 conscripted_H5927 forced_H4522 labor_H4522 to_H5704 this_H2088 day_H3117. 
+@9 But_H3588 of_H1121 the_H0834 children_H1121 of_H1121 Israel_H3478, Solomon_H8010 made_H5414 no_H3808 servants_H5650 for_H3588 his_H5414 work_H4399, but_H3588 they_H1992 were_H0834 men_H0376 of_H1121 war_H4421, chief_H8269 of_H1121 his_H5414 captains_H8269, and_H1121 rulers_H8269 of_H1121 his_H5414 chariots_H7393 and_H1121 of_H1121 his_H5414 horsemen_H6571. 
+@10 These_H0428 were_H0834 the_H0834 chief_H8269 officers_H8269 of_H4428 King_H4428 Solomon_H8010, even two-hundred fifty_H2572, who_H0834 ruled_H4428 over_H8269 the_H0834 people_H5971. 
 
-@11 Solomon brought up Pharaoh’s daughter out of David’s city to the house that he had built for her; for he said, “My wife shall not dwell in the house of David king of Israel, because the places where Yahweh’s ark has come are holy.”
+@11 Solomon_H8010 brought_H0935 up_H5927 Pharaoh’s_H6547 daughter_H1323 out_H0413 of_H4428 David’s_H1732 city_H5892 to_H0413 the_H0853 house_H1004 that_H0834 he_H0834 had_H3068 built_H1129 for_H3588 her_H0413; for_H3588 he_H0834 said_H0559, “My_H3068 wife_H0802 shall_H3068 not_H3808 dwell_H3427 in_H3427 the_H0853 house_H1004 of_H4428 David_H1732 king_H4428 of_H4428 Israel_H3478, because_H3588 the_H0853 places_H1004 where_H0834 Yahweh’s_H3068 ark_H0727 has_H3068 come_H0935 are_H0834 holy_H6944.”
 
 ## Order of sacrifice and service in Solomon's temple
-@12 Then Solomon offered burnt offerings to Yahweh on Yahweh’s altar which he had built before the porch, 
-@13 even as the duty of every day required, offering according to the commandment of Moses on the Sabbaths, on the new moons, and on the set feasts, three times per year, during the feast of unleavened bread, during the feast of weeks, and during the feast of booths.^a^ 
+@12 Then_H0227 Solomon_H8010 offered_H5927 burnt_H5930 offerings_H3068 to_H5921 Yahweh_H3068 on_H5921 Yahweh’s_H3068 altar_H4196 which_H0834 he_H0834 had_H3068 built_H1129 before_H6440 the_H6440 porch_H0197, 
+@13 even as_H1697 the_H3117 duty_H1697 of_H3117 every_H3117 day_H3117 required_H1697, offering_H5927 according to_H3117 the_H3117 commandment_H4687 of_H3117 Moses_H4872 on_H3117 the_H3117 Sabbaths_H7676, on_H3117 the_H3117 new_H2320 moons_H2320, and_H4872 on_H3117 the_H3117 set_H4150 feasts_H4150, three_H7969 times_H6471 per year_H8141, during_H3117 the_H3117 feast_H2282 of_H3117 unleavened_H4682 bread_H4682, during_H3117 the_H3117 feast_H2282 of_H3117 weeks_H7620, and_H4872 during_H3117 the_H3117 feast_H2282 of_H3117 booths_H5521.^a^ 
 ^a^[**8:13** or, feast of tents (Sukkot)]
 
-@14 He appointed, according to the ordinance of David his father, the divisions of the priests to their service, and the Levites to their offices, to praise and to minister before the priests, as the duty of every day required, the doorkeepers also by their divisions at every gate, for David the man of God had so commanded. 
-@15 They didn’t depart from the commandment of the king to the priests and Levites concerning any matter or concerning the treasures. 
+@14 He_H3588 appointed_H5975, according_H5921 to_H5921 the_H0853 ordinance_H4941 of_H0376 David_H1732 his_H5921 father_H0001, the_H0853 divisions_H4256 of_H0376 the_H0853 priests_H3548 to_H5921 their_H5921 service_H5656, and_H0430 the_H0853 Levites_H3881 to_H5921 their_H5921 offices_H4931, to_H5921 praise_H1984 and_H0430 to_H5921 minister_H8334 before_H5048 the_H0853 priests_H3548, as_H1697 the_H0853 duty_H4931 of_H0376 every_H0376 day_H3117 required_H1697, the_H0853 doorkeepers also_H0853 by_H5921 their_H5921 divisions_H4256 at_H5921 every_H0376 gate_H8179, for_H3588 David_H1732 the_H0853 man_H0376 of_H0376 God_H0430 had_H0430 so_H3651 commanded_H4687. 
+@15 They_H3808 didn’t_H3808 depart_H5493 from_H5493 the_H3605 commandment_H4687 of_H4428 the_H3605 king_H4428 to_H5921 the_H3605 priests_H3548 and_H4428 Levites_H3881 concerning_H5921 any_H3605 matter_H1697 or_H3808 concerning_H5921 the_H3605 treasures_H0214. 
 
-@16 Now all the work of Solomon was accomplished from the day of the foundation of Yahweh’s house until it was finished. So Yahweh’s house was completed.
+@16 Now_H3117 all_H3605 the_H3605 work_H4399 of_H1004 Solomon_H8010 was_H3068 accomplished_H3615 from_H5704 the_H3605 day_H3117 of_H1004 the_H3605 foundation_H4143 of_H1004 Yahweh’s_H3068 house_H1004 until_H5704 it_H3559 was_H3068 finished_H3615. So_H3559 Yahweh’s_H3068 house_H1004 was_H3068 completed_H3615.
 
 ## Solomon's Ophir Walks
-@17 Then Solomon went to Ezion Geber and to Eloth, on the seashore in the land of Edom. 
-@18 Huram sent him ships and servants who had knowledge of the sea by the hands of his servants; and they came with the servants of Solomon to Ophir, and brought from there four hundred fifty talents^a^ of gold, and brought them to King Solomon.
+@17 Then_H0227 Solomon_H8010 went_H1980 to_H0413 Ezion Geber and_H1980 to_H0413 Eloth_H0359, on_H5921 the_H5921 seashore_H3220 in_H5921 the_H5921 land_H0776 of_H0776 Edom_H0123. 
+@18 Huram_H2361 sent_H7971 him_H0413 ships_H0591 and_H0935 servants_H5650 who_H5650 had_H8010 knowledge_H3045 of_H4428 the_H0413 sea_H3220 by_H3027 the_H0413 hands_H3027 of_H4428 his_H3947 servants_H5650; and_H0935 they_H8033 came_H0935 with_H5973 the_H0413 servants_H5650 of_H4428 Solomon_H8010 to_H0413 Ophir_H0211, and_H0935 brought_H0935 from_H0935 there_H8033 four_H0702 hundred_H3967 fifty_H2572 talents_H3603^a^ of_H4428 gold_H2091, and_H0935 brought_H0935 them_H0413 to_H0413 King_H4428 Solomon_H8010.
 ^a^[**8:18** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 450 talents is about 13.5 metric tons] 
 
 # 9 
 ## Visit from the Queen of Sheba
-@1 When the queen of Sheba heard of the fame of Solomon, she came to test Solomon with hard questions at Jerusalem, with a very great caravan, including camels that bore spices, gold in abundance, and precious stones. When she had come to Solomon, she talked with him about all that was in her heart. 
-@2 Solomon answered all her questions. There wasn’t anything hidden from Solomon which he didn’t tell her. 
-@3 When the queen of Sheba had seen the wisdom of Solomon, the house that he had built, 
-@4 the food of his table, the seating of his servants, the attendance of his ministers, their clothing, his cup bearers and their clothing, and his ascent by which he went up to Yahweh’s house, there was no more spirit in her.^a^ 
+@1 When_H1961 the_H3605 queen_H4436 of_H3605 Sheba_H7614 heard_H8085 of_H3605 the_H3605 fame_H8088 of_H3605 Solomon_H8010, she_H0834 came_H0935 to_H0413 test_H5254 Solomon_H8010 with_H5973 hard_H3515 questions_H2420 at_H0413 Jerusalem_H3389, with_H5973 a_H1961 very_H3966 great_H3966 caravan, including_H3605 camels_H1581 that_H0834 bore_H5375 spices_H1314, gold_H2091 in_H0935 abundance_H7230, and_H0935 precious_H3368 stones_H0068. When_H1961 she_H0834 had_H0834 come_H0935 to_H0413 Solomon_H8010, she_H0834 talked_H1696 with_H5973 him_H0413 about_H1961 all_H3605 that_H0834 was_H1961 in_H0935 her_H3605 heart_H3824. 
+@2 Solomon_H8010 answered_H5046 all_H3605 her_H3605 questions_H1697. There_H3605 wasn’t anything_H3605 hidden_H5956 from_H1697 Solomon_H8010 which_H0834 he_H0834 didn’t_H3808 tell_H5046 her_H3605. 
+@3 When_H0834 the_H0853 queen_H4436 of_H1004 Sheba_H7614 had_H0834 seen_H7200 the_H0853 wisdom_H2451 of_H1004 Solomon_H8010, the_H0853 house_H1004 that_H0834 he_H0834 had_H0834 built_H1129, 
+@4 the_H0834 food_H3978 of_H1004 his_H3068 table_H7979, the_H0834 seating_H4186 of_H1004 his_H3068 servants_H5650, the_H0834 attendance_H4612 of_H1004 his_H3068 ministers_H8334, their_H3068 clothing, his_H3068 cup bearers and_H3068 their_H3068 clothing, and_H3068 his_H3068 ascent_H5927 by_H3068 which_H0834 he_H0834 went_H5927 up_H5927 to_H1961 Yahweh’s_H3068 house_H1004, there_H1961 was_H1961 no_H3808 more_H5750 spirit_H7307 in_H3068 her_H1961.^a^ 
 ^a^[**9:4** or, she was breathless.]
 
-@5 She said to the king, “It was a true report that I heard in my own land of your acts and of your wisdom. 
-@6 However I didn’t believe their words until I came, and my eyes had seen it; and behold half of the greatness of your wisdom wasn’t told me. You exceed the fame that I heard! 
-@7 Happy are your men, and happy are these your servants, who stand continually before you and hear your wisdom. 
-@8 Blessed be Yahweh your God, who delighted in you and set you on his throne to be king for Yahweh your God, because your God loved Israel, to establish them forever. Therefore he made you king over them, to do justice and righteousness.” 
+@5 She_H0834 said_H0559 to_H0413 the_H0559 king_H4428, “It_H5921 was_H0834 a_H8085 true_H0571 report_H1697 that_H0834 I_H0834 heard_H8085 in_H5921 my_H8085 own land_H0776 of_H4428 your_H5921 acts_H1697 and_H0776 of_H4428 your_H5921 wisdom_H2451. 
+@6 However_H8085 I_H0834 didn’t_H3808 believe_H0539 their_H5921 words_H1697 until_H5704 I_H0834 came_H0935, and_H0935 my_H8085 eyes_H5869 had_H0834 seen_H7200 it_H5921; and_H0935 behold_H2009 half_H2677 of_H1697 the_H0834 greatness_H4768 of_H1697 your_H5921 wisdom_H2451 wasn’t told_H5046 me_H5046. You_H0834 exceed_H3254 the_H0834 fame that_H0834 I_H0834 heard_H8085! 
+@7 Happy_H0835 are_H0428 your_H8085 men_H0376, and_H0376 happy_H0835 are_H0428 these_H0428 your_H8085 servants_H5650, who_H0376 stand_H5975 continually_H8548 before_H6440 you_H6440 and_H0376 hear_H8085 your_H8085 wisdom_H2451. 
+@8 Blessed_H1288 be_H1961 Yahweh_H3068 your_H3068 God_H0430, who_H0834 delighted in_H5921 you_H0834 and_H3068 set_H5414 you_H0834 on_H5921 his_H5414 throne_H3678 to_H1961 be_H1961 king_H4428 for_H5921 Yahweh_H3068 your_H3068 God_H0430, because_H5921 your_H3068 God_H0430 loved Israel_H3478, to_H1961 establish_H5414 them_H5414 forever_H5769. Therefore_H3068 he_H0834 made_H6213 you_H0834 king_H4428 over_H5921 them_H5414, to_H1961 do_H6213 justice_H4941 and_H3068 righteousness_H6666.” 
 
-@9 She gave the king one hundred and twenty talents^a^ of gold, spices in great abundance, and precious stones. There was never before such spice as the queen of Sheba gave to King Solomon. 
+@9 She_H1931 gave_H5414 the_H0834 king_H4428 one_H3808 hundred_H3967 and_H3967 twenty_H6242 talents_H3603^a^ of_H4428 gold_H2091, spices_H1314 in_H4428 great_H3966 abundance_H7230, and_H3967 precious_H3368 stones_H0068. There_H1961 was_H1961 never_H3808 before_H3808 such_H0834 spice_H1314 as_H0834 the_H0834 queen_H4436 of_H4428 Sheba_H7614 gave_H5414 to_H1961 King_H4428 Solomon_H8010. 
 ^a^[**9:9** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 120 talents is about 3.6 metric tons]
 
-@10 The servants of Huram and the servants of Solomon, who brought gold from Ophir, also brought algum trees^a^ and precious stones. 
-@11 The king used algum tree wood to make terraces for Yahweh’s house and for the king’s house, and harps and stringed instruments for the singers. There were none like these seen before in the land of Judah. 
-@12 King Solomon gave to the queen of Sheba all her desire, whatever she asked, more than that which she had brought to the king. So she turned and went to her own land, she and her servants. 
+@10 The_H0834 servants_H5650 of_H5650 Huram and_H0935 the_H0834 servants_H5650 of_H5650 Solomon_H8010, who_H0834 brought_H0935 gold_H2091 from_H0935 Ophir_H0211, also_H1571 brought_H0935 algum_H0418 trees_H6086^a^ and_H0935 precious_H3368 stones_H0068. 
+@11 The_H0853 king_H4428 used_H6213 algum_H0418 tree_H6086 wood_H6086 to_H3068 make_H6213 terraces for_H0776 Yahweh’s_H3068 house_H1004 and_H3068 for_H0776 the_H0853 king’s_H4428 house_H1004, and_H3068 harps_H3658 and_H3068 stringed instruments for_H0776 the_H0853 singers_H7891. There_H1992 were_H1992 none_H3808 like_H0776 these_H1992 seen_H7200 before_H6440 in_H3068 the_H0853 land_H0776 of_H4428 Judah_H3063. 
+@12 King_H4428 Solomon_H8010 gave_H5414 to_H0413 the_H3605 queen_H4436 of_H4428 Sheba_H7614 all_H3605 her_H3605 desire_H2656, whatever_H0834 she_H1931 asked_H7592, more than_H4428 that_H0834 which_H0834 she_H1931 had_H0834 brought_H0935 to_H0413 the_H3605 king_H4428. So_H5414 she_H1931 turned_H2015 and_H0935 went_H0935 to_H0413 her_H3605 own land_H0776, she_H1931 and_H0935 her_H3605 servants_H5650. 
 ^a^[**9:10** possibly Indian sandalwood, which has nice grain and a pleasant scent and is good for woodworking]
 
 ## Wealth, works of art and splendor of Solomon and articles of foreign trade
-@13 Now the weight of gold that came to Solomon in one year was six hundred sixty-six talents^a^ of gold, 
-@14 in addition to that which the traders and merchants brought. All the kings of Arabia and the governors of the country brought gold and silver to Solomon. 
-@15 King Solomon made two hundred large shields of beaten gold. Six hundred shekels^b^ of beaten gold went to one large shield. 
-@16 He made three hundred shields of beaten gold. Three hundred shekels^c^ of gold went to one shield. The king put them in the House of the Forest of Lebanon. 
-@17 Moreover the king made a great throne of ivory, and overlaid it with pure gold. 
-@18 There were six steps to the throne, with a footstool of gold, which were fastened to the throne, and armrests on either side by the place of the seat, and two lions standing beside the armrests. 
-@19 Twelve lions stood there on the one side and on the other on the six steps. There was nothing like it made in any other kingdom. 
-@20 All King Solomon’s drinking vessels were of gold, and all the vessels of the House of the Forest of Lebanon were of pure gold. Silver was not considered valuable in the days of Solomon. 
-@21 For the king had ships that went to Tarshish with Huram’s servants. Once every three years, the ships of Tarshish came bringing gold, silver, ivory, apes, and peacocks. 
+@13 Now_H1961 the_H0834 weight_H4948 of_H8141 gold_H2091 that_H0834 came_H0935 to_H0935 Solomon_H8010 in_H8141 one_H0259 year_H8141 was_H1961 six_H8337 hundred_H3967 sixty-six talents_H3603^a^ of_H8141 gold_H2091, 
+@14 in_H0935 addition to_H0935 that_H3605 which the_H3605 traders_H5503 and_H0935 merchants_H5503 brought_H0935. All_H3605 the_H3605 kings_H4428 of_H4428 Arabia_H6152 and_H0935 the_H3605 governors_H6346 of_H4428 the_H3605 country_H0776 brought_H0935 gold_H2091 and_H0935 silver_H3701 to_H0935 Solomon_H8010. 
+@15 King_H4428 Solomon_H8010 made_H6213 two_H3967 hundred_H3967 large shields_H6793 of_H4428 beaten gold_H2091. Six_H8337 hundred_H3967 shekels^b^ of_H4428 beaten gold_H2091 went_H5927 to_H5921 one_H0259 large shield_H6793. 
+@16 He_H5414 made_H5414 three_H7969 hundred_H3967 shields_H4043 of_H4428 beaten gold_H2091. Three_H7969 hundred_H3967 shekels^c^ of_H4428 gold_H2091 went_H5927 to_H5921 one_H0259 shield_H4043. The_H5921 king_H4428 put_H5414 them_H5414 in_H5921 the_H5921 House_H1004 of_H4428 the_H5921 Forest_H3293 of_H4428 Lebanon_H3844. 
+@17 Moreover the_H6213 king_H4428 made_H6213 a_H4428 great_H1419 throne_H3678 of_H4428 ivory_H8127, and_H4428 overlaid_H6823 it_H6213 with_H6823 pure_H2889 gold_H2091. 
+@18 There_H2088 were_H3027 six_H8337 steps_H4609 to_H5921 the_H5921 throne_H3678, with_H5921 a_H5921 footstool_H3534 of_H3027 gold_H2091, which_H2088 were_H3027 fastened_H0270 to_H5921 the_H5921 throne_H3678, and_H3027 armrests on_H5921 either_H2088 side_H2088 by_H5921 the_H5921 place_H4725 of_H3027 the_H5921 seat_H3678, and_H3027 two_H8147 lions_H0738 standing_H5975 beside_H5921 the_H5921 armrests. 
+@19 Twelve_H6240 lions_H0738 stood_H5975 there_H8033 on_H5921 the_H3605 one_H2088 side_H2088 and_H8033 on_H5921 the_H3605 other_H2088 on_H5921 the_H3605 six_H8337 steps_H4609. There_H8033 was_H2088 nothing_H3808 like_H3651 it_H5921 made_H6213 in_H5921 any_H3605 other_H2088 kingdom_H4467. 
+@20 All_H3605 King_H4428 Solomon’s_H8010 drinking vessels_H3627 were_H3117 of_H4428 gold_H2091, and_H4428 all_H3605 the_H3605 vessels_H3627 of_H4428 the_H3605 House_H1004 of_H4428 the_H3605 Forest_H3293 of_H4428 Lebanon_H3844 were_H3117 of_H4428 pure_H5462 gold_H2091. Silver_H3701 was_H0369 not_H0369 considered_H2803 valuable_H3972 in_H1004 the_H3605 days_H3117 of_H4428 Solomon_H8010. 
+@21 For_H3588 the_H3588 king_H4428 had_H4428 ships_H0591 that_H3588 went_H1980 to_H0935 Tarshish_H8659 with_H5973 Huram’s_H2361 servants_H5650. Once_H0259 every_H0259 three_H7969 years_H8141, the_H3588 ships_H0591 of_H4428 Tarshish_H8659 came_H0935 bringing_H0935 gold_H2091, silver_H3701, ivory_H8143, apes_H6971, and_H1980 peacocks_H8500. 
 ^a^[**9:13** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 666 talents is about 20 metric tons] ^b^[**9:15** A shekel is about 10 grams or about 0.32 Troy ounces, so 600 shekels was about 6 kilograms or about 192 Troy ounces.] ^c^[**9:16** A shekel is about 10 grams or about 0.32 Troy ounces, so 300 shekels was about 3 kilograms or about 96 Troy ounces.]
 
 ## Solomon's position of power and the wealth it promotes
-@22 So King Solomon exceeded all the kings of the earth in riches and wisdom. 
-@23 All the kings of the earth sought the presence of Solomon to hear his wisdom, which God had put in his heart. 
-@24 They each brought tribute: vessels of silver, vessels of gold, clothing, armor, spices, horses, and mules every year. 
-@25 Solomon had four thousand stalls for horses and chariots, and twelve thousand horsemen that he stationed in the chariot cities and with the king at Jerusalem. 
-@26 He ruled over all the kings from the River even to the land of the Philistines, and to the border of Egypt. 
-@27 The king made silver as common in Jerusalem as stones, and he made cedars to be as abundant as the sycamore trees that are in the lowland. 
-@28 They brought horses for Solomon out of Egypt and out of all lands.
+@22 So_H1431 King_H4428 Solomon_H8010 exceeded all_H3605 the_H3605 kings_H4428 of_H4428 the_H3605 earth_H0776 in_H0776 riches_H6239 and_H0776 wisdom_H2451. 
+@23 All_H3605 the_H3605 kings_H4428 of_H4428 the_H3605 earth_H0776 sought_H1245 the_H3605 presence_H6440 of_H4428 Solomon_H8010 to_H8085 hear_H8085 his_H3605 wisdom_H2451, which_H0834 God_H0430 had_H0834 put_H5414 in_H0430 his_H3605 heart_H3820. 
+@24 They_H1992 each_H0376 brought_H0935 tribute_H4503: vessels_H3627 of_H0376 silver_H3701, vessels_H3627 of_H0376 gold_H2091, clothing_H3627, armor_H3627, spices_H1314, horses_H5483, and_H0935 mules_H6505 every_H0376 year_H8141. 
+@25 Solomon_H8010 had_H1961 four_H0702 thousand_H0505 stalls_H0723 for_H4428 horses_H5483 and_H4428 chariots_H7393, and_H4428 twelve_H6240 thousand_H0505 horsemen_H6571 that_H1961 he_H8010 stationed in_H4428 the_H1961 chariot_H4818 cities_H5892 and_H4428 with_H5973 the_H1961 king_H4428 at_H4428 Jerusalem_H3389. 
+@26 He_H5704 ruled_H4910 over_H4910 all_H3605 the_H3605 kings_H4428 from_H4480 the_H3605 River_H5104 even_H5704 to_H5704 the_H3605 land_H0776 of_H4428 the_H3605 Philistines_H6430, and_H0776 to_H5704 the_H3605 border_H1366 of_H4428 Egypt_H4714. 
+@27 The_H0853 king_H4428 made_H5414 silver_H3701 as_H0834 common in_H4428 Jerusalem_H3389 as_H0834 stones_H0068, and_H4428 he_H0834 made_H5414 cedars_H0730 to_H5414 be_H4428 as_H0834 abundant_H7230 as_H0834 the_H0853 sycamore_H8256 trees_H8256 that_H0834 are_H0834 in_H4428 the_H0853 lowland_H8219. 
+@28 They_H3605 brought_H3318 horses_H5483 for_H0776 Solomon_H8010 out_H3318 of_H0776 Egypt_H4714 and_H0776 out_H3318 of_H0776 all_H3605 lands_H0776.
 
 ## The sources of Solomon's story; his death
-@29 Now the rest of the acts of Solomon, first and last, aren’t they written in the history of Nathan the prophet, and in the prophecy of Ahijah the Shilonite, and in the visions of Iddo the seer concerning Jeroboam the son of Nebat? 
-@30 Solomon reigned in Jerusalem over all Israel forty years. 
-@31 Solomon slept with his fathers, and he was buried in his father David’s city; and Rehoboam his son reigned in his place. 
+@29 Now the_H5921 rest_H7605 of_H1121 the_H5921 acts_H1697 of_H1121 Solomon_H8010, first_H7223 and_H1121 last_H0314, aren’t they_H1992 written_H3789 in_H5921 the_H5921 history of_H1121 Nathan_H5416 the_H5921 prophet_H5030, and_H1121 in_H5921 the_H5921 prophecy_H5016 of_H1121 Ahijah_H0281 the_H5921 Shilonite_H7888, and_H1121 in_H5921 the_H5921 visions_H2378 of_H1121 Iddo_H3260 the_H5921 seer_H2374 concerning_H5921 Jeroboam_H3379 the_H5921 son_H1121 of_H1121 Nebat_H5028? 
+@30 Solomon_H8010 reigned_H4427 in_H5921 Jerusalem_H3389 over_H5921 all_H3605 Israel_H3478 forty_H0705 years_H8141. 
+@31 Solomon_H8010 slept_H7901 with_H5973 his_H1732 fathers_H0001, and_H1121 he_H1732 was_H1732 buried_H6912 in_H6912 his_H1732 father_H0001 David’s_H1732 city_H5892; and_H1121 Rehoboam_H7346 his_H1732 son_H1121 reigned_H4427 in_H6912 his_H1732 place_H8478. 
 
 # 10 
 ## Rehoboam and Jeroboam at Shechem; the division of the empire
-@1 Rehoboam went to Shechem, for all Israel had come to Shechem to make him king. 
-@2 When Jeroboam the son of Nebat heard of it (for he was in Egypt, where he had fled from the presence of King Solomon), Jeroboam returned out of Egypt. 
-@3 They sent and called him; and Jeroboam and all Israel came, and they spoke to Rehoboam, saying, 
-@4 “Your father made our yoke grievous. Now therefore make the grievous service of your father and his heavy yoke which he put on us, lighter, and we will serve you.” 
+@1 Rehoboam_H7346 went_H0935 to_H0935 Shechem_H7927, for_H3588 all_H3605 Israel_H3478 had_H3478 come_H0935 to_H0935 Shechem_H7927 to_H0935 make_H3588 him_H0853 king_H4427. 
+@2 When_H1961 Jeroboam_H3379 the_H6440 son_H1121 of_H1121 Nebat_H5028 heard_H8085 of_H1121 it_H1931 (for_H4714 he_H0834 was_H1961 in_H8085 Egypt_H4714, where_H0834 he_H0834 had_H0834 fled_H1272 from_H7725 the_H6440 presence_H6440 of_H1121 King_H4428 Solomon_H8010), Jeroboam_H3379 returned_H7725 out_H6440 of_H1121 Egypt_H4714. 
+@3 They_H0559 sent_H7971 and_H0935 called_H7121 him_H0413; and_H0935 Jeroboam_H3379 and_H0935 all_H3605 Israel_H3478 came_H0935, and_H0935 they_H0559 spoke_H1696 to_H0413 Rehoboam_H7346, saying_H0559, 
+@4 “Your_H5414 father_H0001 made_H5414 our_H5414 yoke_H5923 grievous_H3515. Now_H6258 therefore_H6258 make_H5414 the_H0853 grievous_H3515 service_H5656 of_H0001 your_H5414 father_H0001 and_H0001 his_H5414 heavy_H3515 yoke_H5923 which_H0834 he_H0834 put_H5414 on_H5921 us_H5414, lighter_H7043, and_H0001 we_H0834 will_H0834 serve_H5647 you_H0834.” 
 
-@5 He said to them, “Come again to me after three days.” 
+@5 He_H3117 said_H0559 to_H0413 them_H0413, “Come_H7725 again_H5750 to_H0413 me_H0413 after_H0413 three_H7969 days_H3117.” 
 
-So the people departed.
+So_H7725 the_H0559 people_H5971 departed.
 
 ## Rehoboams Counseling
-@6 King Rehoboam took counsel with the old men, who had stood before Solomon his father while he yet lived, saying, “What counsel do you give me about how to answer these people?” 
+@6 King_H4428 Rehoboam_H7346 took_H1961 counsel_H3289 with_H0854 the_H0559 old_H2205 men_H5971, who_H0834 had_H0834 stood_H5975 before_H6440 Solomon_H8010 his_H7725 father_H0001 while_H1961 he_H0834 yet lived_H2416, saying_H0559, “What_H0834 counsel_H3289 do_H2088 you_H0859 give_H7725 me_H6440 about_H1961 how_H0349 to_H0559 answer_H7725 these_H2088 people_H5971?” 
 
-@7 They spoke to him, saying, “If you are kind to these people, please them, and speak good words to them, then they will be your servants forever.” 
+@7 They_H0518 spoke_H1696 to_H0413 him_H0413, saying_H0559, “If_H0518 you_H0518 are_H3117 kind_H2896 to_H0413 these_H2088 people_H5971, please_H7521 them_H0413, and_H3117 speak_H1696 good_H2896 words_H1697 to_H0413 them_H0413, then_H1961 they_H0518 will_H1961 be_H1961 your_H3605 servants_H5650 forever_H3117.” 
 
-@8 But he abandoned the counsel of the old men which they had given him, and took counsel with the young men who had grown up with him, who stood before him. 
-@9 He said to them, “What counsel do you give, that we may give an answer to these people, who have spoken to me, saying, ‘Make the yoke that your father put on us lighter?’” 
+@8 But_H5800 he_H0834 abandoned_H5800 the_H0853 counsel_H6098 of_H2205 the_H0853 old_H2205 men_H2205 which_H0834 they_H0834 had_H0834 given_H3289 him_H0853, and_H6440 took_H0853 counsel_H6098 with_H0854 the_H0853 young_H3206 men_H2205 who_H0834 had_H0834 grown_H1431 up_H5975 with_H0854 him_H0853, who_H0834 stood_H5975 before_H6440 him_H0853. 
+@9 He_H0834 said_H0559 to_H0413 them_H0413, “What_H4100 counsel_H3289 do_H4100 you_H0859 give_H5414, that_H0834 we_H0834 may_H0834 give_H5414 an_H5414 answer_H7725 to_H0413 these_H2088 people_H5971, who_H0834 have_H0834 spoken_H1696 to_H0413 me_H0413, saying_H0559, ‘Make_H5414 the_H0853 yoke_H5923 that_H0834 your_H5414 father_H0001 put_H5414 on_H5921 us_H5414 lighter_H7043?’” 
 
-@10 The young men who had grown up with him spoke to him, saying, “Thus you shall tell the people who spoke to you, saying, ‘Your father made our yoke heavy, but make it lighter on us;’ thus you shall say to them, ‘My little finger is thicker than my father’s waist. 
-@11 Now whereas my father burdened you with a heavy yoke, I will add to your yoke. My father chastised you with whips, but I will chastise you with scorpions.’”
+@10 The_H0853 young_H3206 men_H5971 who_H0834 had_H0834 grown_H1431 up_H5921 with_H0854 him_H0413 spoke_H1696 to_H0413 him_H0413, saying_H0559, “Thus_H3541 you_H0859 shall_H0834 tell_H0559 the_H0853 people_H5971 who_H0834 spoke_H1696 to_H0413 you_H0859, saying_H0559, ‘Your_H5921 father_H0001 made_H3513 our_H5921 yoke_H5923 heavy_H3513, but_H0859 make_H1431 it_H5921 lighter_H7043 on_H5921 us_H0413;’ thus_H3541 you_H0859 shall_H0834 say_H0559 to_H0413 them_H0413, ‘My_H5921 little_H6995 finger_H6995 is_H0834 thicker_H5666 than_H5921 my_H5921 father’s_H0001 waist_H4975. 
+@11 Now_H6258 whereas_H6258 my_H5921 father_H0001 burdened you_H5921 with_H5921 a_H5921 heavy_H3515 yoke_H5923, I_H0589 will_H0589 add_H3254 to_H5921 your_H5921 yoke_H5923. My_H5921 father_H0001 chastised_H3256 you_H5921 with_H5921 whips_H7752, but_H6258 I_H0589 will_H0589 chastise_H3256 you_H5921 with_H5921 scorpions_H6137.’”
 
 ## Descent of the ten tribes; Jeroboam's election as king of Israel
-@12 So Jeroboam and all the people came to Rehoboam the third day, as the king asked, saying, “Come to me again the third day.” 
-@13 The king answered them roughly; and King Rehoboam abandoned the counsel of the old men, 
-@14 and spoke to them after the counsel of the young men, saying, “My father made your yoke heavy, but I will add to it. My father chastised you with whips, but I will chastise you with scorpions.” 
+@12 So_H0834 Jeroboam_H3379 and_H0935 all_H3605 the_H3605 people_H5971 came_H0935 to_H0413 Rehoboam_H7346 the_H3605 third_H7992 day_H3117, as_H0834 the_H3605 king_H4428 asked_H0559, saying_H0559, “Come_H0935 to_H0413 me_H0413 again_H7725 the_H3605 third_H7992 day_H3117.” 
+@13 The_H0853 king_H4428 answered_H6030 them_H0853 roughly; and_H4428 King_H4428 Rehoboam_H7346 abandoned_H5800 the_H0853 counsel_H6098 of_H4428 the_H0853 old_H2205 men_H2205, 
+@14 and_H0001 spoke_H1696 to_H0413 them_H0413 after_H5921 the_H0853 counsel_H6098 of_H0001 the_H0853 young_H3206 men_H3206, saying_H0559, “My_H5921 father_H0001 made_H3513 your_H5921 yoke_H5923 heavy_H3513, but_H1696 I_H0589 will_H0589 add_H3254 to_H0413 it_H5921. My_H5921 father_H0001 chastised_H3256 you_H5921 with_H0413 whips_H7752, but_H1696 I_H0589 will_H0589 chastise_H3256 you_H5921 with_H0413 scorpions_H6137.” 
 
-@15 So the king didn’t listen to the people; for it was brought about by God, that Yahweh might establish his word, which he spoke by Ahijah the Shilonite to Jeroboam the son of Nebat. 
+@15 So_H4616 the_H0853 king_H4428 didn’t_H3808 listen_H8085 to_H0413 the_H0853 people_H5971; for_H3588 it_H3588 was_H1961 brought_H1961 about_H1961 by_H3027 God_H0430, that_H0834 Yahweh_H3068 might_H4616 establish_H6965 his_H3068 word_H1697, which_H0834 he_H0834 spoke_H1696 by_H3027 Ahijah_H0281 the_H0853 Shilonite_H7888 to_H0413 Jeroboam_H3379 the_H0853 son_H1121 of_H1121 Nebat_H5028. 
 
-@16 When all Israel saw that the king didn’t listen to them, the people answered the king, saying, “What portion do we have in David? We don’t have an inheritance in the son of Jesse! Every man to your tents, Israel! Now see to your own house, David.” So all Israel departed to their tents. 
+@16 When_H3588 all_H3605 Israel_H3478 saw_H7200 that_H3588 the_H3605 king_H4428 didn’t_H3808 listen_H8085 to_H0559 them_H1992, the_H3605 people_H5971 answered_H0559 the_H3605 king_H4428, saying_H0559, “What_H4100 portion_H2506 do_H4100 we_H3588 have_H0376 in_H1004 David_H1732? We_H3588 don’t_H3808 have_H0376 an_H7200 inheritance_H5159 in_H1004 the_H3605 son_H1121 of_H1121 Jesse_H3448! Every_H3605 man_H0376 to_H0559 your_H3605 tents_H0168, Israel_H3478! Now_H6258 see_H7200 to_H0559 your_H3605 own_H0376 house_H1004, David_H1732.” So_H3808 all_H3605 Israel_H3478 departed to_H0559 their_H3605 tents_H0168. 
 
-@17 But as for the children of Israel who lived in the cities of Judah, Rehoboam reigned over them. 
-@18 Then King Rehoboam sent Hadoram, who was over the men subject to forced labor; and the children of Israel stoned him to death with stones. King Rehoboam hurried to get himself up to his chariot, to flee to Jerusalem. 
-@19 So Israel rebelled against David’s house to this day. 
+@17 But_H5921 as_H1121 for_H5921 the_H5921 children_H1121 of_H1121 Israel_H3478 who_H1121 lived_H3427 in_H3427 the_H5921 cities_H5892 of_H1121 Judah_H3063, Rehoboam_H7346 reigned_H4427 over_H5921 them_H5921. 
+@18 Then_H0853 King_H4428 Rehoboam_H7346 sent_H7971 Hadoram_H1913, who_H0834 was_H0834 over_H5921 the_H0853 men_H1121 subject to_H4191 forced_H4522 labor_H4522; and_H1121 the_H0853 children_H1121 of_H1121 Israel_H3478 stoned_H7275 him_H5921 to_H4191 death_H4191 with_H5921 stones_H0068. King_H4428 Rehoboam_H7346 hurried_H5127 to_H4191 get_H5927 himself up_H5927 to_H4191 his_H5921 chariot_H4818, to_H4191 flee_H5127 to_H4191 Jerusalem_H3389. 
+@19 So_H2088 Israel_H3478 rebelled_H6586 against_H6586 David’s_H1732 house_H1004 to_H5704 this_H2088 day_H3117. 
 
 # 11 
 ## Rehoboam refrains from war against Israel under God's direction
-@1 When Rehoboam had come to Jerusalem, he assembled the house of Judah and Benjamin, one hundred eighty thousand chosen men who were warriors, to fight against Israel, to bring the kingdom again to Rehoboam. 
-@2 But Yahweh’s word came to Shemaiah the man of God, saying, 
-@3 “Speak to Rehoboam the son of Solomon, king of Judah, and to all Israel in Judah and Benjamin, saying, 
-@4 ‘Yahweh says, “You shall not go up, nor fight against your brothers! Every man return to his house; for this thing is of me.”’” So they listened to Yahweh’s words, and returned from going against Jeroboam.
+@1 When_H0935 Rehoboam_H7346 had_H3478 come_H0935 to_H0935 Jerusalem_H3389, he_H6213 assembled_H6950 the_H0853 house_H1004 of_H1004 Judah_H3063 and_H0935 Benjamin_H1144, one_H3967 hundred_H3967 eighty_H8084 thousand_H0505 chosen men_H0970 who_H3478 were_H3478 warriors_H4421, to_H0935 fight_H3898 against_H5973 Israel_H3478, to_H0935 bring_H0935 the_H0853 kingdom_H4467 again_H7725 to_H0935 Rehoboam_H7346. 
+@2 But_H1961 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 Shemaiah_H8098 the_H0559 man_H0376 of_H0376 God_H0430, saying_H0559, 
+@3 “Speak_H0559 to_H0413 Rehoboam_H7346 the_H3605 son_H1121 of_H1121 Solomon_H8010, king_H4428 of_H1121 Judah_H3063, and_H1121 to_H0413 all_H3605 Israel_H3478 in_H0413 Judah_H3063 and_H1121 Benjamin_H1144, saying_H0559, 
+@4 ‘Yahweh_H3068 says_H0559, “You_H3588 shall_H3068 not_H3808 go_H5927 up_H5927, nor_H3808 fight_H3898 against_H0413 your_H3068 brothers_H0251! Every_H0376 man_H0376 return_H7725 to_H0413 his_H3068 house_H1004; for_H3588 this_H2088 thing_H1697 is_H3068 of_H1004 me_H0413.”’” So_H3541 they_H3588 listened_H8085 to_H0413 Yahweh’s_H3068 words_H1697, and_H3068 returned_H7725 from_H7725 going_H5927 against_H0413 Jeroboam_H3379.
 
 ## Rehoboam's Strongholds
-@5 Rehoboam lived in Jerusalem, and built cities for defense in Judah. 
-@6 He built Bethlehem, Etam, Tekoa, 
-@7 Beth Zur, Soco, Adullam, 
-@8 Gath, Mareshah, Ziph, 
-@9 Adoraim, Lachish, Azekah, 
-@10 Zorah, Aijalon, and Hebron, which are fortified cities in Judah and in Benjamin. 
-@11 He fortified the strongholds and put captains in them with stores of food, oil and wine. 
-@12 He put shields and spears in every city, and made them exceedingly strong. Judah and Benjamin belonged to him.
+@5 Rehoboam_H7346 lived_H3427 in_H3427 Jerusalem_H3389, and_H3063 built_H1129 cities_H5892 for_H3427 defense_H4692 in_H3427 Judah_H3063. 
+@6 He_H0853 built_H1129 Bethlehem_H1035, Etam_H5862, Tekoa_H8620, 
+@7 Beth Zur, Soco_H7755, Adullam_H5725, 
+@8 Gath_H1661, Mareshah_H4762, Ziph_H2128, 
+@9 Adoraim_H0115, Lachish_H3923, Azekah_H5825, 
+@10 Zorah_H6881, Aijalon_H0357, and_H3063 Hebron_H2275, which_H0834 are_H0834 fortified_H4694 cities_H5892 in_H3063 Judah_H3063 and_H3063 in_H3063 Benjamin_H1144. 
+@11 He_H5414 fortified_H4694 the_H0853 strongholds and_H2388 put_H5414 captains in_H5414 them_H5414 with_H8081 stores_H0214 of_H0214 food_H3978, oil_H8081 and_H2388 wine_H3196. 
+@12 He_H3063 put_H2388 shields_H6793 and_H3063 spears_H7420 in_H2388 every_H3605 city_H5892, and_H3063 made_H2388 them_H2388 exceedingly_H3966 strong_H2388. Judah_H3063 and_H3063 Benjamin_H1144 belonged_H1961 to_H1961 him_H3605.
 
 ## Entrance of priests, Levites and pious people from the kingdom of ten tribes
-@13 The priests and the Levites who were in all Israel stood with him out of all their territory. 
-@14 For the Levites left their pasture lands and their possessions, and came to Judah and Jerusalem; for Jeroboam and his sons cast them off, that they should not execute the priest’s office to Yahweh. 
-@15 He himself appointed priests for the high places, for the male goat and calf idols which he had made. 
-@16 After them, out of all the tribes of Israel, those who set their hearts to seek Yahweh, the God of Israel, came to Jerusalem to sacrifice to Yahweh, the God of their fathers. 
-@17 So they strengthened the kingdom of Judah and made Rehoboam the son of Solomon strong for three years, for they walked three years in the way of David and Solomon.
+@13 The_H3605 priests_H3548 and_H3478 the_H3605 Levites_H3881 who_H0834 were_H0834 in_H5921 all_H3605 Israel_H3478 stood_H3320 with_H5921 him_H5921 out_H5921 of_H1366 all_H3605 their_H3605 territory_H1366. 
+@14 For_H3588 the_H0853 Levites_H3881 left_H5800 their_H3068 pasture_H4054 lands_H4054 and_H1121 their_H3068 possessions_H0272, and_H1121 came to_H3068 Judah_H3063 and_H1121 Jerusalem_H3389; for_H3588 Jeroboam_H3379 and_H1121 his_H3068 sons_H1121 cast them_H0853 off_H0853, that_H3588 they_H3588 should_H3068 not_H3588 execute the_H0853 priest’s office to_H3068 Yahweh_H3068. 
+@15 He_H0834 himself appointed_H5975 priests_H3548 for_H1116 the_H0834 high_H1116 places_H1116, for_H1116 the_H0834 male_H8163 goat_H8163 and_H3548 calf_H5695 idols which_H0834 he_H0834 had_H0834 made_H6213. 
+@16 After_H0310 them_H5414, out_H1245 of_H0430 all_H3605 the_H3605 tribes_H7626 of_H0430 Israel_H3478, those_H3605 who_H3605 set_H5414 their_H3605 hearts_H3824 to_H0935 seek_H1245 Yahweh_H3068, the_H3605 God_H0430 of_H0430 Israel_H3478, came_H0935 to_H0935 Jerusalem_H3389 to_H0935 sacrifice_H2076 to_H0935 Yahweh_H3068, the_H3605 God_H0430 of_H0430 their_H3605 fathers_H0001. 
+@17 So_H1980 they_H3588 strengthened_H2388 the_H0853 kingdom_H4438 of_H1121 Judah_H3063 and_H1980 made_H2388 Rehoboam_H7346 the_H0853 son_H1121 of_H1121 Solomon_H8010 strong_H2388 for_H3588 three_H7969 years_H8141, for_H3588 they_H3588 walked_H1980 three_H7969 years_H8141 in_H1980 the_H0853 way_H1870 of_H1121 David_H1732 and_H1980 Solomon_H8010.
 
 ## Family History by rehaboam
-@18 Rehoboam took a wife for himself, Mahalath the daughter of Jerimoth the son of David and of Abihail the daughter of Eliab the son of Jesse. 
-@19 She bore him sons: Jeush, Shemariah, and Zaham. 
-@20 After her, he took Maacah the granddaughter of Absalom; and she bore him Abijah, Attai, Ziza, and Shelomith. 
-@21 Rehoboam loved Maacah the granddaughter of Absalom above all his wives and his concubines; for he took eighteen wives and sixty concubines, and became the father of twenty-eight sons and sixty daughters. 
-@22 Rehoboam appointed Abijah the son of Maacah to be chief, the prince among his brothers, for he intended to make him king. 
-@23 He dealt wisely, and dispersed some of his sons throughout all the lands of Judah and Benjamin, to every fortified city. He gave them food in abundance; and he sought many wives for them. 
+@18 Rehoboam_H7346 took_H3947 a_H3947 wife_H0802 for_H0802 himself, Mahalath_H4258 the_H0853 daughter_H1323 of_H1121 Jerimoth the_H0853 son_H1121 of_H1121 David_H1732 and_H1121 of_H1121 Abihail_H0032 the_H0853 daughter_H1323 of_H1121 Eliab_H0446 the_H0853 son_H1121 of_H1121 Jesse_H3448. 
+@19 She bore_H3205 him_H3205 sons_H1121: Jeush_H3266, Shemariah_H8114, and_H1121 Zaham_H2093. 
+@20 After_H0310 her_H3947, he_H0310 took_H3947 Maacah_H4601 the_H0853 granddaughter_H1323 of_H1323 Absalom_H0053; and_H1323 she_H0310 bore_H3205 him_H3205 Abijah_H0029, Attai_H6262, Ziza_H2124, and_H1323 Shelomith_H8019. 
+@21 Rehoboam_H7346 loved_H0157 Maacah_H4601 the_H3605 granddaughter_H1323 of_H1121 Absalom_H0053 above all_H3605 his_H3605 wives_H0802 and_H1121 his_H3605 concubines_H6370; for_H3588 he_H3588 took_H5375 eighteen_H6240 wives_H0802 and_H1121 sixty_H8346 concubines_H6370, and_H1121 became_H3205 the_H3605 father_H3205 of_H1121 twenty-eight_H8083 sons_H1121 and_H1121 sixty_H8346 daughters_H1323. 
+@22 Rehoboam_H7346 appointed_H5975 Abijah_H0029 the_H0853 son_H1121 of_H1121 Maacah_H4601 to_H1121 be_H1121 chief_H7218, the_H0853 prince_H5057 among_H0251 his_H3588 brothers_H0251, for_H3588 he_H3588 intended to_H1121 make_H3588 him_H0853 king_H4427. 
+@23 He_H5414 dealt wisely_H0995, and_H1121 dispersed some_H3605 of_H1121 his_H3605 sons_H1121 throughout_H3605 all_H3605 the_H3605 lands_H0776 of_H1121 Judah_H3063 and_H1121 Benjamin_H1144, to_H5414 every_H3605 fortified_H4694 city_H5892. He_H5414 gave_H5414 them_H5414 food_H4202 in_H0776 abundance_H7230; and_H1121 he_H5414 sought_H7592 many_H7230 wives_H0802 for_H0776 them_H5414. 
 
 # 12 
 ## Raid and pillage of the Egyptian king Sisak; Appearance of the prophet Semeias
-@1 When the kingdom of Rehoboam was established and he was strong, he abandoned Yahweh’s law, and all Israel with him. 
-@2 In the fifth year of King Rehoboam, Shishak king of Egypt came up against Jerusalem, because they had trespassed against Yahweh, 
-@3 with twelve hundred chariots and sixty thousand horsemen. The people were without number who came with him out of Egypt: the Lubim, the Sukkiim, and the Ethiopians. 
-@4 He took the fortified cities which belonged to Judah, and came to Jerusalem. 
-@5 Now Shemaiah the prophet came to Rehoboam and to the princes of Judah, who were gathered together to Jerusalem because of Shishak, and said to them, “Yahweh says, ‘You have forsaken me, therefore I have also left you in the hand of Shishak.’” 
+@1 When_H1961 the_H3605 kingdom_H4438 of_H3068 Rehoboam_H7346 was_H1961 established_H3559 and_H3068 he_H3068 was_H1961 strong_H2393, he_H3068 abandoned_H5800 Yahweh’s_H3068 law_H8451, and_H3068 all_H3605 Israel_H3478 with_H5973 him_H0853. 
+@2 In_H5921 the_H5921 fifth_H2549 year_H8141 of_H4428 King_H4428 Rehoboam_H7346, Shishak_H7895 king_H4428 of_H4428 Egypt_H4714 came_H1961 up_H5927 against_H5921 Jerusalem_H3389, because_H3588 they_H3588 had_H3068 trespassed against_H5921 Yahweh_H3068, 
+@3 with_H5973 twelve hundred_H3967 chariots_H7393 and_H0935 sixty_H8346 thousand_H0505 horsemen_H6571. The_H0834 people_H5971 were_H0834 without_H0369 number_H4557 who_H0834 came_H0935 with_H5973 him_H0935 out_H0935 of_H4557 Egypt_H4714: the_H0834 Lubim_H3864, the_H0834 Sukkiim_H5525, and_H0935 the_H0834 Ethiopians_H3569. 
+@4 He_H0834 took_H3920 the_H0853 fortified_H4694 cities_H5892 which_H0834 belonged to_H0935 Judah_H3063, and_H0935 came_H0935 to_H0935 Jerusalem_H3389. 
+@5 Now_H0935 Shemaiah_H8098 the_H0853 prophet_H5030 came_H0935 to_H0413 Rehoboam_H7346 and_H0935 to_H0413 the_H0853 princes_H8269 of_H3068 Judah_H3063, who_H0834 were_H0834 gathered_H0622 together_H0622 to_H0413 Jerusalem_H3389 because_H0834 of_H3068 Shishak_H7895, and_H0935 said_H0559 to_H0413 them_H0413, “Yahweh_H3068 says_H0559, ‘You_H0859 have_H0834 forsaken me_H0413, therefore_H3068 I_H0589 have_H0834 also_H0637 left_H5800 you_H0859 in_H0935 the_H0853 hand_H3027 of_H3068 Shishak_H7895.’” 
 
-@6 Then the princes of Israel and the king humbled themselves; and they said, “Yahweh is righteous.” 
+@6 Then_H0559 the_H0559 princes_H8269 of_H4428 Israel_H3478 and_H3068 the_H0559 king_H4428 humbled_H3665 themselves_H3665; and_H3068 they_H3068 said_H0559, “Yahweh_H3068 is_H3068 righteous_H6662.” 
 
-@7 When Yahweh saw that they humbled themselves, Yahweh’s word came to Shemaiah, saying, “They have humbled themselves. I will not destroy them, but I will grant them some deliverance, and my wrath won’t be poured out on Jerusalem by the hand of Shishak. 
-@8 Nevertheless they will be his servants, that they may know my service, and the service of the kingdoms of the countries.” 
+@7 When_H3588 Yahweh_H3068 saw_H7200 that_H3588 they_H1992 humbled_H3665 themselves_H1992, Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 Shemaiah_H8098, saying_H0559, “They_H1992 have_H1961 humbled_H3665 themselves_H1992. I_H3588 will_H3068 not_H3808 destroy_H7843 them_H0413, but_H3588 I_H3588 will_H3068 grant_H5414 them_H0413 some_H1992 deliverance_H6413, and_H3068 my_H5414 wrath_H2534 won’t_H3808 be_H1961 poured_H5413 out_H0413 on_H0413 Jerusalem_H3389 by_H3027 the_H0559 hand_H3027 of_H3068 Shishak_H7895. 
+@8 Nevertheless_H3588 they_H3588 will_H1961 be_H1961 his_H1961 servants_H5650, that_H3588 they_H3588 may_H1961 know_H3045 my_H1961 service_H5656, and_H0776 the_H3588 service_H5656 of_H0776 the_H3588 kingdoms_H4467 of_H0776 the_H3588 countries_H0776.” 
 
-@9 So Shishak king of Egypt came up against Jerusalem and took away the treasures of Yahweh’s house and the treasures of the king’s house. He took it all away. He also took away the shields of gold which Solomon had made. 
-@10 King Rehoboam made shields of bronze in their place, and committed them to the hands of the captains of the guard, who kept the door of the king’s house. 
-@11 As often as the king entered into Yahweh’s house, the guard came and bore them, then brought them back into the guard room. 
-@12 When he humbled himself, Yahweh’s wrath turned from him, so as not to destroy him altogether. Moreover, there were good things found in Judah.
+@9 So_H6213 Shishak_H7895 king_H4428 of_H4428 Egypt_H4714 came_H5927 up_H5927 against_H5921 Jerusalem_H3389 and_H3068 took_H3947 away_H3947 the_H3605 treasures_H0214 of_H4428 Yahweh’s_H3068 house_H1004 and_H3068 the_H3605 treasures_H0214 of_H4428 the_H3605 king’s_H4428 house_H1004. He_H0834 took_H3947 it_H5921 all_H3605 away_H3947. He_H0834 also_H3068 took_H3947 away_H3947 the_H3605 shields_H4043 of_H4428 gold_H2091 which_H0834 Solomon_H8010 had_H3068 made_H6213. 
+@10 King_H4428 Rehoboam_H7346 made_H6213 shields_H4043 of_H4428 bronze_H5178 in_H5921 their_H5921 place_H8478, and_H3027 committed_H6213 them_H5921 to_H5921 the_H5921 hands_H3027 of_H4428 the_H5921 captains_H8269 of_H4428 the_H5921 guard_H8104, who_H8104 kept_H8104 the_H5921 door_H6607 of_H4428 the_H5921 king’s_H4428 house_H1004. 
+@11 As_H1961 often_H1767 as_H1961 the_H0413 king_H4428 entered_H0935 into_H0413 Yahweh’s_H3068 house_H1004, the_H0413 guard_H7323 came_H0935 and_H0935 bore_H5375 them_H0413, then_H1961 brought_H0935 them_H0413 back_H7725 into_H0413 the_H0413 guard_H7323 room_H1004. 
+@12 When_H1961 he_H3068 humbled_H3665 himself_H3665, Yahweh’s_H3068 wrath_H0639 turned_H7725 from_H4480 him_H7725, so_H4480 as_H1697 not_H3808 to_H7725 destroy_H7843 him_H7725 altogether. Moreover_H1571, there_H1961 were_H1961 good_H2896 things_H1697 found_H1571 in_H3068 Judah_H3063.
 
 ## Conclusion of Rehoboam's rule and the sources of his story
-@13 So King Rehoboam strengthened himself in Jerusalem and reigned; for Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which Yahweh had chosen out of all the tribes of Israel to put his name there. His mother’s name was Naamah the Ammonitess. 
-@14 He did that which was evil, because he didn’t set his heart to seek Yahweh. 
+@13 So_H0834 King_H4428 Rehoboam_H7346 strengthened_H2388 himself_H2388 in_H8141 Jerusalem_H3389 and_H1121 reigned_H4427; for_H3588 Rehoboam_H7346 was_H8034 forty-one years_H8141 old_H1121 when_H3588 he_H0834 began to_H3068 reign_H4427, and_H1121 he_H0834 reigned_H4427 seventeen_H6240 years_H8141 in_H8141 Jerusalem_H3389, the_H3605 city_H5892 which_H0834 Yahweh_H3068 had_H3068 chosen_H0977 out_H2388 of_H1121 all_H3605 the_H3605 tribes_H7626 of_H1121 Israel_H3478 to_H3068 put_H7760 his_H3605 name_H8034 there_H8033. His_H3605 mother’s_H0517 name_H8034 was_H8034 Naamah_H5279 the_H3605 Ammonitess_H5985. 
+@14 He_H3588 did_H6213 that_H3588 which was_H3068 evil_H7451, because_H3588 he_H3588 didn’t_H3808 set_H3559 his_H3068 heart_H3820 to_H3068 seek_H1875 Yahweh_H3068. 
 
-@15 Now the acts of Rehoboam, first and last, aren’t they written in the histories of Shemaiah the prophet and of Iddo the seer, in the genealogies? There were wars between Rehoboam and Jeroboam continually. 
-@16 Rehoboam slept with his fathers, and was buried in David’s city; and Abijah his son reigned in his place. 
+@15 Now_H3117 the_H3605 acts_H1697 of_H3117 Rehoboam_H7346, first_H7223 and_H3117 last_H0314, aren’t they_H1992 written_H3789 in_H3789 the_H3605 histories of_H3117 Shemaiah_H8098 the_H3605 prophet_H5030 and_H3117 of_H3117 Iddo_H5714 the_H3605 seer_H2374, in_H3789 the_H3605 genealogies_H3187? There_H1992 were_H1992 wars_H4421 between_H4421 Rehoboam_H7346 and_H3117 Jeroboam_H3379 continually_H3117. 
+@16 Rehoboam_H7346 slept_H7901 with_H5973 his_H1732 fathers_H0001, and_H1121 was_H1732 buried_H6912 in_H6912 David’s_H1732 city_H5892; and_H1121 Abijah_H0029 his_H1732 son_H1121 reigned_H4427 in_H6912 his_H1732 place_H8478. 
 
 # 13 
 ## Abijah's war with Jeroboam; his speech to Jeroboam's army
-@1 In the eighteenth year of King Jeroboam, Abijah began to reign over Judah. 
-@2 He reigned three years in Jerusalem. His mother’s name was Micaiah the daughter of Uriel of Gibeah. There was war between Abijah and Jeroboam. 
-@3 Abijah joined battle with an army of valiant men of war, even four hundred thousand chosen men; and Jeroboam set the battle in array against him with eight hundred thousand chosen men, who were mighty men of valor. 
-@4 Abijah stood up on Mount Zemaraim, which is in the hill country of Ephraim, and said, “Hear me, Jeroboam and all Israel: 
-@5 Ought you not to know that Yahweh, the God of Israel, gave the kingdom over Israel to David forever, even to him and to his sons by a covenant of salt? 
-@6 Yet Jeroboam the son of Nebat, the servant of Solomon the son of David, rose up, and rebelled against his lord. 
-@7 Worthless men were gathered to him, wicked fellows who strengthened themselves against Rehoboam the son of Solomon, when Rehoboam was young and tender hearted, and could not withstand them. 
+@1 In_H5921 the_H5921 eighteenth_H6240 year_H8141 of_H4428 King_H4428 Jeroboam_H3379, Abijah_H0029 began to_H5921 reign_H4427 over_H5921 Judah_H3063. 
+@2 He_H4480 reigned_H4427 three_H7969 years_H8141 in_H8141 Jerusalem_H3389. His_H1961 mother’s_H0517 name_H8034 was_H8034 Micaiah_H4322 the_H4480 daughter_H1323 of_H1323 Uriel_H0222 of_H1323 Gibeah_H1390. There_H1961 was_H8034 war_H4421 between_H0996 Abijah_H0029 and_H3389 Jeroboam_H3379. 
+@3 Abijah_H0029 joined battle_H4421 with_H5973 an_H0376 army_H2428 of_H0376 valiant_H2428 men_H0376 of_H0376 war_H4421, even_H0853 four_H0702 hundred_H3967 thousand_H0505 chosen men_H0376; and_H3967 Jeroboam_H3379 set the_H0853 battle_H4421 in_H0376 array_H4421 against_H5973 him_H0853 with_H5973 eight_H8083 hundred_H3967 thousand_H0505 chosen men_H0376, who_H0376 were_H0376 mighty_H1368 men_H0376 of_H0376 valor_H2428. 
+@4 Abijah_H0029 stood_H6965 up_H6965 on_H5921 Mount_H2022 Zemaraim_H6787, which_H0834 is_H0834 in_H5921 the_H3605 hill_H2022 country_H2022 of_H2022 Ephraim_H0669, and_H6965 said_H0559, “Hear_H8085 me_H5921, Jeroboam_H3379 and_H6965 all_H3605 Israel_H3478: 
+@5 Ought you_H3588 not_H3808 to_H5921 know_H3045 that_H3588 Yahweh_H3068, the_H5921 God_H0430 of_H1121 Israel_H3478, gave_H5414 the_H5921 kingdom_H4467 over_H5921 Israel_H3478 to_H5921 David_H1732 forever_H5769, even_H3588 to_H5921 him_H5414 and_H1121 to_H5921 his_H5414 sons_H1121 by_H5921 a_H3588 covenant_H1285 of_H1121 salt_H4417? 
+@6 Yet_H5921 Jeroboam_H3379 the_H5921 son_H1121 of_H1121 Nebat_H5028, the_H5921 servant_H5650 of_H1121 Solomon_H8010 the_H5921 son_H1121 of_H1121 David_H1732, rose_H6965 up_H6965, and_H1121 rebelled_H4775 against_H5921 his_H5921 lord_H0113. 
+@7 Worthless_H1100 men_H0376 were_H1961 gathered_H6908 to_H1961 him_H5921, wicked_H1100 fellows_H0376 who_H0376 strengthened_H2388 themselves_H5921 against_H5921 Rehoboam_H7346 the_H6440 son_H1121 of_H1121 Solomon_H8010, when_H1961 Rehoboam_H7346 was_H1961 young_H5288 and_H1121 tender_H7390 hearted, and_H1121 could_H0376 not_H3808 withstand_H6440 them_H5921. 
 
-@8 “Now you intend to withstand the kingdom of Yahweh in the hand of the sons of David. You are a great multitude, and the golden calves which Jeroboam made you for gods are with you. 
-@9 Haven’t you driven out the priests of Yahweh, the sons of Aaron, and the Levites, and made priests for yourselves according to the ways of the peoples of other lands? Whoever comes to consecrate himself with a young bull and seven rams may be a priest of those who are no gods. 
+@8 “Now_H6258 you_H0859 intend_H0559 to_H0559 withstand_H6440 the_H0559 kingdom_H4467 of_H1121 Yahweh_H3068 in_H0430 the_H0559 hand_H3027 of_H1121 the_H0559 sons_H1121 of_H1121 David_H1732. You_H0859 are_H0834 a_H0834 great_H7227 multitude_H1995, and_H1121 the_H0559 golden_H2091 calves_H5695 which_H0834 Jeroboam_H3379 made_H6213 you_H0859 for_H3027 gods_H0430 are_H0834 with_H5973 you_H0859. 
+@9 Haven’t_H3808 you_H3605 driven_H5080 out_H3605 the_H3605 priests_H3548 of_H1121 Yahweh_H3068, the_H3605 sons_H1121 of_H1121 Aaron_H0175, and_H1121 the_H3605 Levites_H3881, and_H1121 made_H6213 priests_H3548 for_H0776 yourselves_H3027 according_H3027 to_H0935 the_H3605 ways of_H1121 the_H3605 peoples_H5971 of_H1121 other_H3605 lands_H0776? Whoever_H3605 comes_H0935 to_H0935 consecrate himself_H3027 with_H4390 a_H1961 young_H1121 bull_H6499 and_H1121 seven_H7651 rams_H0352 may_H1961 be_H1961 a_H1961 priest_H3548 of_H1121 those_H3605 who_H3605 are_H3027 no_H3808 gods_H0430. 
 
-@10 “But as for us, Yahweh is our God, and we have not forsaken him. We have priests serving Yahweh, the sons of Aaron, and the Levites in their work. 
-@11 They burn to Yahweh every morning and every evening burnt offerings and sweet incense. They also set the show bread in order on the pure table, and care for the gold lamp stand with its lamps, to burn every evening; for we keep the instruction of Yahweh our God, but you have forsaken him. 
-@12 Behold, God is with us at our head, and his priests with the trumpets of alarm to sound an alarm against you. Children of Israel, don’t fight against Yahweh, the God of your fathers; for you will not prosper.”
+@10 “But_H3808 as_H3068 for_H0430 us, Yahweh_H3068 is_H3068 our_H3068 God_H0430, and_H1121 we_H0587 have_H1121 not_H3808 forsaken him_H0430. We_H0587 have_H1121 priests_H3548 serving_H8334 Yahweh_H3068, the_H3068 sons_H1121 of_H1121 Aaron_H0175, and_H1121 the_H3068 Levites_H3881 in_H0430 their_H3068 work_H4399. 
+@11 They_H3588 burn_H6999 to_H5921 Yahweh_H3068 every_H1242 morning_H1242 and_H3068 every_H1242 evening_H6153 burnt_H5930 offerings_H3068 and_H3068 sweet_H5561 incense_H7004. They_H3588 also_H3068 set the_H0853 show bread_H3899 in_H5921 order on_H5921 the_H0853 pure_H2889 table_H7979, and_H3068 care_H4931 for_H3588 the_H0853 gold_H2091 lamp_H5216 stand with_H3068 its_H0853 lamps_H5216, to_H5921 burn_H6999 every_H1242 evening_H6153; for_H3588 we_H0587 keep_H8104 the_H0853 instruction of_H0430 Yahweh_H3068 our_H3068 God_H0430, but_H3588 you_H0859 have_H0859 forsaken him_H5921. 
+@12 Behold_H2009, God_H0430 is_H3068 with_H5973 us_H5921 at_H5921 our_H3068 head_H7218, and_H1121 his_H5921 priests_H3548 with_H5973 the_H5921 trumpets_H2689 of_H1121 alarm_H8643 to_H5921 sound_H7321 an_H3588 alarm_H8643 against_H5921 you_H3588. Children_H1121 of_H1121 Israel_H3478, don’t_H0408 fight_H3898 against_H5921 Yahweh_H3068, the_H5921 God_H0430 of_H1121 your_H3068 fathers_H0001; for_H3588 you_H3588 will_H3068 not_H3808 prosper_H6743.”
 
 ## Victory of Abijah over Jeroboam
-@13 But Jeroboam caused an ambush to come about behind them; so they were before Judah, and the ambush was behind them. 
-@14 When Judah looked back, behold, the battle was before and behind them; and they cried to Yahweh, and the priests sounded with the trumpets. 
-@15 Then the men of Judah gave a shout. As the men of Judah shouted, God struck Jeroboam and all Israel before Abijah and Judah. 
-@16 The children of Israel fled before Judah, and God delivered them into their hand. 
-@17 Abijah and his people killed them with a great slaughter, so five hundred thousand chosen men of Israel fell down slain. 
-@18 Thus the children of Israel were brought under at that time, and the children of Judah prevailed, because they relied on Yahweh, the God of their fathers. 
-@19 Abijah pursued Jeroboam, and took cities from him: Bethel with its villages, Jeshanah with its villages, and Ephron with its villages. 
+@13 But_H1961 Jeroboam_H3379 caused_H1961 an_H1961 ambush_H3993 to_H0935 come_H0935 about_H1961 behind_H0310 them_H0853; so_H1961 they_H0935 were_H1961 before_H6440 Judah_H3063, and_H0935 the_H0853 ambush_H3993 was_H1961 behind_H0310 them_H0853. 
+@14 When_H3068 Judah_H3063 looked_H6437 back_H0268, behold_H2009, the_H6440 battle_H4421 was_H3068 before_H6440 and_H3068 behind_H0268 them_H6440; and_H3068 they_H3068 cried_H6817 to_H3068 Yahweh_H3068, and_H3068 the_H6440 priests_H3548 sounded_H2690 with_H3068 the_H6440 trumpets_H2689. 
+@15 Then_H1961 the_H3605 men_H0376 of_H0376 Judah_H3063 gave_H7321 a_H1961 shout_H7321. As_H1961 the_H3605 men_H0376 of_H0376 Judah_H3063 shouted_H7321, God_H0430 struck_H5062 Jeroboam_H3379 and_H3063 all_H3605 Israel_H3478 before_H6440 Abijah_H0029 and_H3063 Judah_H3063. 
+@16 The_H6440 children_H1121 of_H1121 Israel_H3478 fled_H5127 before_H6440 Judah_H3063, and_H1121 God_H0430 delivered_H5414 them_H5414 into_H3027 their_H5414 hand_H3027. 
+@17 Abijah_H0029 and_H3478 his_H0376 people_H5971 killed_H5221 them_H5221 with_H0376 a_H5221 great_H7227 slaughter_H4347, so five_H2568 hundred_H3967 thousand_H0505 chosen men_H0376 of_H0376 Israel_H3478 fell_H5307 down_H5221 slain_H5221. 
+@18 Thus the_H5921 children_H1121 of_H1121 Israel_H3478 were_H3478 brought under_H5921 at_H5921 that_H3588 time_H6256, and_H1121 the_H5921 children_H1121 of_H1121 Judah_H3063 prevailed_H0553, because_H3588 they_H3588 relied_H8172 on_H5921 Yahweh_H3068, the_H5921 God_H0430 of_H1121 their_H3068 fathers_H0001. 
+@19 Abijah_H0029 pursued_H7291 Jeroboam_H3379, and_H1323 took_H3920 cities_H5892 from_H4480 him_H0853: Bethel_H1008 with_H4480 its_H0853 villages_H1323, Jeshanah_H3466 with_H4480 its_H0853 villages_H1323, and_H1323 Ephron_H6085 with_H4480 its_H0853 villages_H1323. 
 
-@20 Jeroboam didn’t recover strength again in the days of Abijah. Yahweh struck him, and he died.
+@20 Jeroboam_H3379 didn’t_H3808 recover_H6113 strength_H3581 again_H5750 in_H3068 the_H3068 days_H3117 of_H3068 Abijah_H0029. Yahweh_H3068 struck_H5062 him_H4191, and_H3068 he_H3117 died_H4191.
 
 ## Conclusion and sources of the Abijah story
-@21 But Abijah grew mighty and took for himself fourteen wives, and became the father of twenty-two sons and sixteen daughters. 
-@22 The rest of the acts of Abijah, his ways, and his sayings are written in the commentary of the prophet Iddo. 
+@21 But_H2388 Abijah_H0029 grew_H5375 mighty_H2388 and_H1121 took_H5375 for_H0802 himself_H2388 fourteen_H6240 wives_H0802, and_H1121 became_H3205 the_H3205 father_H3205 of_H1121 twenty-two_H8147 sons_H1121 and_H1121 sixteen_H6240 daughters_H1323. 
+@22 The_H1697 rest_H3499 of_H1697 the_H1697 acts_H1697 of_H1697 Abijah_H0029, his_H5714 ways_H1870, and_H1870 his_H5714 sayings_H1697 are_H1697 written_H3789 in_H3789 the_H1697 commentary of_H1697 the_H1697 prophet_H5030 Iddo_H5714. 
 
 # 14 
 ## Asa's intervention against idolatry
-@1 So Abijah slept with his fathers, and they buried him in David’s city; and Asa his son reigned in his place. In his days, the land was quiet ten years. 
-@2 Asa did that which was good and right in Yahweh his God’s eyes, 
-@3 for he took away the foreign altars and the high places, broke down the pillars, cut down the Asherah poles, 
-@4 and commanded Judah to seek Yahweh, the God of their fathers, and to obey his law and command. 
-@5 Also he took away out of all the cities of Judah the high places and the sun images; and the kingdom was quiet before him.
+@1 So_H6213 Abijah slept with_H3068 his_H3068 fathers, and_H3068 they_H3068 buried_H6213 him_H0430 in_H0430 David’s city; and_H3068 Asa_H0609 his_H3068 son reigned in_H0430 his_H3068 place. In_H0430 his_H3068 days, the_H3068 land was_H3068 quiet ten years. 
+@2 Asa did that_H4196 which was good and_H4196 right in_H7665 Yahweh his_H5493 God’s eyes, 
+@3 for_H3068 he_H6213 took_H0853 away the_H0853 foreign altars and_H3068 the_H0853 high places_H0559, broke down the_H0853 pillars, cut down the_H0853 Asherah poles, 
+@4 and_H3063 commanded Judah_H3063 to_H6440 seek Yahweh, the_H3605 God of_H6440 their_H3605 fathers, and_H3063 to_H6440 obey his_H3605 law and_H3063 command. 
+@5 Also_H3068 he_H3588 took away_H5973 out of_H0776 all the_H3588 cities_H5892 of_H0776 Judah_H3063 the_H3588 high places and_H3068 the_H3588 sun images; and_H3068 the_H3588 kingdom was_H0369 quiet_H8252 before_H5973 him_H5973.
 
 ## Raise empire's defensive strength
-@6 He built fortified cities in Judah; for the land was quiet, and he had no war in those years, because Yahweh had given him rest. 
-@7 For he said to Judah, “Let’s build these cities and make walls around them, with towers, gates, and bars. The land is yet before us, because we have sought Yahweh our God. We have sought him, and he has given us rest on every side.” So they built and prospered.
+@6 He_H3588 built_H1129 fortified_H1129 cities_H5892 in_H0430 Judah_H3063; for_H3588 the_H0853 land_H0776 was_H3068 quiet, and_H3068 he_H3588 had_H3068 no war in_H0430 those_H0428 years, because_H3588 Yahweh_H3068 had_H3068 given_H5117 him_H0853 rest_H5117. 
+@7 For_H3605 he_H3063 said to_H1961 Judah_H3063, “Let’s build these_H0428 cities and_H3063 make_H5375 walls around them_H5375, with_H3605 towers_H5375, gates, and_H3063 bars. The_H3605 land is_H3605 yet before us, because_H3605 we_H3605 have_H1961 sought Yahweh our_H3605 God. We_H3605 have_H1961 sought him_H3605, and_H3063 he_H3063 has_H1961 given us rest_H1961 on_H1961 every_H3605 side.” So_H1961 they_H0428 built and_H3063 prospered.
 
 ## Asa's victory over the Serah Cushites
-@8 Asa had an army of three hundred thousand out of Judah who bore bucklers and spears, and two hundred eighty thousand out of Benjamin who bore shields and drew bows. All these were mighty men of valor. 
+@8 Asa had_H0935 an_H0935 army_H2428 of_H0505 three_H7969 hundred_H3967 thousand_H0505 out_H3318 of_H0505 Judah who bore bucklers and_H0935 spears, and_H0935 two_H3967 hundred_H3967 eighty thousand_H0505 out_H3318 of_H0505 Benjamin who bore shields and_H0935 drew bows. All_H5704 these were_H2428 mighty_H2428 men of_H0505 valor_H2428. 
 
-@9 Zerah the Ethiopian came out against them with an army of a million troops and three hundred chariots, and he came to Mareshah. 
-@10 Then Asa went out to meet him, and they set the battle in array in the valley of Zephathah at Mareshah. 
-@11 Asa cried to Yahweh his God, and said, “Yahweh, there is no one besides you to help, between the mighty and him who has no strength. Help us, Yahweh our God; for we rely on you, and in your name are we come against this multitude. Yahweh, you are our God. Don’t let man prevail against you.” 
+@9 Zerah the_H6440 Ethiopian came_H3318 out_H3318 against_H6440 them_H6440 with_H4421 an_H6440 army_H4421 of_H6440 a_H3318 million troops and_H6440 three hundred chariots, and_H6440 he_H3318 came_H3318 to_H6440 Mareshah_H4762. 
+@10 Then_H2088 Asa_H0609 went_H0935 out_H5921 to_H0413 meet him_H0413, and_H0935 they_H3588 set_H0935 the_H0559 battle in_H5921 array in_H5921 the_H0559 valley of_H0430 Zephathah at_H0413 Mareshah. 
+@11 Asa_H0609 cried to_H3068 Yahweh_H3068 his_H3068 God_H3068, and_H3068 said, “Yahweh_H3068, there_H3068 is_H3068 no one_H3068 besides you_H6440 to_H3068 help, between the_H0853 mighty and_H3068 him_H0853 who_H3068 has_H3068 no strength. Help us_H6440, Yahweh_H3068 our_H3068 God_H3068; for_H3068 we rely on_H3068 you_H6440, and_H3068 in_H3068 your_H3068 name are_H3068 we come against_H6440 this_H3068 multitude. Yahweh_H3068, you_H6440 are_H3068 our_H3068 God_H3068. Don’t let man prevail against_H6440 you_H6440.” 
 
-@12 So Yahweh struck the Ethiopians before Asa and before Judah; and the Ethiopians fled. 
-@13 Asa and the people who were with him pursued them to Gerar. So many of the Ethiopians fell that they could not recover themselves, for they were destroyed before Yahweh and before his army. Judah’s army carried away very much booty. 
-@14 They struck all the cities around Gerar, for the fear of Yahweh came on them. They plundered all the cities, for there was much plunder in them. 
+@12 So_H0834 Yahweh_H3068 struck_H5307 the_H6440 Ethiopians_H3569 before_H6440 Asa_H0609 and_H3068 before_H6440 Judah; and_H3068 the_H6440 Ethiopians_H3569 fled. 
+@13 Asa and_H3068 the_H3605 people who_H3605 were_H1961 with_H3068 him_H5921 pursued them_H0853 to_H1961 Gerar_H1642. So_H1961 many_H7227 of_H3068 the_H3605 Ethiopians fell_H5921 that_H3588 they_H3588 could not_H1961 recover themselves_H5921, for_H3588 they_H3588 were_H1961 destroyed_H5221 before_H5921 Yahweh_H3068 and_H3068 before_H5921 his_H3605 army. Judah’s army carried_H5921 away_H3605 very_H7227 much_H7227 booty_H0962. 
+@14 They_H1571 struck_H5221 all_H7230 the_H5221 cities around_H7725 Gerar, for_H3389 the_H5221 fear of_H0168 Yahweh came_H7725 on_H7725 them_H7725. They_H1571 plundered all_H7230 the_H5221 cities, for_H3389 there_H7230 was_H3389 much_H7230 plunder in_H7725 them_H7725. 
 @15 They also struck the tents of those who had livestock, and carried away sheep and camels in abundance, then returned to Jerusalem. 
 
 # 15 
 ## The admonition of the prophet Azariah
-@1 The Spirit of God came on Azariah the son of Oded. 
-@2 He went out to meet Asa, and said to him, “Hear me, Asa, and all Judah and Benjamin! Yahweh is with you while you are with him; and if you seek him, he will be found by you; but if you forsake him, he will forsake you. 
-@3 Now for a long time Israel was without the true God, without a teaching priest, and without law. 
-@4 But when in their distress they turned to Yahweh, the God of Israel, and sought him, he was found by them. 
-@5 In those times there was no peace to him who went out, nor to him who came in; but great troubles were on all the inhabitants of the lands. 
-@6 They were broken in pieces, nation against nation, and city against city; for God troubled them with all adversity. 
-@7 But you be strong! Don’t let your hands be slack, for your work will be rewarded.”
+@1 The_H5921 Spirit_H7307 of_H1121 God_H0430 came_H1961 on_H5921 Azariah_H5838 the_H5921 son_H1121 of_H1121 Oded_H5752. 
+@2 He_H0518 went_H3318 out_H3318 to_H0559 meet_H6440 Asa_H0609, and_H3068 said_H0559 to_H0559 him_H0853, “Hear_H8085 me_H6440, Asa_H0609, and_H3068 all_H3605 Judah_H3063 and_H3068 Benjamin_H1144! Yahweh_H3068 is_H3068 with_H5973 you_H0518 while_H1961 you_H0518 are_H3068 with_H5973 him_H0853; and_H3068 if_H0518 you_H0518 seek_H1875 him_H0853, he_H0518 will_H3068 be_H1961 found_H4672 by_H3068 you_H0518; but_H0518 if_H0518 you_H0518 forsake_H5800 him_H0853, he_H0518 will_H3068 forsake_H5800 you_H0518. 
+@3 Now_H3117 for_H3117 a_H3808 long_H3117 time_H3117 Israel_H3478 was_H3478 without_H3808 the_H3117 true_H0571 God_H0430, without_H3808 a_H3808 teaching_H8451 priest_H3548, and_H3478 without_H3808 law_H8451. 
+@4 But_H1245 when_H7725 in_H5921 their_H3068 distress_H6862 they_H5921 turned_H7725 to_H7725 Yahweh_H3068, the_H5921 God_H0430 of_H0430 Israel_H3478, and_H3068 sought_H1245 him_H5921, he_H0430 was_H3068 found_H4672 by_H5921 them_H5921. 
+@5 In_H3427 those_H3605 times there_H0369 was_H0369 no_H0369 peace_H7965 to_H0935 him_H5921 who_H3605 went_H3318 out_H3318, nor_H0369 to_H0935 him_H5921 who_H3605 came_H0935 in_H3427; but_H3588 great_H7227 troubles were_H1992 on_H5921 all_H3605 the_H3605 inhabitants_H3427 of_H0776 the_H3605 lands_H0776. 
+@6 They_H3588 were_H0430 broken_H3807 in_H0430 pieces_H3807, nation_H1471 against_H3605 nation_H1471, and_H0430 city_H5892 against_H3605 city_H5892; for_H3588 God_H0430 troubled_H2000 them_H3807 with_H0430 all_H3605 adversity_H6869. 
+@7 But_H3588 you_H0859 be_H0408 strong_H2388! Don’t_H0408 let_H7503 your_H3588 hands_H3027 be_H0408 slack_H7503, for_H3588 your_H3588 work_H6468 will_H3027 be_H0408 rewarded_H7939.”
 
 ## Renewal of Asa's covenant with God
-@8 When Asa heard these words and the prophecy of Oded the prophet, he took courage, and put away the abominations out of all the land of Judah and Benjamin, and out of the cities which he had taken from the hill country of Ephraim; and he renewed Yahweh’s altar that was before Yahweh’s porch. 
-@9 He gathered all Judah and Benjamin, and those who lived with them out of Ephraim, Manasseh, and Simeon; for they came to him out of Israel in abundance when they saw that Yahweh his God was with him. 
-@10 So they gathered themselves together at Jerusalem in the third month, in the fifteenth year of Asa’s reign. 
-@11 They sacrificed to Yahweh in that day, of the plunder which they had brought, seven hundred head of cattle and seven thousand sheep. 
-@12 They entered into the covenant to seek Yahweh, the God of their fathers, with all their heart and with all their soul; 
-@13 and that whoever would not seek Yahweh, the God of Israel, should be put to death, whether small or great, whether man or woman. 
-@14 They swore to Yahweh with a loud voice, with shouting, with trumpets, and with cornets. 
-@15 All Judah rejoiced at the oath, for they had sworn with all their heart and sought him with their whole desire; and he was found by them. Then Yahweh gave them rest all around. 
+@8 When_H0834 Asa_H0609 heard_H8085 these_H0428 words_H1697 and_H3068 the_H3605 prophecy_H5016 of_H0776 Oded_H5752 the_H3605 prophet_H5030, he_H0834 took_H2388 courage_H2388, and_H3068 put_H2388 away_H4480 the_H3605 abominations_H8251 out_H2388 of_H0776 all_H3605 the_H3605 land_H0776 of_H0776 Judah_H3063 and_H3068 Benjamin_H1144, and_H3068 out_H2388 of_H0776 the_H3605 cities_H5892 which_H0834 he_H0834 had_H3068 taken_H3920 from_H4480 the_H3605 hill_H2022 country_H2022 of_H0776 Ephraim_H0669; and_H3068 he_H0834 renewed_H2318 Yahweh’s_H3068 altar_H4196 that_H0834 was_H0834 before_H6440 Yahweh’s_H3068 porch_H0197. 
+@9 He_H3588 gathered_H6908 all_H3605 Judah_H3063 and_H3068 Benjamin_H1144, and_H3068 those_H3605 who_H3605 lived_H1481 with_H5973 them_H0853 out_H5921 of_H0430 Ephraim_H0669, Manasseh_H4519, and_H3068 Simeon_H8095; for_H3588 they_H3588 came_H5307 to_H5921 him_H5921 out_H5921 of_H0430 Israel_H3478 in_H5921 abundance_H7230 when_H3588 they_H3588 saw_H7200 that_H3588 Yahweh_H3068 his_H3605 God_H0430 was_H3068 with_H5973 him_H5921. 
+@10 So they_H2320 gathered_H6908 themselves_H6908 together_H6908 at_H6908 Jerusalem_H3389 in_H8141 the_H6908 third_H7992 month_H2320, in_H8141 the_H6908 fifteenth year_H8141 of_H8141 Asa’s_H0609 reign_H4438. 
+@11 They_H3117 sacrificed_H2076 to_H0935 Yahweh_H3068 in_H0935 that_H3117 day_H3117, of_H3068 the_H0935 plunder_H7998 which_H1931 they_H3117 had_H3068 brought_H0935, seven_H7651 hundred_H3967 head of_H3068 cattle_H1241 and_H0935 seven_H7651 thousand_H0505 sheep_H6629. 
+@12 They_H3068 entered_H0935 into_H0935 the_H3605 covenant_H1285 to_H0935 seek_H1875 Yahweh_H3068, the_H3605 God_H0430 of_H0430 their_H3605 fathers_H0001, with_H3068 all_H3605 their_H3605 heart_H3824 and_H0935 with_H3068 all_H3605 their_H3605 soul_H5315; 
+@13 and_H3068 that_H0834 whoever_H3605 would_H3478 not_H3808 seek_H1875 Yahweh_H3068, the_H3605 God_H0430 of_H0376 Israel_H3478, should_H0376 be_H4191 put_H4191 to_H5704 death_H4191, whether_H4480 small_H6996 or_H3808 great_H1419, whether_H4480 man_H0376 or_H3808 woman_H0802. 
+@14 They_H3068 swore_H7650 to_H3068 Yahweh_H3068 with_H3068 a_H3068 loud_H1419 voice_H6963, with_H3068 shouting_H8643, with_H3068 trumpets_H2689, and_H3068 with_H3068 cornets. 
+@15 All_H3605 Judah_H3063 rejoiced_H8055 at_H5921 the_H3605 oath_H7621, for_H3588 they_H3588 had_H3068 sworn_H7650 with_H3068 all_H3605 their_H3605 heart_H3824 and_H3068 sought_H1245 him_H5921 with_H3068 their_H3605 whole_H3605 desire_H3824; and_H3068 he_H3588 was_H3068 found_H4672 by_H5921 them_H5921. Then_H3068 Yahweh_H3068 gave_H5117 them_H5921 rest_H5117 all_H3605 around_H5439. 
 
-@16 Also Maacah, the mother of Asa the king, he removed from being queen mother, because she had made an abominable image for an Asherah; so Asa cut down her image, ground it into dust, and burned it at the brook Kidron. 
-@17 But the high places were not taken away out of Israel; nevertheless the heart of Asa was perfect all his days. 
-@18 He brought the things that his father had dedicated and that he himself had dedicated, silver, gold, and vessels into God’s house.
+@16 Also_H1571 Maacah_H4601, the_H0853 mother_H0517 of_H4428 Asa_H0609 the_H0853 king_H4428, he_H0834 removed_H5493 from_H5493 being_H3772 queen_H1377 mother_H0517, because_H0834 she_H0834 had_H0834 made_H6213 an_H3772 abominable image_H4656 for_H4428 an_H3772 Asherah_H0842; so_H6213 Asa_H0609 cut_H3772 down_H3772 her_H3772 image_H4656, ground_H1854 it_H6213 into_H5493 dust, and_H4428 burned_H8313 it_H6213 at_H4428 the_H0853 brook_H5158 Kidron_H6939. 
+@17 But_H7535 the_H3605 high_H1116 places_H1116 were_H1961 not_H3808 taken_H5493 away_H5493 out_H3605 of_H3117 Israel_H3478; nevertheless the_H3605 heart_H3824 of_H3117 Asa_H0609 was_H1961 perfect_H8003 all_H3605 his_H3605 days_H3117. 
+@18 He_H0430 brought_H0935 the_H0853 things_H6944 that_H3701 his_H0935 father_H0001 had_H0430 dedicated_H6942 and_H0935 that_H3701 he_H0430 himself_H6942 had_H0430 dedicated_H6942, silver_H3701, gold_H2091, and_H0935 vessels_H3627 into_H0935 God’s_H0430 house_H1004.
 
 ## Asa's war with Israel's Baesa; his refuge in Ben-hadad of Syria
-@19 There was no more war to the thirty-fifth year of Asa’s reign. 
+@19 There_H1961 was_H1961 no_H3808 more_H3808 war_H4421 to_H5704 the_H5704 thirty-fifth year_H8141 of_H8141 Asa’s_H0609 reign_H4438. 
 
 # 16 
-@1 In the thirty-sixth year of Asa’s reign, Baasha king of Israel went up against Judah, and built Ramah, that he might not allow anyone to go out or come in to Asa king of Judah. 
-@2 Then Asa brought out silver and gold out of the treasures of Yahweh’s house and of the king’s house, and sent to Ben Hadad king of Syria, who lived at Damascus, saying, 
-@3 “Let there be a treaty between me and you, as there was between my father and your father. Behold, I have sent you silver and gold. Go, break your treaty with Baasha king of Israel, that he may depart from me.” 
+@1 In_H5921 the_H0853 thirty-sixth year_H8141 of_H4428 Asa’s_H0609 reign_H4438, Baasha_H1201 king_H4428 of_H4428 Israel_H3478 went_H3318 up_H5927 against_H5921 Judah_H3063, and_H0935 built_H1129 Ramah_H7414, that_H8141 he_H5414 might_H3478 not_H1115 allow_H5414 anyone to_H0935 go_H3318 out_H3318 or_H1115 come_H0935 in_H5921 to_H0935 Asa_H0609 king_H4428 of_H4428 Judah_H3063. 
+@2 Then_H3318 Asa_H0609 brought_H3318 out_H3318 silver_H3701 and_H3068 gold_H2091 out_H3318 of_H4428 the_H0559 treasures_H0214 of_H4428 Yahweh’s_H3068 house_H1004 and_H3068 of_H4428 the_H0559 king’s_H4428 house_H1004, and_H3068 sent_H7971 to_H0413 Ben Hadad king_H4428 of_H4428 Syria_H0758, who_H3068 lived_H3427 at_H0413 Damascus_H1834, saying_H0559, 
+@3 “Let_H7971 there_H2009 be_H3478 a_H7971 treaty_H1285 between_H0996 me_H7971 and_H3478 you_H7971, as_H5927 there_H2009 was_H3478 between_H0996 my_H5921 father_H0001 and_H3478 your_H5921 father_H0001. Behold_H2009, I_H2009 have_H0001 sent_H7971 you_H7971 silver_H3701 and_H3478 gold_H2091. Go_H5927, break_H6565 your_H5921 treaty_H1285 with_H0854 Baasha_H1201 king_H4428 of_H4428 Israel_H3478, that_H3478 he_H7971 may_H3478 depart_H5927 from_H5921 me_H7971.” 
 
-@4 Ben Hadad listened to King Asa, and sent the captains of his armies against the cities of Israel; and they struck Ijon, Dan, Abel Maim, and all the storage cities of Naphtali. 
-@5 When Baasha heard of it, he stopped building Ramah, and let his work cease. 
-@6 Then Asa the king took all Judah, and they carried away the stones and timber of Ramah, with which Baasha had built; and he built Geba and Mizpah with them.
+@4 Ben Hadad listened_H8085 to_H0413 King_H4428 Asa_H0609, and_H3478 sent_H7971 the_H3605 captains_H8269 of_H4428 his_H3605 armies_H2428 against_H0413 the_H3605 cities_H5892 of_H4428 Israel_H3478; and_H3478 they_H0834 struck_H5221 Ijon_H5859, Dan_H1835, Abel Maim, and_H3478 all_H3605 the_H3605 storage_H4543 cities_H5892 of_H4428 Naphtali_H5321. 
+@5 When_H1961 Baasha_H1201 heard_H8085 of_H8085 it_H1961, he_H0853 stopped_H2308 building_H1129 Ramah_H7414, and_H8085 let_H1961 his_H8085 work_H4399 cease_H2308. 
+@6 Then_H3947 Asa_H0609 the_H3605 king_H4428 took_H3947 all_H3605 Judah_H3063, and_H3063 they_H0834 carried_H5375 away_H5375 the_H3605 stones_H0068 and_H3063 timber_H6086 of_H4428 Ramah_H7414, with_H3605 which_H0834 Baasha_H1201 had_H0834 built_H1129; and_H3063 he_H0834 built_H1129 Geba_H1387 and_H3063 Mizpah_H4709 with_H3605 them_H0853.
 
 ## Hanani's punishment speech to Asa has a negative effect
-@7 At that time Hanani the seer came to Asa king of Judah, and said to him, “Because you have relied on the king of Syria, and have not relied on Yahweh your God, therefore the army of the king of Syria has escaped out of your hand. 
-@8 Weren’t the Ethiopians and the Lubim a huge army, with chariots and exceedingly many horsemen? Yet, because you relied on Yahweh, he delivered them into your hand. 
-@9 For Yahweh’s eyes run back and forth throughout the whole earth, to show himself strong in the behalf of them whose heart is perfect toward him. You have done foolishly in this; for from now on you will have wars.” 
+@7 At_H0413 that_H7200 time_H6256 Hanani_H2607 the_H0559 seer came_H0935 to_H0413 Asa_H0609 king_H4428 of_H4428 Judah_H3063, and_H0935 said_H0559 to_H0413 him_H0413, “Because_H5921 you_H5921 have_H3068 relied_H8172 on_H5921 the_H0559 king_H4428 of_H4428 Syria_H0758, and_H0935 have_H3068 not_H3808 relied_H8172 on_H5921 Yahweh_H3068 your_H3068 God_H0430, therefore_H3651 the_H0559 army_H2426 of_H4428 the_H0559 king_H4428 of_H4428 Syria_H0758 has_H3068 escaped_H4422 out_H5921 of_H4428 your_H3068 hand_H3027. 
+@8 Weren’t the_H5921 Ethiopians_H3569 and_H3068 the_H5921 Lubim_H3864 a_H1961 huge army_H2428, with_H3068 chariots_H7393 and_H3068 exceedingly_H3966 many_H7230 horsemen_H6571? Yet_H3068, because_H5921 you_H5414 relied_H8172 on_H5921 Yahweh_H3068, he_H3068 delivered_H5414 them_H5414 into_H5921 your_H3068 hand_H3027. 
+@9 For_H3588 Yahweh’s_H3068 eyes_H5869 run back_H0413 and_H3068 forth throughout_H3605 the_H3605 whole_H3605 earth_H0776, to_H0413 show_H2388 himself_H3824 strong_H2388 in_H5921 the_H3605 behalf_H5921 of_H0776 them_H0413 whose_H3605 heart_H3824 is_H3068 perfect_H8003 toward_H0413 him_H0413. You_H3588 have_H3426 done_H3605 foolishly_H5528 in_H5921 this_H2063; for_H3588 from_H5921 now_H6258 on_H5921 you_H3588 will_H3068 have_H3426 wars_H4421.” 
 
-@10 Then Asa was angry with the seer, and put him in the prison; for he was in a rage with him because of this thing. Asa oppressed some of the people at the same time.
+@10 Then_H5414 Asa_H0609 was_H1931 angry_H3707 with_H5973 the_H5921 seer, and_H1004 put_H5414 him_H0413 in_H5921 the_H5921 prison_H1004; for_H3588 he_H1931 was_H1931 in_H5921 a_H3588 rage_H2197 with_H5973 him_H0413 because_H3588 of_H1004 this_H2063 thing_H2063. Asa_H0609 oppressed_H7533 some_H4480 of_H1004 the_H5921 people_H5971 at_H0413 the_H5921 same_H1931 time_H6256.
 
 ## The end of Asa and an honorable burial
-@11 Behold, the acts of Asa, first and last, behold, they are written in the book of the kings of Judah and Israel. 
-@12 In the thirty-ninth year of his reign, Asa was diseased in his feet. His disease was exceedingly great; yet in his disease he didn’t seek Yahweh, but just the physicians. 
-@13 Asa slept with his fathers, and died in the forty-first year of his reign. 
-@14 They buried him in his own tomb, which he had dug out for himself in David’s city, and laid him in the bed which was filled with sweet odors and various kinds of spices prepared by the perfumers’ art; and they made a very great fire for him. 
+@11 Behold_H2009, the_H5921 acts_H1697 of_H4428 Asa_H0609, first_H7223 and_H3063 last_H0314, behold_H2009, they_H5921 are_H3478 written_H3789 in_H5921 the_H5921 book_H5612 of_H4428 the_H5921 kings_H4428 of_H4428 Judah_H3063 and_H3063 Israel_H3478. 
+@12 In_H8141 the_H0853 thirty-ninth year_H8141 of_H3068 his_H3068 reign_H4438, Asa_H0609 was_H3068 diseased_H2456 in_H8141 his_H3068 feet_H7272. His_H3068 disease_H2483 was_H3068 exceedingly_H4605 great; yet_H3588 in_H8141 his_H3068 disease_H2483 he_H3588 didn’t_H3808 seek_H1875 Yahweh_H3068, but_H3588 just_H1571 the_H0853 physicians_H7495. 
+@13 Asa_H0609 slept_H7901 with_H5973 his_H0609 fathers_H0001, and_H0001 died_H4191 in_H8141 the_H5973 forty-first year_H8141 of_H8141 his_H0609 reign_H4427. 
+@14 They_H0834 buried_H6912 him_H6912 in_H6912 his_H1732 own tomb_H6913, which_H0834 he_H0834 had_H0834 dug_H3738 out_H8316 for_H4390 himself in_H6912 David’s_H1732 city_H5892, and_H1419 laid_H7901 him_H6912 in_H6912 the_H0834 bed_H4904 which_H0834 was_H0834 filled_H4390 with_H4390 sweet_H1314 odors and_H1419 various kinds_H2177 of_H4390 spices_H1314 prepared by_H5704 the_H0834 perfumers’ art_H4639; and_H1419 they_H0834 made_H4639 a_H0834 very_H3966 great_H1419 fire_H8316 for_H4390 him_H6912. 
 
 # 17 
 ## The pious and happy government of Jehoshaphat
-@1 Jehoshaphat his son reigned in his place, and strengthened himself against Israel. 
-@2 He placed forces in all the fortified cities of Judah, and set garrisons in the land of Judah and in the cities of Ephraim, which Asa his father had taken. 
-@3 Yahweh was with Jehoshaphat, because he walked in the first ways of his father David, and didn’t seek the Baals, 
-@4 but sought the God of his father, and walked in his commandments, and not in the ways of Israel. 
-@5 Therefore Yahweh established the kingdom in his hand. All Judah brought tribute to Jehoshaphat, and he had riches and honor in abundance. 
-@6 His heart was lifted up in the ways of Yahweh. Furthermore, he took away the high places and the Asherah poles out of Judah.
+@1 Jehoshaphat_H3092 his_H5921 son_H1121 reigned_H4427 in_H5921 his_H5921 place_H8478, and_H1121 strengthened_H2388 himself_H2388 against_H5921 Israel_H3478. 
+@2 He_H0834 placed_H5414 forces_H2428 in_H0776 all_H3605 the_H3605 fortified_H1219 cities_H5892 of_H0776 Judah_H3063, and_H3063 set_H5414 garrisons_H5333 in_H0776 the_H3605 land_H0776 of_H0776 Judah_H3063 and_H3063 in_H0776 the_H3605 cities_H5892 of_H0776 Ephraim_H0669, which_H0834 Asa_H0609 his_H3605 father_H0001 had_H0834 taken_H3920. 
+@3 Yahweh_H3068 was_H1961 with_H5973 Jehoshaphat_H3092, because_H3588 he_H3588 walked_H1980 in_H1980 the_H3588 first_H7223 ways_H1870 of_H3068 his_H3068 father_H0001 David_H1732, and_H1980 didn’t_H3808 seek_H1875 the_H3588 Baals_H1168, 
+@4 but_H3588 sought_H1875 the_H3588 God_H0430 of_H0430 his_H3588 father_H0001, and_H1980 walked_H1980 in_H1980 his_H3588 commandments_H4687, and_H1980 not_H3808 in_H1980 the_H3588 ways of_H0430 Israel_H3478. 
+@5 Therefore_H3068 Yahweh_H3068 established_H3559 the_H3605 kingdom_H4467 in_H3068 his_H3605 hand_H3027. All_H3605 Judah_H3063 brought_H5414 tribute_H4503 to_H1961 Jehoshaphat_H3092, and_H3068 he_H3068 had_H3068 riches_H6239 and_H3068 honor_H3519 in_H3068 abundance_H7230. 
+@6 His_H3068 heart_H3820 was_H3068 lifted up_H0853 in_H3068 the_H0853 ways_H1870 of_H3068 Yahweh_H3068. Furthermore_H5750, he_H3068 took_H5493 away_H5493 the_H0853 high_H1116 places_H1116 and_H3068 the_H0853 Asherah_H0842 poles out_H0853 of_H3068 Judah_H3063.
 
 ## Jehoshaphat instructs the people in the law of the Lord
-@7 Also in the third year of his reign he sent his princes, even Ben Hail, Obadiah, Zechariah, Nethanel, and Micaiah, to teach in the cities of Judah; 
-@8 and with them Levites, even Shemaiah, Nethaniah, Zebadiah, Asahel, Shemiramoth, Jehonathan, Adonijah, Tobijah, and Tobadonijah, the Levites; and with them Elishama and Jehoram, the priests. 
-@9 They taught in Judah, having the book of Yahweh’s law with them. They went about throughout all the cities of Judah and taught among the people.
+@7 Also_H8269 in_H8141 the_H7971 third_H7969 year_H8141 of_H8141 his_H7971 reign_H4427 he_H7971 sent_H7971 his_H7971 princes_H8269, even Ben Hail, Obadiah_H5662, Zechariah_H2148, Nethanel_H5417, and_H3063 Micaiah_H4322, to_H7971 teach_H3925 in_H8141 the_H7971 cities_H5892 of_H8141 Judah_H3063; 
+@8 and_H3548 with_H5973 them Levites_H3881, even Shemaiah_H8098, Nethaniah_H5418, Zebadiah_H2069, Asahel_H6214, Shemiramoth_H8070, Jehonathan_H3083, Adonijah_H0138, Tobijah_H2900, and_H3548 Tobadonijah, the_H5973 Levites_H3881; and_H3548 with_H5973 them Elishama_H0476 and_H3548 Jehoram_H3088, the_H5973 priests_H3548. 
+@9 They_H3068 taught_H3925 in_H3068 Judah_H3063, having the_H3605 book_H5612 of_H3068 Yahweh’s_H3068 law_H8451 with_H5973 them_H3068. They_H3068 went_H5437 about_H5437 throughout_H3605 all_H3605 the_H3605 cities_H5892 of_H3068 Judah_H3063 and_H3068 taught_H3925 among_H5973 the_H3605 people_H5971.
 
 ## Jehoshaphat's reputation among neighboring peoples and his significant military power
-@10 The fear of Yahweh fell on all the kingdoms of the lands that were around Judah, so that they made no war against Jehoshaphat. 
-@11 Some of the Philistines brought Jehoshaphat presents and silver for tribute. The Arabians also brought him flocks: seven thousand seven hundred rams and seven thousand seven hundred male goats. 
-@12 Jehoshaphat grew great exceedingly; and he built fortresses and store cities in Judah. 
-@13 He had many works in the cities of Judah; and men of war, mighty men of valor, in Jerusalem. 
-@14 This was the numbering of them according to their fathers’ houses: From Judah, the captains of thousands: Adnah the captain, and with him three hundred thousand mighty men of valor; 
-@15 and next to him Jehohanan the captain, and with him two hundred eighty thousand; 
-@16 and next to him Amasiah the son of Zichri, who willingly offered himself to Yahweh, and with him two hundred thousand mighty men of valor. 
-@17 From Benjamin: Eliada, a mighty man of valor, and with him two hundred thousand armed with bow and shield; 
-@18 and next to him Jehozabad, and with him one hundred eighty thousand ready and prepared for war. 
-@19 These were those who waited on the king, in addition to those whom the king put in the fortified cities throughout all Judah. 
+@10 The_H3605 fear_H6343 of_H0776 Yahweh_H3068 fell_H5921 on_H5921 all_H3605 the_H3605 kingdoms_H4467 of_H0776 the_H3605 lands_H0776 that_H0834 were_H0834 around_H5439 Judah_H3063, so_H1961 that_H0834 they_H0834 made_H1961 no_H3808 war against_H5921 Jehoshaphat_H3092. 
+@11 Some_H4480 of_H4480 the_H0935 Philistines_H6430 brought_H0935 Jehoshaphat_H3092 presents_H4503 and_H0935 silver_H3701 for_H4480 tribute_H4503. The_H0935 Arabians also_H1571 brought_H0935 him_H0935 flocks_H6629: seven_H7651 thousand_H0505 seven_H7651 hundred_H3967 rams_H0352 and_H0935 seven_H7651 thousand_H0505 seven_H7651 hundred_H3967 male_H8495 goats_H8495. 
+@12 Jehoshaphat_H3092 grew_H1980 great exceedingly_H4605; and_H1980 he_H5704 built_H1129 fortresses_H1003 and_H1980 store_H4543 cities_H5892 in_H1980 Judah_H3063. 
+@13 He_H0376 had_H1961 many_H7227 works_H4399 in_H0376 the_H1961 cities_H5892 of_H0376 Judah_H3063; and_H3063 men_H0376 of_H0376 war_H4421, mighty_H1368 men_H0376 of_H0376 valor_H2428, in_H0376 Jerusalem_H3389. 
+@14 This_H0428 was_H3063 the_H5973 numbering of_H1004 them_H0001 according to_H0001 their_H5973 fathers’_H0001 houses_H1004: From_H5973 Judah_H3063, the_H5973 captains_H8269 of_H1004 thousands_H0505: Adnah the_H5973 captain_H8269, and_H3063 with_H5973 him_H5973 three_H7969 hundred_H3967 thousand_H0505 mighty_H1368 men_H1368 of_H1004 valor_H2428; 
+@15 and_H3967 next_H5921 to_H5921 him_H5921 Jehohanan_H3076 the_H5921 captain_H8269, and_H3967 with_H5973 him_H5921 two_H3967 hundred_H3967 eighty_H8084 thousand_H0505; 
+@16 and_H1121 next_H5921 to_H5921 him_H5921 Amasiah_H6007 the_H5921 son_H1121 of_H1121 Zichri_H2147, who_H3068 willingly_H5068 offered_H5068 himself_H3027 to_H5921 Yahweh_H3068, and_H1121 with_H5973 him_H5921 two_H3967 hundred_H3967 thousand_H0505 mighty_H1368 men_H1368 of_H1121 valor_H2428. 
+@17 From_H4480 Benjamin_H1144: Eliada_H0450, a_H4480 mighty_H1368 man_H1368 of_H4480 valor_H2428, and_H3967 with_H5973 him_H5973 two_H4480 hundred_H3967 thousand_H0505 armed_H4043 with_H5973 bow_H7198 and_H3967 shield_H4043; 
+@18 and_H3967 next_H5921 to_H5921 him_H5921 Jehozabad_H3075, and_H3967 with_H5973 him_H5921 one_H3027 hundred_H3967 eighty_H8084 thousand_H0505 ready and_H3967 prepared_H3027 for_H5921 war_H6635. 
+@19 These_H0428 were_H0834 those_H0428 who_H0834 waited on_H3605 the_H3605 king_H4428, in_H4428 addition to_H5414 those_H0428 whom_H0834 the_H3605 king_H4428 put_H5414 in_H4428 the_H3605 fortified_H4013 cities_H5892 throughout_H3605 all_H3605 Judah_H3063. 
 
 # 18 
 ## Jehoshaphat and Ahab join forces in a war against the Syrians
-@1 Now Jehoshaphat had riches and honor in abundance; and he allied himself with Ahab. 
-@2 After some years, he went down to Ahab to Samaria. Ahab killed sheep and cattle for him in abundance, and for the people who were with him, and moved him to go up with him to Ramoth Gilead. 
-@3 Ahab king of Israel said to Jehoshaphat king of Judah, “Will you go with me to Ramoth Gilead?” 
+@1 Now_H1961 Jehoshaphat_H3092 had_H1961 riches_H6239 and_H6239 honor_H3519 in_H1961 abundance_H7230; and_H6239 he_H0256 allied_H2859 himself with_H1961 Ahab_H0256. 
+@2 After_H7093 some_H7093 years_H8141, he_H0834 went_H5927 down_H3381 to_H0413 Ahab_H0256 to_H0413 Samaria_H8111. Ahab_H0256 killed sheep_H6629 and_H6629 cattle_H1241 for_H0413 him_H0413 in_H8141 abundance_H7230, and_H6629 for_H0413 the_H0834 people_H5971 who_H0834 were_H0834 with_H5973 him_H0413, and_H6629 moved_H5496 him_H0413 to_H0413 go_H5927 up_H5927 with_H5973 him_H0413 to_H0413 Ramoth_H7433 Gilead_H1568. 
+@3 Ahab_H0256 king_H4428 of_H4428 Israel_H3478 said_H0559 to_H0413 Jehoshaphat_H3092 king_H4428 of_H4428 Judah_H3063, “Will_H4428 you_H5973 go with_H5973 me_H0413 to_H0413 Ramoth_H7433 Gilead_H1568?” 
 
-He answered him, “I am as you are, and my people as your people. We will be with you in the war.”
+He_H0256 answered_H0559 him_H0413, “I_H0559 am as_H3644 you_H5973 are_H3478, and_H3063 my_H0559 people_H5971 as_H3644 your_H0413 people_H5971. We will_H4428 be_H3478 with_H5973 you_H5973 in_H0413 the_H0559 war_H4421.”
 
 ## The favorable message of the 400 prophets; Micha should be interviewed
-@4 Jehoshaphat said to the king of Israel, “Please inquire first for Yahweh’s word.” 
+@4 Jehoshaphat_H3092 said_H0559 to_H0413 the_H0853 king_H4428 of_H4428 Israel_H3478, “Please_H4994 inquire_H1875 first_H3117 for_H0413 Yahweh’s_H3068 word_H1697.” 
 
-@5 Then the king of Israel gathered the prophets together, four hundred men, and said to them, “Shall we go to Ramoth Gilead to battle, or shall I forbear?” 
+@5 Then_H0853 the_H0853 king_H4428 of_H4428 Israel_H3478 gathered_H6908 the_H0853 prophets_H5030 together_H6908, four_H0702 hundred_H3967 men_H0376, and_H3478 said_H0559 to_H0413 them_H0413, “Shall_H3478 we_H0518 go_H5927 to_H0413 Ramoth_H7433 Gilead_H1568 to_H0413 battle_H4421, or_H0518 shall_H3478 I_H0518 forbear?” 
 
-They said, “Go up, for God will deliver it into the hand of the king.” 
+They_H0518 said_H0559, “Go_H5927 up_H5927, for_H0413 God_H0430 will_H0430 deliver_H5414 it_H5414 into_H0413 the_H0853 hand_H3027 of_H4428 the_H0853 king_H4428.” 
 
-@6 But Jehoshaphat said, “Isn’t there here a prophet of Yahweh besides, that we may inquire of him?” 
+@6 But_H0369 Jehoshaphat_H3092 said_H0559, “Isn’t there_H0369 here_H6311 a_H5750 prophet_H5030 of_H3068 Yahweh_H3068 besides_H5750, that_H3068 we may_H3068 inquire_H1875 of_H3068 him_H0853?” 
 
-@7 The king of Israel said to Jehoshaphat, “There is yet one man by whom we may inquire of Yahweh; but I hate him, for he never prophesies good concerning me, but always evil. He is Micaiah the son of Imla.” 
+@7 The_H3605 king_H4428 of_H1121 Israel_H3478 said_H0559 to_H0413 Jehoshaphat_H3092, “There_H0369 is_H0369 yet_H5750 one_H0259 man_H0376 by_H5921 whom_H0259 we_H3588 may_H0376 inquire_H1875 of_H1121 Yahweh_H3068; but_H3588 I_H0589 hate_H8130 him_H0413, for_H3588 he_H1931 never_H0369 prophesies_H5012 good_H2896 concerning_H5921 me_H0413, but_H3588 always_H3117 evil_H7451. He_H1931 is_H0369 Micaiah_H4321 the_H3605 son_H1121 of_H1121 Imla_H3229.” 
 
-Jehoshaphat said, “Don’t let the king say so.” 
+Jehoshaphat_H3092 said_H0559, “Don’t_H0408 let_H0408 the_H3605 king_H4428 say_H0559 so_H3651.” 
 
-@8 Then the king of Israel called an officer, and said, “Get Micaiah the son of Imla quickly.” 
+@8 Then_H0559 the_H0559 king_H4428 of_H1121 Israel_H3478 called_H7121 an_H7121 officer_H5631, and_H1121 said_H0559, “Get Micaiah_H0559 the_H0559 son_H1121 of_H1121 Imla_H3229 quickly_H4116.” 
 
-@9 Now the king of Israel and Jehoshaphat the king of Judah each sat on his throne, arrayed in their robes, and they were sitting in an open place at the entrance of the gate of Samaria; and all the prophets were prophesying before them. 
-@10 Zedekiah the son of Chenaanah made himself horns of iron and said, “Yahweh says, ‘With these you shall push the Syrians, until they are consumed.’” 
+@9 Now the_H3605 king_H4428 of_H4428 Israel_H3478 and_H3063 Jehoshaphat_H3092 the_H3605 king_H4428 of_H4428 Judah_H3063 each_H0376 sat_H3427 on_H5921 his_H3605 throne_H3678, arrayed_H3847 in_H3427 their_H3605 robes_H0899, and_H3063 they_H5921 were_H3478 sitting_H3427 in_H3427 an_H6440 open_H6440 place_H3605 at_H3427 the_H3605 entrance_H6607 of_H4428 the_H3605 gate_H8179 of_H4428 Samaria_H8111; and_H3063 all_H3605 the_H3605 prophets_H5030 were_H3478 prophesying_H5012 before_H6440 them_H5921. 
+@10 Zedekiah_H6667 the_H0853 son_H1121 of_H1121 Chenaanah_H3668 made_H6213 himself horns_H7161 of_H1121 iron_H1270 and_H1121 said_H0559, “Yahweh_H3068 says_H0559, ‘With_H3068 these_H0428 you_H5704 shall_H1121 push_H5055 the_H0853 Syrians, until_H5704 they_H3068 are_H0428 consumed_H3615.’” 
 
-@11 All the prophets prophesied so, saying, “Go up to Ramoth Gilead, and prosper; for Yahweh will deliver it into the hand of the king.”
+@11 All_H3605 the_H3605 prophets_H5030 prophesied_H5012 so_H3651, saying_H0559, “Go_H5927 up_H5927 to_H0559 Ramoth_H7433 Gilead_H1568, and_H3068 prosper_H6743; for_H3027 Yahweh_H3068 will_H3068 deliver_H5414 it_H5414 into_H3027 the_H3605 hand_H3027 of_H4428 the_H3605 king_H4428.”
 
 ## Micha's initial good fortune, then his announcement of doom
-@12 The messenger who went to call Micaiah spoke to him, saying, “Behold, the words of the prophets declare good to the king with one mouth. Let your word therefore, please be like one of theirs, and speak good.” 
+@12 The_H0559 messenger_H4397 who_H0834 went_H1980 to_H0413 call_H7121 Micaiah_H4321 spoke_H1696 to_H0413 him_H0413, saying_H0559, “Behold_H2009, the_H0559 words_H1697 of_H4428 the_H0559 prophets_H5030 declare_H1696 good_H2896 to_H0413 the_H0559 king_H4428 with_H1980 one_H0259 mouth_H6310. Let_H4994 your_H0834 word_H1697 therefore_H1961, please_H4994 be_H1961 like_H1961 one_H0259 of_H4428 theirs_H1992, and_H1980 speak_H1696 good_H2896.” 
 
-@13 Micaiah said, “As Yahweh lives, I will say what my God says.” 
+@13 Micaiah_H4321 said_H0559, “As_H0834 Yahweh_H3068 lives_H2416, I_H0834 will_H3068 say_H0559 what_H0834 my_H3068 God_H0430 says_H0559.” 
 
-@14 When he had come to the king, the king said to him, “Micaiah, shall we go to Ramoth Gilead to battle, or shall I forbear?” 
+@14 When_H0518 he_H0518 had_H4428 come_H0935 to_H0413 the_H0559 king_H4428, the_H0559 king_H4428 said_H0559 to_H0413 him_H0413, “Micaiah_H0559, shall_H4428 we_H0518 go_H0935 to_H0413 Ramoth_H7433 Gilead_H1568 to_H0413 battle_H4421, or_H0518 shall_H4428 I_H0518 forbear?” 
 
-He said, “Go up, and prosper. They shall be delivered into your hand.” 
+He_H0518 said_H0559, “Go_H0935 up_H5927, and_H0935 prosper_H6743. They_H0518 shall_H4428 be_H3027 delivered_H5414 into_H0413 your_H5414 hand_H3027.” 
 
-@15 The king said to him, “How many times shall I adjure you that you speak to me nothing but the truth in Yahweh’s name?” 
+@15 The_H0559 king_H4428 said_H0559 to_H0413 him_H0413, “How_H4100 many_H4100 times_H6471 shall_H3068 I_H0589 adjure_H7650 you_H0834 that_H0834 you_H0834 speak_H1696 to_H0413 me_H0413 nothing_H3808 but_H7535 the_H0559 truth_H0571 in_H0413 Yahweh’s_H3068 name_H8034?” 
 
-@16 He said, “I saw all Israel scattered on the mountains, as sheep that have no shepherd. Yahweh said, ‘These have no master. Let them each return to his house in peace.’” 
+@16 He_H0834 said_H0559, “I_H0834 saw_H7200 all_H3605 Israel_H3478 scattered_H6327 on_H5921 the_H3605 mountains_H2022, as_H0834 sheep_H6629 that_H0834 have_H0834 no_H3808 shepherd_H7462. Yahweh_H3068 said_H0559, ‘These_H0428 have_H0834 no_H3808 master_H0113. Let_H3808 them_H0853 each_H0376 return_H7725 to_H0559 his_H3605 house_H1004 in_H5921 peace_H7965.’” 
 
-@17 The king of Israel said to Jehoshaphat, “Didn’t I tell you that he would not prophesy good concerning me, but evil?” 
+@17 The_H0559 king_H4428 of_H4428 Israel_H3478 said_H0559 to_H0413 Jehoshaphat_H3092, “Didn’t_H3808 I_H3588 tell_H0559 you_H3588 that_H3588 he_H3588 would_H3478 not_H3808 prophesy_H5012 good_H2896 concerning_H5921 me_H0413, but_H3588 evil_H7451?” 
 
-@18 Micaiah said, “Therefore hear Yahweh’s word: I saw Yahweh sitting on his throne, and all the army of heaven standing on his right hand and on his left. 
-@19 Yahweh said, ‘Who will entice Ahab king of Israel, that he may go up and fall at Ramoth Gilead?’ One spoke saying in this way, and another saying in that way. 
-@20 A spirit came out, stood before Yahweh, and said, ‘I will entice him.’ 
+@18 Micaiah_H0559 said_H0559, “Therefore_H3651 hear_H8085 Yahweh’s_H3068 word_H1697: I_H1697 saw_H7200 Yahweh_H3068 sitting_H3427 on_H5921 his_H3605 throne_H3678, and_H3068 all_H3605 the_H3605 army_H6635 of_H3068 heaven_H8064 standing_H5975 on_H5921 his_H3605 right_H3225 hand_H3225 and_H3068 on_H5921 his_H3605 left_H8040. 
+@19 Yahweh_H3068 said_H0559, ‘Who_H4310 will_H3068 entice Ahab_H0256 king_H4428 of_H4428 Israel_H3478, that_H3068 he_H3068 may_H3068 go_H5927 up_H5927 and_H3068 fall_H5307 at_H3478 Ramoth_H7433 Gilead_H1568?’ One_H2088 spoke_H0559 saying_H0559 in_H3068 this_H2088 way_H2088, and_H3068 another_H2088 saying_H0559 in_H3068 that_H3068 way_H2088. 
+@20 A_H3318 spirit_H7307 came_H3318 out_H3318, stood_H5975 before_H6440 Yahweh_H3068, and_H3068 said_H0559, ‘I_H0589 will_H3068 entice him_H0413.’ 
 
-“Yahweh said to him, ‘How?’ 
+“Yahweh_H3068 said_H0559 to_H0413 him_H0413, ‘How_H4100?’ 
 
-@21 “He said, ‘I will go, and will be a lying spirit in the mouth of all his prophets.’ 
+@21 “He_H3651 said_H0559, ‘I_H3651 will_H1961 go_H3318, and_H6310 will_H1961 be_H1961 a_H1961 lying_H8267 spirit_H7307 in_H1571 the_H3605 mouth_H6310 of_H7307 all_H3605 his_H3605 prophets_H5030.’ 
 
-“He said, ‘You will entice him, and will prevail also. Go and do so.’ 
+“He_H3651 said_H0559, ‘You_H3605 will_H1961 entice him_H3605, and_H6310 will_H1961 prevail_H3201 also_H1571. Go_H3318 and_H6310 do_H6213 so_H3651.’ 
 
-@22 “Now therefore, behold, Yahweh has put a lying spirit in the mouth of these your prophets; and Yahweh has spoken evil concerning you.”
+@22 “Now_H6258 therefore_H6258, behold_H2009, Yahweh_H3068 has_H3068 put_H5414 a_H5414 lying_H8267 spirit_H7307 in_H5921 the_H5921 mouth_H6310 of_H3068 these_H0428 your_H3068 prophets_H5030; and_H3068 Yahweh_H3068 has_H3068 spoken_H1696 evil_H7451 concerning_H5921 you_H5414.”
 
 ## The mistreatment of Micah by Zedekiah and his capture by Ahab
-@23 Then Zedekiah the son of Chenaanah came near, and struck Micaiah on the cheek, and said, “Which way did Yahweh’s Spirit go from me to speak to you?” 
+@23 Then_H1696 Zedekiah_H6667 the_H0853 son_H1121 of_H1121 Chenaanah_H3668 came_H5066 near_H5066, and_H1121 struck_H5221 Micaiah_H4321 on_H5921 the_H0853 cheek_H3895, and_H1121 said_H0559, “Which_H2088 way_H1870 did Yahweh’s_H3068 Spirit_H7307 go_H5066 from_H5921 me_H5921 to_H0559 speak_H1696 to_H0559 you_H5921?” 
 
-@24 Micaiah said, “Behold, you shall see on that day, when you go into an inner room to hide yourself.” 
+@24 Micaiah_H4321 said_H0559, “Behold_H2005, you_H0834 shall_H3117 see_H7200 on_H3117 that_H0834 day_H3117, when_H3117 you_H0834 go_H0935 into_H0935 an_H7200 inner_H2315 room_H2315 to_H0559 hide_H2244 yourself.” 
 
-@25 The king of Israel said, “Take Micaiah, and carry him back to Amon the governor of the city, and to Joash the king’s son; 
-@26 and say, ‘The king says, “Put this fellow in the prison, and feed him with bread of affliction and with water of affliction, until I return in peace.”’” 
+@25 The_H0853 king_H4428 of_H1121 Israel_H3478 said_H0559, “Take_H3947 Micaiah_H4321, and_H1121 carry_H3947 him_H0413 back_H7725 to_H0413 Amon_H0526 the_H0853 governor_H8269 of_H1121 the_H0853 city_H5892, and_H1121 to_H0413 Joash_H3101 the_H0853 king’s_H4428 son_H1121; 
+@26 and_H4428 say_H0559, ‘The_H0559 king_H4428 says_H0559, “Put_H7760 this_H2088 fellow in_H1004 the_H0559 prison_H3608, and_H4428 feed_H0398 him_H7725 with_H1004 bread_H3899 of_H4428 affliction and_H4428 with_H1004 water_H4325 of_H4428 affliction, until_H5704 I_H3541 return_H7725 in_H1004 peace_H7965.”’” 
 
-@27 Micaiah said, “If you return at all in peace, Yahweh has not spoken by me.” He said, “Listen, you people, all of you!”
+@27 Micaiah_H4321 said_H0559, “If_H0518 you_H0518 return_H7725 at_H3068 all_H3605 in_H3068 peace_H7965, Yahweh_H3068 has_H3068 not_H3808 spoken_H1696 by_H3068 me_H7725.” He_H0518 said_H0559, “Listen_H8085, you_H0518 people_H5971, all_H3605 of_H3068 you_H0518!”
 
 ## Defeat allies in Ramoth; death of Ahab
-@28 So the king of Israel and Jehoshaphat the king of Judah went up to Ramoth Gilead. 
-@29 The king of Israel said to Jehoshaphat, “I will disguise myself, and go into the battle; but you put on your robes.” So the king of Israel disguised himself; and they went into the battle. 
-@30 Now the king of Syria had commanded the captains of his chariots, saying, “Don’t fight with small nor great, except only with the king of Israel.” 
+@28 So_H5927 the_H0413 king_H4428 of_H4428 Israel_H3478 and_H3063 Jehoshaphat_H3092 the_H0413 king_H4428 of_H4428 Judah_H3063 went_H5927 up_H5927 to_H0413 Ramoth_H7433 Gilead_H1568. 
+@29 The_H0559 king_H4428 of_H4428 Israel_H3478 said_H0559 to_H0413 Jehoshaphat_H3092, “I_H0559 will_H3478 disguise_H2664 myself, and_H0935 go_H0935 into_H0413 the_H0559 battle_H4421; but_H0859 you_H0859 put_H3847 on_H0413 your_H0935 robes_H0899.” So_H0935 the_H0559 king_H4428 of_H4428 Israel_H3478 disguised_H2664 himself_H0413; and_H0935 they_H0559 went_H0935 into_H0413 the_H0559 battle_H4421. 
+@30 Now_H3588 the_H0853 king_H4428 of_H4428 Syria_H0758 had_H0834 commanded_H6680 the_H0853 captains_H8269 of_H4428 his_H0834 chariots_H7393, saying_H0559, “Don’t_H3808 fight_H3898 with_H0854 small_H6996 nor_H3808 great_H1419, except_H0518 only_H0905 with_H0854 the_H0853 king_H4428 of_H4428 Israel_H3478.” 
 
-@31 When the captains of the chariots saw Jehoshaphat, they said, “It is the king of Israel!” Therefore they turned around to fight against him. But Jehoshaphat cried out, and Yahweh helped him; and God moved them to depart from him. 
-@32 When the captains of the chariots saw that it was not the king of Israel, they turned back from pursuing him. 
-@33 A certain man drew his bow at random, and struck the king of Israel between the joints of the armor. Therefore he said to the driver of the chariot, “Turn around and carry me out of the battle, for I am severely wounded.” 
-@34 The battle increased that day. However, the king of Israel propped himself up in his chariot against the Syrians until the evening; and at about sunset, he died. 
+@31 When_H1961 the_H0853 captains_H8269 of_H4428 the_H0853 chariots_H7393 saw_H7200 Jehoshaphat_H3092, they_H1992 said_H0559, “It_H1931 is_H3068 the_H0853 king_H4428 of_H4428 Israel_H3478!” Therefore_H3068 they_H1992 turned_H5437 around_H5437 to_H0559 fight_H3898 against_H5921 him_H5921. But_H1961 Jehoshaphat_H3092 cried_H2199 out_H4480, and_H3068 Yahweh_H3068 helped_H5826 him_H5921; and_H3068 God_H0430 moved_H5496 them_H1992 to_H0559 depart from_H4480 him_H5921. 
+@32 When_H3588 the_H3588 captains_H8269 of_H4428 the_H3588 chariots_H7393 saw_H7200 that_H3588 it_H3588 was_H1961 not_H3808 the_H3588 king_H4428 of_H4428 Israel_H3478, they_H3588 turned_H7725 back_H7725 from_H7725 pursuing_H0310 him_H0310. 
+@33 A_H3588 certain_H0376 man_H0376 drew_H4900 his_H0376 bow_H7198 at_H3478 random_H8537, and_H3478 struck_H5221 the_H0853 king_H4428 of_H4428 Israel_H3478 between_H0996 the_H0853 joints of_H4428 the_H0853 armor_H8302. Therefore_H3588 he_H3588 said_H0559 to_H0559 the_H0853 driver_H7395 of_H4428 the_H0853 chariot_H7395, “Turn_H2015 around_H3027 and_H3478 carry_H3318 me_H4480 out_H3318 of_H4428 the_H0853 battle, for_H3588 I_H3588 am severely wounded_H5221.” 
+@34 The_H0935 battle_H4421 increased that_H3117 day_H3117. However, the_H0935 king_H4428 of_H4428 Israel_H3478 propped_H5975 himself_H1931 up_H5927 in_H0935 his_H1961 chariot_H4818 against_H4421 the_H0935 Syrians until_H5704 the_H0935 evening_H6153; and_H0935 at_H3478 about_H1961 sunset_H6153, he_H1931 died_H4191. 
 
 # 19 
 ## Punishment speech of the prophet Jehu to Jehoshaphat
-@1 Jehoshaphat the king of Judah returned to his house in peace to Jerusalem. 
-@2 Jehu the son of Hanani the seer went out to meet him, and said to King Jehoshaphat, “Should you help the wicked, and love those who hate Yahweh? Because of this, wrath is on you from before Yahweh. 
-@3 Nevertheless there are good things found in you, in that you have put away the Asheroth out of the land, and have set your heart to seek God.”
+@1 Jehoshaphat_H3092 the_H0413 king_H4428 of_H4428 Judah_H3063 returned_H7725 to_H0413 his_H7725 house_H1004 in_H0413 peace_H7965 to_H0413 Jerusalem_H3389. 
+@2 Jehu_H3058 the_H0559 son_H1121 of_H1121 Hanani_H2607 the_H0559 seer_H2374 went_H3318 out_H3318 to_H0413 meet_H6440 him_H0413, and_H1121 said_H0559 to_H0413 King_H4428 Jehoshaphat_H3092, “Should_H3068 you_H6440 help_H5826 the_H0559 wicked_H7563, and_H1121 love_H0157 those_H1121 who_H3068 hate_H8130 Yahweh_H3068? Because_H5921 of_H1121 this_H2063, wrath_H7110 is_H3068 on_H5921 you_H6440 from_H3318 before_H6440 Yahweh_H3068. 
+@3 Nevertheless_H0061 there_H4672 are_H1697 good_H2896 things_H1697 found_H4672 in_H0430 you_H3588, in_H0430 that_H3588 you_H3588 have_H0776 put_H3559 away_H4480 the_H3588 Asheroth_H0842 out_H4480 of_H0776 the_H3588 land_H0776, and_H0430 have_H0776 set_H3559 your_H3588 heart_H3824 to_H0430 seek_H1875 God_H0430.”
 
 ## The reorganization of the administration of justice by Jehoshaphat
-@4 Jehoshaphat lived at Jerusalem; and he went out again among the people from Beersheba to the hill country of Ephraim, and brought them back to Yahweh, the God of their fathers. 
-@5 He set judges in the land throughout all the fortified cities of Judah, city by city, 
-@6 and said to the judges, “Consider what you do, for you don’t judge for man, but for Yahweh; and he is with you in the judgment. 
-@7 Now therefore let the fear of Yahweh be on you. Take heed and do it; for there is no iniquity with Yahweh our God, nor respect of persons, nor taking of bribes.” 
+@4 Jehoshaphat_H3092 lived_H3427 at_H0413 Jerusalem_H3389; and_H3068 he_H5704 went_H3318 out_H3318 again_H7725 among_H0413 the_H0413 people_H5971 from_H7725 Beersheba_H0884 to_H0413 the_H0413 hill_H2022 country_H2022 of_H0430 Ephraim_H0669, and_H3068 brought_H3318 them_H0413 back_H7725 to_H0413 Yahweh_H3068, the_H0413 God_H0430 of_H0430 their_H3068 fathers_H0001. 
+@5 He_H3063 set_H5975 judges_H8199 in_H0776 the_H3605 land_H0776 throughout_H3605 all_H3605 the_H3605 fortified_H1219 cities_H5892 of_H0776 Judah_H3063, city_H5892 by_H3605 city_H5892, 
+@6 and_H3068 said_H0559 to_H0413 the_H0559 judges_H8199, “Consider_H7200 what_H4100 you_H0859 do_H6213, for_H3588 you_H0859 don’t_H3808 judge_H8199 for_H3588 man_H0120, but_H3588 for_H3588 Yahweh_H3068; and_H3068 he_H3588 is_H3068 with_H5973 you_H0859 in_H0413 the_H0559 judgment_H4941. 
+@7 Now_H6258 therefore_H6258 let_H6258 the_H6440 fear_H6343 of_H0430 Yahweh_H3068 be_H1961 on_H5921 you_H3588. Take_H8104 heed_H8104 and_H3068 do_H6213 it_H5921; for_H3588 there_H0369 is_H0369 no_H0369 iniquity_H5766 with_H5973 Yahweh_H3068 our_H3068 God_H0430, nor_H0369 respect_H6343 of_H0430 persons, nor_H0369 taking_H4727 of_H0430 bribes_H7810.” 
 
-@8 Moreover in Jerusalem Jehoshaphat appointed certain Levites, priests, and heads of the fathers’ households of Israel to give judgment for Yahweh and for controversies. They returned to Jerusalem. 
-@9 He commanded them, saying, “You shall do this in the fear of Yahweh, faithfully, and with a perfect heart. 
-@10 Whenever any controversy comes to you from your brothers who dwell in their cities, between blood and blood, between law and commandment, statutes and ordinances, you must warn them, that they not be guilty toward Yahweh, and so wrath come on you and on your brothers. Do this, and you will not be guilty. 
-@11 Behold, Amariah the chief priest is over you in all matters of Yahweh; and Zebadiah the son of Ishmael, the ruler of the house of Judah, in all the king’s matters. Also the Levites shall be officers before you. Deal courageously, and may Yahweh be with the good.” 
+@8 Moreover_H1571 in_H3068 Jerusalem_H3389 Jehoshaphat_H3092 appointed_H5975 certain Levites_H3881, priests_H3548, and_H3068 heads_H7218 of_H3068 the_H4480 fathers’_H0001 households_H0001 of_H3068 Israel_H3478 to_H7725 give_H7725 judgment_H4941 for_H4941 Yahweh_H3068 and_H3068 for_H4941 controversies. They_H3068 returned_H7725 to_H7725 Jerusalem_H3389. 
+@9 He_H6213 commanded_H6680 them_H5921, saying_H0559, “You_H6680 shall_H3068 do_H6213 this_H3541 in_H5921 the_H0559 fear_H3374 of_H3068 Yahweh_H3068, faithfully_H0530, and_H3068 with_H3068 a_H5921 perfect_H8003 heart_H3824. 
+@10 Whenever_H3605 any_H3605 controversy_H7379 comes_H0935 to_H0935 you_H0834 from_H0935 your_H3068 brothers_H0251 who_H0834 dwell_H3427 in_H3427 their_H3605 cities_H5892, between_H0996 blood_H1818 and_H0935 blood_H1818, between_H0996 law_H8451 and_H0935 commandment_H4687, statutes_H2706 and_H0935 ordinances_H4941, you_H0834 must_H0853 warn_H2094 them_H0853, that_H0834 they_H0834 not_H3808 be_H1961 guilty_H0816 toward_H5921 Yahweh_H3068, and_H0935 so_H6213 wrath_H7110 come_H0935 on_H5921 you_H0834 and_H0935 on_H5921 your_H3068 brothers_H0251. Do_H6213 this_H3541, and_H0935 you_H0834 will_H3068 not_H3808 be_H1961 guilty_H0816. 
+@11 Behold_H2009, Amariah_H0568 the_H3605 chief_H7218 priest_H3548 is_H3068 over_H5921 you_H3605 in_H5921 all_H3605 matters_H1697 of_H1121 Yahweh_H3068; and_H1121 Zebadiah_H2069 the_H3605 son_H1121 of_H1121 Ishmael_H3458, the_H3605 ruler_H5057 of_H1121 the_H3605 house_H1004 of_H1121 Judah_H3063, in_H5921 all_H3605 the_H3605 king’s_H4428 matters_H1697. Also_H3068 the_H3605 Levites_H3881 shall_H3548 be_H1961 officers_H7860 before_H6440 you_H3605. Deal_H6213 courageously, and_H1121 may_H1961 Yahweh_H3068 be_H1961 with_H5973 the_H3605 good_H2896.” 
 
 # 20 
 ## Jehoshaphat's prayer after the enemy invaded
-@1 After this, the children of Moab, the children of Ammon, and with them some of the Ammonites, came against Jehoshaphat to battle. 
-@2 Then some came who told Jehoshaphat, saying, “A great multitude is coming against you from beyond the sea from Syria. Behold, they are in Hazazon Tamar” (that is, En Gedi). 
-@3 Jehoshaphat was alarmed, and set himself to seek to Yahweh. He proclaimed a fast throughout all Judah. 
-@4 Judah gathered themselves together to seek help from Yahweh. They came out of all the cities of Judah to seek Yahweh. 
+@1 After_H0310 this_H0935, the_H5921 children_H1121 of_H1121 Moab_H4124, the_H5921 children_H1121 of_H1121 Ammon_H5983, and_H1121 with_H5973 them_H5921 some of_H1121 the_H5921 Ammonites_H5984, came_H0935 against_H5921 Jehoshaphat_H3092 to_H0935 battle_H4421. 
+@2 Then_H2009 some_H7227 came_H0935 who_H1931 told_H5046 Jehoshaphat_H3092, saying_H0559, “A_H0935 great_H7227 multitude_H1995 is_H1931 coming_H0935 against_H5921 you_H5921 from_H0935 beyond_H5676 the_H0559 sea_H3220 from_H0935 Syria_H0758. Behold_H2009, they_H5921 are_H0758 in_H5921 Hazazon Tamar” (that_H1931 is_H1931, En Gedi). 
+@3 Jehoshaphat_H3092 was_H3068 alarmed, and_H3068 set_H5414 himself_H6440 to_H5921 seek_H1875 to_H5921 Yahweh_H3068. He_H3068 proclaimed_H7121 a_H5414 fast_H6685 throughout_H3605 all_H3605 Judah_H3063. 
+@4 Judah_H3063 gathered_H6908 themselves_H6908 together_H6908 to_H0935 seek_H1245 help from_H0935 Yahweh_H3068. They_H3068 came_H0935 out_H1245 of_H3068 all_H3605 the_H3605 cities_H5892 of_H3068 Judah_H3063 to_H0935 seek_H1245 Yahweh_H3068. 
 
-@5 Jehoshaphat stood in the assembly of Judah and Jerusalem, in Yahweh’s house, before the new court; 
-@6 and he said, “Yahweh, the God of our fathers, aren’t you God in heaven? Aren’t you ruler over all the kingdoms of the nations? Power and might are in your hand, so that no one is able to withstand you. 
-@7 Didn’t you, our God, drive out the inhabitants of this land before your people Israel, and give it to the offspring^a^ of Abraham your friend forever? 
-@8 They lived in it, and have built you a sanctuary in it for your name, saying, 
-@9 ‘If evil comes on us—the sword, judgment, pestilence, or famine—we will stand before this house, and before you (for your name is in this house), and cry to you in our affliction, and you will hear and save.’ 
-@10 Now, behold, the children of Ammon and Moab and Mount Seir, whom you would not let Israel invade when they came out of the land of Egypt, but they turned away from them, and didn’t destroy them; 
-@11 behold, how they reward us, to come to cast us out of your possession, which you have given us to inherit. 
-@12 Our God, will you not judge them? For we have no might against this great company that comes against us. We don’t know what to do, but our eyes are on you.” 
+@5 Jehoshaphat_H3092 stood_H5975 in_H3068 the_H6440 assembly_H6951 of_H1004 Judah_H3063 and_H3068 Jerusalem_H3389, in_H3068 Yahweh’s_H3068 house_H1004, before_H6440 the_H6440 new_H2319 court_H2691; 
+@6 and_H3068 he_H1931 said_H0559, “Yahweh_H3068, the_H3605 God_H0430 of_H0430 our_H3068 fathers_H0001, aren’t_H0369 you_H0859 God_H0430 in_H0430 heaven_H8064? Aren’t_H0369 you_H0859 ruler_H4910 over_H3027 all_H3605 the_H3605 kingdoms_H4467 of_H0430 the_H3605 nations_H1471? Power_H3027 and_H3068 might_H1369 are_H3027 in_H0430 your_H3068 hand_H3027, so_H3808 that_H3605 no_H3808 one_H0369 is_H0369 able_H3027 to_H0559 withstand you_H0859. 
+@7 Didn’t_H3808 you_H0859, our_H5414 God_H0430, drive_H3423 out_H3423 the_H0853 inhabitants_H3427 of_H0776 this_H2063 land_H0776 before_H6440 your_H5414 people_H5971 Israel_H3478, and_H3478 give_H5414 it_H5414 to_H3478 the_H0853 offspring_H2233^a^ of_H0776 Abraham_H0085 your_H5414 friend_H0157 forever_H5769? 
+@8 They_H0559 lived_H3427 in_H3427 it_H1129, and_H3427 have_H1129 built_H1129 you_H3427 a_H1129 sanctuary_H4720 in_H3427 it_H1129 for_H3427 your_H0559 name_H8034, saying_H0559, 
+@9 ‘If_H0518 evil_H7451 comes_H0935 on_H5921 us_H0413—the_H6440 sword_H2719, judgment_H8196, pestilence_H1698, or_H0518 famine_H7458—we_H3588 will_H2719 stand_H5975 before_H6440 this_H2088 house_H1004, and_H0935 before_H6440 you_H3588 (for_H3588 your_H5921 name_H8034 is_H2088 in_H5921 this_H2088 house_H1004), and_H0935 cry_H2199 to_H0413 you_H3588 in_H5921 our_H5921 affliction, and_H0935 you_H3588 will_H2719 hear_H8085 and_H0935 save_H3467.’ 
+@10 Now_H6258, behold_H2009, the_H0834 children_H1121 of_H1121 Ammon_H5983 and_H1121 Moab_H4124 and_H1121 Mount_H2022 Seir_H8165, whom_H0834 you_H0834 would_H3478 not_H3808 let_H5414 Israel_H3478 invade_H0935 when_H3588 they_H0834 came_H0935 out_H5921 of_H1121 the_H0834 land_H0776 of_H1121 Egypt_H4714, but_H3588 they_H0834 turned_H5493 away_H5493 from_H5493 them_H5414, and_H1121 didn’t_H3808 destroy_H8045 them_H5414; 
+@11 behold_H2009, how_H0834 they_H1992 reward us_H5921, to_H0935 come_H0935 to_H0935 cast_H3423 us_H5921 out_H3423 of_H5921 your_H5921 possession_H3423, which_H0834 you_H0834 have_H0834 given_H3423 us_H5921 to_H0935 inherit_H3423. 
+@12 Our_H5921 God_H0430, will_H0430 you_H3588 not_H3808 judge_H8199 them_H5921? For_H3588 we_H0587 have_H0369 no_H3808 might_H3581 against_H5921 this_H2088 great_H7227 company that_H3588 comes_H0935 against_H5921 us_H5921. We_H0587 don’t_H3808 know_H3045 what_H4100 to_H0935 do_H6213, but_H3588 our_H5921 eyes_H5869 are_H4100 on_H5921 you_H3588.” 
 ^a^[**20:7** or, seed]
 
-@13 All Judah stood before Yahweh, with their little ones, their wives, and their children.
+@13 All_H3605 Judah_H3063 stood_H5975 before_H6440 Yahweh_H3068, with_H3068 their_H3605 little_H2945 ones_H2945, their_H3605 wives_H0802, and_H1121 their_H3605 children_H1121.
 
 ## God's Answer: Levite Jahaziel's Promise of Victory
-@14 Then Yahweh’s Spirit came on Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, the Levite, of the sons of Asaph, in the middle of the assembly; 
-@15 and he said, “Listen, all Judah, and you inhabitants of Jerusalem, and you, King Jehoshaphat. Yahweh says to you, ‘Don’t be afraid, and don’t be dismayed because of this great multitude; for the battle is not yours, but God’s. 
-@16 Tomorrow, go down against them. Behold, they are coming up by the ascent of Ziz. You will find them at the end of the valley, before the wilderness of Jeruel. 
-@17 You will not need to fight this battle. Set yourselves, stand still, and see the salvation of Yahweh with you, O Judah and Jerusalem. Don’t be afraid, nor be dismayed. Go out against them tomorrow, for Yahweh is with you.’” 
+@14 Then_H1961 Yahweh’s_H3068 Spirit_H7307 came_H1961 on_H5921 Jahaziel_H3166 the_H5921 son_H1121 of_H1121 Zechariah_H2148, the_H5921 son_H1121 of_H1121 Benaiah_H1141, the_H5921 son_H1121 of_H1121 Jeiel_H3273, the_H5921 son_H1121 of_H1121 Mattaniah_H4983, the_H5921 Levite_H3881, of_H1121 the_H5921 sons_H1121 of_H1121 Asaph_H0623, in_H5921 the_H5921 middle_H8432 of_H1121 the_H5921 assembly_H6951; 
+@15 and_H3068 he_H3588 said_H0559, “Listen_H7181, all_H3605 Judah_H3063, and_H3068 you_H0859 inhabitants_H3427 of_H4428 Jerusalem_H3389, and_H3068 you_H0859, King_H4428 Jehoshaphat_H3092. Yahweh_H3068 says_H0559 to_H0559 you_H0859, ‘Don’t_H0408 be_H3808 afraid_H3372, and_H3068 don’t_H0408 be_H3808 dismayed_H2865 because_H3588 of_H4428 this_H2088 great_H7227 multitude_H1995; for_H3588 the_H3605 battle_H4421 is_H3068 not_H3808 yours_H0859, but_H3588 God’s_H0430. 
+@16 Tomorrow_H4279, go_H5927 down_H3381 against_H5921 them_H0853. Behold_H2005, they_H5921 are_H5927 coming_H5927 up_H5927 by_H5921 the_H0853 ascent_H4608 of_H6440 Ziz_H6732. You_H6440 will_H3381 find_H4672 them_H0853 at_H5921 the_H0853 end_H5490 of_H6440 the_H0853 valley_H5158, before_H6440 the_H0853 wilderness_H4057 of_H6440 Jeruel. 
+@17 You_H6440 will_H3068 not_H3808 need to_H3068 fight_H3898 this_H2063 battle_H3898. Set_H5975 yourselves_H4279, stand_H5975 still_H5975, and_H3068 see_H7200 the_H0853 salvation_H3444 of_H3068 Yahweh_H3068 with_H5973 you_H6440, O_H3068 Judah_H3063 and_H3068 Jerusalem_H3389. Don’t_H0408 be_H3808 afraid_H3372, nor_H3808 be_H3808 dismayed_H2865. Go_H3318 out_H3318 against_H5973 them_H0853 tomorrow_H4279, for_H3068 Yahweh_H3068 is_H3068 with_H5973 you_H6440.’” 
 
-@18 Jehoshaphat bowed his head with his face to the ground; and all Judah and the inhabitants of Jerusalem fell down before Yahweh, worshiping Yahweh. 
-@19 The Levites, of the children of the Kohathites and of the children of the Korahites, stood up to praise Yahweh, the God of Israel, with an exceedingly loud voice.
+@18 Jehoshaphat_H3092 bowed_H7812 his_H3605 head_H6440 with_H3068 his_H3605 face_H6440 to_H3068 the_H3605 ground_H0776; and_H3068 all_H3605 Judah_H3063 and_H3068 the_H3605 inhabitants_H3427 of_H0776 Jerusalem_H3389 fell_H5307 down_H7812 before_H6440 Yahweh_H3068, worshiping_H7812 Yahweh_H3068. 
+@19 The_H4480 Levites_H3881, of_H1121 the_H4480 children_H1121 of_H1121 the_H4480 Kohathites_H6956 and_H1121 of_H1121 the_H4480 children_H1121 of_H1121 the_H4480 Korahites_H7145, stood_H6965 up_H6965 to_H3068 praise_H1984 Yahweh_H3068, the_H4480 God_H0430 of_H1121 Israel_H3478, with_H3068 an_H4480 exceedingly_H1419 loud_H1419 voice_H6963.
 
 ## The way out against the enemy; Self-destruction of the enemy; huge booty of the jews
-@20 They rose early in the morning and went out into the wilderness of Tekoa. As they went out, Jehoshaphat stood and said, “Listen to me, Judah and you inhabitants of Jerusalem! Believe in Yahweh your God, so you will be established! Believe his prophets, so you will prosper.” 
+@20 They_H3068 rose_H7925 early_H7925 in_H3427 the_H0559 morning_H1242 and_H3068 went_H3318 out_H3318 into_H3318 the_H0559 wilderness_H4057 of_H0430 Tekoa_H8620. As_H3068 they_H3068 went_H3318 out_H3318, Jehoshaphat_H3092 stood_H5975 and_H3068 said_H0559, “Listen_H8085 to_H0559 me_H3318, Judah_H3063 and_H3068 you_H1242 inhabitants_H3427 of_H0430 Jerusalem_H3389! Believe_H0539 in_H3427 Yahweh_H3068 your_H3068 God_H0430, so_H3318 you_H1242 will_H3068 be_H3068 established_H0539! Believe_H0539 his_H3068 prophets_H5030, so_H3318 you_H1242 will_H3068 prosper_H6743.” 
 
-@21 When he had taken counsel with the people, he appointed those who were to sing to Yahweh and give praise in holy array as they go out before the army, and say, “Give thanks to Yahweh, for his loving kindness endures forever.” 
-@22 When they began to sing and to praise, Yahweh set ambushers against the children of Ammon, Moab, and Mount Seir, who had come against Judah; and they were struck. 
-@23 For the children of Ammon and Moab stood up against the inhabitants of Mount Seir to utterly kill and destroy them. When they had finished the inhabitants of Seir, everyone helped to destroy each other. 
+@21 When_H3588 he_H3588 had_H3068 taken_H3318 counsel_H3289 with_H0413 the_H0559 people_H5971, he_H3588 appointed_H5975 those_H3588 who_H3068 were_H6440 to_H0413 sing_H7891 to_H0413 Yahweh_H3068 and_H3068 give_H3034 praise_H1984 in_H0413 holy_H6944 array as_H3068 they_H3588 go_H3318 out_H3318 before_H6440 the_H0559 army_H5971, and_H3068 say_H0559, “Give_H3034 thanks_H3034 to_H0413 Yahweh_H3068, for_H3588 his_H3068 loving kindness_H2617 endures_H5769 forever_H5769.” 
+@22 When_H0935 they_H5921 began_H2490 to_H0935 sing and_H1121 to_H0935 praise_H8416, Yahweh_H3068 set_H5414 ambushers against_H5921 the_H5921 children_H1121 of_H1121 Ammon_H5983, Moab_H4124, and_H1121 Mount_H2022 Seir_H8165, who_H3068 had_H3068 come_H0935 against_H5921 Judah_H3063; and_H1121 they_H5921 were_H1121 struck_H5062. 
+@23 For_H5921 the_H5921 children_H1121 of_H1121 Ammon_H5983 and_H1121 Moab_H4124 stood_H5975 up_H5975 against_H5921 the_H5921 inhabitants_H3427 of_H1121 Mount_H2022 Seir_H8165 to_H5921 utterly_H4889 kill and_H1121 destroy_H8045 them_H5921. When_H3615 they_H5921 had_H0376 finished_H3615 the_H5921 inhabitants_H3427 of_H1121 Seir_H8165, everyone_H0376 helped_H5826 to_H5921 destroy_H8045 each_H0376 other_H7453. 
 
-@24 When Judah came to the place overlooking the wilderness, they looked at the multitude; and behold, they were dead bodies fallen to the earth, and there were none who escaped. 
-@25 When Jehoshaphat and his people came to take their plunder, they found among them in abundance both riches and dead bodies with precious jewels, which they stripped off for themselves, more than they could carry away. They took plunder for three days, it was so much. 
-@26 On the fourth day, they assembled themselves in Beracah^a^ Valley, for there they blessed Yahweh. Therefore the name of that place was called “Beracah Valley” to this day. 
-@27 Then they returned, every man of Judah and Jerusalem, with Jehoshaphat in front of them, to go again to Jerusalem with joy; for Yahweh had made them to rejoice over their enemies. 
-@28 They came to Jerusalem with stringed instruments, harps, and trumpets to Yahweh’s house. 
-@29 The fear of God was on all the kingdoms of the countries when they heard that Yahweh fought against the enemies of Israel. 
-@30 So the realm of Jehoshaphat was quiet, for his God gave him rest all around. 
+@24 When_H0935 Judah_H3063 came_H0935 to_H0413 the_H5921 place_H0935 overlooking_H2005 the_H5921 wilderness_H4057, they_H5921 looked_H6437 at_H0413 the_H5921 multitude_H1995; and_H0935 behold_H2005, they_H5921 were_H3063 dead_H6297 bodies_H6297 fallen_H5307 to_H0413 the_H5921 earth_H0776, and_H0935 there_H0369 were_H3063 none_H0369 who_H0369 escaped_H6413. 
+@25 When_H3588 Jehoshaphat_H3092 and_H0935 his_H1961 people_H5971 came_H0935 to_H0935 take_H0962 their_H3588 plunder_H0962, they_H3588 found_H4672 among_H4672 them_H0853 in_H0935 abundance_H7230 both riches and_H0935 dead_H6297 bodies_H6297 with_H0935 precious_H2530 jewels_H3627, which_H1931 they_H3588 stripped_H5337 off_H0853 for_H3588 themselves, more_H0369 than_H7227 they_H3588 could_H5971 carry_H4853 away_H5337. They_H3588 took_H0853 plunder_H0962 for_H3588 three_H7969 days_H3117, it_H1931 was_H0369 so_H1961 much_H7230. 
+@26 On_H5921 the_H0853 fourth_H7243 day_H3117, they_H3588 assembled_H6950 themselves_H5921 in_H5921 Beracah_H1294^a^ Valley_H6010, for_H3588 there_H8033 they_H3588 blessed_H1288 Yahweh_H3068. Therefore_H3651 the_H0853 name_H8034 of_H3068 that_H3588 place_H4725 was_H8034 called_H7121 “Beracah_H1294 Valley_H6010” to_H5704 this_H3651 day_H3117. 
+@27 Then_H7725 they_H3588 returned_H7725, every_H3605 man_H0376 of_H0376 Judah_H3063 and_H3068 Jerusalem_H3389, with_H0413 Jehoshaphat_H3092 in_H0413 front of_H0376 them_H0413, to_H0413 go_H7725 again_H7725 to_H0413 Jerusalem_H3389 with_H0413 joy_H8057; for_H3588 Yahweh_H3068 had_H3068 made_H7725 them_H0413 to_H0413 rejoice_H8055 over_H0413 their_H3605 enemies_H0341. 
+@28 They_H3068 came_H0935 to_H0413 Jerusalem_H3389 with_H0413 stringed instruments, harps_H3658, and_H0935 trumpets_H2689 to_H0413 Yahweh’s_H3068 house_H1004. 
+@29 The_H3605 fear_H6343 of_H0776 God_H0430 was_H1961 on_H5921 all_H3605 the_H3605 kingdoms_H4467 of_H0776 the_H3605 countries_H0776 when_H3588 they_H3588 heard_H8085 that_H3588 Yahweh_H3068 fought_H3898 against_H5921 the_H3605 enemies_H0341 of_H0776 Israel_H3478. 
+@30 So the_H5439 realm_H4438 of_H0430 Jehoshaphat_H3092 was_H0430 quiet_H8252, for_H0430 his_H5117 God_H0430 gave_H5117 him_H5117 rest_H5117 all_H5439 around_H5439. 
 ^a^[**20:26** “Beracah” means “blessing”.]
 
 ## The conclusion of Jehoshaphat's rule and the sources of his story
-@31 So Jehoshaphat reigned over Judah. He was thirty-five years old when he began to reign. He reigned twenty-five years in Jerusalem. His mother’s name was Azubah the daughter of Shilhi. 
-@32 He walked in the way of Asa his father, and didn’t turn away from it, doing that which was right in Yahweh’s eyes. 
-@33 However the high places were not taken away, and the people had still not set their hearts on the God of their fathers. 
+@31 So_H5921 Jehoshaphat_H3092 reigned_H4427 over_H5921 Judah_H3063. He_H3389 was_H8034 thirty-five years_H8141 old_H1121 when_H1121 he_H3389 began to_H5921 reign_H4427. He_H3389 reigned_H4427 twenty-five_H2568 years_H8141 in_H5921 Jerusalem_H3389. His_H5921 mother’s_H0517 name_H8034 was_H8034 Azubah_H5806 the_H5921 daughter_H1323 of_H1121 Shilhi_H7977. 
+@32 He_H6213 walked in_H3068 the_H4480 way_H1870 of_H3068 Asa_H0609 his_H3068 father_H0001, and_H3068 didn’t_H3808 turn_H5493 away_H5493 from_H4480 it_H6213, doing_H6213 that_H4480 which_H5869 was_H3068 right_H3477 in_H3068 Yahweh’s_H3068 eyes_H5869. 
+@33 However_H0389 the_H5493 high_H1116 places_H1116 were_H0430 not_H3808 taken_H5493 away_H5493, and_H0430 the_H5493 people_H5971 had_H0430 still_H5750 not_H3808 set_H3559 their_H3559 hearts_H3824 on_H0430 the_H5493 God_H0430 of_H0430 their_H3559 fathers_H0001. 
 
-@34 Now the rest of the acts of Jehoshaphat, first and last, behold, they are written in the history of Jehu the son of Hanani, which is included in the book of the kings of Israel.
+@34 Now_H2005 the_H0834 rest_H3499 of_H1121 the_H0834 acts_H1697 of_H1121 Jehoshaphat_H3092, first_H7223 and_H1121 last_H0314, behold_H2005, they_H0834 are_H0834 written_H3789 in_H5921 the_H0834 history of_H1121 Jehu_H3058 the_H0834 son_H1121 of_H1121 Hanani_H2607, which_H0834 is_H0834 included_H5927 in_H5921 the_H0834 book_H5612 of_H1121 the_H0834 kings_H4428 of_H1121 Israel_H3478.
 
 ## Jehoshaphat's alliance with Ahaziah of Israel and his punishment; his death
-@35 After this, Jehoshaphat king of Judah joined himself with Ahaziah king of Israel. The same did very wickedly. 
-@36 He joined himself with him to make ships to go to Tarshish. They made the ships in Ezion Geber. 
-@37 Then Eliezer the son of Dodavahu of Mareshah prophesied against Jehoshaphat, saying, “Because you have joined yourself with Ahaziah, Yahweh has destroyed your works.” The ships were wrecked, so that they were not able to go to Tarshish. 
+@35 After_H0310 this_H1931, Jehoshaphat_H3092 king_H4428 of_H4428 Judah_H3063 joined_H2266 himself_H1931 with_H5973 Ahaziah_H0274 king_H4428 of_H4428 Israel_H3478. The_H0310 same_H1931 did_H6213 very wickedly_H7561. 
+@36 He_H6213 joined_H2266 himself with_H5973 him_H5973 to_H5973 make_H6213 ships_H0591 to_H5973 go to_H5973 Tarshish_H8659. They_H6213 made_H6213 the_H5973 ships_H0591 in_H5973 Ezion Geber. 
+@37 Then_H0853 Eliezer_H0461 the_H0853 son_H1121 of_H1121 Dodavahu_H1735 of_H1121 Mareshah_H4762 prophesied_H5012 against_H5921 Jehoshaphat_H3092, saying_H0559, “Because_H5921 you_H5921 have_H1121 joined_H2266 yourself_H0413 with_H5973 Ahaziah_H0274, Yahweh_H3068 has_H3068 destroyed_H6555 your_H3068 works_H4639.” The_H0853 ships_H0591 were_H1121 wrecked, so_H3808 that_H3068 they_H5921 were_H1121 not_H3808 able_H4639 to_H0413 go to_H0413 Tarshish_H8659. 
 
 # 21 
 ## King Joram's rule
-@1 Jehoshaphat slept with his fathers, and was buried with his fathers in David’s city; and Jehoram his son reigned in his place.
+@1 Jehoshaphat_H3092 slept_H7901 with_H5973 his_H1732 fathers_H0001, and_H1121 was_H1732 buried_H6912 with_H5973 his_H1732 fathers_H0001 in_H6912 David’s_H1732 city_H5892; and_H1121 Jehoram_H3088 his_H1732 son_H1121 reigned_H4427 in_H6912 his_H1732 place_H8478.
 
 ## Murder of his brothers
-@2 He had brothers, the sons of Jehoshaphat: Azariah, Jehiel, Zechariah, Azariah, Michael, and Shephatiah. All these were the sons of Jehoshaphat king of Israel. 
-@3 Their father gave them great gifts of silver, of gold, and of precious things, with fortified cities in Judah; but he gave the kingdom to Jehoram, because he was the firstborn. 
-@4 Now when Jehoram had risen up over the kingdom of his father, and had strengthened himself, he killed all his brothers with the sword, and also some of the princes of Israel.
+@2 He_H3478 had_H3478 brothers_H0251, the_H3605 sons_H1121 of_H1121 Jehoshaphat_H3092: Azariah_H5838, Jehiel_H3171, Zechariah_H2148, Azariah_H5838, Michael_H4317, and_H1121 Shephatiah_H8203. All_H3605 these_H0428 were_H3478 the_H3605 sons_H1121 of_H1121 Jehoshaphat_H3092 king_H4428 of_H1121 Israel_H3478. 
+@3 Their_H5414 father_H0001 gave_H5414 them_H5414 great_H7227 gifts_H4979 of_H0001 silver_H3701, of_H0001 gold_H2091, and_H3063 of_H0001 precious_H4030 things_H5973, with_H5973 fortified_H4694 cities_H5892 in_H0001 Judah_H3063; but_H3588 he_H1931 gave_H5414 the_H0853 kingdom_H4467 to_H5414 Jehoram_H3088, because_H3588 he_H1931 was_H1931 the_H0853 firstborn_H1060. 
+@4 Now_H1571 when_H2026 Jehoram_H3088 had_H3478 risen_H6965 up_H6965 over_H5921 the_H3605 kingdom_H4467 of_H8269 his_H3605 father_H0001, and_H6965 had_H3478 strengthened_H2388 himself_H2388, he_H0853 killed_H2026 all_H3605 his_H3605 brothers_H0251 with_H5921 the_H3605 sword_H2719, and_H6965 also_H1571 some_H3605 of_H8269 the_H3605 princes_H8269 of_H8269 Israel_H3478.
 
 ## God's position on Jehoram's apostasy
-@5 Jehoram was thirty-two years old when he began to reign, and he reigned eight years in Jerusalem. 
-@6 He walked in the way of the kings of Israel, as did Ahab’s house, for he had Ahab’s daughter as his wife. He did that which was evil in Yahweh’s sight. 
-@7 However Yahweh would not destroy David’s house, because of the covenant that he had made with David, and as he promised to give a lamp to him and to his children always.
+@5 Jehoram_H3088 was_H1121 thirty-two years_H8141 old_H1121 when_H1121 he_H3389 began to_H3389 reign_H4427, and_H1121 he_H3389 reigned_H4427 eight_H8083 years_H8141 in_H8141 Jerusalem_H3389. 
+@6 He_H0834 walked in_H3068 the_H0834 way_H1870 of_H4428 the_H0834 kings_H4428 of_H4428 Israel_H3478, as_H0834 did_H6213 Ahab’s_H0256 house_H1004, for_H3588 he_H0834 had_H3068 Ahab’s_H0256 daughter_H1323 as_H0834 his_H3068 wife_H0802. He_H0834 did_H6213 that_H0834 which_H0834 was_H1961 evil_H7451 in_H3068 Yahweh’s_H3068 sight_H5869. 
+@7 However Yahweh_H3068 would_H0014 not_H3808 destroy_H7843 David’s_H1732 house_H1004, because_H0834 of_H1121 the_H3605 covenant_H1285 that_H0834 he_H0834 had_H3068 made_H3772 with_H1004 David_H1732, and_H1121 as_H0834 he_H0834 promised_H0559 to_H0559 give_H5414 a_H3772 lamp_H5216 to_H0559 him_H5414 and_H1121 to_H0559 his_H3605 children_H1121 always_H3117.
 
 ## Apostasy of the Edomites and the city of Libnah
-@8 In his days Edom revolted from under the hand of Judah, and made a king over themselves. 
-@9 Then Jehoram went there with his captains and all his chariots with him. He rose up by night and struck the Edomites who surrounded him, along with the captains of the chariots. 
-@10 So Edom has been in revolt from under the hand of Judah to this day. Then Libnah revolted at the same time from under his hand, because he had forsaken Yahweh, the God of his fathers.
+@8 In_H5921 his_H5921 days_H3117 Edom_H0123 revolted_H6586 from_H5921 under_H8478 the_H5921 hand_H3027 of_H4428 Judah_H3063, and_H3063 made a_H5921 king_H4428 over_H5921 themselves_H5921. 
+@9 Then_H1961 Jehoram_H3088 went_H5437 there_H1961 with_H5973 his_H3605 captains_H8269 and_H6965 all_H3605 his_H3605 chariots_H7393 with_H5973 him_H0413. He_H0853 rose_H6965 up_H6965 by_H0413 night_H3915 and_H6965 struck_H5221 the_H3605 Edomites_H0123 who_H3605 surrounded_H5437 him_H0413, along_H0853 with_H5973 the_H3605 captains_H8269 of_H8269 the_H3605 chariots_H7393. 
+@10 So_H3588 Edom_H0123 has_H3068 been_H6586 in_H0430 revolt from_H3027 under_H8478 the_H0853 hand_H3027 of_H0430 Judah_H3063 to_H5704 this_H2088 day_H3117. Then_H0227 Libnah_H3841 revolted_H6586 at_H3068 the_H0853 same_H1931 time_H6256 from_H3027 under_H8478 his_H3068 hand_H3027, because_H3588 he_H1931 had_H3068 forsaken Yahweh_H3068, the_H0853 God_H0430 of_H0430 his_H3068 fathers_H0001.
 
 ## The threatening letter of the prophet Elijah to Joram
-@11 Moreover he made high places in the mountains of Judah, and made the inhabitants of Jerusalem play the prostitute, and led Judah astray. 
-@12 A letter came to him from Elijah the prophet, saying, “Yahweh, the God of David your father, says, ‘Because you have not walked in the ways of Jehoshaphat your father, nor in the ways of Asa king of Judah, 
-@13 but have walked in the way of the kings of Israel, and have made Judah and the inhabitants of Jerusalem to play the prostitute like Ahab’s house did, and also have slain your brothers of your father’s house, who were better than yourself, 
-@14 behold, Yahweh will strike your people with a great plague, including your children, your wives, and all your possessions; 
-@15 and you will have great sickness with a disease of your bowels, until your bowels fall out by reason of the sickness, day by day.’”
+@11 Moreover_H1571 he_H1931 made_H6213 high_H1116 places_H1116 in_H3427 the_H0853 mountains_H2022 of_H3427 Judah_H3063, and_H3063 made_H6213 the_H0853 inhabitants_H3427 of_H3427 Jerusalem_H3389 play_H2181 the_H0853 prostitute_H2181, and_H3063 led_H5080 Judah_H3063 astray_H5080. 
+@12 A_H0935 letter_H4385 came_H0935 to_H0413 him_H0413 from_H0935 Elijah_H0452 the_H0559 prophet_H5030, saying_H0559, “Yahweh_H3068, the_H0559 God_H0430 of_H4428 David_H1732 your_H3068 father_H0001, says_H0559, ‘Because_H0834 you_H0834 have_H0834 not_H3808 walked_H1980 in_H1980 the_H0559 ways_H1870 of_H4428 Jehoshaphat_H3092 your_H3068 father_H0001, nor_H3808 in_H1980 the_H0559 ways_H1870 of_H4428 Asa_H0609 king_H4428 of_H4428 Judah_H3063, 
+@13 but_H1571 have_H0001 walked in_H3427 the_H0853 way_H1870 of_H4428 the_H0853 kings_H4428 of_H4428 Israel_H3478, and_H3063 have_H0001 made_H1571 Judah_H3063 and_H3063 the_H0853 inhabitants_H3427 of_H4428 Jerusalem_H3389 to_H3478 play_H2181 the_H0853 prostitute_H2181 like_H1870 Ahab’s_H0256 house_H1004 did, and_H3063 also_H1571 have_H0001 slain_H2026 your_H4480 brothers_H0251 of_H4428 your_H4480 father’s_H0001 house_H1004, who_H3478 were_H3478 better_H2896 than_H4480 yourself, 
+@14 behold_H2009, Yahweh_H3068 will_H3068 strike_H5062 your_H3068 people_H5971 with_H3068 a_H3068 great_H1419 plague_H4046, including_H3605 your_H3068 children_H1121, your_H3068 wives_H0802, and_H1121 all_H3605 your_H3068 possessions_H7399; 
+@15 and_H3117 you_H0859 will_H5704 have_H0859 great_H7227 sickness_H2483 with_H5921 a_H4480 disease_H2483 of_H3117 your_H5921 bowels_H4578, until_H5704 your_H5921 bowels_H4578 fall out_H3318 by_H5921 reason_H5921 of_H3117 the_H5921 sickness_H2483, day_H3117 by_H5921 day_H3117.’”
 
 ## Philistine and Arab raids
-@16 Yahweh stirred up against Jehoram the spirit of the Philistines and of the Arabians who are beside the Ethiopians; 
-@17 and they came up against Judah, broke into it, and carried away all the possessions that were found in the king’s house, including his sons and his wives, so that there was no son left to him except Jehoahaz, the youngest of his sons.
+@16 Yahweh_H3068 stirred_H5782 up_H5921 against_H5921 Jehoram_H3088 the_H0853 spirit_H7307 of_H3068 the_H0853 Philistines_H6430 and_H3068 of_H3068 the_H0853 Arabians who_H0834 are_H0834 beside_H5921 the_H0853 Ethiopians_H3569; 
+@17 and_H1121 they_H3588 came_H5927 up_H5927 against_H5927 Judah_H3063, broke_H1234 into_H5927 it_H0518, and_H1121 carried_H5927 away_H7617 all_H3605 the_H3605 possessions_H7399 that_H3588 were_H1121 found_H4672 in_H1004 the_H3605 king’s_H4428 house_H1004, including_H3605 his_H3605 sons_H1121 and_H1121 his_H3605 wives_H0802, so_H3808 that_H3588 there_H5927 was_H0802 no_H3808 son_H1121 left_H7604 to_H1004 him_H0853 except_H0518 Jehoahaz_H3059, the_H3605 youngest_H6996 of_H1121 his_H3605 sons_H1121.
 
 ## Joram's agonizing end and dishonorable burial
-@18 After all this Yahweh struck him in his bowels with an incurable disease. 
-@19 In process of time, at the end of two years, his bowels fell out by reason of his sickness, and he died of severe diseases. His people made no burning for him, like the burning of his fathers. 
-@20 He was thirty-two years old when he began to reign, and he reigned in Jerusalem eight years. He departed with no one’s regret. They buried him in David’s city, but not in the tombs of the kings. 
+@18 After_H0310 all_H3605 this_H2063 Yahweh_H3068 struck_H5062 him_H0310 in_H3068 his_H3605 bowels_H4578 with_H3068 an_H3068 incurable disease_H2483. 
+@19 In_H4191 process of_H3117 time_H6256, at_H3117 the_H3117 end_H7093 of_H3117 two_H8147 years_H3117, his_H1961 bowels_H4578 fell_H3318 out_H3318 by_H3117 reason of_H3117 his_H1961 sickness_H2483, and_H3117 he_H3117 died_H4191 of_H3117 severe diseases_H8463. His_H1961 people_H5971 made_H6213 no_H3808 burning_H8316 for_H3117 him_H5973, like_H1961 the_H3117 burning_H8316 of_H3117 his_H1961 fathers_H0001. 
+@20 He_H1732 was_H1961 thirty-two years_H8141 old_H1121 when_H1961 he_H1732 began_H1961 to_H1961 reign_H4427, and_H1121 he_H1732 reigned_H4427 in_H8141 Jerusalem_H3389 eight_H8083 years_H8141. He_H1732 departed with_H1732 no_H3808 one’s_H3808 regret_H2532. They_H3808 buried_H6912 him_H6912 in_H8141 David’s_H1732 city_H5892, but_H3808 not_H3808 in_H8141 the_H1961 tombs_H6913 of_H1121 the_H1961 kings_H4428. 
 
 # 22 
 ## The government of King Ochôzías; His government disapproving of God
-@1 The inhabitants of Jerusalem made Ahaziah his youngest son king in his place, because the band of men who came with the Arabians to the camp had slain all the oldest. So Ahaziah the son of Jehoram king of Judah reigned. 
-@2 Ahaziah was forty-two years old when he began to reign, and he reigned one year in Jerusalem. His mother’s name was Athaliah the daughter of Omri. 
-@3 He also walked in the ways of Ahab’s house, because his mother was his counselor in acting wickedly. 
-@4 He did that which was evil in Yahweh’s sight, as did Ahab’s house, for they were his counselors after the death of his father, to his destruction.
+@1 The_H3605 inhabitants_H3427 of_H1121 Jerusalem_H3389 made_H3605 Ahaziah_H0274 his_H3605 youngest_H6996 son_H1121 king_H4428 in_H3427 his_H3605 place_H8478, because_H3588 the_H3605 band_H1416 of_H1121 men_H1121 who_H3605 came_H0935 with_H0935 the_H3605 Arabians to_H0935 the_H3605 camp_H4264 had_H4428 slain_H2026 all_H3605 the_H3605 oldest. So_H0935 Ahaziah_H0274 the_H3605 son_H1121 of_H1121 Jehoram_H3088 king_H4428 of_H1121 Judah_H3063 reigned_H4427. 
+@2 Ahaziah_H0274 was_H8034 forty-two_H8147 years_H8141 old_H1121 when_H1121 he_H3389 began to_H3389 reign_H4427, and_H1121 he_H3389 reigned_H4427 one_H0259 year_H8141 in_H8141 Jerusalem_H3389. His_H0274 mother’s_H0517 name_H8034 was_H8034 Athaliah_H6271 the_H8034 daughter_H1323 of_H1121 Omri_H6018. 
+@3 He_H1931 also_H1571 walked_H1980 in_H1980 the_H3588 ways_H1870 of_H1004 Ahab’s_H0256 house_H1004, because_H3588 his_H1961 mother_H0517 was_H1961 his_H1961 counselor_H3289 in_H1980 acting_H1980 wickedly_H7561. 
+@4 He_H3588 did_H6213 that_H3588 which_H5869 was_H1961 evil_H7451 in_H3068 Yahweh’s_H3068 sight_H5869, as_H1961 did_H6213 Ahab’s_H0256 house_H1004, for_H3588 they_H1992 were_H1961 his_H3068 counselors_H3289 after_H0310 the_H3588 death_H4194 of_H1004 his_H3068 father_H0001, to_H1961 his_H3068 destruction_H4889.
 
 ## His covenant with Jehoram of Israel and his death by Jehu
-@5 He also followed their counsel, and went with Jehoram the son of Ahab king of Israel to war against Hazael king of Syria at Ramoth Gilead; and the Syrians wounded Joram. 
-@6 He returned to be healed in Jezreel of the wounds which they had given him at Ramah, when he fought against Hazael king of Syria. Azariah the son of Jehoram, king of Judah, went down to see Jehoram the son of Ahab in Jezreel, because he was sick. 
+@5 He_H0853 also_H1571 followed_H1980 their_H5921 counsel_H6098, and_H1980 went_H1980 with_H0854 Jehoram_H3088 the_H0853 son_H1121 of_H1121 Ahab_H0256 king_H4428 of_H1121 Israel_H3478 to_H1980 war_H4421 against_H5921 Hazael_H2371 king_H4428 of_H1121 Syria_H0758 at_H5921 Ramoth_H7433 Gilead_H1568; and_H1980 the_H0853 Syrians wounded_H5221 Joram_H3141. 
+@6 He_H0834 returned_H7725 to_H7725 be_H1121 healed_H7495 in_H4428 Jezreel_H3157 of_H1121 the_H0853 wounds_H4347 which_H0834 they_H0834 had_H0834 given him_H5221 at_H7200 Ramah_H7414, when_H3588 he_H0834 fought_H3898 against_H0854 Hazael_H2371 king_H4428 of_H1121 Syria_H0758. Azariah_H5838 the_H0853 son_H1121 of_H1121 Jehoram_H3088, king_H4428 of_H1121 Judah_H3063, went_H3381 down_H3381 to_H7725 see_H7200 Jehoram_H3088 the_H0853 son_H1121 of_H1121 Ahab_H0256 in_H4428 Jezreel_H3157, because_H3588 he_H0834 was_H0834 sick_H2470. 
 
-@7 Now the destruction of Ahaziah was of God, in that he went to Joram; for when he had come, he went out with Jehoram against Jehu the son of Nimshi, whom Yahweh had anointed to cut off Ahab’s house. 
-@8 When Jehu was executing judgment on Ahab’s house, he found the princes of Judah and the sons of the brothers of Ahaziah serving Ahaziah, and killed them. 
-@9 He sought Ahaziah, and they caught him (now he was hiding in Samaria), and they brought him to Jehu and killed him; and they buried him, for they said, “He is the son of Jehoshaphat, who sought Yahweh with all his heart.” The house of Ahaziah had no power to hold the kingdom.
+@7 Now_H1961 the_H0853 destruction_H8395 of_H1121 Ahaziah_H0274 was_H1961 of_H1121 God_H0430, in_H0935 that_H0834 he_H0834 went_H3318 to_H0413 Joram_H3141; for_H0413 when_H1961 he_H0834 had_H3068 come_H0935, he_H0834 went_H3318 out_H3318 with_H5973 Jehoram_H3088 against_H0413 Jehu_H3058 the_H0853 son_H1121 of_H1121 Nimshi_H5250, whom_H0834 Yahweh_H3068 had_H3068 anointed_H4886 to_H0413 cut_H3772 off_H3772 Ahab’s_H0256 house_H1004. 
+@8 When_H1961 Jehu_H3058 was_H1961 executing_H8199 judgment_H8199 on_H1961 Ahab’s_H0256 house_H1004, he_H0853 found_H4672 the_H0853 princes_H8269 of_H1121 Judah_H3063 and_H1121 the_H0853 sons_H1121 of_H1121 the_H0853 brothers_H0251 of_H1121 Ahaziah_H0274 serving_H8334 Ahaziah_H0274, and_H1121 killed_H2026 them_H0853. 
+@9 He_H0834 sought_H1245 Ahaziah_H0274, and_H1121 they_H0834 caught_H3920 him_H0413 (now_H3588 he_H0834 was_H0369 hiding_H2244 in_H0935 Samaria_H8111), and_H1121 they_H0834 brought_H0935 him_H0413 to_H0413 Jehu_H3058 and_H1121 killed_H4191 him_H0413; and_H1121 they_H0834 buried_H6912 him_H0413, for_H3588 they_H0834 said_H0559, “He_H0834 is_H0369 the_H3605 son_H1121 of_H1121 Jehoshaphat_H3092, who_H0834 sought_H1245 Yahweh_H3068 with_H0413 all_H3605 his_H3605 heart_H3824.” The_H3605 house_H1004 of_H1121 Ahaziah_H0274 had_H3068 no_H0369 power_H3581 to_H0413 hold_H1875 the_H3605 kingdom_H4467.
 
 ## The robbery and murder of Athaliah; Joash's rescue
-@10 Now when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the royal offspring of the house of Judah. 
-@11 But Jehoshabeath, the king’s daughter, took Joash the son of Ahaziah, and stealthily rescued him from among the king’s sons who were slain, and put him and his nurse in the bedroom. So Jehoshabeath, the daughter of King Jehoram, the wife of Jehoiada the priest (for she was the sister of Ahaziah), hid him from Athaliah, so that she didn’t kill him. 
-@12 He was with them hidden in God’s house six years while Athaliah reigned over the land. 
+@10 Now_H3588 when_H3588 Athaliah_H6271 the_H3605 mother_H0517 of_H1121 Ahaziah_H0274 saw_H7200 that_H3588 her_H3605 son_H1121 was_H3063 dead_H4191, she_H3588 arose_H6965 and_H1121 destroyed all_H3605 the_H3605 royal_H4467 offspring_H2233 of_H1121 the_H3605 house_H1004 of_H1121 Judah_H3063. 
+@11 But_H3588 Jehoshabeath_H3090, the_H0853 king’s_H4428 daughter_H1323, took_H3947 Joash_H3101 the_H0853 son_H1121 of_H1121 Ahaziah_H0274, and_H1121 stealthily_H1589 rescued him_H5414 from_H6440 among_H8432 the_H0853 king’s_H4428 sons_H1121 who_H1931 were_H1961 slain, and_H1121 put_H5414 him_H5414 and_H1121 his_H5414 nurse_H3243 in_H4428 the_H0853 bedroom_H2315. So_H3947 Jehoshabeath_H3090, the_H0853 daughter_H1323 of_H1121 King_H4428 Jehoram_H3088, the_H0853 wife_H0802 of_H1121 Jehoiada_H3077 the_H0853 priest_H3548 (for_H3588 she_H1931 was_H1961 the_H0853 sister_H0269 of_H1121 Ahaziah_H0274), hid_H5641 him_H5414 from_H6440 Athaliah_H6271, so_H3947 that_H3588 she_H1931 didn’t_H3808 kill_H4191 him_H5414. 
+@12 He_H0430 was_H1961 with_H0854 them_H5921 hidden_H2244 in_H5921 God’s_H0430 house_H1004 six_H8337 years_H8141 while_H1961 Athaliah_H6271 reigned_H4427 over_H5921 the_H5921 land_H0776. 
 
 # 23 
 ## The Jehoiada Conspiracy
-@1 In the seventh year, Jehoiada strengthened himself, and took the captains of hundreds—Azariah the son of Jeroham, Ishmael the son of Jehohanan, Azariah the son of Obed, Maaseiah the son of Adaiah, and Elishaphat the son of Zichri—into a covenant with him. 
-@2 They went around in Judah and gathered the Levites out of all the cities of Judah, and the heads of fathers’ households of Israel, and they came to Jerusalem. 
-@3 All the assembly made a covenant with the king in God’s house. Jehoiada^a^ said to them, “Behold, the king’s son must reign, as Yahweh has spoken concerning the sons of David. 
-@4 This is the thing that you must do: a third part of you, who come in on the Sabbath, of the priests and of the Levites, shall be gatekeepers of the thresholds. 
-@5 A third part shall be at the king’s house; and a third part at the gate of the foundation. All the people will be in the courts of Yahweh’s house. 
-@6 But let no one come into Yahweh’s house except the priests and those who minister of the Levites. They shall come in, for they are holy, but all the people shall follow Yahweh’s instructions. 
-@7 The Levites shall surround the king, every man with his weapons in his hand. Whoever comes into the house, let him be slain. Be with the king when he comes in and when he goes out.” 
+@1 In_H8141 the_H0853 seventh_H7637 year_H8141, Jehoiada_H3077 strengthened_H2388 himself_H2388, and_H1121 took_H3947 the_H0853 captains_H8269 of_H1121 hundreds_H3967—Azariah_H5838 the_H0853 son_H1121 of_H1121 Jeroham_H3395, Ishmael_H3458 the_H0853 son_H1121 of_H1121 Jehohanan_H3076, Azariah_H5838 the_H0853 son_H1121 of_H1121 Obed_H5744, Maaseiah_H4641 the_H0853 son_H1121 of_H1121 Adaiah_H5718, and_H1121 Elishaphat_H0478 the_H0853 son_H1121 of_H1121 Zichri_H2147—into_H3947 a_H3947 covenant_H1285 with_H5973 him_H0853. 
+@2 They_H0935 went_H0935 around_H5437 in_H0935 Judah_H3063 and_H0935 gathered_H6908 the_H3605 Levites_H3881 out_H0413 of_H7218 all_H3605 the_H3605 cities_H5892 of_H7218 Judah_H3063, and_H0935 the_H3605 heads_H7218 of_H7218 fathers’_H0001 households_H0001 of_H7218 Israel_H3478, and_H0935 they_H0935 came_H0935 to_H0413 Jerusalem_H3389. 
+@3 All_H3605 the_H3605 assembly_H6951 made_H3772 a_H3772 covenant_H1285 with_H5973 the_H3605 king_H4428 in_H5921 God’s_H0430 house_H1004. Jehoiada_H0559^a^ said_H0559 to_H0559 them_H1992, “Behold_H2009, the_H3605 king’s_H4428 son_H1121 must_H1121 reign_H4427, as_H0834 Yahweh_H3068 has_H3068 spoken_H1696 concerning_H5921 the_H3605 sons_H1121 of_H1121 David_H1732. 
+@4 This_H2088 is_H0834 the_H0834 thing_H1697 that_H0834 you_H0834 must do_H6213: a_H0935 third_H7992 part_H4480 of_H1697 you_H0834, who_H0834 come_H0935 in_H0935 on_H0935 the_H0834 Sabbath_H7676, of_H1697 the_H0834 priests_H3548 and_H0935 of_H1697 the_H0834 Levites_H3881, shall_H3548 be_H1697 gatekeepers_H7778 of_H1697 the_H0834 thresholds_H5592. 
+@5 A_H3068 third_H7992 part_H7992 shall_H3068 be_H3068 at_H3068 the_H3605 king’s_H4428 house_H1004; and_H3068 a_H3068 third_H7992 part_H7992 at_H3068 the_H3605 gate_H8179 of_H4428 the_H3605 foundation_H3247. All_H3605 the_H3605 people_H5971 will_H3068 be_H3068 in_H3068 the_H3605 courts_H8179 of_H4428 Yahweh’s_H3068 house_H1004. 
+@6 But_H3588 let_H0408 no_H0408 one_H3605 come_H0935 into_H0935 Yahweh’s_H3068 house_H1004 except_H0518 the_H3605 priests_H3548 and_H0935 those_H3605 who_H3605 minister_H8334 of_H1004 the_H3605 Levites_H3881. They_H1992 shall_H3548 come_H0935 in_H0935, for_H3588 they_H1992 are_H1992 holy_H6944, but_H3588 all_H3605 the_H3605 people_H5971 shall_H3548 follow_H3068 Yahweh’s_H3068 instructions_H8104. 
+@7 The_H0853 Levites_H3881 shall_H1004 surround_H5439 the_H0853 king_H4428, every_H0376 man_H0376 with_H0854 his_H1961 weapons_H3627 in_H0935 his_H1961 hand_H3027. Whoever_H4191 comes_H0935 into_H0413 the_H0853 house_H1004, let_H1961 him_H0413 be_H1961 slain. Be_H1961 with_H0854 the_H0853 king_H4428 when_H1961 he_H0853 comes_H0935 in_H0935 and_H0935 when_H1961 he_H0853 goes_H3318 out_H3318.” 
 ^a^[**23:3** Hebrew He]
 
 ## Capture and assassination of Athalja; Joash's elevation to king
-@8 So the Levites and all Judah did according to all that Jehoiada the priest commanded. They each took his men, those who were to come in on the Sabbath, with those who were to go out on the Sabbath, for Jehoiada the priest didn’t dismiss the shift. 
-@9 Jehoiada the priest delivered to the captains of hundreds the spears, bucklers, and shields that had been king David’s, which were in God’s house. 
-@10 He set all the people, every man with his weapon in his hand, from the right side of the house to the left side of the house, near the altar and the house, around the king. 
-@11 Then they brought out the king’s son, put the crown on him, gave him the covenant, and made him king. Jehoiada and his sons anointed him, and they said, “Long live the king!” 
+@8 So_H6213 the_H3605 Levites_H3881 and_H0935 all_H3605 Judah_H3063 did_H6213 according_H0376 to_H0935 all_H3605 that_H0834 Jehoiada_H3077 the_H3605 priest_H3548 commanded_H6680. They_H0834 each_H0376 took_H3947 his_H3605 men_H0376, those_H3605 who_H0834 were_H0834 to_H0935 come_H0935 in_H0935 on_H0935 the_H3605 Sabbath_H7676, with_H5973 those_H3605 who_H0834 were_H0834 to_H0935 go_H3318 out_H3318 on_H0935 the_H3605 Sabbath_H7676, for_H3588 Jehoiada_H3077 the_H3605 priest_H3548 didn’t_H3808 dismiss_H6362 the_H3605 shift. 
+@9 Jehoiada_H3077 the_H0853 priest_H3548 delivered_H5414 to_H5414 the_H0853 captains_H8269 of_H4428 hundreds_H3967 the_H0853 spears_H2595, bucklers, and_H3967 shields_H4043 that_H0834 had_H0834 been_H0834 king_H4428 David’s_H1732, which_H0834 were_H0834 in_H0430 God’s_H0430 house_H1004. 
+@10 He_H5704 set_H5975 all_H3605 the_H3605 people_H5971, every_H3605 man_H0376 with_H1004 his_H3605 weapon_H7973 in_H5921 his_H3605 hand_H3027, from_H5921 the_H3605 right_H3233 side_H3802 of_H4428 the_H3605 house_H1004 to_H5704 the_H3605 left_H8042 side_H3802 of_H4428 the_H3605 house_H1004, near_H5921 the_H3605 altar_H4196 and_H3027 the_H3605 house_H1004, around_H5439 the_H3605 king_H4428. 
+@11 Then_H3318 they_H5921 brought_H3318 out_H3318 the_H0853 king’s_H4428 son_H1121, put_H5414 the_H0853 crown_H5145 on_H5921 him_H5414, gave_H5414 him_H5414 the_H0853 covenant, and_H1121 made_H5414 him_H5414 king_H4428. Jehoiada_H3077 and_H1121 his_H5414 sons_H1121 anointed_H4886 him_H5414, and_H1121 they_H5921 said_H0559, “Long live_H2421 the_H0853 king_H4428!” 
 
-@12 When Athaliah heard the noise of the people running and praising the king, she came to the people into Yahweh’s house. 
-@13 Then she looked, and behold, the king stood by his pillar at the entrance, with the captains and the trumpeters by the king. All the people of the land rejoiced and blew trumpets. The singers also played musical instruments, and led the singing of praise. Then Athaliah tore her clothes, and said, “Treason! treason!” 
+@12 When_H8085 Athaliah_H6271 heard_H8085 the_H0853 noise_H6963 of_H4428 the_H0853 people_H5971 running_H7323 and_H0935 praising_H1984 the_H0853 king_H4428, she came_H0935 to_H0413 the_H0853 people_H5971 into_H0413 Yahweh’s_H3068 house_H1004. 
+@13 Then_H2009 she looked_H7200, and_H0776 behold_H2009, the_H3605 king_H4428 stood_H5975 by_H5921 his_H3605 pillar_H5982 at_H5921 the_H3605 entrance_H3996, with_H5921 the_H3605 captains_H8269 and_H0776 the_H3605 trumpeters_H2689 by_H5921 the_H3605 king_H4428. All_H3605 the_H3605 people_H5971 of_H4428 the_H3605 land_H0776 rejoiced_H8055 and_H0776 blew_H8628 trumpets_H2689. The_H3605 singers_H7891 also_H0853 played musical_H5975 instruments_H3627, and_H0776 led the_H3605 singing_H7891 of_H4428 praise_H1984. Then_H2009 Athaliah_H6271 tore_H7167 her_H3605 clothes_H0899, and_H0776 said_H0559, “Treason_H7195! treason_H7195!” 
 
-@14 Jehoiada the priest brought out the captains of hundreds who were set over the army, and said to them, “Bring her out between the ranks; and whoever follows her, let him be slain with the sword.” For the priest said, “Don’t kill her in Yahweh’s house.” 
-@15 So they made way for her. She went to the entrance of the horse gate to the king’s house; and they killed her there.
+@14 Jehoiada_H3077 the_H0853 priest_H3548 brought_H0935 out_H3318 the_H0853 captains_H8269 of_H1004 hundreds_H3967 who_H3068 were_H2428 set_H0935 over_H0413 the_H0853 army_H2428, and_H0935 said_H0559 to_H0413 them_H0413, “Bring_H0935 her_H0413 out_H3318 between the_H0853 ranks_H7713; and_H0935 whoever_H4191 follows_H0559 her_H0413, let_H3808 him_H0413 be_H4191 slain with_H0413 the_H0853 sword_H2719.” For_H3588 the_H0853 priest_H3548 said_H0559, “Don’t_H3808 kill_H4191 her_H0413 in_H0935 Yahweh’s_H3068 house_H1004.” 
+@15 So_H0935 they_H8033 made_H7760 way for_H0413 her_H0413. She went_H0935 to_H0413 the_H0413 entrance_H3996 of_H4428 the_H0413 horse_H5483 gate_H8179 to_H0413 the_H0413 king’s_H4428 house_H1004; and_H0935 they_H8033 killed_H4191 her_H0413 there_H8033.
 
 ## Jehoiada measures for the glory of God; Coronation of Joash
-@16 Jehoiada made a covenant between himself, all the people, and the king, that they should be Yahweh’s people. 
-@17 All the people went to the house of Baal, broke it down, broke his altars and his images in pieces, and killed Mattan the priest of Baal before the altars. 
-@18 Jehoiada appointed the officers of Yahweh’s house under the hand of the Levitical priests, whom David had distributed in Yahweh’s house, to offer the burnt offerings of Yahweh, as it is written in the law of Moses, with rejoicing and with singing, as David had ordered. 
-@19 He set the gatekeepers at the gates of Yahweh’s house, that no one who was unclean in anything should enter in. 
-@20 He took the captains of hundreds, the nobles, the governors of the people, and all the people of the land, and brought the king down from Yahweh’s house. They came through the upper gate to the king’s house, and set the king on the throne of the kingdom. 
-@21 So all the people of the land rejoiced, and the city was quiet. They had slain Athaliah with the sword. 
+@16 Jehoiada_H3077 made_H3772 a_H1961 covenant_H1285 between_H0996 himself, all_H3605 the_H3605 people_H5971, and_H3068 the_H3605 king_H4428, that_H3605 they_H3068 should_H3068 be_H1961 Yahweh’s_H3068 people_H5971. 
+@17 All_H3605 the_H3605 people_H5971 went_H0935 to_H0935 the_H3605 house_H1004 of_H1004 Baal_H1168, broke_H7665 it_H5422 down_H5422, broke_H7665 his_H3605 altars_H4196 and_H0935 his_H3605 images_H6754 in_H0935 pieces_H7665, and_H0935 killed_H2026 Mattan_H4977 the_H3605 priest_H3548 of_H1004 Baal_H1168 before_H6440 the_H3605 altars_H4196. 
+@18 Jehoiada_H3077 appointed_H7760 the_H0834 officers_H6486 of_H1004 Yahweh’s_H3068 house_H1004 under_H5921 the_H0834 hand_H3027 of_H1004 the_H0834 Levitical_H3881 priests_H3548, whom_H0834 David_H1732 had_H3068 distributed in_H5921 Yahweh’s_H3068 house_H1004, to_H5921 offer_H5927 the_H0834 burnt_H5930 offerings_H3068 of_H1004 Yahweh_H3068, as_H0834 it_H7760 is_H0834 written_H3789 in_H5921 the_H0834 law_H8451 of_H1004 Moses_H4872, with_H1004 rejoicing_H8057 and_H3068 with_H1004 singing_H7892, as_H0834 David_H1732 had_H3068 ordered. 
+@19 He_H3068 set_H5975 the_H3605 gatekeepers_H7778 at_H5921 the_H3605 gates_H8179 of_H1004 Yahweh’s_H3068 house_H1004, that_H3605 no_H3808 one_H3605 who_H3605 was_H3068 unclean_H2931 in_H5921 anything_H3605 should_H3068 enter_H0935 in_H5921. 
+@20 He_H3068 took_H3947 the_H3605 captains_H8269 of_H4428 hundreds_H3967, the_H3605 nobles_H0117, the_H3605 governors_H8269 of_H4428 the_H3605 people_H5971, and_H0935 all_H3605 the_H3605 people_H5971 of_H4428 the_H3605 land_H0776, and_H0935 brought_H0935 the_H3605 king_H4428 down_H3381 from_H0935 Yahweh’s_H3068 house_H1004. They_H5921 came_H0935 through_H8432 the_H3605 upper_H5945 gate_H8179 to_H0935 the_H3605 king’s_H4428 house_H1004, and_H0935 set_H0935 the_H3605 king_H4428 on_H5921 the_H3605 throne_H3678 of_H4428 the_H3605 kingdom_H4467. 
+@21 So_H4191 all_H3605 the_H3605 people_H5971 of_H0776 the_H3605 land_H0776 rejoiced_H8055, and_H0776 the_H3605 city_H5892 was_H0776 quiet_H8252. They_H5971 had_H0853 slain Athaliah_H6271 with_H0776 the_H3605 sword_H2719. 
 
 # 24 
 ## King Joash's rule
-@1 Joash was seven years old when he began to reign, and he reigned forty years in Jerusalem. His mother’s name was Zibiah, of Beersheba. 
-@2 Joash did that which was right in Yahweh’s eyes all the days of Jehoiada the priest. 
-@3 Jehoiada took for him two wives, and he became the father of sons and daughters.
+@1 Joash_H3101 was_H8034 seven_H7651 years_H8141 old_H1121 when_H1121 he_H3389 began to_H3389 reign_H4427, and_H1121 he_H3389 reigned_H4427 forty_H0705 years_H8141 in_H8141 Jerusalem_H3389. His_H8034 mother’s_H0517 name_H8034 was_H8034 Zibiah_H6645, of_H1121 Beersheba_H0884. 
+@2 Joash_H3101 did_H6213 that_H3605 which_H5869 was_H3068 right_H3477 in_H3068 Yahweh’s_H3068 eyes_H5869 all_H3605 the_H3605 days_H3117 of_H3068 Jehoiada_H3077 the_H3605 priest_H3548. 
+@3 Jehoiada_H3077 took_H5375 for_H0802 him_H3205 two_H8147 wives_H0802, and_H1121 he_H0802 became_H3205 the_H3205 father_H3205 of_H1121 sons_H1121 and_H1121 daughters_H1323.
 
 ## Repairing the temple; Ordinance on the administration and use of incoming money for the temple
-@4 After this, Joash intended to restore Yahweh’s house. 
-@5 He gathered together the priests and the Levites, and said to them, “Go out to the cities of Judah, and gather money to repair the house of your God from all Israel from year to year. See that you expedite this matter.” However the Levites didn’t do it right away. 
-@6 The king called for Jehoiada the chief, and said to him, “Why haven’t you required of the Levites to bring in the tax of Moses the servant of Yahweh, and of the assembly of Israel, out of Judah and out of Jerusalem, for the Tent of the Testimony?” 
-@7 For the sons of Athaliah, that wicked woman, had broken up God’s house; and they also gave all the dedicated things of Yahweh’s house to the Baals. 
+@4 After_H0310 this_H3068, Joash_H3101 intended to_H1961 restore_H2318 Yahweh’s_H3068 house_H1004. 
+@5 He_H0430 gathered_H6908 together_H6908 the_H3605 priests_H3548 and_H3063 the_H3605 Levites_H3881, and_H3063 said_H0559 to_H0559 them_H0853, “Go_H3318 out_H3318 to_H0559 the_H3605 cities_H5892 of_H1004 Judah_H3063, and_H3063 gather_H6908 money_H3701 to_H0559 repair_H2388 the_H3605 house_H1004 of_H1004 your_H3605 God_H0430 from_H3318 all_H3605 Israel_H3478 from_H3318 year_H8141 to_H0559 year_H8141. See that_H3605 you_H0859 expedite this_H1697 matter_H1697.” However the_H3605 Levites_H3881 didn’t_H3808 do_H3318 it_H3808 right away_H3318. 
+@6 The_H0853 king_H4428 called_H7121 for_H5921 Jehoiada_H3077 the_H0853 chief_H7218, and_H0935 said_H0559 to_H0559 him_H5921, “Why_H4069 haven’t_H3808 you_H5921 required_H1875 of_H4428 the_H0853 Levites_H3881 to_H0559 bring_H0935 in_H5921 the_H0853 tax_H4864 of_H4428 Moses_H4872 the_H0853 servant_H5650 of_H4428 Yahweh_H3068, and_H0935 of_H4428 the_H0853 assembly_H6951 of_H4428 Israel_H3478, out_H5921 of_H4428 Judah_H3063 and_H0935 out_H5921 of_H4428 Jerusalem_H3389, for_H5921 the_H0853 Tent_H0168 of_H4428 the_H0853 Testimony_H5715?” 
+@7 For_H3588 the_H3605 sons_H1121 of_H1121 Athaliah_H6271, that_H3588 wicked_H4849 woman_H1004, had_H3068 broken_H6555 up_H0853 God’s_H0430 house_H1004; and_H1121 they_H3588 also_H1571 gave_H6213 all_H3605 the_H3605 dedicated_H6944 things_H6944 of_H1121 Yahweh’s_H3068 house_H1004 to_H3068 the_H3605 Baals_H1168. 
 
-@8 So the king commanded, and they made a chest, and set it outside at the gate of Yahweh’s house. 
-@9 They made a proclamation through Judah and Jerusalem, to bring in for Yahweh the tax that Moses the servant of God laid on Israel in the wilderness. 
-@10 All the princes and all the people rejoiced, and brought in, and cast into the chest, until they had filled it. 
-@11 Whenever the chest was brought to the king’s officers by the hand of the Levites, and when they saw that there was much money, the king’s scribe and the chief priest’s officer came and emptied the chest, and took it, and carried it to its place again. Thus they did day by day, and gathered money in abundance. 
-@12 The king and Jehoiada gave it to those who did the work of the service of Yahweh’s house. They hired masons and carpenters to restore Yahweh’s house, and also those who worked iron and bronze to repair Yahweh’s house. 
-@13 So the workmen worked, and the work of repairing went forward in their hands. They set up God’s house as it was designed, and strengthened it. 
-@14 When they had finished, they brought the rest of the money before the king and Jehoiada, from which were made vessels for Yahweh’s house, even vessels with which to minister and to offer, including spoons and vessels of gold and silver. They offered burnt offerings in Yahweh’s house continually all the days of Jehoiada.
+@8 So_H6213 the_H0559 king_H4428 commanded_H0559, and_H3068 they_H3068 made_H6213 a_H5414 chest_H0727, and_H3068 set_H5414 it_H5414 outside_H2351 at_H3068 the_H0559 gate_H8179 of_H4428 Yahweh’s_H3068 house_H1004. 
+@9 They_H5921 made_H5414 a_H5414 proclamation_H6963 through_H5921 Judah_H3063 and_H0935 Jerusalem_H3389, to_H0935 bring_H0935 in_H5921 for_H5921 Yahweh_H3068 the_H5921 tax_H4864 that_H3068 Moses_H4872 the_H5921 servant_H5650 of_H0430 God_H0430 laid_H5414 on_H5921 Israel_H3478 in_H5921 the_H5921 wilderness_H4057. 
+@10 All_H3605 the_H3605 princes_H8269 and_H0935 all_H3605 the_H3605 people_H5971 rejoiced_H8055, and_H0935 brought_H0935 in_H0935, and_H0935 cast_H7993 into_H0935 the_H3605 chest_H0727, until_H5704 they_H5704 had_H8269 filled it_H5704. 
+@11 Whenever_H1961 the_H0853 chest_H0727 was_H1961 brought_H0935 to_H0413 the_H0853 king’s_H4428 officers_H6496 by_H3027 the_H0853 hand_H3027 of_H4428 the_H0853 Levites_H3881, and_H0935 when_H3588 they_H3588 saw_H7200 that_H3588 there_H1961 was_H1961 much_H7230 money_H3701, the_H0853 king’s_H4428 scribe_H5608 and_H0935 the_H0853 chief_H7218 priest’s_H3548 officer_H6496 came_H0935 and_H0935 emptied_H6168 the_H0853 chest_H0727, and_H0935 took_H5375 it_H3588, and_H0935 carried_H5375 it_H3588 to_H0413 its_H0853 place_H4725 again_H7725. Thus_H3541 they_H3588 did_H6213 day_H3117 by_H3027 day_H3117, and_H0935 gathered_H0622 money_H3701 in_H0935 abundance_H7230. 
+@12 The_H0853 king_H4428 and_H3068 Jehoiada_H3077 gave_H5414 it_H5414 to_H0413 those_H0853 who_H3068 did_H6213 the_H0853 work_H4399 of_H4428 the_H0853 service_H5656 of_H4428 Yahweh’s_H3068 house_H1004. They_H3068 hired_H7936 masons_H2672 and_H3068 carpenters_H2796 to_H0413 restore_H2318 Yahweh’s_H3068 house_H1004, and_H3068 also_H1571 those_H0853 who_H3068 worked_H2388 iron_H1270 and_H3068 bronze_H5178 to_H0413 repair_H2388 Yahweh’s_H3068 house_H1004. 
+@13 So_H6213 the_H0853 workmen_H4399 worked_H4399, and_H0430 the_H0853 work_H4399 of_H1004 repairing went_H5927 forward in_H5921 their_H5921 hands_H3027. They_H5921 set_H5975 up_H5927 God’s_H0430 house_H1004 as_H5927 it_H5921 was_H0430 designed, and_H0430 strengthened_H0553 it_H5921. 
+@14 When_H1961 they_H3117 had_H3068 finished_H3615, they_H3117 brought_H0935 the_H3605 rest_H7605 of_H4428 the_H3605 money_H3701 before_H6440 the_H3605 king_H4428 and_H0935 Jehoiada_H3077, from_H0935 which_H1004 were_H1961 made_H6213 vessels_H3627 for_H1004 Yahweh’s_H3068 house_H1004, even_H0853 vessels_H3627 with_H1004 which_H1004 to_H0935 minister and_H0935 to_H0935 offer_H5927, including_H3605 spoons_H3709 and_H0935 vessels_H3627 of_H4428 gold_H2091 and_H0935 silver_H3701. They_H3117 offered_H5927 burnt_H5930 offerings_H3068 in_H0935 Yahweh’s_H3068 house_H1004 continually_H8548 all_H3605 the_H3605 days_H3117 of_H4428 Jehoiada_H3077.
 
 ## Joash's estrangement from God after Jehoiada's death; Zacharias's speech and his stoning
-@15 But Jehoiada grew old and was full of days, and he died. He was one hundred thirty years old when he died. 
-@16 They buried him in David’s city among the kings, because he had done good in Israel, and toward God and his house. 
+@15 But_H4191 Jehoiada_H3077 grew_H7646 old_H1121 and_H1121 was_H3117 full_H3117 of_H1121 days_H3117, and_H1121 he_H3117 died_H4191. He_H3117 was_H3117 one_H1121 hundred_H3967 thirty_H7970 years_H8141 old_H1121 when_H3117 he_H3117 died_H4191. 
+@16 They_H3588 buried_H6912 him_H5973 in_H0430 David’s_H1732 city_H5892 among_H5973 the_H3588 kings_H4428, because_H3588 he_H3588 had_H0430 done_H6213 good_H2896 in_H0430 Israel_H3478, and_H3478 toward_H5973 God_H0430 and_H3478 his_H1732 house_H1004. 
 
-@17 Now after the death of Jehoiada, the princes of Judah came and bowed down to the king. Then the king listened to them. 
-@18 They abandoned the house of Yahweh, the God of their fathers, and served the Asherah poles and the idols, so wrath came on Judah and Jerusalem for this their guiltiness. 
-@19 Yet he sent prophets to them to bring them again to Yahweh, and they testified against them; but they would not listen. 
+@17 Now_H8085 after_H0310 the_H0413 death_H4194 of_H4428 Jehoiada_H3077, the_H0413 princes_H8269 of_H4428 Judah_H3063 came_H0935 and_H0935 bowed_H7812 down_H7812 to_H0413 the_H0413 king_H4428. Then_H0227 the_H0413 king_H4428 listened_H8085 to_H0413 them_H0413. 
+@18 They_H5921 abandoned_H5800 the_H0853 house_H1004 of_H1004 Yahweh_H3068, the_H0853 God_H0430 of_H1004 their_H3068 fathers_H0001, and_H3068 served_H5647 the_H0853 Asherah_H0842 poles and_H3068 the_H0853 idols_H6091, so_H1961 wrath_H7110 came_H1961 on_H5921 Judah_H3063 and_H3068 Jerusalem_H3389 for_H5921 this_H2063 their_H3068 guiltiness. 
+@19 Yet_H3068 he_H3068 sent_H7971 prophets_H5030 to_H0413 them_H0413 to_H0413 bring_H7725 them_H0413 again_H7725 to_H0413 Yahweh_H3068, and_H3068 they_H3808 testified_H5749 against_H0413 them_H0413; but_H3808 they_H3808 would_H3068 not_H3808 listen_H0238. 
 
-@20 The Spirit of God came on Zechariah the son of Jehoiada the priest; and he stood above the people, and said to them, “God says, ‘Why do you disobey Yahweh’s commandments, so that you can’t prosper? Because you have forsaken Yahweh, he has also forsaken you.’” 
+@20 The_H0853 Spirit_H7307 of_H1121 God_H0430 came_H3847 on_H5921 Zechariah_H2148 the_H0853 son_H1121 of_H1121 Jehoiada_H3077 the_H0853 priest_H3548; and_H1121 he_H3588 stood_H5975 above_H5921 the_H0853 people_H5971, and_H1121 said_H0559 to_H0559 them_H0853, “God_H0430 says_H0559, ‘Why_H4100 do_H4100 you_H0859 disobey Yahweh’s_H3068 commandments_H4687, so_H3541 that_H3588 you_H0859 can’t_H3808 prosper_H6743? Because_H3588 you_H0859 have_H1121 forsaken Yahweh_H3068, he_H3588 has_H3068 also_H3068 forsaken you_H0859.’” 
 
-@21 They conspired against him, and stoned him with stones at the commandment of the king in the court of Yahweh’s house. 
-@22 Thus Joash the king didn’t remember the kindness which Jehoiada his father had done to him, but killed his son. When he died, he said, “May Yahweh look at it, and repay it.”
+@21 They_H5921 conspired_H7194 against_H5921 him_H5921, and_H3068 stoned_H7275 him_H5921 with_H1004 stones_H0068 at_H5921 the_H5921 commandment_H4687 of_H4428 the_H5921 king_H4428 in_H5921 the_H5921 court_H2691 of_H4428 Yahweh’s_H3068 house_H1004. 
+@22 Thus_H4191 Joash_H3101 the_H0853 king_H4428 didn’t_H3808 remember_H2142 the_H0853 kindness_H2617 which_H0834 Jehoiada_H3077 his_H3068 father_H0001 had_H3068 done_H6213 to_H0559 him_H0853, but_H3808 killed_H2026 his_H3068 son_H1121. When_H0834 he_H0834 died_H4191, he_H0834 said_H0559, “May_H3068 Yahweh_H3068 look_H7200 at_H3068 it_H7200, and_H1121 repay it_H7200.”
 
 ## Unfortunate war with the Syrians; Assassination of the king by conspirators; final word
-@23 At the end of the year, the army of the Syrians came up against him. They came to Judah and Jerusalem, and destroyed all the princes of the people from among the people, and sent all their plunder to the king of Damascus. 
-@24 For the army of the Syrians came with a small company of men; and Yahweh delivered a very great army into their hand, because they had forsaken Yahweh, the God of their fathers. So they executed judgment on Joash. 
+@23 At_H0413 the_H3605 end of_H4428 the_H3605 year_H8141, the_H3605 army_H5971 of_H4428 the_H3605 Syrians came_H0935 up_H5927 against_H5921 him_H0413. They_H5921 came_H0935 to_H0413 Judah_H3063 and_H0935 Jerusalem_H3389, and_H0935 destroyed_H7843 all_H3605 the_H3605 princes_H8269 of_H4428 the_H3605 people_H5971 from_H0935 among_H5921 the_H3605 people_H5971, and_H0935 sent_H7971 all_H3605 their_H3605 plunder_H7998 to_H0413 the_H3605 king_H4428 of_H4428 Damascus_H1834. 
+@24 For_H3588 the_H0853 army_H2428 of_H0376 the_H0853 Syrians came_H0935 with_H0854 a_H3588 small_H4705 company of_H0376 men_H0376; and_H0935 Yahweh_H3068 delivered_H5414 a_H3588 very_H3966 great_H3966 army_H2428 into_H0935 their_H3068 hand_H3027, because_H3588 they_H3588 had_H3068 forsaken Yahweh_H3068, the_H0853 God_H0430 of_H0376 their_H3068 fathers_H0001. So_H6213 they_H3588 executed judgment_H8201 on_H0935 Joash_H3101. 
 
-@25 When they had departed from him (for they left him seriously wounded), his own servants conspired against him for the blood of the sons of Jehoiada the priest, and killed him on his bed, and he died. They buried him in David’s city, but they didn’t bury him in the tombs of the kings. 
-@26 These are those who conspired against him: Zabad the son of Shimeath the Ammonitess and Jehozabad the son of Shimrith the Moabitess. 
-@27 Now concerning his sons, the greatness of the burdens laid on him, and the rebuilding of God’s house, behold, they are written in the commentary of the book of the kings. Amaziah his son reigned in his place. 
+@25 When_H3588 they_H3588 had_H1732 departed from_H4480 him_H5921 (for_H3588 they_H3588 left_H5800 him_H5921 seriously wounded), his_H5921 own servants_H5650 conspired_H7194 against_H5921 him_H5921 for_H3588 the_H0853 blood_H1818 of_H1121 the_H0853 sons_H1121 of_H1121 Jehoiada_H3077 the_H0853 priest_H3548, and_H1121 killed_H2026 him_H5921 on_H5921 his_H5921 bed_H4296, and_H1121 he_H3588 died_H4191. They_H3588 buried_H6912 him_H5921 in_H5921 David’s_H1732 city_H5892, but_H3588 they_H3588 didn’t_H3808 bury_H6912 him_H5921 in_H5921 the_H0853 tombs_H6913 of_H1121 the_H0853 kings_H4428. 
+@26 These_H0428 are_H0428 those_H0428 who_H1121 conspired_H7194 against_H5921 him_H5921: Zabad_H2066 the_H5921 son_H1121 of_H1121 Shimeath_H8100 the_H5921 Ammonitess_H5985 and_H1121 Jehozabad_H3075 the_H5921 son_H1121 of_H1121 Shimrith_H8116 the_H5921 Moabitess_H4125. 
+@27 Now_H2005 concerning_H5921 his_H5921 sons_H1121, the_H5921 greatness_H7230 of_H1121 the_H5921 burdens laid on_H5921 him_H5921, and_H1121 the_H5921 rebuilding of_H1121 God’s_H0430 house_H1004, behold_H2005, they_H5921 are_H1121 written_H3789 in_H5921 the_H5921 commentary of_H1121 the_H5921 book_H5612 of_H1121 the_H5921 kings_H4428. Amaziah_H0558 his_H5921 son_H1121 reigned_H4427 in_H5921 his_H5921 place_H8478. 
 
 # 25 
 ## The government of King Amaziah; Good start for the government
-@1 Amaziah was twenty-five years old when he began to reign, and he reigned twenty-nine years in Jerusalem. His mother’s name was Jehoaddan, of Jerusalem. 
-@2 He did that which was right in Yahweh’s eyes, but not with a perfect heart. 
-@3 Now when the kingdom was established to him, he killed his servants who had killed his father the king. 
-@4 But he didn’t put their children to death, but did according to that which is written in the law in the book of Moses, as Yahweh commanded, saying, “The fathers shall not die for the children, neither shall the children die for the fathers; but every man shall die for his own sin.”
+@1 Amaziah_H0558 was_H8034 twenty-five_H2568 years_H8141 old_H1121 when_H1121 he_H3389 began to_H3389 reign_H4427, and_H1121 he_H3389 reigned_H4427 twenty-nine_H8672 years_H8141 in_H8141 Jerusalem_H3389. His_H0558 mother’s_H0517 name_H8034 was_H8034 Jehoaddan_H3086, of_H1121 Jerusalem_H3389. 
+@2 He_H6213 did_H6213 that_H3068 which_H5869 was_H3068 right_H3477 in_H3068 Yahweh’s_H3068 eyes_H5869, but_H7535 not_H3808 with_H3068 a_H3068 perfect_H8003 heart_H3824. 
+@3 Now_H1961 when_H1961 the_H0853 kingdom_H4467 was_H1961 established_H2388 to_H1961 him_H5921, he_H0834 killed_H2026 his_H5921 servants_H5650 who_H0834 had_H0834 killed_H2026 his_H5921 father_H0001 the_H0853 king_H4428. 
+@4 But_H3588 he_H0834 didn’t_H3808 put_H4191 their_H3068 children_H1121 to_H0559 death_H4191, but_H3588 did_H0834 according_H5921 to_H0559 that_H0834 which_H0834 is_H0834 written_H3789 in_H5921 the_H0853 law_H8451 in_H5921 the_H0853 book_H5612 of_H1121 Moses_H4872, as_H0834 Yahweh_H3068 commanded_H6680, saying_H0559, “The_H0853 fathers_H0001 shall_H1121 not_H3808 die_H4191 for_H3588 the_H0853 children_H1121, neither_H3808 shall_H1121 the_H0853 children_H1121 die_H4191 for_H3588 the_H0853 fathers_H0001; but_H3588 every_H0376 man_H0376 shall_H1121 die_H4191 for_H3588 his_H5921 own_H0376 sin_H2399.”
 
 ## Amaziah's victory over the Edomites after the Israelite mercenaries were returned; the revenge of these troops
-@5 Moreover Amaziah gathered Judah together and ordered them according to their fathers’ houses, under captains of thousands and captains of hundreds, even all Judah and Benjamin. He counted them from twenty years old and upward, and found that there were three hundred thousand chosen men, able to go out to war, who could handle spear and shield. 
-@6 He also hired one hundred thousand mighty men of valor out of Israel for one hundred talents^a^ of silver. 
-@7 A man of God came to him, saying, “O king, don’t let the army of Israel go with you, for Yahweh is not with Israel, with all the children of Ephraim. 
-@8 But if you will go, take action, and be strong for the battle. God will overthrow you before the enemy; for God has power to help, and to overthrow.” 
+@5 Moreover Amaziah_H0558 gathered_H6908 Judah_H3063 together_H6908 and_H1121 ordered_H6485 them_H0853 according to_H0001 their_H3605 fathers’_H0001 houses_H1004, under_H1004 captains_H8269 of_H1121 thousands_H0505 and_H1121 captains_H8269 of_H1121 hundreds_H3967, even_H0853 all_H3605 Judah_H3063 and_H1121 Benjamin_H1144. He_H0853 counted_H6485 them_H0853 from_H3318 twenty_H6242 years_H8141 old_H1121 and_H1121 upward_H4605, and_H1121 found_H4672 that_H3605 there_H4672 were_H1121 three_H7969 hundred_H3967 thousand_H0505 chosen men_H0970, able to_H0001 go_H3318 out_H3318 to_H0001 war_H6635, who_H3605 could handle_H0270 spear_H7420 and_H1121 shield_H6793. 
+@6 He_H3478 also_H3478 hired_H7936 one_H1368 hundred_H3967 thousand_H0505 mighty_H1368 men_H1368 of_H3603 valor_H2428 out of_H3603 Israel_H3478 for_H2428 one_H1368 hundred_H3967 talents_H3603^a^ of_H3603 silver_H3701. 
+@7 A_H3588 man_H0376 of_H1121 God_H0430 came_H0935 to_H0413 him_H0413, saying_H0559, “O_H3068 king_H4428, don’t_H0408 let_H0408 the_H3605 army_H6635 of_H1121 Israel_H3478 go_H0935 with_H5973 you_H3588, for_H3588 Yahweh_H3068 is_H0369 not_H0369 with_H5973 Israel_H3478, with_H5973 all_H3605 the_H3605 children_H1121 of_H1121 Ephraim_H0669. 
+@8 But_H3588 if_H0518 you_H0859 will_H0430 go_H0935, take_H2388 action, and_H0935 be_H0430 strong_H2388 for_H3588 the_H6440 battle_H4421. God_H0430 will_H0430 overthrow you_H0859 before_H6440 the_H6440 enemy_H0341; for_H3588 God_H0430 has_H0430 power_H3581 to_H0935 help_H5826, and_H0935 to_H0935 overthrow.” 
 ^a^[**25:6** A talent is about 30 kilograms or 66 pounds]
 
-@9 Amaziah said to the man of God, “But what shall we do for the hundred talents^a^ which I have given to the army of Israel?” 
+@9 Amaziah_H0558 said_H0559 to_H0559 the_H0559 man_H0376 of_H0376 God_H0430, “But_H0376 what_H4100 shall_H3068 we_H0834 do_H6213 for_H3068 the_H0559 hundred_H3967 talents_H3603^a^ which_H0834 I_H0834 have_H0834 given_H5414 to_H0559 the_H0559 army of_H0376 Israel_H3478?” 
 ^a^[**25:9** A talent is about 30 kilograms or 66 pounds]
 
-The man of God answered, “Yahweh is able to give you much more than this.” 
+The_H0559 man_H0376 of_H0376 God_H0430 answered_H0559, “Yahweh_H3068 is_H0834 able to_H0559 give_H5414 you_H0834 much_H7235 more_H7235 than_H7235 this_H2088.” 
 
-@10 Then Amaziah separated them, the army that had come to him out of Ephraim, to go home again. Therefore their anger was greatly kindled against Judah, and they returned home in fierce anger. 
+@10 Then_H0935 Amaziah_H0558 separated_H0914 them_H0413, the_H0834 army that_H0834 had_H0834 come_H0935 to_H0413 him_H0413 out_H0413 of_H4725 Ephraim_H0669, to_H0413 go_H0935 home_H4725 again_H7725. Therefore_H0834 their_H7725 anger_H0639 was_H0834 greatly_H3966 kindled_H2734 against_H0413 Judah_H3063, and_H0935 they_H0834 returned_H7725 home_H4725 in_H0935 fierce_H2750 anger_H0639. 
 
-@11 Amaziah took courage, and led his people out and went to the Valley of Salt, and struck ten thousand of the children of Seir. 
-@12 The children of Judah carried away ten thousand alive, and brought them to the top of the rock, and threw them down from the top of the rock, so that they all were broken in pieces. 
-@13 But the men of the army whom Amaziah sent back, that they should not go with him to battle, fell on the cities of Judah from Samaria even to Beth Horon, and struck of them three thousand, and took much plunder.
+@11 Amaziah_H0558 took_H2388 courage_H2388, and_H1121 led_H5090 his_H5221 people_H5971 out_H2388 and_H1121 went to_H1121 the_H0853 Valley_H1516 of_H1121 Salt_H4417, and_H1121 struck_H5221 ten_H6235 thousand_H0505 of_H1121 the_H0853 children_H1121 of_H1121 Seir_H8165. 
+@12 The_H3605 children_H1121 of_H1121 Judah_H3063 carried_H7617 away_H7993 ten_H6235 thousand_H0505 alive_H2416, and_H1121 brought_H0935 them_H7617 to_H0935 the_H3605 top_H7218 of_H1121 the_H3605 rock_H5553, and_H1121 threw_H7993 them_H7617 down_H7993 from_H0935 the_H3605 top_H7218 of_H1121 the_H3605 rock_H5553, so_H0935 that_H3605 they_H0935 all_H3605 were_H1121 broken_H1234 in_H0935 pieces_H1234. 
+@13 But_H1992 the_H0834 men_H1121 of_H1121 the_H0834 army_H4421 whom_H0834 Amaziah_H0558 sent_H7725 back_H7725, that_H0834 they_H1992 should not_H1121 go_H7725 with_H5973 him_H5221 to_H5704 battle_H4421, fell on_H7725 the_H0834 cities_H5892 of_H1121 Judah_H3063 from_H7725 Samaria_H8111 even_H5704 to_H5704 Beth Horon, and_H1121 struck_H5221 of_H1121 them_H1992 three_H7969 thousand_H0505, and_H1121 took_H0962 much_H7227 plunder_H0962.
 
 ## Amaziah departs from God; Warning from a prophet
-@14 Now after Amaziah had come from the slaughter of the Edomites, he brought the gods of the children of Seir, and set them up to be his gods, and bowed down himself before them and burned incense to them. 
-@15 Therefore Yahweh’s anger burned against Amaziah, and he sent to him a prophet who said to him, “Why have you sought after the gods of the people, which have not delivered their own people out of your hand?” 
+@14 Now_H1961 after_H0310 Amaziah_H0558 had_H1961 come_H0935 from_H0935 the_H0853 slaughter_H5221 of_H1121 the_H0853 Edomites_H0130, he_H0310 brought_H0935 the_H0853 gods_H0430 of_H1121 the_H0853 children_H1121 of_H1121 Seir_H8165, and_H1121 set_H5975 them_H0853 up_H5975 to_H0935 be_H1961 his_H1961 gods_H0430, and_H1121 bowed_H7812 down_H5221 himself_H7812 before_H6440 them_H0853 and_H1121 burned_H6999 incense_H6999 to_H0935 them_H0853. 
+@15 Therefore_H3068 Yahweh’s_H3068 anger_H0639 burned_H2734 against_H0413 Amaziah_H0558, and_H3068 he_H0834 sent_H7971 to_H0413 him_H0413 a_H7971 prophet_H5030 who_H0834 said_H0559 to_H0413 him_H0413, “Why_H4100 have_H0834 you_H0834 sought_H1875 after_H0413 the_H0853 gods_H0430 of_H0430 the_H0853 people_H5971, which_H0834 have_H0834 not_H3808 delivered_H5337 their_H3068 own people_H5971 out_H7971 of_H0430 your_H3068 hand_H3027?” 
 
-@16 As he talked with him, the king said to him, “Have we made you one of the king’s counselors? Stop! Why should you be struck down?” 
+@16 As_H1961 he_H3588 talked_H1696 with_H0413 him_H0413, the_H0559 king_H4428 said_H0559 to_H0413 him_H0413, “Have_H1961 we_H3588 made_H6213 you_H3588 one_H3808 of_H4428 the_H0559 king’s_H4428 counselors_H3289? Stop_H2308! Why_H4100 should_H4100 you_H3588 be_H1961 struck_H5221 down_H5221?” 
 
-Then the prophet stopped, and said, “I know that God has determined to destroy you, because you have done this and have not listened to my counsel.”
+Then_H1961 the_H0559 prophet_H5030 stopped_H2308, and_H0430 said_H0559, “I_H3588 know_H3045 that_H3588 God_H0430 has_H0430 determined to_H0413 destroy_H7843 you_H3588, because_H3588 you_H3588 have_H1961 done_H6213 this_H2063 and_H0430 have_H1961 not_H3808 listened_H8085 to_H0413 my_H5414 counsel_H6098.”
 
 ## Amaziah's unfortunate war with Joash of Israel
-@17 Then Amaziah king of Judah consulted his advisers, and sent to Joash, the son of Jehoahaz, the son of Jehu, king of Israel, saying, “Come! Let’s look one another in the face.” 
+@17 Then_H1980 Amaziah_H0558 king_H4428 of_H1121 Judah_H3063 consulted_H3289 his_H7971 advisers_H3289, and_H1980 sent_H7971 to_H0413 Joash_H3101, the_H0559 son_H1121 of_H1121 Jehoahaz_H3059, the_H0559 son_H1121 of_H1121 Jehu_H3058, king_H4428 of_H1121 Israel_H3478, saying_H0559, “Come_H1980! Let’s_H1980 look_H7200 one_H1121 another in_H1980 the_H0559 face_H6440.” 
 
-@18 Joash king of Israel sent to Amaziah king of Judah, saying, “The thistle that was in Lebanon sent to the cedar that was in Lebanon, saying, ‘Give your daughter to my son as his wife. Then a wild animal that was in Lebanon passed by and trampled down the thistle. 
-@19 You say to yourself that you have struck Edom; and your heart lifts you up to boast. Now stay at home. Why should you meddle with trouble, that you should fall, even you and Judah with you?’” 
+@18 Joash_H3101 king_H4428 of_H1121 Israel_H3478 sent_H7971 to_H0413 Amaziah_H0558 king_H4428 of_H1121 Judah_H3063, saying_H0559, “The_H0853 thistle that_H0834 was_H0834 in_H0413 Lebanon_H3844 sent_H7971 to_H0413 the_H0853 cedar_H0730 that_H0834 was_H0834 in_H0413 Lebanon_H3844, saying_H0559, ‘Give_H5414 your_H5414 daughter_H1323 to_H0413 my_H5414 son_H1121 as_H0834 his_H5414 wife_H0802. Then_H0853 a_H5414 wild_H7704 animal_H2416 that_H0834 was_H0834 in_H0413 Lebanon_H3844 passed_H5674 by_H0413 and_H1121 trampled_H7429 down_H7429 the_H0853 thistle. 
+@19 You_H0859 say_H0559 to_H0559 yourself_H0859 that_H0559 you_H0859 have_H0859 struck_H5221 Edom_H0123; and_H3063 your_H5375 heart_H3820 lifts_H5375 you_H0859 up_H5375 to_H0559 boast. Now_H6258 stay_H3427 at_H3427 home_H1004. Why_H4100 should_H4100 you_H0859 meddle with_H5973 trouble_H7451, that_H0559 you_H0859 should_H4100 fall_H5307, even_H0853 you_H0859 and_H3063 Judah_H3063 with_H5973 you_H0859?’” 
 
-@20 But Amaziah would not listen; for it was of God, that he might deliver them into the hand of their enemies, because they had sought after the gods of Edom. 
-@21 So Joash king of Israel went up, and he and Amaziah king of Judah looked one another in the face at Beth Shemesh, which belongs to Judah. 
-@22 Judah was defeated by Israel; so every man fled to his tent. 
+@20 But_H3588 Amaziah_H0558 would not_H3808 listen_H8085; for_H3588 it_H5414 was_H1931 of_H0430 God_H0430, that_H3588 he_H1931 might_H4616 deliver_H5414 them_H5414 into_H3027 the_H0853 hand_H3027 of_H0430 their_H5414 enemies, because_H3588 they_H3588 had_H0430 sought_H1875 after_H3588 the_H0853 gods_H0430 of_H0430 Edom_H0123. 
+@21 So_H5927 Joash_H3101 king_H4428 of_H4428 Israel_H3478 went_H5927 up_H5927, and_H3063 he_H0834 and_H3063 Amaziah_H0558 king_H4428 of_H4428 Judah_H3063 looked_H7200 one_H1931 another in_H3478 the_H6440 face_H6440 at_H3478 Beth Shemesh, which_H0834 belongs to_H3478 Judah_H3063. 
+@22 Judah_H3063 was_H3478 defeated_H5062 by_H3478 Israel_H3478; so_H6440 every_H0376 man_H0376 fled_H5127 to_H3478 his_H0376 tent_H0168. 
 
-@23 Joash king of Israel took Amaziah king of Judah, the son of Joash the son of Jehoahaz, at Beth Shemesh and brought him to Jerusalem, and broke down the wall of Jerusalem from the gate of Ephraim to the corner gate, four hundred cubits.^a^ 
-@24 He took all the gold and silver, and all the vessels that were found in God’s house with Obed-Edom, and the treasures of the king’s house, and the hostages, and returned to Samaria. 
+@23 Joash_H3101 king_H4428 of_H1121 Israel_H3478 took_H8610 Amaziah_H0558 king_H4428 of_H1121 Judah_H3063, the_H0853 son_H1121 of_H1121 Joash_H3101 the_H0853 son_H1121 of_H1121 Jehoahaz_H3059, at_H3478 Beth Shemesh and_H1121 brought_H0935 him_H0853 to_H0935 Jerusalem_H3389, and_H1121 broke_H6555 down_H6555 the_H0853 wall_H2346 of_H1121 Jerusalem_H3389 from_H0935 the_H0853 gate_H8179 of_H1121 Ephraim_H0669 to_H0935 the_H0853 corner gate_H8179, four_H0702 hundred_H3967 cubits_H0520.^a^ 
+@24 He_H0430 took_H0853 all_H3605 the_H3605 gold_H2091 and_H1121 silver_H3701, and_H1121 all_H3605 the_H3605 vessels_H3627 that_H3605 were_H1121 found_H4672 in_H0430 God’s_H0430 house_H1004 with_H5973 Obed-Edom_H5654, and_H1121 the_H3605 treasures_H0214 of_H1121 the_H3605 king’s_H4428 house_H1004, and_H1121 the_H3605 hostages_H8594, and_H1121 returned_H7725 to_H7725 Samaria_H8111. 
 ^a^[**25:23** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters, so 400 cubits is about 200 yards or 184 meters.]
 
 ## Final word; Assassination of the king by conspirators
-@25 Amaziah the son of Joash, king of Judah, lived for fifteen years after the death of Joash, son of Jehoahaz, king of Israel. 
-@26 Now the rest of the acts of Amaziah, first and last, behold, aren’t they written in the book of the kings of Judah and Israel? 
-@27 Now from the time that Amaziah turned away from following Yahweh, they made a conspiracy against him in Jerusalem. He fled to Lachish, but they sent after him to Lachish and killed him there. 
-@28 They brought him on horses and buried him with his fathers in the City of Judah. 
+@25 Amaziah_H0558 the_H0310 son_H1121 of_H1121 Joash_H3101, king_H4428 of_H1121 Judah_H3063, lived_H2421 for_H4191 fifteen_H6240 years_H8141 after_H0310 the_H0310 death_H4191 of_H1121 Joash_H3101, son_H1121 of_H1121 Jehoahaz_H3059, king_H4428 of_H1121 Israel_H3478. 
+@26 Now_H2005 the_H5921 rest_H3499 of_H4428 the_H5921 acts_H1697 of_H4428 Amaziah_H0558, first_H7223 and_H3063 last_H0314, behold_H2005, aren’t they_H5921 written_H3789 in_H5921 the_H5921 book_H5612 of_H4428 the_H5921 kings_H4428 of_H4428 Judah_H3063 and_H3063 Israel_H3478? 
+@27 Now_H6256 from_H5493 the_H0834 time_H6256 that_H0834 Amaziah_H0558 turned_H5493 away_H5493 from_H5493 following_H0310 Yahweh_H3068, they_H0834 made_H7194 a_H7971 conspiracy_H7195 against_H5921 him_H5921 in_H5921 Jerusalem_H3389. He_H0834 fled_H5127 to_H4191 Lachish_H3923, but_H4191 they_H0834 sent_H7971 after_H0310 him_H5921 to_H4191 Lachish_H3923 and_H3068 killed_H4191 him_H5921 there_H8033. 
+@28 They_H5921 brought_H5375 him_H5921 on_H5921 horses_H5483 and_H3063 buried_H6912 him_H5921 with_H5973 his_H5921 fathers_H0001 in_H5921 the_H0853 City_H5892 of_H0001 Judah_H3063. 
 
 # 26 
 ## The government of King Ussia; Good start for the government; Ussia's happiness in war and peace
-@1 All the people of Judah took Uzziah, who was sixteen years old, and made him king in the place of his father Amaziah. 
-@2 He built Eloth and restored it to Judah. After that the king slept with his fathers. 
-@3 Uzziah was sixteen years old when he began to reign; and he reigned fifty-two years in Jerusalem. His mother’s name was Jechiliah, of Jerusalem. 
-@4 He did that which was right in Yahweh’s eyes, according to all that his father Amaziah had done. 
-@5 He set himself to seek God in the days of Zechariah, who had understanding in the vision of God; and as long as he sought Yahweh, God made him prosper. 
+@1 All_H3605 the_H3605 people_H5971 of_H1121 Judah_H3063 took_H3947 Uzziah_H5818, who_H3605 was_H1931 sixteen_H6240 years_H8141 old_H1121, and_H1121 made_H3605 him_H0853 king_H4427 in_H8141 the_H3605 place_H8478 of_H1121 his_H3605 father_H0001 Amaziah_H0558. 
+@2 He_H1931 built_H1129 Eloth_H0359 and_H3063 restored_H7725 it_H1931 to_H7725 Judah_H3063. After_H0310 that_H1931 the_H0853 king_H4428 slept_H7901 with_H5973 his_H7725 fathers_H0001. 
+@3 Uzziah_H5818 was_H8034 sixteen_H6240 years_H8141 old_H1121 when_H1121 he_H4480 began to_H3389 reign_H4427; and_H1121 he_H4480 reigned_H4427 fifty-two_H2572 years_H8141 in_H8141 Jerusalem_H3389. His_H4480 mother’s_H0517 name_H8034 was_H8034 Jechiliah_H3203, of_H1121 Jerusalem_H3389. 
+@4 He_H0834 did_H6213 that_H0834 which_H0834 was_H0834 right_H3477 in_H3068 Yahweh’s_H3068 eyes_H5869, according to_H3068 all_H3605 that_H0834 his_H3605 father_H0001 Amaziah_H0558 had_H3068 done_H6213. 
+@5 He_H3117 set himself_H3117 to_H1961 seek_H1875 God_H0430 in_H0430 the_H0853 days_H3117 of_H0430 Zechariah_H2148, who_H3068 had_H3068 understanding_H0995 in_H0430 the_H0853 vision_H7200 of_H0430 God_H0430; and_H3068 as_H1961 long_H3117 as_H1961 he_H3117 sought_H1875 Yahweh_H3068, God_H0430 made_H1961 him_H0853 prosper_H6743. 
 
-@6 He went out and fought against the Philistines, and broke down the wall of Gath, the wall of Jabneh, and the wall of Ashdod; and he built cities in the country of Ashdod, and among the Philistines. 
-@7 God helped him against the Philistines, and against the Arabians who lived in Gur Baal, and the Meunim. 
-@8 The Ammonites gave tribute to Uzziah. His name spread abroad even to the entrance of Egypt, for he grew exceedingly strong. 
-@9 Moreover Uzziah built towers in Jerusalem at the corner gate, at the valley gate, and at the turning of the wall, and fortified them. 
-@10 He built towers in the wilderness, and dug out many cisterns, for he had much livestock, both in the lowlands and in the plains. He had farmers and vineyard keepers in the mountains and in the fruitful fields, for he loved farming.
+@6 He_H0853 went_H3318 out_H3318 and_H6430 fought_H3898 against_H3898 the_H0853 Philistines_H6430, and_H6430 broke_H6555 down_H6555 the_H0853 wall_H2346 of_H2346 Gath_H1661, the_H0853 wall_H2346 of_H2346 Jabneh_H2996, and_H6430 the_H0853 wall_H2346 of_H2346 Ashdod_H0795; and_H6430 he_H0853 built_H1129 cities_H5892 in_H1129 the_H0853 country of_H2346 Ashdod_H0795, and_H6430 among the_H0853 Philistines_H6430. 
+@7 God_H0430 helped_H5826 him_H5921 against_H5921 the_H5921 Philistines_H6430, and_H0430 against_H5921 the_H5921 Arabians who_H3427 lived_H3427 in_H3427 Gur Baal, and_H0430 the_H5921 Meunim_H4586. 
+@8 The_H3588 Ammonites_H5984 gave_H5414 tribute_H4503 to_H0935 Uzziah_H5818. His_H5414 name_H8034 spread_H5414 abroad even_H5704 to_H0935 the_H3588 entrance_H0935 of_H8034 Egypt_H4714, for_H3588 he_H3588 grew exceedingly_H4605 strong_H2388. 
+@9 Moreover Uzziah_H5818 built_H1129 towers_H4026 in_H5921 Jerusalem_H3389 at_H5921 the_H5921 corner_H6438 gate_H8179, at_H5921 the_H5921 valley_H1516 gate_H8179, and_H3389 at_H5921 the_H5921 turning of_H8179 the_H5921 wall, and_H3389 fortified_H1129 them_H5921. 
+@10 He_H3588 built_H1129 towers_H4026 in_H1129 the_H3588 wilderness_H4057, and_H2022 dug out_H2672 many_H7227 cisterns_H0953, for_H3588 he_H3588 had_H1961 much_H7227 livestock_H4735, both in_H1129 the_H3588 lowlands and_H2022 in_H1129 the_H3588 plains_H4334. He_H3588 had_H1961 farmers_H0406 and_H2022 vineyard keepers in_H1129 the_H3588 mountains_H2022 and_H2022 in_H1129 the_H3588 fruitful fields_H0127, for_H3588 he_H3588 loved_H0157 farming.
 
 ## Ussia's concern for a capable army and for the security of the country
-@11 Moreover Uzziah had an army of fighting men who went out to war by bands, according to the number of their reckoning made by Jeiel the scribe and Maaseiah the officer, under the hand of Hananiah, one of the king’s captains. 
-@12 The whole number of the heads of fathers’ households, even the mighty men of valor, was two thousand six hundred. 
-@13 Under their hand was an army, three hundred seven thousand five hundred, who made war with mighty power, to help the king against the enemy. 
-@14 Uzziah prepared for them, even for all the army, shields, spears, helmets, coats of mail, bows, and stones for slinging. 
-@15 In Jerusalem, he made devices, invented by skillful men, to be on the towers and on the battlements, with which to shoot arrows and great stones. His name spread far abroad, because he was marvelously helped until he was strong.
+@11 Moreover_H1961 Uzziah_H5818 had_H1961 an_H1961 army_H2428 of_H4428 fighting men_H8269 who_H4428 went_H3318 out_H3318 to_H1961 war_H4421 by_H5921 bands_H1416, according_H5921 to_H1961 the_H5921 number_H4557 of_H4428 their_H5921 reckoning made_H6213 by_H5921 Jeiel_H3273 the_H5921 scribe_H5608 and_H3027 Maaseiah_H4641 the_H5921 officer_H8269, under_H5921 the_H5921 hand_H3027 of_H4428 Hananiah_H2608, one_H1961 of_H4428 the_H5921 king’s_H4428 captains_H8269. 
+@12 The_H3605 whole_H3605 number_H4557 of_H7218 the_H3605 heads_H7218 of_H7218 fathers’_H0001 households_H0001, even the_H3605 mighty_H1368 men_H1368 of_H7218 valor_H2428, was_H7218 two_H3967 thousand_H0505 six_H8337 hundred_H3967. 
+@13 Under_H5921 their_H5921 hand_H3027 was_H4428 an_H5921 army_H2428, three_H7969 hundred_H3967 seven_H7651 thousand_H0505 five_H2568 hundred_H3967, who_H4428 made_H6213 war_H4421 with_H5921 mighty_H2428 power_H3027, to_H5921 help_H5826 the_H5921 king_H4428 against_H5921 the_H5921 enemy_H0341. 
+@14 Uzziah_H5818 prepared_H3559 for_H3605 them_H1992, even for_H3605 all_H3605 the_H3605 army_H6635, shields_H4043, spears_H7420, helmets_H3553, coats of_H3605 mail, bows_H7198, and_H0068 stones_H0068 for_H3605 slinging. 
+@15 In_H5921 Jerusalem_H3389, he_H3588 made_H6213 devices_H2810, invented_H4284 by_H5921 skillful_H2803 men_H1419, to_H5704 be_H1961 on_H5921 the_H5921 towers_H4026 and_H1419 on_H5921 the_H5921 battlements, with_H5921 which to_H5704 shoot_H3384 arrows_H2678 and_H1419 great_H1419 stones_H0068. His_H5921 name_H8034 spread_H3318 far_H5704 abroad, because_H3588 he_H3588 was_H8034 marvelously_H6381 helped_H5826 until_H5704 he_H3588 was_H8034 strong_H2388.
 
 ## Ussia's invasion of the priesthood is punished by God with leprosy
-@16 But when he was strong, his heart was lifted up, so that he did corruptly and he trespassed against Yahweh his God, for he went into Yahweh’s temple to burn incense on the altar of incense. 
-@17 Azariah the priest went in after him, and with him eighty priests of Yahweh, who were valiant men. 
-@18 They resisted Uzziah the king, and said to him, “It isn’t for you, Uzziah, to burn incense to Yahweh, but for the priests the sons of Aaron, who are consecrated to burn incense. Go out of the sanctuary, for you have trespassed. It will not be for your honor from Yahweh God.” 
+@16 But_H0935 when_H0935 he_H5704 was_H3068 strong_H2393, his_H5921 heart_H3820 was_H3068 lifted_H0935 up_H5704, so_H0935 that_H3068 he_H5704 did corruptly_H7843 and_H0935 he_H5704 trespassed against_H5921 Yahweh_H3068 his_H5921 God_H0430, for_H5921 he_H5704 went_H0935 into_H0413 Yahweh’s_H3068 temple_H1964 to_H0413 burn_H6999 incense_H7004 on_H5921 the_H5921 altar_H4196 of_H0430 incense_H7004. 
+@17 Azariah_H5838 the_H0935 priest_H3548 went_H0935 in_H0935 after_H0310 him_H0310, and_H1121 with_H5973 him_H0310 eighty_H8084 priests_H3548 of_H1121 Yahweh_H3068, who_H3068 were_H1121 valiant_H2428 men_H1121. 
+@18 They_H3588 resisted Uzziah_H5818 the_H0559 king_H4428, and_H1121 said_H0559 to_H0559 him_H5921, “It_H5921 isn’t_H3808 for_H3588 you_H3588, Uzziah_H5818, to_H0559 burn_H6999 incense_H6999 to_H0559 Yahweh_H3068, but_H3588 for_H3588 the_H0559 priests_H3548 the_H0559 sons_H1121 of_H1121 Aaron_H0175, who_H3068 are_H1121 consecrated_H6942 to_H0559 burn_H6999 incense_H6999. Go_H3318 out_H3318 of_H1121 the_H0559 sanctuary_H4720, for_H3588 you_H3588 have_H1121 trespassed. It_H5921 will_H3068 not_H3808 be_H3808 for_H3588 your_H3068 honor_H3519 from_H4480 Yahweh_H3068 God_H0430.” 
 
-@19 Then Uzziah was angry. He had a censer in his hand to burn incense, and while he was angry with the priests, the leprosy broke out on his forehead before the priests in Yahweh’s house, beside the altar of incense. 
-@20 Azariah the chief priest and all the priests looked at him, and behold, he was leprous in his forehead; and they thrust him out quickly from there. Indeed, he himself also hurried to go out, because Yahweh had struck him. 
-@21 Uzziah the king was a leper to the day of his death, and lived in a separate house, being a leper; for he was cut off from Yahweh’s house. Jotham his son was over the king’s house, judging the people of the land.
+@19 Then_H3068 Uzziah_H5818 was_H3068 angry. He_H3068 had_H3068 a_H5921 censer_H4730 in_H5921 his_H5921 hand_H3027 to_H5921 burn_H6999 incense_H7004, and_H3068 while_H5973 he_H3068 was_H3068 angry with_H5973 the_H6440 priests_H3548, the_H6440 leprosy_H6883 broke_H2224 out_H6440 on_H5921 his_H5921 forehead_H4696 before_H6440 the_H6440 priests_H3548 in_H5921 Yahweh’s_H3068 house_H1004, beside_H5921 the_H6440 altar_H4196 of_H1004 incense_H7004. 
+@20 Azariah_H5838 the_H3605 chief_H7218 priest_H3548 and_H3068 all_H3605 the_H3605 priests_H3548 looked_H6437 at_H0413 him_H0413, and_H3068 behold_H2009, he_H1931 was_H3068 leprous_H6879 in_H0413 his_H3605 forehead_H4696; and_H3068 they_H3588 thrust him_H0413 out_H3318 quickly_H1765 from_H3318 there_H8033. Indeed_H3588, he_H1931 himself_H1931 also_H1571 hurried_H1765 to_H0413 go_H3318 out_H3318, because_H3588 Yahweh_H3068 had_H3068 struck_H5060 him_H0413. 
+@21 Uzziah_H5818 the_H0853 king_H4428 was_H1961 a_H1961 leper_H6879 to_H5704 the_H0853 day_H3117 of_H1121 his_H5921 death_H4194, and_H1121 lived_H3427 in_H3427 a_H1961 separate_H2669 house_H1004, being_H1961 a_H1961 leper_H6879; for_H3588 he_H3588 was_H1961 cut_H1504 off_H5921 from_H5921 Yahweh’s_H3068 house_H1004. Jotham_H3147 his_H5921 son_H1121 was_H1961 over_H5921 the_H0853 king’s_H4428 house_H1004, judging_H8199 the_H0853 people_H5971 of_H1121 the_H0853 land_H0776.
 
 ## Death and burial of Ussia
-@22 Now the rest of the acts of Uzziah, first and last, Isaiah the prophet, the son of Amoz, wrote. 
-@23 So Uzziah slept with his fathers; and they buried him with his fathers in the field of burial which belonged to the kings, for they said, “He is a leper.” Jotham his son reigned in his place. 
+@22 Now the_H1697 rest_H3499 of_H1121 the_H1697 acts_H1697 of_H1121 Uzziah_H5818, first_H7223 and_H1121 last_H0314, Isaiah_H3470 the_H1697 prophet_H5030, the_H1697 son_H1121 of_H1121 Amoz_H0531, wrote_H3789. 
+@23 So_H0834 Uzziah_H5818 slept_H7901 with_H5973 his_H0834 fathers_H0001; and_H1121 they_H0834 buried_H6912 him_H0853 with_H5973 his_H0834 fathers_H0001 in_H4428 the_H0853 field_H7704 of_H1121 burial_H6900 which_H0834 belonged to_H0559 the_H0853 kings_H4428, for_H3588 they_H0834 said_H0559, “He_H0834 is_H0834 a_H3588 leper_H6879.” Jotham_H3147 his_H0834 son_H1121 reigned_H4427 in_H4428 his_H0834 place_H8478. 
 
 # 27 
 ## King Jotham's rule; Good and happy government; Successful buildings and wars
-@1 Jotham was twenty-five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother’s name was Jerushah the daughter of Zadok. 
-@2 He did that which was right in Yahweh’s eyes, according to all that his father Uzziah had done. However he didn’t enter into Yahweh’s temple. The people still acted corruptly. 
-@3 He built the upper gate of Yahweh’s house, and he built much on the wall of Ophel. 
-@4 Moreover he built cities in the hill country of Judah, and in the forests he built fortresses and towers. 
-@5 He also fought with the king of the children of Ammon, and prevailed against them. The children of Ammon gave him the same year one hundred talents^a^ of silver, ten thousand cors^b^ of wheat, and ten thousand cors of barley.^c^ The children of Ammon also gave that much to him in the second year, and in the third. 
-@6 So Jotham became mighty, because he ordered his ways before Yahweh his God. 
-@7 Now the rest of the acts of Jotham, and all his wars and his ways, behold, they are written in the book of the kings of Israel and Judah. 
-@8 He was twenty-five years old when he began to reign, and reigned sixteen years in Jerusalem. 
-@9 Jotham slept with his fathers, and they buried him in David’s city; and Ahaz his son reigned in his place.
+@1 Jotham_H3147 was_H8034 twenty-five_H2568 years_H8141 old_H1121 when_H1121 he_H3389 began to_H3389 reign_H4427, and_H1121 he_H3389 reigned_H4427 sixteen_H6240 years_H8141 in_H8141 Jerusalem_H3389. His_H3147 mother’s_H0517 name_H8034 was_H8034 Jerushah_H3388 the_H8034 daughter_H1323 of_H1121 Zadok_H6659. 
+@2 He_H0834 did_H6213 that_H0834 which_H0834 was_H0834 right_H3477 in_H0935 Yahweh’s_H3068 eyes_H5869, according_H0413 to_H0413 all_H3605 that_H0834 his_H3605 father_H0001 Uzziah_H5818 had_H3068 done_H6213. However_H7535 he_H0834 didn’t_H3808 enter_H0935 into_H0413 Yahweh’s_H3068 temple_H1964. The_H3605 people_H5971 still_H5750 acted_H7843 corruptly_H7843. 
+@3 He_H1931 built_H1129 the_H0853 upper_H5945 gate_H8179 of_H1004 Yahweh’s_H3068 house_H1004, and_H3068 he_H1931 built_H1129 much_H7230 on_H3068 the_H0853 wall_H2346 of_H1004 Ophel_H6077. 
+@4 Moreover he_H3063 built_H1129 cities_H5892 in_H1129 the_H1129 hill_H2022 country_H2022 of_H2022 Judah_H3063, and_H3063 in_H1129 the_H1129 forests he_H3063 built_H1129 fortresses_H1003 and_H3063 towers_H4026. 
+@5 He_H1931 also_H4428 fought_H3898 with_H5973 the_H5921 king_H4428 of_H1121 the_H5921 children_H1121 of_H1121 Ammon_H5983, and_H1121 prevailed_H2388 against_H5921 them_H5414. The_H5921 children_H1121 of_H1121 Ammon_H5983 gave_H5414 him_H5414 the_H5921 same_H1931 year_H8141 one_H1931 hundred_H3967 talents_H3603^a^ of_H1121 silver_H3701, ten_H6235 thousand_H0505 cors_H3734^b^ of_H1121 wheat_H2406, and_H1121 ten_H6235 thousand_H0505 cors_H3734 of_H1121 barley_H8184.^c^ The_H5921 children_H1121 of_H1121 Ammon_H5983 also_H4428 gave_H5414 that_H1931 much_H5921 to_H7725 him_H5414 in_H5921 the_H5921 second_H8145 year_H8141, and_H1121 in_H5921 the_H5921 third_H7992. 
+@6 So_H3588 Jotham_H3147 became_H2388 mighty_H0430, because_H3588 he_H3588 ordered_H3559 his_H3068 ways_H1870 before_H6440 Yahweh_H3068 his_H3068 God_H0430. 
+@7 Now_H2005 the_H3605 rest_H3499 of_H4428 the_H3605 acts_H1697 of_H4428 Jotham_H3147, and_H3063 all_H3605 his_H3605 wars_H4421 and_H3063 his_H3605 ways_H1870, behold_H2005, they_H5921 are_H3478 written_H3789 in_H5921 the_H3605 book_H5612 of_H4428 the_H3605 kings_H4428 of_H4428 Israel_H3478 and_H3063 Judah_H3063. 
+@8 He_H3389 was_H1961 twenty-five_H2568 years_H8141 old_H1121 when_H1961 he_H3389 began_H1961 to_H1961 reign_H4427, and_H1121 reigned_H4427 sixteen_H6240 years_H8141 in_H8141 Jerusalem_H3389. 
+@9 Jotham_H3147 slept_H7901 with_H5973 his_H1732 fathers_H0001, and_H1121 they_H8478 buried_H6912 him_H0853 in_H6912 David’s_H1732 city_H5892; and_H1121 Ahaz_H0271 his_H1732 son_H1121 reigned_H4427 in_H6912 his_H1732 place_H8478.
 ^a^[**27:5** A talent is about 30 kilograms or 66 pounds] ^b^[**27:5** 1 cor is the same as a homer, or about 55.9 U. S. gallons (liquid) or 211 liters or 6 bushels. 10,000 cors of wheat would weigh about 1,640 metric tons.] ^c^[**27:5** 10,000 cors of barley would weigh about 1,310 metric tons.] 
 
 # 28 
 ## The reign of King Ahaz; The pagan abominations of Ahaz
-@1 Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem. He didn’t do that which was right in Yahweh’s eyes, like David his father, 
-@2 but he walked in the ways of the kings of Israel, and also made molten images for the Baals. 
-@3 Moreover he burned incense in the valley of the son of Hinnom, and burned his children in the fire, according to the abominations of the nations whom Yahweh cast out before the children of Israel. 
-@4 He sacrificed and burned incense in the high places, and on the hills, and under every green tree.
+@1 Ahaz_H0271 was_H3068 twenty_H6242 years_H8141 old_H1121 when_H1121 he_H6213 began to_H3068 reign_H4427, and_H1121 he_H6213 reigned_H4427 sixteen_H6240 years_H8141 in_H8141 Jerusalem_H3389. He_H6213 didn’t_H3808 do_H6213 that_H3068 which_H5869 was_H3068 right_H3477 in_H8141 Yahweh’s_H3068 eyes_H5869, like_H3808 David_H1732 his_H3068 father_H0001, 
+@2 but_H1571 he_H6213 walked in_H3478 the_H1571 ways_H1870 of_H4428 the_H1571 kings_H4428 of_H4428 Israel_H3478, and_H3478 also_H1571 made_H6213 molten images_H4541 for_H4428 the_H1571 Baals_H1168. 
+@3 Moreover he_H0834 burned_H6999 incense_H6999 in_H3478 the_H0853 valley_H1516 of_H1121 the_H0853 son_H1121 of_H1121 Hinnom_H2011, and_H1121 burned_H6999 his_H0834 children_H1121 in_H3478 the_H0853 fire_H0784, according to_H3478 the_H0853 abominations_H8441 of_H1121 the_H0853 nations_H1471 whom_H0834 Yahweh cast_H3423 out_H3423 before_H6440 the_H0853 children_H1121 of_H1121 Israel_H3478. 
+@4 He_H5921 sacrificed_H2076 and_H6086 burned_H6999 incense_H6999 in_H5921 the_H3605 high_H1116 places_H1116, and_H6086 on_H5921 the_H3605 hills_H1389, and_H6086 under_H8478 every_H3605 green_H7488 tree_H6086.
 
 ## Severe visitations of Syrians and Israelis
-@5 Therefore Yahweh his God delivered him into the hand of the king of Syria. They struck him, and carried away from him a great multitude of captives, and brought them to Damascus. He was also delivered into the hand of the king of Israel, who struck him with a great slaughter. 
-@6 For Pekah the son of Remaliah killed in Judah one hundred twenty thousand in one day, all of them valiant men, because they had forsaken Yahweh, the God of their fathers. 
-@7 Zichri, a mighty man of Ephraim, killed Maaseiah the king’s son, Azrikam the ruler of the house, and Elkanah who was next to the king. 
-@8 The children of Israel carried away captive of their brothers two hundred thousand women, sons, and daughters, and also took away much plunder from them, and brought the plunder to Samaria.
+@5 Therefore_H1571 Yahweh_H3068 his_H5414 God_H0430 delivered_H5414 him_H5414 into_H0935 the_H0935 hand_H3027 of_H4428 the_H0935 king_H4428 of_H4428 Syria_H0758. They_H3068 struck_H5221 him_H5414, and_H0935 carried_H7617 away_H7617 from_H4480 him_H5414 a_H5414 great_H1419 multitude of_H4428 captives_H7633, and_H0935 brought_H0935 them_H5414 to_H0935 Damascus_H1834. He_H0430 was_H3068 also_H1571 delivered_H5414 into_H0935 the_H0935 hand_H3027 of_H4428 the_H0935 king_H4428 of_H4428 Israel_H3478, who_H3068 struck_H5221 him_H5414 with_H3068 a_H5414 great_H1419 slaughter_H4347. 
+@6 For_H3117 Pekah_H6492 the_H3605 son_H1121 of_H1121 Remaliah_H7425 killed_H2026 in_H0430 Judah_H3063 one_H0259 hundred_H3967 twenty_H6242 thousand_H0505 in_H0430 one_H0259 day_H3117, all_H3605 of_H1121 them_H0853 valiant_H2428 men_H1121, because_H3117 they_H3117 had_H3068 forsaken Yahweh_H3068, the_H3605 God_H0430 of_H1121 their_H3605 fathers_H0001. 
+@7 Zichri_H2147, a_H2026 mighty_H1368 man_H1368 of_H1121 Ephraim_H0669, killed_H2026 Maaseiah_H4641 the_H0853 king’s_H4428 son_H1121, Azrikam_H5840 the_H0853 ruler_H5057 of_H1121 the_H0853 house_H1004, and_H1121 Elkanah_H0511 who_H1121 was_H4428 next_H4932 to_H1004 the_H0853 king_H4428. 
+@8 The_H0853 children_H1121 of_H1121 Israel_H3478 carried_H7617 away_H7617 captive_H7617 of_H1121 their_H1992 brothers_H0251 two_H3967 hundred_H3967 thousand_H0505 women_H0802, sons_H1121, and_H1121 daughters_H1323, and_H1121 also_H1571 took_H7617 away_H7617 much_H7227 plunder_H0962 from_H0935 them_H1992, and_H1121 brought_H0935 the_H0853 plunder_H0962 to_H0935 Samaria_H8111.
 
 ## Liberation of Judean prisoners of war in Samaria following the admonition of the prophet Oded
-@9 But a prophet of Yahweh was there, whose name was Oded; and he went out to meet the army that came to Samaria, and said to them, “Behold, because Yahweh, the God of your fathers, was angry with Judah, he has delivered them into your hand, and you have slain them in a rage which has reached up to heaven. 
-@10 Now you intend to degrade the children of Judah and Jerusalem as male and female slaves for yourselves. Aren’t there even with you trespasses of your own against Yahweh your God? 
-@11 Now hear me therefore, and send back the captives that you have taken captive from your brothers, for the fierce wrath of Yahweh is on you.” 
-@12 Then some of the heads of the children of Ephraim, Azariah the son of Johanan, Berechiah the son of Meshillemoth, Jehizkiah the son of Shallum, and Amasa the son of Hadlai, stood up against those who came from the war, 
-@13 and said to them, “You must not bring in the captives here, for you intend that which will bring on us a trespass against Yahweh, to add to our sins and to our guilt; for our guilt is great, and there is fierce wrath against Israel.” 
+@9 But_H1961 a_H1961 prophet_H5030 of_H0430 Yahweh_H3068 was_H8034 there_H8033, whose_H8034 name_H8034 was_H8034 Oded_H5752; and_H0935 he_H5704 went_H3318 out_H3318 to_H0559 meet_H6440 the_H0559 army_H6635 that_H3068 came_H0935 to_H0559 Samaria_H8111, and_H0935 said_H0559 to_H0559 them_H5414, “Behold_H2009, because_H5921 Yahweh_H3068, the_H0559 God_H0430 of_H0430 your_H3068 fathers_H0001, was_H8034 angry_H2534 with_H3068 Judah_H3063, he_H5704 has_H3068 delivered_H5414 them_H5414 into_H0935 your_H3068 hand_H3027, and_H0935 you_H5414 have_H1961 slain_H2026 them_H5414 in_H5921 a_H1961 rage_H2534 which_H8033 has_H3068 reached_H0935 up_H5704 to_H0559 heaven_H8064. 
+@10 Now_H6258 you_H0859 intend_H0559 to_H0559 degrade the_H0559 children_H1121 of_H1121 Judah_H3063 and_H1121 Jerusalem_H3389 as_H3068 male_H5650 and_H1121 female_H8198 slaves_H5650 for_H0430 yourselves_H0859. Aren’t there_H3068 even_H3808 with_H5973 you_H0859 trespasses of_H1121 your_H3068 own_H5973 against_H5973 Yahweh_H3068 your_H3068 God_H0430? 
+@11 Now_H6258 hear_H8085 me_H7725 therefore_H6258, and_H3068 send back_H7725 the_H0834 captives_H7633 that_H0834 you_H0834 have_H0834 taken_H7617 captive_H7617 from_H7725 your_H3068 brothers_H0251, for_H3588 the_H0834 fierce_H2740 wrath_H0639 of_H3068 Yahweh_H3068 is_H0834 on_H5921 you_H0834.” 
+@12 Then_H6965 some_H4480 of_H1121 the_H5921 heads_H7218 of_H1121 the_H5921 children_H1121 of_H1121 Ephraim_H0669, Azariah_H5838 the_H5921 son_H1121 of_H1121 Johanan_H3076, Berechiah_H1296 the_H5921 son_H1121 of_H1121 Meshillemoth_H4919, Jehizkiah_H3169 the_H5921 son_H1121 of_H1121 Shallum_H7967, and_H1121 Amasa_H6021 the_H5921 son_H1121 of_H1121 Hadlai_H2311, stood_H6965 up_H6965 against_H5921 those_H0376 who_H0376 came_H0935 from_H4480 the_H5921 war_H6635, 
+@13 and_H0935 said_H0559 to_H0559 them_H0853, “You_H0859 must_H0853 not_H3808 bring_H0935 in_H5921 the_H0853 captives_H7633 here_H2008, for_H3588 you_H0859 intend_H0559 that_H3588 which will_H3068 bring_H0935 on_H5921 us_H5921 a_H3588 trespass against_H5921 Yahweh_H3068, to_H0559 add_H3254 to_H0559 our_H3068 sins_H2403 and_H0935 to_H0559 our_H3068 guilt_H0819; for_H3588 our_H3068 guilt_H0819 is_H3068 great_H7227, and_H0935 there_H2008 is_H3068 fierce_H2740 wrath_H0639 against_H5921 Israel_H3478.” 
 
-@14 So the armed men left the captives and the plunder before the princes and all the assembly. 
-@15 The men who have been mentioned by name rose up and took the captives, and with the plunder clothed all who were naked among them, dressed them, gave them sandals, gave them something to eat and to drink, anointed them, carried all the feeble of them on donkeys, and brought them to Jericho, the city of palm trees, to their brothers. Then they returned to Samaria.
+@14 So_H6440 the_H3605 armed_H2502 men_H3605 left_H5800 the_H3605 captives_H7633 and_H6440 the_H3605 plunder_H0961 before_H6440 the_H3605 princes_H8269 and_H6440 all_H3605 the_H3605 assembly_H6951. 
+@15 The_H3605 men_H0376 who_H0834 have_H0834 been_H2388 mentioned_H0935 by_H0935 name_H8034 rose_H6965 up_H6965 and_H0935 took_H2388 the_H3605 captives_H7633, and_H0935 with_H3847 the_H3605 plunder_H7998 clothed_H3847 all_H3605 who_H0834 were_H0834 naked_H4636 among_H4480 them_H7725, dressed_H3847 them_H7725, gave_H8248 them_H7725 sandals_H5274, gave_H8248 them_H7725 something to_H0935 eat_H0398 and_H0935 to_H0935 drink_H8248, anointed them_H7725, carried_H2388 all_H3605 the_H3605 feeble_H3782 of_H0376 them_H7725 on_H3847 donkeys_H2543, and_H0935 brought_H0935 them_H7725 to_H0935 Jericho_H3405, the_H3605 city_H5892 of_H0376 palm_H8558 trees_H8558, to_H0935 their_H3605 brothers_H0251. Then_H6965 they_H0834 returned_H7725 to_H0935 Samaria_H8111.
 
 ## Heavy visitations from the Edomites, Philistines and Assyrians
-@16 At that time King Ahaz sent to the kings of Assyria to help him. 
-@17 For again the Edomites had come and struck Judah, and carried away captives. 
-@18 The Philistines also had invaded the cities of the lowland and of the South of Judah, and had taken Beth Shemesh, Aijalon, Gederoth, Soco with its villages, Timnah with its villages, and also Gimzo and its villages; and they lived there. 
-@19 For Yahweh brought Judah low because of Ahaz king of Israel, because he acted without restraint in Judah and trespassed severely against Yahweh. 
-@20 Tilgath-pilneser king of Assyria came to him and gave him trouble, but didn’t strengthen him. 
-@21 For Ahaz took away a portion out of Yahweh’s house, and out of the house of the king and of the princes, and gave it to the king of Assyria; but it didn’t help him.
+@16 At_H5921 that_H1931 time_H6256 King_H4428 Ahaz_H0271 sent_H7971 to_H5921 the_H5921 kings_H4428 of_H4428 Assyria_H0804 to_H5921 help_H5826 him_H5921. 
+@17 For_H0935 again_H5750 the_H0935 Edomites_H0130 had_H3063 come_H0935 and_H0935 struck_H5221 Judah_H3063, and_H0935 carried_H7617 away_H7617 captives_H7628. 
+@18 The_H0853 Philistines_H6430 also_H0853 had_H3063 invaded_H6584 the_H0853 cities_H5892 of_H1323 the_H0853 lowland_H8219 and_H3063 of_H1323 the_H0853 South_H5045 of_H1323 Judah_H3063, and_H3063 had_H3063 taken_H3920 Beth Shemesh, Aijalon_H0357, Gederoth_H1450, Soco_H7755 with_H3427 its_H0853 villages_H1323, Timnah_H8553 with_H3427 its_H0853 villages_H1323, and_H3063 also_H0853 Gimzo_H1579 and_H3063 its_H0853 villages_H1323; and_H3063 they_H8033 lived_H3427 there_H8033. 
+@19 For_H3588 Yahweh_H3068 brought Judah_H3063 low because_H3588 of_H4428 Ahaz_H0271 king_H4428 of_H4428 Israel_H3478, because_H3588 he_H3588 acted_H4603 without restraint in_H3068 Judah_H3063 and_H3068 trespassed severely against_H4604 Yahweh_H3068. 
+@20 Tilgath-pilneser_H8407 king_H4428 of_H4428 Assyria_H0804 came_H0935 to_H0935 him_H5921 and_H0935 gave_H2388 him_H5921 trouble, but_H3808 didn’t_H3808 strengthen_H2388 him_H5921. 
+@21 For_H3588 Ahaz_H0271 took_H0853 away a_H3588 portion out_H0853 of_H4428 Yahweh’s_H3068 house_H1004, and_H3068 out_H0853 of_H4428 the_H0853 house_H1004 of_H4428 the_H0853 king_H4428 and_H3068 of_H4428 the_H0853 princes_H8269, and_H3068 gave_H5414 it_H5414 to_H3068 the_H0853 king_H4428 of_H4428 Assyria_H0804; but_H3588 it_H5414 didn’t_H3808 help_H5833 him_H5414.
 
 ## The growing wickedness of Ahaz; final word
-@22 In the time of his distress, he trespassed yet more against Yahweh, this same King Ahaz. 
-@23 For he sacrificed to the gods of Damascus which had defeated him. He said, “Because the gods of the kings of Syria helped them, I will sacrifice to them, that they may help me.” But they were the ruin of him and of all Israel. 
-@24 Ahaz gathered together the vessels of God’s house, cut the vessels of God’s house in pieces, and shut up the doors of Yahweh’s house; and he made himself altars in every corner of Jerusalem. 
-@25 In every city of Judah he made high places to burn incense to other gods, and provoked Yahweh, the God of his fathers, to anger. 
+@22 In_H3068 the_H3068 time_H6256 of_H4428 his_H3068 distress, he_H1931 trespassed yet_H3254 more_H3254 against Yahweh_H3068, this_H1931 same_H1931 King_H4428 Ahaz_H0271. 
+@23 For_H3588 he_H3588 sacrificed_H2076 to_H0559 the_H3605 gods_H0430 of_H4428 Damascus_H1834 which had_H1961 defeated_H5221 him_H5221. He_H3588 said_H0559, “Because_H3588 the_H3605 gods_H0430 of_H4428 the_H3605 kings_H4428 of_H4428 Syria_H0758 helped_H5826 them_H1992, I_H3588 will_H0430 sacrifice_H2076 to_H0559 them_H1992, that_H3588 they_H1992 may_H1961 help_H5826 me_H5221.” But_H3588 they_H1992 were_H1961 the_H3605 ruin of_H4428 him_H5221 and_H3478 of_H4428 all_H3605 Israel_H3478. 
+@24 Ahaz_H0271 gathered_H0622 together_H0622 the_H3605 vessels_H3627 of_H1004 God’s_H0430 house_H1004, cut_H7112 the_H3605 vessels_H3627 of_H1004 God’s_H0430 house_H1004 in_H0430 pieces_H7112, and_H3068 shut_H5462 up_H5462 the_H3605 doors_H1817 of_H1004 Yahweh’s_H3068 house_H1004; and_H3068 he_H0430 made_H6213 himself altars_H4196 in_H0430 every_H3605 corner_H6438 of_H1004 Jerusalem_H3389. 
+@25 In_H0430 every_H3605 city_H5892 of_H0430 Judah_H3063 he_H6213 made_H6213 high_H1116 places_H1116 to_H3068 burn_H6999 incense_H6999 to_H3068 other_H0312 gods_H0430, and_H3068 provoked_H3707 Yahweh_H3068, the_H3605 God_H0430 of_H0430 his_H3605 fathers_H0001, to_H3068 anger_H3707. 
 
-@26 Now the rest of his acts, and all his ways, first and last, behold, they are written in the book of the kings of Judah and Israel. 
-@27 Ahaz slept with his fathers, and they buried him in the city, even in Jerusalem, because they didn’t bring him into the tombs of the kings of Israel; and Hezekiah his son reigned in his place. 
+@26 Now_H2005 the_H3605 rest_H3499 of_H4428 his_H3605 acts_H1697, and_H3063 all_H3605 his_H3605 ways_H1870, first_H7223 and_H3063 last_H0314, behold_H2005, they_H5921 are_H3478 written_H3789 in_H5921 the_H3605 book_H5612 of_H4428 the_H3605 kings_H4428 of_H4428 Judah_H3063 and_H3063 Israel_H3478. 
+@27 Ahaz_H0271 slept_H7901 with_H5973 his_H0935 fathers_H0001, and_H1121 they_H3588 buried_H6912 him_H5973 in_H0935 the_H3588 city_H5892, even_H3588 in_H0935 Jerusalem_H3389, because_H3588 they_H3588 didn’t_H3808 bring_H0935 him_H5973 into_H0935 the_H3588 tombs_H6913 of_H1121 the_H3588 kings_H4428 of_H1121 Israel_H3478; and_H1121 Hezekiah_H2396 his_H0935 son_H1121 reigned_H4427 in_H0935 his_H0935 place_H8478. 
 
 # 29 
 ## The government of King Hezekiah; Temple restoration and pure worship
-@1 Hezekiah began to reign when he was twenty-five years old, and he reigned twenty-nine years in Jerusalem. His mother’s name was Abijah, the daughter of Zechariah. 
-@2 He did that which was right in Yahweh’s eyes, according to all that David his father had done.
+@1 Hezekiah_H2396 began to_H3389 reign_H4427 when_H1121 he_H3389 was_H8034 twenty-five_H2568 years_H8141 old_H1121, and_H1121 he_H3389 reigned_H4427 twenty-nine_H8672 years_H8141 in_H8141 Jerusalem_H3389. His_H2396 mother’s_H0517 name_H8034 was_H8034 Abijah_H0029, the_H8034 daughter_H1323 of_H1121 Zechariah_H2148. 
+@2 He_H0834 did_H6213 that_H0834 which_H0834 was_H0834 right_H3477 in_H3068 Yahweh’s_H3068 eyes_H5869, according to_H3068 all_H3605 that_H0834 David_H1732 his_H3605 father_H0001 had_H3068 done_H6213.
 
 ## Hezekiah's exhortation to the priests and Levites
-@3 In the first year of his reign, in the first month, he opened the doors of Yahweh’s house and repaired them. 
-@4 He brought in the priests and the Levites and gathered them together into the wide place on the east, 
-@5 and said to them, “Listen to me, you Levites! Now sanctify yourselves, and sanctify the house of Yahweh, the God of your fathers, and carry the filthiness out of the holy place. 
-@6 For our fathers were unfaithful, and have done that which was evil in Yahweh our God’s sight, and have forsaken him, and have turned away their faces from the habitation of Yahweh, and turned their backs. 
-@7 Also they have shut up the doors of the porch, and put out the lamps, and have not burned incense nor offered burnt offerings in the holy place to the God of Israel. 
-@8 Therefore Yahweh’s wrath was on Judah and Jerusalem, and he has delivered them to be tossed back and forth, to be an astonishment and a hissing, as you see with your eyes. 
-@9 For behold, our fathers have fallen by the sword, and our sons and our daughters and our wives are in captivity for this. 
-@10 Now it is in my heart to make a covenant with Yahweh, the God of Israel, that his fierce anger may turn away from us. 
-@11 My sons, don’t be negligent now; for Yahweh has chosen you to stand before him, to minister to him, and that you should be his ministers and burn incense.”
+@3 In_H8141 the_H0853 first_H7223 year_H8141 of_H1004 his_H3068 reign_H4427, in_H8141 the_H0853 first_H7223 month_H2320, he_H1931 opened_H6605 the_H0853 doors_H1817 of_H1004 Yahweh’s_H3068 house_H1004 and_H3068 repaired_H2388 them_H0853. 
+@4 He_H0853 brought_H0935 in_H0935 the_H0853 priests_H3548 and_H0935 the_H0853 Levites_H3881 and_H0935 gathered_H0622 them_H0853 together_H0622 into_H0935 the_H0853 wide place_H0935 on_H0935 the_H0853 east_H4217, 
+@5 and_H3068 said_H0559 to_H0559 them_H0853, “Listen_H8085 to_H0559 me_H4480, you_H0853 Levites_H3881! Now_H6258 sanctify_H6942 yourselves_H3068, and_H3068 sanctify_H6942 the_H0853 house_H1004 of_H1004 Yahweh_H3068, the_H0853 God_H0430 of_H1004 your_H3068 fathers_H0001, and_H3068 carry_H3318 the_H0853 filthiness out_H3318 of_H1004 the_H0853 holy_H6944 place_H6944. 
+@6 For_H3588 our_H3068 fathers_H0001 were_H5869 unfaithful_H4603, and_H3068 have_H0001 done_H6213 that_H3588 which_H5869 was_H3068 evil_H7451 in_H0430 Yahweh_H3068 our_H3068 God’s_H0430 sight_H5869, and_H3068 have_H0001 forsaken him_H5414, and_H3068 have_H0001 turned_H5437 away_H5437 their_H3068 faces_H6440 from_H6440 the_H6440 habitation of_H0430 Yahweh_H3068, and_H3068 turned_H5437 their_H3068 backs_H6203. 
+@7 Also_H1571 they_H3808 have_H1571 shut_H5462 up_H5927 the_H0853 doors_H1817 of_H0430 the_H0853 porch_H0197, and_H3478 put_H5927 out_H0853 the_H0853 lamps_H5216, and_H3478 have_H1571 not_H3808 burned_H6999 incense_H7004 nor_H3808 offered_H5927 burnt_H5930 offerings_H3478 in_H0430 the_H0853 holy_H6944 place_H6944 to_H3478 the_H0853 God_H0430 of_H0430 Israel_H3478. 
+@8 Therefore_H3068 Yahweh’s_H3068 wrath_H7110 was_H1961 on_H5921 Judah_H3063 and_H3068 Jerusalem_H3389, and_H3068 he_H0834 has_H3068 delivered_H5414 them_H5414 to_H1961 be_H1961 tossed back and_H3068 forth_H5414, to_H1961 be_H1961 an_H1961 astonishment and_H3068 a_H1961 hissing_H8322, as_H0834 you_H0859 see_H7200 with_H3068 your_H3068 eyes_H5869. 
+@9 For_H5921 behold_H2009, our_H5921 fathers_H0001 have_H0001 fallen_H5307 by_H5921 the_H5921 sword_H2719, and_H1121 our_H5921 sons_H1121 and_H1121 our_H5921 daughters_H1323 and_H1121 our_H5921 wives_H0802 are_H1121 in_H5921 captivity_H7628 for_H5921 this_H2063. 
+@10 Now_H6258 it_H7725 is_H3068 in_H0430 my_H3068 heart_H3824 to_H7725 make_H3772 a_H3772 covenant_H1285 with_H5973 Yahweh_H3068, the_H4480 God_H0430 of_H0430 Israel_H3478, that_H4480 his_H3068 fierce_H2740 anger_H0639 may_H0430 turn_H7725 away_H7725 from_H4480 us_H7725. 
+@11 My_H3068 sons_H1121, don’t_H0408 be_H1961 negligent now_H6258; for_H3588 Yahweh_H3068 has_H3068 chosen you_H3588 to_H1961 stand_H5975 before_H6440 him_H6440, to_H1961 minister_H8334 to_H1961 him_H6440, and_H1121 that_H3588 you_H3588 should_H3068 be_H1961 his_H3068 ministers_H8334 and_H1121 burn_H6999 incense_H6999.”
 
 ## Cleansing of the temple by the Levites
-@12 Then the Levites arose: Mahath, the son of Amasai, and Joel the son of Azariah, of the sons of the Kohathites; and of the sons of Merari, Kish the son of Abdi, and Azariah the son of Jehallelel; and of the Gershonites, Joah the son of Zimmah, and Eden the son of Joah; 
-@13 and of the sons of Elizaphan, Shimri and Jeuel; and of the sons of Asaph, Zechariah and Mattaniah; 
-@14 and of the sons of Heman, Jehuel and Shimei; and of the sons of Jeduthun, Shemaiah and Uzziel. 
-@15 They gathered their brothers, sanctified themselves, and went in, according to the commandment of the king by Yahweh’s words, to cleanse Yahweh’s house. 
-@16 The priests went into the inner part of Yahweh’s house to cleanse it, and brought out all the uncleanness that they found in Yahweh’s temple into the court of Yahweh’s house. The Levites took it from there to carry it out to the brook Kidron. 
-@17 Now they began on the first day of the first month to sanctify, and on the eighth day of the month they came to Yahweh’s porch. They sanctified Yahweh’s house in eight days, and on the sixteenth day of the first month they finished. 
-@18 Then they went in to Hezekiah the king within the palace and said, “We have cleansed all Yahweh’s house, including the altar of burnt offering with all its vessels, and the table of show bread with all its vessels. 
-@19 Moreover, we have prepared and sanctified all the vessels which King Ahaz threw away in his reign when he was unfaithful. Behold, they are before Yahweh’s altar.”
+@12 Then_H6965 the_H4480 Levites_H3881 arose_H6965: Mahath_H4287, the_H4480 son_H1121 of_H1121 Amasai_H6022, and_H1121 Joel_H3100 the_H4480 son_H1121 of_H1121 Azariah_H5838, of_H1121 the_H4480 sons_H1121 of_H1121 the_H4480 Kohathites_H6956; and_H1121 of_H1121 the_H4480 sons_H1121 of_H1121 Merari_H4847, Kish_H7027 the_H4480 son_H1121 of_H1121 Abdi_H5660, and_H1121 Azariah_H5838 the_H4480 son_H1121 of_H1121 Jehallelel_H3094; and_H1121 of_H1121 the_H4480 Gershonites_H1649, Joah_H3098 the_H4480 son_H1121 of_H1121 Zimmah_H2155, and_H1121 Eden_H5731 the_H4480 son_H1121 of_H1121 Joah_H3098; 
+@13 and_H1121 of_H1121 the_H4480 sons_H1121 of_H1121 Elizaphan_H0469, Shimri_H8113 and_H1121 Jeuel_H3273; and_H1121 of_H1121 the_H4480 sons_H1121 of_H1121 Asaph_H0623, Zechariah_H2148 and_H1121 Mattaniah_H4983; 
+@14 and_H1121 of_H1121 the_H4480 sons_H1121 of_H1121 Heman_H1968, Jehuel and_H1121 Shimei_H8096; and_H1121 of_H1121 the_H4480 sons_H1121 of_H1121 Jeduthun_H3038, Shemaiah_H8098 and_H1121 Uzziel_H5816. 
+@15 They_H3068 gathered_H0622 their_H3068 brothers_H0251, sanctified_H6942 themselves_H6942, and_H0935 went_H0935 in_H0935, according to_H0935 the_H0853 commandment_H4687 of_H4428 the_H0853 king_H4428 by_H3068 Yahweh’s_H3068 words_H1697, to_H0935 cleanse_H2891 Yahweh’s_H3068 house_H1004. 
+@16 The_H3605 priests_H3548 went_H3318 into_H0935 the_H3605 inner_H6441 part_H6441 of_H1004 Yahweh’s_H3068 house_H1004 to_H0935 cleanse_H2891 it_H3068, and_H0935 brought_H0935 out_H3318 all_H3605 the_H3605 uncleanness_H2932 that_H0834 they_H0834 found_H4672 in_H0935 Yahweh’s_H3068 temple_H1004 into_H0935 the_H3605 court_H2691 of_H1004 Yahweh’s_H3068 house_H1004. The_H3605 Levites_H3881 took_H3318 it_H3068 from_H0935 there_H4672 to_H0935 carry_H3318 it_H3068 out_H3318 to_H0935 the_H3605 brook_H5158 Kidron_H6939. 
+@17 Now_H3117 they_H3117 began_H2490 on_H3117 the_H0853 first_H7223 day_H3117 of_H1004 the_H0853 first_H7223 month_H2320 to_H0935 sanctify_H6942, and_H0935 on_H3117 the_H0853 eighth_H8083 day_H3117 of_H1004 the_H0853 month_H2320 they_H3117 came_H0935 to_H0935 Yahweh’s_H3068 porch_H0197. They_H3117 sanctified_H6942 Yahweh’s_H3068 house_H1004 in_H0935 eight_H8083 days_H3117, and_H0935 on_H3117 the_H0853 sixteenth day_H3117 of_H1004 the_H0853 first_H7223 month_H2320 they_H3117 finished_H3615. 
+@18 Then_H0853 they_H3068 went_H0935 in_H0935 to_H0413 Hezekiah_H2396 the_H3605 king_H4428 within_H6441 the_H3605 palace_H1004 and_H0935 said_H0559, “We_H3605 have_H3068 cleansed_H2891 all_H3605 Yahweh’s_H3068 house_H1004, including_H3605 the_H3605 altar_H4196 of_H4428 burnt_H5930 offering_H3068 with_H0413 all_H3605 its_H3605 vessels_H3627, and_H0935 the_H3605 table_H7979 of_H4428 show bread with_H0413 all_H3605 its_H3605 vessels_H3627. 
+@19 Moreover, we_H0834 have_H0834 prepared_H3559 and_H3068 sanctified_H6942 all_H3605 the_H3605 vessels_H3627 which_H0834 King_H4428 Ahaz_H0271 threw away_H3605 in_H3068 his_H3605 reign_H4438 when_H0834 he_H0834 was_H0834 unfaithful_H4604. Behold_H2005, they_H0834 are_H0834 before_H6440 Yahweh’s_H3068 altar_H4196.”
 
 ## The new consecration of the temple with sacrifices, prayer and songs
-@20 Then Hezekiah the king arose early, gathered the princes of the city, and went up to Yahweh’s house. 
-@21 They brought seven bulls, seven rams, seven lambs, and seven male goats, for a sin offering for the kingdom, for the sanctuary, and for Judah. He commanded the priests the sons of Aaron to offer them on Yahweh’s altar. 
-@22 So they killed the bulls, and the priests received the blood and sprinkled it on the altar. They killed the rams and sprinkled the blood on the altar. They also killed the lambs and sprinkled the blood on the altar. 
-@23 They brought near the male goats for the sin offering before the king and the assembly; and they laid their hands on them. 
-@24 Then the priests killed them, and they made a sin offering with their blood on the altar, to make atonement for all Israel; for the king commanded that the burnt offering and the sin offering should be made for all Israel. 
+@20 Then_H0853 Hezekiah_H2396 the_H0853 king_H4428 arose_H7925 early_H7925, gathered_H0622 the_H0853 princes_H8269 of_H4428 the_H0853 city_H5892, and_H3068 went_H5927 up_H5927 to_H3068 Yahweh’s_H3068 house_H1004. 
+@21 They_H5921 brought_H0935 seven_H7651 bulls_H6499, seven_H7651 rams_H0352, seven_H7651 lambs_H3532, and_H1121 seven_H7651 male_H3532 goats_H5795, for_H5921 a_H0935 sin_H2403 offering_H5927 for_H5921 the_H0559 kingdom_H4467, for_H5921 the_H0559 sanctuary_H4720, and_H1121 for_H5921 Judah_H3063. He_H3068 commanded_H0559 the_H0559 priests_H3548 the_H0559 sons_H1121 of_H1121 Aaron_H0175 to_H0559 offer_H5927 them_H5921 on_H5921 Yahweh’s_H3068 altar_H4196. 
+@22 So_H0853 they_H3548 killed_H7819 the_H0853 bulls_H1241, and_H3548 the_H0853 priests_H3548 received_H6901 the_H0853 blood_H1818 and_H3548 sprinkled_H2236 it_H7819 on_H4196 the_H0853 altar_H4196. They_H3548 killed_H7819 the_H0853 rams_H0352 and_H3548 sprinkled_H2236 the_H0853 blood_H1818 on_H4196 the_H0853 altar_H4196. They_H3548 also_H0853 killed_H7819 the_H0853 lambs_H3532 and_H3548 sprinkled_H2236 the_H0853 blood_H1818 on_H4196 the_H0853 altar_H4196. 
+@23 They_H5921 brought_H5066 near_H5066 the_H0853 male_H8163 goats_H8163 for_H5921 the_H0853 sin_H2403 offering before_H6440 the_H0853 king_H4428 and_H3027 the_H0853 assembly_H6951; and_H3027 they_H5921 laid_H5564 their_H5921 hands_H3027 on_H5921 them_H0853. 
+@24 Then_H0559 the_H3605 priests_H3548 killed_H7819 them_H5921, and_H3478 they_H3588 made_H3605 a_H3588 sin_H2398 offering_H3548 with_H0854 their_H3605 blood_H1818 on_H5921 the_H3605 altar_H4196, to_H0559 make_H3588 atonement_H3722 for_H3588 all_H3605 Israel_H3478; for_H3588 the_H3605 king_H4428 commanded_H0559 that_H3588 the_H3605 burnt_H5930 offering_H3548 and_H3478 the_H3605 sin_H2398 offering_H3548 should_H3548 be_H3478 made_H3605 for_H3588 all_H3605 Israel_H3478. 
 
-@25 He set the Levites in Yahweh’s house with cymbals, with stringed instruments, and with harps, according to the commandment of David, of Gad the king’s seer, and Nathan the prophet; for the commandment was from Yahweh by his prophets. 
-@26 The Levites stood with David’s instruments, and the priests with the trumpets. 
-@27 Hezekiah commanded them to offer the burnt offering on the altar. When the burnt offering began, Yahweh’s song also began, along with the trumpets and instruments of David king of Israel. 
-@28 All the assembly worshiped, the singers sang, and the trumpeters sounded. All this continued until the burnt offering was finished. 
+@25 He_H3588 set_H5975 the_H0853 Levites_H3881 in_H3068 Yahweh’s_H3068 house_H1004 with_H1004 cymbals_H4700, with_H1004 stringed instruments, and_H3068 with_H1004 harps_H3658, according_H3027 to_H3068 the_H0853 commandment_H4687 of_H4428 David_H1732, of_H4428 Gad_H1410 the_H0853 king’s_H4428 seer_H2374, and_H3068 Nathan_H5416 the_H0853 prophet_H5030; for_H3588 the_H0853 commandment_H4687 was_H3068 from_H3027 Yahweh_H3068 by_H3027 his_H3068 prophets_H5030. 
+@26 The_H5975 Levites_H3881 stood_H5975 with_H1732 David’s_H1732 instruments_H3627, and_H3548 the_H5975 priests_H3548 with_H1732 the_H5975 trumpets_H2689. 
+@27 Hezekiah_H2396 commanded_H0559 them_H5921 to_H0559 offer_H5927 the_H0559 burnt_H5930 offering_H5927 on_H5921 the_H0559 altar_H4196. When_H6256 the_H0559 burnt_H5930 offering_H5927 began_H2490, Yahweh’s_H3068 song_H7892 also_H3068 began_H2490, along_H5921 with_H3068 the_H0559 trumpets_H2689 and_H3068 instruments_H3627 of_H4428 David_H1732 king_H4428 of_H4428 Israel_H3478. 
+@28 All_H3605 the_H3605 assembly_H6951 worshiped_H7812, the_H3605 singers_H7891 sang_H7891, and_H3605 the_H3605 trumpeters_H2689 sounded_H2690. All_H3605 this_H3605 continued until_H5704 the_H3605 burnt_H5930 offering was_H3605 finished_H3615. 
 
-@29 When they had finished offering, the king and all who were present with him bowed themselves and worshiped. 
-@30 Moreover Hezekiah the king and the princes commanded the Levites to sing praises to Yahweh with the words of David, and of Asaph the seer. They sang praises with gladness, and they bowed their heads and worshiped. 
+@29 When_H3615 they_H3605 had_H4428 finished_H3615 offering_H5927, the_H3605 king_H4428 and_H4428 all_H3605 who_H3605 were_H4428 present_H4672 with_H0854 him_H0854 bowed_H7812 themselves_H7812 and_H4428 worshiped_H7812. 
+@30 Moreover Hezekiah_H2396 the_H0559 king_H4428 and_H3068 the_H0559 princes_H8269 commanded_H0559 the_H0559 Levites_H3881 to_H0559 sing praises_H3068 to_H0559 Yahweh_H3068 with_H3068 the_H0559 words_H1697 of_H4428 David_H1732, and_H3068 of_H4428 Asaph_H0623 the_H0559 seer_H2374. They_H3068 sang praises_H3068 with_H3068 gladness_H8057, and_H3068 they_H3068 bowed_H7812 their_H3068 heads_H8269 and_H3068 worshiped_H7812. 
 
-@31 Then Hezekiah answered, “Now you have consecrated yourselves to Yahweh. Come near and bring sacrifices and thank offerings into Yahweh’s house.” The assembly brought in sacrifices and thank offerings, and as many as were of a willing heart brought burnt offerings. 
-@32 The number of the burnt offerings which the assembly brought was seventy bulls, one hundred rams, and two hundred lambs. All these were for a burnt offering to Yahweh. 
-@33 The consecrated things were six hundred head of cattle and three thousand sheep. 
-@34 But the priests were too few, so that they could not skin all the burnt offerings. Therefore their brothers the Levites helped them until the work was ended, and until the priests had sanctified themselves, for the Levites were more upright in heart to sanctify themselves than the priests. 
-@35 Also the burnt offerings were in abundance, with the fat of the peace offerings and with the drink offerings for every burnt offering. So the service of Yahweh’s house was set in order. 
-@36 Hezekiah and all the people rejoiced because of that which God had prepared for the people; for the thing was done suddenly. 
+@31 Then_H6030 Hezekiah_H2396 answered_H0559, “Now_H6258 you_H3605 have_H3068 consecrated yourselves_H3027 to_H0559 Yahweh_H3068. Come_H0935 near_H5066 and_H0935 bring_H0935 sacrifices_H2077 and_H0935 thank_H8426 offerings_H8426 into_H0935 Yahweh’s_H3068 house_H1004.” The_H3605 assembly_H6951 brought_H0935 in_H0935 sacrifices_H2077 and_H0935 thank_H8426 offerings_H8426, and_H0935 as_H0935 many as_H0935 were_H3027 of_H1004 a_H0935 willing_H5081 heart_H3820 brought_H0935 burnt_H5930 offerings_H8426. 
+@32 The_H3605 number_H4557 of_H3068 the_H3605 burnt_H5930 offerings_H3068 which_H0834 the_H3605 assembly_H6951 brought_H0935 was_H1961 seventy_H7657 bulls_H1241, one_H3532 hundred_H3967 rams_H0352, and_H0935 two_H3967 hundred_H3967 lambs_H3532. All_H3605 these_H0428 were_H0834 for_H3605 a_H1961 burnt_H5930 offering_H3068 to_H0935 Yahweh_H3068. 
+@33 The_H6942 consecrated_H6942 things_H7969 were_H1241 six_H8337 hundred_H3967 head of_H0505 cattle_H1241 and_H3967 three_H7969 thousand_H0505 sheep_H6629. 
+@34 But_H3588 the_H3605 priests_H3548 were_H1961 too_H3808 few_H4592, so_H1961 that_H3588 they_H3588 could_H3201 not_H3808 skin_H6584 all_H3605 the_H3605 burnt_H5930 offerings_H5930. Therefore_H1961 their_H3605 brothers_H0251 the_H3605 Levites_H3881 helped_H2388 them_H0853 until_H5704 the_H3605 work_H4399 was_H1961 ended_H3615, and_H3548 until_H5704 the_H3605 priests_H3548 had_H1961 sanctified_H6942 themselves_H6942, for_H3588 the_H3605 Levites_H3881 were_H1961 more_H3808 upright_H3477 in_H3477 heart_H3824 to_H5704 sanctify_H6942 themselves_H6942 than_H3808 the_H3605 priests_H3548. 
+@35 Also_H1571 the_H3068 burnt_H5930 offerings_H8002 were_H1571 in_H3068 abundance_H7230, with_H1004 the_H3068 fat_H2459 of_H1004 the_H3068 peace_H8002 offerings_H8002 and_H3068 with_H1004 the_H3068 drink offerings_H8002 for_H1004 every burnt_H5930 offering_H8002. So_H1571 the_H3068 service_H5656 of_H1004 Yahweh’s_H3068 house_H1004 was_H3068 set_H3559 in_H3068 order_H3559. 
+@36 Hezekiah_H2396 and_H0430 all_H3605 the_H3605 people_H5971 rejoiced_H8055 because_H3588 of_H0430 that_H3588 which_H1697 God_H0430 had_H1961 prepared_H3559 for_H3588 the_H3605 people_H5971; for_H3588 the_H3605 thing_H1697 was_H1961 done_H1961 suddenly_H6597. 
 
 # 30 
 ## Hezekiah Passover Celebration
-@1 Hezekiah sent to all Israel and Judah, and wrote letters also to Ephraim and Manasseh, that they should come to Yahweh’s house at Jerusalem, to keep the Passover to Yahweh, the God of Israel. 
-@2 For the king had taken counsel with his princes and all the assembly in Jerusalem to keep the Passover in the second month. 
-@3 For they could not keep it at that time, because the priests had not sanctified themselves in sufficient number, and the people had not gathered themselves together to Jerusalem. 
-@4 The thing was right in the eyes of the king and of all the assembly. 
-@5 So they established a decree to make proclamation throughout all Israel, from Beersheba even to Dan, that they should come to keep the Passover to Yahweh, the God of Israel, at Jerusalem, for they had not kept it in great numbers in the way it is written. 
+@1 Hezekiah_H2396 sent_H7971 to_H0935 all_H3605 Israel_H3478 and_H0935 Judah_H3063, and_H0935 wrote_H3789 letters_H0107 also_H1571 to_H0935 Ephraim_H0669 and_H0935 Manasseh_H4519, that_H3605 they_H5921 should_H3068 come_H0935 to_H0935 Yahweh’s_H3068 house_H1004 at_H5921 Jerusalem_H3389, to_H0935 keep_H6213 the_H3605 Passover_H6453 to_H0935 Yahweh_H3068, the_H3605 God_H0430 of_H1004 Israel_H3478. 
+@2 For_H3605 the_H3605 king_H4428 had_H4428 taken counsel_H3289 with_H3389 his_H3605 princes_H8269 and_H4428 all_H3605 the_H3605 assembly_H6951 in_H4428 Jerusalem_H3389 to_H3389 keep_H6213 the_H3605 Passover_H6453 in_H4428 the_H3605 second_H8145 month_H2320. 
+@3 For_H3588 they_H3588 could_H3201 not_H3808 keep_H6942 it_H1931 at_H0622 that_H3588 time_H6256, because_H3588 the_H3588 priests_H3548 had_H3588 not_H3808 sanctified_H6942 themselves_H6942 in_H0622 sufficient number, and_H3548 the_H3588 people_H5971 had_H3588 not_H3808 gathered_H0622 themselves_H6942 together_H0622 to_H3201 Jerusalem_H3389. 
+@4 The_H3605 thing_H1697 was_H4428 right_H3474 in_H4428 the_H3605 eyes_H5869 of_H4428 the_H3605 king_H4428 and_H4428 of_H4428 all_H3605 the_H3605 assembly_H6951. 
+@5 So_H6213 they_H3588 established_H5975 a_H3588 decree_H1697 to_H0935 make_H6213 proclamation_H6963 throughout_H3605 all_H3605 Israel_H3478, from_H0935 Beersheba_H0884 even_H5704 to_H0935 Dan_H1835, that_H3588 they_H3588 should_H3068 come_H0935 to_H0935 keep_H6213 the_H3605 Passover_H6453 to_H0935 Yahweh_H3068, the_H3605 God_H0430 of_H0430 Israel_H3478, at_H3478 Jerusalem_H3389, for_H3588 they_H3588 had_H3068 not_H3808 kept_H6213 it_H3588 in_H0935 great_H7230 numbers_H7230 in_H0935 the_H3605 way_H1697 it_H3588 is_H3068 written_H3789. 
 
-@6 So the couriers went with the letters from the king and his princes throughout all Israel and Judah, according to the commandment of the king, saying, “You children of Israel, turn again to Yahweh, the God of Abraham, Isaac, and Israel, that he may return to the remnant of you that have escaped out of the hand of the kings of Assyria. 
-@7 Don’t be like your fathers and like your brothers, who trespassed against Yahweh, the God of their fathers, so that he gave them up to desolation, as you see. 
-@8 Now don’t be stiff-necked, as your fathers were, but yield yourselves to Yahweh, and enter into his sanctuary, which he has sanctified forever, and serve Yahweh your God, that his fierce anger may turn away from you. 
-@9 For if you turn again to Yahweh, your brothers and your children will find compassion with those who led them captive, and will come again into this land, because Yahweh your God is gracious and merciful, and will not turn away his face from you if you return to him.” 
+@6 So_H7725 the_H3605 couriers_H7323 went_H7725 with_H0413 the_H3605 letters_H0107 from_H7725 the_H3605 king_H4428 and_H1121 his_H3605 princes_H8269 throughout_H3605 all_H3605 Israel_H3478 and_H1121 Judah_H3063, according_H0413 to_H0413 the_H3605 commandment_H4687 of_H1121 the_H3605 king_H4428, saying_H0559, “You_H3605 children_H1121 of_H1121 Israel_H3478, turn_H7725 again_H7725 to_H0413 Yahweh_H3068, the_H3605 God_H0430 of_H1121 Abraham_H0085, Isaac_H3327, and_H1121 Israel_H3478, that_H3605 he_H0430 may_H0430 return_H7725 to_H0413 the_H3605 remnant_H7604 of_H1121 you_H3605 that_H3605 have_H1121 escaped_H6413 out_H0413 of_H1121 the_H3605 hand_H3027 of_H1121 the_H3605 kings_H4428 of_H1121 Assyria_H0804. 
+@7 Don’t_H0408 be_H1961 like_H1961 your_H3068 fathers_H0001 and_H3068 like_H1961 your_H3068 brothers_H0251, who_H0834 trespassed against Yahweh_H3068, the_H0834 God_H0430 of_H0430 their_H3068 fathers_H0001, so_H1961 that_H0834 he_H0834 gave_H5414 them_H5414 up_H7200 to_H1961 desolation_H8047, as_H0834 you_H0859 see_H7200. 
+@8 Now_H6258 don’t_H0408 be_H0408 stiff-necked, as_H0834 your_H3068 fathers_H0001 were_H0834, but_H0935 yield_H5414 yourselves_H3027 to_H0935 Yahweh_H3068, and_H0935 enter_H0935 into_H0935 his_H5414 sanctuary_H4720, which_H0834 he_H0834 has_H3068 sanctified_H6942 forever_H5769, and_H0935 serve_H5647 Yahweh_H3068 your_H3068 God_H0430, that_H0834 his_H5414 fierce_H2740 anger_H0639 may_H0430 turn_H7725 away_H7725 from_H4480 you_H0834. 
+@9 For_H3588 if_H0518 you_H3588 turn_H7725 again_H7725 to_H0413 Yahweh_H3068, your_H3068 brothers_H0251 and_H1121 your_H3068 children_H1121 will_H3068 find compassion_H7356 with_H0413 those_H4480 who_H3068 led_H6440 them_H0413 captive_H7617, and_H1121 will_H3068 come_H7725 again_H7725 into_H0413 this_H2063 land_H0776, because_H3588 Yahweh_H3068 your_H3068 God_H0430 is_H3068 gracious_H2587 and_H1121 merciful_H7349, and_H1121 will_H3068 not_H3808 turn_H7725 away_H5493 his_H5921 face_H6440 from_H4480 you_H3588 if_H0518 you_H3588 return_H7725 to_H0413 him_H0413.” 
 
-@10 So the couriers passed from city to city through the country of Ephraim and Manasseh, even to Zebulun, but people ridiculed them and mocked them. 
-@11 Nevertheless some men of Asher, Manasseh, and Zebulun humbled themselves and came to Jerusalem. 
-@12 Also the hand of God came on Judah to give them one heart, to do the commandment of the king and of the princes by Yahweh’s word.
+@10 So_H1961 the_H5921 couriers_H7323 passed_H5674 from_H5921 city_H5892 to_H5704 city_H5892 through_H5674 the_H5921 country_H0776 of_H0776 Ephraim_H0669 and_H0776 Manasseh_H4519, even_H5704 to_H5704 Zebulun_H2074, but_H1961 people_H0776 ridiculed them_H5921 and_H0776 mocked_H3932 them_H5921. 
+@11 Nevertheless_H0389 some_H0376 men_H0376 of_H0376 Asher_H0836, Manasseh_H4519, and_H0935 Zebulun_H2074 humbled_H3665 themselves_H3665 and_H0935 came_H0935 to_H0935 Jerusalem_H3389. 
+@12 Also_H1571 the_H5414 hand_H3027 of_H4428 God_H0430 came_H1961 on_H3068 Judah_H3063 to_H1961 give_H5414 them_H5414 one_H0259 heart_H3820, to_H1961 do_H6213 the_H5414 commandment_H4687 of_H4428 the_H5414 king_H4428 and_H3068 of_H4428 the_H5414 princes_H8269 by_H3027 Yahweh’s_H3068 word_H1697.
 
 ## Easter course in the first week
-@13 Many people assembled at Jerusalem to keep the feast of unleavened bread in the second month, a very great assembly. 
-@14 They arose and took away the altars that were in Jerusalem, and they took away all the altars for incense and threw them into the brook Kidron. 
-@15 Then they killed the Passover on the fourteenth day of the second month. The priests and the Levites were ashamed, and sanctified themselves, and brought burnt offerings into Yahweh’s house. 
-@16 They stood in their place after their order, according to the law of Moses the man of God. The priests sprinkled the blood which they received of the hand of the Levites. 
-@17 For there were many in the assembly who had not sanctified themselves; therefore the Levites were in charge of killing the Passovers for everyone who was not clean, to sanctify them to Yahweh. 
-@18 For a multitude of the people, even many of Ephraim, Manasseh, Issachar, and Zebulun, had not cleansed themselves, yet they ate the Passover other than the way it is written. For Hezekiah had prayed for them, saying, “May the good Yahweh pardon everyone 
-@19 who sets his heart to seek God, Yahweh, the God of his fathers, even if they aren’t clean according to the purification of the sanctuary.” 
+@13 Many_H7227 people_H5971 assembled_H0622 at_H2320 Jerusalem_H3389 to_H3389 keep_H6213 the_H0853 feast_H2282 of_H6951 unleavened_H4682 bread_H4682 in_H0622 the_H0853 second_H8145 month_H2320, a_H3389 very_H3966 great_H3966 assembly_H6951. 
+@14 They_H0834 arose_H6965 and_H6965 took_H5493 away_H5493 the_H3605 altars_H4196 that_H0834 were_H0834 in_H4196 Jerusalem_H3389, and_H6965 they_H0834 took_H5493 away_H5493 all_H3605 the_H3605 altars_H4196 for_H3605 incense_H6999 and_H6965 threw_H7993 them_H0853 into_H7993 the_H3605 brook_H5158 Kidron_H6939. 
+@15 Then_H0935 they_H3068 killed_H7819 the_H0935 Passover_H6453 on_H0935 the_H0935 fourteenth day_H2320 of_H1004 the_H0935 second_H8145 month_H2320. The_H0935 priests_H3548 and_H0935 the_H0935 Levites_H3881 were_H3881 ashamed_H3637, and_H0935 sanctified_H6942 themselves_H6942, and_H0935 brought_H0935 burnt_H5930 offerings_H6453 into_H0935 Yahweh’s_H3068 house_H1004. 
+@16 They_H5921 stood_H5975 in_H5921 their_H5921 place_H3027 after_H5921 their_H5921 order_H4941, according_H5921 to_H5921 the_H0853 law_H8451 of_H0376 Moses_H4872 the_H0853 man_H0376 of_H0376 God_H0430. The_H0853 priests_H3548 sprinkled_H2236 the_H0853 blood_H1818 which they_H5921 received_H5921 of_H0376 the_H0853 hand_H3027 of_H0376 the_H0853 Levites_H3881. 
+@17 For_H3588 there_H3068 were_H0834 many_H7227 in_H5921 the_H3605 assembly_H6951 who_H0834 had_H3068 not_H3808 sanctified_H6942 themselves_H6942; therefore_H3068 the_H3605 Levites_H3881 were_H0834 in_H5921 charge_H5921 of_H3068 killing the_H3605 Passovers for_H3588 everyone_H3605 who_H0834 was_H0834 not_H3808 clean_H2889, to_H5921 sanctify_H6942 them_H5921 to_H5921 Yahweh_H3068. 
+@18 For_H3588 a_H3588 multitude_H4768 of_H3068 the_H0853 people_H5971, even_H3588 many_H7227 of_H3068 Ephraim_H0669, Manasseh_H4519, Issachar_H3485, and_H3068 Zebulun_H2074, had_H3068 not_H3808 cleansed_H2891 themselves_H2896, yet_H3588 they_H3588 ate_H0398 the_H0853 Passover_H6453 other than_H3808 the_H0853 way_H5921 it_H5921 is_H3068 written_H3789. For_H3588 Hezekiah_H2396 had_H3068 prayed_H6419 for_H3588 them_H0853, saying_H0559, “May_H3068 the_H0853 good_H2896 Yahweh_H3068 pardon everyone 
+@19 who_H3605 sets his_H3605 heart_H3824 to_H3068 seek_H1875 God_H0430, Yahweh_H3068, the_H3605 God_H0430 of_H0430 his_H3605 fathers_H0001, even_H3808 if they_H3808 aren’t clean_H2893 according to_H3068 the_H3605 purification_H2893 of_H0430 the_H3605 sanctuary_H6944.” 
 
-@20 Yahweh listened to Hezekiah, and healed the people. 
-@21 The children of Israel who were present at Jerusalem kept the feast of unleavened bread seven days with great gladness. The Levites and the priests praised Yahweh day by day, singing with loud instruments to Yahweh. 
-@22 Hezekiah spoke encouragingly to all the Levites who had good understanding in the service of Yahweh. So they ate throughout the feast for the seven days, offering sacrifices of peace offerings and making confession to Yahweh, the God of their fathers.
+@20 Yahweh_H3068 listened_H8085 to_H0413 Hezekiah_H2396, and_H3068 healed_H7495 the_H0853 people_H5971. 
+@21 The_H0853 children_H1121 of_H1121 Israel_H3478 who_H3068 were_H3478 present_H4672 at_H3478 Jerusalem_H3389 kept_H6213 the_H0853 feast_H2282 of_H1121 unleavened_H4682 bread_H4682 seven_H7651 days_H3117 with_H3068 great_H1419 gladness_H8057. The_H0853 Levites_H3881 and_H1121 the_H0853 priests_H3548 praised_H1984 Yahweh_H3068 day_H3117 by_H3068 day_H3117, singing with_H3068 loud_H1419 instruments_H3627 to_H3068 Yahweh_H3068. 
+@22 Hezekiah_H2396 spoke_H1696 encouragingly to_H1696 all_H3605 the_H3605 Levites_H3881 who_H3605 had_H3068 good_H2896 understanding_H3820 in_H5921 the_H3605 service of_H0430 Yahweh_H3068. So_H1696 they_H3117 ate_H0398 throughout_H3605 the_H3605 feast_H0398 for_H5921 the_H3605 seven_H7651 days_H3117, offering_H8002 sacrifices_H2077 of_H0430 peace_H8002 offerings_H8002 and_H3068 making_H3605 confession_H3034 to_H1696 Yahweh_H3068, the_H3605 God_H0430 of_H0430 their_H3605 fathers_H0001.
 
 ## Continuation of the celebration in the second week
-@23 The whole assembly took counsel to keep another seven days, and they kept another seven days with gladness. 
-@24 For Hezekiah king of Judah gave to the assembly for offerings one thousand bulls and seven thousand sheep; and the princes gave to the assembly a thousand bulls and ten thousand sheep; and a great number of priests sanctified themselves. 
-@25 All the assembly of Judah, with the priests and the Levites, and all the assembly who came out of Israel, and the foreigners who came out of the land of Israel and who lived in Judah, rejoiced. 
-@26 So there was great joy in Jerusalem; for since the time of Solomon the son of David king of Israel there was nothing like this in Jerusalem. 
-@27 Then the Levitical priests arose and blessed the people. Their voice was heard, and their prayer came up to his holy habitation, even to heaven. 
+@23 The_H3605 whole_H3605 assembly_H6951 took_H3289 counsel_H3289 to_H3117 keep_H6213 another_H0312 seven_H7651 days_H3117, and_H3117 they_H3117 kept_H6213 another_H0312 seven_H7651 days_H3117 with_H3117 gladness_H8057. 
+@24 For_H3588 Hezekiah_H2396 king_H4428 of_H4428 Judah_H3063 gave to_H4428 the_H3588 assembly_H6951 for_H3588 offerings_H3588 one_H3588 thousand_H0505 bulls_H6499 and_H3063 seven_H7651 thousand_H0505 sheep_H6629; and_H3063 the_H3588 princes_H8269 gave to_H4428 the_H3588 assembly_H6951 a_H3588 thousand_H0505 bulls_H6499 and_H3063 ten_H6235 thousand_H0505 sheep_H6629; and_H3063 a_H3588 great_H7230 number_H7230 of_H4428 priests_H3548 sanctified_H6942 themselves_H6942. 
+@25 All_H3605 the_H3605 assembly_H6951 of_H0776 Judah_H3063, with_H0935 the_H3605 priests_H3548 and_H0935 the_H3605 Levites_H3881, and_H0935 all_H3605 the_H3605 assembly_H6951 who_H3605 came_H0935 out_H3605 of_H0776 Israel_H3478, and_H0935 the_H3605 foreigners_H1616 who_H3605 came_H0935 out_H3605 of_H0776 the_H3605 land_H0776 of_H0776 Israel_H3478 and_H0935 who_H3605 lived_H3427 in_H3427 Judah_H3063, rejoiced_H8055. 
+@26 So_H1961 there_H1961 was_H1961 great_H1419 joy_H8057 in_H3478 Jerusalem_H3389; for_H3588 since_H3588 the_H3588 time_H3117 of_H1121 Solomon_H8010 the_H3588 son_H1121 of_H1121 David_H1732 king_H4428 of_H1121 Israel_H3478 there_H1961 was_H1961 nothing_H3808 like_H1961 this_H2063 in_H3478 Jerusalem_H3389. 
+@27 Then_H6965 the_H0853 Levitical_H3881 priests_H3548 arose_H6965 and_H0935 blessed_H1288 the_H0853 people_H5971. Their_H8085 voice_H6963 was_H6963 heard_H8085, and_H0935 their_H8085 prayer_H8605 came_H0935 up_H6965 to_H0935 his_H8085 holy_H6944 habitation_H4583, even_H0853 to_H0935 heaven_H8064. 
 
 # 31 
 ## Cleansing the land of idolatry
-@1 Now when all this was finished, all Israel who were present went out to the cities of Judah and broke the pillars in pieces, cut down the Asherah poles, and broke down the high places and the altars out of all Judah and Benjamin, also in Ephraim and Manasseh, until they had destroyed them all. Then all the children of Israel returned, every man to his possession, into their own cities.
+@1 Now when_H3318 all_H3605 this_H2063 was_H3478 finished_H3615, all_H3605 Israel_H3478 who_H3605 were_H3478 present_H4672 went_H3318 out_H3318 to_H5704 the_H3605 cities_H5892 of_H1121 Judah_H3063 and_H1121 broke_H7665 the_H3605 pillars_H4676 in_H3478 pieces_H7665, cut_H1438 down_H5422 the_H3605 Asherah_H0842 poles, and_H1121 broke_H7665 down_H5422 the_H3605 high_H1116 places_H1116 and_H1121 the_H3605 altars_H4196 out_H3318 of_H1121 all_H3605 Judah_H3063 and_H1121 Benjamin_H1144, also_H0853 in_H3478 Ephraim_H0669 and_H1121 Manasseh_H4519, until_H5704 they_H0376 had_H3478 destroyed_H3615 them_H0853 all_H3605. Then_H3318 all_H3605 the_H3605 children_H1121 of_H1121 Israel_H3478 returned_H7725, every_H3605 man_H0376 to_H5704 his_H3605 possession_H0272, into_H0376 their_H3605 own_H0376 cities_H5892.
 
 ## Successful care of the income of the priests and Levites
-@2 Hezekiah appointed the divisions of the priests and the Levites after their divisions, every man according to his service, both the priests and the Levites, for burnt offerings and for peace offerings, to minister, to give thanks, and to praise in the gates of Yahweh’s camp. 
-@3 He also appointed the king’s portion of his possessions for the burnt offerings: for the morning and evening burnt offerings, and the burnt offerings for the Sabbaths, for the new moons, and for the set feasts, as it is written in Yahweh’s law. 
-@4 Moreover he commanded the people who lived in Jerusalem to give the portion of the priests and the Levites, that they might give themselves to Yahweh’s law. 
-@5 As soon as the commandment went out, the children of Israel gave in abundance the first fruits of grain, new wine, oil, honey, and of all the increase of the field; and they brought in the tithe of all things abundantly. 
-@6 The children of Israel and Judah, who lived in the cities of Judah, also brought in the tithe of cattle and sheep, and the tithe of dedicated things which were consecrated to Yahweh their God, and laid them in heaps. 
+@2 Hezekiah_H2396 appointed_H5975 the_H0853 divisions_H4256 of_H0376 the_H0853 priests_H3548 and_H3068 the_H0853 Levites_H3881 after_H5921 their_H3068 divisions_H4256, every_H0376 man_H0376 according_H5921 to_H5921 his_H5921 service_H5656, both_H5921 the_H0853 priests_H3548 and_H3068 the_H0853 Levites_H3881, for_H5921 burnt_H5930 offerings_H8002 and_H3068 for_H5921 peace_H8002 offerings_H8002, to_H5921 minister_H8334, to_H5921 give_H3034 thanks_H3034, and_H3068 to_H5921 praise_H1984 in_H5921 the_H0853 gates_H8179 of_H0376 Yahweh’s_H3068 camp_H4264. 
+@3 He_H3068 also_H3068 appointed_H4150 the_H4480 king’s_H4428 portion_H4521 of_H4428 his_H3068 possessions_H7399 for_H3068 the_H4480 burnt_H5930 offerings_H4480: for_H3068 the_H4480 morning_H1242 and_H3068 evening_H6153 burnt_H5930 offerings_H4480, and_H3068 the_H4480 burnt_H5930 offerings_H4480 for_H3068 the_H4480 Sabbaths_H7676, for_H3068 the_H4480 new_H2320 moons_H2320, and_H3068 for_H3068 the_H4480 set_H4150 feasts_H4150, as_H3068 it_H3068 is_H3068 written_H3789 in_H3068 Yahweh’s_H3068 law_H8451. 
+@4 Moreover he_H3068 commanded_H0559 the_H0559 people_H5971 who_H3068 lived_H3427 in_H3427 Jerusalem_H3389 to_H0559 give_H5414 the_H0559 portion_H4521 of_H3068 the_H0559 priests_H3548 and_H3068 the_H0559 Levites_H3881, that_H4616 they_H3068 might_H4616 give_H5414 themselves to_H0559 Yahweh’s_H3068 law_H8451. 
+@5 As_H1697 soon as_H1697 the_H3605 commandment_H1697 went_H0935 out_H3605, the_H3605 children_H1121 of_H1121 Israel_H3478 gave_H0935 in_H0935 abundance_H7230 the_H3605 first_H7225 fruits_H7225 of_H1121 grain_H1715, new_H8492 wine_H8492, oil_H3323, honey_H1706, and_H1121 of_H1121 all_H3605 the_H3605 increase_H7235 of_H1121 the_H3605 field_H7704; and_H1121 they_H0935 brought_H0935 in_H0935 the_H3605 tithe_H4643 of_H1121 all_H3605 things_H1697 abundantly_H7230. 
+@6 The_H0935 children_H1121 of_H1121 Israel_H3478 and_H1121 Judah_H3063, who_H3068 lived_H3427 in_H3427 the_H0935 cities_H5892 of_H1121 Judah_H3063, also_H1571 brought_H0935 in_H3427 the_H0935 tithe_H4643 of_H1121 cattle_H1241 and_H1121 sheep_H6629, and_H1121 the_H0935 tithe_H4643 of_H1121 dedicated_H6942 things_H6944 which were_H3478 consecrated_H6942 to_H0935 Yahweh_H3068 their_H3068 God_H0430, and_H1121 laid_H5414 them_H5414 in_H3427 heaps_H6194. 
 
-@7 In the third month, they began to lay the foundation of the heaps, and finished them in the seventh month. 
-@8 When Hezekiah and the princes came and saw the heaps, they blessed Yahweh and his people Israel. 
-@9 Then Hezekiah questioned the priests and the Levites about the heaps. 
-@10 Azariah the chief priest, of the house of Zadok, answered him and said, “Since people began to bring the offerings into Yahweh’s house, we have eaten and had enough, and have plenty left over, for Yahweh has blessed his people; and that which is left is this great store.” 
+@7 In_H2320 the_H3245 third_H7992 month_H2320, they_H2320 began_H2490 to_H2320 lay_H3245 the_H3245 foundation_H3245 of_H2320 the_H3245 heaps_H6194, and_H2320 finished_H3615 them_H3615 in_H2320 the_H3245 seventh_H7637 month_H2320. 
+@8 When_H7200 Hezekiah_H2396 and_H0935 the_H0853 princes_H8269 came_H0935 and_H0935 saw_H7200 the_H0853 heaps_H6194, they_H3068 blessed_H1288 Yahweh_H3068 and_H0935 his_H3068 people_H5971 Israel_H3478. 
+@9 Then_H3548 Hezekiah_H2396 questioned_H1875 the_H5921 priests_H3548 and_H3548 the_H5921 Levites_H3881 about_H5921 the_H5921 heaps_H6194. 
+@10 Azariah_H5838 the_H0853 chief_H7218 priest_H3548, of_H1004 the_H0853 house_H1004 of_H1004 Zadok_H6659, answered_H0559 him_H0413 and_H0935 said_H0559, “Since_H3588 people_H5971 began_H2490 to_H0413 bring_H0935 the_H0853 offerings_H8641 into_H0413 Yahweh’s_H3068 house_H1004, we_H3588 have_H7646 eaten_H0398 and_H0935 had_H3068 enough_H7646, and_H0935 have_H7646 plenty_H7646 left_H3498 over_H0413, for_H3588 Yahweh_H3068 has_H3068 blessed_H1288 his_H3068 people_H5971; and_H0935 that_H3588 which_H2088 is_H3068 left_H3498 is_H3068 this_H2088 great_H7230 store.” 
 
-@11 Then Hezekiah commanded them to prepare rooms in Yahweh’s house, and they prepared them. 
-@12 They brought in the offerings, the tithes, and the dedicated things faithfully. Conaniah the Levite was ruler over them, and Shimei his brother was second. 
-@13 Jehiel, Azaziah, Nahath, Asahel, Jerimoth, Jozabad, Eliel, Ismachiah, Mahath, and Benaiah were overseers under the hand of Conaniah and Shimei his brother, by the appointment of Hezekiah the king and Azariah the ruler of God’s house. 
-@14 Kore the son of Imnah the Levite, the gatekeeper at the east gate, was over the free will offerings of God, to distribute Yahweh’s offerings and the most holy things. 
-@15 Under him were Eden, Miniamin, Jeshua, Shemaiah, Amariah, and Shecaniah, in the cities of the priests, in their office of trust, to give to their brothers by divisions, to the great as well as to the small; 
-@16 in addition to those who were listed by genealogy of males, from three years old and upward, even everyone who entered into Yahweh’s house, as the duty of every day required, for their service in their offices according to their divisions;
+@11 Then_H0559 Hezekiah_H2396 commanded_H0559 them_H0559 to_H0559 prepare_H3559 rooms_H3957 in_H3068 Yahweh’s_H3068 house_H1004, and_H3068 they_H3068 prepared_H3559 them_H0559. 
+@12 They_H5921 brought_H0935 in_H5921 the_H0853 offerings_H8641, the_H0853 tithes_H4643, and_H0935 the_H0853 dedicated_H6944 things_H6944 faithfully_H0530. Conaniah_H3562 the_H0853 Levite_H3881 was_H0935 ruler_H5057 over_H5921 them_H0853, and_H0935 Shimei_H8096 his_H5921 brother_H0251 was_H0935 second_H4932. 
+@13 Jehiel_H3171, Azaziah_H5812, Nahath_H5184, Asahel_H6214, Jerimoth_H3406, Jozabad_H3107, Eliel_H0447, Ismachiah_H3253, Mahath_H4287, and_H0430 Benaiah_H1141 were_H3027 overseers_H6496 under_H3027 the_H3027 hand_H3027 of_H4428 Conaniah_H3562 and_H0430 Shimei_H8096 his_H3027 brother_H0251, by_H3027 the_H3027 appointment_H4662 of_H4428 Hezekiah_H2396 the_H3027 king_H4428 and_H0430 Azariah_H5838 the_H3027 ruler_H5057 of_H4428 God’s_H0430 house_H1004. 
+@14 Kore_H6981 the_H5921 son_H1121 of_H1121 Imnah_H3232 the_H5921 Levite_H3881, the_H5921 gatekeeper_H7778 at_H5921 the_H5921 east_H4217 gate, was_H3068 over_H5921 the_H5921 free will_H3068 offerings_H5071 of_H1121 God_H0430, to_H5921 distribute_H5414 Yahweh’s_H3068 offerings_H5071 and_H1121 the_H5921 most_H6944 holy_H6944 things_H6944. 
+@15 Under_H5921 him_H5414 were_H3027 Eden_H5731, Miniamin_H4509, Jeshua_H3442, Shemaiah_H8098, Amariah_H0568, and_H3027 Shecaniah_H7935, in_H5921 the_H5921 cities_H5892 of_H3027 the_H5921 priests_H3548, in_H5921 their_H5414 office of_H3027 trust_H0530, to_H5921 give_H5414 to_H5921 their_H5414 brothers_H0251 by_H5921 divisions_H4256, to_H5921 the_H5921 great_H1419 as_H5414 well as_H5414 to_H5921 the_H5921 small_H6996; 
+@16 in_H8141 addition to_H0935 those_H3605 who_H3605 were_H1121 listed_H3187 by_H3068 genealogy_H3187 of_H1121 males_H2145, from_H0935 three_H7969 years_H8141 old_H1121 and_H1121 upward_H4605, even everyone_H3605 who_H3605 entered_H0935 into_H0935 Yahweh’s_H3068 house_H1004, as_H1697 the_H3605 duty_H4931 of_H1121 every_H3605 day_H3117 required_H1697, for_H1004 their_H3605 service_H5656 in_H8141 their_H3605 offices_H4931 according to_H0935 their_H3605 divisions_H4256;
 
 ## Preparation of lists of priests and Levites; final word
-@17 and those who were listed by genealogy of the priests by their fathers’ houses, and the Levites from twenty years old and upward, in their offices by their divisions; 
-@18 and those who were listed by genealogy of all their little ones, their wives, their sons, and their daughters, through all the congregation; for in their office of trust they sanctified themselves in holiness. 
-@19 Also for the sons of Aaron the priests, who were in the fields of the pasture lands of their cities, in every city, there were men who were mentioned by name to give portions to all the males among the priests and to all who were listed by genealogy among the Levites. 
+@17 and_H1121 those_H1121 who_H3548 were_H1121 listed_H1004 by_H8141 genealogy_H3188 of_H1121 the_H0853 priests_H3548 by_H8141 their_H3548 fathers’_H0001 houses_H1004, and_H1121 the_H0853 Levites_H3881 from_H1121 twenty_H6242 years_H8141 old_H1121 and_H1121 upward_H4605, in_H8141 their_H3548 offices_H4931 by_H8141 their_H3548 divisions_H4256; 
+@18 and_H1121 those_H3605 who_H3605 were_H1121 listed by_H0802 genealogy_H3188 of_H1121 all_H3605 their_H3605 little_H2945 ones_H2945, their_H3605 wives_H0802, their_H3605 sons_H1121, and_H1121 their_H3605 daughters_H1323, through_H3605 all_H3605 the_H3605 congregation_H6951; for_H3588 in_H0802 their_H3605 office of_H1121 trust_H0530 they_H3588 sanctified_H6942 themselves_H6942 in_H0802 holiness_H6944. 
+@19 Also_H0834 for_H3605 the_H3605 sons_H1121 of_H1121 Aaron_H0175 the_H3605 priests_H3548, who_H0834 were_H0834 in_H0376 the_H3605 fields_H7704 of_H1121 the_H3605 pasture_H4054 lands_H4054 of_H1121 their_H3605 cities_H5892, in_H0376 every_H3605 city_H5892, there_H3605 were_H0834 men_H0376 who_H0834 were_H0834 mentioned by_H3187 name_H8034 to_H5414 give_H5414 portions_H4490 to_H5414 all_H3605 the_H3605 males_H2145 among_H0376 the_H3605 priests_H3548 and_H1121 to_H5414 all_H3605 who_H0834 were_H0834 listed_H3187 by_H3187 genealogy_H3187 among_H0376 the_H3605 Levites_H3881. 
 
-@20 Hezekiah did so throughout all Judah; and he did that which was good, right, and faithful before Yahweh his God. 
-@21 In every work that he began in the service of God’s house, in the law, and in the commandments, to seek his God, he did it with all his heart and prospered. 
+@20 Hezekiah_H2396 did_H6213 so_H6213 throughout_H3605 all_H3605 Judah_H3063; and_H3068 he_H0430 did_H6213 that_H3605 which_H3477 was_H3068 good_H2896, right_H3477, and_H3068 faithful_H0571 before_H6440 Yahweh_H3068 his_H3605 God_H0430. 
+@21 In_H0430 every_H3605 work_H4639 that_H0834 he_H0834 began_H2490 in_H0430 the_H3605 service_H5656 of_H1004 God’s_H0430 house_H1004, in_H0430 the_H3605 law_H8451, and_H0430 in_H0430 the_H3605 commandments_H4687, to_H0430 seek_H1875 his_H3605 God_H0430, he_H0834 did_H6213 it_H6213 with_H1004 all_H3605 his_H3605 heart_H3824 and_H0430 prospered. 
 
 # 32 
 ## The raid of Sennacherib and the rest of Hezekiah
-@1 After these things and this faithfulness, Sennacherib king of Assyria came, entered into Judah, encamped against the fortified cities, and intended to win them for himself. 
-@2 When Hezekiah saw that Sennacherib had come, and that he was planning to fight against Jerusalem, 
-@3 he took counsel with his princes and his mighty men to stop the waters of the springs which were outside of the city, and they helped him. 
-@4 Then many people gathered together and they stopped all the springs and the brook that flowed through the middle of the land, saying, “Why should the kings of Assyria come, and find abundant water?” 
+@1 After_H0310 these_H0428 things_H1697 and_H0935 this_H0428 faithfulness_H0571, Sennacherib_H5576 king_H4428 of_H4428 Assyria_H0804 came_H0935, entered_H0935 into_H0413 Judah_H3063, encamped_H2583 against_H5921 the_H0559 fortified_H1219 cities_H5892, and_H0935 intended_H0559 to_H0413 win them_H0413 for_H5921 himself_H0413. 
+@2 When_H3588 Hezekiah_H2396 saw_H7200 that_H3588 Sennacherib_H5576 had_H3588 come_H0935, and_H0935 that_H3588 he_H3588 was_H3389 planning to_H0935 fight_H4421 against_H5921 Jerusalem_H3389, 
+@3 he_H0834 took_H0853 counsel_H3289 with_H5973 his_H0834 princes_H8269 and_H5869 his_H0834 mighty_H1368 men_H1368 to_H4325 stop_H5640 the_H0853 waters_H4325 of_H8269 the_H0853 springs which_H0834 were_H0834 outside_H2351 of_H8269 the_H0853 city_H5892, and_H5869 they_H0834 helped_H5826 him_H0853. 
+@4 Then_H0853 many_H7227 people_H5971 gathered_H6908 together_H6908 and_H0935 they_H0559 stopped_H5640 all_H3605 the_H3605 springs_H4599 and_H0935 the_H3605 brook_H5158 that_H3605 flowed_H7857 through_H8432 the_H3605 middle_H8432 of_H4428 the_H3605 land_H0776, saying_H0559, “Why_H4100 should_H4100 the_H3605 kings_H4428 of_H4428 Assyria_H0804 come_H0935, and_H0935 find_H4672 abundant_H7227 water_H4325?” 
 
-@5 He took courage, built up all the wall that was broken down, and raised it up to the towers, with the other wall outside, and strengthened Millo in David’s city, and made weapons and shields in abundance. 
-@6 He set captains of war over the people, gathered them together to him in the wide place at the gate of the city, and spoke encouragingly to them, saying, 
-@7 “Be strong and courageous. Don’t be afraid or dismayed because of the king of Assyria, nor for all the multitude who is with him; for there is a greater one with us than with him. 
-@8 An arm of flesh is with him, but Yahweh our God is with us to help us and to fight our battles.” The people rested themselves on the words of Hezekiah king of Judah.
+@5 He_H6213 took_H2388 courage_H2388, built_H1129 up_H5927 all_H3605 the_H3605 wall_H2346 that_H3605 was_H1732 broken_H6555 down_H6555, and_H1732 raised_H5927 it_H5921 up_H5927 to_H5921 the_H3605 towers_H4026, with_H5921 the_H3605 other_H0312 wall_H2346 outside_H2351, and_H1732 strengthened_H2388 Millo_H4407 in_H5921 David’s_H1732 city_H5892, and_H1732 made_H6213 weapons_H7973 and_H1732 shields_H4043 in_H5921 abundance_H7230. 
+@6 He_H5414 set_H5414 captains_H8269 of_H8269 war_H4421 over_H5921 the_H0559 people_H5971, gathered_H6908 them_H0413 together_H6908 to_H0413 him_H0413 in_H5921 the_H0559 wide place_H5414 at_H0413 the_H0559 gate_H8179 of_H8269 the_H0559 city_H5892, and_H8269 spoke_H1696 encouragingly to_H0413 them_H0413, saying_H0559, 
+@7 “Be_H0408 strong_H2388 and_H4428 courageous_H0553. Don’t_H0408 be_H0408 afraid_H3372 or_H0408 dismayed_H2865 because_H3588 of_H4428 the_H3605 king_H4428 of_H4428 Assyria_H0804, nor_H0408 for_H3588 all_H3605 the_H3605 multitude_H1995 who_H0834 is_H0834 with_H5973 him_H6440; for_H3588 there_H3605 is_H0834 a_H3588 greater_H7227 one_H3605 with_H5973 us_H3588 than_H1995 with_H5973 him_H6440. 
+@8 An_H3068 arm_H2220 of_H4428 flesh_H1320 is_H3068 with_H5973 him_H5921, but_H4428 Yahweh_H3068 our_H3068 God_H0430 is_H3068 with_H5973 us_H5921 to_H5921 help_H5826 us_H5921 and_H3068 to_H5921 fight_H3898 our_H3068 battles_H4421.” The_H5921 people_H5971 rested_H5564 themselves_H5921 on_H5921 the_H5921 words_H1697 of_H4428 Hezekiah_H2396 king_H4428 of_H4428 Judah_H3063.
 
 ## Sennacherib's request to hand over the city to Lachish
-@9 After this, Sennacherib king of Assyria sent his servants to Jerusalem, (now he was attacking Lachish, and all his forces were with him), to Hezekiah king of Judah, and to all Judah who were at Jerusalem, saying, 
-@10 Sennacherib king of Assyria says, “In whom do you trust, that you remain under siege in Jerusalem? 
-@11 Doesn’t Hezekiah persuade you to give you over to die by famine and by thirst, saying, ‘Yahweh our God will deliver us out of the hand of the king of Assyria?’ 
-@12 Hasn’t the same Hezekiah taken away his high places and his altars, and commanded Judah and Jerusalem, saying, ‘You shall worship before one altar, and you shall burn incense on it?’ 
-@13 Don’t you know what I and my fathers have done to all the peoples of the lands? Were the gods of the nations of those lands in any way able to deliver their land out of my hand? 
-@14 Who was there among all the gods of those nations which my fathers utterly destroyed that could deliver his people out of my hand, that your God should be able to deliver you out of my hand? 
-@15 Now therefore don’t let Hezekiah deceive you nor persuade you in this way. Don’t believe him, for no god of any nation or kingdom was able to deliver his people out of my hand, and out of the hand of my fathers. How much less will your God deliver you out of my hand?”
+@9 After_H0310 this_H2088, Sennacherib_H5576 king_H4428 of_H4428 Assyria_H0804 sent_H7971 his_H3605 servants_H5650 to_H0559 Jerusalem_H3389, (now_H2088 he_H0834 was_H0834 attacking Lachish_H3923, and_H3063 all_H3605 his_H3605 forces_H4475 were_H0834 with_H5973 him_H5921), to_H0559 Hezekiah_H2396 king_H4428 of_H4428 Judah_H3063, and_H3063 to_H0559 all_H3605 Judah_H3063 who_H0834 were_H0834 at_H5921 Jerusalem_H3389, saying_H0559, 
+@10 Sennacherib_H5576 king_H4428 of_H4428 Assyria_H0804 says_H0559, “In_H3427 whom do_H4100 you_H0859 trust_H0982, that_H0559 you_H0859 remain_H3427 under_H5921 siege_H4692 in_H3427 Jerusalem_H3389? 
+@11 Doesn’t_H3808 Hezekiah_H2396 persuade you_H5414 to_H0559 give_H5414 you_H5414 over_H5414 to_H0559 die_H4191 by_H3068 famine_H7458 and_H3068 by_H3068 thirst_H6772, saying_H0559, ‘Yahweh_H3068 our_H3068 God_H0430 will_H3068 deliver_H5337 us_H5414 out_H0853 of_H4428 the_H0853 hand_H3709 of_H4428 the_H0853 king_H4428 of_H4428 Assyria_H0804?’ 
+@12 Hasn’t_H3808 the_H0853 same_H1931 Hezekiah_H2396 taken_H5493 away_H5493 his_H5921 high_H1116 places_H1116 and_H3063 his_H5921 altars_H4196, and_H3063 commanded_H0559 Judah_H3063 and_H3063 Jerusalem_H3389, saying_H0559, ‘You_H6440 shall_H3808 worship_H7812 before_H6440 one_H0259 altar_H4196, and_H3063 you_H6440 shall_H3808 burn_H6999 incense_H6999 on_H5921 it_H1931?’ 
+@13 Don’t_H3808 you_H3605 know_H3045 what_H4100 I_H0589 and_H0430 my_H3605 fathers_H0001 have_H0001 done_H6213 to_H3201 all_H3605 the_H3605 peoples_H5971 of_H0776 the_H3605 lands_H0776? Were_H3027 the_H3605 gods_H0430 of_H0776 the_H3605 nations_H1471 of_H0776 those_H3605 lands_H0776 in_H0430 any_H3605 way_H3605 able_H3201 to_H3201 deliver_H5337 their_H3605 land_H0776 out_H3045 of_H0776 my_H3605 hand_H3027? 
+@14 Who_H0834 was_H0834 there_H3605 among_H4310 all_H3605 the_H3605 gods_H0430 of_H0430 those_H0428 nations_H1471 which_H0834 my_H3605 fathers_H0001 utterly destroyed that_H0834 could_H3201 deliver_H5337 his_H3605 people_H5971 out_H3605 of_H0430 my_H3605 hand_H3027, that_H0834 your_H3605 God_H0430 should_H3588 be_H3027 able_H3201 to_H3201 deliver_H5337 you_H0834 out_H3605 of_H0430 my_H3605 hand_H3027? 
+@15 Now_H6258 therefore_H6258 don’t_H0408 let_H0408 Hezekiah_H2396 deceive_H5377 you_H3588 nor_H3808 persuade you_H3588 in_H0430 this_H2063 way_H2063. Don’t_H0408 believe_H0539 him_H0853, for_H3588 no_H3808 god_H0430 of_H0430 any_H3605 nation_H1471 or_H3808 kingdom_H4467 was_H0430 able_H3201 to_H3201 deliver_H5337 his_H3605 people_H5971 out_H3605 of_H0430 my_H3605 hand_H3027, and_H0430 out_H3605 of_H0430 the_H3605 hand_H3027 of_H0430 my_H3605 fathers_H0001. How_H0637 much_H0637 less_H0637 will_H0430 your_H3605 God_H0430 deliver_H5337 you_H3588 out_H3605 of_H0430 my_H3605 hand_H3027?”
 
 ## Sennacherib and the arrogance of his ambassadors
-@16 His servants spoke yet more against Yahweh God and against his servant Hezekiah. 
-@17 He also wrote letters insulting Yahweh, the God of Israel, and speaking against him, saying, “As the gods of the nations of the lands, which have not delivered their people out of my hand, so shall the God of Hezekiah not deliver his people out of my hand.” 
-@18 They called out with a loud voice in the Jews’ language to the people of Jerusalem who were on the wall, to frighten them and to trouble them, that they might take the city. 
-@19 They spoke of the God of Jerusalem as of the gods of the peoples of the earth, which are the work of men’s hands.
+@16 His_H5921 servants_H5650 spoke_H1696 yet_H5750 more_H5750 against_H5921 Yahweh_H3068 God_H0430 and_H3068 against_H5921 his_H5921 servant_H5650 Hezekiah_H2396. 
+@17 He_H0834 also_H3068 wrote_H3789 letters_H5612 insulting Yahweh_H3068, the_H0559 God_H0430 of_H0776 Israel_H3478, and_H3068 speaking_H0559 against_H5921 him_H5921, saying_H0559, “As_H0834 the_H0559 gods_H0430 of_H0776 the_H0559 nations_H1471 of_H0776 the_H0559 lands_H0776, which_H0834 have_H0834 not_H3808 delivered_H5337 their_H3068 people_H5971 out_H5921 of_H0776 my_H3068 hand_H3027, so_H3651 shall_H3068 the_H0559 God_H0430 of_H0776 Hezekiah_H2396 not_H3808 deliver_H5337 his_H5921 people_H5971 out_H5921 of_H0776 my_H3068 hand_H3027.” 
+@18 They_H0834 called_H7121 out_H5921 with_H5921 a_H7121 loud_H1419 voice_H6963 in_H5921 the_H0853 Jews’ language_H3066 to_H5921 the_H0853 people_H5971 of_H6963 Jerusalem_H3389 who_H0834 were_H0834 on_H5921 the_H0853 wall_H2346, to_H5921 frighten them_H0853 and_H1419 to_H5921 trouble them_H0853, that_H0834 they_H0834 might_H4616 take_H3920 the_H0853 city_H5892. 
+@19 They_H5921 spoke_H1696 of_H0776 the_H5921 God_H0430 of_H0776 Jerusalem_H3389 as_H0776 of_H0776 the_H5921 gods_H0430 of_H0776 the_H5921 peoples_H5971 of_H0776 the_H5921 earth_H0776, which are_H3027 the_H5921 work_H4639 of_H0776 men’s_H0120 hands_H3027.
 
 ## Prayer of Hezekiah; God's Help: Sennacherib's Destruction, Retirement, and Death
-@20 Hezekiah the king and Isaiah the prophet, the son of Amoz, prayed because of this, and cried to heaven. 
+@20 Hezekiah_H2396 the_H5921 king_H4428 and_H1121 Isaiah_H3470 the_H5921 prophet_H5030, the_H5921 son_H1121 of_H1121 Amoz_H0531, prayed_H6419 because_H5921 of_H1121 this_H2063, and_H1121 cried_H2199 to_H5921 heaven_H8064. 
 
-@21 Yahweh sent an angel, who cut off all the mighty men of valor, the leaders, and captains in the camp of the king of Assyria. So he returned with shame of face to his own land. When he had come into the house of his god, those who came out of his own body^a^ killed him there with the sword. 
-@22 Thus Yahweh saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib the king of Assyria and from the hand of all others, and guided them on every side. 
-@23 Many brought gifts to Yahweh to Jerusalem, and precious things to Hezekiah king of Judah, so that he was exalted in the sight of all nations from then on. 
+@21 Yahweh_H3068 sent_H7971 an_H8033 angel_H4397, who_H3605 cut_H3582 off_H3582 all_H3605 the_H3605 mighty_H1368 men_H1368 of_H4428 valor_H2428, the_H3605 leaders_H8269, and_H0935 captains_H8269 in_H0935 the_H3605 camp_H4264 of_H4428 the_H3605 king_H4428 of_H4428 Assyria_H0804. So_H7971 he_H8033 returned_H7725 with_H1004 shame_H1322 of_H4428 face_H6440 to_H0935 his_H3605 own_H6440 land_H0776. When_H0935 he_H8033 had_H3068 come_H0935 into_H0935 the_H3605 house_H1004 of_H4428 his_H3605 god_H0430, those_H3605 who_H3605 came_H0935 out_H7971 of_H4428 his_H3605 own_H6440 body_H4578^a^ killed_H2719 him_H7971 there_H8033 with_H1004 the_H3605 sword_H2719. 
+@22 Thus Yahweh_H3068 saved_H3467 Hezekiah_H2396 and_H3068 the_H3605 inhabitants_H3427 of_H4428 Jerusalem_H3389 from_H3027 the_H3605 hand_H3027 of_H4428 Sennacherib_H5576 the_H3605 king_H4428 of_H4428 Assyria_H0804 and_H3068 from_H3027 the_H3605 hand_H3027 of_H4428 all_H3605 others, and_H3068 guided_H5095 them_H0853 on_H3427 every_H3605 side_H5439. 
+@23 Many_H7227 brought_H0935 gifts_H4503 to_H0935 Yahweh_H3068 to_H0935 Jerusalem_H3389, and_H0935 precious_H4030 things_H3605 to_H0935 Hezekiah_H2396 king_H4428 of_H4428 Judah_H3063, so_H3651 that_H3605 he_H0310 was_H3068 exalted_H5375 in_H0935 the_H3605 sight_H5869 of_H4428 all_H3605 nations_H1471 from_H0935 then_H3651 on_H0935. 
 ^a^[**32:21** i. e., his own sons]
 
 ## Hezekiah's illness, arrogance and penance
-@24 In those days Hezekiah was terminally ill, and he prayed to Yahweh; and he spoke to him, and gave him a sign. 
-@25 But Hezekiah didn’t reciprocate appropriate to the benefit done for him, because his heart was lifted up. Therefore there was wrath on him, Judah, and Jerusalem. 
-@26 However, Hezekiah humbled himself for the pride of his heart, both he and the inhabitants of Jerusalem, so that Yahweh’s wrath didn’t come on them in the days of Hezekiah.
+@24 In_H0413 those_H1992 days_H3117 Hezekiah_H2396 was_H3068 terminally ill, and_H3068 he_H5704 prayed_H6419 to_H0413 Yahweh_H3068; and_H3068 he_H5704 spoke_H0559 to_H0413 him_H0413, and_H3068 gave_H5414 him_H0413 a_H5414 sign_H4159. 
+@25 But_H3588 Hezekiah_H2396 didn’t_H3808 reciprocate appropriate to_H7725 the_H5921 benefit_H1576 done_H1961 for_H3588 him_H5921, because_H3588 his_H5921 heart_H3820 was_H1961 lifted up_H5921. Therefore_H1961 there_H1961 was_H1961 wrath_H7110 on_H5921 him_H5921, Judah_H3063, and_H3063 Jerusalem_H3389. 
+@26 However, Hezekiah_H2396 humbled_H3665 himself_H1931 for_H5921 the_H5921 pride_H1363 of_H3068 his_H5921 heart_H3820, both_H5921 he_H1931 and_H0935 the_H5921 inhabitants_H3427 of_H3068 Jerusalem_H3389, so_H3808 that_H3117 Yahweh’s_H3068 wrath_H7110 didn’t_H3808 come_H0935 on_H5921 them_H5921 in_H3427 the_H5921 days_H3117 of_H3068 Hezekiah_H2396.
 
 ## Hezekiah's wealth; Water supply to Jerusalem and temptation of the Babylonian embassy
-@27 Hezekiah had exceedingly great riches and honor. He provided himself with treasuries for silver, for gold, for precious stones, for spices, for shields, and for all kinds of valuable vessels; 
-@28 also storehouses for the increase of grain, new wine, and oil; and stalls for all kinds of animals, and flocks in folds. 
-@29 Moreover he provided for himself cities, and possessions of flocks and herds in abundance; for God had given him abundant possessions. 
-@30 This same Hezekiah also stopped the upper spring of the waters of Gihon, and brought them straight down on the west side of David’s city. Hezekiah prospered in all his works. 
+@27 Hezekiah_H2396 had_H1961 exceedingly_H3966 great_H3966 riches_H6239 and_H3701 honor_H3519. He_H6213 provided himself with_H3627 treasuries_H0214 for_H3605 silver_H3701, for_H3605 gold_H2091, for_H3605 precious_H3368 stones_H0068, for_H3605 spices_H1314, for_H3605 shields_H4043, and_H3701 for_H3605 all_H3605 kinds_H3627 of_H3627 valuable_H3368 vessels_H3627; 
+@28 also storehouses_H4543 for_H3605 the_H3605 increase_H8393 of_H3605 grain_H1715, new_H8492 wine_H8492, and_H0929 oil_H3323; and_H0929 stalls_H0723 for_H3605 all_H3605 kinds_H0929 of_H3605 animals_H0929, and_H0929 flocks_H5739 in_H3605 folds. 
+@29 Moreover he_H3588 provided_H5414 for_H3588 himself cities_H5892, and_H0430 possessions_H7399 of_H0430 flocks_H6629 and_H0430 herds_H1241 in_H0430 abundance_H7230; for_H3588 God_H0430 had_H0430 given_H5414 him_H5414 abundant_H7230 possessions_H7399. 
+@30 This_H1931 same_H1931 Hezekiah_H2396 also_H0853 stopped_H5640 the_H3605 upper_H5945 spring_H4161 of_H4325 the_H3605 waters_H4325 of_H4325 Gihon_H1521, and_H1732 brought them_H0853 straight_H3474 down_H4295 on_H3605 the_H3605 west_H4628 side_H4628 of_H4325 David’s_H1732 city_H5892. Hezekiah_H2396 prospered in_H4639 all_H3605 his_H3605 works_H4639. 
 
-@31 However, concerning the ambassadors of the princes of Babylon, who sent to him to inquire of the wonder that was done in the land, God left him to test him, that he might know all that was in his heart.
+@31 However, concerning_H5921 the_H3605 ambassadors of_H0776 the_H3605 princes_H8269 of_H0776 Babylon_H0894, who_H0834 sent_H7971 to_H1961 him_H5921 to_H1961 inquire_H1875 of_H0776 the_H3605 wonder_H4159 that_H0834 was_H1961 done_H1961 in_H5921 the_H3605 land_H0776, God_H0430 left_H5800 him_H5921 to_H1961 test_H5254 him_H5921, that_H0834 he_H0834 might_H0834 know_H3045 all_H3605 that_H0834 was_H1961 in_H5921 his_H3605 heart_H3824.
 
 ## Finish Hezekiah's story
-@32 Now the rest of the acts of Hezekiah and his good deeds, behold, they are written in the vision of Isaiah the prophet, the son of Amoz, in the book of the kings of Judah and Israel. 
-@33 Hezekiah slept with his fathers, and they buried him in the ascent to the tombs of the sons of David. All Judah and the inhabitants of Jerusalem honored him at his death. Manasseh his son reigned in his place. 
+@32 Now_H2005 the_H5921 rest_H3499 of_H1121 the_H5921 acts_H1697 of_H1121 Hezekiah_H2396 and_H1121 his_H5921 good_H2005 deeds_H1697, behold_H2005, they_H5921 are_H3478 written_H3789 in_H5921 the_H5921 vision_H2377 of_H1121 Isaiah_H3470 the_H5921 prophet_H5030, the_H5921 son_H1121 of_H1121 Amoz_H0531, in_H5921 the_H5921 book_H5612 of_H1121 the_H5921 kings_H4428 of_H1121 Judah_H3063 and_H1121 Israel_H3478. 
+@33 Hezekiah_H2396 slept_H7901 with_H5973 his_H3605 fathers_H0001, and_H1121 they_H3605 buried_H6912 him_H5973 in_H3427 the_H3605 ascent_H4608 to_H3389 the_H3605 tombs_H6913 of_H1121 the_H3605 sons_H1121 of_H1121 David_H1732. All_H3605 Judah_H3063 and_H1121 the_H3605 inhabitants_H3427 of_H1121 Jerusalem_H3389 honored him_H5973 at_H3427 his_H3605 death_H4194. Manasseh_H4519 his_H3605 son_H1121 reigned_H4427 in_H3427 his_H3605 place_H8478. 
 
 # 33 
 ## Manasseh king of Judah; manasseh idolatry
-@1 Manasseh was twelve years old when he began to reign, and he reigned fifty-five years in Jerusalem. 
-@2 He did that which was evil in Yahweh’s sight, after the abominations of the nations whom Yahweh cast out before the children of Israel. 
-@3 For he built again the high places which Hezekiah his father had broken down; and he raised up altars for the Baals, made Asheroth, and worshiped all the army of the sky, and served them. 
-@4 He built altars in Yahweh’s house, of which Yahweh said, “My name shall be in Jerusalem forever.” 
-@5 He built altars for all the army of the sky in the two courts of Yahweh’s house. 
-@6 He also made his children to pass through the fire in the valley of the son of Hinnom. He practiced sorcery, divination, and witchcraft, and dealt with those who had familiar spirits and with wizards. He did much evil in Yahweh’s sight, to provoke him to anger. 
-@7 He set the engraved image of the idol, which he had made, in God’s house, of which God said to David and to Solomon his son, “In this house, and in Jerusalem, which I have chosen out of all the tribes of Israel, I will put my name forever. 
-@8 I will not any more remove the foot of Israel from off the land which I have appointed for your fathers, if only they will observe to do all that I have commanded them, even all the law, the statutes, and the ordinances given by Moses.” 
-@9 Manasseh seduced Judah and the inhabitants of Jerusalem, so that they did more evil than did the nations whom Yahweh destroyed before the children of Israel. 
+@1 Manasseh_H4519 was_H1121 twelve_H6240 years_H8141 old_H1121 when_H1121 he_H3389 began to_H3389 reign_H4427, and_H1121 he_H3389 reigned_H4427 fifty-five_H2572 years_H8141 in_H8141 Jerusalem_H3389. 
+@2 He_H0834 did_H6213 that_H0834 which_H0834 was_H0834 evil_H7451 in_H3068 Yahweh’s_H3068 sight_H5869, after the_H6440 abominations_H8441 of_H1121 the_H6440 nations_H1471 whom_H0834 Yahweh_H3068 cast_H3423 out_H3423 before_H6440 the_H6440 children_H1121 of_H1121 Israel_H3478. 
+@3 For_H4196 he_H0834 built_H1129 again_H7725 the_H3605 high_H1116 places_H1116 which_H0834 Hezekiah_H2396 his_H3605 father_H0001 had_H0834 broken_H5422 down_H7812; and_H6965 he_H0834 raised_H6965 up_H6965 altars_H4196 for_H4196 the_H3605 Baals_H1168, made_H6213 Asheroth_H0842, and_H6965 worshiped_H7812 all_H3605 the_H3605 army_H6635 of_H0001 the_H3605 sky_H8064, and_H6965 served_H5647 them_H0853. 
+@4 He_H0834 built_H1129 altars_H4196 in_H3068 Yahweh’s_H3068 house_H1004, of_H1004 which_H0834 Yahweh_H3068 said_H0559, “My_H3068 name_H8034 shall_H3068 be_H1961 in_H3068 Jerusalem_H3389 forever_H5769.” 
+@5 He_H3068 built_H1129 altars_H4196 for_H1004 all_H3605 the_H3605 army_H6635 of_H1004 the_H3605 sky_H8064 in_H3068 the_H3605 two_H8147 courts of_H1004 Yahweh’s_H3068 house_H1004. 
+@6 He_H1931 also_H3068 made_H6213 his_H3068 children_H1121 to_H3068 pass_H5674 through_H5674 the_H0853 fire_H0784 in_H3068 the_H0853 valley_H1516 of_H1121 the_H0853 son_H1121 of_H1121 Hinnom_H2011. He_H1931 practiced_H3784 sorcery_H3784, divination_H5172, and_H1121 witchcraft, and_H1121 dealt with_H3068 those_H1121 who_H1931 had_H3068 familiar spirits and_H1121 with_H3068 wizards. He_H1931 did_H6213 much_H7235 evil_H7451 in_H3068 Yahweh’s_H3068 sight_H5869, to_H3068 provoke_H3707 him_H0853 to_H3068 anger_H3707. 
+@7 He_H0834 set_H7760 the_H3605 engraved image_H6459 of_H1121 the_H3605 idol_H6459, which_H0834 he_H0834 had_H0834 made_H6213, in_H0413 God’s_H0430 house_H1004, of_H1121 which_H0834 God_H0430 said_H0559 to_H0413 David_H1732 and_H1121 to_H0413 Solomon_H8010 his_H3605 son_H1121, “In_H0413 this_H2088 house_H1004, and_H1121 in_H0413 Jerusalem_H3389, which_H0834 I_H0834 have_H0834 chosen out_H0413 of_H1121 all_H3605 the_H3605 tribes_H7626 of_H1121 Israel_H3478, I_H0834 will_H0430 put_H7760 my_H3605 name_H8034 forever. 
+@8 I_H0834 will_H0834 not_H3808 any_H3605 more_H3254 remove_H5493 the_H3605 foot_H7272 of_H3027 Israel_H3478 from_H5493 off_H5921 the_H3605 land_H0127 which_H0834 I_H0834 have_H0834 appointed_H5975 for_H5921 your_H3605 fathers_H0001, if_H0518 only_H7535 they_H0834 will_H0834 observe_H8104 to_H5921 do_H6213 all_H3605 that_H0834 I_H0834 have_H0834 commanded_H6680 them_H0853, even_H3808 all_H3605 the_H3605 law_H8451, the_H3605 statutes_H2706, and_H3478 the_H3605 ordinances_H4941 given_H6680 by_H5921 Moses_H4872.” 
+@9 Manasseh_H4519 seduced_H8582 Judah_H3063 and_H1121 the_H0853 inhabitants_H3427 of_H1121 Jerusalem_H3389, so_H4480 that_H0834 they_H0834 did_H6213 more_H4480 evil_H7451 than_H4480 did_H6213 the_H0853 nations_H1471 whom_H0834 Yahweh_H3068 destroyed_H8045 before_H6440 the_H0853 children_H1121 of_H1121 Israel_H3478. 
 
-@10 Yahweh spoke to Manasseh and to his people, but they didn’t listen.
+@10 Yahweh_H3068 spoke_H1696 to_H0413 Manasseh_H4519 and_H3068 to_H0413 his_H3068 people_H5971, but_H3808 they_H3808 didn’t_H3808 listen_H7181.
 
 ## Manasseh's prisoner's tour of Babylon, his repentance and return home
-@11 Therefore Yahweh brought on them the captains of the army of the king of Assyria, who took Manasseh in chains, bound him with fetters, and carried him to Babylon. 
+@11 Therefore_H3068 Yahweh_H3068 brought_H0935 on_H5921 them_H0853 the_H0853 captains_H8269 of_H4428 the_H0853 army_H6635 of_H4428 the_H0853 king_H4428 of_H4428 Assyria_H0804, who_H0834 took_H3920 Manasseh_H4519 in_H5921 chains_H5178, bound_H0631 him_H5921 with_H3068 fetters_H5178, and_H0935 carried_H0935 him_H5921 to_H0935 Babylon_H0894. 
 
-@12 When he was in distress, he begged Yahweh his God, and humbled himself greatly before the God of his fathers. 
-@13 He prayed to him; and he was entreated by him, and heard his supplication, and brought him again to Jerusalem into his kingdom. Then Manasseh knew that Yahweh was God.
+@12 When_H3068 he_H0430 was_H3068 in_H0430 distress, he_H0430 begged Yahweh_H3068 his_H3068 God_H0430, and_H3068 humbled_H3665 himself_H3665 greatly_H3966 before_H6440 the_H0853 God_H0430 of_H0430 his_H3068 fathers_H0001. 
+@13 He_H1931 prayed_H6419 to_H0413 him_H0413; and_H3068 he_H1931 was_H3068 entreated_H6279 by_H0413 him_H0413, and_H3068 heard_H8085 his_H3068 supplication_H8467, and_H3068 brought_H7725 him_H0413 again_H7725 to_H0413 Jerusalem_H3389 into_H0413 his_H3068 kingdom_H4438. Then_H8085 Manasseh_H4519 knew_H3045 that_H3588 Yahweh_H3068 was_H3068 God_H0430.
 
 ## Manasseh building walls and efforts to eliminate idolatry
-@14 Now after this, he built an outer wall to David’s city on the west side of Gihon, in the valley, even to the entrance at the fish gate. He encircled Ophel with it, and raised it up to a very great height; and he put valiant captains in all the fortified cities of Judah. 
-@15 He took away the foreign gods and the idol out of Yahweh’s house, and all the altars that he had built in the mountain of Yahweh’s house and in Jerusalem, and cast them out of the city. 
-@16 He built up Yahweh’s altar, and offered sacrifices of peace offerings and of thanksgiving on it, and commanded Judah to serve Yahweh, the God of Israel. 
-@17 Nevertheless the people still sacrificed in the high places, but only to Yahweh their God. 
+@14 Now_H0935 after_H0310 this_H3651, he_H0310 built_H1129 an_H1129 outer_H2435 wall_H2346 to_H0935 David’s_H1732 city_H5892 on_H0935 the_H3605 west_H4628 side_H4628 of_H8269 Gihon_H1521, in_H0935 the_H3605 valley_H5158, even_H3651 to_H0935 the_H3605 entrance_H0935 at_H1732 the_H3605 fish_H1709 gate_H8179. He_H0310 encircled_H5437 Ophel_H6077 with_H0935 it_H7760, and_H0935 raised it_H7760 up_H1129 to_H0935 a_H1129 very_H3966 great_H3966 height; and_H0935 he_H0310 put_H7760 valiant_H2428 captains_H8269 in_H0935 all_H3605 the_H3605 fortified_H1219 cities_H5892 of_H8269 Judah_H3063. 
+@15 He_H0834 took_H5493 away_H5493 the_H3605 foreign_H5236 gods_H0430 and_H3068 the_H3605 idol_H5566 out_H7993 of_H1004 Yahweh’s_H3068 house_H1004, and_H3068 all_H3605 the_H3605 altars_H4196 that_H0834 he_H0834 had_H3068 built_H1129 in_H0430 the_H3605 mountain_H2022 of_H1004 Yahweh’s_H3068 house_H1004 and_H3068 in_H0430 Jerusalem_H3389, and_H3068 cast_H7993 them_H0853 out_H7993 of_H1004 the_H3605 city_H5892. 
+@16 He_H0430 built up_H5921 Yahweh’s_H3068 altar_H4196, and_H3068 offered_H2076 sacrifices_H2077 of_H0430 peace_H8002 offerings_H8002 and_H3068 of_H0430 thanksgiving_H8426 on_H5921 it_H5921, and_H3068 commanded_H0559 Judah_H3063 to_H0559 serve_H5647 Yahweh_H3068, the_H0853 God_H0430 of_H0430 Israel_H3478. 
+@17 Nevertheless_H0061 the_H3068 people_H5971 still_H5750 sacrificed_H2076 in_H0430 the_H3068 high_H1116 places_H1116, but_H7535 only_H7535 to_H3068 Yahweh_H3068 their_H3068 God_H0430. 
 
-@18 Now the rest of the acts of Manasseh, and his prayer to his God, and the words of the seers who spoke to him in the name of Yahweh, the God of Israel, behold, they are written among the acts of the kings of Israel. 
-@19 His prayer also, and how God listened to his request, and all his sin and his trespass, and the places in which he built high places and set up the Asherah poles and the engraved images before he humbled himself: behold, they are written in the history of Hozai.^a^
+@18 Now_H2005 the_H5921 rest_H3499 of_H4428 the_H5921 acts_H1697 of_H4428 Manasseh_H4519, and_H3068 his_H5921 prayer_H8605 to_H0413 his_H5921 God_H0430, and_H3068 the_H5921 words_H1697 of_H4428 the_H5921 seers_H2374 who_H3068 spoke_H1696 to_H0413 him_H0413 in_H5921 the_H5921 name_H8034 of_H4428 Yahweh_H3068, the_H5921 God_H0430 of_H4428 Israel_H3478, behold_H2005, they_H5921 are_H3478 written among_H5921 the_H5921 acts_H1697 of_H4428 the_H5921 kings_H4428 of_H4428 Israel_H3478. 
+@19 His_H3605 prayer_H8605 also_H0834, and_H6440 how_H0834 God listened_H6279 to_H5921 his_H3605 request_H1697, and_H6440 all_H3605 his_H3605 sin_H2403 and_H6440 his_H3605 trespass_H4604, and_H6440 the_H3605 places_H1116 in_H5921 which_H0834 he_H0834 built_H1129 high_H1116 places_H1116 and_H6440 set_H5975 up_H5975 the_H3605 Asherah_H0842 poles and_H6440 the_H3605 engraved_H6456 images_H6456 before_H6440 he_H0834 humbled_H3665 himself_H3665: behold_H2005, they_H0834 are_H0834 written_H3789 in_H5921 the_H3605 history of_H1697 Hozai_H2335.^a^
 
 ## Amun King of Judah
-@20 So Manasseh slept with his fathers, and they buried him in his own house; and Amon his son reigned in his place. 
+@20 So Manasseh_H4519 slept_H7901 with_H5973 his_H8478 fathers_H0001, and_H1121 they_H8478 buried_H6912 him_H5973 in_H1004 his_H8478 own_H5973 house_H1004; and_H1121 Amon_H0526 his_H8478 son_H1121 reigned_H4427 in_H1004 his_H8478 place_H8478. 
 ^a^[**33:19** or, the seers]
 
-@21 Amon was twenty-two years old when he began to reign; and he reigned two years in Jerusalem. 
-@22 He did that which was evil in Yahweh’s sight, as did Manasseh his father; and Amon sacrificed to all the engraved images which Manasseh his father had made, and served them. 
-@23 He didn’t humble himself before Yahweh, as Manasseh his father had humbled himself; but this same Amon trespassed more and more. 
-@24 His servants conspired against him, and put him to death in his own house. 
-@25 But the people of the land killed all those who had conspired against King Amon; and the people of the land made Josiah his son king in his place. 
+@21 Amon_H0526 was_H1121 twenty-two_H8147 years_H8141 old_H1121 when_H1121 he_H3389 began to_H3389 reign_H4427; and_H1121 he_H3389 reigned_H4427 two_H8147 years_H8141 in_H8141 Jerusalem_H3389. 
+@22 He_H0834 did_H6213 that_H0834 which_H0834 was_H0834 evil_H7451 in_H3068 Yahweh’s_H3068 sight_H5869, as_H0834 did_H6213 Manasseh_H4519 his_H3605 father_H0001; and_H3068 Amon_H0526 sacrificed_H2076 to_H3068 all_H3605 the_H3605 engraved_H6456 images_H6456 which_H0834 Manasseh_H4519 his_H3605 father_H0001 had_H3068 made_H6213, and_H3068 served_H5647 them_H5647. 
+@23 He_H1931 didn’t_H3808 humble_H3665 himself_H1931 before_H6440 Yahweh_H3068, as_H3068 Manasseh_H4519 his_H3068 father_H0001 had_H3068 humbled_H3665 himself_H1931; but_H3588 this_H1931 same_H1931 Amon_H0526 trespassed more_H3808 and_H3068 more_H3808. 
+@24 His_H5921 servants_H5650 conspired_H7194 against_H5921 him_H5921, and_H1004 put_H4191 him_H5921 to_H4191 death_H4191 in_H5921 his_H5921 own house_H1004. 
+@25 But_H5221 the_H3605 people_H5971 of_H1121 the_H3605 land_H0776 killed_H5221 all_H3605 those_H3605 who_H3605 had_H4428 conspired_H7194 against_H5921 King_H4428 Amon_H0526; and_H1121 the_H3605 people_H5971 of_H1121 the_H3605 land_H0776 made_H7194 Josiah_H2977 his_H3605 son_H1121 king_H4428 in_H5921 his_H3605 place_H8478. 
 
 # 34 
 ## King Josiah's rule
-@1 Josiah was eight years old when he began to reign, and he reigned thirty-one years in Jerusalem. 
-@2 He did that which was right in Yahweh’s eyes, and walked in the ways of David his father, and didn’t turn away to the right hand or to the left.
+@1 Josiah_H2977 was_H0259 eight_H8083 years_H8141 old_H1121 when_H1121 he_H3389 began to_H3389 reign_H4427, and_H1121 he_H3389 reigned_H4427 thirty-one years_H8141 in_H8141 Jerusalem_H3389. 
+@2 He_H6213 did_H6213 that_H3068 which_H5869 was_H3068 right_H3225 in_H3068 Yahweh’s_H3068 eyes_H5869, and_H3068 walked in_H3068 the_H3068 ways_H1870 of_H3068 David_H1732 his_H3068 father_H0001, and_H3068 didn’t_H3808 turn_H5493 away_H5493 to_H3068 the_H3068 right_H3225 hand_H3225 or_H3808 to_H3068 the_H3068 left_H8040.
 
 ## Pure Cult Restoration
-@3 For in the eighth year of his reign, while he was yet young, he began to seek after the God of David his father; and in the twelfth year he began to purge Judah and Jerusalem from the high places, the Asherah poles, the engraved images, and the molten images. 
-@4 They broke down the altars of the Baals in his presence; and he cut down the incense altars that were on high above them. He broke the Asherah poles, the engraved images, and the molten images in pieces, made dust of them, and scattered it on the graves of those who had sacrificed to them. 
-@5 He burned the bones of the priests on their altars, and purged Judah and Jerusalem. 
-@6 He did this in the cities of Manasseh, Ephraim, and Simeon, even to Naphtali, around in their ruins. 
-@7 He broke down the altars, beat the Asherah poles and the engraved images into powder, and cut down all the incense altars throughout all the land of Israel, then returned to Jerusalem.
+@3 For_H0430 in_H8141 the_H0853 eighth_H8083 year_H8141 of_H0430 his_H1732 reign_H4427, while_H5750 he_H1931 was_H1732 yet_H5750 young_H5288, he_H1931 began_H2490 to_H3389 seek_H1875 after_H4480 the_H0853 God_H0430 of_H0430 David_H1732 his_H1732 father_H0001; and_H3063 in_H8141 the_H0853 twelfth year_H8141 he_H1931 began_H2490 to_H3389 purge_H2891 Judah_H3063 and_H3063 Jerusalem_H3389 from_H4480 the_H0853 high_H1116 places_H1116, the_H0853 Asherah_H0842 poles, the_H0853 engraved_H6456 images_H6456, and_H3063 the_H0853 molten images_H6456. 
+@4 They_H0834 broke_H7665 down_H5422 the_H0853 altars_H4196 of_H6440 the_H0853 Baals_H1168 in_H5921 his_H5921 presence_H6440; and_H4196 he_H0834 cut_H1438 down_H5422 the_H0853 incense_H2553 altars_H4196 that_H0834 were_H0834 on_H5921 high_H4605 above_H5921 them_H0853. He_H0834 broke_H7665 the_H0853 Asherah_H0842 poles, the_H0853 engraved_H6456 images_H6456, and_H4196 the_H0853 molten images_H6456 in_H5921 pieces_H7665, made_H0834 dust of_H6440 them_H0853, and_H4196 scattered it_H5921 on_H5921 the_H0853 graves_H6913 of_H6440 those_H0834 who_H0834 had_H0834 sacrificed_H2076 to_H5921 them_H0853. 
+@5 He_H0853 burned_H8313 the_H0853 bones_H6106 of_H4196 the_H0853 priests_H3548 on_H5921 their_H5921 altars_H4196, and_H3063 purged_H2891 Judah_H3063 and_H3063 Jerusalem_H3389. 
+@6 He_H5704 did this in_H1004 the_H5704 cities_H5892 of_H1004 Manasseh_H4519, Ephraim_H0669, and_H1004 Simeon_H8095, even_H5704 to_H5704 Naphtali_H5321, around_H5439 in_H1004 their_H5439 ruins_H5892. 
+@7 He_H0853 broke_H5422 down_H5422 the_H3605 altars_H4196, beat_H3807 the_H3605 Asherah_H0842 poles and_H3478 the_H3605 engraved_H6456 images_H6456 into_H0776 powder_H1854, and_H3478 cut_H1438 down_H5422 all_H3605 the_H3605 incense_H2553 altars_H4196 throughout_H3605 all_H3605 the_H3605 land_H0776 of_H0776 Israel_H3478, then_H0853 returned_H7725 to_H7725 Jerusalem_H3389.
 
 ## Explain the procedures followed to restore and maintain the temple
-@8 Now in the eighteenth year of his reign, when he had purged the land and the house, he sent Shaphan the son of Azaliah, Maaseiah the governor of the city, and Joah the son of Joahaz the recorder to repair the house of Yahweh his God. 
-@9 They came to Hilkiah the high priest and delivered the money that was brought into God’s house, which the Levites, the keepers of the threshold, had gathered from the hands of Manasseh, Ephraim, of all the remnant of Israel, of all Judah and Benjamin, and of the inhabitants of Jerusalem. 
-@10 They delivered it into the hands of the workmen who had the oversight of Yahweh’s house; and the workmen who labored in Yahweh’s house gave it to mend and repair the house. 
-@11 They gave it to the carpenters and to the builders to buy cut stone and timber for couplings, and to make beams for the houses which the kings of Judah had destroyed. 
-@12 The men did the work faithfully. Their overseers were Jahath and Obadiah the Levites, of the sons of Merari; and Zechariah and Meshullam, of the sons of the Kohathites, to give direction; and others of the Levites, who were all skillful with musical instruments. 
-@13 Also they were over the bearers of burdens, and directed all who did the work in every kind of service. Of the Levites, there were scribes, officials, and gatekeepers.
+@8 Now in_H8141 the_H0853 eighteenth_H6240 year_H8141 of_H1121 his_H3068 reign_H4427, when_H7971 he_H0430 had_H3068 purged_H2891 the_H0853 land_H0776 and_H1121 the_H0853 house_H1004, he_H0430 sent_H7971 Shaphan_H8227 the_H0853 son_H1121 of_H1121 Azaliah_H0683, Maaseiah_H4641 the_H0853 governor_H8269 of_H1121 the_H0853 city_H5892, and_H1121 Joah_H3098 the_H0853 son_H1121 of_H1121 Joahaz_H3099 the_H0853 recorder_H2142 to_H3068 repair_H2388 the_H0853 house_H1004 of_H1121 Yahweh_H3068 his_H3068 God_H0430. 
+@9 They_H0834 came_H0935 to_H0413 Hilkiah_H2518 the_H3605 high_H1419 priest_H3548 and_H0935 delivered_H5414 the_H3605 money_H3701 that_H0834 was_H0834 brought_H0935 into_H0413 God’s_H0430 house_H1004, which_H0834 the_H3605 Levites_H3881, the_H3605 keepers_H8104 of_H1004 the_H3605 threshold, had_H0834 gathered_H0622 from_H0935 the_H3605 hands_H3027 of_H1004 Manasseh_H4519, Ephraim_H0669, of_H1004 all_H3605 the_H3605 remnant_H7611 of_H1004 Israel_H3478, of_H1004 all_H3605 Judah_H3063 and_H0935 Benjamin_H1144, and_H0935 of_H1004 the_H3605 inhabitants_H3427 of_H1004 Jerusalem_H3389. 
+@10 They_H0834 delivered_H5414 it_H5414 into_H5921 the_H0853 hands_H3027 of_H1004 the_H0853 workmen_H4399 who_H0834 had_H3068 the_H0853 oversight_H6485 of_H1004 Yahweh’s_H3068 house_H1004; and_H3068 the_H0853 workmen_H4399 who_H0834 labored in_H5921 Yahweh’s_H3068 house_H1004 gave_H5414 it_H5414 to_H5921 mend and_H3068 repair_H2388 the_H0853 house_H1004. 
+@11 They_H0834 gave_H5414 it_H5414 to_H5414 the_H0853 carpenters_H2796 and_H3063 to_H5414 the_H0853 builders_H1129 to_H5414 buy_H7069 cut stone_H0068 and_H3063 timber_H6086 for_H1004 couplings_H4226, and_H3063 to_H5414 make_H5414 beams_H6086 for_H1004 the_H0853 houses_H1004 which_H0834 the_H0853 kings_H4428 of_H4428 Judah_H3063 had_H0834 destroyed_H7843. 
+@12 The_H3605 men_H0376 did_H6213 the_H3605 work_H4399 faithfully_H0530. Their_H3605 overseers_H6485 were_H1121 Jahath_H3189 and_H1121 Obadiah_H5662 the_H3605 Levites_H3881, of_H1121 the_H3605 sons_H1121 of_H1121 Merari_H4847; and_H1121 Zechariah_H2148 and_H1121 Meshullam_H4918, of_H1121 the_H3605 sons_H1121 of_H1121 the_H3605 Kohathites_H6956, to_H5921 give_H0995 direction; and_H1121 others of_H1121 the_H3605 Levites_H3881, who_H3605 were_H1121 all_H3605 skillful_H0995 with_H5921 musical_H3627 instruments_H3627. 
+@13 Also_H6213 they_H5921 were_H3881 over_H5921 the_H3605 bearers_H5449 of_H5921 burdens, and_H3881 directed all_H3605 who_H3605 did_H6213 the_H3605 work_H4399 in_H5921 every_H3605 kind_H5656 of_H5921 service_H5656. Of_H5921 the_H3605 Levites_H3881, there_H3605 were_H3881 scribes_H5608, officials_H7860, and_H3881 gatekeepers_H7778.
 
 ## Report on the discovery of the code and its first effect
-@14 When they brought out the money that was brought into Yahweh’s house, Hilkiah the priest found the book of Yahweh’s law given by Moses. 
-@15 Hilkiah answered Shaphan the scribe, “I have found the book of the law in Yahweh’s house.” So Hilkiah delivered the book to Shaphan. 
+@14 When_H0935 they_H3068 brought_H0935 out_H3318 the_H0853 money_H3701 that_H3068 was_H3068 brought_H0935 into_H0935 Yahweh’s_H3068 house_H1004, Hilkiah_H2518 the_H0853 priest_H3548 found_H4672 the_H0853 book_H5612 of_H1004 Yahweh’s_H3068 law_H8451 given_H3027 by_H3027 Moses_H4872. 
+@15 Hilkiah_H2518 answered_H0559 Shaphan_H8227 the_H0853 scribe_H5608, “I_H5414 have_H4672 found_H4672 the_H0853 book_H5612 of_H1004 the_H0853 law_H8451 in_H0413 Yahweh’s_H3068 house_H1004.” So_H5414 Hilkiah_H2518 delivered_H5414 the_H0853 book_H5612 to_H0413 Shaphan_H8227. 
 
-@16 Shaphan carried the book to the king, and moreover brought back word to the king, saying, “All that was committed to your servants, they are doing. 
-@17 They have emptied out the money that was found in Yahweh’s house, and have delivered it into the hand of the overseers and into the hand of the workmen.” 
-@18 Shaphan the scribe told the king, saying, “Hilkiah the priest has delivered me a book.” Shaphan read from it to the king. 
+@16 Shaphan_H8227 carried_H0935 the_H3605 book_H5612 to_H0413 the_H3605 king_H4428, and_H0935 moreover_H5750 brought_H0935 back_H7725 word_H1697 to_H0413 the_H3605 king_H4428, saying_H0559, “All_H3605 that_H0834 was_H0834 committed_H6213 to_H0413 your_H3605 servants_H5650, they_H1992 are_H0834 doing_H6213. 
+@17 They_H5921 have_H4672 emptied_H5413 out_H5921 the_H0853 money_H3701 that_H3068 was_H3068 found_H4672 in_H5921 Yahweh’s_H3068 house_H1004, and_H3068 have_H4672 delivered_H5414 it_H5414 into_H5921 the_H0853 hand_H3027 of_H1004 the_H0853 overseers_H6485 and_H3068 into_H5921 the_H0853 hand_H3027 of_H1004 the_H0853 workmen_H4399.” 
+@18 Shaphan_H8227 the_H0559 scribe_H5608 told_H5046 the_H0559 king_H4428, saying_H0559, “Hilkiah_H2518 the_H0559 priest_H3548 has_H4428 delivered_H5414 me_H5414 a_H5414 book_H5612.” Shaphan_H8227 read_H7121 from_H6440 it_H5414 to_H0559 the_H0559 king_H4428. 
 
-@19 When the king had heard the words of the law, he tore his clothes. 
-@20 The king commanded Hilkiah, Ahikam the son of Shaphan, Abdon the son of Micah, Shaphan the scribe, and Asaiah the king’s servant, saying, 
-@21 “Go inquire of Yahweh for me, and for those who are left in Israel and in Judah, concerning the words of the book that is found; for great is Yahweh’s wrath that is poured out on us, because our fathers have not kept Yahweh’s word, to do according to all that is written in this book.”
+@19 When_H1961 the_H0853 king_H4428 had_H1961 heard_H8085 the_H0853 words_H1697 of_H4428 the_H0853 law_H8451, he_H0853 tore_H7167 his_H8085 clothes_H0899. 
+@20 The_H0853 king_H4428 commanded_H6680 Hilkiah_H2518, Ahikam_H0296 the_H0853 son_H1121 of_H1121 Shaphan_H8227, Abdon_H5658 the_H0853 son_H1121 of_H1121 Micah_H4318, Shaphan_H8227 the_H0853 scribe_H5608, and_H1121 Asaiah_H6222 the_H0853 king’s_H4428 servant_H5650, saying_H0559, 
+@21 “Go inquire_H1875 of_H3068 Yahweh_H3068 for_H3588 me_H5921, and_H3068 for_H3588 those_H3605 who_H0834 are_H0834 left_H7604 in_H5921 Israel_H3478 and_H3068 in_H5921 Judah_H3063, concerning_H5921 the_H3605 words_H1697 of_H3068 the_H3605 book_H5612 that_H0834 is_H0834 found_H4672; for_H3588 great_H1419 is_H0834 Yahweh’s_H3068 wrath_H2534 that_H0834 is_H0834 poured_H5413 out_H5921 on_H5921 us_H5921, because_H3588 our_H3068 fathers_H0001 have_H0834 not_H3808 kept_H8104 Yahweh’s_H3068 word_H1697, to_H5921 do_H6213 according_H5921 to_H5921 all_H3605 that_H0834 is_H0834 written_H3789 in_H5921 this_H2088 book_H5612.”
 
 ## Interrogation and response of the prophetess Hulda
-@22 So Hilkiah and those whom the king had commanded went to Huldah the prophetess, the wife of Shallum the son of Tokhath, the son of Hasrah, keeper of the wardrobe (now she lived in Jerusalem in the second quarter), and they spoke to her to that effect. 
+@22 So_H0834 Hilkiah_H2518 and_H1121 those_H0834 whom_H0834 the_H0834 king_H4428 had_H0834 commanded_H1696 went_H0413 to_H0413 Huldah_H2468 the_H0834 prophetess_H5031, the_H0834 wife_H0802 of_H1121 Shallum_H7967 the_H0834 son_H1121 of_H1121 Tokhath_H8445, the_H0834 son_H1121 of_H1121 Hasrah_H2641, keeper_H8104 of_H1121 the_H0834 wardrobe (now_H1696 she_H1931 lived_H3427 in_H3427 Jerusalem_H3389 in_H3427 the_H0834 second_H4932 quarter), and_H1121 they_H0834 spoke_H1696 to_H0413 her_H0413 to_H0413 that_H0834 effect. 
 
-@23 She said to them, “Yahweh, the God of Israel says: ‘Tell the man who sent you to me, 
-@24 “Yahweh says, ‘Behold, I will bring evil on this place and on its inhabitants, even all the curses that are written in the book which they have read before the king of Judah. 
-@25 Because they have forsaken me, and have burned incense to other gods, that they might provoke me to anger with all the works of their hands, therefore my wrath is poured out on this place, and it will not be quenched.’”’ 
-@26 But to the king of Judah, who sent you to inquire of Yahweh, you shall tell him this, ‘Yahweh, the God of Israel says: “About the words which you have heard, 
-@27 because your heart was tender, and you humbled yourself before God when you heard his words against this place and against its inhabitants, and have humbled yourself before me, and have torn your clothes and wept before me, I also have heard you,” says Yahweh. 
-@28 “Behold, I will gather you to your fathers, and you will be gathered to your grave in peace. Your eyes won’t see all the evil that I will bring on this place and on its inhabitants.”’” 
+@23 She_H0834 said_H0559 to_H0413 them_H0413, “Yahweh_H3068, the_H0853 God_H0430 of_H0376 Israel_H3478 says_H0559: ‘Tell_H0559 the_H0853 man_H0376 who_H0834 sent_H7971 you_H0834 to_H0413 me_H0413, 
+@24 “Yahweh_H3068 says_H0559, ‘Behold_H2005, I_H0834 will_H3068 bring_H0935 evil_H7451 on_H5921 this_H2088 place_H4725 and_H0935 on_H5921 its_H3605 inhabitants_H3427, even_H0853 all_H3605 the_H3605 curses_H0423 that_H0834 are_H0834 written_H3789 in_H3427 the_H3605 book_H5612 which_H0834 they_H0834 have_H0834 read_H7121 before_H6440 the_H3605 king_H4428 of_H4428 Judah_H3063. 
+@25 Because_H0834 they_H0834 have_H0834 forsaken me_H3707, and_H0430 have_H0834 burned_H6999 incense_H6999 to_H3027 other_H0312 gods_H0430, that_H0834 they_H0834 might_H4616 provoke_H3707 me_H3707 to_H3027 anger_H3707 with_H3027 all_H3605 the_H3605 works_H4639 of_H0430 their_H3605 hands_H3027, therefore_H4616 my_H3605 wrath_H2534 is_H0834 poured_H5413 out_H3605 on_H3027 this_H2088 place_H4725, and_H0430 it_H0834 will_H0430 not_H3808 be_H3808 quenched_H3518.’”’ 
+@26 But_H8085 to_H0413 the_H0853 king_H4428 of_H4428 Judah_H3063, who_H0834 sent_H7971 you_H0834 to_H0413 inquire_H1875 of_H4428 Yahweh_H3068, you_H0834 shall_H3068 tell_H0559 him_H0413 this_H3541, ‘Yahweh_H3068, the_H0853 God_H0430 of_H4428 Israel_H3478 says_H0559: “About_H0413 the_H0853 words_H1697 which_H0834 you_H0834 have_H0834 heard_H8085, 
+@27 because_H5921 your_H3068 heart_H3824 was_H3068 tender_H7401, and_H3068 you_H6440 humbled_H3665 yourself_H3665 before_H6440 God_H0430 when_H8085 you_H6440 heard_H8085 his_H5921 words_H1697 against_H5921 this_H2088 place_H4725 and_H3068 against_H5921 its_H0853 inhabitants_H3427, and_H3068 have_H1571 humbled_H3665 yourself_H3665 before_H6440 me_H6440, and_H3068 have_H1571 torn_H7167 your_H3068 clothes_H0899 and_H3068 wept_H1058 before_H6440 me_H6440, I_H0589 also_H1571 have_H1571 heard_H8085 you_H6440,” says_H5002 Yahweh_H3068. 
+@28 “Behold_H2005, I_H0589 will_H0834 gather_H0622 you_H0834 to_H0413 your_H3605 fathers_H0001, and_H0935 you_H0834 will_H0834 be_H3808 gathered_H0622 to_H0413 your_H3605 grave_H6913 in_H3427 peace_H7965. Your_H3605 eyes_H5869 won’t_H3808 see_H7200 all_H3605 the_H3605 evil_H7451 that_H0834 I_H0589 will_H0834 bring_H0935 on_H5921 this_H2088 place_H4725 and_H0935 on_H5921 its_H3605 inhabitants_H3427.”’” 
 
-They brought back this message to the king.
+They_H0834 brought_H0935 back_H7725 this_H2088 message_H1697 to_H0413 the_H3605 king_H4428.
 
 ## Josiah concludes God's new covenant in partnership with the elders of the people
-@29 Then the king sent and gathered together all the elders of Judah and Jerusalem. 
-@30 The king went up to Yahweh’s house with all the men of Judah and the inhabitants of Jerusalem—the priests, the Levites, and all the people, both great and small—and he read in their hearing all the words of the book of the covenant that was found in Yahweh’s house. 
-@31 The king stood in his place and made a covenant before Yahweh, to walk after Yahweh, and to keep his commandments, his testimonies, and his statutes with all his heart and with all his soul, to perform the words of the covenant that were written in this book. 
-@32 He caused all who were found in Jerusalem and Benjamin to stand. The inhabitants of Jerusalem did according to the covenant of God, the God of their fathers. 
-@33 Josiah took away all the abominations out of all the countries that belonged to the children of Israel, and made all who were found in Israel to serve, even to serve Yahweh their God. All his days they didn’t depart from following Yahweh, the God of their fathers. 
+@29 Then_H0853 the_H3605 king_H4428 sent_H7971 and_H3063 gathered_H0622 together_H0622 all_H3605 the_H3605 elders_H2205 of_H4428 Judah_H3063 and_H3063 Jerusalem_H3389. 
+@30 The_H3605 king_H4428 went_H5927 up_H5927 to_H5704 Yahweh’s_H3068 house_H1004 with_H1004 all_H3605 the_H3605 men_H0376 of_H4428 Judah_H3063 and_H3068 the_H3605 inhabitants_H3427 of_H4428 Jerusalem_H3389—the_H3605 priests_H3548, the_H3605 Levites_H3881, and_H3068 all_H3605 the_H3605 people_H5971, both_H3605 great_H1419 and_H3068 small_H6996—and_H3068 he_H5704 read_H7121 in_H3427 their_H3605 hearing_H0241 all_H3605 the_H3605 words_H1697 of_H4428 the_H3605 book_H5612 of_H4428 the_H3605 covenant_H1285 that_H3605 was_H3068 found_H4672 in_H3427 Yahweh’s_H3068 house_H1004. 
+@31 The_H3605 king_H4428 stood_H5975 in_H5921 his_H3605 place_H5977 and_H3068 made_H6213 a_H3772 covenant_H1285 before_H6440 Yahweh_H3068, to_H5921 walk after_H0310 Yahweh_H3068, and_H3068 to_H5921 keep_H8104 his_H3605 commandments_H4687, his_H3605 testimonies_H5715, and_H3068 his_H3605 statutes_H2706 with_H3068 all_H3605 his_H3605 heart_H3824 and_H3068 with_H3068 all_H3605 his_H3605 soul_H5315, to_H5921 perform_H8104 the_H3605 words_H1697 of_H4428 the_H3605 covenant_H1285 that_H3605 were_H1697 written_H3789 in_H5921 this_H2088 book_H5612. 
+@32 He_H6213 caused_H0430 all_H3605 who_H3605 were_H1144 found_H4672 in_H3427 Jerusalem_H3389 and_H0430 Benjamin_H1144 to_H3389 stand_H5975. The_H3605 inhabitants_H3427 of_H0430 Jerusalem_H3389 did_H6213 according to_H3389 the_H3605 covenant_H1285 of_H0430 God_H0430, the_H3605 God_H0430 of_H0430 their_H3605 fathers_H0001. 
+@33 Josiah_H2977 took_H5493 away_H5493 all_H3605 the_H3605 abominations_H8441 out_H3605 of_H1121 all_H3605 the_H3605 countries_H0776 that_H0834 belonged to_H3068 the_H3605 children_H1121 of_H1121 Israel_H3478, and_H1121 made_H3605 all_H3605 who_H0834 were_H0834 found_H4672 in_H0430 Israel_H3478 to_H3068 serve_H5647, even_H3808 to_H3068 serve_H5647 Yahweh_H3068 their_H3605 God_H0430. All_H3605 his_H3605 days_H3117 they_H0834 didn’t_H3808 depart_H5493 from_H5493 following_H0310 Yahweh_H3068, the_H3605 God_H0430 of_H1121 their_H3605 fathers_H0001. 
 
 # 35 
 ## The strict celebration of Josiah's Passover
-@1 Josiah kept a Passover to Yahweh in Jerusalem. They killed the Passover on the fourteenth day of the first month. 
-@2 He set the priests in their offices and encouraged them in the service of Yahweh’s house. 
-@3 He said to the Levites who taught all Israel, who were holy to Yahweh, “Put the holy ark in the house which Solomon the son of David king of Israel built. It will no longer be a burden on your shoulders. Now serve Yahweh your God and his people Israel. 
-@4 Prepare yourselves after your fathers’ houses by your divisions, according to the writing of David king of Israel, and according to the writing of Solomon his son. 
-@5 Stand in the holy place according to the divisions of the fathers’ houses of your brothers the children of the people, and let there be for each a portion of a fathers’ house of the Levites. 
-@6 Kill the Passover lamb, sanctify yourselves, and prepare for your brothers, to do according to Yahweh’s word by Moses.” 
+@1 Josiah_H2977 kept_H6213 a_H3068 Passover_H6453 to_H3068 Yahweh_H3068 in_H3068 Jerusalem_H3389. They_H3068 killed_H7819 the_H3068 Passover_H6453 on_H3068 the_H3068 fourteenth day_H2320 of_H3068 the_H3068 first_H7223 month_H2320. 
+@2 He_H3068 set_H5975 the_H5921 priests_H3548 in_H5921 their_H3068 offices_H4931 and_H3068 encouraged_H2388 them_H5921 in_H5921 the_H5921 service_H5656 of_H1004 Yahweh’s_H3068 house_H1004. 
+@3 He_H0834 said_H0559 to_H0559 the_H3605 Levites_H3881 who_H0834 taught_H0995 all_H3605 Israel_H3478, who_H0834 were_H0834 holy_H6944 to_H0559 Yahweh_H3068, “Put_H5414 the_H3605 holy_H6944 ark_H0727 in_H0430 the_H3605 house_H1004 which_H0834 Solomon_H8010 the_H3605 son_H1121 of_H1121 David_H1732 king_H4428 of_H1121 Israel_H3478 built_H1129. It_H5414 will_H3068 no_H0369 longer_H0369 be_H1121 a_H5414 burden_H4853 on_H3068 your_H3068 shoulders_H3802. Now_H6258 serve_H5647 Yahweh_H3068 your_H3068 God_H0430 and_H1121 his_H3605 people_H5971 Israel_H3478. 
+@4 Prepare_H3559 yourselves after your_H3559 fathers’_H0001 houses_H1004 by_H3478 your_H3559 divisions_H4256, according to_H3478 the_H3559 writing_H4385 of_H1121 David_H1732 king_H4428 of_H1121 Israel_H3478, and_H1121 according to_H3478 the_H3559 writing_H4385 of_H1121 Solomon_H8010 his_H1732 son_H1121. 
+@5 Stand_H5975 in_H1004 the_H0251 holy_H6944 place_H6944 according to_H0001 the_H0251 divisions_H2515 of_H1121 the_H0251 fathers’_H0001 houses_H1004 of_H1121 your_H0251 brothers_H0251 the_H0251 children_H1121 of_H1121 the_H0251 people_H5971, and_H1121 let there_H5975 be_H1121 for_H1004 each_H5971 a_H5975 portion_H6944 of_H1121 a_H5975 fathers’_H0001 house_H1004 of_H1121 the_H0251 Levites_H3881. 
+@6 Kill_H7819 the_H3068 Passover_H6453 lamb, sanctify_H6942 yourselves_H3027, and_H3068 prepare_H3559 for_H3027 your_H3068 brothers_H0251, to_H3068 do_H6213 according_H3027 to_H3068 Yahweh’s_H3068 word_H1697 by_H3027 Moses_H4872.” 
 
-@7 Josiah gave to the children of the people, of the flock, lambs and young goats, all of them for the Passover offerings, to all who were present, to the number of thirty thousand, and three thousand bulls. These were of the king’s substance. 
-@8 His princes gave a free will offering to the people, to the priests, and to the Levites. Hilkiah, Zechariah, and Jehiel, the rulers of God’s house, gave to the priests for the Passover offerings two thousand six hundred small livestock, and three hundred head of cattle. 
-@9 Conaniah also, and Shemaiah and Nethanel, his brothers, and Hashabiah, Jeiel, and Jozabad, the chiefs of the Levites, gave to the Levites for the Passover offerings five thousand small livestock and five hundred head of cattle. 
+@7 Josiah_H2977 gave to_H4428 the_H3605 children_H1121 of_H1121 the_H3605 people_H5971, of_H1121 the_H3605 flock_H6629, lambs_H3532 and_H1121 young_H1121 goats_H5795, all_H3605 of_H1121 them_H4672 for_H3605 the_H3605 Passover_H6453 offerings_H6453, to_H4428 all_H3605 who_H3605 were_H1121 present_H4672, to_H4428 the_H3605 number_H4557 of_H1121 thirty_H7970 thousand_H0505, and_H1121 three_H7969 thousand_H0505 bulls_H1241. These_H0428 were_H1121 of_H1121 the_H3605 king’s_H4428 substance. 
+@8 His_H5414 princes_H8269 gave_H5414 a_H5414 free will_H0430 offering_H5071 to_H5414 the_H5414 people_H5971, to_H5414 the_H5414 priests_H3548, and_H3967 to_H5414 the_H5414 Levites_H3881. Hilkiah_H2518, Zechariah_H2148, and_H3967 Jehiel_H3171, the_H5414 rulers_H8269 of_H1004 God’s_H0430 house_H1004, gave_H5414 to_H5414 the_H5414 priests_H3548 for_H1004 the_H5414 Passover_H6453 offerings_H5071 two_H3967 thousand_H0505 six_H8337 hundred_H3967 small livestock, and_H3967 three_H7969 hundred_H3967 head_H8269 of_H1004 cattle_H1241. 
+@9 Conaniah_H3562 also_H8269, and_H3967 Shemaiah_H8098 and_H3967 Nethanel_H5417, his_H7311 brothers_H0251, and_H3967 Hashabiah_H2811, Jeiel_H3273, and_H3967 Jozabad_H3107, the_H0251 chiefs_H8269 of_H8269 the_H0251 Levites_H3881, gave to_H0251 the_H0251 Levites_H3881 for_H1241 the_H0251 Passover_H6453 offerings_H6453 five_H2568 thousand_H0505 small livestock and_H3967 five_H2568 hundred_H3967 head_H8269 of_H8269 cattle_H1241. 
 
-@10 So the service was prepared, and the priests stood in their place, and the Levites by their divisions, according to the king’s commandment. 
-@11 They killed the Passover lambs, and the priests sprinkled the blood which they received from their hands, and the Levites skinned them. 
-@12 They removed the burnt offerings, that they might give them according to the divisions of the fathers’ houses of the children of the people, to offer to Yahweh, as it is written in the book of Moses. They did the same with the cattle. 
-@13 They roasted the Passover with fire according to the ordinance. They boiled the holy offerings in pots, in cauldrons, and in pans, and carried them quickly to all the children of the people. 
-@14 Afterward they prepared for themselves and for the priests, because the priests the sons of Aaron were busy with offering the burnt offerings and the fat until night. Therefore the Levites prepared for themselves and for the priests the sons of Aaron. 
-@15 The singers, the sons of Asaph, were in their place, according to the commandment of David, Asaph, Heman, and Jeduthun the king’s seer; and the gatekeepers were at every gate. They didn’t need to depart from their service, because their brothers the Levites prepared for them. 
+@10 So_H5975 the_H5921 service_H5656 was_H4428 prepared_H3559, and_H4428 the_H5921 priests_H3548 stood_H5975 in_H5921 their_H5921 place_H5975, and_H4428 the_H5921 Levites_H3881 by_H5921 their_H5921 divisions_H4256, according_H5921 to_H5921 the_H5921 king’s_H4428 commandment_H4687. 
+@11 They_H7819 killed_H7819 the_H7819 Passover_H6453 lambs, and_H3027 the_H7819 priests_H3548 sprinkled_H2236 the_H7819 blood which they_H7819 received from_H3027 their_H6584 hands_H3027, and_H3027 the_H7819 Levites_H3881 skinned_H6584 them_H3027. 
+@12 They_H3651 removed_H5493 the_H5414 burnt_H5930 offerings_H3068, that_H3651 they_H3651 might_H3068 give_H5414 them_H5414 according to_H3068 the_H5414 divisions_H4653 of_H1121 the_H5414 fathers’_H0001 houses_H1004 of_H1121 the_H5414 children_H1121 of_H1121 the_H5414 people_H5971, to_H3068 offer_H7126 to_H3068 Yahweh_H3068, as_H3068 it_H5414 is_H3068 written_H3789 in_H3068 the_H5414 book_H5612 of_H1121 Moses_H4872. They_H3651 did_H3651 the_H5414 same_H3651 with_H1004 the_H5414 cattle_H1241. 
+@13 They_H7323 roasted_H1310 the_H3605 Passover_H6453 with_H3605 fire_H0784 according_H4941 to_H1121 the_H3605 ordinance_H4941. They_H7323 boiled_H1310 the_H3605 holy_H6944 offerings_H6453 in_H1121 pots_H5518, in_H1121 cauldrons, and_H1121 in_H1121 pans_H6745, and_H1121 carried_H7323 them_H7323 quickly_H7323 to_H1121 all_H3605 the_H3605 children_H1121 of_H1121 the_H3605 people_H5971. 
+@14 Afterward_H0310 they_H1992 prepared_H3559 for_H3588 themselves_H0310 and_H1121 for_H3588 the_H3588 priests_H3548, because_H3588 the_H3588 priests_H3548 the_H3588 sons_H1121 of_H1121 Aaron_H0175 were_H1121 busy with_H3548 offering_H5927 the_H3588 burnt_H5930 offerings_H5930 and_H1121 the_H3588 fat_H2459 until_H5704 night_H3915. Therefore_H0175 the_H3588 Levites_H3881 prepared_H3559 for_H3588 themselves_H0310 and_H1121 for_H3588 the_H3588 priests_H3548 the_H3588 sons_H1121 of_H1121 Aaron_H0175. 
+@15 The_H5921 singers_H7891, the_H5921 sons_H1121 of_H1121 Asaph_H0623, were_H1121 in_H5921 their_H5921 place_H3559, according_H5921 to_H5921 the_H5921 commandment_H4687 of_H1121 David_H1732, Asaph_H0623, Heman_H1968, and_H1121 Jeduthun_H3038 the_H5921 king’s_H4428 seer_H2374; and_H1121 the_H5921 gatekeepers_H7778 were_H1121 at_H5921 every_H8179 gate_H8179. They_H3588 didn’t need to_H5921 depart_H5493 from_H5493 their_H5921 service_H5656, because_H3588 their_H5921 brothers_H0251 the_H5921 Levites_H3881 prepared_H3559 for_H3588 them_H5921. 
 
-@16 So all the service of Yahweh was prepared the same day, to keep the Passover, and to offer burnt offerings on Yahweh’s altar, according to the commandment of King Josiah. 
-@17 The children of Israel who were present kept the Passover at that time, and the feast of unleavened bread seven days. 
-@18 There was no Passover like that kept in Israel from the days of Samuel the prophet, nor did any of the kings of Israel keep such a Passover as Josiah kept—with the priests, the Levites, and all Judah and Israel who were present, and the inhabitants of Jerusalem. 
-@19 This Passover was kept in the eighteenth year of the reign of Josiah.
+@16 So_H6213 all_H3605 the_H3605 service_H5656 of_H4428 Yahweh_H3068 was_H3068 prepared_H3559 the_H3605 same_H1931 day_H3117, to_H5921 keep_H6213 the_H3605 Passover_H6453, and_H3068 to_H5921 offer_H5927 burnt_H5930 offerings_H6453 on_H5921 Yahweh’s_H3068 altar_H4196, according_H5921 to_H5921 the_H3605 commandment_H4687 of_H4428 King_H4428 Josiah_H2977. 
+@17 The_H0853 children_H1121 of_H1121 Israel_H3478 who_H1931 were_H3478 present_H4672 kept_H6213 the_H0853 Passover_H6453 at_H3478 that_H3117 time_H6256, and_H1121 the_H0853 feast_H2282 of_H1121 unleavened_H4682 bread_H4682 seven_H7651 days_H3117. 
+@18 There_H3427 was_H0834 no_H3808 Passover_H6453 like_H3644 that_H0834 kept_H6213 in_H3427 Israel_H3478 from_H3478 the_H3605 days_H3117 of_H4428 Samuel_H8050 the_H3605 prophet_H5030, nor_H3808 did_H6213 any_H3605 of_H4428 the_H3605 kings_H4428 of_H4428 Israel_H3478 keep_H6213 such_H0834 a_H4672 Passover_H6453 as_H0834 Josiah_H2977 kept_H6213—with_H3427 the_H3605 priests_H3548, the_H3605 Levites_H3881, and_H3063 all_H3605 Judah_H3063 and_H3063 Israel_H3478 who_H0834 were_H0834 present_H4672, and_H3063 the_H3605 inhabitants_H3427 of_H4428 Jerusalem_H3389. 
+@19 This_H2088 Passover_H6453 was_H2088 kept_H6213 in_H8141 the_H6213 eighteenth_H6240 year_H8141 of_H8141 the_H6213 reign_H4438 of_H8141 Josiah_H2977.
 
 ## Neco of Egypt and the death of Josiah; pain for him
-@20 After all this, when Josiah had prepared the temple, Neco king of Egypt went up to fight against Carchemish by the Euphrates, and Josiah went out against him. 
-@21 But he sent ambassadors to him, saying, “What have I to do with you, you king of Judah? I come not against you today, but against the house with which I have war. God has commanded me to make haste. Beware that it is God who is with me, that he not destroy you.” 
+@20 After_H0310 all_H3605 this_H2063, when_H0834 Josiah_H2977 had_H0834 prepared_H3559 the_H3605 temple_H1004, Neco_H5224 king_H4428 of_H4428 Egypt_H4714 went_H3318 up_H5927 to_H5921 fight_H3898 against_H5921 Carchemish_H3751 by_H5921 the_H3605 Euphrates_H6578, and_H4428 Josiah_H2977 went_H3318 out_H3318 against_H5921 him_H5921. 
+@21 But_H3588 he_H0834 sent_H7971 ambassadors_H4397 to_H0413 him_H0413, saying_H0559, “What_H4100 have_H0834 I_H0834 to_H0413 do_H0408 with_H5973 you_H0859, you_H0859 king_H4428 of_H4428 Judah_H3063? I_H0834 come not_H3808 against_H5921 you_H0859 today_H3117, but_H3588 against_H5921 the_H0559 house_H1004 with_H5973 which_H0834 I_H0834 have_H0834 war_H4421. God_H0430 has_H0430 commanded_H0559 me_H0413 to_H0413 make_H3588 haste. Beware that_H0834 it_H5921 is_H0834 God_H0430 who_H0834 is_H0834 with_H5973 me_H0413, that_H0834 he_H0834 not_H3808 destroy_H7843 you_H0859.” 
 
-@22 Nevertheless Josiah would not turn his face from him, but disguised himself, that he might fight with him, and didn’t listen to the words of Neco from the mouth of God, and came to fight in the valley of Megiddo. 
-@23 The archers shot at King Josiah; and the king said to his servants, “Take me away, because I am seriously wounded!” 
+@22 Nevertheless_H3588 Josiah_H2977 would_H1697 not_H3808 turn_H5437 his_H8085 face_H6440 from_H4480 him_H0413, but_H3588 disguised_H2664 himself_H6440, that_H3588 he_H3588 might fight_H3898 with_H0413 him_H0413, and_H0935 didn’t_H3808 listen_H8085 to_H0413 the_H6440 words_H1697 of_H0430 Neco_H5224 from_H4480 the_H6440 mouth_H6310 of_H0430 God_H0430, and_H0935 came_H0935 to_H0413 fight_H3898 in_H0935 the_H6440 valley_H1237 of_H0430 Megiddo_H4023. 
+@23 The_H0559 archers_H3384 shot_H3384 at_H4428 King_H4428 Josiah_H2977; and_H4428 the_H0559 king_H4428 said_H0559 to_H0559 his_H3588 servants_H5650, “Take me_H5650 away_H5674, because_H3588 I_H3588 am seriously wounded_H2470!” 
 
-@24 So his servants took him out of the chariot, and put him in the second chariot that he had, and brought him to Jerusalem; and he died, and was buried in the tombs of his fathers. All Judah and Jerusalem mourned for Josiah. 
-@25 Jeremiah lamented for Josiah, and all the singing men and singing women spoke of Josiah in their lamentations to this day; and they made them an ordinance in Israel. Behold, they are written in the lamentations. 
-@26 Now the rest of the acts of Josiah and his good deeds, according to that which is written in Yahweh’s law, 
-@27 and his acts, first and last, behold, they are written in the book of the kings of Israel and Judah. 
+@24 So_H4480 his_H3605 servants_H5650 took_H4191 him_H5921 out_H4480 of_H0001 the_H3605 chariot_H4818, and_H3063 put_H4191 him_H5921 in_H5921 the_H3605 second_H4932 chariot_H4818 that_H0834 he_H0834 had_H0834, and_H3063 brought him_H5921 to_H4191 Jerusalem_H3389; and_H3063 he_H0834 died_H4191, and_H3063 was_H0834 buried_H6912 in_H5921 the_H3605 tombs_H6913 of_H0001 his_H3605 fathers_H0001. All_H3605 Judah_H3063 and_H3063 Jerusalem_H3389 mourned_H0056 for_H5921 Josiah_H2977. 
+@25 Jeremiah_H3414 lamented for_H5921 Josiah_H2977, and_H3478 all_H3605 the_H3605 singing_H7891 men_H3605 and_H3478 singing_H7891 women_H6969 spoke_H0559 of_H3117 Josiah_H2977 in_H5921 their_H3605 lamentations_H7015 to_H0559 this_H3117 day_H3117; and_H3478 they_H3117 made_H5414 them_H5414 an_H5414 ordinance_H2706 in_H5921 Israel_H3478. Behold_H2005, they_H3117 are_H3117 written_H3789 in_H5921 the_H3605 lamentations_H7015. 
+@26 Now the_H3068 rest_H3499 of_H3068 the_H3068 acts_H1697 of_H3068 Josiah_H2977 and_H3068 his_H3068 good deeds_H1697, according to_H3068 that_H1697 which_H1697 is_H3068 written_H3789 in_H3068 Yahweh’s_H3068 law_H8451, 
+@27 and_H3063 his_H5921 acts_H1697, first_H7223 and_H3063 last_H0314, behold_H2005, they_H5921 are_H3478 written_H3789 in_H5921 the_H5921 book_H5612 of_H4428 the_H5921 kings_H4428 of_H4428 Israel_H3478 and_H3063 Judah_H3063. 
 
 # 36 
 ## Jehoachaz king of Judah
-@1 Then the people of the land took Jehoahaz the son of Josiah, and made him king in his father’s place in Jerusalem. 
-@2 Joahaz was twenty-three years old when he began to reign; and he reigned three months in Jerusalem. 
-@3 The king of Egypt removed him from office at Jerusalem, and fined the land one hundred talents of silver and a talent^a^ of gold.
+@1 Then_H3947 the_H0853 people_H5971 of_H1121 the_H0853 land_H0776 took_H3947 Jehoahaz_H3059 the_H0853 son_H1121 of_H1121 Josiah_H2977, and_H1121 made_H3947 him_H0853 king_H4427 in_H0776 his_H3947 father’s_H0001 place_H8478 in_H0776 Jerusalem_H3389. 
+@2 Joahaz_H3099 was_H1121 twenty-three years_H8141 old_H1121 when_H1121 he_H3389 began to_H3389 reign_H4427; and_H1121 he_H3389 reigned_H4427 three_H7969 months_H2320 in_H8141 Jerusalem_H3389. 
+@3 The_H0853 king_H4428 of_H4428 Egypt_H4714 removed_H5493 him_H0853 from_H5493 office at_H4428 Jerusalem_H3389, and_H3967 fined_H6064 the_H0853 land_H0776 one_H0776 hundred_H3967 talents_H3603 of_H4428 silver_H3701 and_H3967 a_H0776 talent_H3603^a^ of_H4428 gold_H2091.
 
 ## Joacim König von Juda
-@4 The king of Egypt made Eliakim his brother king over Judah and Jerusalem, and changed his name to Jehoiakim. Neco took Joahaz his brother, and carried him to Egypt. 
+@4 The_H0853 king_H4428 of_H4428 Egypt_H4714 made_H5437 Eliakim_H0471 his_H5921 brother_H0251 king_H4428 over_H5921 Judah_H3063 and_H0935 Jerusalem_H3389, and_H0935 changed_H5437 his_H5921 name_H8034 to_H0935 Jehoiakim_H3079. Neco_H5224 took_H3947 Joahaz_H3099 his_H5921 brother_H0251, and_H0935 carried_H0935 him_H5921 to_H0935 Egypt_H4714. 
 ^a^[**36:3** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces]
 
-@5 Jehoiakim was twenty-five years old when he began to reign, and he reigned eleven years in Jerusalem. He did that which was evil in Yahweh his God’s sight. 
-@6 Nebuchadnezzar king of Babylon came up against him, and bound him in fetters to carry him to Babylon. 
-@7 Nebuchadnezzar also carried some of the vessels of Yahweh’s house to Babylon, and put them in his temple at Babylon. 
-@8 Now the rest of the acts of Jehoiakim, and his abominations which he did, and that which was found in him, behold, they are written in the book of the kings of Israel and Judah; and Jehoiachin his son reigned in his place.
+@5 Jehoiakim_H3079 was_H3068 twenty-five_H2568 years_H8141 old_H1121 when_H1121 he_H0430 began to_H3068 reign_H4427, and_H1121 he_H0430 reigned_H4427 eleven_H6240 years_H8141 in_H8141 Jerusalem_H3389. He_H0430 did_H6213 that_H3068 which_H5869 was_H3068 evil_H7451 in_H8141 Yahweh_H3068 his_H3068 God’s_H0430 sight_H5869. 
+@6 Nebuchadnezzar_H5019 king_H4428 of_H4428 Babylon_H0894 came_H5927 up_H5927 against_H5921 him_H5921, and_H4428 bound_H0631 him_H5921 in_H5921 fetters_H5178 to_H5921 carry_H5927 him_H5921 to_H5921 Babylon_H0894. 
+@7 Nebuchadnezzar_H5019 also_H3068 carried_H0935 some of_H1004 the_H0935 vessels_H3627 of_H1004 Yahweh’s_H3068 house_H1004 to_H0935 Babylon_H0894, and_H0935 put_H5414 them_H5414 in_H0935 his_H5414 temple_H1004 at_H3068 Babylon_H0894. 
+@8 Now_H2005 the_H0834 rest_H3499 of_H1121 the_H0834 acts_H1697 of_H1121 Jehoiakim_H3079, and_H1121 his_H5921 abominations_H8441 which_H0834 he_H0834 did_H6213, and_H1121 that_H0834 which_H0834 was_H0834 found_H4672 in_H5921 him_H5921, behold_H2005, they_H0834 are_H0834 written_H3789 in_H5921 the_H0834 book_H5612 of_H1121 the_H0834 kings_H4428 of_H1121 Israel_H3478 and_H1121 Judah_H3063; and_H1121 Jehoiachin_H3078 his_H5921 son_H1121 reigned_H4427 in_H5921 his_H5921 place_H8478.
 
 ## Jehoiachin king of Judah
-@9 Jehoiachin was eight years old when he began to reign, and he reigned three months and ten days in Jerusalem. He did that which was evil in Yahweh’s sight. 
-@10 At the return of the year, King Nebuchadnezzar sent and brought him to Babylon, with the valuable vessels of Yahweh’s house, and made Zedekiah his brother king over Judah and Jerusalem.
+@9 Jehoiachin_H3078 was_H3068 eight_H8083 years_H8141 old_H1121 when_H3117 he_H3117 began to_H3068 reign_H4427, and_H1121 he_H3117 reigned_H4427 three_H7969 months_H2320 and_H1121 ten_H6235 days_H3117 in_H8141 Jerusalem_H3389. He_H3117 did_H6213 that_H3117 which_H5869 was_H3068 evil_H7451 in_H8141 Yahweh’s_H3068 sight_H5869. 
+@10 At_H5921 the_H0853 return_H0935 of_H4428 the_H0853 year_H8141, King_H4428 Nebuchadnezzar_H5019 sent_H7971 and_H0935 brought_H0935 him_H5921 to_H0935 Babylon_H0894, with_H5973 the_H0853 valuable_H2532 vessels_H3627 of_H4428 Yahweh’s_H3068 house_H1004, and_H0935 made_H3627 Zedekiah_H6667 his_H5921 brother_H0251 king_H4428 over_H5921 Judah_H3063 and_H0935 Jerusalem_H3389.
 
 ## Zedekiah, king of Judah; the ruin of him and his people
-@11 Zedekiah was twenty-one years old when he began to reign, and he reigned eleven years in Jerusalem. 
-@12 He did that which was evil in Yahweh his God’s sight. He didn’t humble himself before Jeremiah the prophet speaking from Yahweh’s mouth. 
-@13 He also rebelled against King Nebuchadnezzar, who had made him swear by God; but he stiffened his neck, and hardened his heart against turning to Yahweh, the God of Israel. 
-@14 Moreover all the chiefs of the priests and the people trespassed very greatly after all the abominations of the nations; and they polluted Yahweh’s house which he had made holy in Jerusalem. 
+@11 Zedekiah_H6667 was_H0259 twenty-one years_H8141 old_H1121 when_H1121 he_H3389 began to_H3389 reign_H4427, and_H1121 he_H3389 reigned_H4427 eleven_H6240 years_H8141 in_H8141 Jerusalem_H3389. 
+@12 He_H0430 did_H6213 that_H3068 which_H5869 was_H3068 evil_H7451 in_H0430 Yahweh_H3068 his_H3068 God’s_H0430 sight_H5869. He_H0430 didn’t_H3808 humble_H3665 himself_H3665 before_H6440 Jeremiah_H3414 the_H6440 prophet_H5030 speaking from_H6440 Yahweh’s_H3068 mouth_H6310. 
+@13 He_H0834 also_H1571 rebelled_H4775 against_H0413 King_H4428 Nebuchadnezzar_H5019, who_H0834 had_H3068 made_H0553 him_H0413 swear_H7650 by_H3068 God_H0430; but_H1571 he_H0834 stiffened_H7185 his_H3068 neck_H6203, and_H3068 hardened_H7185 his_H3068 heart_H3824 against_H0413 turning_H7725 to_H0413 Yahweh_H3068, the_H0853 God_H0430 of_H4428 Israel_H3478. 
+@14 Moreover_H1571 all_H3605 the_H3605 chiefs_H8269 of_H1004 the_H3605 priests_H3548 and_H3068 the_H3605 people_H5971 trespassed very_H1571 greatly_H7235 after all_H3605 the_H3605 abominations_H8441 of_H1004 the_H3605 nations_H1471; and_H3068 they_H0834 polluted Yahweh’s_H3068 house_H1004 which_H0834 he_H0834 had_H3068 made_H2930 holy_H6942 in_H3068 Jerusalem_H3389. 
 
-@15 Yahweh, the God of their fathers, sent to them by his messengers, rising up early and sending, because he had compassion on his people and on his dwelling place; 
-@16 but they mocked the messengers of God, despised his words, and scoffed at his prophets, until Yahweh’s wrath arose against his people, until there was no remedy.
+@15 Yahweh_H3068, the_H5921 God_H0430 of_H0430 their_H3068 fathers_H0001, sent_H7971 to_H5921 them_H5921 by_H5921 his_H5921 messengers_H4397, rising_H7925 up_H7925 early_H7925 and_H3068 sending_H7971, because_H3588 he_H3588 had_H3068 compassion_H2550 on_H5921 his_H5921 people_H5971 and_H3068 on_H5921 his_H5921 dwelling_H4583 place_H3027; 
+@16 but_H1961 they_H3068 mocked_H3931 the_H3068 messengers_H4397 of_H0430 God_H0430, despised_H0959 his_H3068 words_H1697, and_H3068 scoffed at_H3068 his_H3068 prophets_H5030, until_H5704 Yahweh’s_H3068 wrath_H2534 arose_H5927 against_H5927 his_H3068 people_H5971, until_H5704 there_H0369 was_H0369 no_H0369 remedy_H4832.
 
 ## Destruction of the empire by Nebuchadnezzar; Babylonian captivity
-@17 Therefore he brought on them the king of the Chaldeans, who killed their young men with the sword in the house of their sanctuary, and had no compassion on young man or virgin, old man or infirm. He gave them all into his hand. 
-@18 All the vessels of God’s house, great and small, and the treasures of Yahweh’s house, and the treasures of the king and of his princes, all these he brought to Babylon. 
-@19 They burned God’s house, broke down the wall of Jerusalem, burned all its palaces with fire, and destroyed all of its valuable vessels. 
-@20 He carried those who had escaped from the sword away to Babylon, and they were servants to him and his sons until the reign of the kingdom of Persia, 
-@21 to fulfill Yahweh’s word by Jeremiah’s mouth, until the land had enjoyed its Sabbaths. As long as it lay desolate, it kept Sabbath, to fulfill seventy years.
+@17 Therefore he_H3808 brought_H5927 on_H5921 them_H5414 the_H3605 king_H4428 of_H4428 the_H3605 Chaldeans_H3778, who_H3605 killed_H2026 their_H3605 young_H0970 men_H0970 with_H1004 the_H3605 sword_H2719 in_H5921 the_H3605 house_H1004 of_H4428 their_H3605 sanctuary_H4720, and_H3027 had_H4428 no_H3808 compassion_H2550 on_H5921 young_H0970 man_H2205 or_H3808 virgin_H1330, old_H2205 man_H2205 or_H3808 infirm_H3486. He_H3808 gave_H5414 them_H5414 all_H3605 into_H5921 his_H3605 hand_H3027. 
+@18 All_H3605 the_H3605 vessels_H3627 of_H4428 God’s_H0430 house_H1004, great_H1419 and_H0935 small_H6996, and_H0935 the_H3605 treasures_H0214 of_H4428 Yahweh’s_H3068 house_H1004, and_H0935 the_H3605 treasures_H0214 of_H4428 the_H3605 king_H4428 and_H0935 of_H4428 his_H3605 princes_H8269, all_H3605 these_H3605 he_H0430 brought_H0935 to_H0935 Babylon_H0894. 
+@19 They_H3605 burned_H8313 God’s_H0430 house_H1004, broke_H5422 down_H5422 the_H3605 wall_H2346 of_H1004 Jerusalem_H3389, burned_H8313 all_H3605 its_H3605 palaces_H0759 with_H1004 fire_H0784, and_H0430 destroyed_H7843 all_H3605 of_H1004 its_H3605 valuable_H4261 vessels_H3627. 
+@20 He_H5704 carried_H1540 those_H4480 who_H1121 had_H1961 escaped_H7611 from_H4480 the_H0413 sword_H2719 away_H1540 to_H0413 Babylon_H0894, and_H1121 they_H5704 were_H1961 servants_H5650 to_H0413 him_H0413 and_H1121 his_H1961 sons_H1121 until_H5704 the_H0413 reign_H4438 of_H1121 the_H0413 kingdom_H4438 of_H1121 Persia_H6539, 
+@21 to_H5704 fulfill_H4390 Yahweh’s_H3068 word_H1697 by_H3068 Jeremiah’s_H3414 mouth_H6310, until_H5704 the_H3605 land_H0776 had_H3068 enjoyed_H7521 its_H3605 Sabbaths_H7676. As_H5704 long_H5704 as_H5704 it_H5704 lay desolate_H8074, it_H5704 kept Sabbath_H7676, to_H5704 fulfill_H4390 seventy_H7657 years_H8141.
 
 ## Permission to return home from Persian King Cyrus
-@22 Now in the first year of Cyrus king of Persia, that Yahweh’s word by the mouth of Jeremiah might be accomplished, Yahweh stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and put it also in writing, saying, 
-@23 “Cyrus king of Persia says, ‘Yahweh, the God of heaven, has given all the kingdoms of the earth to me; and he has commanded me to build him a house in Jerusalem, which is in Judah. Whoever there is among you of all his people, Yahweh his God be with him, and let him go up.’” 
+@22 Now_H1571 in_H8141 the_H3605 first_H0259 year_H8141 of_H4428 Cyrus_H3566 king_H4428 of_H4428 Persia_H6539, that_H3605 Yahweh’s_H3068 word_H1697 by_H3068 the_H3605 mouth_H6310 of_H4428 Jeremiah_H3414 might_H3068 be_H1571 accomplished_H3615, Yahweh_H3068 stirred_H5782 up_H5782 the_H3605 spirit_H7307 of_H4428 Cyrus_H3566 king_H4428 of_H4428 Persia_H6539, so_H1571 that_H3605 he_H3068 made_H3605 a_H0259 proclamation_H6963 throughout_H3605 all_H3605 his_H3605 kingdom_H4438, and_H3068 put_H3615 it_H3068 also_H1571 in_H8141 writing_H4385, saying_H0559, 
+@23 “Cyrus_H3566 king_H4428 of_H4428 Persia_H6539 says_H0559, ‘Yahweh_H3068, the_H3605 God_H0430 of_H4428 heaven_H8064, has_H3068 given_H5414 all_H3605 the_H3605 kingdoms_H4467 of_H4428 the_H3605 earth_H0776 to_H0559 me_H5414; and_H3068 he_H0834 has_H3068 commanded_H0559 me_H5414 to_H0559 build_H1129 him_H5414 a_H5414 house_H1004 in_H5921 Jerusalem_H3389, which_H0834 is_H0834 in_H5921 Judah_H3063. Whoever_H3605 there_H5927 is_H0834 among_H5973 you_H0834 of_H4428 all_H3605 his_H3605 people_H5971, Yahweh_H3068 his_H3605 God_H0430 be_H3068 with_H5973 him_H5414, and_H3068 let_H5414 him_H5414 go_H5927 up_H5927.’” 

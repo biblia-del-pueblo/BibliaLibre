@@ -152,7 +152,7 @@ jobs:
     # Zips every Bible folder of Bibles into www/books and writes www/books/index.json, which lists the zips and the
     # info.json of each: the Bibles that the BibleReader offers for download (BibliaLibre in its list of online Bibles).
     # The pdf, md, epub, html, xml and zip files of the out folders go to www/out/<Bible>.
-    - name: Publish the Bibles for the BibleReader
+    - name: Publish the Bibles for the CrossBible bible reader
       run: bibmark publish Bibles www
 
     # Commits the changes that the publish made to www/book-covers (the only tracked part of www, see www/.gitignore)

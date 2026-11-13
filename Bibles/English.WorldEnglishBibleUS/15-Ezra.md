@@ -1,406 +1,406 @@
 # 1 
 ## Cyrus's permission for the return of the remaining Jews and for the construction of the temple
-@1 Now in the first year of Cyrus king of Persia, that Yahweh’s^a^ word by Jeremiah’s mouth might be accomplished, Yahweh stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and put it also in writing, saying, 
-@2 “Cyrus king of Persia says, ‘Yahweh, the God^b^ of heaven, has given me all the kingdoms of the earth; and he has commanded me to build him a house in Jerusalem, which is in Judah. 
-@3 Whoever there is among you of all his people, may his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of Yahweh, the God of Israel (he is God), which is in Jerusalem. 
-@4 Whoever is left, in any place where he lives, let the men of his place help him with silver, with gold, with goods, and with animals, in addition to the free will offering for God’s house which is in Jerusalem.’” 
+@1 Now_H1571 in_H8141 the_H3605 first_H0259 year_H8141 of_H4428 Cyrus_H3566 king_H4428 of_H4428 Persia_H6539, that_H3605 Yahweh’s_H3068^a^ word_H1697 by_H3068 Jeremiah’s_H3414 mouth_H6310 might_H3068 be_H1571 accomplished_H3615, Yahweh_H3068 stirred_H5782 up_H5782 the_H3605 spirit_H7307 of_H4428 Cyrus_H3566 king_H4428 of_H4428 Persia_H6539, so_H1571 that_H3605 he_H3068 made_H3605 a_H0259 proclamation_H6963 throughout_H3605 all_H3605 his_H3605 kingdom_H4438, and_H3068 put_H3615 it_H3068 also_H1571 in_H8141 writing_H4385, saying_H0559, 
+@2 “Cyrus_H3566 king_H4428 of_H4428 Persia_H6539 says_H0559, ‘Yahweh_H3068, the_H3605 God_H0430^b^ of_H4428 heaven_H8064, has_H3068 given_H5414 me_H5414 all_H3605 the_H3605 kingdoms_H4467 of_H4428 the_H3605 earth_H0776; and_H3068 he_H0834 has_H3068 commanded_H0559 me_H5414 to_H0559 build_H1129 him_H5414 a_H5414 house_H1004 in_H5921 Jerusalem_H3389, which_H0834 is_H0834 in_H5921 Judah_H3063. 
+@3 Whoever_H3605 there_H1961 is_H0834 among_H5973 you_H0834 of_H1004 all_H3605 his_H3605 people_H5971, may_H1961 his_H3605 God_H0430 be_H1961 with_H5973 him_H0853, and_H3068 let_H1961 him_H0853 go_H5927 up_H5927 to_H1961 Jerusalem_H3389, which_H0834 is_H0834 in_H0430 Judah_H3063, and_H3068 build_H1129 the_H3605 house_H1004 of_H1004 Yahweh_H3068, the_H3605 God_H0430 of_H1004 Israel_H3478 (he_H0834 is_H0834 God_H0430), which_H0834 is_H0834 in_H0430 Jerusalem_H3389. 
+@4 Whoever_H3605 is_H0834 left_H7604, in_H0430 any_H3605 place_H4725 where_H0834 he_H0834 lives_H1481, let the_H3605 men_H0376 of_H1004 his_H3605 place_H4725 help him_H5973 with_H5973 silver_H3701, with_H5973 gold_H2091, with_H5973 goods_H7399, and_H0430 with_H5973 animals_H0929, in_H0430 addition to_H0376 the_H3605 free_H5973 will_H0430 offering_H5071 for_H1004 God’s_H0430 house_H1004 which_H0834 is_H0834 in_H0430 Jerusalem_H3389.’” 
 ^a^[**1:1** “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.] ^b^[**1:2** The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).]
 
 ## The effect and execution of the provision
-@5 Then the heads of fathers’ households of Judah and Benjamin, the priests and the Levites, all whose spirit God had stirred to go up, rose up to build Yahweh’s house which is in Jerusalem. 
-@6 All those who were around them strengthened their hands with vessels of silver, with gold, with goods, with animals, and with precious things, in addition to all that was willingly offered.
+@5 Then_H6965 the_H3605 heads_H7218 of_H1004 fathers’_H0001 households_H1004 of_H1004 Judah_H3063 and_H6965 Benjamin_H1144, the_H3605 priests_H3548 and_H6965 the_H3605 Levites_H3881, all_H3605 whose_H0834 spirit_H7307 God_H0430 had_H3068 stirred_H5782 to_H3068 go_H5927 up_H5927, rose_H6965 up_H5927 to_H3068 build_H1129 Yahweh’s_H3068 house_H1004 which_H0834 is_H0834 in_H0430 Jerusalem_H3389. 
+@6 All_H3605 those_H3605 who_H3605 were_H3027 around_H5439 them_H5921 strengthened_H2388 their_H3605 hands_H3027 with_H5921 vessels_H3627 of_H3027 silver_H3701, with_H5921 gold_H2091, with_H5921 goods_H7399, with_H5921 animals_H0929, and_H3027 with_H5921 precious_H4030 things_H3605, in_H5921 addition_H5921 to_H5921 all_H3605 that_H3605 was_H3027 willingly_H5068 offered_H5068.
 
 ## Publication and listing of the temple implements given to Shesbassar (Zerubbabel)
-@7 Also Cyrus the king brought out the vessels of Yahweh’s house, which Nebuchadnezzar had brought out of Jerusalem, and had put in the house of his gods; 
-@8 even those, Cyrus king of Persia brought out by the hand of Mithredath the treasurer, and counted them out to Sheshbazzar the prince of Judah. 
-@9 This is the number of them: thirty platters of gold, one thousand platters of silver, twenty-nine knives, 
-@10 thirty bowls of gold, four hundred ten silver bowls of a second kind, and one thousand other vessels. 
-@11 All the vessels of gold and of silver were five thousand four hundred. Sheshbazzar brought all these up when the captives were brought up from Babylon to Jerusalem. 
+@7 Also_H3068 Cyrus_H3566 the_H0853 king_H4428 brought_H3318 out_H3318 the_H0853 vessels_H3627 of_H4428 Yahweh’s_H3068 house_H1004, which_H0834 Nebuchadnezzar_H5019 had_H3068 brought_H3318 out_H3318 of_H4428 Jerusalem_H3389, and_H3068 had_H3068 put_H5414 in_H0430 the_H0853 house_H1004 of_H4428 his_H5414 gods_H0430; 
+@8 even_H5921 those_H5921, Cyrus_H3566 king_H4428 of_H4428 Persia_H6539 brought_H3318 out_H3318 by_H5921 the_H5921 hand_H3027 of_H4428 Mithredath_H4990 the_H5921 treasurer_H1489, and_H3063 counted_H5608 them_H5921 out_H3318 to_H5921 Sheshbazzar_H8339 the_H5921 prince_H5387 of_H4428 Judah_H3063. 
+@9 This_H0428 is_H3701 the_H0428 number_H4557 of_H4557 them_H0505: thirty_H7970 platters of_H4557 gold_H2091, one_H0428 thousand_H0505 platters of_H4557 silver_H3701, twenty-nine_H8672 knives, 
+@10 thirty_H7970 bowls_H3713 of_H3627 gold_H2091, four_H0702 hundred_H3967 ten_H6235 silver_H3701 bowls_H3713 of_H3627 a_H3701 second_H4932 kind, and_H3967 one_H3967 thousand_H0505 other_H0312 vessels_H3627. 
+@11 All_H3605 the_H3605 vessels_H3627 of_H3627 gold_H2091 and_H3967 of_H3627 silver_H3701 were_H0702 five_H2568 thousand_H0505 four_H0702 hundred_H3967. Sheshbazzar_H8339 brought_H5927 all_H3605 these_H3605 up_H5927 when_H5927 the_H3605 captives_H1473 were_H0702 brought_H5927 up_H5927 from_H5927 Babylon_H0894 to_H3389 Jerusalem_H3389. 
 
 # 2 
 ## Directory of Returning Jews
-@1 Now these are the children of the province who went up out of the captivity of those who had been carried away, whom Nebuchadnezzar the king of Babylon had carried away to Babylon, and who returned to Jerusalem and Judah, everyone to his city;
+@1 Now these_H0428 are_H0834 the_H0834 children_H1121 of_H1121 the_H0834 province_H4082 who_H0834 went_H5927 up_H5927 out_H0376 of_H1121 the_H0834 captivity_H1540 of_H1121 those_H0428 who_H0834 had_H0834 been_H0834 carried_H1540 away_H7725, whom_H0834 Nebuchadnezzar_H5020 the_H0834 king_H4428 of_H1121 Babylon_H0894 had_H0834 carried_H1540 away_H7725 to_H7725 Babylon_H0894, and_H1121 who_H0834 returned_H7725 to_H7725 Jerusalem_H3389 and_H1121 Judah_H3063, everyone_H0376 to_H7725 his_H7725 city_H5892;
 
 ## List of returnees
-@2 who came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah. 
+@2 who_H0834 came_H0935 with_H5973 Zerubbabel_H2216, Jeshua_H3442, Nehemiah_H5166, Seraiah_H8304, Reelaiah_H7480, Mordecai_H4782, Bilshan_H1114, Mispar_H4558, Bigvai_H0902, Rehum_H7348, and_H0935 Baanah_H1196. 
 
-The number of the men of the people of Israel: 
-@3 The children of Parosh, two thousand one hundred seventy-two. 
-@4 The children of Shephatiah, three hundred seventy-two. 
-@5 The children of Arah, seven hundred seventy-five. 
-@6 The children of Pahathmoab, of the children of Jeshua and Joab, two thousand eight hundred twelve. 
-@7 The children of Elam, one thousand two hundred fifty-four. 
-@8 The children of Zattu, nine hundred forty-five. 
-@9 The children of Zaccai, seven hundred sixty. 
-@10 The children of Bani, six hundred forty-two. 
-@11 The children of Bebai, six hundred twenty-three. 
-@12 The children of Azgad, one thousand two hundred twenty-two. 
-@13 The children of Adonikam, six hundred sixty-six. 
-@14 The children of Bigvai, two thousand fifty-six. 
-@15 The children of Adin, four hundred fifty-four. 
-@16 The children of Ater, of Hezekiah, ninety-eight. 
-@17 The children of Bezai, three hundred twenty-three. 
-@18 The children of Jorah, one hundred twelve. 
-@19 The children of Hashum, two hundred twenty-three. 
-@20 The children of Gibbar, ninety-five. 
-@21 The children of Bethlehem, one hundred twenty-three. 
-@22 The men of Netophah, fifty-six. 
-@23 The men of Anathoth, one hundred twenty-eight. 
-@24 The children of Azmaveth, forty-two. 
-@25 The children of Kiriath Arim, Chephirah, and Beeroth, seven hundred forty-three. 
-@26 The children of Ramah and Geba, six hundred twenty-one. 
-@27 The men of Michmas, one hundred twenty-two. 
-@28 The men of Bethel and Ai, two hundred twenty-three. 
-@29 The children of Nebo, fifty-two. 
-@30 The children of Magbish, one hundred fifty-six. 
-@31 The children of the other Elam, one thousand two hundred fifty-four. 
-@32 The children of Harim, three hundred twenty. 
-@33 The children of Lod, Hadid, and Ono, seven hundred twenty-five. 
-@34 The children of Jericho, three hundred forty-five. 
-@35 The children of Senaah, three thousand six hundred thirty. 
+The_H0834 number_H4557 of_H0376 the_H0834 men_H0376 of_H0376 the_H0834 people_H5971 of_H0376 Israel_H3478: 
+@3 The_H1121 children_H1121 of_H1121 Parosh_H6551, two_H8147 thousand_H0505 one_H1121 hundred_H3967 seventy-two. 
+@4 The_H1121 children_H1121 of_H1121 Shephatiah_H8203, three_H7969 hundred_H3967 seventy-two. 
+@5 The_H1121 children_H1121 of_H1121 Arah_H0733, seven_H7651 hundred_H3967 seventy-five_H7657. 
+@6 The_H3097 children_H1121 of_H1121 Pahathmoab, of_H1121 the_H3097 children_H1121 of_H1121 Jeshua_H3442 and_H1121 Joab_H3097, two_H8147 thousand_H0505 eight_H8083 hundred_H3967 twelve_H6240. 
+@7 The_H1121 children_H1121 of_H1121 Elam_H5867, one_H1121 thousand_H0505 two_H3967 hundred_H3967 fifty-four. 
+@8 The_H1121 children_H1121 of_H1121 Zattu_H2240, nine_H8672 hundred_H3967 forty-five_H0705. 
+@9 The_H1121 children_H1121 of_H1121 Zaccai_H2140, seven_H7651 hundred_H3967 sixty_H8346. 
+@10 The_H1121 children_H1121 of_H1121 Bani_H1137, six_H8337 hundred_H3967 forty-two_H8147. 
+@11 The_H1121 children_H1121 of_H1121 Bebai_H0893, six_H8337 hundred_H3967 twenty-three. 
+@12 The_H1121 children_H1121 of_H1121 Azgad_H5803, one_H1121 thousand_H0505 two_H8147 hundred_H3967 twenty-two_H8147. 
+@13 The_H1121 children_H1121 of_H1121 Adonikam_H0140, six_H8337 hundred_H3967 sixty-six. 
+@14 The_H1121 children_H1121 of_H1121 Bigvai_H0902, two thousand_H0505 fifty-six. 
+@15 The_H1121 children_H1121 of_H1121 Adin_H5720, four_H0702 hundred_H3967 fifty-four. 
+@16 The_H1121 children_H1121 of_H1121 Ater_H0333, of_H1121 Hezekiah_H2396, ninety-eight. 
+@17 The_H1121 children_H1121 of_H1121 Bezai_H1209, three_H7969 hundred_H3967 twenty-three. 
+@18 The_H1121 children_H1121 of_H1121 Jorah_H3139, one_H1121 hundred_H3967 twelve_H6240. 
+@19 The_H1121 children_H1121 of_H1121 Hashum_H2828, two_H3967 hundred_H3967 twenty-three. 
+@20 The_H1121 children_H1121 of_H1121 Gibbar_H1402, ninety-five. 
+@21 The_H1121 children_H1121 of_H1121 Bethlehem_H1035, one_H1121 hundred_H3967 twenty-three. 
+@22 The men_H0376 of_H0376 Netophah_H5199, fifty-six. 
+@23 The_H3967 men_H0376 of_H0376 Anathoth_H6068, one_H0376 hundred_H3967 twenty-eight_H8083. 
+@24 The_H1121 children_H1121 of_H1121 Azmaveth_H5820, forty-two_H8147. 
+@25 The_H1121 children_H1121 of_H1121 Kiriath_H7157 Arim, Chephirah, and_H1121 Beeroth_H0881, seven_H7651 hundred_H3967 forty-three. 
+@26 The_H1121 children_H1121 of_H1121 Ramah_H7414 and_H1121 Geba_H1387, six_H8337 hundred_H3967 twenty-one. 
+@27 The_H8147 men_H0376 of_H0376 Michmas_H4363, one_H0376 hundred_H3967 twenty-two_H8147. 
+@28 The_H3967 men_H0376 of_H0376 Bethel_H1008 and_H3967 Ai_H5857, two_H3967 hundred_H3967 twenty-three. 
+@29 The_H1121 children_H1121 of_H1121 Nebo_H5015, fifty-two_H2572. 
+@30 The_H1121 children_H1121 of_H1121 Magbish_H4019, one_H1121 hundred_H3967 fifty-six. 
+@31 The_H1121 children_H1121 of_H1121 the_H1121 other_H0312 Elam_H5867, one_H1121 thousand_H0505 two_H3967 hundred_H3967 fifty-four. 
+@32 The_H1121 children_H1121 of_H1121 Harim_H2766, three_H7969 hundred_H3967 twenty_H6242. 
+@33 The_H1121 children_H1121 of_H1121 Lod, Hadid_H2307, and_H1121 Ono_H0207, seven_H7651 hundred_H3967 twenty-five_H2568. 
+@34 The_H1121 children_H1121 of_H1121 Jericho_H3405, three_H7969 hundred_H3967 forty-five_H0705. 
+@35 The_H1121 children_H1121 of_H1121 Senaah_H5570, three_H7969 thousand_H0505 six_H8337 hundred_H3967 thirty_H7970. 
 
-@36 The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy-three. 
-@37 The children of Immer, one thousand fifty-two. 
-@38 The children of Pashhur, one thousand two hundred forty-seven. 
-@39 The children of Harim, one thousand seventeen. 
+@36 The_H1121 priests_H3548: the_H1121 children_H1121 of_H1121 Jedaiah_H3048, of_H1121 the_H1121 house_H1004 of_H1121 Jeshua_H3442, nine_H8672 hundred_H3967 seventy-three. 
+@37 The_H1121 children_H1121 of_H1121 Immer_H0564, one_H1121 thousand_H0505 fifty-two_H2572. 
+@38 The_H1121 children_H1121 of_H1121 Pashhur_H6583, one_H1121 thousand_H0505 two_H3967 hundred_H3967 forty-seven. 
+@39 The_H1121 children_H1121 of_H1121 Harim_H2766, one_H1121 thousand_H0505 seventeen_H6240. 
 
-@40 The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy-four. 
-@41 The singers: the children of Asaph, one hundred twenty-eight. 
-@42 The children of the gatekeepers: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, in all one hundred thirty-nine. 
+@40 The_H1121 Levites_H3881: the_H1121 children_H1121 of_H1121 Jeshua_H3442 and_H1121 Kadmiel_H6934, of_H1121 the_H1121 children_H1121 of_H1121 Hodaviah_H1938, seventy-four. 
+@41 The_H1121 singers_H7891: the_H1121 children_H1121 of_H1121 Asaph_H0623, one_H1121 hundred_H3967 twenty-eight_H8083. 
+@42 The_H3605 children_H1121 of_H1121 the_H3605 gatekeepers_H7778: the_H3605 children_H1121 of_H1121 Shallum_H7967, the_H3605 children_H1121 of_H1121 Ater_H0333, the_H3605 children_H1121 of_H1121 Talmon_H2929, the_H3605 children_H1121 of_H1121 Akkub_H6126, the_H3605 children_H1121 of_H1121 Hatita_H2410, the_H3605 children_H1121 of_H1121 Shobai_H7630, in_H1121 all_H3605 one_H3605 hundred_H3967 thirty-nine. 
 
-@43 The temple servants: the children of Ziha, the children of Hasupha, the children of Tabbaoth, 
-@44 the children of Keros, the children of Siaha, the children of Padon, 
-@45 the children of Lebanah, the children of Hagabah, the children of Akkub, 
-@46 the children of Hagab, the children of Shamlai, the children of Hanan, 
-@47 the children of Giddel, the children of Gahar, the children of Reaiah, 
-@48 the children of Rezin, the children of Nekoda, the children of Gazzam, 
-@49 the children of Uzza, the children of Paseah, the children of Besai, 
-@50 the children of Asnah, the children of Meunim, the children of Nephisim, 
-@51 the children of Bakbuk, the children of Hakupha, the children of Harhur, 
-@52 the children of Bazluth, the children of Mehida, the children of Harsha, 
-@53 the children of Barkos, the children of Sisera, the children of Temah, 
-@54 the children of Neziah, the children of Hatipha. 
+@43 The_H1121 temple_H5411 servants_H5411: the_H1121 children_H1121 of_H1121 Ziha_H6727, the_H1121 children_H1121 of_H1121 Hasupha_H2817, the_H1121 children_H1121 of_H1121 Tabbaoth_H2884, 
+@44 the_H1121 children_H1121 of_H1121 Keros_H7026, the_H1121 children_H1121 of_H1121 Siaha_H5517, the_H1121 children_H1121 of_H1121 Padon_H6303, 
+@45 the_H1121 children_H1121 of_H1121 Lebanah_H3838, the_H1121 children_H1121 of_H1121 Hagabah_H2286, the_H1121 children_H1121 of_H1121 Akkub_H6126, 
+@46 the_H1121 children_H1121 of_H1121 Hagab_H2285, the_H1121 children_H1121 of_H1121 Shamlai, the_H1121 children_H1121 of_H1121 Hanan_H2605, 
+@47 the_H1121 children_H1121 of_H1121 Giddel_H1435, the_H1121 children_H1121 of_H1121 Gahar_H1515, the_H1121 children_H1121 of_H1121 Reaiah_H7211, 
+@48 the_H1121 children_H1121 of_H1121 Rezin_H7526, the_H1121 children_H1121 of_H1121 Nekoda_H5353, the_H1121 children_H1121 of_H1121 Gazzam_H1502, 
+@49 the_H1121 children_H1121 of_H1121 Uzza_H5798, the_H1121 children_H1121 of_H1121 Paseah_H6454, the_H1121 children_H1121 of_H1121 Besai_H1153, 
+@50 the_H1121 children_H1121 of_H1121 Asnah_H0619, the_H1121 children_H1121 of_H1121 Meunim_H4586, the_H1121 children_H1121 of_H1121 Nephisim_H5304, 
+@51 the_H1121 children_H1121 of_H1121 Bakbuk_H1227, the_H1121 children_H1121 of_H1121 Hakupha_H2709, the_H1121 children_H1121 of_H1121 Harhur, 
+@52 the_H1121 children_H1121 of_H1121 Bazluth_H1213, the_H1121 children_H1121 of_H1121 Mehida_H4240, the_H1121 children_H1121 of_H1121 Harsha_H2797, 
+@53 the_H1121 children_H1121 of_H1121 Barkos_H1302, the_H1121 children_H1121 of_H1121 Sisera_H5516, the_H1121 children_H1121 of_H1121 Temah_H8547, 
+@54 the_H1121 children_H1121 of_H1121 Neziah_H5335, the_H1121 children_H1121 of_H1121 Hatipha_H2412. 
 
-@55 The children of Solomon’s servants: the children of Sotai, the children of Hassophereth, the children of Peruda, 
-@56 the children of Jaalah, the children of Darkon, the children of Giddel, 
-@57 the children of Shephatiah, the children of Hattil, the children of Pochereth Hazzebaim, the children of Ami. 
-@58 All the temple servants, and the children of Solomon’s servants, were three hundred ninety-two. 
+@55 The_H5650 children_H1121 of_H1121 Solomon’s_H8010 servants_H5650: the_H5650 children_H1121 of_H1121 Sotai_H5479, the_H5650 children_H1121 of_H1121 Hassophereth_H5618, the_H5650 children_H1121 of_H1121 Peruda_H6514, 
+@56 the_H1121 children_H1121 of_H1121 Jaalah_H3279, the_H1121 children_H1121 of_H1121 Darkon_H1874, the_H1121 children_H1121 of_H1121 Giddel_H1435, 
+@57 the_H1121 children_H1121 of_H1121 Shephatiah_H8203, the_H1121 children_H1121 of_H1121 Hattil_H2411, the_H1121 children_H1121 of_H1121 Pochereth Hazzebaim, the_H1121 children_H1121 of_H1121 Ami. 
+@58 All_H3605 the_H3605 temple_H5411 servants_H5650, and_H1121 the_H3605 children_H1121 of_H1121 Solomon’s_H8010 servants_H5650, were_H1121 three_H7969 hundred_H3967 ninety-two. 
 
-@59 These were those who went up from Tel Melah, Tel Harsha, Cherub, Addan, and Immer; but they could not show their fathers’ houses and their offspring,^a^ whether they were of Israel: 
-@60 the children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred fifty-two. 
-@61 Of the children of the priests: the children of Habaiah, the children of Hakkoz, and the children of Barzillai, who took a wife of the daughters of Barzillai the Gileadite, and was called after their name. 
-@62 These sought their place among those who were registered by genealogy, but they were not found; therefore they were deemed disqualified and removed from the priesthood. 
-@63 The governor told them that they should not eat of the most holy things until a priest stood up to serve with Urim and with Thummim. 
+@59 These_H0428 were_H3478 those_H0428 who_H3478 went_H5927 up_H5927 from_H3478 Tel Melah, Tel Harsha, Cherub_H3743, Addan_H0135, and_H3478 Immer_H0564; but_H0518 they_H1992 could_H3201 not_H3808 show_H5046 their_H1992 fathers’_H0001 houses_H1004 and_H3478 their_H1992 offspring_H2233,^a^ whether_H0518 they_H1992 were_H3478 of_H1004 Israel_H3478: 
+@60 the_H1121 children_H1121 of_H1121 Delaiah_H1806, the_H1121 children_H1121 of_H1121 Tobiah_H2900, the_H1121 children_H1121 of_H1121 Nekoda_H5353, six_H8337 hundred_H3967 fifty-two_H2572. 
+@61 Of_H1121 the_H0834 children_H1121 of_H1121 the_H0834 priests_H3548: the_H0834 children_H1121 of_H1121 Habaiah_H2252, the_H0834 children_H1121 of_H1121 Hakkoz_H6976, and_H1121 the_H0834 children_H1121 of_H1121 Barzillai_H1271, who_H0834 took_H3947 a_H3947 wife_H0802 of_H1121 the_H0834 daughters_H1323 of_H1121 Barzillai_H1271 the_H0834 Gileadite_H1569, and_H1121 was_H8034 called_H7121 after_H5921 their_H3947 name_H8034. 
+@62 These_H0428 sought_H1245 their_H1245 place among_H4480 those_H0428 who_H0428 were_H0428 registered by_H3187 genealogy_H3187, but_H3808 they_H3808 were_H0428 not_H3808 found_H4672; therefore they_H3808 were_H0428 deemed disqualified and_H3808 removed_H4480 from_H4480 the_H4480 priesthood_H3550. 
+@63 The_H0559 governor_H8660 told_H0559 them_H5975 that_H0834 they_H0834 should_H3548 not_H3808 eat_H0398 of_H3548 the_H0559 most_H6944 holy_H6944 things_H6944 until_H5704 a_H0834 priest_H3548 stood_H5975 up_H5975 to_H0559 serve_H5975 with_H0398 Urim_H0224 and_H0398 with_H0398 Thummim_H8550. 
 ^a^[**2:59** or, seed]
 
 ## Total number of people and pack animals in the municipality
-@64 The whole assembly together was forty-two thousand three hundred sixty, 
-@65 in addition to their male servants and their female servants, of whom there were seven thousand three hundred thirty-seven; and they had two hundred singing men and singing women. 
-@66 Their horses were seven hundred thirty-six; their mules, two hundred forty-five; 
-@67 their camels, four hundred thirty-five; their donkeys, six thousand seven hundred twenty.
+@64 The_H3605 whole_H3605 assembly_H6951 together_H0259 was_H0259 forty-two thousand_H0505 three_H7969 hundred_H3967 sixty_H8346, 
+@65 in_H5650 addition to_H5650 their male_H5650 servants_H5650 and_H3967 their female_H0519 servants_H5650, of_H5650 whom_H0428 there were_H0428 seven_H7651 thousand_H0505 three_H7969 hundred_H3967 thirty-seven; and_H3967 they_H0428 had_H7969 two_H3967 hundred_H3967 singing_H7891 men_H5650 and_H3967 singing_H7891 women. 
+@66 Their horses_H5483 were seven_H7651 hundred_H3967 thirty-six; their mules_H6505, two_H3967 hundred_H3967 forty-five_H0705; 
+@67 their camels_H1581, four_H0702 hundred_H3967 thirty-five; their donkeys_H2543, six_H8337 thousand_H0505 seven_H7651 hundred_H3967 twenty_H6242.
 
 ## Contributions to the construction of the temple in Jerusalem; final word
-@68 Some of the heads of fathers’ households, when they came to Yahweh’s house which is in Jerusalem, offered willingly for God’s house to set it up in its place. 
-@69 They gave according to their ability into the treasury of the work sixty-one thousand darics of gold,^a^ five thousand minas^b^ of silver, and one hundred priests’ garments. 
+@68 Some of_H1004 the_H0834 heads_H7218 of_H1004 fathers’_H0001 households_H1004, when_H0834 they_H0834 came_H0935 to_H0935 Yahweh’s_H3068 house_H1004 which_H0834 is_H0834 in_H5921 Jerusalem_H3389, offered_H5068 willingly_H5068 for_H5921 God’s_H0430 house_H1004 to_H0935 set_H5975 it_H5921 up_H5975 in_H5921 its_H5921 place_H4349. 
+@69 They_H4399 gave_H5414 according to_H5414 their_H5414 ability_H3581 into_H5414 the_H5414 treasury_H0214 of_H0505 the_H5414 work_H4399 sixty-one thousand_H0505 darics of_H0505 gold_H2091,^a^ five_H2568 thousand_H0505 minas_H4488^b^ of_H0505 silver_H3701, and_H3967 one_H3967 hundred_H3967 priests’_H3548 garments_H3801. 
 ^a^[**2:69** a daric was a gold coin issued by a Persian king, weighing about 8.4 grams or about 0.27 troy ounces each.] ^b^[**2:69** A mina is about 600 grams or 1.3 U. S. pounds, so 5,000 minas is about 3 metric tons.]
 
-@70 So the priests and the Levites, with some of the people, the singers, the gatekeepers, and the temple servants, lived in their cities, and all Israel in their cities. 
+@70 So_H4480 the_H3605 priests_H3548 and_H3478 the_H3605 Levites_H3881, with_H3427 some_H4480 of_H3427 the_H3605 people_H5971, the_H3605 singers_H7891, the_H3605 gatekeepers_H7778, and_H3478 the_H3605 temple_H5411 servants_H5411, lived_H3427 in_H3427 their_H3605 cities_H5892, and_H3478 all_H3605 Israel_H3478 in_H3427 their_H3605 cities_H5892. 
 
 # 3 
 ## Construction of the altar of burnt offerings and establishment of the regular sacrificial service; Celebration of the Feast of Tabernacles
-@1 When the seventh month had come, and the children of Israel were in the cities, the people gathered themselves together as one man to Jerusalem. 
-@2 Then Jeshua the son of Jozadak stood up with his brothers the priests and Zerubbabel the son of Shealtiel and his relatives, and built the altar of the God of Israel, to offer burnt offerings on it, as it is written in the law of Moses the man of God. 
-@3 In spite of their fear because of the peoples of the surrounding lands, they set the altar on its base; and they offered burnt offerings on it to Yahweh, even burnt offerings morning and evening. 
-@4 They kept the feast of booths, as it is written, and offered the daily burnt offerings by number, according to the ordinance, as the duty of every day required; 
-@5 and afterward the continual burnt offering, the offerings of the new moons, of all the set feasts of Yahweh that were consecrated, and of everyone who willingly offered a free will offering to Yahweh. 
-@6 From the first day of the seventh month, they began to offer burnt offerings to Yahweh; but the foundation of Yahweh’s temple was not yet laid.
+@1 When_H1121 the_H0413 seventh_H7637 month_H2320 had_H3478 come_H5060, and_H1121 the_H0413 children_H1121 of_H1121 Israel_H3478 were_H3478 in_H0413 the_H0413 cities_H5892, the_H0413 people_H5971 gathered_H0622 themselves_H0622 together_H0622 as_H1121 one_H0259 man_H0376 to_H0413 Jerusalem_H3389. 
+@2 Then_H6965 Jeshua_H3442 the_H0853 son_H1121 of_H1121 Jozadak stood_H6965 up_H5927 with_H5921 his_H5921 brothers_H0251 the_H0853 priests_H3548 and_H1121 Zerubbabel_H2216 the_H0853 son_H1121 of_H1121 Shealtiel_H7597 and_H1121 his_H5921 relatives_H0251, and_H1121 built_H1129 the_H0853 altar_H4196 of_H1121 the_H0853 God_H0430 of_H1121 Israel_H3478, to_H5921 offer_H5927 burnt_H5930 offerings_H3478 on_H5921 it_H5921, as_H1121 it_H5921 is_H0430 written_H3789 in_H5921 the_H0853 law_H8451 of_H1121 Moses_H4872 the_H0853 man_H0376 of_H1121 God_H0430. 
+@3 In_H5921 spite_H5921 of_H0776 their_H3068 fear_H0367 because_H3588 of_H0776 the_H5921 peoples_H5971 of_H0776 the_H5921 surrounding lands_H0776, they_H3588 set_H3559 the_H5921 altar_H4196 on_H5921 its_H5921 base; and_H3068 they_H3588 offered_H5927 burnt_H5930 offerings_H3068 on_H5921 it_H5921 to_H5921 Yahweh_H3068, even_H3588 burnt_H5930 offerings_H3068 morning_H1242 and_H3068 evening_H6153. 
+@4 They_H3117 kept_H6213 the_H0853 feast_H2282 of_H3117 booths_H5521, as_H1697 it_H6213 is_H3117 written_H3789, and_H3117 offered the_H0853 daily_H3117 burnt_H5930 offerings_H5930 by_H3117 number_H4557, according_H4941 to_H3117 the_H0853 ordinance_H4941, as_H1697 the_H0853 duty_H1697 of_H3117 every_H3117 day_H3117 required_H1697; 
+@5 and_H3068 afterward_H0310 the_H3605 continual_H8548 burnt_H5930 offering_H5071, the_H3605 offerings_H5071 of_H3068 the_H3605 new_H2320 moons_H2320, of_H3068 all_H3605 the_H3605 set_H6942 feasts_H4150 of_H3068 Yahweh_H3068 that_H3605 were consecrated_H6942, and_H3068 of_H3068 everyone_H3605 who_H3605 willingly_H5068 offered_H5068 a_H3068 free will_H3068 offering_H5071 to_H3068 Yahweh_H3068. 
+@6 From_H5927 the_H3068 first_H0259 day_H3117 of_H3068 the_H3068 seventh_H7637 month_H2320, they_H3117 began_H2490 to_H3068 offer_H5927 burnt_H5930 offerings_H3068 to_H3068 Yahweh_H3068; but_H3808 the_H3068 foundation_H3245 of_H3068 Yahweh’s_H3068 temple_H1964 was_H3068 not_H3808 yet_H3068 laid_H3245.
 
 ## Preparations for the construction of temples; Ceremonial laying of the foundation stone
-@7 They also gave money to the masons and to the carpenters. They also gave food, drink, and oil to the people of Sidon and Tyre to bring cedar trees from Lebanon to the sea, to Joppa, according to the grant that they had from Cyrus King of Persia. 
+@7 They_H5921 also_H4428 gave_H5414 money_H3701 to_H0413 the_H5921 masons_H2672 and_H0935 to_H0413 the_H5921 carpenters_H2796. They_H5921 also_H4428 gave_H5414 food_H3978, drink_H4960, and_H0935 oil_H8081 to_H0413 the_H5921 people of_H4428 Sidon and_H0935 Tyre_H6876 to_H0413 bring_H0935 cedar_H0730 trees_H6086 from_H4480 Lebanon_H3844 to_H0413 the_H5921 sea_H3220, to_H0413 Joppa_H3305, according_H5921 to_H0413 the_H5921 grant_H5414 that_H4480 they_H5921 had_H4428 from_H4480 Cyrus_H3566 King_H4428 of_H4428 Persia_H6539. 
 
-@8 Now in the second year of their coming to God’s house at Jerusalem, in the second month, Zerubbabel the son of Shealtiel, Jeshua the son of Jozadak, and the rest of their brothers the priests and the Levites, and all those who had come out of the captivity to Jerusalem, began the work and appointed the Levites, from twenty years old and upward, to have the oversight of the work of Yahweh’s house. 
-@9 Then Jeshua stood with his sons and his brothers, Kadmiel and his sons, the sons of Judah, together to have the oversight of the workmen in God’s house: the sons of Henadad, with their sons and their brothers the Levites. 
+@8 Now_H0935 in_H5921 the_H3605 second_H8145 year_H8141 of_H1121 their_H3605 coming_H0935 to_H0413 God’s_H0430 house_H1004 at_H0413 Jerusalem_H3389, in_H5921 the_H3605 second_H8145 month_H2320, Zerubbabel_H2216 the_H3605 son_H1121 of_H1121 Shealtiel_H7597, Jeshua_H3442 the_H3605 son_H1121 of_H1121 Jozadak, and_H1121 the_H3605 rest_H7605 of_H1121 their_H3605 brothers_H0251 the_H3605 priests_H3548 and_H1121 the_H3605 Levites_H3881, and_H1121 all_H3605 those_H3605 who_H3605 had_H3068 come_H0935 out_H5921 of_H1121 the_H3605 captivity_H7628 to_H0413 Jerusalem_H3389, began_H2490 the_H3605 work_H4399 and_H1121 appointed_H5975 the_H3605 Levites_H3881, from_H0935 twenty_H6242 years_H8141 old_H1121 and_H1121 upward_H4605, to_H0413 have_H1121 the_H3605 oversight of_H1121 the_H3605 work_H4399 of_H1121 Yahweh’s_H3068 house_H1004. 
+@9 Then_H6213 Jeshua_H3442 stood_H5975 with_H1004 his_H5921 sons_H1121 and_H1121 his_H5921 brothers_H0251, Kadmiel_H6934 and_H1121 his_H5921 sons_H1121, the_H5921 sons_H1121 of_H1121 Judah_H3063, together_H0259 to_H5921 have_H1121 the_H5921 oversight of_H1121 the_H5921 workmen_H4399 in_H5921 God’s_H0430 house_H1004: the_H5921 sons_H1121 of_H1121 Henadad_H2582, with_H1004 their_H5921 sons_H1121 and_H1121 their_H5921 brothers_H0251 the_H5921 Levites_H3881. 
 
-@10 When the builders laid the foundation of Yahweh’s temple, they set the priests in their vestments with trumpets, with the Levites the sons of Asaph with cymbals, to praise Yahweh, according to the directions of David king of Israel. 
-@11 They sang to one another in praising and giving thanks to Yahweh, “For he is good, for his loving kindness endures forever toward Israel.” All the people shouted with a great shout, when they praised Yahweh, because the foundation of Yahweh’s house had been laid. 
+@10 When_H1121 the_H0853 builders_H1129 laid_H3245 the_H0853 foundation_H3245 of_H1121 Yahweh’s_H3068 temple_H1964, they_H5921 set_H5975 the_H0853 priests_H3548 in_H5921 their_H3068 vestments with_H3068 trumpets_H2689, with_H3068 the_H0853 Levites_H3881 the_H0853 sons_H1121 of_H1121 Asaph_H0623 with_H3068 cymbals_H4700, to_H5921 praise_H1984 Yahweh_H3068, according_H5921 to_H5921 the_H0853 directions_H3027 of_H1121 David_H1732 king_H4428 of_H1121 Israel_H3478. 
+@11 They_H3588 sang_H7321 to_H5921 one_H3605 another in_H5921 praising_H1984 and_H3068 giving_H3034 thanks_H3034 to_H5921 Yahweh_H3068, “For_H3588 he_H3588 is_H3068 good_H2896, for_H3588 his_H3605 loving kindness_H2617 endures_H5769 forever_H5769 toward_H5921 Israel_H3478.” All_H3605 the_H3605 people_H5971 shouted_H7321 with_H1004 a_H3588 great_H1419 shout_H7321, when_H3588 they_H3588 praised_H1984 Yahweh_H3068, because_H3588 the_H3605 foundation_H3245 of_H1004 Yahweh’s_H3068 house_H1004 had_H3068 been_H5769 laid_H3245. 
 
-@12 But many of the priests and Levites and heads of fathers’ households, the old men who had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice. Many also shouted aloud for joy, 
-@13 so that the people could not discern the noise of the shout of joy from the noise of the weeping of the people; for the people shouted with a loud shout, and the noise was heard far away. 
+@12 But_H7200 many_H7227 of_H1004 the_H0853 priests_H3548 and_H1004 Levites_H3881 and_H1004 heads_H7218 of_H1004 fathers’_H0001 households_H1004, the_H0853 old_H2205 men_H7218 who_H0834 had_H0834 seen_H7200 the_H0853 first_H7223 house_H1004, when_H0834 the_H0853 foundation_H3245 of_H1004 this_H2088 house_H1004 was_H0834 laid_H3245 before_H5869 their_H7200 eyes_H5869, wept_H1058 with_H1004 a_H7200 loud_H1419 voice_H6963. Many_H7227 also_H0853 shouted_H8643 aloud_H7311 for_H1004 joy_H8057, 
+@13 so_H3588 that_H3588 the_H3588 people_H5971 could_H5971 not_H0369 discern_H8085 the_H3588 noise_H6963 of_H6963 the_H3588 shout_H7321 of_H6963 joy_H8057 from_H8085 the_H3588 noise_H6963 of_H6963 the_H3588 weeping_H1065 of_H6963 the_H3588 people_H5971; for_H3588 the_H3588 people_H5971 shouted_H7321 with_H8085 a_H3588 loud_H1419 shout_H7321, and_H1419 the_H3588 noise_H6963 was_H0369 heard_H8085 far_H5704 away_H7350. 
 
 # 4 
 ## Refusal of the Samaritans to participate in the construction of the temple
-@1 Now when the adversaries of Judah and Benjamin heard that the children of the captivity were building a temple to Yahweh, the God of Israel, 
-@2 they came near to Zerubbabel, and to the heads of fathers’ households, and said to them, “Let us build with you, for we seek your God as you do; and we have been sacrificing to him since the days of Esar Haddon king of Assyria, who brought us up here.” 
+@1 Now_H3588 when_H3588 the_H3588 adversaries of_H1121 Judah_H3063 and_H1121 Benjamin_H1144 heard_H8085 that_H3588 the_H3588 children_H1121 of_H1121 the_H3588 captivity were_H3478 building_H1129 a_H3588 temple_H1964 to_H3068 Yahweh_H3068, the_H3588 God_H0430 of_H1121 Israel_H3478, 
+@2 they_H1992 came_H5927 near_H5066 to_H0413 Zerubbabel_H2216, and_H0430 to_H0413 the_H0853 heads_H7218 of_H4428 fathers’_H0001 households_H0001, and_H0430 said_H0559 to_H0413 them_H0413, “Let_H3808 us_H0413 build_H1129 with_H5973 you_H3588, for_H3588 we_H0587 seek_H1875 your_H3588 God_H0430 as_H3117 you_H3588 do; and_H0430 we_H0587 have_H0001 been_H5927 sacrificing_H2076 to_H0413 him_H0413 since_H3588 the_H0853 days_H3117 of_H4428 Esar Haddon king_H4428 of_H4428 Assyria_H0804, who_H0430 brought_H5927 us_H0413 up_H5927 here_H6311.” 
 
-@3 But Zerubbabel, Jeshua, and the rest of the heads of fathers’ households of Israel said to them, “You have nothing to do with us in building a house to our God; but we ourselves together will build to Yahweh, the God of Israel, as King Cyrus the king of Persia has commanded us.” 
+@3 But_H3588 Zerubbabel_H2216, Jeshua_H3442, and_H3068 the_H0559 rest_H7605 of_H4428 the_H0559 heads_H7218 of_H4428 fathers’_H0001 households_H1004 of_H4428 Israel_H3478 said_H0559 to_H0559 them_H6680, “You_H0834 have_H0834 nothing_H3808 to_H0559 do_H6680 with_H1004 us_H3588 in_H0430 building_H1129 a_H3588 house_H1004 to_H0559 our_H3068 God_H0430; but_H3588 we_H0587 ourselves_H0587 together_H3162 will_H3068 build_H1129 to_H0559 Yahweh_H3068, the_H0559 God_H0430 of_H4428 Israel_H3478, as_H0834 King_H4428 Cyrus_H3566 the_H0559 king_H4428 of_H4428 Persia_H6539 has_H3068 commanded_H6680 us_H3588.” 
 
-@4 Then the people of the land weakened the hands of the people of Judah, and troubled them in building. 
-@5 They hired counselors against them to frustrate their purpose all the days of Cyrus king of Persia, even until the reign of Darius king of Persia.
+@4 Then_H1961 the_H0853 people_H5971 of_H0776 the_H0853 land_H0776 weakened the_H0853 hands_H3027 of_H0776 the_H0853 people_H5971 of_H0776 Judah_H3063, and_H3063 troubled them_H0853 in_H0776 building_H1129. 
+@5 They_H3117 hired_H7936 counselors_H3289 against_H5921 them_H5921 to_H5704 frustrate their_H3605 purpose_H6098 all_H3605 the_H3605 days_H3117 of_H4428 Cyrus_H3566 king_H4428 of_H4428 Persia_H6539, even_H5704 until_H5704 the_H3605 reign_H4438 of_H4428 Darius_H1867 king_H4428 of_H4428 Persia_H6539.
 
 ## Various accusations against the Jews and their temple and the construction of walls under the rule of Xerxes and Artaxerxes
-@6 In the reign of Ahasuerus, in the beginning of his reign, they wrote an accusation against the inhabitants of Judah and Jerusalem. 
+@6 In_H3427 the_H5921 reign_H4438 of_H3427 Ahasuerus_H0325, in_H3427 the_H5921 beginning_H8462 of_H3427 his_H5921 reign_H4438, they_H5921 wrote_H3789 an_H5921 accusation_H7855 against_H5921 the_H5921 inhabitants_H3427 of_H3427 Judah_H3063 and_H3063 Jerusalem_H3389. 
 
-@7 In the days of Artaxerxes, Bishlam, Mithredath, Tabeel, and the rest of his companions wrote to Artaxerxes king of Persia; and the writing of the letter was written in Syrian and delivered in the Syrian language. 
-@8 Rehum the chancellor and Shimshai the scribe wrote a letter against Jerusalem to Artaxerxes the king as follows. 
-@9 Then Rehum the chancellor, Shimshai the scribe, and the rest of their companions, the Dinaites, and the Apharsathchites, the Tarpelites, the Apharsites, the Archevites, the Babylonians, the Shushanchites, the Dehaites, the Elamites, 
-@10 and the rest of the nations whom the great and noble Osnappar brought over and settled in the city of Samaria, and in the rest of the country beyond the River, and so forth, wrote. 
+@7 In_H5921 the_H5921 days_H3117 of_H4428 Artaxerxes_H0783, Bishlam_H1312, Mithredath_H4990, Tabeel_H2870, and_H4428 the_H5921 rest_H7605 of_H4428 his_H5921 companions wrote_H3789 to_H5921 Artaxerxes_H0783 king_H4428 of_H4428 Persia_H6539; and_H4428 the_H5921 writing_H3789 of_H4428 the_H5921 letter_H3791 was_H4428 written_H3789 in_H5921 Syrian and_H4428 delivered in_H5921 the_H5921 Syrian language. 
+@8 Rehum_H7348 the_H5922 chancellor and_H4430 Shimshai_H8124 the_H5922 scribe_H5613 wrote_H3790 a_H2298 letter_H0104 against_H5922 Jerusalem_H3390 to_H5922 Artaxerxes_H0783 the_H5922 king_H4430 as follows_H3660. 
+@9 Then_H0116 Rehum_H7348 the_H0116 chancellor, Shimshai_H8124 the_H0116 scribe_H5613, and_H0116 the_H0116 rest_H7606 of_H7801 their companions, the_H0116 Dinaites, and_H0116 the_H0116 Apharsathchites, the_H0116 Tarpelites, the_H0116 Apharsites, the_H0116 Archevites, the_H0116 Babylonians_H0896, the_H0116 Shushanchites, the_H0116 Dehaites, the_H0116 Elamites_H5962, 
+@10 and_H0524 the_H5675 rest_H7606 of_H5103 the_H5675 nations_H0524 whom_H1768 the_H5675 great_H7229 and_H0524 noble Osnappar_H0620 brought over and_H0524 settled_H3488 in_H1768 the_H5675 city_H7149 of_H5103 Samaria_H8115, and_H0524 in_H1768 the_H5675 rest_H7606 of_H5103 the_H5675 country beyond_H5675 the_H5675 River_H5103, and_H0524 so_H1768 forth, wrote. 
 
-@11 This is the copy of the letter that they sent: To King Artaxerxes, from your servants, the people beyond the River. 
+@11 This_H1836 is_H1768 the_H5675 copy_H6573 of_H4430 the_H5675 letter_H0104 that_H1768 they_H1768 sent_H7972: To_H5922 King_H4430 Artaxerxes_H0783, from_H1768 your_H5922 servants_H5649, the_H5675 people beyond_H5675 the_H5675 River_H5103. 
 
 i1
-@12 Be it known to the king that the Jews who came up from you have come to us to Jerusalem. They are building the rebellious and bad city, and have finished the walls and repaired the foundations. 
-@13 Be it known now to the king that if this city is built and the walls finished, they will not pay tribute, custom, or toll, and in the end it will be hurtful to the kings. 
-@14 Now because we eat the salt of the palace and it is not appropriate for us to see the king’s dishonor, therefore we have sent and informed the king, 
-@15 that search may be made in the book of the records of your fathers. You will see in the book of the records, and know that this city is a rebellious city, and hurtful to kings and provinces, and that they have started rebellions within it in the past. That is why this city was destroyed. 
-@16 We inform the king that if this city is built and the walls finished, then you will have no possession beyond the River.
+@12 Be_H1934 it_H5922 known_H3046 to_H5922 the_H5922 king_H4430 that_H1768 the_H5922 Jews_H3062 who_H1768 came_H0858 up_H5559 from_H4481 you_H1768 have_H4430 come_H0858 to_H5922 us to_H5922 Jerusalem_H3390. They_H1768 are_H1768 building_H1124 the_H5922 rebellious and_H4430 bad city_H7149, and_H4430 have_H4430 finished_H3635 the_H5922 walls_H7792 and_H4430 repaired the_H5922 foundations_H0787. 
+@13 Be_H1934 it_H2006 known_H3046 now_H3705 to_H3046 the_H1768 king_H4430 that_H1768 if_H2006 this_H1791 city_H7149 is_H1768 built_H1124 and_H4430 the_H1768 walls_H7792 finished_H3635, they_H1768 will_H1768 not_H3809 pay_H5415 tribute_H4061, custom_H1093, or_H2006 toll_H1983, and_H4430 in_H4430 the_H1768 end it_H2006 will_H1768 be_H1934 hurtful to_H3046 the_H1768 kings_H4430. 
+@14 Now_H3705 because_H6903 we_H1768 eat the_H3606 salt_H4416 of_H4430 the_H3606 palace_H1965 and_H4430 it_H5922 is_H1768 not_H3809 appropriate_H0749 for_H1768 us to_H5922 see_H2370 the_H3606 king’s_H4430 dishonor_H6173, therefore_H6903 we_H1768 have_H4430 sent_H7972 and_H4430 informed_H3046 the_H3606 king_H4430, 
+@15 that_H1768 search_H1240 may be_H1240 made_H3046 in_H5922 the_H5922 book_H5609 of_H4481 the_H5922 records of_H4481 your_H5922 fathers_H0002. You_H1768 will_H1768 see in_H5922 the_H5922 book_H5609 of_H4481 the_H5922 records, and_H4430 know_H3046 that_H1768 this_H1836 city_H7149 is_H1768 a_H5648 rebellious city_H7149, and_H4430 hurtful to_H5922 kings_H4430 and_H4430 provinces_H4083, and_H4430 that_H1768 they_H1768 have_H4430 started rebellions within_H1459 it_H5922 in_H5922 the_H5922 past_H5957. That_H1768 is_H1768 why this_H1836 city_H7149 was_H4430 destroyed. 
+@16 We_H0586 inform_H3046 the_H5675 king_H4430 that_H1768 if_H2006 this_H1836 city_H7149 is_H1768 built_H1124 and_H4430 the_H5675 walls_H7792 finished_H3635, then_H4430 you_H1768 will_H1768 have_H0383 no_H3809 possession_H2508 beyond_H5675 the_H5675 River_H5103.
 
 ## The construction of the temple was paralyzed as a result of a royal decree
-@17 Then the king sent an answer to Rehum the chancellor, and to Shimshai the scribe, and to the rest of their companions who live in Samaria, and in the rest of the country beyond the River: Peace. 
+@17 Then_H4430 the_H5675 king_H4430 sent_H7972 an_H7972 answer_H6600 to_H5922 Rehum_H7348 the_H5675 chancellor, and_H4430 to_H5922 Shimshai_H8124 the_H5675 scribe_H5613, and_H4430 to_H5922 the_H5675 rest_H7606 of_H4430 their companions who_H1768 live_H3488 in_H5922 Samaria_H8115, and_H4430 in_H5922 the_H5675 rest_H7606 of_H4430 the_H5675 country beyond_H5675 the_H5675 River_H5103: Peace_H8001. 
 
 i1
-@18 The letter which you sent to us has been plainly read before me. 
-@19 I decreed, and search has been made, and it was found that this city has made insurrection against kings in the past, and that rebellion and revolts have been made in it. 
-@20 There have also been mighty kings over Jerusalem who have ruled over all the country beyond the River; and tribute, custom, and toll was paid to them. 
-@21 Make a decree now to cause these men to cease, and that this city not be built until a decree is made by me. 
-@22 Be careful that you not be slack doing so. Why should damage grow to the hurt of the kings? 
+@18 The_H5922 letter which_H1768 you_H1768 sent_H7972 to_H5922 us has_H1768 been plainly read_H7123 before_H6925 me_H6925. 
+@19 I_H4481 decreed, and_H4430 search_H1240 has_H1768 been made_H5648, and_H4430 it_H5922 was_H4430 found_H7912 that_H1768 this_H1791 city_H7149 has_H1768 made_H5648 insurrection against_H5922 kings_H4430 in_H5922 the_H5922 past_H5957, and_H4430 that_H1768 rebellion_H4776 and_H4430 revolts_H0849 have_H4430 been made_H5648 in_H5922 it_H5922. 
+@20 There have_H4430 also been mighty_H8624 kings_H4430 over_H5922 Jerusalem_H3390 who have_H4430 ruled_H1934 over_H5922 all_H3606 the_H3606 country beyond_H5675 the_H3606 River_H5103; and_H4430 tribute_H4061, custom_H1093, and_H4430 toll_H1983 was_H1934 paid_H3052 to_H5922 them. 
+@21 Make_H7761 a_H7761 decree_H2942 now_H3705 to_H2942 cause these_H0479 men_H1400 to_H2942 cease_H0989, and_H7149 that_H2942 this_H1791 city_H7149 not_H3809 be_H3705 built_H1124 until_H5705 a_H7761 decree_H2942 is_H7149 made_H7761 by_H7761 me. 
+@22 Be_H1934 careful that_H4430 you_H5922 not be_H1934 slack doing_H5648 so. Why_H4101 should_H4101 damage_H5142 grow to_H5922 the_H5922 hurt of_H4430 the_H5922 kings_H4430? 
 
-@23 Then when the copy of King Artaxerxes’ letter was read before Rehum, Shimshai the scribe, and their companions, they went in haste to Jerusalem to the Jews, and made them to cease by force of arms. 
-@24 Then work stopped on God’s house which is at Jerusalem. It stopped until the second year of the reign of Darius king of Persia. 
+@23 Then_H0116 when_H1768 the_H0116 copy_H6573 of_H4481 King_H4430 Artaxerxes’ letter was_H4430 read_H7123 before_H6925 Rehum_H7348, Shimshai_H8124 the_H0116 scribe_H5613, and_H4430 their companions, they_H0116 went_H0236 in_H0236 haste_H0924 to_H5922 Jerusalem_H3390 to_H5922 the_H0116 Jews_H3062, and_H4430 made_H7123 them_H1994 to_H5922 cease_H0989 by_H4481 force_H0153 of_H4481 arms_H2429. 
+@24 Then_H0116 work_H5673 stopped_H0989 on_H5705 God’s house_H1005 which_H1768 is_H1768 at_H0426 Jerusalem_H3390. It stopped_H0989 until_H5705 the_H0116 second_H8648 year_H8140 of_H0426 the_H0116 reign_H4437 of_H0426 Darius_H1868 king_H4430 of_H0426 Persia_H6540. 
 
 # 5 
 ## Favorable prophecies of two prophets; Governor's permission to resume construction
-@1 Now the prophets, Haggai the prophet and Zechariah the son of Iddo, prophesied to the Jews who were in Judah and Jerusalem. They prophesied to them in the name of the God of Israel. 
-@2 Then Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak rose up and began to build God’s house which is at Jerusalem; and with them were the prophets of God, helping them. 
+@1 Now the_H5922 prophets, Haggai_H2292 the_H5922 prophet and_H3061 Zechariah_H2148 the_H5922 son_H1247 of_H0426 Iddo_H5714, prophesied_H5013 to_H5922 the_H5922 Jews_H3062 who_H1768 were_H1768 in_H0426 Judah_H3061 and_H3061 Jerusalem_H3390. They_H1768 prophesied_H5013 to_H5922 them in_H0426 the_H5922 name_H8036 of_H0426 the_H5922 God_H0426 of_H0426 Israel_H3479. 
+@2 Then_H0116 Zerubbabel_H2217 the_H0116 son_H1247 of_H0426 Shealtiel_H7598, and_H1005 Jeshua_H3443 the_H0116 son_H1247 of_H0426 Jozadak rose up and_H1005 began_H8271 to_H5974 build God’s house_H1005 which_H1768 is_H1768 at_H0426 Jerusalem_H3390; and_H1005 with_H5974 them were_H1768 the_H0116 prophets_H5029 of_H0426 God_H0426, helping them. 
 
-@3 At the same time Tattenai, the governor beyond the River, came to them, with Shetharbozenai and their companions, and asked them, “Who gave you a decree to build this house and to finish this wall?” 
-@4 They also asked for the names of the men were who were making this building. 
-@5 But the eye of their God was on the elders of the Jews, and they didn’t make them cease until the matter should come to Darius, and an answer should be returned by letter concerning it.
+@3 At the_H5675 same time_H2166 Tattenai_H8674, the_H5675 governor_H6347 beyond_H5675 the_H5675 River_H5103, came_H0858 to_H5922 them_H0560, with_H5922 Shetharbozenai and_H3652 their companions, and_H3652 asked_H0560 them_H0560, “Who_H4479 gave_H0560 you_H5922 a_H7761 decree_H2942 to_H5922 build this_H1836 house_H1005 and_H3652 to_H5922 finish_H3635 this_H1836 wall?” 
+@4 They_H0116 also_H3660 asked_H0560 for_H1768 the_H0116 names_H8036 of_H1836 the_H0116 men_H1400 were_H1400 who_H1768 were_H1400 making this_H1836 building_H1124. 
+@5 But_H0116 the_H0116 eye of_H0426 their God_H0426 was_H1934 on_H5922 the_H0116 elders_H7868 of_H0426 the_H0116 Jews_H3062, and_H5705 they_H0116 didn’t make them_H1994 cease_H0989 until_H5705 the_H0116 matter should come to_H5922 Darius_H1868, and_H5705 an answer should be_H0426 returned_H8421 by letter concerning_H5922 it_H5922.
 
 ## Governor's report and investigation to King Darius on the construction of the temple
-@6 The copy of the letter that Tattenai, the governor beyond the River, and Shetharbozenai, and his companions the Apharsachites who were beyond the River, sent to Darius the king follows. 
-@7 They sent a letter to him, in which was written: To Darius the king, all peace. 
+@6 The_H5675 copy_H6573 of_H4430 the_H5675 letter_H0104 that_H1768 Tattenai_H8674, the_H5675 governor_H6347 beyond_H5675 the_H5675 River_H5103, and_H4430 Shetharbozenai, and_H4430 his_H7972 companions the_H5675 Apharsachites who_H1768 were_H1768 beyond_H5675 the_H5675 River_H5103, sent_H7972 to_H5922 Darius_H1868 the_H5675 king_H4430 follows. 
+@7 They sent_H7972 a_H7972 letter to_H5922 him, in_H5922 which was_H4430 written_H3790: To_H5922 Darius_H1868 the_H3606 king_H4430, all_H3606 peace_H8001. 
 
 i1
-@8 Be it known to the king that we went into the province of Judah, to the house of the great God, which is being built with great stones and timber is laid in the walls. This work goes on with diligence and prospers in their hands. 
-@9 Then we asked those elders, and said to them thus, “Who gave you a decree to build this house, and to finish this wall?” 
-@10 We asked them their names also, to inform you that we might write the names of the men who were at their head. 
-@11 Thus they returned us answer, saying, “We are the servants of the God of heaven and earth and are building the house that was built these many years ago, which a great king of Israel built and finished. 
-@12 But after our fathers had provoked the God of heaven to wrath, he gave them into the hand of Nebuchadnezzar king of Babylon, the Chaldean, who destroyed this house and carried the people away into Babylon. 
-@13 But in the first year of Cyrus king of Babylon, Cyrus the king made a decree to build this house of God. 
-@14 The gold and silver vessels of God’s house, which Nebuchadnezzar took out of the temple that was in Jerusalem and brought into the temple of Babylon, those Cyrus the king also took out of the temple of Babylon, and they were delivered to one whose name was Sheshbazzar, whom he had made governor. 
-@15 He said to him, ‘Take these vessels, go, put them in the temple that is in Jerusalem, and let God’s house be built in its place.’ 
-@16 Then the same Sheshbazzar came and laid the foundations of God’s house which is in Jerusalem. Since that time even until now it has been being built, and yet it is not completed. 
+@8 Be_H0426 it known_H3046 to_H0236 the_H1768 king_H4430 that_H1768 we_H1768 went_H0236 into the_H1768 province_H4083 of_H0426 Judah_H3061, to_H0236 the_H1768 house_H1005 of_H0426 the_H1768 great_H7229 God_H0426, which_H1768 is_H1768 being built_H1124 with_H1124 great_H7229 stones_H0069 and_H4430 timber_H0636 is_H1768 laid_H7761 in_H0426 the_H1768 walls_H3797. This_H1791 work_H5673 goes on with_H1124 diligence_H0629 and_H4430 prospers in_H0426 their hands_H3028. 
+@9 Then_H0116 we_H0116 asked_H7593 those_H0479 elders_H7868, and_H1005 said_H0560 to_H0560 them_H0560 thus_H1836, “Who_H4479 gave_H0560 you a_H7761 decree_H2942 to_H0560 build this_H1836 house_H1005, and_H1005 to_H0560 finish_H3635 this_H1836 wall?” 
+@10 We_H1768 asked_H7593 them their names_H8036 also_H0638, to_H8036 inform_H3046 you_H1768 that_H1768 we_H1768 might write_H3790 the_H1768 names_H8036 of_H7217 the_H1768 men_H1400 who_H1768 were_H1768 at their head_H7217. 
+@11 Thus_H1836 they_H3660 returned_H8421 us_H5649 answer_H6600, saying_H0560, “We_H0586 are_H1768 the_H1768 servants_H5649 of_H0426 the_H1768 God_H0426 of_H0426 heaven_H8065 and_H4430 earth_H0772 and_H4430 are_H1768 building_H1124 the_H1768 house_H1005 that_H1768 was_H1934 built_H1124 these_H1836 many_H7690 years_H8140 ago_H6928, which_H1768 a_H1934 great_H7229 king_H4430 of_H0426 Israel_H3479 built_H1124 and_H4430 finished_H3635. 
+@12 But_H3861 after_H4481 our fathers_H0002 had_H4430 provoked_H7265 the_H1768 God_H0426 of_H0426 heaven_H8065 to_H4481 wrath_H7265, he_H1768 gave_H3052 them_H1994 into the_H1768 hand_H3028 of_H0426 Nebuchadnezzar_H5020 king_H4430 of_H0426 Babylon_H0895, the_H1768 Chaldean, who_H1768 destroyed this_H1836 house_H1005 and_H4430 carried the_H1768 people_H5972 away into Babylon_H0895. 
+@13 But_H1297 in_H0426 the_H1768 first_H2298 year_H8140 of_H0426 Cyrus_H3567 king_H4430 of_H0426 Babylon_H0895, Cyrus_H3567 the_H1768 king_H4430 made_H7761 a_H7761 decree_H2942 to_H2942 build this_H1836 house_H1005 of_H0426 God_H0426. 
+@14 The_H1768 gold_H1722 and_H4430 silver_H3702 vessels_H3984 of_H0426 God’s house_H1005, which_H1768 Nebuchadnezzar_H5020 took_H5312 out of_H0426 the_H1768 temple_H1005 that_H1768 was_H4430 in_H0426 Jerusalem_H3390 and_H4430 brought_H2987 into the_H1768 temple_H1005 of_H0426 Babylon_H0895, those_H1768 Cyrus_H3567 the_H1768 king_H4430 also_H0638 took_H5312 out of_H0426 the_H1768 temple_H1005 of_H0426 Babylon_H0895, and_H4430 they_H1768 were_H1768 delivered to_H4481 one whose_H1768 name_H8036 was_H4430 Sheshbazzar_H8340, whom_H1768 he_H1768 had_H4430 made_H7761 governor_H6347. 
+@15 He_H1768 said_H0560 to_H5922 him, ‘Take_H5376 these_H0412 vessels_H3984, go_H0236, put_H5182 them_H1994 in_H0426 the_H5922 temple_H1005 that_H1768 is_H1768 in_H0426 Jerusalem_H3390, and_H1005 let God’s house_H1005 be_H0426 built_H1124 in_H0426 its place_H0870.’ 
+@16 Then_H0116 the_H0116 same Sheshbazzar_H8340 came_H0858 and_H1005 laid_H3052 the_H0116 foundations_H0787 of_H0426 God’s house_H1005 which_H1768 is_H1768 in_H0426 Jerusalem_H3390. Since_H1768 that_H1768 time_H0116 even_H1768 until_H5705 now_H3705 it has_H0426 been being built_H1124, and_H1005 yet it is_H1768 not_H3809 completed_H8000. 
 
 i1
-@17 Now therefore, if it seems good to the king, let a search be made in the king’s treasure house, which is there at Babylon, whether it is so that a decree was made by Cyrus the king to build this house of God at Jerusalem; and let the king send his pleasure to us concerning this matter.” 
+@17 Now_H3705 therefore, if_H2006 it_H2006 seems good to_H5922 the_H5922 king_H4430, let_H3705 a_H7761 search_H1240 be_H0426 made_H1240 in_H0426 the_H5922 king’s_H4430 treasure_H1596 house_H1005, which_H1768 is_H1768 there_H8536 at_H0426 Babylon_H0895, whether_H2006 it_H2006 is_H1768 so_H1768 that_H1768 a_H7761 decree_H2942 was_H4430 made_H1240 by_H7761 Cyrus_H3567 the_H5922 king_H4430 to_H5922 build this_H1836 house_H1005 of_H0426 God_H0426 at_H0426 Jerusalem_H3390; and_H4430 let_H3705 the_H5922 king_H4430 send_H7972 his_H7972 pleasure to_H5922 us concerning_H5922 this_H1836 matter.” 
 
 # 6 
 ## Find Cyrus decree in Ekbatana and information about it
-@1 Then Darius the king made a decree, and the house of the archives, where the treasures were laid up in Babylon, was searched. 
-@2 A scroll was found at Achmetha, in the palace that is in the province of Media, and in it this was written for a record: 
+@1 Then_H0116 Darius_H1868 the_H0116 king_H4430 made_H1240 a_H7761 decree_H2942, and_H4430 the_H0116 house_H1005 of_H1005 the_H0116 archives_H1596, where_H1768 the_H0116 treasures_H1596 were_H1768 laid_H7761 up in_H5182 Babylon_H0895, was_H4430 searched. 
+@2 A_H7912 scroll_H4040 was_H1768 found_H7912 at Achmetha, in_H1768 the_H1768 palace that_H1768 is_H1768 in_H1768 the_H1768 province_H4083 of_H4083 Media_H4076, and_H4076 in_H1768 it this was_H1768 written_H3790 for_H1768 a_H7912 record: 
 
 i1
-@3 In the first year of Cyrus the king, Cyrus the king made a decree: Concerning God’s house at Jerusalem, let the house be built, the place where they offer sacrifices, and let its foundations be strongly laid, with its height sixty cubits^a^ and its width sixty cubits; 
-@4 with three courses of great stones and a course of new timber. Let the expenses be given out of the king’s house. 
-@5 Also let the gold and silver vessels of God’s house, which Nebuchadnezzar took out of the temple which is at Jerusalem and brought to Babylon, be restored and brought again to the temple which is at Jerusalem, everything to its place. You shall put them in God’s house. 
+@3 In_H0426 the_H1768 first_H2298 year_H8140 of_H0426 Cyrus_H3567 the_H1768 king_H4430, Cyrus_H3567 the_H1768 king_H4430 made_H7761 a_H7761 decree_H2942: Concerning_H2942 God’s house_H1005 at_H0426 Jerusalem_H3390, let the_H1768 house_H1005 be_H0426 built_H1124, the_H1768 place_H0870 where_H1768 they_H1768 offer sacrifices_H1685, and_H4430 let its foundations_H0787 be_H0426 strongly laid_H7761, with_H1124 its height_H7314 sixty_H8361 cubits_H0521^a^ and_H4430 its width_H6613 sixty_H8361 cubits_H0521; 
+@4 with three_H8532 courses of_H1005 great stones_H0069 and_H4430 a course of_H1005 new timber_H0636. Let the_H1768 expenses be_H5313 given_H3052 out of_H1005 the_H1768 king’s_H4430 house_H1005. 
+@5 Also_H0638 let_H0638 the_H1768 gold_H1722 and_H3702 silver_H3702 vessels_H3984 of_H0426 God’s house_H1005, which_H1768 Nebuchadnezzar_H5020 took_H5312 out of_H0426 the_H1768 temple_H1005 which_H1768 is_H1768 at_H0426 Jerusalem_H3390 and_H3702 brought_H2987 to_H4481 Babylon_H0895, be_H0426 restored_H8421 and_H3702 brought_H2987 again to_H4481 the_H1768 temple_H1005 which_H1768 is_H1768 at_H0426 Jerusalem_H3390, everything to_H4481 its_H4481 place_H0870. You_H1768 shall put_H5182 them in_H0426 God’s house_H1005. 
 ^a^[**6:3** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters.]
 
 i1
 
 ## Decree of Darius to continue unhindered and promote the construction of the temple
-@6 Now therefore, Tattenai, governor beyond the River, Shetharbozenai, and your companions the Apharsachites, who are beyond the River, you must stay far from there. 
-@7 Leave the work of this house of God alone; let the governor of the Jews and the elders of the Jews build this house of God in its place. 
-@8 Moreover I make a decree regarding what you shall do for these elders of the Jews for the building of this house of God: that of the king’s goods, even of the tribute beyond the River, expenses must be given with all diligence to these men, that they not be hindered. 
-@9 That which they have need of, including young bulls, rams, and lambs, for burnt offerings to the God of heaven; also wheat, salt, wine, and oil, according to the word of the priests who are at Jerusalem, let it be given them day by day without fail, 
-@10 that they may offer sacrifices of pleasant aroma to the God of heaven, and pray for the life of the king and of his sons. 
-@11 I have also made a decree that whoever alters this message, let a beam be pulled out from his house, and let him be lifted up and fastened on it; and let his house be made a dunghill for this. 
-@12 May the God who has caused his name to dwell there overthrow all kings and peoples who stretch out their hand to alter this, to destroy this house of God which is at Jerusalem. I Darius have made a decree. Let it be done with all diligence.
+@6 Now_H3705 therefore, Tattenai_H8674, governor_H6347 beyond_H5675 the_H5675 River_H5103, Shetharbozenai, and_H8370 your companions the_H5675 Apharsachites, who_H1768 are_H1768 beyond_H5675 the_H5675 River_H5103, you_H1768 must stay far_H7352 from_H4481 there_H8536. 
+@7 Leave_H7662 the_H5922 work_H5673 of_H0426 this_H1791 house_H1005 of_H0426 God_H0426 alone_H7662; let the_H5922 governor_H6347 of_H0426 the_H5922 Jews_H3062 and_H1005 the_H5922 elders_H7868 of_H0426 the_H5922 Jews_H3062 build this_H1791 house_H1005 of_H0426 God_H0426 in_H0426 its place_H0870. 
+@8 Moreover I_H4481 make_H5648 a_H7761 decree_H2942 regarding what_H1768 you_H1768 shall do_H5648 for_H1768 these_H0479 elders_H7868 of_H0426 the_H5675 Jews_H3062 for_H1768 the_H5675 building_H1124 of_H0426 this_H1791 house_H1005 of_H0426 God_H0426: that_H1768 of_H0426 the_H5675 king’s_H4430 goods_H5232, even_H1768 of_H0426 the_H5675 tribute_H4061 beyond_H5675 the_H5675 River_H5103, expenses must be_H0426 given_H3052 with_H5974 all_H0629 diligence_H0629 to_H2942 these_H0479 men_H1400, that_H1768 they_H1768 not_H3809 be_H0426 hindered. 
+@9 That_H1768 which_H1768 they_H1768 have_H1934 need_H2818 of_H0426, including young_H1123 bulls_H8450, rams_H1798, and_H8065 lambs_H0563, for_H1768 burnt_H5928 offerings to_H3549 the_H1768 God_H0426 of_H0426 heaven_H8065; also wheat, salt_H4416, wine_H2562, and_H8065 oil_H4887, according to_H3549 the_H1768 word of_H0426 the_H1768 priests_H3549 who_H1768 are_H1768 at_H0426 Jerusalem_H3390, let it be_H0426 given_H3052 them day_H3118 by_H3549 day_H3118 without_H3809 fail_H7960, 
+@10 that_H1768 they_H1768 may_H2417 offer_H7127 sacrifices_H5208 of_H0426 pleasant aroma to_H8065 the_H1768 God_H0426 of_H0426 heaven_H8065, and_H4430 pray_H6739 for_H1768 the_H1768 life_H2417 of_H0426 the_H1768 king_H4430 and_H4430 of_H0426 his_H1768 sons_H1123. 
+@11 I_H4481 have also made_H5648 a_H7761 decree_H2942 that_H1768 whoever alters this_H1836 message, let a_H7761 beam be pulled out_H5648 from_H4481 his_H5922 house_H1005, and_H0606 let him_H4481 be lifted up and_H0606 fastened on_H5922 it_H5922; and_H0606 let his_H5922 house_H1005 be made_H5648 a_H7761 dunghill for_H1768 this_H1836. 
+@12 May the_H3606 God_H0426 who_H1768 has_H0426 caused his_H7972 name_H8036 to_H2942 dwell_H7932 there_H8536 overthrow_H4049 all_H3606 kings_H4430 and_H4430 peoples_H5972 who_H1768 stretch out_H5648 their_H3606 hand_H3028 to_H2942 alter this_H1791, to_H2942 destroy_H2255 this_H1791 house_H1005 of_H0426 God_H0426 which_H1768 is_H1768 at_H0426 Jerusalem_H3390. I_H0576 Darius_H1868 have_H0576 made_H5648 a_H7761 decree_H2942. Let it be_H0426 done_H5648 with_H0426 all_H3606 diligence_H0629.
 
 ## Completion and solemn dedication of the temple
-@13 Then Tattenai, the governor beyond the River, Shetharbozenai, and their companions did accordingly with all diligence, because Darius the king had sent a decree. 
+@13 Then_H0116 Tattenai_H8674, the_H5675 governor_H6347 beyond_H5675 the_H5675 River_H5103, Shetharbozenai, and_H4430 their companions did accordingly_H3660 with_H6903 all_H0629 diligence_H0629, because_H6903 Darius_H1868 the_H5675 king_H4430 had_H4430 sent_H7972 a_H5648 decree. 
 
-@14 The elders of the Jews built and prospered, through the prophesying of Haggai the prophet and Zechariah the son of Iddo. They built and finished it, according to the commandment of the God of Israel, and according to the decree of Cyrus, Darius, and Artaxerxes king of Persia. 
-@15 This house was finished on the third day of the month Adar, which was in the sixth year of the reign of Darius the king. 
+@14 The_H1868 elders_H7868 of_H0426 the_H1868 Jews_H3062 built_H1124 and_H4430 prospered_H6744, through the_H1868 prophesying_H5017 of_H0426 Haggai_H2292 the_H1868 prophet_H5029 and_H4430 Zechariah_H2148 the_H1868 son_H1247 of_H0426 Iddo_H5714. They built_H1124 and_H4430 finished_H3635 it, according_H4481 to_H2942 the_H1868 commandment of_H0426 the_H1868 God_H0426 of_H0426 Israel_H3479, and_H4430 according_H4481 to_H2942 the_H1868 decree_H2942 of_H0426 Cyrus_H3567, Darius_H1868, and_H4430 Artaxerxes_H0783 king_H4430 of_H0426 Persia_H6540. 
+@15 This_H1836 house_H1005 was_H4430 finished on_H5705 the_H1768 third_H8532 day_H3118 of_H1005 the_H1768 month_H3393 Adar_H0144, which_H1768 was_H4430 in_H4437 the_H1768 sixth_H8353 year_H8140 of_H1005 the_H1768 reign_H4437 of_H1005 Darius_H1868 the_H1768 king_H4430. 
 
-@16 The children of Israel, the priests, the Levites, and the rest of the children of the captivity, kept the dedication of this house of God with joy. 
-@17 They offered at the dedication of this house of God one hundred bulls, two hundred rams, four hundred lambs; and for a sin offering for all Israel, twelve male goats, according to the number of the tribes of Israel. 
-@18 They set the priests in their divisions and the Levites in their courses, for the service of God which is at Jerusalem, as it is written in the book of Moses.
+@16 The_H5648 children_H1123 of_H0426 Israel_H3479, the_H5648 priests_H3549, the_H5648 Levites_H3879, and_H1005 the_H5648 rest_H7606 of_H0426 the_H5648 children_H1123 of_H0426 the_H5648 captivity, kept the_H5648 dedication_H2597 of_H0426 this_H1836 house_H1005 of_H0426 God_H0426 with_H5648 joy_H2305. 
+@17 They offered_H7127 at_H0426 the_H3606 dedication_H2597 of_H0426 this_H1836 house_H1005 of_H0426 God_H0426 one_H1836 hundred_H3969 bulls_H8450, two hundred_H3969 rams_H1798, four_H0703 hundred_H3969 lambs_H0563; and_H1005 for_H5922 a sin_H2409 offering_H7127 for_H5922 all_H3606 Israel_H3479, twelve_H6236 male_H6841 goats_H5796, according to_H5922 the_H3606 number_H4510 of_H0426 the_H3606 tribes_H7625 of_H0426 Israel_H3479. 
+@18 They_H1768 set_H6966 the_H5922 priests_H3549 in_H0426 their divisions_H6392 and_H3792 the_H5922 Levites_H3879 in_H0426 their courses, for_H1768 the_H5922 service_H5673 of_H0426 God_H0426 which_H1768 is_H1768 at_H0426 Jerusalem_H3390, as_H1768 it_H5922 is_H1768 written_H3792 in_H0426 the_H5922 book_H5609 of_H0426 Moses_H4873.
 
 ## Easter Celebration
-@19 The children of the captivity kept the Passover on the fourteenth day of the first month. 
-@20 Because the priests and the Levites had purified themselves together, all of them were pure. They killed the Passover for all the children of the captivity, for their brothers the priests, and for themselves. 
-@21 The children of Israel who had returned out of the captivity, and all who had separated themselves to them from the filthiness of the nations of the land to seek Yahweh, the God of Israel, ate, 
-@22 and kept the feast of unleavened bread seven days with joy; because Yahweh had made them joyful, and had turned the heart of the king of Assyria to them, to strengthen their hands in the work of God, the God of Israel’s house. 
+@19 The_H0853 children_H1121 of_H1121 the_H0853 captivity kept_H6213 the_H0853 Passover_H6453 on_H6453 the_H0853 fourteenth day_H2320 of_H1121 the_H0853 first_H7223 month_H2320. 
+@20 Because_H3588 the_H3605 priests_H3548 and_H1121 the_H3605 Levites_H3881 had_H3588 purified_H2891 themselves_H2891 together_H0259, all_H3605 of_H1121 them_H1992 were_H1121 pure_H2889. They_H1992 killed_H7819 the_H3605 Passover_H6453 for_H3588 all_H3605 the_H3605 children_H1121 of_H1121 the_H3605 captivity, for_H3588 their_H3605 brothers_H0251 the_H3605 priests_H3548, and_H1121 for_H3588 themselves_H2891. 
+@21 The_H3605 children_H1121 of_H1121 Israel_H3478 who_H3605 had_H3068 returned_H7725 out_H0413 of_H1121 the_H3605 captivity, and_H1121 all_H3605 who_H3605 had_H3068 separated_H0914 themselves to_H0413 them_H0413 from_H7725 the_H3605 filthiness of_H1121 the_H3605 nations_H1471 of_H1121 the_H3605 land_H0776 to_H0413 seek_H1875 Yahweh_H3068, the_H3605 God_H0430 of_H1121 Israel_H3478, ate_H0398, 
+@22 and_H3068 kept_H6213 the_H5921 feast_H2282 of_H4428 unleavened_H4682 bread_H4682 seven_H7651 days_H3117 with_H1004 joy_H8057; because_H3588 Yahweh_H3068 had_H3068 made_H6213 them_H5921 joyful_H8055, and_H3068 had_H3068 turned_H5437 the_H5921 heart_H3820 of_H4428 the_H5921 king_H4428 of_H4428 Assyria_H0804 to_H5921 them_H5921, to_H5921 strengthen_H2388 their_H3068 hands_H3027 in_H5921 the_H5921 work_H4399 of_H4428 God_H0430, the_H5921 God_H0430 of_H4428 Israel’s_H3478 house_H1004. 
 
 # 7 
 ## The return of Ezra and his band from Babylon to Jerusalem
-@1 Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah, 
-@2 the son of Shallum, the son of Zadok, the son of Ahitub, 
-@3 the son of Amariah, the son of Azariah, the son of Meraioth, 
-@4 the son of Zerahiah, the son of Uzzi, the son of Bukki, 
-@5 the son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest— 
-@6 this Ezra went up from Babylon. He was a skilled scribe in the law of Moses, which Yahweh, the God of Israel, had given; and the king granted him all his request, according to Yahweh his God’s hand on him. 
-@7 Some of the children of Israel, including some of the priests, the Levites, the singers, the gatekeepers, and the temple servants went up to Jerusalem in the seventh year of Artaxerxes the king. 
-@8 He came to Jerusalem in the fifth month, which was in the seventh year of the king. 
-@9 For on the first day of the first month he began to go up from Babylon; and on the first day of the fifth month he came to Jerusalem, according to the good hand of his God on him. 
-@10 For Ezra had set his heart to seek Yahweh’s law, and to do it, and to teach statutes and ordinances in Israel.
+@1 Now_H0310 after_H0310 these_H0428 things_H1697, in_H4428 the_H0310 reign_H4438 of_H1121 Artaxerxes_H0783 king_H4428 of_H1121 Persia_H6539, Ezra_H5830 the_H0310 son_H1121 of_H1121 Seraiah_H8304, the_H0310 son_H1121 of_H1121 Azariah_H5838, the_H0310 son_H1121 of_H1121 Hilkiah_H2518, 
+@2 the_H6659 son_H1121 of_H1121 Shallum_H7967, the_H6659 son_H1121 of_H1121 Zadok_H6659, the_H6659 son_H1121 of_H1121 Ahitub_H0285, 
+@3 the_H5838 son_H1121 of_H1121 Amariah_H0568, the_H5838 son_H1121 of_H1121 Azariah_H5838, the_H5838 son_H1121 of_H1121 Meraioth_H4812, 
+@4 the_H1121 son_H1121 of_H1121 Zerahiah_H2228, the_H1121 son_H1121 of_H1121 Uzzi_H5813, the_H1121 son_H1121 of_H1121 Bukki_H1231, 
+@5 the_H0499 son_H1121 of_H1121 Abishua_H0050, the_H0499 son_H1121 of_H1121 Phinehas_H6372, the_H0499 son_H1121 of_H1121 Eleazar_H0499, the_H0499 son_H1121 of_H1121 Aaron_H0175 the_H0499 chief_H7218 priest_H3548— 
+@6 this_H1931 Ezra_H5830 went_H5927 up_H5927 from_H5921 Babylon_H0894. He_H0834 was_H0834 a_H5414 skilled_H4106 scribe_H5608 in_H5921 the_H3605 law_H8451 of_H4428 Moses_H4872, which_H0834 Yahweh_H3068, the_H3605 God_H0430 of_H4428 Israel_H3478, had_H3068 given_H5414; and_H3068 the_H3605 king_H4428 granted_H5414 him_H5414 all_H3605 his_H3605 request_H1246, according_H5921 to_H5921 Yahweh_H3068 his_H3605 God’s_H0430 hand_H3027 on_H5921 him_H5414. 
+@7 Some_H4480 of_H1121 the_H0413 children_H1121 of_H1121 Israel_H3478, including_H4428 some_H4480 of_H1121 the_H0413 priests_H3548, the_H0413 Levites_H3881, the_H0413 singers_H7891, the_H0413 gatekeepers_H7778, and_H1121 the_H0413 temple_H5411 servants_H5411 went_H5927 up_H5927 to_H0413 Jerusalem_H3389 in_H8141 the_H0413 seventh_H7651 year_H8141 of_H1121 Artaxerxes_H0783 the_H0413 king_H4428. 
+@8 He_H1931 came_H0935 to_H0935 Jerusalem_H3389 in_H8141 the_H0935 fifth_H2549 month_H2320, which_H1931 was_H1931 in_H8141 the_H0935 seventh_H7637 year_H8141 of_H4428 the_H0935 king_H4428. 
+@9 For_H3588 on_H5921 the_H5921 first_H7223 day_H2320 of_H0430 the_H5921 first_H7223 month_H2320 he_H1931 began_H0935 to_H0413 go_H0935 up_H5921 from_H0935 Babylon_H0894; and_H0935 on_H5921 the_H5921 first_H7223 day_H2320 of_H0430 the_H5921 fifth_H2549 month_H2320 he_H1931 came_H0935 to_H0413 Jerusalem_H3389, according_H5921 to_H0413 the_H5921 good_H2896 hand_H3027 of_H0430 his_H5921 God_H0430 on_H5921 him_H0413. 
+@10 For_H3588 Ezra_H5830 had_H3068 set_H3559 his_H3068 heart_H3824 to_H3068 seek_H1875 Yahweh’s_H3068 law_H8451, and_H3068 to_H3068 do_H6213 it_H3588, and_H3068 to_H3068 teach_H3925 statutes_H2706 and_H3068 ordinances_H4941 in_H3068 Israel_H3478.
 
 ## Drafting of the royal letter (= letter of safe conduct) with details of the powers granted to Ezra
-@11 Now this is the copy of the letter that King Artaxerxes gave to Ezra the priest, the scribe, even the scribe of the words of Yahweh’s commandments, and of his statutes to Israel: 
-@12 Artaxerxes, king of kings, To Ezra the priest, the scribe of the law of the perfect God of heaven. 
+@11 Now_H2088 this_H2088 is_H0834 the_H0834 copy_H6572 of_H4428 the_H0834 letter_H5406 that_H0834 King_H4428 Artaxerxes_H0783 gave_H5414 to_H5921 Ezra_H5830 the_H0834 priest_H3548, the_H0834 scribe_H5608, even_H5921 the_H0834 scribe_H5608 of_H4428 the_H0834 words_H1697 of_H4428 Yahweh’s_H3068 commandments_H4687, and_H3068 of_H4428 his_H5414 statutes_H2706 to_H5921 Israel_H3478: 
+@12 Artaxerxes_H0783, king_H4430 of_H0426 kings_H4430, To_H4430 Ezra_H5831 the_H1768 priest_H3549, the_H1768 scribe_H5613 of_H0426 the_H1768 law_H1882 of_H0426 the_H1768 perfect_H1585 God_H0426 of_H0426 heaven_H8065. 
 
-i1 Now 
-@13 I make a decree that all those of the people of Israel and their priests and the Levites in my realm, who intend of their own free will to go to Jerusalem, go with you. 
-@14 Because you are sent by the king and his seven counselors to inquire concerning Judah and Jerusalem, according to the law of your God which is in your hand, 
-@15 and to carry the silver and gold, which the king and his counselors have freely offered to the God of Israel, whose habitation is in Jerusalem, 
-@16 and all the silver and gold that you will find in all the province of Babylon, with the free will offering of the people and of the priests, offering willingly for the house of their God which is in Jerusalem. 
-@17 Therefore you shall with all diligence buy with this money bulls, rams, and lambs with their meal offerings and their drink offerings, and shall offer them on the altar of the house of your God which is in Jerusalem. 
-@18 Whatever seems good to you and to your brothers to do with the rest of the silver and the gold, do that according to the will of your God. 
-@19 The vessels that are given to you for the service of the house of your God, deliver before the God of Jerusalem. 
-@20 Whatever more will be needed for the house of your God, which you may have occasion to give, give it out of the king’s treasure house. 
+i1 Now_H3706 
+@13 I_H4481 make_H7761 a_H7761 decree_H2942 that_H1768 all_H3606 those_H1768 of_H4481 the_H3606 people_H5972 of_H4481 Israel_H3479 and_H4437 their_H3606 priests_H3549 and_H4437 the_H3606 Levites_H3879 in_H4437 my_H1768 realm_H4437, who_H1768 intend of_H4481 their_H3606 own free will_H1768 to_H2942 go to_H2942 Jerusalem_H3390, go with_H5974 you_H1768. 
+@14 Because_H6903 you_H1768 are_H1768 sent_H7972 by_H4481 the_H3606 king_H4430 and_H4430 his_H6925 seven_H7655 counselors to_H5922 inquire_H1240 concerning_H5922 Judah_H3061 and_H4430 Jerusalem_H3390, according_H4481 to_H5922 the_H3606 law_H1882 of_H0426 your_H5922 God_H0426 which_H1768 is_H1768 in_H0426 your_H5922 hand_H3028, 
+@15 and_H4430 to_H5069 carry the_H1768 silver_H3702 and_H4430 gold_H1722, which_H1768 the_H1768 king_H4430 and_H4430 his_H1768 counselors have_H4430 freely_H5069 offered_H5069 to_H5069 the_H1768 God_H0426 of_H0426 Israel_H3479, whose_H1768 habitation is_H1768 in_H0426 Jerusalem_H3390, 
+@16 and_H1722 all_H3606 the_H3606 silver_H3702 and_H1722 gold_H1722 that_H1768 you_H1768 will_H1768 find_H7912 in_H0426 all_H3606 the_H3606 province_H4083 of_H0426 Babylon_H0895, with_H5974 the_H3606 free will_H1768 offering_H5069 of_H0426 the_H3606 people_H5972 and_H1722 of_H0426 the_H3606 priests_H3549, offering_H5069 willingly_H5069 for_H1768 the_H3606 house_H1005 of_H0426 their_H3606 God_H0426 which_H1768 is_H1768 in_H0426 Jerusalem_H3390. 
+@17 Therefore_H6903 you_H1768 shall with_H5922 all_H3606 diligence_H0629 buy_H7066 with_H5922 this_H1836 money_H3702 bulls_H8450, rams_H1798, and_H3702 lambs_H0563 with_H5922 their_H3606 meal offerings_H5261 and_H3702 their_H3606 drink_H5261 offerings_H5261, and_H3702 shall offer_H7127 them_H1994 on_H5922 the_H3606 altar_H4056 of_H0426 the_H3606 house_H1005 of_H0426 your_H5922 God_H0426 which_H1768 is_H1768 in_H0426 Jerusalem_H3390. 
+@18 Whatever_H4101 seems good_H3191 to_H5921 you_H5921 and_H3702 to_H5921 your_H5921 brothers_H0252 to_H5921 do_H5648 with_H5921 the_H5921 rest_H7606 of_H5921 the_H5921 silver_H3702 and_H3702 the_H5921 gold_H1722, do_H5648 that_H1768 according_H5921 to_H5921 the_H5921 will_H4101 of_H5921 your_H5921 God_H0426. 
+@19 The_H1768 vessels_H3984 that_H1768 are_H1768 given_H3052 to_H6925 you_H1768 for_H1768 the_H1768 service_H6402 of_H0426 the_H1768 house_H1005 of_H0426 your_H3052 God_H0426, deliver_H8000 before_H6925 the_H1768 God_H0426 of_H0426 Jerusalem_H3390. 
+@20 Whatever more_H4481 will_H1768 be_H0426 needed for_H1768 the_H1768 house_H1005 of_H0426 your God_H0426, which_H1768 you_H1768 may have_H5308 occasion_H5308 to_H4481 give_H5415, give_H5415 it out of_H0426 the_H1768 king’s_H4430 treasure_H1596 house_H1005. 
 
 i1
-@21 I, even I, Artaxerxes the king, make a decree to all the treasurers who are beyond the River, that whatever Ezra the priest, the scribe of the law of the God of heaven, requires of you, it shall be done with all diligence, 
-@22 up to one hundred talents^a^ of silver, and to one hundred cors^b^ of wheat, and to one hundred baths^c^ of wine, and to one hundred baths of oil, and salt without prescribing how much. 
-@23 Whatever is commanded by the God of heaven, let it be done exactly for the house of the God of heaven; for why should there be wrath against the realm of the king and his sons? 
+@21 I_H0576, even_H1768 I_H0576, Artaxerxes_H0783 the_H3606 king_H4430, make_H5648 a_H7761 decree_H2942 to_H2942 all_H3606 the_H3606 treasurers_H1490 who_H1768 are_H1768 beyond_H5675 the_H3606 River_H5103, that_H1768 whatever_H3606 Ezra_H5831 the_H3606 priest_H3549, the_H3606 scribe_H5613 of_H0426 the_H3606 law_H1882 of_H0426 the_H3606 God_H0426 of_H0426 heaven_H8065, requires of_H0426 you_H1768, it shall be_H0426 done_H5648 with_H0426 all_H3606 diligence_H0629, 
+@22 up to_H5705 one hundred_H3969 talents_H3604^a^ of_H1325 silver_H3702, and_H3702 to_H5705 one hundred_H3969 cors_H3734^b^ of_H1325 wheat, and_H3702 to_H5705 one hundred_H3969 baths_H1325^c^ of_H1325 wine_H2562, and_H3702 to_H5705 one hundred_H3969 baths_H1325 of_H1325 oil_H4887, and_H3702 salt_H4416 without_H3809 prescribing how much. 
+@23 Whatever_H4101 is_H1768 commanded by_H4481 the_H3606 God_H0426 of_H0426 heaven_H8065, let it_H5922 be_H0426 done_H5648 exactly for_H1768 the_H3606 house_H1005 of_H0426 the_H3606 God_H0426 of_H0426 heaven_H8065; for_H1768 why_H4101 should_H4101 there_H1768 be_H0426 wrath_H7109 against_H5922 the_H3606 realm_H4437 of_H0426 the_H3606 king_H4430 and_H4430 his_H5922 sons_H1123? 
 ^a^[**7:22** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces] ^b^[**7:22** 1 cor is the same as a homer, or about 55.9 U. S. gallons (liquid) or 211 liters or 6 bushels.] ^c^[**7:22** 1 bath is one tenth of a cor, or about 5.6 U. S. gallons or 21 liters or 2.4 pecks. 100 baths would be about 2,100 liters.]
 
 i1
-@24 Also we inform you that it shall not be lawful to impose tribute, custom, or toll on any of the priests, Levites, singers, gatekeepers, temple servants, or laborers of this house of God. 
+@24 Also we_H1768 inform_H3046 you_H1768 that_H1768 it_H5922 shall not_H3809 be_H0426 lawful to_H5922 impose_H7412 tribute_H4061, custom_H1093, or_H0426 toll_H1983 on_H5922 any_H3606 of_H0426 the_H3606 priests_H3549, Levites_H3879, singers_H2171, gatekeepers, temple_H1005 servants_H6399, or_H0426 laborers of_H0426 this_H1836 house_H1005 of_H0426 God_H0426. 
 
 i1
-@25 You, Ezra, according to the wisdom of your God that is in your hand, appoint magistrates and judges who may judge all the people who are beyond the River, who all know the laws of your God; and teach him who doesn’t know them. 
-@26 Whoever will not do the law of your God and the law of the king, let judgment be executed on him with all diligence, whether it is to death, or to banishment, or to confiscation of goods, or to imprisonment.
+@25 You_H0607, Ezra_H5831, according to_H5972 the_H3606 wisdom_H2452 of_H0426 your_H4483 God_H0426 that_H1768 is_H1768 in_H0426 your_H4483 hand_H3028, appoint_H4483 magistrates_H8200 and_H2452 judges_H1782 who_H1768 may judge all_H3606 the_H3606 people_H5972 who_H1768 are_H1768 beyond_H5675 the_H3606 River_H5103, who_H1768 all_H3606 know_H3046 the_H3606 laws_H1882 of_H0426 your_H4483 God_H0426; and_H2452 teach_H3046 him who_H1768 doesn’t know_H3046 them. 
+@26 Whoever will_H1768 not_H3809 do_H5648 the_H3606 law_H1882 of_H0426 your God_H0426 and_H4430 the_H3606 law_H1882 of_H0426 the_H3606 king_H4430, let judgment_H1780 be_H0426 executed_H5648 on him_H4481 with_H0426 all_H3606 diligence_H0629, whether_H2006 it_H2006 is_H1768 to_H4481 death_H4193, or_H0426 to_H4481 banishment_H8332, or_H0426 to_H4481 confiscation_H6065 of_H0426 goods_H5232, or_H0426 to_H4481 imprisonment_H0613.
 
 ## Ezra's thanksgiving prayer and start of his activity
-@27 Blessed be Yahweh, the God of our fathers, who has put such a thing as this in the king’s heart, to beautify Yahweh’s house which is in Jerusalem; 
-@28 and has extended loving kindness to me before the king and his counselors, and before all the king’s mighty princes. I was strengthened according to Yahweh my God’s hand on me, and I gathered together chief men out of Israel to go up with me. 
+@27 Blessed_H1288 be_H1288 Yahweh_H3068, the_H0853 God_H0430 of_H4428 our_H3068 fathers_H0001, who_H0834 has_H3068 put_H5414 such_H0834 a_H5414 thing_H2063 as_H0834 this_H2063 in_H0430 the_H0853 king’s_H4428 heart_H3820, to_H3068 beautify_H6286 Yahweh’s_H3068 house_H1004 which_H0834 is_H0834 in_H0430 Jerusalem_H3389; 
+@28 and_H3068 has_H3068 extended_H5186 loving kindness_H2617 to_H5921 me_H6440 before_H6440 the_H3605 king_H4428 and_H3068 his_H3605 counselors_H3289, and_H3068 before_H6440 all_H3605 the_H3605 king’s_H4428 mighty_H1368 princes_H8269. I_H0589 was_H3068 strengthened_H2388 according_H5921 to_H5921 Yahweh_H3068 my_H3605 God’s_H0430 hand_H3027 on_H5921 me_H6440, and_H3068 I_H0589 gathered_H6908 together_H5973 chief_H7218 men_H1368 out_H2388 of_H4428 Israel_H3478 to_H5921 go_H5927 up_H5927 with_H5973 me_H6440. 
 
 # 8 
 ## Directory of heads of Judean families returning with Ezra
-@1 Now these are the heads of their fathers’ households, and this is the genealogy of those who went up with me from Babylon, in the reign of Artaxerxes the king: 
-@2 Of the sons of Phinehas, Gershom. Of the sons of Ithamar, Daniel. Of the sons of David, Hattush. 
-@3 Of the sons of Shecaniah, of the sons of Parosh, Zechariah; and with him were listed by genealogy of the males one hundred fifty. 
-@4 Of the sons of Pahathmoab, Eliehoenai the son of Zerahiah; and with him two hundred males. 
-@5 Of the sons of Shecaniah, the son of Jahaziel; and with him three hundred males. 
-@6 Of the sons of Adin, Ebed the son of Jonathan; and with him fifty males. 
-@7 Of the sons of Elam, Jeshaiah the son of Athaliah; and with him seventy males. 
-@8 Of the sons of Shephatiah, Zebadiah the son of Michael; and with him eighty males. 
-@9 Of the sons of Joab, Obadiah the son of Jehiel; and with him two hundred eighteen males. 
-@10 Of the sons of Shelomith, the son of Josiphiah; and with him one hundred sixty males. 
-@11 Of the sons of Bebai, Zechariah the son of Bebai; and with him twenty-eight males. 
-@12 Of the sons of Azgad, Johanan the son of Hakkatan; and with him one hundred ten males. 
-@13 Of the sons of Adonikam, who were the last, their names are: Eliphelet, Jeuel, and Shemaiah; and with them sixty males. 
-@14 Of the sons of Bigvai, Uthai and Zabbud; and with them seventy males.
+@1 Now these_H0428 are_H0428 the_H5973 heads_H7218 of_H4428 their_H5927 fathers’_H0001 households_H0001, and_H4428 this_H0428 is_H4428 the_H5973 genealogy_H3187 of_H4428 those_H0428 who_H0428 went_H5927 up_H5927 with_H5973 me_H5973 from_H5927 Babylon_H0894, in_H4428 the_H5973 reign_H4438 of_H4428 Artaxerxes_H0783 the_H5973 king_H4428: 
+@2 Of_H1121 the_H1732 sons_H1121 of_H1121 Phinehas_H6372, Gershom_H1647. Of_H1121 the_H1732 sons_H1121 of_H1121 Ithamar_H0385, Daniel_H1840. Of_H1121 the_H1732 sons_H1121 of_H1121 David_H1732, Hattush_H2407. 
+@3 Of_H1121 the_H5973 sons_H1121 of_H1121 Shecaniah_H7935, of_H1121 the_H5973 sons_H1121 of_H1121 Parosh_H6551, Zechariah_H2148; and_H1121 with_H5973 him_H5973 were_H1121 listed_H3187 by_H3187 genealogy_H3187 of_H1121 the_H5973 males_H2145 one_H1121 hundred_H3967 fifty_H2572. 
+@4 Of_H1121 the_H5973 sons_H1121 of_H1121 Pahathmoab, Eliehoenai_H0454 the_H5973 son_H1121 of_H1121 Zerahiah_H2228; and_H1121 with_H5973 him_H5973 two_H3967 hundred_H3967 males_H2145. 
+@5 Of_H1121 the_H5973 sons_H1121 of_H1121 Shecaniah_H7935, the_H5973 son_H1121 of_H1121 Jahaziel_H3166; and_H1121 with_H5973 him_H5973 three_H7969 hundred_H3967 males_H2145. 
+@6 Of_H1121 the_H5973 sons_H1121 of_H1121 Adin_H5720, Ebed_H5651 the_H5973 son_H1121 of_H1121 Jonathan_H3129; and_H1121 with_H5973 him_H5973 fifty_H2572 males_H2145. 
+@7 Of_H1121 the_H5973 sons_H1121 of_H1121 Elam_H5867, Jeshaiah_H3470 the_H5973 son_H1121 of_H1121 Athaliah_H6271; and_H1121 with_H5973 him_H5973 seventy_H7657 males_H2145. 
+@8 Of_H1121 the_H5973 sons_H1121 of_H1121 Shephatiah_H8203, Zebadiah_H2069 the_H5973 son_H1121 of_H1121 Michael_H4317; and_H1121 with_H5973 him_H5973 eighty_H8084 males_H2145. 
+@9 Of_H1121 the_H5973 sons_H1121 of_H1121 Joab_H3097, Obadiah_H5662 the_H5973 son_H1121 of_H1121 Jehiel_H3171; and_H1121 with_H5973 him_H5973 two_H3967 hundred_H3967 eighteen_H6240 males_H2145. 
+@10 Of_H1121 the_H5973 sons_H1121 of_H1121 Shelomith_H8019, the_H5973 son_H1121 of_H1121 Josiphiah_H3131; and_H1121 with_H5973 him_H5973 one_H1121 hundred_H3967 sixty_H8346 males_H2145. 
+@11 Of_H1121 the_H5973 sons_H1121 of_H1121 Bebai_H0893, Zechariah_H2148 the_H5973 son_H1121 of_H1121 Bebai_H0893; and_H1121 with_H5973 him_H5973 twenty-eight_H8083 males_H2145. 
+@12 Of_H1121 the_H5973 sons_H1121 of_H1121 Azgad_H5803, Johanan_H3110 the_H5973 son_H1121 of_H1121 Hakkatan_H6997; and_H1121 with_H5973 him_H5973 one_H1121 hundred_H3967 ten_H6235 males_H2145. 
+@13 Of_H1121 the_H5973 sons_H1121 of_H1121 Adonikam_H0140, who_H1121 were_H1121 the_H5973 last_H0314, their_H5973 names_H8034 are_H0428: Eliphelet_H0467, Jeuel_H3273, and_H1121 Shemaiah_H8098; and_H1121 with_H5973 them_H1121 sixty_H8346 males_H2145. 
+@14 Of_H1121 the_H5973 sons_H1121 of_H1121 Bigvai_H0902, Uthai_H5793 and_H1121 Zabbud_H2072; and_H1121 with_H5973 them_H1121 seventy_H7657 males_H2145.
 
 ## Final preparations for departure
-@15 I gathered them together to the river that runs to Ahava; and there we encamped three days. Then I looked around at the people and the priests, and found there were none of the sons of Levi. 
-@16 Then I sent for Eliezer, for Ariel, for Shemaiah, for Elnathan, for Jarib, for Elnathan, for Nathan, for Zechariah, and for Meshullam, chief men; also for Joiarib and for Elnathan, who were teachers. 
-@17 I sent them out to Iddo the chief at the place Casiphia; and I told them what they should tell Iddo and his brothers the temple servants at the place Casiphia, that they should bring to us ministers for the house of our God. 
-@18 According to the good hand of our God on us they brought us a man of discretion, of the sons of Mahli, the son of Levi, the son of Israel, namely Sherebiah, with his sons and his brothers, eighteen; 
-@19 and Hashabiah, and with him Jeshaiah of the sons of Merari, his brothers and their sons, twenty; 
-@20 and of the temple servants, whom David and the princes had given for the service of the Levites, two hundred twenty temple servants. All of them were mentioned by name.
+@15 I_H3117 gathered_H6908 them_H0413 together_H6908 to_H0413 the_H0413 river_H5104 that_H3117 runs_H0935 to_H0413 Ahava_H0163; and_H1121 there_H8033 we_H3117 encamped_H2583 three_H7969 days_H3117. Then_H0935 I_H3117 looked_H0995 around at_H2583 the_H0413 people_H5971 and_H1121 the_H0413 priests_H3548, and_H1121 found_H4672 there_H8033 were_H1121 none_H3808 of_H1121 the_H0413 sons_H1121 of_H1121 Levi_H3878. 
+@16 Then_H7971 I_H7971 sent_H7971 for_H7971 Eliezer_H0461, for_H7971 Ariel_H0740, for_H7971 Shemaiah_H8098, for_H7971 Elnathan_H0494, for_H7971 Jarib_H3402, for_H7971 Elnathan_H0494, for_H7971 Nathan_H5416, for_H7971 Zechariah_H2148, and_H7971 for_H7971 Meshullam_H4918, chief_H7218 men_H7218; also for_H7971 Joiarib_H3114 and_H7971 for_H7971 Elnathan_H0494, who_H0995 were_H7218 teachers_H0995. 
+@17 I_H7760 sent_H3318 them_H0413 out_H3318 to_H0413 Iddo_H0112 the_H0853 chief_H7218 at_H0413 the_H0853 place_H4725 Casiphia_H3703; and_H0935 I_H7760 told_H1696 them_H0413 what_H1697 they_H5921 should_H0413 tell_H1696 Iddo_H0112 and_H0935 his_H5921 brothers_H0251 the_H0853 temple_H1004 servants_H5411 at_H0413 the_H0853 place_H4725 Casiphia_H3703, that_H1697 they_H5921 should_H0413 bring_H0935 to_H0413 us_H0413 ministers_H8334 for_H5921 the_H0853 house_H1004 of_H1004 our_H5921 God_H0430. 
+@18 According_H5921 to_H0935 the_H5921 good_H2896 hand_H3027 of_H1121 our_H5921 God_H0430 on_H5921 us_H5921 they_H5921 brought_H0935 us_H5921 a_H0935 man_H0376 of_H1121 discretion_H7922, of_H1121 the_H5921 sons_H1121 of_H1121 Mahli_H4249, the_H5921 son_H1121 of_H1121 Levi_H3878, the_H5921 son_H1121 of_H1121 Israel_H3478, namely Sherebiah_H8274, with_H5921 his_H5921 sons_H1121 and_H1121 his_H5921 brothers_H0251, eighteen_H6240; 
+@19 and_H1121 Hashabiah_H2811, and_H1121 with_H0854 him_H0853 Jeshaiah_H3470 of_H1121 the_H0853 sons_H1121 of_H1121 Merari_H4847, his_H0854 brothers_H0251 and_H1121 their_H4847 sons_H1121, twenty_H6242; 
+@20 and_H3967 of_H8269 the_H3605 temple_H5411 servants_H5411, whom David_H1732 and_H3967 the_H3605 princes_H8269 had_H1732 given_H5414 for_H3605 the_H3605 service_H5656 of_H8269 the_H3605 Levites_H3881, two_H4480 hundred_H3967 twenty_H6242 temple_H5411 servants_H5411. All_H3605 of_H8269 them_H5414 were_H3881 mentioned by_H8034 name_H8034.
 
 ## Fasting and prayer of those returning home; Giving of temple gifts to trustworthy men
-@21 Then I proclaimed a fast there at the river Ahava, that we might humble ourselves before our God, to seek from him a straight way for us, for our little ones, and for all our possessions. 
-@22 For I was ashamed to ask of the king a band of soldiers and horsemen to help us against the enemy on the way, because we had spoken to the king, saying, “The hand of our God is on all those who seek him, for good; but his power and his wrath is against all those who forsake him.” 
-@23 So we fasted and begged our God for this, and he granted our request. 
+@21 Then_H7121 I_H4480 proclaimed_H7121 a_H7121 fast_H6685 there_H8033 at_H5921 the_H3605 river_H5104 Ahava_H0163, that_H3605 we_H8033 might humble ourselves_H4480 before_H6440 our_H3605 God_H0430, to_H5921 seek_H1245 from_H4480 him_H5921 a_H7121 straight_H3477 way_H1870 for_H5921 us_H5921, for_H5921 our_H3605 little_H2945 ones_H2945, and_H0430 for_H5921 all_H3605 our_H3605 possessions_H7399. 
+@22 For_H3588 I_H3588 was_H0430 ashamed_H0954 to_H0559 ask_H7592 of_H4428 the_H3605 king_H4428 a_H3588 band of_H4428 soldiers_H2428 and_H0430 horsemen_H6571 to_H0559 help_H5826 us_H5921 against_H5921 the_H3605 enemy_H0341 on_H5921 the_H3605 way_H1870, because_H3588 we_H3588 had_H0430 spoken_H0559 to_H0559 the_H3605 king_H4428, saying_H0559, “The_H3605 hand_H3027 of_H4428 our_H3605 God_H0430 is_H0430 on_H5921 all_H3605 those_H3605 who_H3605 seek_H1245 him_H5921, for_H3588 good_H2896; but_H3588 his_H3605 power_H3027 and_H0430 his_H3605 wrath_H0639 is_H0430 against_H5921 all_H3605 those_H3605 who_H3605 forsake_H5800 him_H5921.” 
+@23 So_H5921 we fasted_H6684 and_H0430 begged our_H5921 God_H0430 for_H5921 this_H2063, and_H0430 he_H0430 granted our_H5921 request_H1245. 
 
-@24 Then I set apart twelve of the chiefs of the priests, even Sherebiah, Hashabiah, and ten of their brothers with them, 
-@25 and weighed to them the silver, the gold, and the vessels, even the offering for the house of our God, which the king, his counselors, his princes, and all Israel there present, had offered. 
-@26 I weighed into their hand six hundred fifty talents of silver,^a^ one hundred talents of silver vessels, one hundred talents of gold, 
-@27 twenty bowls of gold weighing one thousand darics,^b^ and two vessels of fine bright bronze, precious as gold. 
-@28 I said to them, “You are holy to Yahweh, and the vessels are holy. The silver and the gold are a free will offering to Yahweh, the God of your fathers. 
-@29 Watch and keep them until you weigh them before the chiefs of the priests, the Levites, and the princes of the fathers’ households of Israel at Jerusalem, in the rooms of Yahweh’s house.” 
+@24 Then_H3548 I_H8147 set_H0914 apart_H0914 twelve_H6240 of_H8269 the_H5973 chiefs_H8269 of_H8269 the_H5973 priests_H3548, even Sherebiah_H8274, Hashabiah_H2811, and_H3548 ten_H6235 of_H8269 their_H3548 brothers_H0251 with_H5973 them_H0251, 
+@25 and_H3478 weighed_H8254 to_H3478 them_H1992 the_H3605 silver_H3701, the_H3605 gold_H2091, and_H3478 the_H3605 vessels_H3627, even_H0853 the_H3605 offering_H8641 for_H1004 the_H3605 house_H1004 of_H4428 our_H3605 God_H0430, which_H1004 the_H3605 king_H4428, his_H3605 counselors_H3289, his_H3605 princes_H8269, and_H3478 all_H3605 Israel_H3478 there_H4672 present_H4672, had_H0430 offered_H7311. 
+@26 I_H5921 weighed_H8254 into_H5921 their_H5921 hand_H3027 six_H8337 hundred_H3967 fifty_H2572 talents_H3603 of_H3027 silver_H3701,^a^ one_H3967 hundred_H3967 talents_H3603 of_H3027 silver_H3701 vessels_H3627, one_H3967 hundred_H3967 talents_H3603 of_H3027 gold_H2091, 
+@27 twenty_H6242 bowls_H3713 of_H3627 gold_H2091 weighing one_H8147 thousand_H0505 darics_H0150,^b^ and_H2091 two_H8147 vessels_H3627 of_H3627 fine bright bronze_H5178, precious_H2532 as_H2091 gold_H2091. 
+@28 I_H0559 said_H0559 to_H0413 them_H0413, “You_H0859 are_H3068 holy_H6944 to_H0413 Yahweh_H3068, and_H3068 the_H0559 vessels_H3627 are_H3068 holy_H6944. The_H0559 silver_H3701 and_H3068 the_H0559 gold_H2091 are_H3068 a_H3068 free will_H3068 offering_H5071 to_H0413 Yahweh_H3068, the_H0559 God_H0430 of_H0430 your_H3068 fathers_H0001. 
+@29 Watch_H8104 and_H3068 keep_H8104 them_H6440 until_H5704 you_H6440 weigh_H8254 them_H6440 before_H6440 the_H6440 chiefs_H8269 of_H1004 the_H6440 priests_H3548, the_H6440 Levites_H3881, and_H3068 the_H6440 princes_H8269 of_H1004 the_H6440 fathers’_H0001 households_H1004 of_H1004 Israel_H3478 at_H3478 Jerusalem_H3389, in_H3068 the_H6440 rooms_H3957 of_H1004 Yahweh’s_H3068 house_H1004.” 
 ^a^[**8:26** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces] ^b^[**8:27** a daric was a gold coin issued by a Persian king, weighing about 8.4 grams or about 0.27 troy ounces each.]
 
-@30 So the priests and the Levites received the weight of the silver, the gold, and the vessels, to bring them to Jerusalem to the house of our God.
+@30 So_H0935 the_H0935 priests_H3548 and_H0935 the_H0935 Levites_H3881 received_H0935 the_H0935 weight_H4948 of_H1004 the_H0935 silver_H3701, the_H0935 gold_H2091, and_H0935 the_H0935 vessels_H3627, to_H0935 bring_H0935 them_H0935 to_H0935 Jerusalem_H3389 to_H0935 the_H0935 house_H1004 of_H1004 our_H0430 God_H0430.
 
 ## Arrival in Jerusalem; Delivery of votive gifts; make offerings; Support from royal officials
-@31 Then we departed from the river Ahava on the twelfth day of the first month, to go to Jerusalem. The hand of our God was on us, and he delivered us from the hand of the enemy and the bandits by the way. 
-@32 We came to Jerusalem, and stayed there three days. 
-@33 On the fourth day the silver and the gold and the vessels were weighed in the house of our God into the hand of Meremoth the son of Uriah the priest; and with him was Eleazar the son of Phinehas; and with them were Jozabad the son of Jeshua, and Noadiah the son of Binnui, the Levites. 
-@34 Everything was counted and weighed; and all the weight was written at that time. 
+@31 Then_H1961 we departed_H5265 from_H5265 the_H5921 river_H5104 Ahava_H0163 on_H5921 the_H5921 twelfth day_H2320 of_H0430 the_H5921 first_H7223 month_H2320, to_H1961 go_H1961 to_H1961 Jerusalem_H3389. The_H5921 hand_H3027 of_H0430 our_H5921 God_H0430 was_H1961 on_H5921 us_H5921, and_H0430 he_H0430 delivered_H5337 us_H5921 from_H5265 the_H5921 hand_H3027 of_H0430 the_H5921 enemy_H0341 and_H0430 the_H5921 bandits_H0693 by_H5921 the_H5921 way_H1870. 
+@32 We_H3117 came_H0935 to_H0935 Jerusalem_H3389, and_H0935 stayed_H3427 there_H8033 three_H7969 days_H3117. 
+@33 On_H5921 the_H5921 fourth_H7243 day_H3117 the_H5921 silver_H3701 and_H1121 the_H5921 gold_H2091 and_H1121 the_H5921 vessels_H3627 were_H1121 weighed_H8254 in_H5921 the_H5921 house_H1004 of_H1121 our_H5921 God_H0430 into_H5921 the_H5921 hand_H3027 of_H1121 Meremoth_H4822 the_H5921 son_H1121 of_H1121 Uriah_H0223 the_H5921 priest_H3548; and_H1121 with_H5973 him_H5921 was_H0430 Eleazar_H0499 the_H5921 son_H1121 of_H1121 Phinehas_H6372; and_H1121 with_H5973 them_H5921 were_H1121 Jozabad_H3107 the_H5921 son_H1121 of_H1121 Jeshua_H3442, and_H1121 Noadiah_H5129 the_H5921 son_H1121 of_H1121 Binnui_H1131, the_H5921 Levites_H3881. 
+@34 Everything_H3605 was_H1931 counted_H4557 and_H3605 weighed_H4948; and_H3605 all_H3605 the_H3605 weight_H4948 was_H1931 written_H3789 at_H3605 that_H3605 time_H6256. 
 
-@35 The children of the captivity, who had come out of exile, offered burnt offerings to the God of Israel: twelve bulls for all Israel, ninety-six rams, seventy-seven lambs, and twelve male goats for a sin offering. All this was a burnt offering to Yahweh. 
-@36 They delivered the king’s commissions to the king’s local governors and to the governors beyond the River. So they supported the people and God’s house. 
+@35 The_H3605 children_H1121 of_H1121 the_H3605 captivity_H7628, who_H3605 had_H3068 come_H0935 out_H5921 of_H1121 exile_H1473, offered_H7126 burnt_H5930 offerings_H3068 to_H0935 the_H3605 God_H0430 of_H1121 Israel_H3478: twelve_H6240 bulls_H6499 for_H5921 all_H3605 Israel_H3478, ninety-six_H8337 rams_H0352, seventy-seven_H7657 lambs_H3532, and_H1121 twelve_H6240 male_H3532 goats_H6842 for_H5921 a_H0935 sin_H2403 offering_H7126. All_H3605 this_H3068 was_H3068 a_H0935 burnt_H5930 offering_H7126 to_H0935 Yahweh_H3068. 
+@36 They_H5971 delivered_H5414 the_H0853 king’s_H4428 commissions_H5414 to_H5414 the_H0853 king’s_H4428 local governors_H6346 and_H0430 to_H5414 the_H0853 governors_H6346 beyond_H5676 the_H0853 River_H5104. So_H5414 they_H5971 supported_H5375 the_H0853 people_H5971 and_H0430 God’s_H0430 house_H1004. 
 
 # 9 
 ## Esra notices mixed marriages; his dismay at these officials
-@1 Now when these things were done, the princes came near to me, saying, “The people of Israel, the priests, and the Levites have not separated themselves from the peoples of the lands, following their abominations, even those of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites. 
-@2 For they have taken of their daughters for themselves and for their sons, so that the holy offspring have mixed themselves with the peoples of the lands. Yes, the hand of the princes and rulers has been chief in this trespass.” 
+@1 Now when_H3615 these_H0428 things_H0428 were_H3478 done, the_H0559 princes_H8269 came_H5066 near_H5066 to_H0413 me_H0413, saying_H0559, “The_H0559 people_H5971 of_H0776 Israel_H3478, the_H0559 priests_H3548, and_H3478 the_H0559 Levites_H3881 have_H0776 not_H3808 separated_H0914 themselves_H0428 from_H3478 the_H0559 peoples_H5971 of_H0776 the_H0559 lands_H0776, following their_H3808 abominations_H8441, even_H3808 those_H0428 of_H0776 the_H0559 Canaanites_H3669, the_H0559 Hittites_H2850, the_H0559 Perizzites_H6522, the_H0559 Jebusites_H2983, the_H0559 Ammonites_H5984, the_H0559 Moabites_H4125, the_H0559 Egyptians_H4713, and_H3478 the_H0559 Amorites_H0567. 
+@2 For_H3588 they_H1992 have_H1961 taken_H5375 of_H1121 their_H5375 daughters_H1323 for_H3588 themselves_H1992 and_H1121 for_H3588 their_H5375 sons_H1121, so_H1961 that_H3588 the_H3588 holy_H6944 offspring_H2233 have_H1961 mixed themselves_H1992 with_H3027 the_H3588 peoples_H5971 of_H1121 the_H3588 lands_H0776. Yes_H3588, the_H3588 hand_H3027 of_H1121 the_H3588 princes_H8269 and_H1121 rulers_H8269 has_H1961 been_H1961 chief_H8269 in_H0776 this_H2088 trespass_H4604.” 
 
-@3 When I heard this thing, I tore my garment and my robe, and pulled the hair out of my head and of my beard, and sat down confounded. 
-@4 Then everyone who trembled at the words of the God of Israel were assembled to me because of the trespass of the exiles; and I sat confounded until the evening offering.
+@3 When_H8085 I_H1697 heard_H8085 this_H2088 thing_H1697, I_H1697 tore_H7167 my_H8085 garment_H0899 and_H7218 my_H8085 robe_H4598, and_H7218 pulled_H4803 the_H0853 hair_H8181 out_H3427 of_H1697 my_H8085 head_H7218 and_H7218 of_H1697 my_H8085 beard_H2206, and_H7218 sat_H3427 down_H3427 confounded. 
+@4 Then_H3605 everyone_H3605 who_H3605 trembled at_H0413 the_H3605 words_H1697 of_H0430 the_H3605 God_H0430 of_H0430 Israel_H3478 were_H3478 assembled_H0622 to_H0413 me_H0413 because_H5921 of_H0430 the_H3605 trespass_H4604 of_H0430 the_H3605 exiles_H1473; and_H3478 I_H0589 sat_H3427 confounded until_H5704 the_H3605 evening_H6153 offering_H4503.
 
 ## Ezra's penitential prayer
-@5 At the evening offering I rose up from my humiliation, even with my garment and my robe torn; and I fell on my knees, and spread out my hands to Yahweh my God; 
-@6 and I said, “My God, I am ashamed and blush to lift up my face to you, my God, for our iniquities have increased over our head, and our guiltiness has grown up to the heavens. 
-@7 Since the days of our fathers we have been exceedingly guilty to this day; and for our iniquities we, our kings, and our priests have been delivered into the hand of the kings of the lands, to the sword, to captivity, to plunder, and to confusion of face, as it is this day. 
-@8 Now for a little moment grace has been shown from Yahweh our God, to leave us a remnant to escape, and to give us a stake in his holy place, that our God may lighten our eyes, and revive us a little in our bondage. 
-@9 For we are bondservants; yet our God has not forsaken us in our bondage, but has extended loving kindness to us in the sight of the kings of Persia, to revive us, to set up the house of our God, and to repair its ruins, and to give us a wall in Judah and in Jerusalem. 
+@5 At_H0413 the_H5921 evening_H6153 offering_H4503 I_H3068 rose_H6965 up_H6965 from_H5921 my_H3068 humiliation_H8589, even_H5921 with_H0413 my_H3068 garment_H0899 and_H6965 my_H3068 robe_H4598 torn_H7167; and_H6965 I_H3068 fell_H5921 on_H5921 my_H3068 knees_H1290, and_H6965 spread_H6566 out_H5921 my_H3068 hands_H3709 to_H0413 Yahweh_H3068 my_H3068 God_H0430; 
+@6 and_H0430 I_H3588 said_H0559, “My_H3588 God_H0430, I_H3588 am_H0430 ashamed_H0954 and_H0430 blush_H3637 to_H0413 lift_H7311 up_H7311 my_H3588 face_H6440 to_H0413 you_H3588, my_H3588 God_H0430, for_H3588 our_H0430 iniquities_H5771 have_H5771 increased_H7235 over_H0413 our_H0430 head_H7218, and_H0430 our_H0430 guiltiness has_H0430 grown_H1431 up_H7311 to_H0413 the_H0559 heavens_H8064. 
+@7 Since_H3117 the_H6440 days_H3117 of_H4428 our_H5414 fathers_H0001 we_H0587 have_H0001 been_H0776 exceedingly_H1419 guilty_H5771 to_H5704 this_H2088 day_H3117; and_H0776 for_H0776 our_H5414 iniquities_H5771 we_H0587, our_H5414 kings_H4428, and_H0776 our_H5414 priests_H3548 have_H0001 been_H0776 delivered_H5414 into_H0776 the_H6440 hand_H3027 of_H4428 the_H6440 kings_H4428 of_H4428 the_H6440 lands_H0776, to_H5704 the_H6440 sword_H2719, to_H5704 captivity_H7628, to_H5704 plunder_H0961, and_H0776 to_H5704 confusion of_H4428 face_H6440, as_H5704 it_H5414 is_H2088 this_H2088 day_H3117. 
+@8 Now_H6258 for_H3068 a_H1961 little_H4592 moment_H7281 grace_H8467 has_H3068 been_H1961 shown from_H1961 Yahweh_H3068 our_H3068 God_H0430, to_H1961 leave_H7604 us_H5414 a_H1961 remnant_H7604 to_H1961 escape_H6413, and_H3068 to_H1961 give_H5414 us_H5414 a_H1961 stake in_H0430 his_H5414 holy_H6944 place_H4725, that_H3068 our_H3068 God_H0430 may_H1961 lighten our_H3068 eyes_H5869, and_H3068 revive_H0215 us_H5414 a_H1961 little_H4592 in_H0430 our_H3068 bondage_H5659. 
+@9 For_H3588 we_H0587 are_H0430 bondservants; yet_H3588 our_H5414 God_H0430 has_H0430 not_H3808 forsaken us_H5414 in_H5921 our_H5414 bondage_H5650, but_H3588 has_H0430 extended_H5186 loving kindness_H2617 to_H5921 us_H5414 in_H5921 the_H0853 sight_H6440 of_H4428 the_H0853 kings_H4428 of_H4428 Persia_H6539, to_H5921 revive us_H5414, to_H5921 set_H5414 up_H7311 the_H0853 house_H1004 of_H4428 our_H5414 God_H0430, and_H3063 to_H5921 repair its_H5414 ruins_H2723, and_H3063 to_H5921 give_H5414 us_H5414 a_H3588 wall_H1447 in_H5921 Judah_H3063 and_H3063 in_H5921 Jerusalem_H3389. 
 
-@10 “Now, our God, what shall we say after this? For we have forsaken your commandments, 
-@11 which you have commanded by your servants the prophets, saying, ‘The land to which you go to possess is an unclean land through the uncleanness of the peoples of the lands, through their abominations, which have filled it from one end to another with their filthiness. 
-@12 Now therefore don’t give your daughters to their sons. Don’t take their daughters to your sons, nor seek their peace or their prosperity forever, that you may be strong and eat the good of the land, and leave it for an inheritance to your children forever.’ 
+@10 “Now_H6258, our_H0430 God_H0430, what_H4100 shall_H4100 we_H3588 say_H0559 after_H0310 this_H2063? For_H3588 we_H3588 have_H3588 forsaken your_H3588 commandments_H4687, 
+@11 which_H0834 you_H0859 have_H0834 commanded_H6680 by_H3027 your_H0834 servants_H5650 the_H0559 prophets_H5030, saying_H0559, ‘The_H0559 land_H0776 to_H0413 which_H0834 you_H0859 go_H0935 to_H0413 possess_H3423 is_H0834 an_H0935 unclean_H5079 land_H0776 through_H3027 the_H0559 uncleanness_H5079 of_H0776 the_H0559 peoples_H5971 of_H0776 the_H0559 lands_H0776, through_H3027 their_H0935 abominations_H8441, which_H0834 have_H0834 filled_H4390 it_H1931 from_H0935 one_H1931 end_H6310 to_H0413 another_H6310 with_H4390 their_H0935 filthiness. 
+@12 Now_H6258 therefore_H6258 don’t_H0408 give_H5414 your_H5414 daughters_H1323 to_H5704 their_H5375 sons_H1121. Don’t_H0408 take_H5375 their_H5375 daughters_H1323 to_H5704 your_H5414 sons_H1121, nor_H3808 seek_H1875 their_H5375 peace_H7965 or_H3808 their_H5375 prosperity_H7965 forever_H5769, that_H4616 you_H5414 may_H0776 be_H3808 strong_H2388 and_H1121 eat_H0398 the_H0853 good_H2896 of_H1121 the_H0853 land_H0776, and_H1121 leave_H4616 it_H5414 for_H0776 an_H5414 inheritance_H3423 to_H5704 your_H5414 children_H1121 forever_H5769.’ 
 
-@13 “After all that has come on us for our evil deeds and for our great guilt, since you, our God, have punished us less than our iniquities deserve, and have given us such a remnant, 
-@14 shall we again break your commandments, and join ourselves with the peoples that do these abominations? Wouldn’t you be angry with us until you had consumed us, so that there would be no remnant, nor any to escape? 
-@15 Yahweh, the God of Israel, you are righteous; for we are left a remnant that has escaped, as it is today. Behold,^a^ we are before you in our guiltiness; for no one can stand before you because of this.”
+@13 “After_H0310 all_H3605 that_H3588 has_H0430 come_H0935 on_H5921 us_H5414 for_H3588 our_H3605 evil_H7451 deeds_H4639 and_H0935 for_H3588 our_H3605 great_H1419 guilt_H5771, since_H3588 you_H0859, our_H3605 God_H0430, have_H0859 punished us_H5414 less_H3588 than_H5921 our_H3605 iniquities_H5771 deserve, and_H0935 have_H0859 given_H5414 us_H5414 such_H2063 a_H3588 remnant_H6413, 
+@14 shall_H3808 we_H5704 again_H7725 break_H6565 your_H7725 commandments_H4687, and_H7725 join ourselves with_H7725 the_H5704 peoples_H5971 that_H3808 do_H0369 these_H0428 abominations_H8441? Wouldn’t you_H5704 be_H3808 angry_H0599 with_H7725 us_H7725 until_H5704 you_H5704 had_H0369 consumed_H3615 us_H7725, so_H3808 that_H3808 there_H0369 would_H0369 be_H3808 no_H3808 remnant_H7611, nor_H3808 any_H0369 to_H5704 escape_H6413? 
+@15 Yahweh_H3068, the_H6440 God_H0430 of_H0430 Israel_H3478, you_H0859 are_H3117 righteous_H6662; for_H3588 we_H3588 are_H3117 left_H7604 a_H3588 remnant_H7604 that_H3588 has_H3068 escaped_H6413, as_H3068 it_H5921 is_H0369 today_H3117. Behold_H2005,^a^ we_H3588 are_H3117 before_H6440 you_H0859 in_H5921 our_H3068 guiltiness; for_H3588 no_H0369 one_H0369 can_H0369 stand_H5975 before_H6440 you_H0859 because_H3588 of_H0430 this_H2088.”
 ^a^[**9:15** “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.] 
 
 # 10 
 ## The action against mixed marriages
-@1 Now while Ezra prayed and made confession, weeping and casting himself down before God’s house, there was gathered together to him out of Israel a very great assembly of men and women and children; for the people wept very bitterly. 
-@2 Shecaniah the son of Jehiel, one of the sons of Elam, answered Ezra, “We have trespassed against our God, and have married foreign women of the peoples of the land. Yet now there is hope for Israel concerning this thing. 
-@3 Now therefore let’s make a covenant with our God to put away all the wives and those who are born of them, according to the counsel of my lord and of those who tremble at the commandment of our God. Let it be done according to the law. 
-@4 Arise, for the matter belongs to you and we are with you. Be courageous, and do it.” 
+@1 Now_H3588 while_H3588 Ezra_H5830 prayed_H6419 and_H3478 made_H6419 confession_H3034, weeping_H1058 and_H3478 casting himself_H6440 down_H5307 before_H6440 God’s_H0430 house_H1004, there was_H3478 gathered_H6908 together_H6908 to_H0413 him_H0413 out_H6440 of_H1004 Israel_H3478 a_H3588 very_H3966 great_H3966 assembly_H6951 of_H1004 men_H0376 and_H3478 women_H0802 and_H3478 children_H3206; for_H3588 the_H6440 people_H5971 wept_H1058 very_H3966 bitterly_H1058. 
+@2 Shecaniah_H7935 the_H0559 son_H1121 of_H1121 Jehiel_H3171, one_H0802 of_H1121 the_H0559 sons_H1121 of_H1121 Elam_H5867, answered_H0559 Ezra_H5830, “We_H0587 have_H3426 trespassed against_H5921 our_H5921 God_H0430, and_H1121 have_H3426 married_H0802 foreign_H5237 women_H0802 of_H1121 the_H0559 peoples_H5971 of_H1121 the_H0559 land_H0776. Yet_H6258 now_H6258 there_H3426 is_H0776 hope for_H5921 Israel_H3478 concerning_H5921 this_H2063 thing_H2063. 
+@3 Now_H6258 therefore_H6258 let’s make_H6213 a_H3772 covenant_H1285 with_H1285 our_H3605 God_H0430 to_H3205 put_H3318 away_H3318 all_H3605 the_H3605 wives_H0802 and_H0430 those_H3605 who_H3605 are_H1992 born_H3205 of_H0430 them_H1992, according to_H3205 the_H3605 counsel_H6098 of_H0430 my_H3605 lord_H0113 and_H0430 of_H0430 those_H3605 who_H3605 tremble at_H0430 the_H3605 commandment_H4687 of_H0430 our_H3605 God_H0430. Let_H6258 it_H6213 be_H0430 done_H6213 according to_H3205 the_H3605 law_H8451. 
+@4 Arise_H6965, for_H3588 the_H5921 matter_H1697 belongs to_H5921 you_H3588 and_H6965 we_H0587 are_H1697 with_H5973 you_H3588. Be_H1697 courageous_H2388, and_H6965 do_H6213 it_H5921.” 
 
-@5 Then Ezra arose, and made the chiefs of the priests, the Levites, and all Israel to swear that they would do according to this word. So they swore. 
-@6 Then Ezra rose up from before God’s house, and went into the room of Jehohanan the son of Eliashib. When he came there, he didn’t eat bread or drank water, for he mourned because of the trespass of the exiles. 
-@7 They made a proclamation throughout Judah and Jerusalem to all the children of the captivity, that they should gather themselves together to Jerusalem; 
-@8 and that whoever didn’t come within three days, according to the counsel of the princes and the elders, all his possessions should be forfeited, and he himself separated from the assembly of the captivity. 
+@5 Then_H6965 Ezra_H5830 arose_H6965, and_H6965 made_H6213 the_H3605 chiefs_H8269 of_H1697 the_H3605 priests_H3548, the_H3605 Levites_H3881, and_H6965 all_H3605 Israel_H3478 to_H3478 swear_H7650 that_H3605 they_H3605 would_H3478 do_H6213 according to_H3478 this_H2088 word_H1697. So_H6213 they_H3605 swore_H7650. 
+@6 Then_H6965 Ezra_H5830 rose_H6965 up_H6965 from_H5921 before_H6440 God’s_H0430 house_H1004, and_H1121 went_H6965 into_H0413 the_H6440 room_H1004 of_H1121 Jehohanan_H3076 the_H6440 son_H1121 of_H1121 Eliashib_H0475. When_H3588 he_H3588 came_H0413 there_H8033, he_H3588 didn’t_H3808 eat_H0398 bread_H3899 or_H3808 drank_H8354 water_H4325, for_H3588 he_H3588 mourned_H0056 because_H3588 of_H1121 the_H6440 trespass_H4604 of_H1121 the_H6440 exiles_H1473. 
+@7 They_H3605 made_H3605 a_H3389 proclamation_H6963 throughout_H3605 Judah_H3063 and_H1121 Jerusalem_H3389 to_H3389 all_H3605 the_H3605 children_H1121 of_H1121 the_H3605 captivity, that_H3605 they_H3605 should gather_H6908 themselves_H6908 together_H6908 to_H3389 Jerusalem_H3389; 
+@8 and_H0935 that_H0834 whoever_H3605 didn’t_H3808 come_H0935 within_H0935 three_H7969 days_H3117, according to_H0935 the_H3605 counsel_H6098 of_H3117 the_H3605 princes_H8269 and_H0935 the_H3605 elders_H2205, all_H3605 his_H3605 possessions_H7399 should_H3117 be_H3808 forfeited, and_H0935 he_H0834 himself_H1931 separated_H0914 from_H0935 the_H3605 assembly_H6951 of_H3117 the_H3605 captivity. 
 
-@9 Then all the men of Judah and Benjamin gathered themselves together to Jerusalem within the three days. It was the ninth month, on the twentieth day of the month; and all the people sat in the wide place in front of God’s house, trembling because of this matter, and because of the great rain. 
+@9 Then_H3605 all_H3605 the_H3605 men_H0376 of_H1004 Judah_H3063 and_H3063 Benjamin_H1144 gathered_H6908 themselves_H5921 together_H6908 to_H5921 Jerusalem_H3389 within_H5921 the_H3605 three_H7969 days_H3117. It_H1931 was_H1931 the_H3605 ninth_H8671 month_H2320, on_H5921 the_H3605 twentieth_H6242 day_H3117 of_H1004 the_H3605 month_H2320; and_H3063 all_H3605 the_H3605 people_H5971 sat_H3427 in_H3427 the_H3605 wide place_H1004 in_H3427 front of_H1004 God’s_H0430 house_H1004, trembling_H7460 because_H5921 of_H1004 this_H1931 matter_H1697, and_H3063 because_H5921 of_H1004 the_H3605 great_H0430 rain_H1653. 
 
-@10 Ezra the priest stood up and said to them, “You have trespassed, and have married foreign women, increasing the guilt of Israel. 
-@11 Now therefore make confession to Yahweh, the God of your fathers and do his pleasure. Separate yourselves from the peoples of the land and from the foreign women.” 
+@10 Ezra_H5830 the_H0559 priest_H3548 stood_H6965 up_H6965 and_H6965 said_H0559 to_H0413 them_H0413, “You_H0859 have_H0859 trespassed, and_H6965 have_H0859 married_H0802 foreign_H5237 women_H0802, increasing_H3254 the_H0559 guilt_H0819 of_H3427 Israel_H3478. 
+@11 Now_H6258 therefore_H6258 make_H5414 confession_H8426 to_H3068 Yahweh_H3068, the_H5414 God_H0430 of_H0776 your_H3068 fathers_H0001 and_H3068 do_H6213 his_H5414 pleasure_H7522. Separate_H0914 yourselves_H3068 from_H4480 the_H5414 peoples_H5971 of_H0776 the_H5414 land_H0776 and_H3068 from_H4480 the_H5414 foreign_H5237 women_H0802.” 
 
-@12 Then all the assembly answered with a loud voice, “We must do as you have said concerning us. 
-@13 But the people are many, and it is a time of much rain, and we are not able to stand outside. This is not a work of one day or two, for we have greatly transgressed in this matter. 
-@14 Now let our princes be appointed for all the assembly, and let all those who are in our cities who have married foreign women come at appointed times, and with them the elders of every city and its judges, until the fierce wrath of our God is turned from us, until this matter is resolved.” 
+@12 Then_H6030 all_H3605 the_H3605 assembly_H6951 answered_H0559 with_H5921 a_H5921 loud_H1419 voice_H6963, “We_H3605 must do_H6213 as_H1697 you_H3605 have_H1697 said_H0559 concerning_H5921 us_H5921. 
+@13 But_H3588 the_H3588 people_H5971 are_H3117 many_H7227, and_H3117 it_H3588 is_H0369 a_H3588 time_H6256 of_H3117 much_H7235 rain_H1653, and_H3117 we_H3588 are_H3117 not_H3808 able to_H0369 stand_H5975 outside_H2351. This_H2088 is_H0369 not_H3808 a_H3588 work_H4399 of_H3117 one_H0259 day_H3117 or_H3808 two_H8147, for_H3588 we_H3588 have_H0369 greatly_H7235 transgressed_H6586 in_H3117 this_H2088 matter_H1697. 
+@14 Now_H4994 let_H4994 our_H3605 princes_H8269 be_H1697 appointed_H5975 for_H3605 all_H3605 the_H3605 assembly_H6951, and_H0935 let_H4994 all_H3605 those_H3605 who_H0834 are_H0834 in_H3427 our_H3605 cities_H5892 who_H0834 have_H0834 married_H0802 foreign_H5237 women_H0802 come_H0935 at_H3427 appointed_H5975 times_H6256, and_H0935 with_H5973 them_H7725 the_H3605 elders_H2205 of_H0430 every_H3605 city_H5892 and_H0935 its_H3605 judges_H8199, until_H5704 the_H3605 fierce_H2740 wrath_H0639 of_H0430 our_H3605 God_H0430 is_H0834 turned_H7725 from_H4480 us_H4994, until_H5704 this_H2088 matter_H1697 is_H0834 resolved.” 
 
-@15 Only Jonathan the son of Asahel and Jahzeiah the son of Tikvah stood up against this; and Meshullam and Shabbethai the Levite helped them. 
+@15 Only_H0389 Jonathan_H3129 the_H5921 son_H1121 of_H1121 Asahel_H6214 and_H1121 Jahzeiah_H3167 the_H5921 son_H1121 of_H1121 Tikvah_H8616 stood_H5975 up_H5975 against_H5921 this_H2063; and_H1121 Meshullam_H4918 and_H1121 Shabbethai_H7678 the_H5921 Levite_H3881 helped_H5826 them_H5921. 
 
-@16 The children of the captivity did so. Ezra the priest, with certain heads of fathers’ households, after their fathers’ houses, and all of them by their names, were set apart; and they sat down in the first day of the tenth month to examine the matter. 
-@17 They finished with all the men who had married foreign women by the first day of the first month.
+@16 The_H3605 children_H1121 of_H1121 the_H3605 captivity did_H6213 so_H3651. Ezra_H5830 the_H3605 priest_H3548, with_H1004 certain_H0259 heads_H7218 of_H1121 fathers’_H0001 households_H1004, after_H3117 their_H3605 fathers’_H0001 houses_H1004, and_H1121 all_H3605 of_H1121 them_H3427 by_H3117 their_H3605 names_H8034, were_H1121 set_H0914 apart_H0914; and_H1121 they_H3651 sat_H3427 down_H3427 in_H3427 the_H3605 first_H0259 day_H3117 of_H1121 the_H3605 tenth_H6224 month_H2320 to_H0376 examine the_H3605 matter_H1697. 
+@17 They_H3117 finished_H3615 with_H0376 all_H3605 the_H3605 men_H0376 who_H3605 had_H0376 married_H0802 foreign_H5237 women_H0802 by_H3117 the_H3605 first_H7223 day_H3117 of_H0376 the_H3605 first_H7223 month_H2320.
 
 ## List of priests, Levites and laity who married strange women
-@18 Among the sons of the priests there were found who had married foreign women: of the sons of Jeshua, the son of Jozadak, and his brothers: Maaseiah, Eliezer, Jarib, and Gedaliah. 
-@19 They gave their hand that they would put away their wives; and being guilty, they offered a ram of the flock for their guilt. 
-@20 Of the sons of Immer: Hanani and Zebadiah. 
-@21 Of the sons of Harim: Maaseiah, Elijah, Shemaiah, Jehiel, and Uzziah. 
-@22 Of the sons of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, and Elasah. 
-@23 Of the Levites: Jozabad, Shimei, Kelaiah (also called Kelita), Pethahiah, Judah, and Eliezer. 
-@24 Of the singers: Eliashib. Of the gatekeepers: Shallum, Telem, and Uri. 
-@25 Of Israel: Of the sons of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Malchijah, and Benaiah. 
-@26 Of the sons of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Elijah. 
-@27 Of the sons of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza. 
-@28 Of the sons of Bebai: Jehohanan, Hananiah, Zabbai, and Athlai. 
-@29 Of the sons of Bani: Meshullam, Malluch, Adaiah, Jashub, Sheal, and Jeremoth. 
-@30 Of the sons of Pahathmoab: Adna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, and Manasseh. 
-@31 Of the sons of Harim: Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon, 
-@32 Benjamin, Malluch, and Shemariah. 
-@33 Of the sons of Hashum: Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei. 
-@34 Of the sons of Bani: Maadai, Amram, Uel, 
-@35 Benaiah, Bedeiah, Cheluhi, 
-@36 Vaniah, Meremoth, Eliashib, 
-@37 Mattaniah, Mattenai, Jaasu, 
-@38 Bani, Binnui, Shimei, 
-@39 Shelemiah, Nathan, Adaiah, 
-@40 Machnadebai, Shashai, Sharai, 
-@41 Azarel, Shelemiah, Shemariah, 
-@42 Shallum, Amariah, and Joseph. 
-@43 Of the sons of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Iddo, Joel, and Benaiah. 
+@18 Among_H4672 the_H0834 sons_H1121 of_H1121 the_H0834 priests_H3548 there_H3427 were_H0834 found_H4672 who_H0834 had_H0834 married_H0802 foreign_H5237 women_H0802: of_H1121 the_H0834 sons_H1121 of_H1121 Jeshua_H3442, the_H0834 son_H1121 of_H1121 Jozadak, and_H1121 his_H0834 brothers_H0251: Maaseiah_H4641, Eliezer_H0461, Jarib_H3402, and_H1121 Gedaliah_H1436. 
+@19 They_H5921 gave_H5414 their_H5414 hand_H3027 that_H3027 they_H5921 would put_H5414 away_H3318 their_H5414 wives_H0802; and_H3027 being guilty_H0818, they_H5921 offered_H5414 a_H5414 ram_H0352 of_H3027 the_H5921 flock_H6629 for_H5921 their_H5414 guilt_H0819. 
+@20 Of_H1121 the_H1121 sons_H1121 of_H1121 Immer_H0564: Hanani_H2607 and_H1121 Zebadiah_H2069. 
+@21 Of_H1121 the_H8098 sons_H1121 of_H1121 Harim_H2766: Maaseiah_H4641, Elijah_H0452, Shemaiah_H8098, Jehiel_H3171, and_H1121 Uzziah_H5818. 
+@22 Of_H1121 the_H3458 sons_H1121 of_H1121 Pashhur_H6583: Elioenai_H0454, Maaseiah_H4641, Ishmael_H3458, Nethanel_H5417, Jozabad_H3107, and_H1121 Elasah_H0501. 
+@23 Of_H4480 the_H4480 Levites_H3881: Jozabad_H3107, Shimei_H8096, Kelaiah_H7041 (also_H3063 called Kelita_H7042), Pethahiah_H6611, Judah_H3063, and_H3063 Eliezer_H0461. 
+@24 Of_H4480 the_H4480 singers_H7891: Eliashib_H0475. Of_H4480 the_H4480 gatekeepers_H7778: Shallum_H7967, Telem_H2928, and_H7891 Uri_H0221. 
+@25 Of_H1121 Israel_H3478: Of_H1121 the_H0499 sons_H1121 of_H1121 Parosh_H6551: Ramiah_H7422, Izziah_H3150, Malchijah_H4441, Mijamin_H4326, Eleazar_H0499, Malchijah_H4441, and_H1121 Benaiah_H1141. 
+@26 Of_H1121 the_H1121 sons_H1121 of_H1121 Elam_H5867: Mattaniah_H4983, Zechariah_H2148, Jehiel_H3171, Abdi_H5660, Jeremoth_H3406, and_H1121 Elijah_H0452. 
+@27 Of_H1121 the_H1121 sons_H1121 of_H1121 Zattu_H2240: Elioenai_H0454, Eliashib_H0475, Mattaniah_H4983, Jeremoth_H3406, Zabad_H2066, and_H1121 Aziza_H5819. 
+@28 Of_H1121 the_H3076 sons_H1121 of_H1121 Bebai_H0893: Jehohanan_H3076, Hananiah_H2608, Zabbai_H2079, and_H1121 Athlai. 
+@29 Of_H1121 the_H1121 sons_H1121 of_H1121 Bani_H1137: Meshullam_H4918, Malluch_H4409, Adaiah_H5718, Jashub_H3437, Sheal_H7594, and_H1121 Jeremoth_H3406. 
+@30 Of_H1121 the_H1141 sons_H1121 of_H1121 Pahathmoab: Adna_H5733, Chelal_H3636, Benaiah_H1141, Maaseiah_H4641, Mattaniah_H4983, Bezalel_H1212, Binnui_H1131, and_H1121 Manasseh_H4519. 
+@31 Of_H1121 the_H8098 sons_H1121 of_H1121 Harim_H2766: Eliezer_H0461, Isshijah_H3449, Malchijah_H4441, Shemaiah_H8098, Shimeon_H8095, 
+@32 Benjamin_H1144, Malluch_H4409, and_H1144 Shemariah_H8114. 
+@33 Of_H1121 the_H1121 sons_H1121 of_H1121 Hashum_H2828: Mattenai_H4982, Mattattah_H4992, Zabad_H2066, Eliphelet_H0467, Jeremai_H3413, Manasseh_H4519, and_H1121 Shimei_H8096. 
+@34 Of_H1121 the_H1121 sons_H1121 of_H1121 Bani_H1137: Maadai_H4572, Amram_H6019, Uel_H0177, 
+@35 Benaiah_H1141, Bedeiah_H0912, Cheluhi_H3622, 
+@36 Vaniah_H2057, Meremoth_H4822, Eliashib_H0475, 
+@37 Mattaniah_H4983, Mattenai_H4982, Jaasu_H3299, 
+@38 Bani, Binnui_H1131, Shimei_H8096, 
+@39 Shelemiah_H8018, Nathan_H5416, Adaiah_H5718, 
+@40 Machnadebai_H4367, Shashai_H8343, Sharai_H8298, 
+@41 Azarel_H5832, Shelemiah_H8018, Shemariah_H8114, 
+@42 Shallum_H7967, Amariah_H0568, and_H3130 Joseph_H3130. 
+@43 Of_H1121 the_H1141 sons_H1121 of_H1121 Nebo_H5015: Jeiel_H3273, Mattithiah_H4993, Zabad_H2066, Zebina_H2081, Iddo_H3035, Joel_H3100, and_H1121 Benaiah_H1141. 
 
-@44 All these had taken foreign wives. Some of them had wives by whom they had children. 
+@44 All_H3605 these_H0428 had_H0802 taken_H5375 foreign_H5237 wives_H0802. Some_H0428 of_H1121 them_H1992 had_H0802 wives_H0802 by_H0802 whom_H0428 they_H1992 had_H0802 children_H1121. 

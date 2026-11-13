@@ -1,748 +1,748 @@
 # 1 
 ## The calling and ordination of Ezekiel as a prophet; the appearance of the glory of God
-@1 Now in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river Chebar, the heavens were opened, and I saw visions of God.^a^ 
+@1 Now_H1961 in_H5921 the_H5921 thirtieth_H7970 year_H8141, in_H5921 the_H5921 fourth_H7243 month_H2320, in_H5921 the_H5921 fifth_H2568 day_H2320 of_H0430 the_H5921 month_H2320, as_H1961 I_H0589 was_H1961 among_H8432 the_H5921 captives_H1473 by_H5921 the_H5921 river_H5104 Chebar_H3529, the_H5921 heavens_H8064 were_H1961 opened_H6605, and_H0430 I_H0589 saw_H7200 visions_H4759 of_H0430 God_H0430.^a^ 
 ^a^[**1:1** The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).]
 
-@2 In the fifth of the month, which was the fifth year of King Jehoiachin’s captivity, 
-@3 Yahweh’s^a^ word came to Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and Yahweh’s hand was there on him. 
+@2 In_H8141 the_H8141 fifth_H2549 of_H4428 the_H8141 month_H2320, which_H1931 was_H1931 the_H8141 fifth_H2549 year_H8141 of_H4428 King_H4428 Jehoiachin’s_H3112 captivity, 
+@3 Yahweh’s_H3068^a^ word_H1697 came_H1961 to_H0413 Ezekiel_H3168 the_H5921 priest_H3548, the_H5921 son_H1121 of_H1121 Buzi_H0941, in_H5921 the_H5921 land_H0776 of_H1121 the_H5921 Chaldeans_H3778 by_H5921 the_H5921 river_H5104 Chebar_H3529; and_H1121 Yahweh’s_H3068 hand_H3027 was_H1961 there_H8033 on_H5921 him_H0413. 
 ^a^[**1:3** “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.]
 
 ## The cloud of light and the chariot of light and fire with the four cherubim
-@4 I looked, and behold,^a^ a stormy wind came out of the north: a great cloud, with flashing lightning, and a brightness around it, and out of the middle of it as it were glowing metal, out of the middle of the fire. 
-@5 Out of its center came the likeness of four living creatures. This was their appearance: They had the likeness of a man. 
-@6 Everyone had four faces, and each one of them had four wings. 
-@7 Their feet were straight feet. The sole of their feet was like the sole of a calf’s foot; and they sparkled like burnished bronze. 
-@8 They had the hands of a man under their wings on their four sides. The four of them had their faces and their wings like this: 
-@9 Their wings were joined to one another. They didn’t turn when they went. Each one went straight forward. 
+@4 I_H2009 looked_H7200, and_H0935 behold_H2009,^a^ a_H3947 stormy wind_H7307 came_H0935 out_H4480 of_H5869 the_H0935 north_H6828: a_H3947 great_H1419 cloud_H6051, with_H0935 flashing_H3947 lightning, and_H0935 a_H3947 brightness_H5051 around_H5439 it_H5439, and_H0935 out_H4480 of_H5869 the_H0935 middle_H8432 of_H5869 it_H5439 as_H0935 it_H5439 were_H5869 glowing_H2830 metal_H2830, out_H4480 of_H5869 the_H0935 middle_H8432 of_H5869 the_H0935 fire_H0784. 
+@5 Out of_H8432 its center_H8432 came the_H8432 likeness_H1823 of_H8432 four_H0702 living_H2416 creatures. This_H2088 was_H2088 their_H8432 appearance_H4758: They_H2007 had_H0120 the_H8432 likeness_H1823 of_H8432 a_H2088 man_H0120. 
+@6 Everyone_H0259 had_H0259 four_H0702 faces_H6440, and_H6440 each_H0259 one_H0259 of_H6440 them_H6440 had_H0259 four_H0702 wings_H3671. 
+@7 Their_H7272 feet_H7272 were_H5869 straight_H3477 feet_H7272. The_H5869 sole_H3709 of_H5869 their_H7272 feet_H7272 was_H3477 like_H7272 the_H5869 sole_H3709 of_H5869 a_H5869 calf’s_H5695 foot_H7272; and_H5869 they_H7272 sparkled like_H7272 burnished_H7044 bronze_H5178. 
+@8 They_H5921 had_H3027 the_H6440 hands_H3027 of_H3027 a_H5921 man_H0120 under_H8478 their_H5921 wings_H3671 on_H5921 their_H5921 four_H0702 sides_H7253. The_H6440 four_H0702 of_H3027 them_H5921 had_H3027 their_H5921 faces_H6440 and_H3027 their_H5921 wings_H3671 like_H5921 this: 
+@9 Their_H6440 wings_H3671 were_H0376 joined_H2266 to_H0413 one_H0376 another_H0376. They_H3808 didn’t_H3808 turn_H5437 when_H0376 they_H3808 went_H5437. Each_H0376 one_H0376 went_H5437 straight_H5676 forward_H6440. 
 ^a^[**1:4** “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.]
 
-@10 As for the likeness of their faces, they had the face of a man. The four of them had the face of a lion on the right side. The four of them had the face of an ox on the left side. The four of them also had the face of an eagle. 
-@11 Such were their faces. Their wings were spread out above. Two wings of each one touched another, and two covered their bodies. 
-@12 Each one went straight forward. Where the spirit was to go, they went. They didn’t turn when they went. 
-@13 As for the likeness of the living creatures, their appearance was like burning coals of fire, like the appearance of torches. The fire went up and down among the living creatures. The fire was bright, and lightning went out of the fire. 
-@14 The living creatures ran and returned as the appearance of a flash of lightning.
+@10 As_H6440 for_H0413 the_H6440 likeness_H1823 of_H6440 their_H6440 faces_H6440, they_H6440 had_H0120 the_H6440 face_H6440 of_H6440 a_H1823 man_H0120. The_H6440 four_H0702 of_H6440 them_H0413 had_H0120 the_H6440 face_H6440 of_H6440 a_H1823 lion_H0738 on_H0413 the_H6440 right_H3225 side_H3225. The_H6440 four_H0702 of_H6440 them_H0413 had_H0120 the_H6440 face_H6440 of_H6440 an_H6440 ox_H7794 on_H0413 the_H6440 left_H8040 side_H3225. The_H6440 four_H0702 of_H6440 them_H0413 also had_H0120 the_H6440 face_H6440 of_H6440 an_H6440 eagle_H5404. 
+@11 Such were_H0376 their_H6440 faces_H6440. Their_H6440 wings_H3671 were_H0376 spread_H3671 out_H6440 above_H4605. Two_H8147 wings_H3671 of_H0376 each_H0376 one_H0376 touched_H2266 another_H0376, and_H0376 two_H8147 covered_H3680 their_H6440 bodies_H1472. 
+@12 Each_H0376 one_H0376 went_H5437 straight_H5676 forward_H6440. Where_H0834 the_H6440 spirit_H7307 was_H1961 to_H0413 go_H5437, they_H0834 went_H5437. They_H0834 didn’t_H3808 turn_H5437 when_H1961 they_H0834 went_H5437. 
+@13 As_H1980 for_H0784 the_H4480 likeness_H1823 of_H4480 the_H4480 living_H2416 creatures_H0996, their_H4480 appearance_H4758 was_H1931 like_H4758 burning_H0784 coals_H1513 of_H4480 fire_H0784, like_H4758 the_H4480 appearance_H4758 of_H4480 torches_H3940. The_H4480 fire_H0784 went_H1980 up_H4480 and_H1980 down_H1980 among_H0996 the_H4480 living_H2416 creatures_H0996. The_H4480 fire_H0784 was_H1931 bright_H5051, and_H1980 lightning_H1300 went_H1980 out_H3318 of_H4480 the_H4480 fire_H0784. 
+@14 The_H7725 living_H2416 creatures ran_H7519 and_H7725 returned_H7725 as the_H7725 appearance_H4758 of_H4758 a_H7725 flash of_H4758 lightning_H0965.
 
 ## All four wheels of the car
-@15 Now as I saw the living creatures, behold, there was one wheel on the earth beside the living creatures, for each of the four faces of it. 
-@16 The appearance of the wheels and their work was like a beryl. The four of them had one likeness. Their appearance and their work was as it were a wheel within a wheel. 
-@17 When they went, they went in their four directions. They didn’t turn when they went. 
-@18 As for their rims, they were high and dreadful; and the four of them had their rims full of eyes all around. 
+@15 Now_H2009 as_H0776 I_H2009 saw_H7200 the_H6440 living_H2416 creatures, behold_H2009, there_H2009 was_H0776 one_H0259 wheel_H0212 on_H7200 the_H6440 earth_H0776 beside_H0681 the_H6440 living_H2416 creatures, for_H0776 each_H0259 of_H0776 the_H6440 four_H0702 faces_H6440 of_H0776 it_H7200. 
+@16 The_H0834 appearance_H4758 of_H5869 the_H0834 wheels_H0212 and_H5869 their_H1961 work_H4639 was_H1961 like_H1961 a_H1961 beryl_H8658. The_H0834 four_H0702 of_H5869 them_H1961 had_H0834 one_H0259 likeness_H1823. Their_H1961 appearance_H4758 and_H5869 their_H1961 work_H4639 was_H1961 as_H0834 it_H1961 were_H0834 a_H1961 wheel_H0212 within_H8432 a_H1961 wheel_H0212. 
+@17 When_H5921 they_H5921 went_H5437, they_H5921 went_H5437 in_H5921 their_H5921 four_H0702 directions_H7253. They_H5921 didn’t_H3808 turn_H5437 when_H5921 they_H5921 went_H5437. 
+@18 As_H1992 for_H5869 their_H1992 rims_H1354, they_H1992 were_H1992 high_H1363 and_H5869 dreadful; and_H5869 the_H5439 four_H0702 of_H5869 them_H1992 had_H5869 their_H1992 rims_H1354 full_H4392 of_H5869 eyes_H5869 all_H5439 around_H5439. 
 
-@19 When the living creatures went, the wheels went beside them. When the living creatures were lifted up from the earth, the wheels were lifted up. 
-@20 Wherever the spirit was to go, they went. The spirit was to go there. The wheels were lifted up beside them; for the spirit of the living creature was in the wheels. 
-@21 When those went, these went. When those stood, these stood. When those were lifted up from the earth, the wheels were lifted up beside them; for the spirit of the living creature was in the wheels.
+@19 When_H5375 the_H5921 living_H2416 creatures went_H5375, the_H5921 wheels_H0212 went_H5375 beside_H5921 them_H5921. When_H5375 the_H5921 living_H2416 creatures were_H0212 lifted_H5375 up_H5375 from_H5921 the_H5921 earth_H0776, the_H5921 wheels_H0212 were_H0212 lifted_H5375 up_H5375. 
+@20 Wherever_H0834 the_H0834 spirit_H7307 was_H1961 to_H1961 go_H1961, they_H0834 went_H1961. The_H0834 spirit_H7307 was_H1961 to_H1961 go_H1961 there_H8033. The_H0834 wheels_H0212 were_H0834 lifted_H5375 up_H5375 beside_H5921 them_H5921; for_H3588 the_H0834 spirit_H7307 of_H7307 the_H0834 living_H2416 creature_H2416 was_H1961 in_H5921 the_H0834 wheels_H0212. 
+@21 When_H3588 those_H5921 went_H5375, these went_H5375. When_H3588 those_H5921 stood_H5975, these stood_H5975. When_H3588 those_H5921 were_H0212 lifted_H5375 up_H5375 from_H5921 the_H5921 earth_H0776, the_H5921 wheels_H0212 were_H0212 lifted_H5375 up_H5375 beside_H5921 them_H5921; for_H3588 the_H5921 spirit_H7307 of_H0776 the_H5921 living_H2416 creature_H2416 was_H0776 in_H5921 the_H5921 wheels_H0212.
 
 ## The vault of heaven above and the god enthroned in it
-@22 Over the head of the living creature there was the likeness of an expanse, like an awesome crystal to look at, stretched out over their heads above. 
-@23 Under the expanse, their wings were straight, one toward the other. Each one had two which covered on this side, and each one had two which covered their bodies on that side. 
-@24 When they went, I heard the noise of their wings like the noise of great waters, like the voice of the Almighty, a noise of tumult like the noise of an army. When they stood, they let down their wings. 
+@22 Over_H5921 the_H5921 head_H7218 of_H7218 the_H5921 living_H2416 creature_H2416 there was_H7218 the_H5921 likeness_H1823 of_H7218 an_H1823 expanse_H7549, like_H1823 an_H1823 awesome_H3372 crystal_H7140 to_H5921 look_H5869 at_H5921, stretched_H5186 out_H5186 over_H5921 their_H5921 heads_H7218 above_H5921. 
+@23 Under_H8478 the_H0853 expanse_H7549, their_H8478 wings_H3671 were_H0376 straight_H3477, one_H0376 toward_H0413 the_H0853 other_H8147. Each_H0376 one_H0376 had_H0376 two_H8147 which_H3477 covered_H3680 on_H0413 this_H0376 side, and_H0376 each_H0376 one_H0376 had_H0376 two_H8147 which_H3477 covered_H3680 their_H8478 bodies_H1472 on_H0413 that_H0413 side. 
+@24 When_H8085 they_H8085 went, I_H8085 heard_H8085 the_H0853 noise_H6963 of_H6963 their_H8085 wings_H3671 like_H7227 the_H0853 noise_H6963 of_H6963 great_H7227 waters_H4325, like_H7227 the_H0853 voice_H6963 of_H6963 the_H0853 Almighty_H7706, a_H8085 noise_H6963 of_H6963 tumult_H1999 like_H7227 the_H0853 noise_H6963 of_H6963 an_H8085 army_H4264. When_H8085 they_H8085 stood_H5975, they_H8085 let_H7503 down their_H8085 wings_H3671. 
 
-@25 There was a voice above the expanse that was over their heads. When they stood, they let down their wings. 
-@26 Above the expanse that was over their heads was the likeness of a throne, as the appearance of a sapphire^a^ stone. On the likeness of the throne was a likeness as the appearance of a man on it above. 
-@27 I saw as it were glowing metal, as the appearance of fire within it all around, from the appearance of his waist and upward; and from the appearance of his waist and downward I saw as it were the appearance of fire, and there was brightness around him. 
-@28 As the appearance of the rainbow that is in the cloud in the day of rain, so was the appearance of the brightness all around. 
+@25 There_H1961 was_H1961 a_H1961 voice_H6963 above_H5921 the_H0834 expanse_H7549 that_H0834 was_H1961 over_H5921 their_H5921 heads_H7218. When_H1961 they_H0834 stood_H5975, they_H0834 let_H7503 down_H5921 their_H5921 wings_H3671. 
+@26 Above_H5921 the_H0834 expanse_H7549 that_H0834 was_H0834 over_H5921 their_H5921 heads_H7218 was_H0834 the_H0834 likeness_H1823 of_H7218 a_H0834 throne_H3678, as_H0834 the_H0834 appearance_H4758 of_H7218 a_H0834 sapphire_H5601^a^ stone_H0068. On_H5921 the_H0834 likeness_H1823 of_H7218 the_H0834 throne_H3678 was_H0834 a_H0834 likeness_H1823 as_H0834 the_H0834 appearance_H4758 of_H7218 a_H0834 man_H0120 on_H5921 it_H5921 above_H5921. 
+@27 I_H7200 saw_H7200 as_H1004 it_H5439 were_H5869 glowing_H2830 metal_H2830, as_H1004 the_H7200 appearance_H4758 of_H1004 fire_H0784 within_H1004 it_H5439 all_H5439 around_H5439, from_H5869 the_H7200 appearance_H4758 of_H1004 his_H7200 waist_H4975 and_H1004 upward_H4605; and_H1004 from_H5869 the_H7200 appearance_H4758 of_H1004 his_H7200 waist_H4975 and_H1004 downward_H4295 I_H7200 saw_H7200 as_H1004 it_H5439 were_H5869 the_H7200 appearance_H4758 of_H1004 fire_H0784, and_H1004 there was_H1004 brightness_H5051 around_H5439 him_H7200. 
+@28 As_H0834 the_H6440 appearance_H4758 of_H3068 the_H6440 rainbow_H7198 that_H0834 is_H0834 in_H5921 the_H6440 cloud_H6051 in_H5921 the_H6440 day_H3117 of_H3068 rain_H1653, so_H3651 was_H1961 the_H6440 appearance_H4758 of_H3068 the_H6440 brightness_H5051 all_H5439 around_H5439. 
 ^a^[**1:26** or, lapis lazuli]
 
-This was the appearance of the likeness of Yahweh’s glory. When I saw it, I fell on my face, and I heard a voice of one that spoke. 
+This_H3651 was_H1961 the_H6440 appearance_H4758 of_H3068 the_H6440 likeness_H1823 of_H3068 Yahweh’s_H3068 glory_H3519. When_H1961 I_H0834 saw_H7200 it_H1931, I_H0834 fell_H5307 on_H5921 my_H8085 face_H6440, and_H3068 I_H0834 heard_H8085 a_H1961 voice_H6963 of_H3068 one_H1931 that_H0834 spoke_H1696. 
 
 # 2 
 ## Ezekiel's mission for renegade Israel
-@1 He said to me, “Son of man, stand on your feet, and I will speak with you.” 
-@2 The Spirit entered into me when he spoke to me, and set me on my feet; and I heard him who spoke to me. 
+@1 He_H5921 said_H0559 to_H0413 me_H0413, “Son_H1121 of_H1121 man_H0120, stand_H5975 on_H5921 your_H5921 feet_H7272, and_H1121 I_H0559 will_H1121 speak_H1696 with_H0854 you_H5921.” 
+@2 The_H0853 Spirit_H7307 entered_H0935 into_H0413 me_H0413 when_H0834 he_H0834 spoke_H1696 to_H0413 me_H0413, and_H0935 set_H5975 me_H0413 on_H5921 my_H8085 feet_H7272; and_H0935 I_H0834 heard_H8085 him_H0413 who_H0834 spoke_H1696 to_H0413 me_H0413. 
 
-@3 He said to me, “Son of man, I send you to the children of Israel, to a nation of rebels who have rebelled against me. They and their fathers have transgressed against me even to this very day. 
-@4 The children are impudent and stiff-hearted. I am sending you to them, and you shall tell them, ‘This is what the Lord^a^ Yahweh says.’ 
-@5 They, whether they will hear, or whether they will refuse—for they are a rebellious house—yet they will know that there has been a prophet among them. 
-@6 You, son of man, don’t be afraid of them, neither be afraid of their words, though briers and thorns are with you, and you dwell among scorpions. Don’t be afraid of their words, nor be dismayed at their looks, though they are a rebellious house. 
-@7 You shall speak my words to them, whether they will hear or whether they will refuse; for they are most rebellious.
+@3 He_H0834 said_H0559 to_H0413 me_H0413, “Son_H1121 of_H1121 man_H0120, I_H0589 send_H7971 you_H0834 to_H0413 the_H0853 children_H1121 of_H1121 Israel_H3478, to_H0413 a_H7971 nation_H1471 of_H1121 rebels_H4775 who_H0834 have_H0834 rebelled_H4775 against_H0413 me_H0413. They_H1992 and_H1121 their_H1992 fathers_H0001 have_H0834 transgressed_H6586 against_H0413 me_H0413 even_H5704 to_H0413 this_H2088 very_H6106 day_H3117. 
+@4 The_H0853 children_H1121 are_H1121 impudent and_H1121 stiff-hearted. I_H0589 am_H0589 sending_H7971 you_H6440 to_H0413 them_H0413, and_H1121 you_H6440 shall_H1121 tell_H0559 them_H0413, ‘This_H3541 is_H3820 what_H3541 the_H0853 Lord_H0136^a^ Yahweh says_H0559.’ 
+@5 They_H1992, whether_H0518 they_H1992 will_H1961 hear_H8085, or_H0518 whether_H0518 they_H1992 will_H1961 refuse_H2308—for_H3588 they_H1992 are_H1992 a_H1961 rebellious_H4805 house_H1004—yet_H3588 they_H1992 will_H1961 know_H3045 that_H3588 there_H1961 has_H1961 been_H1961 a_H1961 prophet_H5030 among_H8432 them_H1992. 
+@6 You_H0859, son_H1121 of_H1121 man_H0120, don’t_H0408 be_H0408 afraid_H3372 of_H1121 them_H0413, neither_H0408 be_H0408 afraid_H3372 of_H1121 their_H1992 words_H1697, though_H3588 briers_H5621 and_H1121 thorns_H5544 are_H1992 with_H0854 you_H0859, and_H1121 you_H0859 dwell_H3427 among_H0854 scorpions_H6137. Don’t_H0408 be_H0408 afraid_H3372 of_H1121 their_H1992 words_H1697, nor_H0408 be_H0408 dismayed_H2865 at_H0413 their_H1992 looks, though_H3588 they_H1992 are_H1992 a_H3588 rebellious_H4805 house_H1004. 
+@7 You_H3588 shall_H1697 speak_H1696 my_H8085 words_H1697 to_H0413 them_H0413, whether_H0518 they_H1992 will_H1697 hear_H8085 or_H0518 whether_H0518 they_H1992 will_H1697 refuse_H2308; for_H3588 they_H1992 are_H1992 most rebellious_H4805.
 
 ## Divine inspiration when consuming a scroll
-@8 But you, son of man, hear what I tell you. Don’t be rebellious like that rebellious house. Open your mouth, and eat that which I give you.” 
+@8 But_H1961 you_H0859, son_H1121 of_H1121 man_H0120, hear_H8085 what_H0834 I_H0589 tell_H1696 you_H0859. Don’t_H0408 be_H1961 rebellious_H4805 like_H1961 that_H0834 rebellious_H4805 house_H1004. Open_H6475 your_H5414 mouth_H6310, and_H1121 eat_H0398 that_H0834 which_H0834 I_H0589 give_H5414 you_H0859.” 
 ^a^[**2:4** The word translated “Lord” is “Adonai.”]
 
-@9 When I looked, behold, a hand was stretched out to me; and behold, a scroll of a book was in it. 
-@10 He spread it before me. It was written within and without; and lamentations, mourning, and woe were written in it. 
+@9 When_H7200 I_H2009 looked_H7200, behold_H2009, a_H7200 hand_H3027 was_H3027 stretched_H7971 out_H7971 to_H0413 me_H0413; and_H3027 behold_H2009, a_H7200 scroll_H5612 of_H3027 a_H7200 book_H5612 was_H3027 in_H0413 it_H7200. 
+@10 He_H1931 spread_H6566 it_H1931 before_H6440 me_H0413. It_H1931 was_H1931 written_H3789 within_H0413 and_H6440 without; and_H6440 lamentations_H7015, mourning_H1899, and_H6440 woe_H1958 were_H6440 written_H3789 in_H0413 it_H1931. 
 
 # 3 
-@1 He said to me, “Son of man, eat what you find. Eat this scroll, and go, speak to the house of Israel.” 
+@1 He_H0834 said_H0559 to_H0413 me_H0413, “Son_H1121 of_H1121 man_H0120, eat_H0398 what_H0834 you_H0834 find_H4672. Eat_H0398 this_H2063 scroll_H4039, and_H1121 go, speak_H1696 to_H0413 the_H0853 house_H1004 of_H1121 Israel_H3478.” 
 
-@2 So I opened my mouth, and he caused me to eat the scroll. 
+@2 So_H0853 I opened_H6605 my_H0398 mouth_H6310, and_H0398 he_H0853 caused me_H0398 to_H6310 eat_H0398 the_H0853 scroll_H4039. 
 
-@3 He said to me, “Son of man, eat this scroll that I give you and fill your belly and your bowels with it.” 
+@3 He_H0834 said_H0559 to_H0413 me_H0413, “Son_H1121 of_H1121 man_H0120, eat_H0398 this_H2063 scroll_H4039 that_H0834 I_H0589 give_H5414 you_H0834 and_H1121 fill_H4390 your_H5414 belly_H0990 and_H1121 your_H5414 bowels_H4578 with_H0854 it_H5414.” 
 
-Then I ate it. It was as sweet as honey in my mouth.
+Then_H1961 I_H0589 ate_H0398 it_H5414. It_H5414 was_H1961 as_H0834 sweet_H4966 as_H0834 honey_H1706 in_H0413 my_H5414 mouth_H6310.
 
 ## Sharpening of the order; Equipment of the prophet for his office
-@4 He said to me, “Son of man, go to the house of Israel, and speak my words to them. 
-@5 For you are not sent to a people of a strange speech and of a hard language, but to the house of Israel— 
-@6 not to many peoples of a strange speech and of a hard language, whose words you can’t understand. Surely, if I sent you to them, they would listen to you. 
-@7 But the house of Israel will not listen to you, for they will not listen to me; for all the house of Israel are obstinate^a^ and hard-hearted. 
-@8 Behold, I have made your face hard against their faces, and your forehead hard against their foreheads. 
-@9 I have made your forehead as a diamond, harder than flint. Don’t be afraid of them, neither be dismayed at their looks, though they are a rebellious house.” 
+@4 He_H0935 said_H0559 to_H0413 me_H0413, “Son_H1121 of_H1121 man_H0120, go_H0935 to_H0413 the_H0559 house_H1004 of_H1121 Israel_H3478, and_H1121 speak_H1696 my_H0935 words_H1697 to_H0413 them_H0413. 
+@5 For_H3588 you_H0859 are_H3478 not_H3808 sent_H7971 to_H0413 a_H3588 people_H5971 of_H1004 a_H3588 strange speech_H8193 and_H3478 of_H1004 a_H3588 hard_H1004 language_H3956, but_H3588 to_H0413 the_H3588 house_H1004 of_H1004 Israel_H3478— 
+@6 not_H3808 to_H0413 many_H7227 peoples_H5971 of_H1697 a_H8085 strange speech_H8193 and_H7971 of_H1697 a_H8085 hard_H3515 language_H3956, whose_H0834 words_H1697 you_H0834 can’t_H3808 understand_H8085. Surely_H0518, if_H0518 I_H0834 sent_H7971 you_H0834 to_H0413 them_H0413, they_H1992 would_H0834 listen_H8085 to_H0413 you_H0834. 
+@7 But_H3588 the_H3605 house_H1004 of_H1004 Israel_H3478 will_H3478 not_H3808 listen_H8085 to_H0413 you_H3588, for_H3588 they_H1992 will_H3478 not_H3808 listen_H8085 to_H0413 me_H0413; for_H3588 all_H3605 the_H3605 house_H1004 of_H1004 Israel_H3478 are_H1992 obstinate_H7186^a^ and_H3478 hard-hearted. 
+@8 Behold_H2009, I_H5414 have_H5414 made_H5414 your_H5414 face_H6440 hard_H2389 against_H6440 their_H5414 faces_H6440, and_H6440 your_H5414 forehead_H4696 hard_H2389 against_H6440 their_H5414 foreheads_H4696. 
+@9 I_H3588 have_H5414 made_H5414 your_H5414 forehead_H4696 as_H3588 a_H3588 diamond_H8068, harder_H2389 than_H3808 flint_H6864. Don’t_H3808 be_H3808 afraid_H3372 of_H1004 them_H5414, neither_H3808 be_H3808 dismayed_H2865 at_H1004 their_H5414 looks, though_H3588 they_H1992 are_H1992 a_H3588 rebellious_H4805 house_H1004.” 
 ^a^[**3:7** Literally, have a hard forehead]
 
-@10 Moreover he said to me, “Son of man, receive in your heart and hear with your ears all my words that I speak to you. 
-@11 Go to them of the captivity, to the children of your people, and speak to them, and tell them, ‘This is what the Lord Yahweh says,’ whether they will hear, or whether they will refuse.”
+@10 Moreover_H1696 he_H0834 said_H0559 to_H0413 me_H0413, “Son_H1121 of_H1121 man_H0120, receive_H3947 in_H0413 your_H3605 heart_H3824 and_H1121 hear_H8085 with_H0413 your_H3605 ears_H0241 all_H3605 my_H3605 words_H1697 that_H0834 I_H0834 speak_H1696 to_H0413 you_H0834. 
+@11 Go_H0935 to_H0413 them_H0413 of_H1121 the_H0559 captivity, to_H0413 the_H0559 children_H1121 of_H1121 your_H8085 people_H5971, and_H1121 speak_H1696 to_H0413 them_H0413, and_H1121 tell_H0559 them_H0413, ‘This_H3541 is_H1121 what_H3541 the_H0559 Lord_H0136 Yahweh says_H0559,’ whether_H0518 they_H0518 will_H1121 hear_H8085, or_H0518 whether_H0518 they_H0518 will_H1121 refuse_H2308.”
 
 ## The disappearance of the divine appearance; the abduction of the prophet in the labor camp
-@12 Then the Spirit lifted me up, and I heard behind me the voice of a great rushing, saying, “Blessed be Yahweh’s glory from his place.” 
-@13 I heard the noise of the wings of the living creatures as they touched one another, and the noise of the wheels beside them, even the noise of a great rushing. 
-@14 So the Spirit lifted me up, and took me away; and I went in bitterness, in the heat of my spirit; and Yahweh’s hand was strong on me. 
-@15 Then I came to them of the captivity at Tel Aviv who lived by the river Chebar, and to where they lived; and I sat there overwhelmed among them seven days.
+@12 Then_H5375 the_H8085 Spirit_H7307 lifted_H5375 me_H6963 up_H5375, and_H3068 I_H0310 heard_H8085 behind_H0310 me_H6963 the_H8085 voice_H6963 of_H3068 a_H8085 great_H1419 rushing, saying_H6963, “Blessed_H1288 be_H1288 Yahweh’s_H3068 glory_H3519 from_H8085 his_H3068 place_H4725.” 
+@13 I_H6963 heard_H6963 the_H0413 noise_H6963 of_H6963 the_H0413 wings_H3671 of_H6963 the_H0413 living_H2416 creatures as_H5980 they touched one_H0802 another_H0269, and_H1419 the_H0413 noise_H6963 of_H6963 the_H0413 wheels_H0212 beside_H5980 them_H0413, even the_H0413 noise_H6963 of_H6963 a_H0802 great_H1419 rushing. 
+@14 So_H3947 the_H5921 Spirit_H7307 lifted_H5375 me_H5921 up_H5375, and_H3068 took_H3947 me_H5921 away_H5375; and_H3068 I_H3068 went_H5375 in_H5921 bitterness_H4751, in_H5921 the_H5921 heat_H2534 of_H3068 my_H3068 spirit_H7307; and_H3068 Yahweh’s_H3068 hand_H3027 was_H3068 strong_H2388 on_H5921 me_H5921. 
+@15 Then_H0935 I_H0834 came_H0935 to_H0413 them_H0413 of_H3117 the_H0834 captivity at_H0413 Tel Aviv who_H0834 lived_H3427 by_H0413 the_H0834 river_H5104 Chebar_H3529, and_H0935 to_H0413 where_H0834 they_H1992 lived_H3427; and_H0935 I_H0834 sat_H3427 there_H8033 overwhelmed among_H8432 them_H0413 seven_H7651 days_H3117.
 
 ## The appointment of Ezekiel for the responsible spiritual guardianship of the exiles
-@16 At the end of seven days, Yahweh’s word came to me, saying, 
-@17 “Son of man, I have made you a watchman to the house of Israel. Therefore hear the word from my mouth, and warn them from me. 
-@18 When I tell the wicked, ‘You will surely die;’ and you give him no warning, nor speak to warn the wicked from his wicked way, to save his life, that wicked man will die in his iniquity; but I will require his blood at your hand. 
-@19 Yet if you warn the wicked, and he doesn’t turn from his wickedness, nor from his wicked way, he will die in his iniquity; but you have delivered your soul.” 
+@16 At_H0413 the_H0559 end_H7097 of_H3068 seven_H7651 days_H3117, Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@17 “Son_H1121 of_H1121 man_H0120, I_H5414 have_H1121 made_H5414 you_H5414 a_H5414 watchman_H6822 to_H3478 the_H0853 house_H1004 of_H1121 Israel_H3478. Therefore hear_H8085 the_H0853 word_H1697 from_H4480 my_H5414 mouth_H6310, and_H1121 warn_H2094 them_H5414 from_H4480 me_H5414. 
+@18 When_H2421 I_H0559 tell_H0559 the_H0559 wicked_H7563, ‘You_H3808 will_H7563 surely_H4191 die_H4191;’ and_H3027 you_H3808 give_H1696 him_H4191 no_H3808 warning_H0559, nor_H3808 speak_H1696 to_H0559 warn_H2094 the_H0559 wicked_H7563 from_H3027 his_H3027 wicked_H7563 way_H1870, to_H0559 save his_H3027 life_H4191, that_H1931 wicked_H7563 man_H7563 will_H7563 die_H4191 in_H4191 his_H3027 iniquity_H5771; but_H3808 I_H0559 will_H7563 require_H1245 his_H3027 blood_H1818 at_H4191 your_H1245 hand_H3027. 
+@19 Yet_H3588 if_H3588 you_H0859 warn_H2094 the_H0853 wicked_H7563, and_H7725 he_H1931 doesn’t_H3808 turn_H7725 from_H7725 his_H7725 wickedness_H7562, nor_H3808 from_H7725 his_H7725 wicked_H7563 way_H1870, he_H1931 will_H7563 die_H4191 in_H4191 his_H7725 iniquity_H5771; but_H3588 you_H0859 have_H0859 delivered_H5337 your_H7725 soul_H5315.” 
 
-@20 “Again, when a righteous man turns from his righteousness and commits iniquity, and I lay a stumbling block before him, he will die. Because you have not given him warning, he will die in his sin, and his righteous deeds which he has done will not be remembered; but I will require his blood at your hand. 
-@21 Nevertheless if you warn the righteous man, that the righteous not sin, and he does not sin, he will surely live, because he took warning; and you have delivered your soul.”
+@20 “Again_H7725, when_H3588 a_H3588 righteous_H6662 man_H6662 turns_H7725 from_H7725 his_H5414 righteousness_H6666 and_H3027 commits_H6213 iniquity_H5766, and_H3027 I_H0834 lay_H5414 a_H3588 stumbling_H4383 block_H4383 before_H6440 him_H5414, he_H0834 will_H0834 die_H4191. Because_H3588 you_H0834 have_H0834 not_H3808 given_H5414 him_H5414 warning, he_H0834 will_H0834 die_H4191 in_H4191 his_H5414 sin_H2403, and_H3027 his_H5414 righteous_H6662 deeds_H6666 which_H0834 he_H0834 has_H0834 done_H6213 will_H0834 not_H3808 be_H4191 remembered_H2142; but_H3588 I_H0834 will_H0834 require_H1245 his_H5414 blood_H1818 at_H4191 your_H5414 hand_H3027. 
+@21 Nevertheless_H3588 if_H3588 you_H0859 warn_H2094 the_H0853 righteous_H6662 man_H6662, that_H3588 the_H0853 righteous_H6662 not_H3808 sin_H2398, and_H5315 he_H1931 does_H3808 not_H3808 sin_H2398, he_H1931 will_H6662 surely_H3588 live_H2421, because_H3588 he_H1931 took_H0853 warning; and_H5315 you_H0859 have_H0859 delivered_H5337 your_H3588 soul_H5315.”
 
 ## Second appearance of the glory of God; the restriction imposed by God on the prophet
-@22 Yahweh’s hand was there on me; and he said to me, “Arise, go out into the plain, and I will talk with you there.” 
+@22 Yahweh’s_H3068 hand_H3027 was_H1961 there_H8033 on_H5921 me_H0413; and_H6965 he_H8033 said_H0559 to_H0413 me_H0413, “Arise_H6965, go_H3318 out_H3318 into_H0413 the_H0559 plain_H1237, and_H6965 I_H0559 will_H3068 talk_H1696 with_H0854 you_H5921 there_H8033.” 
 
-@23 Then I arose, and went out into the plain, and behold, Yahweh’s glory stood there, like the glory which I saw by the river Chebar. Then I fell on my face. 
+@23 Then_H6965 I_H0834 arose_H6965, and_H6965 went_H3318 out_H3318 into_H0413 the_H6440 plain_H1237, and_H6965 behold_H2009, Yahweh’s_H3068 glory_H3519 stood_H5975 there_H8033, like_H0834 the_H6440 glory_H3519 which_H0834 I_H0834 saw_H7200 by_H5921 the_H6440 river_H5104 Chebar_H3529. Then_H6965 I_H0834 fell_H5307 on_H5921 my_H3068 face_H6440. 
 
-@24 Then the Spirit entered into me and set me on my feet. He spoke with me, and said to me, “Go, shut yourself inside your house. 
-@25 But you, son of man, behold, they will put ropes on you, and will bind you with them, and you will not go out among them. 
-@26 I will make your tongue stick to the roof of your mouth so that you will be mute and will not be able to correct them, for they are a rebellious house. 
-@27 But when I speak with you, I will open your mouth, and you shall tell them, ‘This is what the Lord Yahweh says.’ He who hears, let him hear; and he who refuses, let him refuse; for they are a rebellious house.” 
+@24 Then_H1696 the_H0559 Spirit_H7307 entered_H0935 into_H0413 me_H0413 and_H0935 set_H5975 me_H0413 on_H5921 my_H5921 feet_H7272. He_H5921 spoke_H1696 with_H0854 me_H0413, and_H0935 said_H0559 to_H0413 me_H0413, “Go_H0935, shut_H5462 yourself_H7272 inside_H8432 your_H5921 house_H1004. 
+@25 But_H3808 you_H0859, son_H1121 of_H1121 man_H0120, behold_H2009, they_H5921 will_H1121 put_H5414 ropes_H5688 on_H5921 you_H0859, and_H1121 will_H1121 bind_H0631 you_H0859 with_H5921 them_H5414, and_H1121 you_H0859 will_H1121 not_H3808 go_H3318 out_H3318 among_H8432 them_H5414. 
+@26 I_H3588 will_H1961 make_H3588 your_H3588 tongue_H3956 stick_H1692 to_H0413 the_H3588 roof_H2441 of_H1004 your_H3588 mouth_H2441 so_H1961 that_H3588 you_H3588 will_H1961 be_H1961 mute_H0481 and_H1004 will_H1961 not_H3808 be_H1961 able to_H0413 correct_H3198 them_H0413, for_H3588 they_H1992 are_H1992 a_H1961 rebellious_H4805 house_H1004. 
+@27 But_H3588 when_H3588 I_H3588 speak_H1696 with_H0854 you_H3588, I_H3588 will_H1004 open_H6605 your_H8085 mouth_H6310, and_H1004 you_H3588 shall_H1004 tell_H0559 them_H0413, ‘This_H3541 is_H1004 what_H3541 the_H0853 Lord_H0136 Yahweh says_H0559.’ He_H3588 who_H0559 hears_H8085, let_H2308 him_H0413 hear_H8085; and_H1004 he_H3588 who_H0559 refuses_H2310, let_H2308 him_H0413 refuse_H2308; for_H3588 they_H1992 are_H1992 a_H3588 rebellious_H4805 house_H1004.” 
 
 # 4 
 ## First sign: the besieged city of Jerusalem
-@1 “You also, son of man, take a tile, and lay it before yourself, and portray on it a city, even Jerusalem. 
-@2 Lay siege against it, build forts against it, and cast up a mound against it. Also set camps against it and plant battering rams against it all around. 
-@3 Take for yourself an iron pan and set it for a wall of iron between you and the city. Then set your face toward it. It will be besieged, and you shall lay siege against it. This shall be a sign to the house of Israel.
+@1 “You_H0859 also_H0853, son_H1121 of_H1121 man_H0120, take_H3947 a_H3947 tile, and_H1121 lay_H5414 it_H5414 before_H6440 yourself_H0859, and_H1121 portray on_H5921 it_H5414 a_H3947 city_H5892, even_H0853 Jerusalem_H3389. 
+@2 Lay_H5414 siege_H4692 against_H5921 it_H7760, build_H1129 forts against_H5921 it_H7760, and_H4264 cast_H8210 up_H5921 a_H5414 mound against_H5921 it_H7760. Also set_H7760 camps_H4264 against_H5921 it_H7760 and_H4264 plant_H7760 battering rams_H3733 against_H5921 it_H7760 all_H5439 around_H5439. 
+@3 Take_H3947 for_H5921 yourself_H0859 an_H1961 iron_H1270 pan_H4227 and_H3478 set_H5414 it_H5414 for_H5921 a_H1961 wall_H7023 of_H1004 iron_H1270 between_H0996 you_H0859 and_H3478 the_H0853 city_H5892. Then_H1961 set_H5414 your_H5414 face_H6440 toward_H0413 it_H5414. It_H5414 will_H1961 be_H1961 besieged_H4692, and_H3478 you_H0859 shall_H3478 lay_H5414 siege_H4692 against_H5921 it_H5414. This_H1931 shall_H3478 be_H1961 a_H1961 sign_H0226 to_H0413 the_H0853 house_H1004 of_H1004 Israel_H3478.
 
 ## Second sign: the days of being chained by the guilt of the northern and southern kingdoms
-@4 “Moreover lie on your left side, and lay the iniquity of the house of Israel on it. According to the number of the days that you shall lie on it, you shall bear their iniquity. 
-@5 For I have appointed the years of their iniquity to be to you a number of days, even three hundred ninety days. So you shall bear the iniquity of the house of Israel. 
+@4 “Moreover lie_H7901 on_H5921 your_H5921 left_H8042 side_H6654, and_H3478 lay_H7901 the_H0853 iniquity_H5771 of_H1004 the_H0853 house_H1004 of_H1004 Israel_H3478 on_H5921 it_H7760. According_H5921 to_H5921 the_H0853 number_H4557 of_H1004 the_H0853 days_H3117 that_H0834 you_H0859 shall_H3478 lie_H7901 on_H5921 it_H7760, you_H0859 shall_H3478 bear_H5375 their_H5375 iniquity_H5771. 
+@5 For_H1004 I_H0589 have_H0589 appointed_H5414 the_H0853 years_H8141 of_H1004 their_H5375 iniquity_H5771 to_H3478 be_H3478 to_H3478 you_H5414 a_H5414 number_H4557 of_H1004 days_H3117, even_H0853 three_H7969 hundred_H3967 ninety_H8673 days_H3117. So_H5414 you_H5414 shall_H3478 bear_H5375 the_H0853 iniquity_H5771 of_H1004 the_H0853 house_H1004 of_H1004 Israel_H3478. 
 
-@6 “Again, when you have accomplished these, you shall lie on your right side, and shall bear the iniquity of the house of Judah. I have appointed forty days, each day for a year, to you. 
-@7 You shall set your face toward the siege of Jerusalem, with your arm uncovered; and you shall prophesy against it. 
-@8 Behold, I put ropes on you, and you shall not turn yourself from one side to the other, until you have accomplished the days of your siege.
+@6 “Again_H8145, when_H3117 you_H5414 have_H5771 accomplished_H3615 these_H0428, you_H5414 shall_H1004 lie_H7901 on_H5921 your_H5414 right side_H6654, and_H3063 shall_H1004 bear_H5375 the_H0853 iniquity_H5771 of_H1004 the_H0853 house_H1004 of_H1004 Judah_H3063. I_H5414 have_H5771 appointed_H5414 forty_H0705 days_H3117, each_H3117 day_H3117 for_H5921 a_H5414 year_H8141, to_H5921 you_H5414. 
+@7 You_H6440 shall_H6440 set_H3559 your_H5921 face_H6440 toward_H0413 the_H6440 siege_H4692 of_H6440 Jerusalem_H3389, with_H0413 your_H5921 arm_H2220 uncovered_H2834; and_H3389 you_H6440 shall_H6440 prophesy_H5012 against_H5921 it_H5921. 
+@8 Behold_H2009, I_H5414 put_H5414 ropes_H5688 on_H5921 you_H5414, and_H3117 you_H5414 shall_H3808 not_H3808 turn_H2015 yourself_H0413 from_H5921 one_H3808 side_H6654 to_H0413 the_H5921 other_H6654, until_H5704 you_H5414 have_H3117 accomplished_H3615 the_H5921 days_H3117 of_H3117 your_H5414 siege_H4692.
 
 ## Third sign: insufficient and unclean food during the siege of the city
-@9 “Take for yourself also wheat, barley, beans, lentils, millet, and spelt, and put them in one vessel. Make bread of it. According to the number of the days that you will lie on your side, even three hundred ninety days, you shall eat of it. 
-@10 Your food which you shall eat shall be by weight, twenty shekels^a^ a day. From time to time you shall eat it. 
-@11 You shall drink water by measure, the sixth part of a hin.^b^ From time to time you shall drink. 
-@12 You shall eat it as barley cakes, and you shall bake it in their sight with dung that comes out of man.” 
-@13 Yahweh said, “Even thus will the children of Israel eat their bread unclean, among the nations where I will drive them.” 
+@9 “Take_H3947 for_H5921 yourself_H0859 also_H0853 wheat_H2406, barley_H8184, beans_H6321, lentils_H5742, millet_H1764, and_H3967 spelt_H3698, and_H3967 put_H5414 them_H5414 in_H5921 one_H0259 vessel_H3627. Make_H5414 bread_H3899 of_H3117 it_H5414. According_H5921 to_H5921 the_H0853 number_H4557 of_H3117 the_H0853 days_H3117 that_H0834 you_H0859 will_H0834 lie_H7901 on_H5921 your_H5414 side_H6654, even_H0853 three_H7969 hundred_H3967 ninety_H8673 days_H3117, you_H0859 shall_H3117 eat_H0398 of_H3117 it_H5414. 
+@10 Your_H0834 food_H3978 which_H0834 you_H0834 shall_H3117 eat_H0398 shall_H3117 be_H3117 by_H3117 weight_H4946, twenty_H6242 shekels_H8255^a^ a_H0834 day_H3117. From_H5704 time_H6256 to_H5704 time_H6256 you_H0834 shall_H3117 eat_H0398 it_H0398. 
+@11 You_H5704 shall_H4325 drink_H8354 water_H4325 by_H5704 measure_H4884, the_H5704 sixth_H8345 part_H8345 of_H4325 a_H5704 hin_H1969.^b^ From_H5704 time_H6256 to_H5704 time_H6256 you_H5704 shall_H4325 drink_H8354. 
+@12 You_H0398 shall_H1931 eat_H0398 it_H1931 as_H0398 barley_H8184 cakes_H5692, and_H0398 you_H0398 shall_H1931 bake it_H1931 in_H5869 their_H0398 sight_H5869 with_H0398 dung_H1561 that_H1931 comes out of_H5869 man_H0120.” 
+@13 Yahweh_H3068 said_H0559, “Even_H0853 thus_H3602 will_H3068 the_H0853 children_H1121 of_H1121 Israel_H3478 eat_H0398 their_H3068 bread_H3899 unclean_H2931, among_H8033 the_H0853 nations_H1471 where_H0834 I_H0834 will_H3068 drive_H5080 them_H0853.” 
 ^a^[**4:10** A shekel is about 10 grams or about 0.35 ounces.] ^b^[**4:11** A hin is about 6.5 liters or 1.7 gallons.]
 
-@14 Then I said, “Ah Lord Yahweh! Behold, my soul has not been polluted; for from my youth up even until now I have not eaten of that which dies of itself, or is torn of animals. No abominable meat has come into my mouth!” 
+@14 Then_H2009 I_H5704 said_H0559, “Ah_H0162 Lord_H0136 Yahweh! Behold_H2009, my_H0935 soul_H5315 has_H0136 not_H3808 been_H2930 polluted; for_H5315 from_H0935 my_H0935 youth_H5271 up_H5704 even_H5704 until_H5704 now_H6258 I_H5704 have_H3808 not_H3808 eaten_H0398 of_H6310 that_H0559 which_H5038 dies_H5038 of_H6310 itself, or_H3808 is_H5315 torn_H2966 of_H6310 animals. No_H3808 abominable meat_H1320 has_H0136 come_H0935 into_H0935 my_H0935 mouth_H6310!” 
 
-@15 Then he said to me, “Behold, I have given you cow’s dung for man’s dung, and you shall prepare your bread on it.” 
+@15 Then_H0853 he_H6213 said_H0559 to_H0413 me_H0413, “Behold_H7200, I_H5414 have_H7200 given_H5414 you_H5414 cow’s_H1241 dung_H6832 for_H5921 man’s_H0120 dung_H6832, and_H3899 you_H5414 shall_H8478 prepare_H6213 your_H5414 bread_H3899 on_H5921 it_H5414.” 
 
-@16 Moreover he said to me, “Son of man, behold, I will break the staff of bread in Jerusalem. They will eat bread by weight, and with fearfulness. They will drink water by measure, and in dismay; 
-@17 that they may lack bread and water, be dismayed one with another, and pine away in their iniquity. 
+@16 Moreover he_H3389 said_H0559 to_H0413 me_H0413, “Son_H1121 of_H1121 man_H0120, behold_H2005, I_H2005 will_H0120 break_H7665 the_H0559 staff_H4294 of_H1121 bread_H3899 in_H0413 Jerusalem_H3389. They_H0559 will_H0120 eat_H0398 bread_H3899 by_H0413 weight_H4948, and_H1121 with_H0413 fearfulness. They_H0559 will_H0120 drink_H8354 water_H4325 by_H0413 measure_H4884, and_H1121 in_H0413 dismay; 
+@17 that_H4616 they_H0376 may_H0376 lack_H2637 bread_H3899 and_H0376 water_H4325, be_H0376 dismayed one_H0376 with_H0376 another_H0251, and_H0376 pine away_H4743 in_H0376 their_H8074 iniquity_H5771. 
 
 # 5 
 ## Fourth sign: the total annihilation of the town, except for a small remnant, at the end of the siege
-@1 “You, son of man, take a sharp sword. You shall take it as a barber’s razor to yourself, and shall cause it to pass over your head and over your beard. Then take balances to weigh and divide the hair. 
-@2 A third part you shall burn in the fire in the middle of the city, when the days of the siege are fulfilled. You shall take a third part, and strike with the sword around it. A third part you shall scatter to the wind, and I will draw out a sword after them. 
-@3 You shall take a small number of these and bind them in the folds of your robe. 
-@4 Of these again you shall take, and cast them into the middle of the fire, and burn them in the fire. From it a fire will come out into all the house of Israel.
+@1 “You_H0859, son_H1121 of_H1121 man_H0120, take_H3947 a_H3947 sharp_H2299 sword_H2719. You_H0859 shall_H1121 take_H3947 it_H5921 as_H1121 a_H3947 barber’s_H1532 razor_H8593 to_H5921 yourself_H0859, and_H1121 shall_H1121 cause it_H5921 to_H5921 pass_H5674 over_H5921 your_H5921 head_H7218 and_H1121 over_H5921 your_H5921 beard_H2206. Then_H3947 take_H3947 balances_H3976 to_H5921 weigh_H4948 and_H1121 divide_H2505 the_H5921 hair_H7218. 
+@2 A_H3947 third_H7992 part_H8432 you_H3117 shall_H3117 burn_H1197 in_H3117 the_H0853 fire_H0217 in_H3117 the_H0853 middle_H8432 of_H3117 the_H0853 city_H5892, when_H3117 the_H0853 days_H3117 of_H3117 the_H0853 siege_H4692 are_H3117 fulfilled_H4390. You_H3117 shall_H3117 take_H3947 a_H3947 third_H7992 part_H8432, and_H3117 strike_H5221 with_H4390 the_H0853 sword_H2719 around_H5439 it_H5439. A_H3947 third_H7992 part_H8432 you_H3117 shall_H3117 scatter_H2219 to_H3117 the_H0853 wind_H7307, and_H3117 I_H3117 will_H2719 draw out_H0853 a_H3947 sword_H2719 after_H0310 them_H0853. 
+@3 You_H0853 shall take_H3947 a_H3947 small_H4592 number_H4557 of_H4557 these_H3947 and_H8033 bind them_H0853 in_H8033 the_H0853 folds of_H4557 your_H3947 robe. 
+@4 Of_H1004 these_H1992 again_H5750 you_H3605 shall_H3478 take_H3947, and_H3478 cast_H7993 them_H0413 into_H0413 the_H3605 middle_H8432 of_H1004 the_H3605 fire_H0784, and_H3478 burn_H8313 them_H0413 in_H0413 the_H3605 fire_H0784. From_H4480 it_H3947 a_H3947 fire_H0784 will_H3478 come_H3318 out_H3318 into_H0413 all_H3605 the_H3605 house_H1004 of_H1004 Israel_H3478.
 
 ## The interpretation and justification of the four signs of judgment
-@5 “The Lord Yahweh says: ‘This is Jerusalem. I have set her in the middle of the nations, and countries are around her. 
-@6 She has rebelled against my ordinances in doing wickedness more than the nations, and against my statutes more than the countries that are around her; for they have rejected my ordinances, and as for my statutes, they have not walked in them.’ 
+@5 “The_H0559 Lord_H0136 Yahweh says_H0559: ‘This_H2063 is_H0776 Jerusalem_H3389. I_H3541 have_H1471 set_H7760 her_H5439 in_H0776 the_H0559 middle_H8432 of_H0776 the_H0559 nations_H1471, and_H0776 countries_H0776 are_H0776 around_H5439 her_H5439. 
+@6 She_H0834 has_H0834 rebelled_H4784 against_H4480 my_H0834 ordinances_H4941 in_H1980 doing wickedness_H7564 more_H4480 than_H4480 the_H0853 nations_H1471, and_H1980 against_H4480 my_H0834 statutes_H2708 more_H4480 than_H4480 the_H0853 countries_H0776 that_H0834 are_H0834 around_H5439 her_H5439; for_H3588 they_H0834 have_H0834 rejected_H3988 my_H0834 ordinances_H4941, and_H1980 as_H0834 for_H3588 my_H0834 statutes_H2708, they_H0834 have_H0834 not_H3808 walked_H1980 in_H1980 them_H0853.’ 
 
-@7 “Therefore the Lord Yahweh says: ‘Because you are more turbulent than the nations that are around you, and have not walked in my statutes, neither have kept my ordinances, neither have followed the ordinances of the nations that are around you; 
-@8 therefore the Lord Yahweh says: ‘Behold, I, even I, am against you; and I will execute judgments among you in the sight of the nations. 
-@9 I will do in you that which I have not done, and which I will not do anything like it any more, because of all your abominations. 
-@10 Therefore the fathers will eat the sons within you, and the sons will eat their fathers. I will execute judgments on you; and I will scatter the whole remnant of you to all the winds. 
-@11 Therefore as I live,’ says the Lord Yahweh, ‘surely, because you have defiled my sanctuary with all your detestable things, and with all your abominations, therefore I will also diminish you. My eye won’t spare, and I will have no pity. 
-@12 A third part of you will die with the pestilence, and they will be consumed with famine within you. A third part will fall by the sword around you. A third part I will scatter to all the winds, and will draw out a sword after them. 
+@7 “Therefore_H3651 the_H0853 Lord_H0136 Yahweh says_H0559: ‘Because_H4480 you_H0834 are_H0834 more_H4480 turbulent than_H4480 the_H0853 nations_H1471 that_H0834 are_H0834 around_H5439 you_H0834, and_H1980 have_H0834 not_H3808 walked_H1980 in_H1980 my_H0834 statutes_H2708, neither_H3808 have_H0834 kept_H6213 my_H0834 ordinances_H4941, neither_H3808 have_H0834 followed_H1980 the_H0853 ordinances_H4941 of_H4480 the_H0853 nations_H1471 that_H0834 are_H0834 around_H5439 you_H0834; 
+@8 therefore_H3651 the_H0559 Lord_H0136 Yahweh says_H0559: ‘Behold_H2005, I_H0589, even_H1571 I_H0589, am_H0589 against_H5921 you_H5921; and_H4941 I_H0589 will_H1471 execute judgments_H4941 among_H8432 you_H5921 in_H5921 the_H0559 sight_H5869 of_H5869 the_H0559 nations_H1471. 
+@9 I_H0834 will_H0834 do_H6213 in_H5750 you_H0834 that_H0834 which_H0834 I_H0834 have_H0834 not_H3808 done_H6213, and_H0853 which_H0834 I_H0834 will_H0834 not_H3808 do_H6213 anything_H3605 like_H3644 it_H6213 any_H3605 more_H5750, because_H3282 of_H3605 all_H3605 your_H3605 abominations_H8441. 
+@10 Therefore_H3651 the_H3605 fathers_H0001 will_H1121 eat_H0398 the_H3605 sons_H1121 within_H8432 you_H3605, and_H1121 the_H3605 sons_H1121 will_H1121 eat_H0398 their_H3605 fathers_H0001. I_H3651 will_H1121 execute judgments_H8201 on_H8201 you_H3605; and_H1121 I_H3651 will_H1121 scatter_H2219 the_H3605 whole_H3605 remnant_H7611 of_H1121 you_H3605 to_H0001 all_H3605 the_H3605 winds_H7307. 
+@11 Therefore_H3651 as_H3651 I_H0589 live_H2416,’ says_H5002 the_H3605 Lord_H0136 Yahweh, ‘surely_H0518, because_H3282 you_H0518 have_H5869 defiled_H2930 my_H3605 sanctuary_H4720 with_H3605 all_H3605 your_H3605 detestable_H8251 things_H3605, and_H5869 with_H3605 all_H3605 your_H3605 abominations_H8441, therefore_H3651 I_H0589 will_H1571 also_H1571 diminish you_H0518. My_H3605 eye_H5869 won’t_H3808 spare_H2550, and_H5869 I_H0589 will_H1571 have_H5869 no_H3808 pity_H2347. 
+@12 A_H5307 third_H7992 part_H8432 of_H7307 you_H3605 will_H2719 die_H4191 with_H3605 the_H3605 pestilence_H1698, and_H2719 they_H0310 will_H2719 be_H4191 consumed_H3615 with_H3605 famine_H7458 within_H8432 you_H3605. A_H5307 third_H7992 part_H8432 will_H2719 fall_H5307 by_H3605 the_H3605 sword_H2719 around_H5439 you_H3605. A_H5307 third_H7992 part_H8432 I_H0310 will_H2719 scatter_H2219 to_H4191 all_H3605 the_H3605 winds_H7307, and_H2719 will_H2719 draw out_H3605 a_H5307 sword_H2719 after_H0310 them_H0310. 
 
-@13 “‘Thus my anger will be accomplished, and I will cause my wrath toward them to rest, and I will be comforted. They will know that I, Yahweh, have spoken in my zeal, when I have accomplished my wrath on them. 
+@13 “‘Thus_H0639 my_H3068 anger_H0639 will_H3068 be_H3068 accomplished_H3615, and_H3068 I_H0589 will_H3068 cause my_H3068 wrath_H2534 toward them_H5117 to_H1696 rest_H5117, and_H3068 I_H0589 will_H3068 be_H3068 comforted_H5162. They_H3588 will_H3068 know_H3045 that_H3588 I_H0589, Yahweh_H3068, have_H3045 spoken_H1696 in_H3068 my_H3068 zeal_H7068, when_H3588 I_H0589 have_H3045 accomplished_H3615 my_H3068 wrath_H2534 on_H5117 them_H5117. 
 
-@14 “‘Moreover I will make you a desolation and a reproach among the nations that are around you, in the sight of all that pass by. 
-@15 So it will be a reproach and a taunt, an instruction and an astonishment, to the nations that are around you, when I execute judgments on you in anger and in wrath, and in wrathful rebukes—I, Yahweh, have spoken it— 
-@16 when I send on them the evil arrows of famine that are for destruction, which I will send to destroy you. I will increase the famine on you and will break your staff of bread. 
-@17 I will send on you famine and evil animals, and they will bereave you. Pestilence and blood will pass through you. I will bring the sword on you. I, Yahweh, have spoken it.’” 
+@14 “‘Moreover I_H0834 will_H0834 make_H5414 you_H0834 a_H5414 desolation_H2723 and_H5869 a_H5414 reproach_H2781 among_H2781 the_H3605 nations_H1471 that_H0834 are_H0834 around_H5439 you_H0834, in_H5414 the_H3605 sight_H5869 of_H5869 all_H3605 that_H0834 pass_H5674 by_H3605. 
+@15 So_H6213 it_H5439 will_H3068 be_H1961 a_H1961 reproach_H2781 and_H3068 a_H1961 taunt, an_H1961 instruction_H4148 and_H3068 an_H1961 astonishment, to_H1696 the_H0834 nations_H1471 that_H0834 are_H0834 around_H5439 you_H0834, when_H1961 I_H0589 execute judgments_H8201 on_H3068 you_H0834 in_H3068 anger_H0639 and_H3068 in_H3068 wrath_H2534, and_H3068 in_H3068 wrathful_H2534 rebukes_H8433—I_H0589, Yahweh_H3068, have_H1961 spoken_H1696 it_H5439— 
+@16 when_H1961 I_H0834 send_H7971 on_H5921 them_H0853 the_H0853 evil_H7451 arrows_H2671 of_H4294 famine_H7458 that_H0834 are_H0834 for_H5921 destruction_H7843, which_H0834 I_H0834 will_H1961 send_H7971 to_H1961 destroy_H7843 you_H0834. I_H0834 will_H1961 increase_H3254 the_H0853 famine_H7458 on_H5921 you_H0834 and_H7971 will_H1961 break_H7665 your_H5921 staff_H4294 of_H4294 bread_H3899. 
+@17 I_H0589 will_H3068 send_H7971 on_H5921 you_H7971 famine_H7458 and_H0935 evil_H7451 animals_H2416, and_H0935 they_H5921 will_H3068 bereave_H7921 you_H7971. Pestilence_H1698 and_H0935 blood_H1818 will_H3068 pass_H5674 through_H5674 you_H7971. I_H0589 will_H3068 bring_H0935 the_H5921 sword_H2719 on_H5921 you_H7971. I_H0589, Yahweh_H3068, have_H0589 spoken_H1696 it_H5921.’” 
 
 # 6 
 ## Announcement of the complete annihilation of all places of idolatry
-@1 Yahweh’s word came to me, saying, 
-@2 “Son of man, set your face toward the mountains of Israel, and prophesy to them, 
-@3 and say, ‘You mountains of Israel, hear the word of the Lord Yahweh! The Lord Yahweh says to the mountains and to the hills, to the watercourses and to the valleys: “Behold, I, even I, will bring a sword on you, and I will destroy your high places. 
-@4 Your altars will become desolate, and your incense altars will be broken. I will cast down your slain men before your idols. 
-@5 I will lay the dead bodies of the children of Israel before their idols. I will scatter your bones around your altars. 
-@6 In all your dwelling places, the cities will be laid waste and the high places will be desolate, so that your altars may be laid waste and made desolate, and your idols may be broken and cease, and your incense altars may be cut down, and your works may be abolished. 
-@7 The slain will fall among you, and you will know that I am Yahweh.
+@1 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 “Son_H1121 of_H1121 man_H0120, set_H7760 your_H7760 face_H6440 toward_H0413 the_H6440 mountains_H2022 of_H1121 Israel_H3478, and_H1121 prophesy_H5012 to_H0413 them_H0413, 
+@3 and_H0935 say_H0559, ‘You_H5921 mountains_H2022 of_H1697 Israel_H3478, hear_H8085 the_H0559 word_H1697 of_H1697 the_H0559 Lord_H0136 Yahweh! The_H0559 Lord_H0136 Yahweh says_H0559 to_H0559 the_H0559 mountains_H2022 and_H0935 to_H0559 the_H0559 hills_H1389, to_H0559 the_H0559 watercourses and_H0935 to_H0559 the_H0559 valleys_H1516: “Behold_H2009, I_H0589, even_H3541 I_H0589, will_H3478 bring_H0935 a_H8085 sword_H2719 on_H5921 you_H5921, and_H0935 I_H0589 will_H3478 destroy_H0006 your_H5921 high_H1116 places_H1116. 
+@4 Your_H6440 altars_H4196 will_H5307 become_H8074 desolate_H8074, and_H4196 your_H6440 incense_H2553 altars_H4196 will_H5307 be_H7665 broken_H7665. I_H7665 will_H5307 cast_H5307 down_H5307 your_H6440 slain_H2491 men before_H6440 your_H6440 idols_H1544. 
+@5 I_H5414 will_H3478 lay_H5414 the_H0853 dead_H6297 bodies_H6297 of_H1121 the_H0853 children_H1121 of_H1121 Israel_H3478 before_H6440 their_H5414 idols_H1544. I_H5414 will_H3478 scatter_H2219 your_H5414 bones_H6106 around_H5439 your_H5414 altars_H4196. 
+@6 In_H7665 all_H3605 your_H3605 dwelling_H4186 places_H1116, the_H3605 cities_H5892 will_H4616 be_H3605 laid waste and_H4196 the_H3605 high_H1116 places_H1116 will_H4616 be_H3605 desolate_H3456, so_H4616 that_H3605 your_H3605 altars_H4196 may_H4196 be_H3605 laid waste and_H4196 made_H4639 desolate_H3456, and_H4196 your_H3605 idols_H1544 may_H4196 be_H3605 broken_H7665 and_H4196 cease_H7673, and_H4196 your_H3605 incense_H2553 altars_H4196 may_H4196 be_H3605 cut_H1438 down_H1438, and_H4196 your_H3605 works_H4639 may_H4196 be_H3605 abolished. 
+@7 The_H3588 slain_H2491 will_H3068 fall_H5307 among_H8432 you_H3588, and_H3068 you_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068.
 
 ## Annunciation for a small part of the town
-@8 “‘“Yet I will leave a remnant, in that you will have some that escape the sword among the nations, when you are scattered through the countries. 
-@9 Those of you that escape will remember me among the nations where they are carried captive, how I have been broken with their lewd heart, which has departed from me, and with their eyes, which play the prostitute after their idols. Then they will loathe themselves in their own sight for the evils which they have committed in all their abominations. 
-@10 They will know that I am Yahweh. I have not said in vain that I would do this evil to them.”’
+@8 “‘“Yet I_H0776 will_H1961 leave_H3498 a_H1961 remnant_H3498, in_H0776 that_H1961 you_H0776 will_H1961 have_H1961 some_H3498 that_H1961 escape_H6412 the_H1961 sword_H2719 among_H0776 the_H1961 nations_H1471, when_H1961 you_H0776 are_H0776 scattered_H2219 through_H0776 the_H1961 countries_H0776. 
+@9 Those_H3605 of_H5869 you_H0834 that_H0834 escape_H6412 will_H0834 remember_H2142 me_H0413 among_H0854 the_H3605 nations_H1471 where_H0834 they_H0834 are_H0834 carried_H7617 captive_H7617, how_H0834 I_H0834 have_H0834 been_H0834 broken_H7665 with_H0854 their_H3605 lewd heart_H3820, which_H0834 has_H0834 departed_H5493 from_H5493 me_H0413, and_H5869 with_H0854 their_H3605 eyes_H5869, which_H0834 play_H2181 the_H3605 prostitute_H2181 after_H0310 their_H3605 idols_H1544. Then_H0853 they_H0834 will_H0834 loathe themselves_H0310 in_H5921 their_H3605 own_H6440 sight_H5869 for_H5921 the_H3605 evils which_H0834 they_H0834 have_H0834 committed_H6213 in_H5921 all_H3605 their_H3605 abominations_H8441. 
+@10 They_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068. I_H0589 have_H3045 not_H3808 said_H1696 in_H0413 vain_H2600 that_H3588 I_H0589 would_H3068 do_H6213 this_H2063 evil_H7451 to_H0413 them_H0413.”’
 
 ## Renewed Announcement of Harsh Visitation Due to Pagan Atrocities
-@11 “The Lord Yahweh says: ‘Strike with your hand, and stamp with your foot, and say, “Alas!”, because of all the evil abominations of the house of Israel; for they will fall by the sword, by the famine, and by the pestilence. 
-@12 He who is far off will die of the pestilence. He who is near will fall by the sword. He who remains and is besieged will die by the famine. Thus I will accomplish my wrath on them. 
-@13 You will know that I am Yahweh when their slain men are among their idols around their altars, on every high hill, on all the tops of the mountains, under every green tree, and under every thick oak—the places where they offered pleasant aroma to all their idols. 
-@14 I will stretch out my hand on them and make the land desolate and waste, from the wilderness toward Diblah, throughout all their habitations. Then they will know that I am Yahweh.’” 
+@11 “The_H3605 Lord_H0136 Yahweh says_H0559: ‘Strike_H5221 with_H0413 your_H3605 hand_H3709, and_H3478 stamp_H7554 with_H0413 your_H3605 foot_H7272, and_H3478 say_H0559, “Alas_H0253!”, because_H0834 of_H1004 all_H3605 the_H3605 evil_H7451 abominations_H8441 of_H1004 the_H3605 house_H1004 of_H1004 Israel_H3478; for_H0413 they_H0834 will_H0834 fall_H5307 by_H0413 the_H3605 sword_H2719, by_H0413 the_H3605 famine_H7458, and_H3478 by_H0413 the_H3605 pestilence_H1698. 
+@12 He_H2719 who_H7350 is_H2719 far_H7350 off_H7350 will_H2719 die_H4191 of_H2719 the_H4191 pestilence_H1698. He_H2719 who_H7350 is_H2719 near_H7138 will_H2719 fall_H5307 by_H4191 the_H4191 sword_H2719. He_H2719 who_H7350 remains_H7604 and_H2719 is_H2719 besieged_H5341 will_H2719 die_H4191 by_H4191 the_H4191 famine_H7458. Thus_H4191 I_H7350 will_H2719 accomplish_H3615 my_H3615 wrath_H2534 on_H5307 them_H3615. 
+@13 You_H0834 will_H3068 know_H3045 that_H0834 I_H0589 am_H0589 Yahweh_H3068 when_H3588 their_H3605 slain_H2491 men_H7218 are_H0834 among_H8432 their_H3605 idols_H1544 around_H5439 their_H3605 altars_H4196, on_H0413 every_H3605 high_H7311 hill_H2022, on_H0413 all_H3605 the_H3605 tops_H7218 of_H3068 the_H3605 mountains_H2022, under_H8478 every_H3605 green_H7488 tree_H6086, and_H3068 under_H8478 every_H3605 thick oak_H0424—the_H3605 places_H4725 where_H0834 they_H0834 offered_H5414 pleasant aroma_H5207 to_H0413 all_H3605 their_H3605 idols_H1544. 
+@14 I_H0589 will_H3068 stretch_H5186 out_H5186 my_H3605 hand_H3027 on_H5921 them_H5414 and_H3068 make_H5414 the_H3605 land_H0776 desolate_H8077 and_H3068 waste_H4923, from_H5921 the_H3605 wilderness_H4057 toward_H5921 Diblah_H1689, throughout_H3605 all_H3605 their_H3605 habitations_H4186. Then_H0853 they_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068.’” 
 
 # 7 
 ## Announcement of the final judgment that will come on the land and the people and all its horrors
-@1 Moreover Yahweh’s word came to me, saying, 
-@2 “You, son of man, the Lord Yahweh says to the land of Israel, ‘An end! The end has come on the four corners of the land. 
-@3 Now the end is on you, and I will send my anger on you, and will judge you according to your ways. I will bring on you all your abominations. 
-@4 My eye will not spare you, neither will I have pity; but I will bring your ways on you, and your abominations will be among you. Then you will know that I am Yahweh.’ 
+@1 Moreover_H1961 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 “You_H0859, son_H1121 of_H1121 man_H0120, the_H0559 Lord_H0136 Yahweh says_H0559 to_H0559 the_H0559 land_H0776 of_H1121 Israel_H3478, ‘An_H0935 end_H7093! The_H0559 end_H7093 has_H3478 come_H0935 on_H5921 the_H0559 four_H0702 corners_H3671 of_H1121 the_H0559 land_H0776. 
+@3 Now_H6258 the_H3605 end_H7093 is_H3605 on_H5921 you_H5414, and_H7971 I_H5414 will_H5414 send_H7971 my_H3605 anger_H0639 on_H5921 you_H5414, and_H7971 will_H5414 judge_H8199 you_H5414 according_H5921 to_H5921 your_H3605 ways_H1870. I_H5414 will_H5414 bring_H5414 on_H5921 you_H5414 all_H3605 your_H3605 abominations_H8441. 
+@4 My_H5414 eye_H5869 will_H3068 not_H3808 spare_H2550 you_H3588, neither_H3808 will_H3068 I_H0589 have_H1961 pity_H2347; but_H3588 I_H0589 will_H3068 bring_H5414 your_H3068 ways_H1870 on_H5921 you_H3588, and_H3068 your_H3068 abominations_H8441 will_H3068 be_H1961 among_H8432 you_H3588. Then_H1961 you_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068.’ 
 
-@5 “The Lord Yahweh says: ‘A disaster! A unique disaster! Behold, it comes. 
-@6 An end has come. The end has come! It awakes against you. Behold, it comes. 
-@7 Your doom has come to you, inhabitant of the land! The time has come! The day is near, a day of tumult, and not of joyful shouting, on the mountains. 
-@8 Now I will shortly pour out my wrath on you, and accomplish my anger against you, and will judge you according to your ways. I will bring on you all your abominations. 
-@9 My eye won’t spare, neither will I have pity. I will punish you according to your ways. Your abominations will be among you. Then you will know that I, Yahweh, strike. 
+@5 “The_H0559 Lord_H0136 Yahweh says_H0559: ‘A_H0935 disaster_H7451! A_H0935 unique_H0259 disaster_H7451! Behold_H2009, it_H2009 comes_H0935. 
+@6 An_H0935 end_H7093 has_H2009 come_H0935. The_H0413 end_H7093 has_H2009 come_H0935! It_H0935 awakes against_H0413 you_H0935. Behold_H2009, it_H0935 comes_H0935. 
+@7 Your_H0935 doom_H6843 has_H0776 come_H0935 to_H0413 you_H3117, inhabitant_H3427 of_H0776 the_H0413 land_H0776! The_H0413 time_H6256 has_H0776 come_H0935! The_H0413 day_H3117 is_H0776 near_H7138, a_H0935 day_H3117 of_H0776 tumult_H4103, and_H0935 not_H3808 of_H0776 joyful_H1906 shouting_H1906, on_H3117 the_H0413 mountains_H2022. 
+@8 Now_H6258 I_H5414 will_H5414 shortly_H7138 pour_H8210 out_H8210 my_H3605 wrath_H2534 on_H5921 you_H5414, and_H1870 accomplish_H3615 my_H3605 anger_H0639 against_H5921 you_H5414, and_H1870 will_H5414 judge_H8199 you_H5414 according_H5921 to_H5921 your_H3605 ways_H1870. I_H5414 will_H5414 bring_H5414 on_H5921 you_H5414 all_H3605 your_H3605 abominations_H8441. 
+@9 My_H5414 eye_H5869 won’t_H3808 spare_H2550, neither_H3808 will_H3068 I_H0589 have_H1961 pity_H2347. I_H0589 will_H3068 punish you_H3588 according_H5921 to_H1961 your_H3068 ways_H1870. Your_H3068 abominations_H8441 will_H3068 be_H1961 among_H8432 you_H3588. Then_H1961 you_H3588 will_H3068 know_H3045 that_H3588 I_H0589, Yahweh_H3068, strike_H5221. 
 
-@10 “‘Behold, the day! Behold, it comes! Your doom has gone out. The rod has blossomed. Pride has budded. 
-@11 Violence has risen up into a rod of wickedness. None of them will remain, nor of their multitude, nor of their wealth. There will be nothing of value among them. 
-@12 The time has come! The day draws near. Don’t let the buyer rejoice, nor the seller mourn; for wrath is on all its multitude. 
-@13 For the seller won’t return to that which is sold, although they are still alive; for the vision concerns the whole multitude of it. None will return. None will strengthen himself in the iniquity of his life. 
-@14 They have blown the trumpet, and have made all ready; but no one goes to the battle, for my wrath is on all its multitude. 
+@10 “‘Behold_H2009, the_H0935 day_H3117! Behold_H2009, it_H2009 comes_H0935! Your_H0935 doom_H6843 has_H3117 gone_H3318 out_H3318. The_H0935 rod_H4294 has_H3117 blossomed. Pride_H2087 has_H3117 budded_H6524. 
+@11 Violence_H2555 has_H4294 risen_H6965 up_H6965 into a_H3808 rod_H4294 of_H4294 wickedness_H7562. None_H3808 of_H4294 them_H1992 will_H3808 remain_H3808, nor_H3808 of_H4294 their_H1992 multitude_H1995, nor_H3808 of_H4294 their_H1992 wealth_H1995. There_H1992 will_H3808 be_H3808 nothing_H3808 of_H4294 value among_H3808 them_H1992. 
+@12 The_H3605 time_H6256 has_H3117 come_H0935! The_H3605 day_H3117 draws near_H5060. Don’t_H0408 let_H0408 the_H3605 buyer_H7069 rejoice_H8055, nor_H0408 the_H3605 seller_H4376 mourn_H0056; for_H3588 wrath_H2740 is_H3117 on_H3117 all_H3605 its_H3605 multitude_H1995. 
+@13 For_H3588 the_H3605 seller_H4376 won’t_H3808 return_H7725 to_H0413 that_H3588 which is_H0376 sold_H4376, although_H3588 they_H3588 are_H0376 still_H5750 alive_H2416; for_H3588 the_H3605 vision_H2377 concerns the_H3605 whole_H3605 multitude_H1995 of_H0376 it_H3588. None_H3808 will_H0376 return_H7725. None_H3808 will_H0376 strengthen_H2388 himself_H2388 in_H0413 the_H3605 iniquity_H5771 of_H0376 his_H3605 life_H2416. 
+@14 They_H3588 have_H0369 blown_H8628 the_H3605 trumpet_H8619, and_H1980 have_H0369 made_H3559 all_H3605 ready_H3559; but_H3588 no_H0369 one_H0369 goes_H1980 to_H0413 the_H3605 battle_H4421, for_H3588 my_H3605 wrath_H2740 is_H0369 on_H0413 all_H3605 its_H3605 multitude_H1995. 
 
-@15 “‘The sword is outside, and the pestilence and the famine within. He who is in the field will die by the sword. He who is in the city will be devoured by famine and pestilence. 
-@16 But of those who escape, they will escape and will be on the mountains like doves of the valleys, all of them moaning, everyone in his iniquity. 
-@17 All hands will be feeble, and all knees will be weak as water. 
-@18 They will also clothe themselves with sackcloth, and horror will cover them. Shame will be on all faces, and baldness on all their heads. 
-@19 They will cast their silver in the streets, and their gold will be as an unclean thing. Their silver and their gold won’t be able to deliver them in the day of Yahweh’s wrath. They won’t satisfy their souls or fill their bellies; because it has been the stumbling block of their iniquity. 
-@20 As for the beauty of his ornament, he set it in majesty; but they made the images of their abominations and their detestable things therein. Therefore I have made it to them as an unclean thing. 
-@21 I will give it into the hands of the strangers for a prey, and to the wicked of the earth for a plunder; and they will profane it. 
-@22 I will also turn my face from them, and they will profane my secret place. Robbers will enter into it, and profane it. 
+@15 “‘The_H0834 sword_H2719 is_H0834 outside_H2351, and_H1004 the_H0834 pestilence_H1698 and_H1004 the_H0834 famine_H7458 within_H1004. He_H0834 who_H0834 is_H0834 in_H1004 the_H0834 field_H7704 will_H0834 die_H4191 by_H4191 the_H0834 sword_H2719. He_H0834 who_H0834 is_H0834 in_H1004 the_H0834 city_H5892 will_H0834 be_H4191 devoured_H0398 by_H4191 famine_H7458 and_H1004 pestilence_H1698. 
+@16 But_H1961 of_H0376 those_H3605 who_H3605 escape_H6412, they_H0376 will_H1961 escape_H6412 and_H0376 will_H1961 be_H1961 on_H0413 the_H3605 mountains_H2022 like_H1961 doves_H3123 of_H0376 the_H3605 valleys_H1516, all_H3605 of_H0376 them_H0413 moaning, everyone_H3605 in_H0413 his_H3605 iniquity_H5771. 
+@17 All_H3605 hands_H3027 will_H3027 be_H3027 feeble_H7503, and_H3027 all_H3605 knees_H1290 will_H3027 be_H3027 weak_H3605 as_H4325 water_H4325. 
+@18 They_H3605 will_H6440 also_H0853 clothe_H3680 themselves_H7218 with_H0413 sackcloth_H8242, and_H7218 horror_H6427 will_H6440 cover_H3680 them_H0413. Shame_H0955 will_H6440 be_H3605 on_H0413 all_H3605 faces_H6440, and_H7218 baldness_H7144 on_H0413 all_H3605 their_H3605 heads_H7218. 
+@19 They_H3588 will_H3068 cast_H7993 their_H3068 silver_H3701 in_H3068 the_H3588 streets_H2351, and_H3068 their_H3068 gold_H2091 will_H3068 be_H1961 as_H1961 an_H1961 unclean_H5079 thing_H5079. Their_H3068 silver_H3701 and_H3068 their_H3068 gold_H2091 won’t_H3808 be_H1961 able_H3201 to_H1961 deliver_H5337 them_H7993 in_H3068 the_H3588 day_H3117 of_H3068 Yahweh’s_H3068 wrath_H5678. They_H3588 won’t_H3808 satisfy_H7646 their_H3068 souls_H5315 or_H3808 fill_H4390 their_H3068 bellies; because_H3588 it_H3588 has_H3068 been_H1961 the_H3588 stumbling_H4383 block_H4383 of_H3068 their_H3068 iniquity_H5771. 
+@20 As_H3651 for_H5921 the_H5921 beauty of_H5921 his_H5414 ornament, he_H3651 set_H7760 it_H5414 in_H5921 majesty; but_H3651 they_H3651 made_H6213 the_H5921 images_H6754 of_H5921 their_H5414 abominations_H8441 and_H3651 their_H5414 detestable_H8251 things_H8251 therein. Therefore_H3651 I_H5414 have_H5414 made_H6213 it_H5414 to_H5921 them_H5414 as_H3651 an_H5414 unclean_H5079 thing_H5079. 
+@21 I_H5414 will_H0776 give_H5414 it_H5414 into_H0776 the_H5414 hands_H3027 of_H0776 the_H5414 strangers_H2114 for_H0776 a_H5414 prey_H0957, and_H0776 to_H5414 the_H5414 wicked_H7563 of_H0776 the_H5414 earth_H0776 for_H0776 a_H5414 plunder_H0957; and_H0776 they_H3027 will_H0776 profane_H2490 it_H5414. 
+@22 I_H0935 will_H0935 also_H0853 turn_H5437 my_H0935 face_H6440 from_H0935 them_H1992, and_H0935 they_H1992 will_H0935 profane_H2490 my_H0935 secret_H6845 place_H0935. Robbers_H6530 will_H0935 enter_H0935 into_H0935 it_H5437, and_H0935 profane_H2490 it_H5437. 
 
-@23 “‘Make chains, for the land is full of bloody crimes, and the city is full of violence. 
-@24 Therefore I will bring the worst of the nations, and they will possess their houses. I will also make the pride of the strong to cease. Their holy places will be profaned. 
-@25 Destruction comes! They will seek peace, and there will be none. 
-@26 Mischief will come on mischief, and rumor will be on rumor. They will seek a vision of the prophet; but the law will perish from the priest, and counsel from the elders. 
-@27 The king will mourn, and the prince will be clothed with desolation. The hands of the people of the land will be troubled. I will do to them after their way, and according to their own judgments I will judge them. Then they will know that I am Yahweh.’” 
+@23 “‘Make_H6213 chains_H7569, for_H3588 the_H3588 land_H0776 is_H0776 full_H4390 of_H0776 bloody_H1818 crimes_H4941, and_H0776 the_H3588 city_H5892 is_H0776 full_H4390 of_H0776 violence_H2555. 
+@24 Therefore I_H0935 will_H1471 bring_H0935 the_H0853 worst of_H1004 the_H0853 nations_H1471, and_H0935 they_H0935 will_H1471 possess_H3423 their_H0935 houses_H1004. I_H0935 will_H1471 also_H0853 make the_H0853 pride_H1347 of_H1004 the_H0853 strong_H5794 to_H0935 cease_H7673. Their_H0935 holy_H6942 places_H1004 will_H1471 be_H1471 profaned_H2490. 
+@25 Destruction comes_H0935! They_H0935 will_H0369 seek_H1245 peace_H7965, and_H0935 there_H0369 will_H0369 be_H0369 none_H0369. 
+@26 Mischief will_H1961 come_H0935 on_H5921 mischief, and_H0935 rumor_H8052 will_H1961 be_H1961 on_H5921 rumor_H8052. They_H5921 will_H1961 seek_H1245 a_H1961 vision_H2377 of_H2205 the_H5921 prophet_H5030; but_H1961 the_H5921 law_H8451 will_H1961 perish_H0006 from_H0935 the_H5921 priest_H3548, and_H0935 counsel_H6098 from_H0935 the_H5921 elders_H2205. 
+@27 The_H0853 king_H4428 will_H3068 mourn_H0056, and_H3068 the_H0853 prince_H5387 will_H3068 be_H3027 clothed_H3847 with_H3847 desolation_H8077. The_H0853 hands_H3027 of_H4428 the_H0853 people_H5971 of_H4428 the_H0853 land_H0776 will_H3068 be_H3027 troubled. I_H0589 will_H3068 do_H6213 to_H3068 them_H0853 after_H3588 their_H3068 way_H1870, and_H3068 according_H4941 to_H3068 their_H3068 own judgments_H4941 I_H0589 will_H3068 judge_H8199 them_H0853. Then_H0853 they_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068.’” 
 
 # 8 
 ## The abominations of idolatry, the worship of foreign deities, in the temple of Jerusalem
-@1 In the sixth year, in the sixth month, in the fifth day of the month, as I sat in my house, and the elders of Judah sat before me, the Lord Yahweh’s hand fell on me there. 
-@2 Then I saw, and behold, a likeness as the appearance of fire—from the appearance of his waist and downward, fire, and from his waist and upward, as the appearance of brightness, as it were glowing metal. 
-@3 He stretched out the form of a hand, and took me by a lock of my head; and the Spirit lifted me up between earth and the sky, and brought me in the visions of God to Jerusalem, to the door of the gate of the inner court that looks toward the north, where there was the seat of the image of jealousy, which provokes to jealousy. 
-@4 Behold, the glory of the God of Israel was there, according to the appearance that I saw in the plain.
+@1 In_H3427 the_H6440 sixth_H8345 year_H8141, in_H3427 the_H6440 sixth_H8345 month_H2320, in_H3427 the_H6440 fifth_H2568 day_H2320 of_H1004 the_H6440 month_H2320, as_H1961 I_H0589 sat_H3427 in_H3427 my_H5921 house_H1004, and_H3063 the_H6440 elders_H2205 of_H1004 Judah_H3063 sat_H3427 before_H6440 me_H6440, the_H6440 Lord_H0136 Yahweh’s hand_H3027 fell_H5307 on_H5921 me_H6440 there_H8033. 
+@2 Then_H2009 I_H2009 saw_H7200, and_H5869 behold_H2009, a_H7200 likeness_H1823 as_H7200 the_H7200 appearance_H4758 of_H5869 fire_H0784—from_H5869 the_H7200 appearance_H4758 of_H5869 his_H7200 waist_H4975 and_H5869 downward_H4295, fire_H0784, and_H5869 from_H5869 his_H7200 waist_H4975 and_H5869 upward_H4605, as_H7200 the_H7200 appearance_H4758 of_H5869 brightness_H2096, as_H7200 it_H7200 were_H5869 glowing_H2830 metal_H2830. 
+@3 He_H0834 stretched_H7971 out_H7971 the_H0853 form_H8403 of_H0776 a_H3947 hand_H3027, and_H0935 took_H3947 me_H0413 by_H3027 a_H3947 lock_H6734 of_H0776 my_H3947 head_H7218; and_H0935 the_H0853 Spirit_H7307 lifted_H5375 me_H0413 up_H5375 between_H0996 earth_H0776 and_H0935 the_H0853 sky_H8064, and_H0935 brought_H0935 me_H0413 in_H0935 the_H0853 visions_H4759 of_H0776 God_H0430 to_H0413 Jerusalem_H3389, to_H0413 the_H0853 door_H6607 of_H0776 the_H0853 gate_H8179 of_H0776 the_H0853 inner_H6442 court_H8179 that_H0834 looks toward_H0413 the_H0853 north_H6828, where_H0834 there_H8033 was_H0834 the_H0853 seat_H4186 of_H0776 the_H0853 image_H8403 of_H0776 jealousy_H7068, which_H0834 provokes to_H0413 jealousy_H7068. 
+@4 Behold_H2009, the_H0834 glory_H3519 of_H0430 the_H0834 God_H0430 of_H0430 Israel_H3478 was_H0834 there_H8033, according to_H3478 the_H0834 appearance_H4758 that_H0834 I_H0834 saw_H7200 in_H0430 the_H0834 plain_H1237.
 
 ## The image of zeal (the Astarte)
-@5 Then he said to me, “Son of man, lift up your eyes now the way toward the north.” 
+@5 Then_H2009 he_H0559 said_H0559 to_H0413 me_H0413, “Son_H1121 of_H1121 man_H0120, lift_H5375 up_H5375 your_H5375 eyes_H5869 now_H4994 the_H0559 way_H1870 toward_H0413 the_H0559 north_H6828.” 
 
-So I lifted up my eyes the way toward the north, and saw, northward of the gate of the altar this image of jealousy in the entry. 
+So_H5375 I_H2009 lifted_H5375 up_H5375 my_H5375 eyes_H5869 the_H0559 way_H1870 toward_H0413 the_H0559 north_H6828, and_H1121 saw_H2009, northward_H6828 of_H1121 the_H0559 gate_H8179 of_H1121 the_H0559 altar_H4196 this_H2088 image of_H1121 jealousy_H7068 in_H0413 the_H0559 entry. 
 
-@6 He said to me, “Son of man, do you see what they do? Even the great abominations that the house of Israel commit here, that I should go far off from my sanctuary? But you will again see yet other great abominations.”
+@6 He_H0834 said_H0559 to_H0413 me_H0413, “Son_H1121 of_H1121 man_H0120, do_H6213 you_H0859 see_H7200 what_H0834 they_H1992 do_H6213? Even_H5750 the_H0559 great_H1419 abominations_H8441 that_H0834 the_H0559 house_H1004 of_H1121 Israel_H3478 commit here_H6311, that_H0834 I_H0834 should_H0120 go_H7725 far_H7368 off_H5921 from_H7725 my_H5921 sanctuary_H4720? But_H7200 you_H0859 will_H0834 again_H5750 see_H7200 yet_H5750 other_H5750 great_H1419 abominations_H8441.”
 
 ## The frame camera with the idolatry of the seventy elders
-@7 He brought me to the door of the court; and when I looked, behold, a hole in the wall. 
-@8 Then he said to me, “Son of man, dig now in the wall.” 
+@7 He_H0853 brought_H0935 me_H0413 to_H0413 the_H0853 door_H6607 of_H0259 the_H0853 court_H2691; and_H0935 when_H7200 I_H2009 looked_H7200, behold_H2009, a_H7200 hole_H2356 in_H0935 the_H0853 wall_H7023. 
+@8 Then_H2009 he_H0259 said_H0559 to_H0413 me_H0413, “Son_H1121 of_H1121 man_H0120, dig_H2864 now_H4994 in_H0413 the_H0559 wall_H7023.” 
 
-When I had dug in the wall, I saw a door. 
+When_H1121 I_H2009 had_H1121 dug_H2864 in_H0413 the_H0559 wall_H7023, I_H2009 saw_H2009 a_H0259 door_H6607. 
 
-@9 He said to me, “Go in, and see the wicked abominations that they do here.” 
+@9 He_H0834 said_H0559 to_H0413 me_H0413, “Go_H0935 in_H0935, and_H0935 see_H7200 the_H0853 wicked_H7451 abominations_H8441 that_H0834 they_H1992 do_H6213 here_H6311.” 
 
-@10 So I went in and looked, and saw every form of creeping things, abominable animals, and all the idols of the house of Israel, portrayed around on the wall. 
-@11 Seventy men of the elders of the house of Israel stood before them. In the middle of them Jaazaniah the son of Shaphan stood, every man with his censer in his hand; and the smell of the cloud of incense went up. 
+@10 So_H0935 I_H2009 went_H0935 in_H5921 and_H0935 looked_H7200, and_H0935 saw_H7200 every_H3605 form_H8403 of_H1004 creeping_H7431 things_H3605, abominable animals_H0929, and_H0935 all_H3605 the_H3605 idols_H1544 of_H1004 the_H3605 house_H1004 of_H1004 Israel_H3478, portrayed_H2707 around_H5439 on_H5921 the_H3605 wall_H7023. 
+@11 Seventy_H7657 men_H0376 of_H1121 the_H6440 elders_H2205 of_H1121 the_H6440 house_H1004 of_H1121 Israel_H3478 stood_H5975 before_H6440 them_H6440. In_H1004 the_H6440 middle_H8432 of_H1121 them_H6440 Jaazaniah_H2970 the_H6440 son_H1121 of_H1121 Shaphan_H8227 stood_H5975, every_H0376 man_H0376 with_H1004 his_H0376 censer_H4730 in_H1004 his_H0376 hand_H3027; and_H1121 the_H6440 smell of_H1121 the_H6440 cloud_H6051 of_H1121 incense_H7004 went_H5927 up_H5927. 
 
-@12 Then he said to me, “Son of man, have you seen what the elders of the house of Israel do in the dark, every man in his rooms of imagery? For they say, ‘Yahweh doesn’t see us. Yahweh has forsaken the land.’” 
-@13 He said also to me, “You will again see more of the great abominations which they do.”
+@12 Then_H0853 he_H0834 said_H0559 to_H0413 me_H0413, “Son_H1121 of_H1121 man_H0376, have_H0834 you_H0834 seen_H7200 what_H0834 the_H0853 elders_H2205 of_H1121 the_H0853 house_H1004 of_H1121 Israel_H3478 do_H6213 in_H0413 the_H0853 dark_H2822, every_H0376 man_H0376 in_H0413 his_H3068 rooms_H2315 of_H1121 imagery? For_H3588 they_H0834 say_H0559, ‘Yahweh_H3068 doesn’t see_H7200 us_H0413. Yahweh_H3068 has_H3068 forsaken the_H0853 land_H0776.’” 
+@13 He_H0834 said_H0559 also_H5750 to_H0413 me_H0413, “You_H0834 will_H0834 again_H5750 see_H7200 more_H5750 of_H0559 the_H0559 great_H1419 abominations_H8441 which_H0834 they_H1992 do_H6213.”
 
 ## The worship of Thammus (Adonis) by women
-@14 Then he brought me to the door of the gate of Yahweh’s house which was toward the north; and I saw the women sit there weeping for Tammuz. 
-@15 Then he said to me, “Have you seen this, son of man? You will again see yet greater abominations than these.”
+@14 Then_H2009 he_H0834 brought_H0935 me_H0413 to_H0413 the_H0853 door_H6607 of_H1004 the_H0853 gate_H8179 of_H1004 Yahweh’s_H3068 house_H1004 which_H0834 was_H0834 toward_H0413 the_H0853 north_H6828; and_H0935 I_H0834 saw_H2009 the_H0853 women_H0802 sit_H3427 there_H8033 weeping_H1058 for_H0413 Tammuz_H8542. 
+@15 Then_H7725 he_H0559 said_H0559 to_H0413 me_H0413, “Have_H1121 you_H7725 seen_H7200 this_H0428, son_H1121 of_H1121 man_H0120? You_H7725 will_H0120 again_H5750 see_H7200 yet_H5750 greater_H1419 abominations_H8441 than_H1419 these_H0428.”
 
 ## Sun god worship
-@16 He brought me into the inner court of Yahweh’s house; and I saw at the door of Yahweh’s temple, between the porch and the altar, there were about twenty-five men with their backs toward Yahweh’s temple and their faces toward the east. They were worshiping the sun toward the east.
+@16 He_H3068 brought_H0935 me_H0413 into_H0413 the_H0853 inner_H6442 court_H2691 of_H1004 Yahweh’s_H3068 house_H1004; and_H0935 I_H2009 saw_H2009 at_H0413 the_H0853 door_H6607 of_H1004 Yahweh’s_H3068 temple_H1004, between_H0996 the_H0853 porch_H0197 and_H0935 the_H0853 altar_H4196, there_H2009 were_H0376 about_H0413 twenty-five_H2568 men_H0376 with_H0413 their_H3068 backs_H0268 toward_H0413 Yahweh’s_H3068 temple_H1004 and_H0935 their_H3068 faces_H6440 toward_H0413 the_H0853 east_H6924. They_H1992 were_H0376 worshiping_H7812 the_H0853 sun_H8121 toward_H0413 the_H0853 east_H6924.
 
 ## Association of idolatry in all the land of Judah; God's threat
-@17 Then he said to me, “Have you seen this, son of man? Is it a light thing to the house of Judah that they commit the abominations which they commit here? For they have filled the land with violence, and have turned again to provoke me to anger. Behold, they put the branch to their nose. 
-@18 Therefore I will also deal in wrath. My eye won’t spare, neither will I have pity. Though they cry in my ears with a loud voice, yet I will not hear them.” 
+@17 Then_H0853 he_H0834 said_H0559 to_H0413 me_H0413, “Have_H0834 you_H0834 seen_H7200 this_H3588, son_H1121 of_H1121 man_H0120? Is_H0834 it_H3588 a_H3588 light_H7043 thing_H7043 to_H0413 the_H0853 house_H1004 of_H1121 Judah_H3063 that_H0834 they_H0834 commit the_H0853 abominations_H8441 which_H0834 they_H0834 commit here_H6311? For_H3588 they_H0834 have_H0834 filled_H4390 the_H0853 land_H0776 with_H4390 violence_H2555, and_H1121 have_H0834 turned_H7725 again_H7725 to_H0413 provoke_H3707 me_H0413 to_H0413 anger_H0639. Behold_H2005, they_H0834 put_H7971 the_H0853 branch_H2156 to_H0413 their_H3588 nose_H0639. 
+@18 Therefore_H1571 I_H0589 will_H1571 also_H1571 deal_H6213 in_H8085 wrath_H2534. My_H8085 eye_H5869 won’t_H3808 spare_H2550, neither_H3808 will_H1571 I_H0589 have_H5869 pity_H2347. Though_H1571 they_H3808 cry_H7121 in_H8085 my_H8085 ears_H0241 with_H5869 a_H8085 loud_H1419 voice_H6963, yet_H1571 I_H0589 will_H1571 not_H3808 hear_H8085 them_H0853.” 
 
 # 9 
 ## The name of the godly and the slaughter of the wicked inhabitants of Jerusalem
-@1 Then he cried in my ears with a loud voice, saying, “Cause those who are in charge of the city to draw near, each man with his destroying weapon in his hand.” 
-@2 Behold, six men came from the way of the upper gate, which lies toward the north, every man with his slaughter weapon in his hand. One man in the middle of them was clothed in linen, with a writer’s inkhorn by his side. They went in, and stood beside the bronze altar. 
+@1 Then_H0559 he_H0376 cried_H7121 in_H0376 my_H3027 ears_H0241 with_H0376 a_H7121 loud_H1419 voice_H6963, saying_H0559, “Cause_H7121 those_H0376 who_H0376 are_H0376 in_H0376 charge_H3027 of_H0376 the_H0559 city_H5892 to_H0559 draw_H7126 near_H7126, each_H0376 man_H0376 with_H0376 his_H0376 destroying_H4892 weapon_H3627 in_H0376 his_H0376 hand_H3027.” 
+@2 Behold_H2009, six_H8337 men_H0376 came_H0935 from_H0935 the_H0834 way_H1870 of_H0376 the_H0834 upper_H5945 gate_H8179, which_H0834 lies_H0834 toward_H1870 the_H0834 north_H6828, every_H0376 man_H0376 with_H3847 his_H0834 slaughter weapon_H3627 in_H0935 his_H0834 hand_H3027. One_H0259 man_H0376 in_H0935 the_H0834 middle_H8432 of_H0376 them_H0935 was_H0834 clothed_H3847 in_H0935 linen_H0906, with_H3847 a_H0935 writer’s inkhorn by_H3027 his_H0834 side_H6828. They_H0834 went_H0935 in_H0935, and_H0935 stood_H5975 beside_H0681 the_H0834 bronze_H5178 altar_H4196. 
 
-@3 The glory of the God of Israel went up from the cherub, whereupon it was, to the threshold of the house; and he called to the man clothed in linen, who had the writer’s inkhorn by his side. 
-@4 Yahweh said to him, “Go through the middle of the city, through the middle of Jerusalem, and set a mark on the foreheads of the men that sigh and that cry over all the abominations that are done within it.” 
+@3 The_H0834 glory_H3519 of_H1004 the_H0834 God_H0430 of_H1004 Israel_H3478 went_H5927 up_H5927 from_H5921 the_H0834 cherub_H3742, whereupon it_H5921 was_H1961, to_H0413 the_H0834 threshold_H4670 of_H1004 the_H0834 house_H1004; and_H3478 he_H0834 called_H7121 to_H0413 the_H0834 man_H0376 clothed_H3847 in_H5921 linen_H0906, who_H0834 had_H0834 the_H0834 writer’s inkhorn by_H5921 his_H5921 side_H4975. 
+@4 Yahweh_H3068 said_H0559 to_H0413 him_H0413, “Go_H5674 through_H5674 the_H3605 middle_H8432 of_H0376 the_H3605 city_H5892, through_H5674 the_H3605 middle_H8432 of_H0376 Jerusalem_H3389, and_H3068 set_H6213 a_H5921 mark on_H5921 the_H3605 foreheads_H4696 of_H0376 the_H3605 men_H0376 that_H3605 sigh_H0584 and_H3068 that_H3605 cry over_H5921 all_H3605 the_H3605 abominations_H8441 that_H3605 are_H0376 done_H6213 within_H8432 it_H5921.” 
 
-@5 To the others he said in my hearing, “Go through the city after him, and strike. Don’t let your eye spare, neither have pity. 
-@6 Kill utterly the old man, the young man, the virgin, little children and women; but don’t come near any man on whom is the mark. Begin at my sanctuary.” 
+@5 To_H0559 the_H0559 others_H0428 he_H0310 said_H0559 in_H5921 my_H5921 hearing_H0241, “Go_H5674 through_H5674 the_H0559 city_H5892 after_H0310 him_H5921, and_H5869 strike_H5221. Don’t_H0408 let_H0408 your_H5921 eye_H5869 spare_H2550, neither_H0408 have_H5869 pity_H2347. 
+@6 Kill_H2026 utterly_H4889 the_H3605 old_H2205 man_H0376, the_H3605 young_H0970 man_H0376, the_H3605 virgin_H1330, little_H2945 children_H2945 and_H1004 women_H0802; but_H0376 don’t_H0408 come_H5066 near_H5066 any_H3605 man_H0376 on_H5921 whom_H0834 is_H0834 the_H3605 mark. Begin_H2490 at_H5921 my_H3605 sanctuary_H4720.” 
 
-Then they began at the old men who were before the house. 
+Then_H3605 they_H0834 began_H2490 at_H5921 the_H3605 old_H2205 men_H0376 who_H0834 were_H0834 before_H6440 the_H3605 house_H1004. 
 
-@7 He said to them, “Defile the house, and fill the courts with the slain. Go out!” 
+@7 He_H0853 said_H0559 to_H0413 them_H0413, “Defile_H2930 the_H0853 house_H1004, and_H1004 fill_H4390 the_H0853 courts with_H4390 the_H0853 slain_H5221. Go_H3318 out_H3318!” 
 
-They went out, and struck in the city.
+They_H0559 went_H3318 out_H3318, and_H1004 struck_H5221 in_H0413 the_H0853 city_H5892.
 
 ## Ezekiel's Failed Intercession
-@8 While they were killing, and I was left, I fell on my face, and cried, and said, “Ah Lord Yahweh! Will you destroy all the residue of Israel in your pouring out of your wrath on Jerusalem?” 
+@8 While_H1961 they_H5921 were_H1961 killing_H5221, and_H3478 I_H0589 was_H1961 left_H7604, I_H0589 fell_H5307 on_H5921 my_H3605 face_H6440, and_H3478 cried_H2199, and_H3478 said_H0559, “Ah_H0162 Lord_H0136 Yahweh! Will_H1961 you_H0859 destroy_H7843 all_H3605 the_H3605 residue of_H6440 Israel_H3478 in_H5921 your_H3605 pouring_H8210 out_H8210 of_H6440 your_H3605 wrath_H2534 on_H5921 Jerusalem_H3389?” 
 
-@9 Then he said to me, “The iniquity of the house of Israel and Judah is exceedingly great, and the land is full of blood, and the city full of perversion; for they say, ‘Yahweh has forsaken the land, and Yahweh doesn’t see.’ 
-@10 As for me also, my eye won’t spare, neither will I have pity, but I will bring their way on their head.” 
+@9 Then_H0853 he_H3588 said_H0559 to_H0413 me_H0413, “The_H0853 iniquity_H5771 of_H0776 the_H0853 house_H1004 of_H0776 Israel_H3478 and_H3068 Judah_H3063 is_H0369 exceedingly_H3966 great_H1419, and_H3068 the_H0853 land_H0776 is_H0369 full_H4390 of_H0776 blood_H1818, and_H3068 the_H0853 city_H5892 full_H4390 of_H0776 perversion_H4297; for_H3588 they_H3588 say_H0559, ‘Yahweh_H3068 has_H3068 forsaken the_H0853 land_H0776, and_H3068 Yahweh_H3068 doesn’t see_H7200.’ 
+@10 As_H1571 for_H3808 me_H5414 also_H1571, my_H5414 eye_H5869 won’t_H3808 spare_H2550, neither_H3808 will_H1571 I_H0589 have_H5869 pity_H2347, but_H3808 I_H0589 will_H1571 bring_H5414 their_H5414 way_H1870 on_H1870 their_H5414 head_H7218.” 
 
-@11 Behold, the man clothed in linen, who had the inkhorn by his side, reported the matter, saying, “I have done as you have commanded me.” 
+@11 Behold_H2009, the_H0559 man_H0376 clothed_H3830 in_H0376 linen_H0906, who_H0834 had_H0834 the_H0559 inkhorn by_H0376 his_H7725 side_H4975, reported_H7725 the_H0559 matter_H1697, saying_H0559, “I_H0834 have_H0834 done_H6213 as_H0834 you_H0834 have_H0834 commanded_H6680 me_H7725.” 
 
 # 10 
 ## God's command to incinerate the city, combined with a repeated description of the divine cherub's chariot; God's withdrawal from the sanctuary
-@1 Then I looked, and see, in the expanse that was over the head of the cherubim there appeared above them as it were a sapphire^a^ stone, as the appearance of the likeness of a throne. 
-@2 He spoke to the man clothed in linen, and said, “Go in between the whirling wheels, even under the cherub, and fill both your hands with coals of fire from between the cherubim, and scatter them over the city.” 
+@1 Then_H2009 I_H0834 looked_H7200, and_H7218 see_H7200, in_H5921 the_H0834 expanse_H7549 that_H0834 was_H0834 over_H5921 the_H0834 head_H7218 of_H7218 the_H0834 cherubim_H3742 there_H2009 appeared_H7200 above_H5921 them_H0413 as_H0834 it_H5921 were_H0834 a_H7200 sapphire_H5601^a^ stone_H0068, as_H0834 the_H0834 appearance_H4758 of_H7218 the_H0834 likeness_H1823 of_H7218 a_H7200 throne_H3678. 
+@2 He_H0376 spoke_H0559 to_H0413 the_H0559 man_H0376 clothed_H3847 in_H5921 linen_H0906, and_H0935 said_H0559, “Go_H0935 in_H5921 between_H0996 the_H0559 whirling_H1534 wheels_H1534, even_H5921 under_H8478 the_H0559 cherub_H3742, and_H0935 fill_H4390 both_H5921 your_H5921 hands_H2651 with_H4390 coals_H1513 of_H0376 fire_H0784 from_H0935 between_H0996 the_H0559 cherubim_H3742, and_H0935 scatter them_H0413 over_H5921 the_H0559 city_H5892.” 
 ^a^[**10:1** or, lapis lazuli ]
 
-He went in as I watched. 
-@3 Now the cherubim stood on the right side of the house when the man went in; and the cloud filled the inner court. 
-@4 Yahweh’s glory mounted up from the cherub, and stood over the threshold of the house; and the house was filled with the cloud, and the court was full of the brightness of Yahweh’s glory. 
-@5 The sound of the wings of the cherubim was heard even to the outer court, as the voice of God Almighty when he speaks. 
+He_H0376 went_H0935 in_H5921 as_H0935 I_H0559 watched_H0413. 
+@3 Now_H0935 the_H0853 cherubim_H3742 stood_H5975 on_H0935 the_H0853 right_H3225 side_H3225 of_H1004 the_H0853 house_H1004 when_H0935 the_H0853 man_H0376 went_H0935 in_H0935; and_H0935 the_H0853 cloud_H6051 filled_H4390 the_H0853 inner_H6442 court_H2691. 
+@4 Yahweh’s_H3068 glory_H3519 mounted_H4390 up_H7311 from_H5921 the_H5921 cherub_H3742, and_H3068 stood over_H5921 the_H5921 threshold_H4670 of_H1004 the_H5921 house_H1004; and_H3068 the_H5921 house_H1004 was_H3068 filled_H4390 with_H0854 the_H5921 cloud_H6051, and_H3068 the_H5921 court_H2691 was_H3068 full_H4390 of_H1004 the_H5921 brightness_H5051 of_H1004 Yahweh’s_H3068 glory_H3519. 
+@5 The_H8085 sound_H6963 of_H6963 the_H8085 wings_H3671 of_H6963 the_H8085 cherubim_H3742 was_H6963 heard_H8085 even_H5704 to_H5704 the_H8085 outer_H2435 court_H2691, as_H5704 the_H8085 voice_H6963 of_H6963 God_H0410 Almighty_H7706 when_H8085 he_H5704 speaks_H1696. 
 
-@6 It came to pass, when he commanded the man clothed in linen, saying, “Take fire from between the whirling wheels, from between the cherubim,” that he went in and stood beside a wheel. 
-@7 The cherub stretched out his hand from between the cherubim to the fire that was between the cherubim, and took some of it, and put it into the hands of him who was clothed in linen, who took it and went out. 
-@8 The form of a man’s hand appeared here in the cherubim under their wings. 
+@6 It_H1961 came_H0935 to_H0559 pass_H0935, when_H1961 he_H0853 commanded_H6680 the_H0853 man_H0376 clothed_H3847 in_H0935 linen_H0906, saying_H0559, “Take_H3947 fire_H0784 from_H0935 between_H0996 the_H0853 whirling_H1534 wheels_H0212, from_H0935 between_H0996 the_H0853 cherubim_H3742,” that_H0559 he_H0853 went_H0935 in_H0935 and_H0935 stood_H5975 beside_H0681 a_H1961 wheel_H0212. 
+@7 The_H0853 cherub_H3742 stretched_H7971 out_H3318 his_H5414 hand_H3027 from_H3318 between_H0996 the_H0853 cherubim_H3742 to_H0413 the_H0853 fire_H0784 that_H0834 was_H0834 between_H0996 the_H0853 cherubim_H3742, and_H3027 took_H3947 some_H3027 of_H3027 it_H5414, and_H3027 put_H5414 it_H5414 into_H0413 the_H0853 hands_H3027 of_H3027 him_H0413 who_H0834 was_H0834 clothed_H3847 in_H0413 linen_H0906, who_H0834 took_H3947 it_H5414 and_H3027 went_H3318 out_H3318. 
+@8 The_H7200 form_H8403 of_H3027 a_H7200 man’s_H0120 hand_H3027 appeared_H7200 here in_H7200 the_H7200 cherubim_H3742 under_H8478 their_H7200 wings_H3671. 
 
-@9 I looked, and behold, there were four wheels beside the cherubim, one wheel beside one cherub, and another wheel beside another cherub. The appearance of the wheels was like a beryl stone. 
-@10 As for their appearance, the four of them had one likeness, like a wheel within a wheel. 
-@11 When they went, they went in their four directions. They didn’t turn as they went, but to the place where the head looked they followed it. They didn’t turn as they went. 
-@12 Their whole body, including their backs, their hands, their wings, and the wheels, were full of eyes all around, even the wheels that the four of them had. 
-@13 As for the wheels, they were called in my hearing, “the whirling wheels”. 
-@14 Every one them had four faces. The first face was the face of the cherub. The second face was the face of a man. The third face was the face of a lion. The fourth was the face of an eagle. 
+@9 I_H2009 looked_H7200, and_H5869 behold_H2009, there_H2009 were_H5869 four_H0702 wheels_H0212 beside_H0681 the_H7200 cherubim_H3742, one_H0259 wheel_H0212 beside_H0681 one_H0259 cherub_H3742, and_H5869 another_H0259 wheel_H0212 beside_H0681 another_H0259 cherub_H3742. The_H7200 appearance_H4758 of_H5869 the_H7200 wheels_H0212 was_H0259 like_H4758 a_H7200 beryl_H8658 stone_H0068. 
+@10 As_H0834 for_H0259 their_H1961 appearance_H4758, the_H0834 four_H0702 of_H8432 them_H1961 had_H0834 one_H0259 likeness_H1823, like_H1961 a_H1961 wheel_H0212 within_H8432 a_H1961 wheel_H0212. 
+@11 When_H3588 they_H0834 went_H5437, they_H0834 went_H5437 in_H0413 their_H3588 four_H0702 directions_H7253. They_H0834 didn’t_H3808 turn_H6437 as_H0834 they_H0834 went_H5437, but_H3588 to_H0413 the_H0834 place_H4725 where_H0834 the_H0834 head_H7218 looked_H6437 they_H0834 followed_H0310 it_H3588. They_H0834 didn’t_H3808 turn_H6437 as_H0834 they_H0834 went_H5437. 
+@12 Their_H3605 whole_H3605 body_H1320, including_H3605 their_H3605 backs_H1354, their_H3605 hands_H3027, their_H3605 wings_H3671, and_H3027 the_H3605 wheels_H0212, were_H5869 full_H4392 of_H3027 eyes_H5869 all_H3605 around_H5439, even the_H3605 wheels_H0212 that_H3605 the_H3605 four_H0702 of_H3027 them_H3027 had_H5869. 
+@13 As_H7121 for_H7121 the_H7121 wheels_H0212, they_H7121 were_H0212 called_H7121 in_H7121 my_H7121 hearing_H0241, “the_H7121 whirling_H1534 wheels_H0212”. 
+@14 Every_H0259 one_H0259 them_H6440 had_H0259 four_H0702 faces_H6440. The_H6440 first_H0259 face_H6440 was_H0259 the_H6440 face_H6440 of_H6440 the_H6440 cherub_H3742. The_H6440 second_H8145 face_H6440 was_H0259 the_H6440 face_H6440 of_H6440 a_H0259 man_H0120. The_H6440 third_H7992 face_H6440 was_H0259 the_H6440 face_H6440 of_H6440 a_H0259 lion_H0738. The_H6440 fourth_H7243 was_H0259 the_H6440 face_H6440 of_H6440 an_H6440 eagle_H5404. 
 
-@15 The cherubim mounted up. This is the living creature that I saw by the river Chebar. 
-@16 When the cherubim went, the wheels went beside them; and when the cherubim lifted up their wings to mount up from the earth, the wheels also didn’t turn from beside them. 
-@17 When they stood, these stood. When they mounted up, these mounted up with them; for the spirit of the living creature was in them.
+@15 The_H0834 cherubim_H3742 mounted up_H7200. This_H1931 is_H0834 the_H0834 living_H2416 creature_H2416 that_H0834 I_H0834 saw_H7200 by_H0834 the_H0834 river_H5104 Chebar_H3529. 
+@16 When_H5375 the_H0853 cherubim_H3742 went_H5437, the_H0853 wheels_H0212 went_H5437 beside_H5921 them_H1992; and_H0776 when_H5375 the_H0853 cherubim_H3742 lifted_H5375 up_H5375 their_H5375 wings_H3671 to_H5921 mount up_H5375 from_H5921 the_H0853 earth_H0776, the_H0853 wheels_H0212 also_H1571 didn’t_H3808 turn_H5437 from_H5921 beside_H5921 them_H1992. 
+@17 When_H3588 they_H3588 stood_H5975, these stood_H5975. When_H3588 they_H3588 mounted up_H7311, these mounted up_H7311 with_H0854 them_H5975; for_H3588 the_H3588 spirit_H7307 of_H7307 the_H3588 living_H2416 creature_H2416 was_H7307 in_H5975 them_H5975.
 
 ## The exodus of the glory of God from the sanctuary
-@18 Yahweh’s glory went out from over the threshold of the house and stood over the cherubim. 
-@19 The cherubim lifted up their wings and mounted up from the earth in my sight when they went out, with the wheels beside them. Then they stood at the door of the east gate of Yahweh’s house; and the glory of the God of Israel was over them above. 
+@18 Yahweh’s_H3068 glory_H3519 went_H3318 out_H3318 from_H3318 over_H5921 the_H5921 threshold_H4670 of_H1004 the_H5921 house_H1004 and_H3068 stood_H5975 over_H5921 the_H5921 cherubim_H3742. 
+@19 The_H0853 cherubim_H3742 lifted_H5375 up_H5375 their_H3068 wings_H3671 and_H3068 mounted up_H5375 from_H4480 the_H0853 earth_H0776 in_H5921 my_H3068 sight_H5869 when_H3318 they_H5921 went_H3318 out_H3318, with_H1004 the_H0853 wheels_H0212 beside_H5921 them_H0853. Then_H3318 they_H5921 stood_H5975 at_H5921 the_H0853 door_H6607 of_H0776 the_H0853 east_H6931 gate_H8179 of_H0776 Yahweh’s_H3068 house_H1004; and_H3068 the_H0853 glory_H3519 of_H0776 the_H0853 God_H0430 of_H0776 Israel_H3478 was_H3068 over_H5921 them_H0853 above_H5921. 
 
-@20 This is the living creature that I saw under the God of Israel by the river Chebar; and I knew that they were cherubim. 
-@21 Every one had four faces, and every one four wings. The likeness of the hands of a man was under their wings. 
-@22 As for the likeness of their faces, they were the faces which I saw by the river Chebar, their appearances and themselves. They each went straight forward. 
+@20 This_H1931 is_H0834 the_H0834 living_H2416 creature_H2416 that_H0834 I_H0834 saw_H7200 under_H8478 the_H0834 God_H0430 of_H0430 Israel_H3478 by_H3478 the_H0834 river_H5104 Chebar_H3529; and_H3478 I_H0834 knew_H3045 that_H0834 they_H1992 were_H0834 cherubim_H3742. 
+@21 Every_H0259 one_H0259 had_H3027 four_H0702 faces_H6440, and_H3027 every_H0259 one_H0259 four_H0702 wings_H3671. The_H6440 likeness_H1823 of_H3027 the_H6440 hands_H3027 of_H3027 a_H0259 man_H0120 was_H0259 under_H8478 their_H6440 wings_H3671. 
+@22 As_H0834 for_H5921 the_H0853 likeness_H1823 of_H0376 their_H1992 faces_H6440, they_H1992 were_H0834 the_H0853 faces_H6440 which_H0834 I_H0834 saw_H7200 by_H5921 the_H0853 river_H5104 Chebar_H3529, their_H1992 appearances and_H0376 themselves_H1992. They_H1992 each_H0376 went_H0413 straight_H5676 forward_H6440. 
 
 # 11 
 ## God's judgment on the worst seducers of the people; Banishment, conversion and renewal of the town; God is leaving town
-@1 Moreover the Spirit lifted me up and brought me to the east gate of Yahweh’s house, which looks eastward. Behold, twenty-five men were at the door of the gate; and I saw among them Jaazaniah the son of Azzur, and Pelatiah the son of Benaiah, princes of the people. 
-@2 He said to me, “Son of man, these are the men who devise iniquity, and who give wicked counsel in this city; 
-@3 who say, ‘The time is not near to build houses. This is the cauldron, and we are the meat.’ 
-@4 Therefore prophesy against them. Prophesy, son of man.” 
+@1 Moreover_H2009 the_H0853 Spirit_H7307 lifted_H5375 me_H0413 up_H5375 and_H1121 brought_H0935 me_H0413 to_H0413 the_H0853 east_H6921 gate_H8179 of_H1121 Yahweh’s_H3068 house_H1004, which_H7307 looks_H7200 eastward_H6931. Behold_H2009, twenty-five_H2568 men_H0376 were_H1121 at_H0413 the_H0853 door_H6607 of_H1121 the_H0853 gate_H8179; and_H1121 I_H2009 saw_H7200 among_H8432 them_H0413 Jaazaniah_H2970 the_H0853 son_H1121 of_H1121 Azzur_H5809, and_H1121 Pelatiah_H6410 the_H0853 son_H1121 of_H1121 Benaiah_H1141, princes_H8269 of_H1121 the_H0853 people_H5971. 
+@2 He_H0376 said_H0559 to_H0413 me_H0413, “Son_H1121 of_H1121 man_H0376, these_H0428 are_H0428 the_H0559 men_H0376 who_H0376 devise_H2803 iniquity_H0205, and_H1121 who_H0376 give_H3289 wicked_H0205 counsel_H6098 in_H0413 this_H2063 city_H5892; 
+@3 who_H1931 say_H0559, ‘The_H0559 time is_H1931 not_H3808 near_H7138 to_H0559 build_H1129 houses_H1004. This_H1931 is_H1931 the_H0559 cauldron, and_H1004 we_H0587 are_H1004 the_H0559 meat_H1320.’ 
+@4 Therefore_H3651 prophesy_H5012 against_H5921 them_H5921. Prophesy_H5012, son_H1121 of_H1121 man_H0120.” 
 
-@5 Yahweh’s Spirit fell on me, and he said to me, “Speak, ‘Yahweh says: “Thus you have said, house of Israel; for I know the things that come into your mind. 
-@6 You have multiplied your slain in this city, and you have filled its streets with the slain.” 
+@5 Yahweh’s_H3068 Spirit_H7307 fell_H5307 on_H5921 me_H0413, and_H3068 he_H3651 said_H0559 to_H0413 me_H0413, “Speak_H0559, ‘Yahweh_H3068 says_H0559: “Thus_H3541 you_H5921 have_H3045 said_H0559, house_H1004 of_H1004 Israel_H3478; for_H5921 I_H0589 know_H3045 the_H0559 things_H3478 that_H3045 come_H5307 into_H0413 your_H3068 mind_H7307. 
+@6 You_H7235 have multiplied_H7235 your_H4390 slain_H2491 in_H5892 this_H2063 city_H5892, and_H2351 you_H7235 have filled_H4390 its_H4390 streets_H2351 with_H4390 the_H4390 slain_H2491.” 
 
-@7 “‘Therefore the Lord Yahweh says: “Your slain whom you have laid in the middle of it, they are the meat, and this is the cauldron; but you will be brought out of the middle of it. 
-@8 You have feared the sword; and I will bring the sword on you,” says the Lord Yahweh. 
-@9 “I will bring you out of the middle of it, and deliver you into the hands of strangers, and will execute judgments among you. 
-@10 You will fall by the sword. I will judge you in the border of Israel. Then you will know that I am Yahweh. 
-@11 This will not be your cauldron, neither will you be the meat in the middle of it. I will judge you in the border of Israel. 
-@12 You will know that I am Yahweh, for you have not walked in my statutes. You have not executed my ordinances, but have done after the ordinances of the nations that are around you.”’” 
+@7 “‘Therefore_H3651 the_H0853 Lord_H0136 Yahweh says_H0559: “Your_H7760 slain_H2491 whom_H0834 you_H0834 have_H0834 laid_H7760 in_H8432 the_H0853 middle_H8432 of_H8432 it_H7760, they_H1992 are_H0834 the_H0853 meat_H1320, and_H3318 this_H3651 is_H0834 the_H0853 cauldron; but_H1992 you_H0834 will_H0834 be_H0136 brought_H3318 out_H3318 of_H8432 the_H0853 middle_H8432 of_H8432 it_H7760. 
+@8 You_H5921 have_H0935 feared_H3372 the_H5002 sword_H2719; and_H0935 I_H5921 will_H2719 bring_H0935 the_H5002 sword_H2719 on_H5921 you_H5921,” says_H5002 the_H5002 Lord_H0136 Yahweh. 
+@9 “I_H5414 will_H3027 bring_H3318 you_H5414 out_H3318 of_H3027 the_H0853 middle_H8432 of_H3027 it_H5414, and_H3027 deliver_H5414 you_H5414 into_H8432 the_H0853 hands_H3027 of_H3027 strangers_H2114, and_H3027 will_H3027 execute_H5414 judgments_H8201 among_H8432 you_H5414. 
+@10 You_H3588 will_H3068 fall_H5307 by_H5921 the_H0853 sword_H2719. I_H0589 will_H3068 judge_H8199 you_H3588 in_H5921 the_H0853 border_H1366 of_H3068 Israel_H3478. Then_H0853 you_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068. 
+@11 This_H1931 will_H1961 not_H3808 be_H1961 your_H1961 cauldron, neither_H3808 will_H1961 you_H0859 be_H1961 the_H0853 meat_H1320 in_H0413 the_H0853 middle_H8432 of_H1366 it_H1931. I_H3478 will_H1961 judge_H8199 you_H0859 in_H0413 the_H0853 border_H1366 of_H1366 Israel_H3478. 
+@12 You_H0834 will_H3068 know_H3045 that_H0834 I_H0589 am_H0589 Yahweh_H3068, for_H3588 you_H0834 have_H0834 not_H3808 walked_H1980 in_H1980 my_H3068 statutes_H2706. You_H0834 have_H0834 not_H3808 executed my_H3068 ordinances_H4941, but_H3588 have_H0834 done_H6213 after_H3588 the_H0834 ordinances_H4941 of_H3068 the_H0834 nations_H1471 that_H0834 are_H0834 around_H5439 you_H0834.”’” 
 
-@13 When I prophesied, Pelatiah the son of Benaiah died. Then I fell down on my face, and cried with a loud voice, and said, “Ah Lord Yahweh! Will you make a full end of the remnant of Israel?”
+@13 When_H1961 I_H0559 prophesied_H5012, Pelatiah_H6410 the_H0853 son_H1121 of_H1121 Benaiah_H1141 died_H4191. Then_H1961 I_H0559 fell_H5307 down_H5307 on_H5921 my_H5921 face_H6440, and_H1121 cried_H2199 with_H5921 a_H1961 loud_H1419 voice_H6963, and_H1121 said_H0559, “Ah_H0162 Lord_H0136 Yahweh! Will_H1961 you_H0859 make_H6213 a_H1961 full_H3617 end_H3617 of_H1121 the_H0853 remnant_H7611 of_H1121 Israel_H3478?”
 
 ## The exile, the return home and the renewal of the people of God
-@14 Yahweh’s word came to me, saying, 
-@15 “Son of man, your brothers, even your brothers, the men of your relatives, and all the house of Israel, all of them, are the ones to whom the inhabitants of Jerusalem have said, ‘Go far away from Yahweh. This land has been given to us for a possession.’ 
+@14 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@15 “Son_H1121 of_H1121 man_H0376, your_H3068 brothers_H0251, even_H0776 your_H3068 brothers_H0251, the_H3605 men_H0376 of_H1121 your_H3068 relatives_H0251, and_H1121 all_H3605 the_H3605 house_H1004 of_H1121 Israel_H3478, all_H3605 of_H1121 them_H5414, are_H0834 the_H3605 ones_H1121 to_H0559 whom_H0834 the_H3605 inhabitants_H3427 of_H1121 Jerusalem_H3389 have_H0834 said_H0559, ‘Go_H7368 far_H7368 away_H7368 from_H5921 Yahweh_H3068. This_H1931 land_H0776 has_H3068 been_H0834 given_H5414 to_H0559 us_H5414 for_H5921 a_H5414 possession_H4181.’ 
 
-@16 “Therefore say, ‘The Lord Yahweh says: “Whereas I have removed them far off among the nations, and whereas I have scattered them among the countries, yet I will be to them a sanctuary for a little while in the countries where they have come.”’ 
+@16 “Therefore_H3651 say_H0559, ‘The_H0559 Lord_H0136 Yahweh says_H0559: “Whereas I_H0834 have_H1961 removed_H7368 them_H0935 far_H7368 off among_H8033 the_H0559 nations_H1471, and_H0935 whereas I_H0834 have_H1961 scattered_H6327 them_H0935 among_H8033 the_H0559 countries_H0776, yet_H3588 I_H0834 will_H1961 be_H1961 to_H0559 them_H0935 a_H1961 sanctuary_H4720 for_H3588 a_H1961 little_H4592 while_H1961 in_H0935 the_H0559 countries_H0776 where_H0834 they_H0834 have_H1961 come_H0935.”’ 
 
-@17 “Therefore say, ‘The Lord Yahweh says: “I will gather you from the peoples, and assemble you out of the countries where you have been scattered, and I will give you the land of Israel.” 
+@17 “Therefore_H3651 say_H0559, ‘The_H0853 Lord_H0136 Yahweh says_H0559: “I_H0834 will_H0776 gather_H6908 you_H0834 from_H4480 the_H0853 peoples_H5971, and_H3478 assemble_H0622 you_H0834 out_H4480 of_H0776 the_H0853 countries_H0776 where_H0834 you_H0834 have_H0834 been_H0834 scattered_H6327, and_H3478 I_H0834 will_H0776 give_H5414 you_H0834 the_H0853 land_H0776 of_H0776 Israel_H3478.” 
 
-@18 “‘They will come there, and they will take away all its detestable things and all its abominations from there. 
-@19 I will give them one heart, and I will put a new spirit within them. I will take the stony heart out of their flesh, and will give them a heart of flesh, 
-@20 that they may walk in my statutes, and keep my ordinances, and do them. They will be my people, and I will be their God. 
-@21 But as for them whose heart walks after the heart of their detestable things and their abominations, I will bring their way on their own heads,’ says the Lord Yahweh.”
+@18 “‘They_H8033 will_H0935 come_H0935 there_H8033, and_H0935 they_H8033 will_H0935 take_H5493 away_H5493 all_H3605 its_H3605 detestable_H8251 things_H3605 and_H0935 all_H3605 its_H3605 abominations_H8441 from_H4480 there_H8033. 
+@19 I_H5414 will_H7307 give_H5414 them_H5414 one_H0259 heart_H3820, and_H0068 I_H5414 will_H7307 put_H5414 a_H5414 new_H2319 spirit_H7307 within_H7130 them_H5414. I_H5414 will_H7307 take_H5493 the_H5414 stony heart_H3820 out of_H7307 their_H5414 flesh_H1320, and_H0068 will_H7307 give_H5414 them_H5414 a_H5414 heart_H3820 of_H7307 flesh_H1320, 
+@20 that_H4616 they_H5971 may_H1961 walk in_H0430 my_H8104 statutes_H2708, and_H0430 keep_H8104 my_H8104 ordinances_H4941, and_H0430 do_H6213 them_H0853. They_H5971 will_H0430 be_H1961 my_H8104 people_H5971, and_H0430 I_H0589 will_H0430 be_H1961 their_H1961 God_H0430. 
+@21 But_H1870 as_H1980 for_H0413 them_H0413 whose heart_H3820 walks_H1980 after_H0413 the_H5002 heart_H3820 of_H7218 their_H5414 detestable_H8251 things_H8251 and_H1980 their_H5414 abominations_H8441, I_H5414 will_H3820 bring_H5414 their_H5414 way_H1870 on_H0413 their_H5414 own heads_H7218,’ says_H5002 the_H5002 Lord_H0136 Yahweh.”
 
 ## God leaves the city area; Ezekiel wakes up from the rapture
-@22 Then the cherubim lifted up their wings, and the wheels were beside them. The glory of the God of Israel was over them above. 
-@23 Yahweh’s glory went up from the middle of the city, and stood on the mountain which is on the east side of the city. 
-@24 The Spirit lifted me up, and brought me in the vision by the Spirit of God into Chaldea, to the captives. 
+@22 Then_H0853 the_H0853 cherubim_H3742 lifted_H5375 up_H5375 their_H5375 wings_H3671, and_H3478 the_H0853 wheels_H0212 were_H3478 beside_H5921 them_H0853. The_H0853 glory_H3519 of_H0430 the_H0853 God_H0430 of_H0430 Israel_H3478 was_H3478 over_H5921 them_H0853 above_H5921. 
+@23 Yahweh’s_H3068 glory_H3519 went_H5927 up_H5927 from_H5921 the_H0834 middle_H8432 of_H3068 the_H0834 city_H5892, and_H3068 stood_H5975 on_H5921 the_H0834 mountain_H2022 which_H0834 is_H0834 on_H5921 the_H0834 east_H6924 side of_H3068 the_H0834 city_H5892. 
+@24 The_H0834 Spirit_H7307 lifted_H5375 me_H0413 up_H5927, and_H0935 brought_H0935 me_H0413 in_H5921 the_H0834 vision_H4758 by_H5921 the_H0834 Spirit_H7307 of_H0430 God_H0430 into_H0413 Chaldea_H3778, to_H0413 the_H0834 captives_H1473. 
 
-So the vision that I had seen went up from me. 
-@25 Then I spoke to the captives all the things that Yahweh had shown me. 
+So_H5927 the_H0834 vision_H4758 that_H0834 I_H0834 had_H0834 seen_H7200 went_H0935 up_H5927 from_H0935 me_H0413. 
+@25 Then_H1696 I_H0834 spoke_H1696 to_H0413 the_H3605 captives_H1473 all_H3605 the_H3605 things_H1697 that_H0834 Yahweh_H3068 had_H3068 shown_H7200 me_H0413. 
 
 # 12 
 ## The emigration of the Prophet as an illustration of the path that leads the prince and the people into exile
-@1 Yahweh’s word also came to me, saying, 
-@2 “Son of man, you dwell in the middle of the rebellious house, who have eyes to see, and don’t see, who have ears to hear, and don’t hear; for they are a rebellious house. 
+@1 Yahweh’s_H3068 word_H1697 also_H3068 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 “Son_H1121 of_H1121 man_H0120, you_H0859 dwell_H3427 in_H3427 the_H0834 middle_H8432 of_H1121 the_H0834 rebellious_H4805 house_H1004, who_H0834 have_H0834 eyes_H5869 to_H8085 see_H7200, and_H1121 don’t_H3808 see_H7200, who_H0834 have_H0834 ears_H0241 to_H8085 hear_H8085, and_H1121 don’t_H3808 hear_H8085; for_H3588 they_H1992 are_H0834 a_H3588 rebellious_H4805 house_H1004. 
 
-@3 “Therefore, you son of man, prepare your baggage for moving, and move by day in their sight. You shall move from your place to another place in their sight. It may be they will consider, though they are a rebellious house. 
-@4 You shall bring out your baggage by day in their sight, as baggage for moving. You shall go out yourself at evening in their sight, as when men go out into exile. 
-@5 Dig through the wall in their sight, and carry your baggage out that way. 
-@6 In their sight you shall bear it on your shoulder, and carry it out in the dark. You shall cover your face, so that you don’t see the land, for I have set you for a sign to the house of Israel.”
+@3 “Therefore_H0859, you_H0859 son_H1121 of_H1121 man_H0120, prepare_H6213 your_H7200 baggage_H3627 for_H3588 moving, and_H1121 move by_H0413 day_H3119 in_H0413 their_H1992 sight_H5869. You_H0859 shall_H1121 move from_H1121 your_H7200 place_H4725 to_H0413 another_H0312 place_H4725 in_H0413 their_H1992 sight_H5869. It_H3588 may_H0120 be_H1121 they_H1992 will_H5869 consider_H7200, though_H3588 they_H1992 are_H1992 a_H3588 rebellious_H4805 house_H1004. 
+@4 You_H0859 shall_H3627 bring_H3318 out_H3318 your_H3318 baggage_H3627 by_H3627 day_H3119 in_H5869 their_H3318 sight_H5869, as_H3318 baggage_H3627 for_H3627 moving. You_H0859 shall_H3627 go_H3318 out_H3318 yourself_H0859 at_H5869 evening_H6153 in_H5869 their_H3318 sight_H5869, as_H3318 when_H3318 men go_H3318 out_H3318 into_H3318 exile_H1473. 
+@5 Dig_H2864 through_H3318 the_H3318 wall_H7023 in_H5869 their_H3318 sight_H5869, and_H5869 carry_H3318 your_H3318 baggage out_H3318 that_H5869 way. 
+@6 In_H5921 their_H5375 sight_H5869 you_H3588 shall_H3478 bear_H5375 it_H5414 on_H5921 your_H5414 shoulder_H3802, and_H3478 carry_H5375 it_H5414 out_H3318 in_H5921 the_H0853 dark_H5939. You_H3588 shall_H3478 cover_H3680 your_H5414 face_H6440, so_H5414 that_H3588 you_H3588 don’t_H3808 see_H7200 the_H0853 land_H0776, for_H3588 I_H3588 have_H5869 set_H5414 you_H3588 for_H3588 a_H3588 sign_H4159 to_H5921 the_H0853 house_H1004 of_H1004 Israel_H3478.”
 
 ## Eating and drinking with tremors and tremors as signs of the need for a siege
-@7 I did so as I was commanded. I brought out my baggage by day, as baggage for moving, and in the evening I dug through the wall with my hand. I brought it out in the dark, and bore it on my shoulder in their sight. 
+@7 I_H0834 did_H6213 so_H3651 as_H0834 I_H0834 was_H0834 commanded_H6680. I_H0834 brought_H3318 out_H3318 my_H5921 baggage_H3627 by_H5921 day_H3119, as_H0834 baggage_H3627 for_H5921 moving, and_H3027 in_H5921 the_H0834 evening_H6153 I_H0834 dug_H2864 through_H3027 the_H0834 wall_H7023 with_H5921 my_H5921 hand_H3027. I_H0834 brought_H3318 it_H5921 out_H3318 in_H5921 the_H0834 dark_H5939, and_H3027 bore_H5375 it_H5921 on_H5921 my_H5921 shoulder_H3802 in_H5921 their_H5375 sight_H5869. 
 
-@8 In the morning, Yahweh’s word came to me, saying, 
-@9 “Son of man, hasn’t the house of Israel, the rebellious house, said to you, ‘What are you doing?’ 
+@8 In_H0413 the_H0559 morning_H1242, Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@9 “Son_H1121 of_H1121 man_H0120, hasn’t_H3808 the_H0559 house_H1004 of_H1121 Israel_H3478, the_H0559 rebellious_H4805 house_H1004, said_H0559 to_H0413 you_H0859, ‘What_H4100 are_H4100 you_H0859 doing_H6213?’ 
 
-@10 “Say to them, ‘The Lord Yahweh says: “This burden concerns the prince in Jerusalem, and all the house of Israel among whom they are.”’ 
+@10 “Say_H0559 to_H0413 them_H0413, ‘The_H3605 Lord_H0136 Yahweh says_H0559: “This_H2088 burden_H4853 concerns the_H3605 prince_H5387 in_H0413 Jerusalem_H3389, and_H3478 all_H3605 the_H3605 house_H1004 of_H1004 Israel_H3478 among_H8432 whom_H0834 they_H1992 are_H0834.”’ 
 
-@11 “Say, ‘I am your sign. As I have done, so will it be done to them. They will go into exile, into captivity. 
+@11 “Say_H0559, ‘I_H0589 am_H0589 your_H0834 sign_H4159. As_H0834 I_H0589 have_H0834 done_H6213, so_H3651 will_H0834 it_H3651 be done_H6213 to_H0559 them_H6213. They_H0834 will_H0834 go into exile_H1473, into captivity_H7628. 
 
-@12 “‘The prince who is among them will bear his baggage on his shoulder in the dark, and will go out. They will dig through the wall to carry things out that way. He will cover his face, because he will not see the land with his eyes. 
-@13 I will also spread my net on him, and he will be taken in my snare. I will bring him to Babylon to the land of the Chaldeans; yet he will not see it, though he will die there. 
-@14 I will scatter toward every wind all who are around him to help him, and all his bands. I will draw out the sword after them. 
+@12 “‘The_H0853 prince_H5387 who_H0834 is_H0834 among_H8432 them_H0413 will_H0776 bear_H5375 his_H5375 baggage on_H0413 his_H5375 shoulder_H3802 in_H0413 the_H0853 dark_H5939, and_H0776 will_H0776 go_H3318 out_H3318. They_H0834 will_H0776 dig_H2864 through_H8432 the_H0853 wall_H7023 to_H0413 carry_H5375 things_H0834 out_H3318 that_H0834 way_H6440. He_H0834 will_H0776 cover_H3680 his_H5375 face_H6440, because_H3282 he_H0834 will_H0776 not_H3808 see_H7200 the_H0853 land_H0776 with_H0413 his_H5375 eyes_H5869. 
+@13 I_H7200 will_H0776 also_H0853 spread_H6566 my_H5921 net_H7568 on_H5921 him_H5921, and_H0935 he_H8033 will_H0776 be_H4191 taken_H8610 in_H5921 my_H5921 snare. I_H7200 will_H0776 bring_H0935 him_H5921 to_H0935 Babylon_H0894 to_H0935 the_H0853 land_H0776 of_H0776 the_H0853 Chaldeans_H3778; yet_H5921 he_H8033 will_H0776 not_H3808 see_H7200 it_H5921, though he_H8033 will_H0776 die_H4191 there_H8033. 
+@14 I_H0834 will_H0834 scatter_H2219 toward every_H3605 wind_H7307 all_H3605 who_H0834 are_H0834 around_H5439 him_H0310 to_H0834 help_H5828 him_H0310, and_H2719 all_H3605 his_H3605 bands. I_H0834 will_H0834 draw out_H3605 the_H3605 sword_H2719 after_H0310 them_H0310. 
 
-@15 “‘They will know that I am Yahweh when I disperse them among the nations and scatter them through the countries. 
-@16 But I will leave a few men of them from the sword, from the famine, and from the pestilence, that they may declare all their abominations among the nations where they come. Then they will know that I am Yahweh.’” 
+@15 “‘They_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068 when_H3588 I_H0589 disperse_H2219 them_H0853 among_H0776 the_H0853 nations_H1471 and_H3068 scatter_H2219 them_H0853 through_H0776 the_H0853 countries_H0776. 
+@16 But_H3588 I_H0589 will_H3068 leave_H3498 a_H3588 few_H4557 men_H0376 of_H0376 them_H1992 from_H0935 the_H3605 sword_H2719, from_H0935 the_H3605 famine_H7458, and_H0935 from_H0935 the_H3605 pestilence_H1698, that_H0834 they_H1992 may_H0376 declare_H5608 all_H3605 their_H3605 abominations_H8441 among_H0376 the_H3605 nations_H1471 where_H0834 they_H1992 come_H0935. Then_H0853 they_H1992 will_H3068 know_H3045 that_H0834 I_H0589 am_H0589 Yahweh_H3068.’” 
 
-@17 Moreover Yahweh’s word came to me, saying, 
-@18 “Son of man, eat your bread with quaking, and drink your water with trembling and with fearfulness. 
-@19 Tell the people of the land, ‘The Lord Yahweh says concerning the inhabitants of Jerusalem and the land of Israel: “They will eat their bread with fearfulness and drink their water in dismay, that her land may be desolate, and all that is therein, because of the violence of all those who dwell therein. 
-@20 The cities that are inhabited will be laid waste, and the land will be a desolation. Then you will know that I am Yahweh.”’”
+@17 Moreover_H1961 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@18 “Son_H1121 of_H1121 man_H0120, eat_H0398 your_H0398 bread_H3899 with_H3899 quaking, and_H1121 drink_H8354 your_H0398 water_H4325 with_H3899 trembling_H7494 and_H1121 with_H3899 fearfulness. 
+@19 Tell_H0559 the_H3605 people_H5971 of_H0776 the_H3605 land_H0776, ‘The_H3605 Lord_H0136 Yahweh says_H0559 concerning_H0413 the_H3605 inhabitants_H3427 of_H0776 Jerusalem_H3389 and_H3478 the_H3605 land_H0776 of_H0776 Israel_H3478: “They_H0559 will_H0776 eat_H0398 their_H3605 bread_H3899 with_H0413 fearfulness and_H3478 drink_H8354 their_H3605 water_H4325 in_H3427 dismay, that_H3605 her_H3605 land_H0776 may_H0776 be_H3478 desolate_H3456, and_H3478 all_H3605 that_H3605 is_H0776 therein, because_H4616 of_H0776 the_H3605 violence_H2555 of_H0776 all_H3605 those_H3605 who_H3605 dwell_H3427 therein. 
+@20 The_H3588 cities_H5892 that_H3588 are_H3068 inhabited_H3427 will_H3068 be_H1961 laid waste_H8077, and_H3068 the_H3588 land_H0776 will_H3068 be_H1961 a_H1961 desolation_H8077. Then_H1961 you_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068.”’”
 
 ## For those who denied the prophecy of all value
-@21 Yahweh’s word came to me, saying, 
-@22 “Son of man, what is this proverb that you have in the land of Israel, saying, ‘The days are prolonged, and every vision fails?’ 
-@23 Tell them therefore, ‘The Lord Yahweh says: “I will make this proverb to cease, and they will no more use it as a proverb in Israel;”’ but tell them, ‘“The days are at hand, and the fulfillment of every vision. 
-@24 For there will be no more any false vision nor flattering divination within the house of Israel. 
-@25 For I am Yahweh. I will speak, and the word that I speak will be performed. It will be no more deferred; for in your days, rebellious house, I will speak the word and will perform it,” says the Lord Yahweh.’”
+@21 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@22 “Son_H1121 of_H1121 man_H0120, what_H4100 is_H2088 this_H2088 proverb_H4912 that_H3605 you_H3605 have_H1121 in_H5921 the_H3605 land_H0127 of_H1121 Israel_H3478, saying_H0559, ‘The_H3605 days_H3117 are_H3117 prolonged_H0748, and_H1121 every_H3605 vision_H2377 fails_H0006?’ 
+@23 Tell_H0559 them_H0413 therefore_H3651, ‘The_H3605 Lord_H0136 Yahweh says_H0559: “I_H3588 will_H3478 make_H3588 this_H2088 proverb_H4912 to_H0413 cease_H7673, and_H3478 they_H3588 will_H3478 no_H3808 more_H5750 use it_H0518 as_H1697 a_H3588 proverb_H4912 in_H0413 Israel_H3478;”’ but_H3588 tell_H0559 them_H0413, ‘“The_H3605 days_H3117 are_H3117 at_H0413 hand, and_H3478 the_H3605 fulfillment_H1697 of_H3117 every_H3605 vision_H2377. 
+@24 For_H3588 there_H1961 will_H1961 be_H1961 no_H3808 more_H5750 any_H3605 false_H7723 vision_H2377 nor_H3808 flattering_H2509 divination_H4738 within_H8432 the_H3605 house_H1004 of_H1004 Israel_H3478. 
+@25 For_H3588 I_H0589 am_H0589 Yahweh_H3068. I_H0589 will_H3068 speak_H1696, and_H3068 the_H0853 word_H1697 that_H0834 I_H0589 speak_H1696 will_H3068 be_H5750 performed. It_H3588 will_H3068 be_H5750 no_H3808 more_H5750 deferred_H4900; for_H3588 in_H3068 your_H3068 days_H3117, rebellious_H4805 house_H1004, I_H0589 will_H3068 speak_H1696 the_H0853 word_H1697 and_H3068 will_H3068 perform_H6213 it_H3588,” says_H5002 the_H0853 Lord_H3068 Yahweh_H3068.’”
 
 ## For those who claimed that Ezekiel's prophecy referred to the distant future
-@26 Again Yahweh’s word came to me, saying, 
-@27 “Son of man, behold, they of the house of Israel say, ‘The vision that he sees is for many days to come, and he prophesies of times that are far off.’ 
+@26 Again_H1961 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@27 “Son_H1121 of_H1121 man_H0120, behold_H2009, they_H0834 of_H1121 the_H0559 house_H1004 of_H1121 Israel_H3478 say_H0559, ‘The_H0559 vision_H2377 that_H0834 he_H0834 sees_H2372 is_H0834 for_H1004 many_H7227 days_H3117 to_H0559 come_H7350, and_H1121 he_H0834 prophesies_H5012 of_H1121 times_H6256 that_H0834 are_H0834 far_H7350 off_H7350.’ 
 
-@28 “Therefore tell them, ‘The Lord Yahweh says: “None of my words will be deferred any more, but the word which I speak will be performed,” says the Lord Yahweh.’” 
+@28 “Therefore_H3651 tell_H0559 them_H0413, ‘The_H3605 Lord_H0136 Yahweh says_H0559: “None_H3808 of_H1697 my_H3605 words_H1697 will_H0834 be_H3808 deferred_H4900 any_H3605 more_H5750, but_H3808 the_H3605 word_H1697 which_H0834 I_H0834 speak_H1696 will_H0834 be_H3808 performed,” says_H0559 the_H3605 Lord_H0136 Yahweh.’” 
 
 # 13 
 ## Against false prophets
-@1 Yahweh’s word came to me, saying, 
-@2 “Son of man, prophesy against the prophets of Israel who prophesy, and say to those who prophesy out of their own heart, ‘Hear Yahweh’s word: 
-@3 The Lord Yahweh says, “Woe to the foolish prophets, who follow their own spirit, and have seen nothing! 
-@4 Israel, your prophets have been like foxes in the waste places. 
-@5 You have not gone up into the gaps or built up the wall for the house of Israel, to stand in the battle in Yahweh’s day. 
-@6 They have seen falsehood and lying divination, who say, ‘Yahweh says;’ but Yahweh has not sent them. They have made men to hope that the word would be confirmed. 
-@7 Haven’t you seen a false vision, and haven’t you spoken a lying divination, in that you say, ‘Yahweh says;’ but I have not spoken?” 
+@1 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 “Son_H1121 of_H1121 man_H0120, prophesy_H5012 against_H0413 the_H0559 prophets_H5030 of_H1121 Israel_H3478 who_H3068 prophesy_H5012, and_H1121 say_H0559 to_H0413 those_H1121 who_H3068 prophesy_H5012 out_H0413 of_H1121 their_H3068 own heart_H3820, ‘Hear_H8085 Yahweh’s_H3068 word_H1697: 
+@3 The_H0559 Lord_H0136 Yahweh says_H0559, “Woe_H1945 to_H0559 the_H0559 foolish_H5036 prophets_H5030, who_H0834 follow_H0310 their_H5921 own spirit_H7307, and_H1980 have_H0834 seen_H7200 nothing_H1115! 
+@4 Israel_H3478, your_H1961 prophets_H5030 have_H1961 been_H1961 like_H1961 foxes_H7776 in_H3478 the_H1961 waste_H2723 places_H2723. 
+@5 You_H5921 have_H3478 not_H3808 gone_H5927 up_H5927 into_H5921 the_H5921 gaps or_H3808 built up_H5927 the_H5921 wall_H1447 for_H5921 the_H5921 house_H1004 of_H1004 Israel_H3478, to_H5921 stand_H5975 in_H5921 the_H5921 battle_H4421 in_H5921 Yahweh’s_H3068 day_H3117. 
+@6 They_H3808 have_H1697 seen_H2372 falsehood_H7723 and_H6965 lying_H3577 divination_H7081, who_H3068 say_H0559, ‘Yahweh_H3068 says_H0559;’ but_H3808 Yahweh_H3068 has_H3068 not_H3808 sent_H7971 them_H7971. They_H3808 have_H1697 made men_H0559 to_H0559 hope_H3176 that_H1697 the_H0559 word_H1697 would_H3068 be_H3808 confirmed_H6965. 
+@7 Haven’t_H3808 you_H3808 seen_H2372 a_H1696 false_H7723 vision_H4236, and_H3068 haven’t_H3808 you_H3808 spoken_H1696 a_H1696 lying_H3577 divination_H4738, in_H3068 that_H3068 you_H3808 say_H0559, ‘Yahweh_H3068 says_H0559;’ but_H3808 I_H0589 have_H3068 not_H3808 spoken_H1696?” 
 
-@8 “‘Therefore the Lord Yahweh says: “Because you have spoken falsehood and seen lies, therefore, behold, I am against you,” says the Lord Yahweh. 
-@9 “My hand will be against the prophets who see false visions and who utter lying divinations. They will not be in the council of my people, neither will they be written in the writing of the house of Israel, neither will they enter into the land of Israel. Then you will know that I am the Lord Yahweh.” 
+@8 “‘Therefore_H3651 the_H0559 Lord_H0136 Yahweh says_H0559: “Because_H3282 you_H3282 have_H3282 spoken_H1696 falsehood_H7723 and_H1696 seen_H2372 lies_H3577, therefore_H3651, behold_H2005, I_H2005 am_H2005 against_H0413 you_H3282,” says_H0559 the_H0559 Lord_H0136 Yahweh. 
+@9 “My_H1961 hand_H3027 will_H1961 be_H1961 against_H0413 the_H3588 prophets_H5030 who_H3478 see_H3045 false_H7723 visions_H7723 and_H0935 who_H3478 utter_H7080 lying_H3577 divinations_H7080. They_H3588 will_H1961 not_H3808 be_H1961 in_H0935 the_H3588 council_H5475 of_H1004 my_H1961 people_H5971, neither_H3808 will_H1961 they_H3588 be_H1961 written_H3789 in_H0935 the_H3588 writing_H3789 of_H1004 the_H3588 house_H1004 of_H1004 Israel_H3478, neither_H3808 will_H1961 they_H3588 enter_H0935 into_H0413 the_H3588 land_H0127 of_H1004 Israel_H3478. Then_H1961 you_H3588 will_H1961 know_H3045 that_H3588 I_H0589 am_H0589 the_H3588 Lord_H0136 Yahweh.” 
 
-@10 “‘Because, even because they have seduced my people, saying, “Peace;” and there is no peace. When one builds up a wall, behold, they plaster it with whitewash. 
-@11 Tell those who plaster it with whitewash that it will fall. There will be an overflowing shower; and you, great hailstones, will fall. A stormy wind will tear it. 
-@12 Behold, when the wall has fallen, won’t it be said to you, “Where is the plaster with which you have plastered it?” 
+@10 “‘Because_H3282, even_H0853 because_H3282 they_H0559 have_H0369 seduced my_H0559 people_H5971, saying_H0559, “Peace_H7965;” and_H0853 there_H0369 is_H0369 no_H0369 peace_H7965. When_H0559 one_H0369 builds_H1129 up_H1129 a_H1129 wall_H2434, behold_H2009, they_H0559 plaster_H2902 it_H1931 with_H2902 whitewash. 
+@11 Tell_H0559 those_H1961 who_H0559 plaster_H2902 it_H1961 with_H0413 whitewash that_H0559 it_H1961 will_H1961 fall_H5307. There_H1961 will_H1961 be_H1961 an_H1961 overflowing_H7857 shower_H1653; and_H0068 you_H0859, great hailstones_H0068, will_H1961 fall_H5307. A_H1961 stormy wind_H7307 will_H1961 tear_H1234 it_H1961. 
+@12 Behold_H2009, when_H0834 the_H0559 wall_H7023 has_H0834 fallen_H5307, won’t_H3808 it_H0834 be_H3808 said_H0559 to_H0413 you_H0834, “Where_H0834 is_H0834 the_H0559 plaster_H2902 with_H0413 which_H0834 you_H0834 have_H0834 plastered_H2902 it_H0834?” 
 
-@13 “‘Therefore the Lord Yahweh says: “I will even tear it with a stormy wind in my wrath. There will be an overflowing shower in my anger, and great hailstones in wrath to consume it. 
-@14 So I will break down the wall that you have plastered with whitewash, and bring it down to the ground, so that its foundation will be uncovered. It will fall, and you will be consumed in the middle of it. Then you will know that I am Yahweh. 
-@15 Thus I will accomplish my wrath on the wall, and on those who have plastered it with whitewash. I will tell you, ‘The wall is no more, nor those who plastered it— 
-@16 to wit, the prophets of Israel who prophesy concerning Jerusalem, and who see visions of peace for her, and there is no peace,’” says the Lord Yahweh.’”
+@13 “‘Therefore_H3651 the_H0559 Lord_H0136 Yahweh says_H0559: “I_H3541 will_H1961 even_H3651 tear_H1234 it_H3651 with_H3651 a_H1961 stormy wind_H7307 in_H0068 my_H1961 wrath_H2534. There_H1961 will_H1961 be_H1961 an_H1961 overflowing_H7857 shower_H1653 in_H0068 my_H1961 anger_H0639, and_H0068 great hailstones_H0068 in_H0068 wrath_H2534 to_H0559 consume it_H3651. 
+@14 So_H0834 I_H0589 will_H3068 break_H2040 down_H5307 the_H0853 wall_H7023 that_H0834 you_H0834 have_H0834 plastered_H2902 with_H0413 whitewash, and_H3068 bring_H3045 it_H3588 down_H5307 to_H0413 the_H0853 ground_H0776, so_H0834 that_H0834 its_H0853 foundation_H3247 will_H3068 be_H3068 uncovered_H1540. It_H3588 will_H3068 fall_H5307, and_H3068 you_H0834 will_H3068 be_H3068 consumed_H3615 in_H0413 the_H0853 middle_H8432 of_H0776 it_H3588. Then_H0853 you_H0834 will_H3068 know_H3045 that_H0834 I_H0589 am_H0589 Yahweh_H3068. 
+@15 Thus I_H0559 will_H0369 accomplish_H3615 my_H3615 wrath_H2534 on_H2534 the_H0853 wall_H7023, and_H0853 on_H2534 those_H0853 who_H0369 have_H0369 plastered_H2902 it_H2902 with_H2902 whitewash. I_H0559 will_H0369 tell_H0559 you_H0853, ‘The_H0853 wall_H7023 is_H0369 no_H0369 more_H0369, nor_H0369 those_H0853 who_H0369 plastered_H2902 it_H2902— 
+@16 to_H0413 wit, the_H5002 prophets_H5030 of_H5030 Israel_H3478 who_H0369 prophesy_H5012 concerning_H0413 Jerusalem_H3389, and_H3478 who_H0369 see visions_H2377 of_H5030 peace_H7965 for_H0413 her_H0413, and_H3478 there_H0369 is_H0369 no_H0369 peace_H7965,’” says_H5002 the_H5002 Lord_H0136 Yahweh.’”
 
 ## Against false prophets and fortune tellers
-@17 You, son of man, set your face against the daughters of your people, who prophesy out of their own heart; and prophesy against them, 
-@18 and say, “The Lord Yahweh says: ‘Woe to the women who sew magic bands on all elbows and make veils for the head of persons of every stature to hunt souls! Will you hunt the souls of my people and save souls alive for yourselves? 
-@19 You have profaned me among my people for handfuls of barley and for pieces of bread, to kill the souls who should not die and to save the souls alive who should not live, by your lying to my people who listen to lies.’ 
+@17 You_H0859, son_H1121 of_H1121 man_H0120, set_H7760 your_H5921 face_H6440 against_H5921 the_H6440 daughters_H1323 of_H1121 your_H5921 people_H5971, who_H1121 prophesy_H5012 out_H6440 of_H1121 their_H5921 own_H6440 heart_H3820; and_H1121 prophesy_H5012 against_H5921 them_H0413, 
+@18 and_H3027 say_H0559, “The_H3605 Lord_H0136 Yahweh says_H0559: ‘Woe_H1945 to_H0559 the_H3605 women who_H3605 sew_H8609 magic bands_H3704 on_H5921 all_H3605 elbows and_H3027 make_H6213 veils_H4555 for_H5921 the_H3605 head_H7218 of_H3027 persons_H5315 of_H3027 every_H3605 stature_H6967 to_H0559 hunt_H6679 souls_H5315! Will_H3027 you_H3605 hunt_H6679 the_H3605 souls_H5315 of_H3027 my_H3605 people_H5971 and_H3027 save_H5315 souls_H5315 alive_H2421 for_H5921 yourselves_H5315? 
+@19 You_H0834 have_H0834 profaned_H2490 me_H0413 among_H0413 my_H8085 people_H5971 for_H0413 handfuls_H8168 of_H5315 barley_H8184 and_H3899 for_H0413 pieces_H6595 of_H5315 bread_H3899, to_H0413 kill_H4191 the_H0853 souls_H5315 who_H0834 should_H0413 not_H3808 die_H4191 and_H3899 to_H0413 save_H5315 the_H0853 souls_H5315 alive_H2421 who_H0834 should_H0413 not_H3808 live_H2421, by_H0413 your_H0834 lying_H3577 to_H0413 my_H8085 people_H5971 who_H0834 listen_H8085 to_H0413 lies_H3577.’ 
 
-@20 “Therefore the Lord Yahweh says: ‘Behold, I am against your magic bands, with which you hunt the souls to make them fly, and I will tear them from your arms. I will let the souls fly free, even the souls whom you ensnare like birds. 
-@21 I will also tear your veils and deliver my people out of your hand; and they will no longer be in your hand to be ensnared. Then you will know that I am Yahweh. 
-@22 Because with lies you have grieved the heart of the righteous, whom I have not made sad; and strengthened the hands of the wicked, that he should not return from his wicked way, and be saved alive. 
-@23 Therefore you shall no more see false visions nor practice divination. I will deliver my people out of your hand. Then you will know that I am Yahweh.’” 
+@20 “Therefore_H3651 the_H0853 Lord_H0136 Yahweh says_H0559: ‘Behold_H2005, I_H0834 am_H2005 against_H5921 your_H5921 magic bands_H3704, with_H0413 which_H0834 you_H0859 hunt_H6679 the_H0853 souls_H5315 to_H0413 make them_H0413 fly, and_H7971 I_H0834 will_H0834 tear_H7167 them_H0413 from_H5921 your_H5921 arms_H2220. I_H0834 will_H0834 let_H7971 the_H0853 souls_H5315 fly free_H7971, even_H3651 the_H0853 souls_H5315 whom_H0834 you_H0859 ensnare like_H3651 birds. 
+@21 I_H0589 will_H3068 also_H3068 tear_H7167 your_H3068 veils_H4555 and_H3068 deliver_H5337 my_H3068 people_H5971 out_H3045 of_H3068 your_H3068 hand_H3027; and_H3068 they_H3588 will_H3068 no_H3808 longer_H5750 be_H1961 in_H3068 your_H3068 hand_H3027 to_H1961 be_H1961 ensnared. Then_H1961 you_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068. 
+@22 Because_H3282 with_H3027 lies_H8267 you_H7725 have_H0589 grieved_H3510 the_H0589 heart_H3820 of_H3027 the_H0589 righteous_H6662, whom I_H0589 have_H0589 not_H3808 made_H2388 sad; and_H3027 strengthened_H2388 the_H0589 hands_H3027 of_H3027 the_H0589 wicked_H7563, that_H3808 he_H3808 should not_H3808 return_H7725 from_H7725 his_H7725 wicked_H7563 way_H1870, and_H3027 be_H3808 saved alive_H2421. 
+@23 Therefore_H3651 you_H3588 shall_H3068 no_H3808 more_H5750 see_H2372 false_H7723 visions_H7723 nor_H3808 practice_H7080 divination_H7081. I_H0589 will_H3068 deliver_H5337 my_H3068 people_H5971 out_H3045 of_H3068 your_H3068 hand_H3027. Then_H0853 you_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068.’” 
 
 # 14 
 ## Exclusion of idolaters from the means of grace to question God
-@1 Then some of the elders of Israel came to me and sat before me. 
-@2 Yahweh’s word came to me, saying, 
-@3 “Son of man, these men have taken their idols into their heart, and put the stumbling block of their iniquity before their face. Should I be inquired of at all by them?
+@1 Then_H0935 some_H0376 of_H0376 the_H6440 elders_H2205 of_H0376 Israel_H3478 came_H0935 to_H0413 me_H0413 and_H0935 sat_H3427 before_H6440 me_H0413. 
+@2 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@3 “Son_H1121 of_H1121 man_H0376, these_H0428 men_H0376 have_H0376 taken_H5927 their_H5414 idols_H1544 into_H5921 their_H5414 heart_H3820, and_H1121 put_H5414 the_H6440 stumbling_H4383 block_H4383 of_H1121 their_H5414 iniquity_H5771 before_H6440 their_H5414 face_H6440. Should_H0376 I_H5414 be_H0376 inquired_H1875 of_H1121 at_H5921 all_H0376 by_H5921 them_H5414?
 
 ## God's judgment on every idolater who consults a prophet
-@4 Therefore speak to them and tell them, ‘The Lord Yahweh says: “Every man of the house of Israel who takes his idols into his heart and puts the stumbling block of his iniquity before his face then comes to the prophet, I Yahweh will answer him there according to the multitude of his idols, 
-@5 that I may take the house of Israel in their own heart, because they are all estranged from me through their idols.”’ 
+@4 Therefore_H3651 speak_H1696 to_H0413 them_H0413 and_H0935 tell_H0559 them_H0413, ‘The_H0853 Lord_H3068 Yahweh_H3068 says_H0559: “Every_H0376 man_H0376 of_H1004 the_H0853 house_H1004 of_H1004 Israel_H3478 who_H0834 takes_H7760 his_H3068 idols_H1544 into_H0413 his_H3068 heart_H3820 and_H0935 puts_H7760 the_H0853 stumbling_H4383 block_H4383 of_H1004 his_H3068 iniquity_H5771 before_H6440 his_H3068 face_H6440 then_H6030 comes_H0935 to_H0413 the_H0853 prophet_H5030, I_H0589 Yahweh_H3068 will_H3068 answer_H6030 him_H0413 there_H5927 according_H0413 to_H0413 the_H0853 multitude_H7230 of_H1004 his_H3068 idols_H1544, 
+@5 that_H0834 I_H0834 may_H3478 take_H8610 the_H3605 house_H1004 of_H1004 Israel_H3478 in_H5921 their_H3605 own heart_H3820, because_H5921 they_H0834 are_H0834 all_H3605 estranged from_H5921 me_H5921 through_H5921 their_H3605 idols_H1544.”’ 
 
-@6 “Therefore tell the house of Israel, ‘The Lord Yahweh says: “Return, and turn yourselves from your idols! Turn away your faces from all your abominations. 
+@6 “Therefore_H3651 tell_H0559 the_H3605 house_H1004 of_H1004 Israel_H3478, ‘The_H3605 Lord_H0136 Yahweh says_H0559: “Return_H7725, and_H3478 turn_H7725 yourselves_H3651 from_H7725 your_H3605 idols_H1544! Turn_H7725 away_H7725 your_H3605 faces_H6440 from_H7725 all_H3605 your_H3605 abominations_H8441. 
 
-@7 “‘“For everyone of the house of Israel, or of the strangers who live in Israel, who separates himself from me and takes his idols into his heart, and puts the stumbling block of his iniquity before his face, and comes to the prophet to inquire for himself of me, I Yahweh will answer him by myself. 
-@8 I will set my face against that man and will make him an astonishment, for a sign and a proverb, and I will cut him off from among my people. Then you will know that I am Yahweh. 
+@7 “‘“For_H3588 everyone_H0376 of_H1004 the_H6440 house_H1004 of_H1004 Israel_H3478, or_H1004 of_H1004 the_H6440 strangers_H1616 who_H0834 live_H1481 in_H0935 Israel_H3478, who_H0834 separates_H5144 himself_H3820 from_H0935 me_H0413 and_H0935 takes_H7760 his_H3068 idols_H1544 into_H0413 his_H3068 heart_H3820, and_H0935 puts_H7760 the_H6440 stumbling_H4383 block_H4383 of_H1004 his_H3068 iniquity_H5771 before_H6440 his_H3068 face_H6440, and_H0935 comes_H0935 to_H0413 the_H6440 prophet_H5030 to_H0413 inquire_H1875 for_H3588 himself_H3820 of_H1004 me_H0413, I_H0589 Yahweh_H3068 will_H3068 answer_H6030 him_H0413 by_H0413 myself_H0589. 
+@8 I_H0589 will_H3068 set_H5414 my_H5414 face_H6440 against_H6440 that_H3588 man_H0376 and_H3068 will_H3068 make_H5414 him_H5414 an_H5414 astonishment, for_H3588 a_H3588 sign_H0226 and_H3068 a_H3588 proverb_H4912, and_H3068 I_H0589 will_H3068 cut_H3772 him_H5414 off_H3772 from_H3772 among_H8432 my_H5414 people_H5971. Then_H5414 you_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068. 
 
-@9 “‘“If the prophet is deceived and speaks a word, I, Yahweh, have deceived that prophet, and I will stretch out my hand on him, and will destroy him from among my people Israel. 
-@10 They will bear their iniquity. The iniquity of the prophet will be even as the iniquity of him who seeks him, 
-@11 that the house of Israel may no more go astray from me, neither defile themselves any more with all their transgressions; but that they may be my people, and I may be their God,” says the Lord Yahweh.’”
+@9 “‘“If_H3588 the_H0853 prophet_H5030 is_H3068 deceived and_H3068 speaks_H1696 a_H3588 word_H1697, I_H0589, Yahweh_H3068, have_H5030 deceived that_H3588 prophet_H5030, and_H3068 I_H0589 will_H3068 stretch_H5186 out_H5186 my_H3068 hand_H3027 on_H5921 him_H5921, and_H3068 will_H3068 destroy_H8045 him_H5921 from_H5921 among_H8432 my_H3068 people_H5971 Israel_H3478. 
+@10 They_H5375 will_H1961 bear_H5375 their_H5375 iniquity_H5771. The_H5375 iniquity_H5771 of_H5030 the_H5375 prophet_H5030 will_H1961 be_H1961 even as_H1961 the_H5375 iniquity_H5771 of_H5030 him_H5375 who_H5030 seeks_H1875 him_H5375, 
+@11 that_H3605 the_H3605 house_H1004 of_H1004 Israel_H3478 may_H1961 no_H3808 more_H5750 go_H1961 astray_H8582 from_H3478 me_H0310, neither_H3808 defile_H2930 themselves_H0310 any_H3605 more_H5750 with_H1004 all_H3605 their_H3605 transgressions_H6588; but_H3808 that_H3605 they_H3808 may_H1961 be_H1961 my_H3605 people_H5971, and_H3478 I_H0589 may_H1961 be_H1961 their_H3605 God_H0430,” says_H5002 the_H3605 Lord_H0136 Yahweh.’”
 
 ## Why God leaves part of the wicked population in the irrevocable judgment of Jerusalem
-@12 Yahweh’s word came to me, saying, 
-@13 “Son of man, when a land sins against me by committing a trespass, and I stretch out my hand on it, and break the staff of its bread and send famine on it, and cut off from it man and animal— 
-@14 though these three men, Noah, Daniel, and Job, were in it, they would deliver only their own souls by their righteousness,” says the Lord Yahweh. 
+@12 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@13 “Son_H1121 of_H1121 man_H0120, when_H3588 a_H3588 land_H0776 sins_H2398 against_H5921 me_H7971 by_H5921 committing_H4603 a_H3588 trespass_H4604, and_H1121 I_H3588 stretch_H5186 out_H4480 my_H5921 hand_H3027 on_H5921 it_H5921, and_H1121 break_H7665 the_H5921 staff_H4294 of_H1121 its_H5921 bread_H3899 and_H1121 send_H7971 famine_H7458 on_H5921 it_H5921, and_H1121 cut_H3772 off_H3772 from_H4480 it_H5921 man_H0120 and_H1121 animal_H0929— 
+@14 though these_H0428 three_H7969 men_H0376, Noah_H5146, Daniel_H1840, and_H0376 Job_H0347, were_H1961 in_H8432 it_H1961, they_H1992 would_H0376 deliver_H5337 only_H5337 their_H1992 own_H1961 souls_H5315 by_H1961 their_H1992 righteousness_H6666,” says_H5002 the_H5002 Lord_H0136 Yahweh. 
 
-@15 “If I cause evil animals to pass through the land, and they ravage it and it is made desolate, so that no man may pass through because of the animals— 
-@16 though these three men were in it, as I live,” says the Lord Yahweh, “they would deliver neither sons nor daughters. They only would be delivered, but the land would be desolate. 
+@15 “If_H3863 I_H0776 cause_H1961 evil_H7451 animals_H2416 to_H1961 pass_H5674 through_H5674 the_H6440 land_H0776, and_H0776 they_H0776 ravage it_H1961 and_H0776 it_H1961 is_H0776 made_H1961 desolate_H8077, so_H1961 that_H1961 no_H1097 man may_H1961 pass_H5674 through_H5674 because_H6440 of_H0776 the_H6440 animals_H2416— 
+@16 though_H0518 these_H0428 three_H7969 men_H0376 were_H1961 in_H0776 it_H0518, as_H1961 I_H0589 live_H2416,” says_H5002 the_H5002 Lord_H0136 Yahweh, “they_H1992 would_H0376 deliver_H5337 neither_H0518 sons_H1121 nor_H0518 daughters_H1323. They_H1992 only_H0905 would_H0376 be_H1961 delivered_H5337, but_H0518 the_H5002 land_H0776 would_H0376 be_H1961 desolate_H8077. 
 
-@17 “Or if I bring a sword on that land, and say, ‘Sword, go through the land, so that I cut off from it man and animal’— 
-@18 though these three men were in it, as I live,” says the Lord Yahweh, “they would deliver neither sons nor daughters, but they only would be delivered themselves. 
+@17 “Or_H0176 if_H0176 I_H0559 bring_H0935 a_H3772 sword_H2719 on_H5921 that_H1931 land_H0776, and_H0935 say_H0559, ‘Sword_H2719, go_H0935 through_H4480 the_H0559 land_H0776, so_H4480 that_H1931 I_H0559 cut_H3772 off_H3772 from_H4480 it_H1931 man_H0120 and_H0935 animal’— 
+@18 though_H3588 these_H0428 three_H7969 men_H0376 were_H1121 in_H8432 it_H3588, as_H1121 I_H0589 live_H2416,” says_H5002 the_H5002 Lord_H0136 Yahweh, “they_H1992 would_H0376 deliver_H5337 neither_H3808 sons_H1121 nor_H3808 daughters_H1323, but_H3588 they_H1992 only_H0905 would_H0376 be_H3808 delivered_H5337 themselves_H0905. 
 
-@19 “Or if I send a pestilence into that land, and pour out my wrath on it in blood, to cut off from it man and animal— 
-@20 though Noah, Daniel, and Job, were in it, as I live,” says the Lord Yahweh, “they would deliver neither son nor daughter; they would deliver only their own souls by their righteousness.” 
+@19 “Or_H0176 if_H0176 I_H5921 send_H7971 a_H3772 pestilence_H1698 into_H0413 that_H1931 land_H0776, and_H0776 pour_H8210 out_H4480 my_H5921 wrath_H2534 on_H5921 it_H1931 in_H5921 blood_H1818, to_H0413 cut_H3772 off_H3772 from_H4480 it_H1931 man_H0120 and_H0776 animal_H0929— 
+@20 though_H0518 Noah_H5146, Daniel_H1840, and_H1121 Job_H0347, were_H1121 in_H8432 it_H0518, as_H5315 I_H0589 live_H2416,” says_H5002 the_H5002 Lord_H0136 Yahweh, “they_H1992 would_H5315 deliver_H5337 neither_H0518 son_H1121 nor_H0518 daughter_H1323; they_H1992 would_H5315 deliver_H5337 only_H0518 their_H1992 own_H5315 souls_H5315 by_H0518 their_H1992 righteousness_H6666.” 
 
-@21 For the Lord Yahweh says: “How much more when I send my four severe judgments on Jerusalem—the sword, the famine, the evil animals, and the pestilence—to cut off from it man and animal! 
-@22 Yet, behold, there will be left a remnant in it that will be carried out, both sons and daughters. Behold, they will come out to you, and you will see their way and their doings. Then you will be comforted concerning the evil that I have brought on Jerusalem, even concerning all that I have brought on it. 
-@23 They will comfort you, when you see their way and their doings; then you will know that I have not done all that I have done in it without cause,” says the Lord Yahweh. 
+@21 For_H3588 the_H0559 Lord_H0136 Yahweh says_H0559: “How_H0637 much_H0637 more_H4480 when_H3588 I_H3588 send_H7971 my_H7971 four_H0702 severe judgments_H8201 on_H0413 Jerusalem_H3389—the_H0559 sword_H2719, the_H0559 famine_H7458, the_H0559 evil_H7451 animals_H0929, and_H7971 the_H0559 pestilence_H1698—to_H0413 cut_H3772 off_H3772 from_H4480 it_H3588 man_H0120 and_H7971 animal_H0929! 
+@22 Yet_H5921, behold_H2009, there_H2009 will_H0834 be_H1121 left_H3498 a_H7200 remnant_H6413 in_H5921 it_H5921 that_H0834 will_H0834 be_H1121 carried_H0935 out_H3318, both_H3605 sons_H1121 and_H1121 daughters_H1323. Behold_H2009, they_H0834 will_H0834 come_H0935 out_H3318 to_H0413 you_H0834, and_H1121 you_H0834 will_H0834 see_H7200 their_H3605 way_H1870 and_H1121 their_H3605 doings. Then_H3318 you_H0834 will_H0834 be_H1121 comforted_H5162 concerning_H5921 the_H3605 evil_H7451 that_H0834 I_H0834 have_H0834 brought_H0935 on_H5921 Jerusalem_H3389, even_H0853 concerning_H5921 all_H3605 that_H0834 I_H0834 have_H0834 brought_H0935 on_H5921 it_H5921. 
+@23 They_H0834 will_H0834 comfort_H5162 you_H0834, when_H3588 you_H0834 see_H7200 their_H3605 way_H1870 and_H1870 their_H3605 doings; then_H0853 you_H0834 will_H0834 know_H3045 that_H0834 I_H0834 have_H0834 not_H3808 done_H6213 all_H3605 that_H0834 I_H0834 have_H0834 done_H6213 in_H1870 it_H3588 without_H3808 cause_H2600,” says_H5002 the_H3605 Lord_H0136 Yahweh. 
 
 # 15 
 ## Jerusalem, the useless wood of the vine
-@1 Yahweh’s word came to me, saying, 
-@2 “Son of man, what is the vine tree more than any tree, the vine branch which is among the trees of the forest? 
-@3 Will wood be taken of it to make anything? Will men take a pin of it to hang any vessel on it? 
-@4 Behold, it is cast into the fire for fuel; the fire has devoured both its ends, and the middle of it is burned. Is it profitable for any work? 
-@5 Behold, when it was whole, it was suitable for no work. How much less, when the fire has devoured it, and it has been burned, will it yet be suitable for any work?”
+@1 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 “Son_H1121 of_H1121 man_H0120, what_H4100 is_H0834 the_H3605 vine_H1612 tree_H6086 more than_H3605 any_H3605 tree_H6086, the_H3605 vine_H1612 branch_H6086 which_H0834 is_H0834 among the_H3605 trees_H6086 of_H1121 the_H3605 forest_H3293? 
+@3 Will_H0518 wood_H6086 be_H4480 taken_H3947 of_H3627 it_H0518 to_H5921 make_H6213 anything_H3605? Will_H0518 men_H3605 take_H3947 a_H3947 pin_H3489 of_H3627 it_H0518 to_H5921 hang_H8518 any_H3605 vessel_H3627 on_H5921 it_H0518? 
+@4 Behold_H2009, it_H5414 is_H2009 cast_H5414 into_H8432 the_H0853 fire_H0784 for_H5414 fuel_H0402; the_H0853 fire_H0784 has_H0784 devoured_H0398 both_H8147 its_H5414 ends_H7098, and_H0398 the_H0853 middle_H8432 of_H8432 it_H5414 is_H2009 burned_H2787. Is_H2009 it_H5414 profitable for_H5414 any_H5414 work_H4399? 
+@5 Behold_H2009, when_H3588 it_H3588 was_H1961 whole_H8549, it_H3588 was_H1961 suitable for_H3588 no_H3808 work_H4399. How_H0637 much_H0637 less_H0637, when_H3588 the_H3588 fire_H0784 has_H1961 devoured_H0398 it_H3588, and_H0398 it_H3588 has_H1961 been_H1961 burned_H2787, will_H1961 it_H3588 yet_H5750 be_H1961 suitable for_H3588 any_H5750 work_H4399?”
 
 ## Interpretation of the parable
-@6 Therefore the Lord Yahweh says: “As the vine wood among the trees of the forest, which I have given to the fire for fuel, so I will give the inhabitants of Jerusalem. 
-@7 I will set my face against them. They will go out from the fire, but the fire will still devour them. Then you will know that I am Yahweh, when I set my face against them. 
-@8 I will make the land desolate, because they have acted unfaithfully,” says the Lord Yahweh. 
+@6 Therefore_H3651 the_H0853 Lord_H0136 Yahweh says_H0559: “As_H0834 the_H0853 vine_H1612 wood_H6086 among_H3427 the_H0853 trees_H6086 of_H3427 the_H0853 forest_H3293, which_H0834 I_H0834 have_H0834 given_H5414 to_H0559 the_H0853 fire_H0784 for_H3427 fuel_H0402, so_H3651 I_H0834 will_H0834 give_H5414 the_H0853 inhabitants_H3427 of_H3427 Jerusalem_H3389. 
+@7 I_H0589 will_H3068 set_H7760 my_H5414 face_H6440 against_H6440 them_H5414. They_H3588 will_H3068 go_H3318 out_H3318 from_H3318 the_H0853 fire_H0784, but_H3588 the_H0853 fire_H0784 will_H3068 still devour_H0398 them_H5414. Then_H3318 you_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068, when_H3588 I_H0589 set_H7760 my_H5414 face_H6440 against_H6440 them_H5414. 
+@8 I_H5414 will_H0776 make_H5414 the_H0853 land_H0776 desolate_H8077, because_H3282 they_H3282 have_H0776 acted_H4603 unfaithfully_H4604,” says_H5002 the_H0853 Lord_H0136 Yahweh. 
 
 # 16 
 ## Jerusalem, the failed adopted son or the unfaithful wife
-@1 Again Yahweh’s word came to me, saying, 
-@2 “Son of man, cause Jerusalem to know her abominations; 
-@3 and say, ‘The Lord Yahweh says to Jerusalem: “Your origin and your birth is of the land of the Canaanite. An Amorite was your father, and your mother was a Hittite.
+@1 Again_H1961 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 “Son_H1121 of_H1121 man_H0120, cause Jerusalem_H3389 to_H3389 know_H3045 her_H3045 abominations_H8441; 
+@3 and_H0776 say_H0559, ‘The_H0559 Lord_H0136 Yahweh says_H0559 to_H0559 Jerusalem_H3389: “Your_H0559 origin_H4351 and_H0776 your_H0559 birth_H4138 is_H0776 of_H0776 the_H0559 land_H0776 of_H0776 the_H0559 Canaanite_H3669. An_H0559 Amorite_H0567 was_H0776 your_H0559 father_H0001, and_H0776 your_H0559 mother_H0517 was_H0776 a_H0776 Hittite_H2850.
 
 ## God's works of love for Israel from the beginning to the introduction in Canaan
-@4 As for your birth, in the day you were born your navel was not cut. You weren’t washed in water to cleanse you. You weren’t salted at all, nor wrapped in blankets at all. 
-@5 No eye pitied you, to do any of these things to you, to have compassion on you; but you were cast out in the open field, because you were abhorred in the day that you were born. 
+@4 As_H3117 for_H4325 your_H3808 birth_H3205, in_H7364 the_H0853 day_H3117 you_H3117 were_H3117 born_H3205 your_H3808 navel_H8270 was_H3117 not_H3808 cut_H3772. You_H3117 weren’t washed_H7364 in_H7364 water_H4325 to_H3205 cleanse you_H3117. You_H3117 weren’t salted at_H3117 all_H3117, nor_H3808 wrapped_H2853 in_H7364 blankets at_H3117 all_H3117. 
+@5 No_H3808 eye_H5869 pitied you_H6440, to_H0413 do_H6213 any_H0259 of_H3117 these_H0428 things_H0428 to_H0413 you_H6440, to_H0413 have_H5869 compassion_H2550 on_H5921 you_H6440; but_H3808 you_H6440 were_H0428 cast_H7993 out_H6440 in_H5921 the_H0853 open_H6440 field_H7704, because_H5921 you_H6440 were_H0428 abhorred_H1604 in_H5921 the_H0853 day_H3117 that_H3117 you_H6440 were_H0428 born_H3205. 
 
-@6 “‘“When I passed by you, and saw you wallowing in your blood, I said to you, ‘Though you are in your blood, live!’ Yes, I said to you, ‘Though you are in your blood, live!’ 
-@7 I caused you to multiply as that which grows in the field, and you increased and grew great, and you attained to excellent beauty. Your breasts were formed, and your hair grew; yet you were naked and bare. 
+@6 “‘“When_H7200 I_H7200 passed_H5674 by_H5921 you_H5921, and_H7200 saw_H7200 you_H5921 wallowing in_H5921 your_H5921 blood_H1818, I_H7200 said_H0559 to_H0559 you_H5921, ‘Though you_H5921 are_H1818 in_H5921 your_H5921 blood_H1818, live_H2421!’ Yes_H7200, I_H7200 said_H0559 to_H0559 you_H5921, ‘Though you_H5921 are_H1818 in_H5921 your_H5921 blood_H1818, live_H2421!’ 
+@7 I_H5414 caused_H5414 you_H0859 to_H0935 multiply_H7235 as_H0935 that_H5414 which grows_H1431 in_H0935 the_H0935 field_H7704, and_H0935 you_H0859 increased_H7235 and_H0935 grew_H1431 great_H1431, and_H0935 you_H0859 attained to_H0935 excellent beauty. Your_H5414 breasts_H7699 were formed_H3559, and_H0935 your_H5414 hair_H8181 grew_H1431; yet_H5414 you_H0859 were naked_H5903 and_H0935 bare_H6181. 
 
-@8 “‘“Now when I passed by you, and looked at you, behold, your time was the time of love; and I spread my garment over you and covered your nakedness. Yes, I pledged myself to you and entered into a covenant with you,” says the Lord Yahweh, “and you became mine. 
+@8 “‘“Now_H1961 when_H1961 I_H2009 passed_H5674 by_H5921 you_H5921, and_H0935 looked_H7200 at_H5921 you_H5921, behold_H2009, your_H5921 time_H6256 was_H1961 the_H5002 time_H6256 of_H5921 love_H1730; and_H0935 I_H2009 spread_H6566 my_H5921 garment_H3671 over_H5921 you_H5921 and_H0935 covered_H3680 your_H5921 nakedness_H6172. Yes_H2009, I_H2009 pledged myself to_H0935 you_H5921 and_H0935 entered_H0935 into_H0935 a_H1961 covenant_H1285 with_H0854 you_H5921,” says_H5002 the_H5002 Lord_H0136 Yahweh, “and_H0935 you_H5921 became_H1961 mine. 
 
-@9 “‘“Then I washed you with water. Yes, I thoroughly washed away your blood from you, and I anointed you with oil. 
-@10 I clothed you also with embroidered work and put leather sandals on you. I dressed you with fine linen and covered you with silk. 
-@11 I decked you with ornaments, put bracelets on your hands, and put a chain on your neck. 
-@12 I put a ring on your nose, earrings in your ears, and a beautiful crown on your head. 
-@13 Thus you were decked with gold and silver. Your clothing was of fine linen, silk, and embroidered work. You ate fine flour, honey, and oil. You were exceedingly beautiful, and you prospered to royal estate. 
-@14 Your renown went out among the nations for your beauty; for it was perfect, through my majesty which I had put on you,” says the Lord Yahweh.
+@9 “‘“Then I_H5921 washed_H7364 you_H5921 with_H5921 water_H4325. Yes, I_H5921 thoroughly washed_H7364 away_H7857 your_H5921 blood_H1818 from_H5921 you_H5921, and_H8081 I_H5921 anointed you_H5921 with_H5921 oil_H8081. 
+@10 I clothed_H3847 you_H3847 also with_H3847 embroidered_H7553 work_H7553 and_H8336 put_H3847 leather sandals_H5274 on_H3847 you_H3847. I dressed_H3847 you_H3847 with_H3847 fine_H8336 linen_H8336 and_H8336 covered_H3680 you_H3847 with_H3847 silk_H4897. 
+@11 I_H5414 decked you_H5414 with_H5921 ornaments_H5716, put_H5414 bracelets_H6781 on_H5921 your_H5414 hands_H3027, and_H3027 put_H5414 a_H5414 chain_H7242 on_H5921 your_H5414 neck_H1627. 
+@12 I_H5414 put_H5414 a_H5414 ring_H5141 on_H5921 your_H5414 nose_H0639, earrings_H5141 in_H5921 your_H5414 ears_H0241, and_H7218 a_H5414 beautiful_H8597 crown_H5850 on_H5921 your_H5414 head_H7218. 
+@13 Thus you_H0398 were decked with_H0398 gold_H2091 and_H3701 silver_H3701. Your_H0398 clothing was_H3966 of_H0398 fine_H5560 linen_H8336, silk_H4897, and_H3701 embroidered_H7553 work_H7553. You_H0398 ate_H0398 fine_H5560 flour_H5560, honey_H1706, and_H3701 oil_H8081. You_H0398 were exceedingly_H3966 beautiful_H3302, and_H3701 you_H0398 prospered to_H3701 royal_H4410 estate. 
+@14 Your_H5921 renown_H8034 went_H3318 out_H3318 among_H5921 the_H0834 nations_H1471 for_H3588 your_H5921 beauty_H3308; for_H3588 it_H7760 was_H8034 perfect_H3632, through_H5921 my_H7760 majesty_H1926 which_H0834 I_H0834 had_H0834 put_H7760 on_H5921 you_H0834,” says_H5002 the_H0834 Lord_H0136 Yahweh.
 
 ## Israel's ingratitude, religious and political debts
-@15 “‘“But you trusted in your beauty, and played the prostitute because of your renown, and poured out your prostitution on everyone who passed by. It was his. 
-@16 You took some of your garments, and made for yourselves high places decked with various colors, and played the prostitute on them. This shouldn’t happen, neither shall it be. 
-@17 You also took your beautiful jewels of my gold and of my silver, which I had given you, and made for yourself images of men, and played the prostitute with them. 
-@18 You took your embroidered garments, covered them, and set my oil and my incense before them. 
-@19 My bread also which I gave you, fine flour, oil, and honey, with which I fed you, you even set it before them for a pleasant aroma; and so it was,” says the Lord Yahweh. 
+@15 “‘“But_H1961 you_H3605 trusted_H0982 in_H5921 your_H3605 beauty_H3308, and_H0853 played_H2181 the_H3605 prostitute_H2181 because_H5921 of_H5921 your_H3605 renown_H8034, and_H0853 poured_H8210 out_H8210 your_H3605 prostitution on_H5921 everyone_H3605 who_H3605 passed_H5674 by_H5921. It_H5921 was_H8034 his_H3605. 
+@16 You_H5921 took_H3947 some of_H5921 your_H5921 garments_H0899, and_H0935 made_H6213 for_H5921 yourselves_H5921 high_H1116 places_H1116 decked with_H5921 various_H2921 colors_H2921, and_H0935 played_H2181 the_H5921 prostitute_H2181 on_H5921 them_H5921. This_H6213 shouldn’t happen_H1961, neither_H3808 shall_H3808 it_H5921 be_H1961. 
+@17 You_H0834 also_H6213 took_H3947 your_H5414 beautiful_H8597 jewels_H3627 of_H3627 my_H5414 gold_H2091 and_H3701 of_H3627 my_H5414 silver_H3701, which_H0834 I_H0834 had_H0834 given_H5414 you_H0834, and_H3701 made_H6213 for_H3627 yourself_H5414 images_H6754 of_H3627 men_H2145, and_H3701 played_H2181 the_H0834 prostitute_H2181 with_H3627 them_H5414. 
+@18 You_H5414 took_H3947 your_H5414 embroidered_H7553 garments_H0899, covered_H3680 them_H5414, and_H6440 set_H5414 my_H5414 oil_H8081 and_H6440 my_H5414 incense_H7004 before_H6440 them_H5414. 
+@19 My_H5414 bread_H3899 also_H0834 which_H0834 I_H0834 gave_H5414 you_H0834, fine_H5560 flour_H5560, oil_H8081, and_H0398 honey_H1706, with_H3899 which_H0834 I_H0834 fed_H0398 you_H0834, you_H0834 even set_H5414 it_H5414 before_H6440 them_H5414 for_H5414 a_H1961 pleasant aroma_H5207; and_H0398 so_H1961 it_H5414 was_H1961,” says_H5002 the_H6440 Lord_H0136 Yahweh. 
 
-@20 “‘“Moreover you have taken your sons and your daughters, whom you have borne to me, and you have sacrificed these to them to be devoured. Was your prostitution a small matter, 
-@21 that you have slain my children and delivered them up, in causing them to pass through the fire to them? 
-@22 In all your abominations and your prostitution you have not remembered the days of your youth, when you were naked and bare, and were wallowing in your blood. 
+@20 “‘“Moreover you_H0834 have_H0834 taken_H3947 your_H0834 sons_H1121 and_H1121 your_H0834 daughters_H1323, whom_H0834 you_H0834 have_H0834 borne_H3205 to_H3205 me_H3947, and_H1121 you_H0834 have_H0834 sacrificed_H2076 these_H0834 to_H3205 them_H0853 to_H3205 be_H1121 devoured_H0398. Was_H0834 your_H0834 prostitution a_H3947 small_H4592 matter_H4592, 
+@21 that_H1121 you_H5414 have_H1121 slain_H7819 my_H5414 children_H1121 and_H1121 delivered_H5414 them_H5414 up_H5414, in_H1121 causing them_H5414 to_H5414 pass_H5674 through_H5674 the_H0853 fire to_H5414 them_H5414? 
+@22 In_H3117 all_H3605 your_H3605 abominations_H8441 and_H3117 your_H3605 prostitution you_H3605 have_H1961 not_H3808 remembered_H2142 the_H3605 days_H3117 of_H3117 your_H3605 youth_H5271, when_H1961 you_H3605 were_H1961 naked_H5903 and_H3117 bare_H6181, and_H3117 were_H1961 wallowing in_H3117 your_H3605 blood_H1818. 
 
-@23 “‘“It has happened after all your wickedness—woe, woe to you!” says the Lord Yahweh— 
-@24 “that you have built for yourselves a vaulted place, and have made yourselves a lofty place in every street. 
-@25 You have built your lofty place at the head of every way, and have made your beauty an abomination, and have opened your feet to everyone who passed by, and multiplied your prostitution. 
-@26 You have also committed sexual immorality with the Egyptians, your neighbors, great of flesh; and have multiplied your prostitution, to provoke me to anger. 
-@27 See therefore, I have stretched out my hand over you, and have diminished your portion, and delivered you to the will of those who hate you, the daughters of the Philistines, who are ashamed of your lewd way. 
-@28 You have played the prostitute also with the Assyrians, because you were insatiable; yes, you have played the prostitute with them, and yet you weren’t satisfied. 
-@29 You have moreover multiplied your prostitution to the land of merchants, to Chaldea; and yet you weren’t satisfied with this. 
+@23 “‘“It_H1961 has_H1961 happened_H1961 after_H0310 all_H3605 your_H3605 wickedness_H7451—woe_H0188, woe_H0188 to_H1961 you_H3605!” says_H5002 the_H3605 Lord_H0136 Yahweh— 
+@24 “that_H3605 you_H3605 have_H3605 built_H1129 for_H3605 yourselves_H1129 a_H1129 vaulted place_H7413, and_H1129 have_H3605 made_H6213 yourselves_H1129 a_H1129 lofty place_H7413 in_H1129 every_H3605 street_H7339. 
+@25 You_H3605 have_H3605 built_H1129 your_H3605 lofty place_H7413 at_H0413 the_H3605 head_H7218 of_H7218 every_H3605 way_H1870, and_H7218 have_H3605 made_H3605 your_H3605 beauty_H3308 an_H1129 abomination, and_H7218 have_H3605 opened your_H3605 feet_H7272 to_H0413 everyone_H3605 who_H3605 passed_H5674 by_H0413, and_H7218 multiplied_H7235 your_H3605 prostitution. 
+@26 You_H0853 have_H1121 also_H0853 committed sexual immorality with_H0413 the_H0853 Egyptians_H4714, your_H0413 neighbors_H7934, great of_H1121 flesh_H1320; and_H1121 have_H1121 multiplied_H7235 your_H0413 prostitution, to_H0413 provoke_H3707 me_H0413 to_H0413 anger_H3707. 
+@27 See_H2009 therefore, I_H5414 have_H6430 stretched_H5186 out_H5186 my_H5414 hand_H3027 over_H5921 you_H5414, and_H3027 have_H6430 diminished_H1639 your_H5414 portion_H2706, and_H3027 delivered_H5414 you_H5414 to_H5921 the_H5921 will_H3027 of_H1323 those_H5921 who_H5315 hate_H8130 you_H5414, the_H5921 daughters_H1323 of_H1323 the_H5921 Philistines_H6430, who_H5315 are_H3027 ashamed_H3637 of_H1323 your_H5414 lewd_H2154 way_H1870. 
+@28 You_H3808 have_H1571 played_H2181 the_H0413 prostitute_H2181 also_H1571 with_H0413 the_H0413 Assyrians, because_H0413 you_H3808 were_H1121 insatiable; yes_H1571, you_H3808 have_H1571 played_H2181 the_H0413 prostitute_H2181 with_H0413 them_H0413, and_H1121 yet_H1571 you_H3808 weren’t satisfied_H7646. 
+@29 You_H0853 have_H1571 moreover_H1571 multiplied_H7235 your_H3808 prostitution to_H0413 the_H0853 land_H0776 of_H0776 merchants, to_H0413 Chaldea_H3778; and_H0776 yet_H1571 you_H0853 weren’t satisfied_H7646 with_H0413 this_H2063. 
 
-@30 “‘“How weak is your heart,” says the Lord Yahweh, “since you do all these things, the work of an impudent prostitute; 
-@31 in that you build your vaulted place at the head of every way, and make your lofty place in every street, and have not been as a prostitute, in that you scorn pay. 
+@30 “‘“How_H4100 weak_H3605 is_H4100 your_H3605 heart_H3826,” says_H5002 the_H3605 Lord_H0136 Yahweh, “since you_H3605 do_H6213 all_H3605 these_H0428 things_H0428, the_H3605 work_H4639 of_H0802 an impudent prostitute_H2181; 
+@31 in_H1870 that_H3605 you_H3605 build_H1129 your_H3605 vaulted place_H1961 at_H1961 the_H3605 head_H7218 of_H7218 every_H3605 way_H1870, and_H7218 make_H6213 your_H3605 lofty place_H1961 in_H1870 every_H3605 street_H1870, and_H7218 have_H1961 not_H3808 been_H1961 as_H1961 a_H1961 prostitute_H2181, in_H1870 that_H3605 you_H3605 scorn pay. 
 
-@32 “‘“Adulterous wife, who takes strangers instead of her husband! 
-@33 People give gifts to all prostitutes; but you give your gifts to all your lovers, and bribe them, that they may come to you on every side for your prostitution. 
-@34 You are different from other women in your prostitution, in that no one follows you to play the prostitute; and whereas you give hire, and no hire is given to you, therefore you are different.”’
+@32 “‘“Adulterous_H5003 wife_H0802, who_H0376 takes_H3947 strangers_H2114 instead_H8478 of_H0376 her_H3947 husband_H0376! 
+@33 People give_H5414 gifts_H5083 to_H0413 all_H3605 prostitutes_H2181; but_H0859 you_H0859 give_H5414 your_H3605 gifts_H5083 to_H0413 all_H3605 your_H3605 lovers_H0157, and_H0935 bribe_H7809 them_H0413, that_H3605 they_H0935 may_H5414 come_H0935 to_H0413 you_H0859 on_H0413 every_H3605 side_H5439 for_H0413 your_H3605 prostitution. 
+@34 You_H5414 are_H0802 different_H2016 from_H4480 other women_H0802 in_H0802 your_H5414 prostitution, in_H0802 that_H4480 no_H3808 one_H3808 follows_H0310 you_H5414 to_H1961 play_H2181 the_H5414 prostitute_H2181; and_H0802 whereas you_H5414 give_H5414 hire_H0868, and_H0802 no_H3808 hire_H0868 is_H1961 given_H5414 to_H1961 you_H5414, therefore_H1961 you_H5414 are_H0802 different_H2016.”’
 
 ## God's judgment on the adulteress and child murderer: precisely the peoples whose gods Israel served should destroy it
-@35 “Therefore, prostitute, hear Yahweh’s word: 
-@36 ‘The Lord Yahweh says, “Because your filthiness was poured out, and your nakedness uncovered through your prostitution with your lovers; and because of all the idols of your abominations, and for the blood of your children, that you gave to them; 
-@37 therefore see, I will gather all your lovers, with whom you have taken pleasure, and all those whom you have loved, with all those whom you have hated. I will even gather them against you on every side, and will uncover your nakedness to them, that they may see all your nakedness. 
-@38 I will judge you as women who break wedlock and shed blood are judged; and I will bring on you the blood of wrath and jealousy. 
-@39 I will also give you into their hand, and they will throw down your vaulted place, and break down your lofty places. They will strip you of your clothes and take your beautiful jewels. They will leave you naked and bare. 
-@40 They will also bring up a company against you, and they will stone you with stones, and thrust you through with their swords. 
-@41 They will burn your houses with fire, and execute judgments on you in the sight of many women. I will cause you to cease from playing the prostitute, and you will also give no hire any more. 
-@42 So I will cause my wrath toward you to rest, and my jealousy will depart from you. I will be quiet, and will not be angry any more. 
+@35 “Therefore_H3651, prostitute_H2181, hear_H8085 Yahweh’s_H3068 word_H1697: 
+@36 ‘The_H3605 Lord_H0136 Yahweh says_H0559, “Because_H5921 your_H3605 filthiness was_H0834 poured_H8210 out_H8210, and_H1121 your_H3605 nakedness_H6172 uncovered_H1540 through_H5921 your_H3605 prostitution with_H5921 your_H3605 lovers_H0157; and_H1121 because_H5921 of_H1121 all_H3605 the_H3605 idols_H1544 of_H1121 your_H3605 abominations_H8441, and_H1121 for_H5921 the_H3605 blood_H1818 of_H1121 your_H3605 children_H1121, that_H0834 you_H0834 gave_H5414 to_H0559 them_H5414; 
+@37 therefore_H3651 see_H7200, I_H0834 will_H0834 gather_H6908 all_H3605 your_H3605 lovers_H0157, with_H0413 whom_H0834 you_H0834 have_H0834 taken_H1540 pleasure_H7200, and_H7200 all_H3605 those_H3605 whom_H0834 you_H0834 have_H0834 loved_H0157, with_H0413 all_H3605 those_H3605 whom_H0834 you_H0834 have_H0834 hated_H8130. I_H0834 will_H0834 even_H3651 gather_H6908 them_H0413 against_H5921 you_H0834 on_H5921 every_H3605 side_H5439, and_H7200 will_H0834 uncover_H1540 your_H3605 nakedness_H6172 to_H0413 them_H0413, that_H0834 they_H0834 may_H0834 see_H7200 all_H3605 your_H3605 nakedness_H6172. 
+@38 I_H5414 will_H5414 judge_H8199 you_H5414 as_H5414 women who break wedlock and_H4941 shed_H8210 blood_H1818 are_H4941 judged_H8199; and_H4941 I_H5414 will_H5414 bring_H5414 on_H2534 you_H5414 the_H5414 blood_H1818 of_H1818 wrath_H2534 and_H4941 jealousy_H7068. 
+@39 I_H5414 will_H3027 also_H0853 give_H5414 you_H5414 into_H3027 their_H5414 hand_H3027, and_H3027 they_H3027 will_H3027 throw down_H5422 your_H5414 vaulted place_H5414, and_H3027 break_H2040 down_H5422 your_H5414 lofty places_H2040. They_H3027 will_H3027 strip_H6584 you_H5414 of_H3027 your_H5414 clothes_H0899 and_H3027 take_H3947 your_H5414 beautiful_H8597 jewels_H3627. They_H3027 will_H3027 leave_H3240 you_H5414 naked_H5903 and_H3027 bare_H6181. 
+@40 They_H5921 will_H2719 also_H0853 bring_H5927 up_H5927 a_H5927 company_H6951 against_H5921 you_H5921, and_H2719 they_H5921 will_H2719 stone_H0068 you_H5921 with_H5921 stones_H0068, and_H2719 thrust you_H5921 through_H5921 with_H5921 their_H5921 swords_H2719. 
+@41 They_H3808 will_H1571 burn_H8313 your_H5414 houses_H1004 with_H1004 fire_H0784, and_H1004 execute_H5414 judgments_H8201 on_H1004 you_H5414 in_H1004 the_H5414 sight_H5869 of_H1004 many_H7227 women_H0802. I_H5414 will_H1571 cause_H5414 you_H5414 to_H5414 cease_H7673 from_H5869 playing_H2181 the_H5414 prostitute_H2181, and_H1004 you_H5414 will_H1571 also_H1571 give_H5414 no_H3808 hire_H0868 any_H5750 more_H5750. 
+@42 So_H4480 I_H4480 will_H3808 cause my_H4480 wrath_H2534 toward_H4480 you_H5117 to_H4480 rest_H5117, and_H8252 my_H4480 jealousy_H7068 will_H3808 depart_H5493 from_H4480 you_H5117. I_H4480 will_H3808 be_H3808 quiet_H8252, and_H8252 will_H3808 not_H3808 be_H3808 angry_H3707 any_H4480 more_H4480. 
 
-@43 “‘“Because you have not remembered the days of your youth, but have raged against me in all these things; therefore, behold, I also will bring your way on your head,” says the Lord Yahweh: “and you shall not commit this lewdness with all your abominations.
+@43 “‘“Because_H5921 you_H0834 have_H0834 not_H3808 remembered_H2142 the_H3605 days_H3117 of_H3117 your_H3605 youth_H5271, but_H3808 have_H0834 raged against_H5921 me_H5414 in_H5921 all_H3605 these_H0428 things_H0428; therefore_H1571, behold_H3808, I_H0589 also_H1571 will_H0834 bring_H5414 your_H3605 way_H1870 on_H5921 your_H3605 head_H7218,” says_H5002 the_H3605 Lord_H0136 Yahweh: “and_H3117 you_H0834 shall_H3808 not_H3808 commit_H5414 this_H0428 lewdness_H2154 with_H5921 all_H3605 your_H3605 abominations_H8441.
 
 ## The guilt of Jerusalem is greater than the guilt of Samaria and Sodom and calls for the most severe punishment
-@44 “‘“Behold, everyone who uses proverbs will use this proverb against you, saying, ‘As is the mother, so is her daughter.’ 
-@45 You are the daughter of your mother, who loathes her husband and her children; and you are the sister of your sisters, who loathed their husbands and their children. Your mother was a Hittite, and your father an Amorite. 
-@46 Your elder sister is Samaria, who dwells at your left hand, she and her daughters; and your younger sister, who dwells at your right hand, is Sodom with her daughters. 
-@47 Yet you have not walked in their ways, nor done their abominations; but soon you were more corrupt than they in all your ways. 
-@48 As I live,” says the Lord Yahweh, “Sodom your sister has not done, she nor her daughters, as you have done, you and your daughters. 
+@44 “‘“Behold_H2009, everyone_H3605 who_H3605 uses proverbs will_H1323 use this_H2009 proverb against_H5921 you_H3605, saying_H0559, ‘As_H1323 is_H2009 the_H3605 mother_H0517, so_H5921 is_H2009 her_H3605 daughter_H1323.’ 
+@45 You_H0859 are_H0834 the_H0834 daughter_H1323 of_H1121 your_H0834 mother_H0517, who_H0834 loathes her_H1602 husband_H0376 and_H1121 her_H1602 children_H1121; and_H1121 you_H0859 are_H0834 the_H0834 sister_H0269 of_H1121 your_H0834 sisters_H0269, who_H0834 loathed_H1602 their_H0834 husbands_H0376 and_H1121 their_H0834 children_H1121. Your_H0834 mother_H0517 was_H0834 a_H0834 Hittite_H2850, and_H1121 your_H0834 father_H0001 an_H0376 Amorite_H0567. 
+@46 Your_H5921 elder_H1419 sister_H0269 is_H1931 Samaria_H8111, who_H1931 dwells_H3427 at_H3427 your_H5921 left_H8040 hand_H3225, she_H1931 and_H1419 her_H5921 daughters_H1323; and_H1419 your_H5921 younger_H6996 sister_H0269, who_H1931 dwells_H3427 at_H3427 your_H5921 right_H3225 hand_H3225, is_H1931 Sodom_H5467 with_H5921 her_H5921 daughters_H1323. 
+@47 Yet_H3808 you_H3605 have_H3605 not_H3808 walked_H1980 in_H1980 their_H3605 ways_H1870, nor_H3808 done_H6213 their_H3605 abominations_H8441; but_H3808 soon_H4592 you_H3605 were more_H3808 corrupt_H7843 than_H3808 they_H3808 in_H1980 all_H3605 your_H3605 ways_H1870. 
+@48 As_H0834 I_H0589 live_H2416,” says_H5002 the_H0834 Lord_H0136 Yahweh, “Sodom_H5467 your_H0834 sister_H0269 has_H0834 not_H0518 done_H6213, she_H1931 nor_H0518 her_H0518 daughters_H1323, as_H0834 you_H0859 have_H0834 done_H6213, you_H0859 and_H1323 your_H0834 daughters_H1323. 
 
-@49 “‘“Behold, this was the iniquity of your sister Sodom: pride, fullness of bread, and prosperous ease was in her and in her daughters. She also didn’t strengthen the hand of the poor and needy. 
-@50 They were arrogant and committed abomination before me. Therefore I took them away when I saw it. 
-@51 Samaria hasn’t committed half of your sins; but you have multiplied your abominations more than they, and have justified your sisters by all your abominations which you have done. 
-@52 You also bear your own shame yourself, in that you have given judgment for your sisters; through your sins that you have committed more abominable than they, they are more righteous than you. Yes, be also confounded, and bear your shame, in that you have justified your sisters.
+@49 “‘“Behold_H2009, this_H2088 was_H1961 the_H1961 iniquity_H5771 of_H1323 your_H1961 sister_H0269 Sodom_H5467: pride_H1347, fullness of_H1323 bread_H3899, and_H3027 prosperous ease_H7962 was_H1961 in_H3899 her_H1961 and_H3027 in_H3899 her_H1961 daughters_H1323. She_H3808 also_H2088 didn’t_H3808 strengthen_H2388 the_H1961 hand_H3027 of_H1323 the_H1961 poor_H6041 and_H3027 needy_H0034. 
+@50 They_H0834 were_H0834 arrogant and_H6440 committed_H6213 abomination_H8441 before_H6440 me_H6440. Therefore_H0834 I_H0834 took_H5493 them_H0853 away_H5493 when_H0834 I_H0834 saw_H7200 it_H7200. 
+@51 Samaria_H8111 hasn’t_H3808 committed_H2398 half_H2677 of_H3605 your_H3605 sins_H2398; but_H3808 you_H0834 have_H0834 multiplied_H7235 your_H3605 abominations_H8441 more_H3808 than_H3808 they_H0834, and_H8111 have_H0834 justified_H6663 your_H3605 sisters_H0269 by_H3605 all_H3605 your_H3605 abominations_H8441 which_H0834 you_H0834 have_H0834 done_H6213. 
+@52 You_H0859 also_H1571 bear_H5375 your_H0834 own shame_H0954 yourself_H0859, in_H1571 that_H0834 you_H0859 have_H0834 given judgment_H0834 for_H1571 your_H0834 sisters_H0269; through_H4480 your_H0834 sins_H2403 that_H0834 you_H0859 have_H0834 committed_H8581 more_H4480 abominable_H8581 than_H4480 they_H0834, they_H0834 are_H0834 more_H4480 righteous_H6663 than_H4480 you_H0859. Yes_H1571, be_H1571 also_H1571 confounded_H0954, and_H0954 bear_H5375 your_H0834 shame_H0954, in_H1571 that_H0834 you_H0859 have_H0834 justified_H6663 your_H0834 sisters_H0269.
 
 ## The gracious acceptance of Jerusalem in communion with Samaria and Sodom
-@53 “‘“I will reverse their captivity, the captivity of Sodom and her daughters, and the captivity of Samaria and her daughters, and the captivity of your captives among them; 
-@54 that you may bear your own shame, and may be ashamed because of all that you have done, in that you are a comfort to them. 
-@55 Your sisters, Sodom and her daughters, will return to their former estate; and Samaria and her daughters will return to their former estate; and you and your daughters will return to your former estate. 
-@56 For your sister Sodom was not mentioned by your mouth in the day of your pride, 
-@57 before your wickedness was uncovered, as at the time of the reproach of the daughters of Syria, and of all who are around her, the daughters of the Philistines, who despise you all around. 
-@58 You have borne your lewdness and your abominations,” says Yahweh.
+@53 “‘“I_H8111 will_H1323 reverse_H7725 their_H7725 captivity_H7622, the_H0853 captivity_H7622 of_H1323 Sodom_H5467 and_H7725 her_H7725 daughters_H1323, and_H7725 the_H0853 captivity_H7622 of_H1323 Samaria_H8111 and_H7725 her_H7725 daughters_H1323, and_H7725 the_H0853 captivity_H7622 of_H1323 your_H7725 captives_H7628 among_H8432 them_H0853; 
+@54 that_H0834 you_H0834 may_H0834 bear_H5375 your_H3605 own shame_H3639, and_H3605 may_H0834 be_H5375 ashamed_H3637 because_H0834 of_H3605 all_H3605 that_H0834 you_H0834 have_H0834 done_H6213, in_H5162 that_H0834 you_H0834 are_H0834 a_H5375 comfort_H5162 to_H4616 them_H5375. 
+@55 Your_H7725 sisters_H0269, Sodom_H5467 and_H7725 her_H7725 daughters_H1323, will_H1323 return_H7725 to_H7725 their_H7725 former_H6927 estate; and_H7725 Samaria_H8111 and_H7725 her_H7725 daughters_H1323 will_H1323 return_H7725 to_H7725 their_H7725 former_H6927 estate; and_H7725 you_H0859 and_H7725 your_H7725 daughters_H1323 will_H1323 return_H7725 to_H7725 your_H7725 former_H6927 estate. 
+@56 For_H3117 your_H3808 sister_H0269 Sodom_H5467 was_H1961 not_H3808 mentioned by_H3117 your_H3808 mouth_H6310 in_H3117 the_H3117 day_H3117 of_H3117 your_H3808 pride_H1347, 
+@57 before_H2962 your_H3605 wickedness_H7451 was_H6430 uncovered_H1540, as_H3644 at_H0758 the_H3605 time_H6256 of_H1323 the_H3605 reproach_H2781 of_H1323 the_H3605 daughters_H1323 of_H1323 Syria_H0758, and_H6430 of_H1323 all_H3605 who_H3605 are_H0758 around_H5439 her_H3605, the_H3605 daughters_H1323 of_H1323 the_H3605 Philistines_H6430, who_H3605 despise you_H3605 all_H3605 around_H5439. 
+@58 You_H0859 have_H0859 borne_H5375 your_H3068 lewdness_H2154 and_H3068 your_H3068 abominations_H8441,” says_H5002 Yahweh_H3068.
 
 ## Comfortable perspective towards the future
-@59 “‘For the Lord Yahweh says: “I will also deal with you as you have done, who have despised the oath in breaking the covenant. 
-@60 Nevertheless I will remember my covenant with you in the days of your youth, and I will establish an everlasting covenant with you. 
-@61 Then you will remember your ways and be ashamed when you receive your sisters, your elder sisters and your younger; and I will give them to you for daughters, but not by your covenant. 
-@62 I will establish my covenant with you. Then you will know that I am Yahweh; 
-@63 that you may remember, and be confounded, and never open your mouth any more because of your shame, when I have forgiven you all that you have done,” says the Lord Yahweh.’” 
+@59 “‘For_H3588 the_H0559 Lord_H0136 Yahweh says_H0559: “I_H0834 will_H0834 also_H3541 deal_H6213 with_H0854 you_H0834 as_H0834 you_H0834 have_H0834 done_H6213, who_H0834 have_H0834 despised_H0959 the_H0559 oath_H0423 in_H0559 breaking the_H0559 covenant_H1285. 
+@60 Nevertheless I_H0589 will_H0589 remember_H2142 my_H6965 covenant_H1285 with_H0854 you_H3117 in_H3117 the_H0853 days_H3117 of_H3117 your_H2142 youth_H5271, and_H6965 I_H0589 will_H0589 establish_H6965 an_H6965 everlasting_H5769 covenant_H1285 with_H0854 you_H3117. 
+@61 Then_H3947 you_H5414 will_H5414 remember_H2142 your_H5414 ways_H1870 and_H1419 be_H3808 ashamed_H3637 when_H4480 you_H5414 receive_H3947 your_H5414 sisters_H0269, your_H5414 elder_H1419 sisters_H0269 and_H1419 your_H5414 younger_H6996; and_H1419 I_H5414 will_H5414 give_H5414 them_H0413 to_H0413 you_H5414 for_H0413 daughters_H1323, but_H3808 not_H3808 by_H0413 your_H5414 covenant_H1285. 
+@62 I_H0589 will_H3068 establish_H6965 my_H3068 covenant_H1285 with_H0854 you_H3588. Then_H6965 you_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068; 
+@63 that_H0834 you_H0834 may_H1961 remember_H2142, and_H6440 be_H1961 confounded_H0954, and_H6440 never_H3808 open_H6440 your_H3605 mouth_H6310 any_H3605 more_H5750 because_H0834 of_H6440 your_H3605 shame_H0954, when_H1961 I_H0834 have_H1961 forgiven you_H0834 all_H3605 that_H0834 you_H0834 have_H1961 done_H6213,” says_H5002 the_H3605 Lord_H0136 Yahweh.’” 
 
 # 17 
 ## Parable of the great eagle and the unfaithful vine and application to Zedekiah; Restoration of Davidic kingship
-@1 Yahweh’s word came to me, saying, 
-@2 “Son of man, tell a riddle, and speak a parable to the house of Israel; 
-@3 and say, ‘The Lord Yahweh says: “A great eagle with great wings and long feathers, full of feathers which had various colors, came to Lebanon and took the top of the cedar. 
-@4 He cropped off the topmost of its young twigs, and carried it to a land of traffic. He planted it in a city of merchants. 
+@1 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 “Son_H1121 of_H1121 man_H0120, tell_H0413 a_H3478 riddle_H2420, and_H1121 speak a_H3478 parable_H4912 to_H0413 the_H0413 house_H1004 of_H1121 Israel_H3478; 
+@3 and_H0935 say_H0559, ‘The_H0853 Lord_H0136 Yahweh says_H0559: “A_H3947 great_H1419 eagle_H5404 with_H0413 great_H1419 wings_H3671 and_H0935 long_H0750 feathers_H5133, full_H4392 of_H4392 feathers_H5133 which_H0834 had_H0834 various_H7553 colors_H7553, came_H0935 to_H0413 Lebanon_H3844 and_H0935 took_H3947 the_H0853 top_H6788 of_H4392 the_H0853 cedar_H0730. 
+@4 He_H0853 cropped off_H0853 the_H0853 topmost_H7218 of_H0776 its_H0853 young_H3242 twigs_H3242, and_H0935 carried_H0935 it_H7760 to_H0413 a_H7760 land_H0776 of_H0776 traffic. He_H0853 planted it_H7760 in_H0935 a_H7760 city_H5892 of_H0776 merchants_H7402. 
 
-@5 “‘“He also took some of the seed of the land and planted it in fruitful soil. He placed it beside many waters. He set it as a willow tree. 
-@6 It grew and became a spreading vine of low stature, whose branches turned toward him, and its roots were under him. So it became a vine, produced branches, and shot out sprigs. 
+@5 “‘“He_H5414 also took_H3947 some_H7227 of_H0776 the_H5921 seed_H2233 of_H0776 the_H5921 land_H0776 and_H0776 planted_H5414 it_H5414 in_H5921 fruitful soil_H7704. He_H5414 placed_H5414 it_H5414 beside_H5921 many_H7227 waters_H4325. He_H5414 set_H7760 it_H5414 as_H0776 a_H3947 willow_H6851 tree. 
+@6 It_H1961 grew and_H7971 became_H1961 a_H1961 spreading_H5628 vine_H1612 of_H8478 low_H8217 stature_H6967, whose branches_H1808 turned_H6437 toward_H0413 him_H0413, and_H7971 its_H8478 roots_H8328 were_H1961 under_H8478 him_H0413. So_H6213 it_H1961 became_H1961 a_H1961 vine_H1612, produced_H6213 branches_H1808, and_H7971 shot_H7971 out_H7971 sprigs. 
 
-@7 “‘“There was also another great eagle with great wings and many feathers. Behold, this vine bent its roots toward him, and shot out its branches toward him, from the ground where it was planted, that he might water it. 
-@8 It was planted in a good soil by many waters, that it might produce branches and that it might bear fruit, that it might be a good vine.”’ 
+@7 “‘“There_H2009 was_H1961 also_H0853 another_H0259 great_H1419 eagle_H5404 with_H5921 great_H1419 wings_H3671 and_H7971 many_H7227 feathers_H5133. Behold_H2009, this_H2063 vine_H1612 bent_H3719 its_H0853 roots_H8328 toward_H5921 him_H5921, and_H7971 shot_H7971 out_H7971 its_H0853 branches_H1808 toward_H5921 him_H5921, from_H5921 the_H0853 ground where_H2009 it_H5921 was_H1961 planted_H4302, that_H1961 he_H0853 might water_H8248 it_H5921. 
+@8 It_H1931 was_H1961 planted_H8362 in_H0413 a_H1961 good_H2896 soil_H7704 by_H0413 many_H7227 waters_H4325, that_H1931 it_H1931 might produce_H6529 branches_H6057 and_H4325 that_H1931 it_H1931 might bear_H5375 fruit_H6529, that_H1931 it_H1931 might be_H1961 a_H1961 good_H2896 vine_H1612.”’ 
 
-@9 “Say, ‘The Lord Yahweh says: “Will it prosper? Won’t he pull up its roots and cut off its fruit, that it may wither, that all its fresh springing leaves may wither? It can’t be raised from its roots by a strong arm or many people. 
-@10 Yes, behold, being planted, will it prosper? Won’t it utterly wither when the east wind touches it? It will wither in the ground where it grew.”’”
+@9 “Say_H0559, ‘The_H3605 Lord_H0136 Yahweh says_H0559: “Will_H3808 it_H5375 prosper_H6743? Won’t_H3808 he_H3808 pull_H5423 up_H5375 its_H3605 roots_H8328 and_H1419 cut_H7082 off_H5423 its_H3605 fruit_H6529, that_H3605 it_H5375 may_H3541 wither_H3001, that_H3605 all_H3605 its_H3605 fresh springing leaves_H2964 may_H3541 wither_H3001? It_H5375 can’t_H3808 be_H3808 raised_H5375 from_H5375 its_H3605 roots_H8328 by_H3605 a_H5375 strong_H1419 arm_H2220 or_H3808 many_H7227 people_H5971. 
+@10 Yes_H2009, behold_H2009, being planted_H8362, will_H7307 it_H5921 prosper_H6743? Won’t_H3808 it_H5921 utterly wither_H3001 when_H5060 the_H5921 east_H6921 wind_H7307 touches_H5060 it_H5921? It_H5921 will_H7307 wither_H3001 in_H5921 the_H5921 ground where_H2009 it_H5921 grew_H6780.”’”
 
 ## Application of the riddle (or parable) to the unfaithful behavior of King Zedekiah
-@11 Moreover Yahweh’s word came to me, saying, 
-@12 “Say now to the rebellious house, ‘Don’t you know what these things mean?’ Tell them, ‘Behold, the king of Babylon came to Jerusalem, and took its king, and its princes, and brought them to him to Babylon. 
-@13 He took one of the royal offspring,^a^ and made a covenant with him. He also brought him under an oath, and took away the mighty of the land, 
-@14 that the kingdom might be brought low, that it might not lift itself up, but that by keeping his covenant it might stand. 
-@15 But he rebelled against him in sending his ambassadors into Egypt, that they might give him horses and many people. Will he prosper? Will he who does such things escape? Will he break the covenant, and still escape? 
+@11 Moreover_H1961 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@12 “Say_H0559 now_H4994 to_H0413 the_H0853 rebellious_H4805 house_H1004, ‘Don’t_H3808 you_H3045 know_H3045 what_H4100 these_H0428 things_H0428 mean?’ Tell_H0559 them_H0413, ‘Behold_H2009, the_H0853 king_H4428 of_H4428 Babylon_H0894 came_H0935 to_H0413 Jerusalem_H3389, and_H0935 took_H3947 its_H0853 king_H4428, and_H0935 its_H0853 princes_H8269, and_H0935 brought_H0935 them_H0413 to_H0413 him_H0413 to_H0413 Babylon_H0894. 
+@13 He_H0853 took_H3947 one_H2233 of_H0776 the_H0853 royal_H4410 offspring_H2233,^a^ and_H0935 made_H3772 a_H3947 covenant_H1285 with_H0854 him_H0853. He_H0853 also_H0853 brought_H0935 him_H0853 under_H0935 an_H0935 oath_H0423, and_H0935 took_H3947 away_H3947 the_H0853 mighty of_H0776 the_H0853 land_H0776, 
+@14 that_H1961 the_H0853 kingdom_H4467 might_H4467 be_H1961 brought_H5375 low_H8217, that_H1961 it_H5375 might_H4467 not_H1115 lift_H5375 itself up_H5375, but_H1961 that_H1961 by_H1961 keeping_H8104 his_H8104 covenant_H1285 it_H5375 might_H4467 stand_H5975. 
+@15 But_H7227 he_H6213 rebelled_H4775 against_H4714 him_H5414 in_H5414 sending_H7971 his_H5414 ambassadors_H4397 into_H4714 Egypt_H4714, that_H5414 they_H5971 might give_H5414 him_H5414 horses_H5483 and_H7971 many_H7227 people_H5971. Will_H4714 he_H6213 prosper_H6743? Will_H4714 he_H6213 who_H0428 does_H6213 such_H0428 things_H0428 escape_H4422? Will_H4714 he_H6213 break_H6565 the_H5414 covenant_H1285, and_H7971 still escape_H4422? 
 ^a^[**17:13** or, seed]
 
-@16 “‘As I live,’ says the Lord Yahweh, ‘surely in the place where the king dwells who made him king, whose oath he despised, and whose covenant he broke, even with him in the middle of Babylon he will die. 
-@17 Pharaoh with his mighty army and great company won’t help him in the war, when they cast up mounds and build forts to cut off many persons. 
-@18 For he has despised the oath by breaking the covenant; and behold, he had given his hand, and yet has done all these things. He won’t escape. 
+@16 “‘As_H0834 I_H0589 live_H2416,’ says_H5002 the_H0853 Lord_H0136 Yahweh, ‘surely_H4191 in_H4428 the_H0853 place_H4725 where_H0834 the_H0853 king_H4428 dwells who_H0834 made_H0834 him_H0853 king_H4428, whose_H0834 oath_H0423 he_H0834 despised_H0959, and_H4428 whose_H0834 covenant_H1285 he_H0834 broke, even_H3808 with_H0854 him_H0853 in_H4428 the_H0853 middle_H8432 of_H4428 Babylon_H0894 he_H0834 will_H0834 die_H4191. 
+@17 Pharaoh_H6547 with_H3772 his_H3808 mighty_H1419 army_H2428 and_H1419 great_H1419 company_H6951 won’t_H3808 help_H4421 him_H0853 in_H5315 the_H0853 war_H4421, when_H6213 they_H3808 cast_H8210 up_H1129 mounds and_H1419 build_H1129 forts to_H5315 cut_H3772 off_H3772 many_H7227 persons_H5315. 
+@18 For_H3027 he_H6213 has_H3027 despised_H0959 the_H3605 oath_H0423 by_H3027 breaking the_H3605 covenant_H1285; and_H3027 behold_H2009, he_H6213 had_H5414 given_H5414 his_H3605 hand_H3027, and_H3027 yet_H5414 has_H3027 done_H6213 all_H3605 these_H0428 things_H0428. He_H6213 won’t_H3808 escape_H4422. 
 
-@19 “Therefore the Lord Yahweh says: ‘As I live, I will surely bring on his own head my oath that he has despised and my covenant that he has broken. 
-@20 I will spread my net on him, and he will be taken in my snare. I will bring him to Babylon, and will enter into judgment with him there for his trespass that he has trespassed against me. 
-@21 All his fugitives in all his bands will fall by the sword, and those who remain will be scattered toward every wind. Then you will know that I, Yahweh, have spoken it.’
+@19 “Therefore_H3651 the_H0559 Lord_H0136 Yahweh says_H0559: ‘As_H0834 I_H0589 live_H2416, I_H0589 will_H0834 surely_H0518 bring_H5414 on_H3069 his_H5414 own head_H7218 my_H5414 oath_H0423 that_H0834 he_H0834 has_H0834 despised_H0959 and_H7218 my_H5414 covenant_H1285 that_H0834 he_H0834 has_H0834 broken. 
+@20 I_H0834 will_H0834 spread_H6566 my_H5921 net_H7568 on_H5921 him_H5921, and_H0935 he_H0834 will_H0834 be_H8610 taken_H8610 in_H5921 my_H5921 snare. I_H0834 will_H0834 bring_H0935 him_H5921 to_H0935 Babylon_H0894, and_H0935 will_H0834 enter_H0935 into_H0935 judgment_H8199 with_H0854 him_H5921 there_H8033 for_H5921 his_H5921 trespass_H4604 that_H0834 he_H0834 has_H0834 trespassed against_H5921 me_H5921. 
+@21 All_H3605 his_H3605 fugitives in_H3068 all_H3605 his_H3605 bands will_H3068 fall_H5307 by_H3068 the_H3605 sword_H2719, and_H3068 those_H3605 who_H3605 remain_H7604 will_H3068 be_H3068 scattered_H6566 toward_H6566 every_H3605 wind_H7307. Then_H1696 you_H3588 will_H3068 know_H3045 that_H3588 I_H0589, Yahweh_H3068, have_H3045 spoken_H1696 it_H3588.’
 
 ## Promise of a blessed ruler of the house of David
-@22 “The Lord Yahweh says: ‘I will also take some of the lofty top of the cedar, and will plant it. I will crop off from the topmost of its young twigs a tender one, and I will plant it on a high and lofty mountain. 
-@23 I will plant it in the mountain of the height of Israel; and it will produce boughs, and bear fruit, and be a good cedar. Birds of every kind will dwell in the shade of its branches. 
-@24 All the trees of the field will know that I, Yahweh, have brought down the high tree, have exalted the low tree, have dried up the green tree, and have made the dry tree flourish. 
+@22 “The_H0559 Lord_H0136 Yahweh says_H0559: ‘I_H0589 will_H5414 also_H3541 take_H3947 some of_H2022 the_H0559 lofty_H7311 top_H7218 of_H2022 the_H0559 cedar_H0730, and_H7218 will_H5414 plant_H8362 it_H5414. I_H0589 will_H5414 crop off_H5921 from_H5921 the_H0559 topmost_H7218 of_H2022 its_H5414 young_H3127 twigs_H3127 a_H3947 tender_H7390 one_H7311, and_H7218 I_H0589 will_H5414 plant_H8362 it_H5414 on_H5921 a_H3947 high_H1364 and_H7218 lofty_H7311 mountain_H2022. 
+@23 I_H3478 will_H1961 plant_H8362 it_H1961 in_H3478 the_H3605 mountain_H2022 of_H2022 the_H3605 height_H4791 of_H2022 Israel_H3478; and_H3478 it_H1961 will_H1961 produce_H6529 boughs_H6057, and_H3478 bear_H5375 fruit_H6529, and_H3478 be_H1961 a_H1961 good cedar_H0730. Birds_H6833 of_H2022 every_H3605 kind_H3671 will_H1961 dwell_H7931 in_H3478 the_H3605 shade_H6738 of_H2022 its_H3605 branches_H1808. 
+@24 All_H3605 the_H3605 trees_H6086 of_H3068 the_H3605 field_H7704 will_H3068 know_H3045 that_H3588 I_H0589, Yahweh_H3068, have_H3045 brought_H6213 down_H8213 the_H3605 high_H1364 tree_H6086, have_H3045 exalted_H1361 the_H3605 low_H8213 tree_H6086, have_H3045 dried_H3001 up_H3001 the_H3605 green_H3892 tree_H6086, and_H3068 have_H3045 made_H6213 the_H3605 dry_H3001 tree_H6086 flourish. 
 
-“‘I, Yahweh, have spoken and have done it.’” 
+“‘I_H0589, Yahweh_H3068, have_H3045 spoken_H1696 and_H3068 have_H3045 done_H6213 it_H3588.’” 
 
 # 18 
 ## Principles Governing God's Retributive Justice
-@1 Yahweh’s word came to me again, saying, 
-@2 “What do you mean, that you use this proverb concerning the land of Israel, saying, ‘The fathers have eaten sour grapes, and the children’s teeth are set on edge’? 
+@1 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413 again_H1961, saying_H0559, 
+@2 “What_H4100 do_H4100 you_H0859 mean, that_H2088 you_H0859 use_H0398 this_H2088 proverb_H4912 concerning_H5921 the_H0853 land_H0127 of_H1121 Israel_H3478, saying_H0559, ‘The_H0853 fathers_H0001 have_H0001 eaten_H0398 sour_H1155 grapes_H1155, and_H1121 the_H0853 children’s_H1121 teeth_H8127 are_H4100 set on_H5921 edge’? 
 
-@3 “As I live,” says the Lord Yahweh, “you shall not use this proverb any more in Israel. 
-@4 Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine. The soul who sins, he shall die.
+@3 “As_H1961 I_H0589 live_H2416,” says_H5002 the_H5002 Lord_H0136 Yahweh, “you_H0518 shall_H3478 not_H2088 use_H1961 this_H2088 proverb_H4912 any_H5750 more_H5750 in_H3478 Israel_H3478. 
+@4 Behold_H2005, all_H3605 souls_H5315 are_H1121 mine; as_H5315 the_H3605 soul_H5315 of_H1121 the_H3605 father_H0001, so_H4191 also the_H3605 soul_H5315 of_H1121 the_H3605 son_H1121 is_H1931 mine. The_H3605 soul_H5315 who_H3605 sins_H2398, he_H1931 shall_H1121 die_H4191.
 
 ## God judges everyone based on their personal actions
-@5 “But if a man is just, and does that which is lawful and right, 
-@6 and has not eaten on the mountains, hasn’t lifted up his eyes to the idols of the house of Israel, hasn’t defiled his neighbor’s wife, hasn’t come near a woman in her impurity, 
-@7 and has not wronged any, but has restored to the debtor his pledge, has taken nothing by robbery, has given his bread to the hungry, and has covered the naked with a garment; 
-@8 he who hasn’t lent to them with interest, hasn’t taken any increase from them, who has withdrawn his hand from iniquity, has executed true justice between man and man, 
-@9 has walked in my statutes, and has kept my ordinances, to deal truly; he is just, he shall surely live,” says the Lord Yahweh.
+@5 “But_H3588 if_H3588 a_H1961 man_H0376 is_H0376 just_H4941, and_H4941 does_H6213 that_H3588 which is_H0376 lawful and_H4941 right_H4941, 
+@6 and_H3478 has_H3478 not_H3808 eaten_H0398 on_H0413 the_H0853 mountains_H2022, hasn’t_H3808 lifted_H5375 up_H5375 his_H5375 eyes_H5869 to_H0413 the_H0853 idols_H1544 of_H1004 the_H0853 house_H1004 of_H1004 Israel_H3478, hasn’t_H3808 defiled_H2930 his_H5375 neighbor’s_H7453 wife_H0802, hasn’t_H3808 come_H7126 near_H7126 a_H5375 woman_H0802 in_H0413 her_H0413 impurity_H5079, 
+@7 and_H7725 has_H0376 not_H3808 wronged_H3238 any_H0376, but_H3808 has_H0376 restored_H7725 to_H7725 the_H5414 debtor_H2326 his_H5414 pledge_H2258, has_H0376 taken_H1497 nothing_H3808 by_H3808 robbery_H1500, has_H0376 given_H5414 his_H5414 bread_H3899 to_H7725 the_H5414 hungry_H7457, and_H7725 has_H0376 covered_H3680 the_H5414 naked_H5903 with_H0376 a_H5414 garment_H0899; 
+@8 he_H6213 who_H0376 hasn’t_H3808 lent to_H7725 them_H5414 with_H0376 interest_H5392, hasn’t_H3808 taken_H3947 any_H0376 increase_H8636 from_H7725 them_H5414, who_H0376 has_H0376 withdrawn his_H5414 hand_H3027 from_H7725 iniquity_H5766, has_H0376 executed true_H0571 justice_H4941 between_H0996 man_H0376 and_H3027 man_H0376, 
+@9 has_H0136 walked_H1980 in_H1980 my_H8104 statutes_H2708, and_H1980 has_H0136 kept_H8104 my_H8104 ordinances_H4941, to_H1980 deal_H6213 truly_H0571; he_H1931 is_H1931 just_H4941, he_H1931 shall_H1931 surely_H1980 live_H2421,” says_H5002 the_H5002 Lord_H0136 Yahweh.
 
 ## The godless son of a godly father is about to die
-@10 “If he fathers a son who is a robber who sheds blood, and who does any one of these things, 
-@11 or who does not do any of those things but has eaten at the mountain shrines and defiled his neighbor’s wife, 
-@12 has wronged the poor and needy, has taken by robbery, has not restored the pledge, and has lifted up his eyes to the idols, has committed abomination, 
-@13 has lent with interest, and has taken increase from the poor, shall he then live? He shall not live. He has done all these abominations. He shall surely die. His blood will be on him.
+@10 “If_H1121 he_H6213 fathers_H3205 a_H3205 son_H1121 who_H1121 is_H1121 a_H3205 robber who_H1121 sheds_H8210 blood_H1818, and_H1121 who_H1121 does_H6213 any_H0259 one_H0259 of_H1121 these_H0428 things_H0428, 
+@11 or_H3808 who_H3605 does_H6213 not_H3808 do_H6213 any_H3605 of_H2022 those_H0428 things_H0428 but_H3588 has_H1571 eaten_H0398 at_H0413 the_H3605 mountain_H2022 shrines and_H0398 defiled_H2930 his_H3605 neighbor’s_H7453 wife_H0802, 
+@12 has_H5869 wronged_H3238 the_H0413 poor_H6041 and_H7725 needy_H0034, has_H5869 taken_H5375 by_H0413 robbery_H1500, has_H5869 not_H3808 restored_H7725 the_H0413 pledge_H2258, and_H7725 has_H5869 lifted_H5375 up_H5375 his_H5375 eyes_H5869 to_H0413 the_H0413 idols_H1544, has_H5869 committed_H6213 abomination_H8441, 
+@13 has_H1961 lent with_H3605 interest_H5392, and_H1818 has_H1961 taken_H3947 increase_H8636 from_H3947 the_H3605 poor, shall_H3808 he_H6213 then_H1961 live_H2421? He_H6213 shall_H3808 not_H3808 live_H2421. He_H6213 has_H1961 done_H6213 all_H3605 these_H0428 abominations_H8441. He_H6213 shall_H3808 surely_H4191 die_H4191. His_H3605 blood_H1818 will_H1961 be_H1961 on_H1961 him_H5414.
 
 ## The godly son of a godless father must live
-@14 “Now, behold, if he fathers a son who sees all his father’s sins which he has done, and fears, and doesn’t do likewise, 
-@15 who hasn’t eaten on the mountains, hasn’t lifted up his eyes to the idols of the house of Israel, hasn’t defiled his neighbor’s wife, 
-@16 hasn’t wronged any, hasn’t taken anything to pledge, hasn’t taken by robbery, but has given his bread to the hungry, and has covered the naked with a garment; 
-@17 who has withdrawn his hand from the poor, who hasn’t received interest or increase, has executed my ordinances, has walked in my statutes; he shall not die for the iniquity of his father. He shall surely live. 
-@18 As for his father, because he cruelly oppressed, robbed his brother, and did that which is not good among his people, behold, he will die in his iniquity. 
+@14 “Now_H2009, behold_H2009, if_H2009 he_H0834 fathers_H0001 a_H3205 son_H1121 who_H0834 sees_H7200 all_H3605 his_H3605 father’s_H0001 sins_H2403 which_H0834 he_H0834 has_H0834 done_H6213, and_H1121 fears, and_H1121 doesn’t_H3808 do_H6213 likewise_H2004, 
+@15 who_H3478 hasn’t_H3808 eaten_H0398 on_H5921 the_H0853 mountains_H2022, hasn’t_H3808 lifted_H5375 up_H5375 his_H5921 eyes_H5869 to_H0413 the_H0853 idols_H1544 of_H1004 the_H0853 house_H1004 of_H1004 Israel_H3478, hasn’t_H3808 defiled_H2930 his_H5921 neighbor’s_H7453 wife_H0802, 
+@16 hasn’t_H3808 wronged_H3238 any_H0376, hasn’t_H3808 taken_H1497 anything_H3899 to_H5414 pledge_H2258, hasn’t_H3808 taken_H1497 by_H3808 robbery_H1500, but_H3808 has_H0376 given_H5414 his_H5414 bread_H3899 to_H5414 the_H5414 hungry_H7457, and_H0376 has_H0376 covered_H3680 the_H5414 naked_H5903 with_H0376 a_H5414 garment_H0899; 
+@17 who_H1931 has_H0001 withdrawn his_H3947 hand_H3027 from_H7725 the_H3947 poor_H6041, who_H1931 hasn’t_H3808 received_H3947 interest_H5392 or_H3808 increase_H8636, has_H0001 executed_H4191 my_H3947 ordinances_H4941, has_H0001 walked_H1980 in_H1980 my_H3947 statutes_H2708; he_H1931 shall_H3808 not_H3808 die_H4191 for_H3027 the_H3947 iniquity_H5771 of_H3027 his_H3947 father_H0001. He_H1931 shall_H3808 surely_H4191 live_H2421. 
+@18 As_H0834 for_H3588 his_H0834 father_H0001, because_H3588 he_H0834 cruelly oppressed_H6231, robbed_H1497 his_H0834 brother_H0251, and_H0001 did_H6213 that_H0834 which_H0834 is_H0834 not_H3808 good_H2896 among_H8432 his_H0834 people_H5971, behold_H2009, he_H0834 will_H0834 die_H4191 in_H4191 his_H0834 iniquity_H5771. 
 
-@19 “Yet you say, ‘Why doesn’t the son bear the iniquity of the father?’ When the son has done that which is lawful and right, and has kept all my statutes, and has done them, he will surely live. 
-@20 The soul who sins, he shall die. The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son. The righteousness of the righteous shall be on him, and the wickedness of the wicked shall be on him.
+@19 “Yet_H3808 you_H3605 say_H0559, ‘Why_H4069 doesn’t_H3808 the_H3605 son_H1121 bear_H5375 the_H3605 iniquity_H5771 of_H1121 the_H3605 father_H0001?’ When_H2421 the_H3605 son_H1121 has_H0001 done_H6213 that_H3605 which_H2708 is_H3605 lawful and_H1121 right_H4941, and_H1121 has_H0001 kept_H8104 all_H3605 my_H3605 statutes_H2708, and_H1121 has_H0001 done_H6213 them_H0853, he_H6213 will_H1121 surely_H1121 live_H2421. 
+@20 The_H5921 soul_H5315 who_H1931 sins_H2398, he_H1931 shall_H1121 die_H4191. The_H5921 son_H1121 shall_H1121 not_H3808 bear_H5375 the_H5921 iniquity_H5771 of_H1121 the_H5921 father_H0001, neither_H3808 shall_H1121 the_H5921 father_H0001 bear_H5375 the_H5921 iniquity_H5771 of_H1121 the_H5921 son_H1121. The_H5921 righteousness_H6666 of_H1121 the_H5921 righteous_H6662 shall_H1121 be_H1961 on_H5921 him_H5921, and_H1121 the_H5921 wickedness_H7564 of_H1121 the_H5921 wicked_H7563 shall_H1121 be_H1961 on_H5921 him_H5921.
 
 ## Everyone is judged by what they ultimately did, not what they did before
-@21 “But if the wicked turns from all his sins that he has committed, and keeps all my statutes, and does that which is lawful and right, he shall surely live. He shall not die. 
-@22 None of his transgressions that he has committed will be remembered against him. In his righteousness that he has done, he shall live. 
-@23 Have I any pleasure in the death of the wicked?” says the Lord Yahweh, “and not rather that he should return from his way, and live? 
+@21 “But_H3588 if_H3588 the_H3605 wicked_H7563 turns_H7725 from_H7725 all_H3605 his_H3605 sins_H2403 that_H0834 he_H0834 has_H0834 committed_H6213, and_H7725 keeps_H8104 all_H3605 my_H3605 statutes_H2708, and_H7725 does_H6213 that_H0834 which_H0834 is_H0834 lawful and_H7725 right_H4941, he_H0834 shall_H3808 surely_H3588 live_H2421. He_H0834 shall_H3808 not_H3808 die_H4191. 
+@22 None_H3808 of_H3605 his_H3605 transgressions_H6588 that_H0834 he_H0834 has_H0834 committed_H6213 will_H0834 be_H3808 remembered_H2142 against_H3605 him_H3605. In_H3808 his_H3605 righteousness_H6666 that_H0834 he_H0834 has_H0834 done_H6213, he_H0834 shall_H3808 live_H2421. 
+@23 Have_H7563 I_H3808 any_H3808 pleasure_H2654 in_H1870 the_H5002 death_H4194 of_H1870 the_H5002 wicked_H7563?” says_H5002 the_H5002 Lord_H0136 Yahweh, “and_H7725 not_H3808 rather_H3808 that_H3808 he_H3808 should return_H7725 from_H7725 his_H7725 way_H1870, and_H7725 live_H2421? 
 
-@24 “But when the righteous turns away from his righteousness, and commits iniquity, and does according to all the abominations that the wicked man does, should he live? None of his righteous deeds that he has done will be remembered. In his trespass that he has trespassed, and in his sin that he has sinned, in them he shall die. 
+@24 “But_H3808 when_H0834 the_H3605 righteous_H6662 turns_H7725 away_H7725 from_H7725 his_H3605 righteousness_H6666, and_H7725 commits_H6213 iniquity_H5766, and_H7725 does_H6213 according to_H4191 all_H3605 the_H3605 abominations_H8441 that_H0834 the_H3605 wicked_H7563 man_H7563 does_H6213, should_H6213 he_H0834 live? None_H3808 of_H3605 his_H3605 righteous_H6662 deeds_H6666 that_H0834 he_H0834 has_H0834 done_H6213 will_H0834 be_H4191 remembered_H2142. In_H4191 his_H3605 trespass_H4604 that_H0834 he_H0834 has_H0834 trespassed, and_H7725 in_H4191 his_H3605 sin_H2398 that_H0834 he_H0834 has_H0834 sinned_H2398, in_H4191 them_H7725 he_H0834 shall_H3808 die_H4191. 
 
-@25 “Yet you say, ‘The way of the Lord is not equal.’ Hear now, house of Israel: Is my way not equal? Aren’t your ways unequal? 
-@26 When the righteous man turns away from his righteousness, and commits iniquity, and dies in it, then he dies in his iniquity that he has done. 
-@27 Again, when the wicked man turns away from his wickedness that he has committed, and does that which is lawful and right, he will save his soul alive. 
-@28 Because he considers, and turns away from all his transgressions that he has committed, he shall surely live. He shall not die. 
-@29 Yet the house of Israel says, ‘The way of the Lord is not fair.’ House of Israel, aren’t my ways fair? Aren’t your ways unfair?
+@25 “Yet_H8505 you_H3808 say_H0559, ‘The_H0559 way_H1870 of_H1004 the_H0559 Lord_H0136 is_H1870 not_H3808 equal.’ Hear_H8085 now_H4994, house_H1004 of_H1004 Israel_H3478: Is_H1870 my_H8085 way_H1870 not_H3808 equal? Aren’t your_H8085 ways_H1870 unequal? 
+@26 When_H0834 the_H0834 righteous_H6662 man_H6662 turns_H7725 away_H7725 from_H7725 his_H5921 righteousness_H6666, and_H7725 commits_H6213 iniquity_H5766, and_H7725 dies_H4191 in_H5921 it_H5921, then_H6213 he_H0834 dies_H4191 in_H5921 his_H5921 iniquity_H5766 that_H0834 he_H0834 has_H0834 done_H6213. 
+@27 Again_H7725, when_H0834 the_H0853 wicked_H7563 man_H7563 turns_H7725 away_H7725 from_H7725 his_H7725 wickedness_H7564 that_H0834 he_H0834 has_H0834 committed_H6213, and_H7725 does_H6213 that_H0834 which_H0834 is_H0834 lawful and_H7725 right_H4941, he_H0834 will_H0834 save_H5315 his_H7725 soul_H5315 alive_H2421. 
+@28 Because_H0834 he_H0834 considers_H7200, and_H7725 turns_H7725 away_H7725 from_H7725 all_H3605 his_H3605 transgressions_H6588 that_H0834 he_H0834 has_H0834 committed_H6213, he_H0834 shall_H3808 surely_H4191 live_H2421. He_H0834 shall_H3808 not_H3808 die_H4191. 
+@29 Yet_H8505 the_H0559 house_H1004 of_H1004 Israel_H3478 says_H0559, ‘The_H0559 way_H1870 of_H1004 the_H0559 Lord_H0136 is_H1870 not_H3808 fair.’ House_H1004 of_H1004 Israel_H3478, aren’t my_H0559 ways_H1870 fair? Aren’t your_H3808 ways_H1870 unfair?
 
 ## Exhortation to exiles to convert
-@30 “Therefore I will judge you, house of Israel, everyone according to his ways,” says the Lord Yahweh. “Return, and turn yourselves from all your transgressions, so iniquity will not be your ruin. 
-@31 Cast away from you all your transgressions in which you have transgressed; and make yourself a new heart and a new spirit. For why will you die, house of Israel? 
-@32 For I have no pleasure in the death of him who dies,” says the Lord Yahweh. “Therefore turn yourselves, and live! 
+@30 “Therefore_H3651 I_H3651 will_H1961 judge_H8199 you_H3605, house_H1004 of_H1004 Israel_H3478, everyone_H3605 according_H0376 to_H7725 his_H3605 ways_H1870,” says_H5002 the_H3605 Lord_H0136 Yahweh. “Return_H7725, and_H3478 turn_H7725 yourselves_H3651 from_H7725 all_H3605 your_H3605 transgressions_H6588, so_H3651 iniquity_H5771 will_H1961 not_H3808 be_H1961 your_H3605 ruin. 
+@31 Cast_H7993 away_H7993 from_H5921 you_H0834 all_H3605 your_H3605 transgressions_H6588 in_H5921 which_H0834 you_H0834 have_H0834 transgressed_H6586; and_H3478 make_H6213 yourself_H5921 a_H0834 new_H2319 heart_H3820 and_H3478 a_H0834 new_H2319 spirit_H7307. For_H5921 why_H4100 will_H0834 you_H0834 die_H4191, house_H1004 of_H1004 Israel_H3478? 
+@32 For_H3588 I_H3588 have_H3588 no_H3808 pleasure_H2654 in_H4191 the_H5002 death_H4191 of_H4194 him_H7725 who_H3588 dies_H4191,” says_H5002 the_H5002 Lord_H0136 Yahweh. “Therefore_H3588 turn_H7725 yourselves, and_H7725 live_H2421! 
 
 # 19 
 ## The image of the mother lion with her two cubs
-@1 “Moreover, take up a lamentation for the princes of Israel, 
-@2 and say, ‘What was your mother? A lioness. She couched among lions, in the middle of the young lions she nourished her cubs. 
-@3 She brought up one of her cubs. He became a young lion. He learned to catch the prey. He devoured men. 
-@4 The nations also heard of him. He was taken in their pit; and they brought him with hooks to the land of Egypt. 
-@5 “‘Now when she saw that she had waited, and her hope was lost, then she took another of her cubs, and made him a young lion. 
-@6 He went up and down among the lions. He became a young lion. He learned to catch the prey. He devoured men. 
-@7 He knew their palaces, and laid waste their cities. The land was desolate with its fullness, because of the noise of his roaring. 
-@8 Then the nations attacked him on every side from the provinces. They spread their net over him. He was taken in their pit. 
-@9 They put him in a cage with hooks, and brought him to the king of Babylon. They brought him into strongholds, so that his voice should no more be heard on the mountains of Israel.
+@1 “Moreover, take_H5375 up_H5375 a_H5375 lamentation_H7015 for_H0413 the_H0413 princes_H5387 of_H0413 Israel_H3478, 
+@2 and_H0559 say_H0559, ‘What_H4100 was_H0559 your_H0559 mother_H0517? A_H0996 lioness_H3833. She_H4100 couched among_H8432 lions_H0738, in_H8432 the_H0559 middle_H8432 of_H8432 the_H0559 young_H3715 lions_H0738 she_H4100 nourished her_H0996 cubs_H1482. 
+@3 She brought_H5927 up_H5927 one_H0259 of_H0259 her_H0398 cubs_H1482. He_H0259 became_H1961 a_H1961 young_H3715 lion_H3715. He_H0259 learned_H3925 to_H1961 catch the_H0398 prey_H2964. He_H0259 devoured_H0398 men_H0120. 
+@4 The_H0413 nations_H1471 also_H8085 heard_H8085 of_H0776 him_H0413. He_H0935 was_H0776 taken_H8610 in_H0935 their_H8085 pit_H7845; and_H0935 they_H0935 brought_H0935 him_H0413 with_H0413 hooks_H2397 to_H0413 the_H0413 land_H0776 of_H0776 Egypt_H4714. 
+@5 “‘Now_H3588 when_H3588 she_H3588 saw_H7200 that_H3588 she_H3588 had_H3588 waited_H3176, and_H7200 her_H3947 hope_H3176 was_H0259 lost_H0006, then_H3947 she_H3588 took_H3947 another_H0259 of_H0259 her_H3947 cubs_H1482, and_H7200 made_H7760 him_H7200 a_H3947 young_H3715 lion_H3715. 
+@6 He_H1980 went_H1980 up_H1961 and_H1980 down_H1980 among_H8432 the_H0398 lions_H0738. He_H1980 became_H1961 a_H1961 young_H3715 lion_H0738. He_H1980 learned_H3925 to_H1980 catch the_H0398 prey_H2964. He_H1980 devoured_H0398 men_H0120. 
+@7 He_H3045 knew_H3045 their_H3045 palaces, and_H0776 laid waste their_H3045 cities_H5892. The_H3045 land_H0776 was_H0776 desolate_H3456 with_H3045 its_H3045 fullness_H4393, because of_H0776 the_H3045 noise_H6963 of_H0776 his_H3045 roaring_H7581. 
+@8 Then_H5414 the_H5921 nations_H1471 attacked him_H5414 on_H5921 every_H5439 side_H5439 from_H5921 the_H5921 provinces_H4082. They_H5921 spread_H6566 their_H5414 net_H7568 over_H5921 him_H5414. He_H5414 was_H5414 taken_H8610 in_H5921 their_H5414 pit_H7845. 
+@9 They_H3808 put_H5414 him_H0413 in_H0935 a_H5414 cage_H5474 with_H0413 hooks_H2397, and_H0935 brought_H0935 him_H0413 to_H0413 the_H0413 king_H4428 of_H4428 Babylon_H0894. They_H3808 brought_H0935 him_H0413 into_H0413 strongholds, so_H4616 that_H8085 his_H5414 voice_H6963 should_H0413 no_H3808 more_H5750 be_H3808 heard_H8085 on_H0413 the_H0413 mountains_H2022 of_H4428 Israel_H3478.
 
 ## The image of the splendid vine and then destroyed
-@10 “‘Your mother was like a vine in your blood, planted by the waters. It was fruitful and full of branches by reason of many waters. 
-@11 It had strong branches for the scepters of those who ruled. Their stature was exalted among the thick boughs. They were seen in their height with the multitude of their branches. 
-@12 But it was plucked up in fury. It was cast down to the ground, and the east wind dried up its fruit. Its strong branches were broken off and withered. The fire consumed them. 
-@13 Now it is planted in the wilderness, in a dry and thirsty land. 
-@14 Fire has gone out of its branches. It has devoured its fruit, so that there is in it no strong branch to be a scepter to rule.’ This is a lamentation, and shall be for a lamentation.” 
+@10 “‘Your_H5921 mother_H0517 was_H1961 like_H1961 a_H1961 vine_H1612 in_H5921 your_H5921 blood_H1818, planted_H8362 by_H5921 the_H5921 waters_H4325. It_H5921 was_H1961 fruitful_H6509 and_H1818 full_H7227 of_H5921 branches_H6058 by_H5921 reason_H5921 of_H5921 many_H7227 waters_H4325. 
+@11 It_H5921 had_H1961 strong_H5797 branches_H1808 for_H5921 the_H5921 scepters_H7626 of_H4294 those_H5921 who ruled_H4910. Their_H5921 stature_H6967 was_H1961 exalted_H1361 among_H0996 the_H5921 thick boughs. They_H5921 were_H1961 seen_H7200 in_H5921 their_H5921 height_H6967 with_H0413 the_H5921 multitude_H7230 of_H4294 their_H5921 branches_H1808. 
+@12 But_H5428 it_H0398 was_H0776 plucked_H5428 up_H3001 in_H0776 fury_H2534. It_H0398 was_H0776 cast_H7993 down_H7993 to_H0776 the_H0398 ground_H0776, and_H0776 the_H0398 east_H6921 wind_H7307 dried_H3001 up_H3001 its_H0398 fruit_H6529. Its_H0398 strong_H5797 branches_H4294 were_H0776 broken off_H6561 and_H0776 withered_H3001. The_H0398 fire_H0784 consumed_H0398 them_H7993. 
+@13 Now_H6258 it is_H0776 planted_H8362 in_H0776 the_H6258 wilderness_H4057, in_H0776 a_H0776 dry_H6723 and_H0776 thirsty_H6772 land_H0776. 
+@14 Fire_H0784 has_H1961 gone_H3318 out_H3318 of_H4294 its_H0398 branches_H4294. It_H1931 has_H1961 devoured_H0398 its_H0398 fruit_H6529, so_H1961 that_H1931 there_H1961 is_H1931 in_H0784 it_H1931 no_H3808 strong_H5797 branch_H4294 to_H1961 be_H1961 a_H1961 scepter_H7626 to_H1961 rule_H4910.’ This_H1931 is_H1931 a_H1961 lamentation_H7015, and_H0398 shall_H3808 be_H1961 for_H3808 a_H1961 lamentation_H7015.” 
 
 # 20 
 ## Ezekiel lays before the elders the sins of his fathers and sons
-@1 In the seventh year, in the fifth month, the tenth day of the month, some of the elders of Israel came to inquire of Yahweh, and sat before me. 
+@1 In_H3427 the_H0853 seventh_H7637 year_H8141, in_H3427 the_H0853 fifth_H2549 month_H2320, the_H0853 tenth_H6218 day_H2320 of_H0376 the_H0853 month_H2320, some_H0376 of_H0376 the_H0853 elders_H2205 of_H0376 Israel_H3478 came_H0935 to_H0935 inquire_H1875 of_H0376 Yahweh_H3068, and_H0935 sat_H3427 before_H6440 me_H6440. 
 
-@2 Yahweh’s word came to me, saying, 
-@3 “Son of man, speak to the elders of Israel, and tell them, ‘The Lord Yahweh says: “Is it to inquire of me that you have come? As I live,” says the Lord Yahweh, “I will not be inquired of by you.”’ 
+@2 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@3 “Son_H1121 of_H1121 man_H0120, speak_H1696 to_H0413 the_H0853 elders_H2205 of_H1121 Israel_H3478, and_H1121 tell_H0559 them_H0413, ‘The_H0853 Lord_H0136 Yahweh says_H0559: “Is_H1121 it_H0518 to_H0413 inquire_H1875 of_H1121 me_H0413 that_H0559 you_H0859 have_H1121 come_H0935? As_H0935 I_H0589 live_H2416,” says_H0559 the_H0853 Lord_H0136 Yahweh, “I_H0589 will_H3478 not_H0518 be_H1121 inquired_H1875 of_H1121 by_H0413 you_H0859.”’ 
 
-@4 “Will you judge them, son of man? Will you judge them? Cause them to know the abominations of their fathers.
+@4 “Will_H1121 you_H3045 judge_H8199 them_H0853, son_H1121 of_H1121 man_H0120? Will_H1121 you_H3045 judge_H8199 them_H0853? Cause them_H0853 to_H0001 know_H3045 the_H0853 abominations_H8441 of_H1121 their_H3045 fathers_H0001.
 
 ## Idolatry in Egypt
-@5 Tell them, ‘The Lord Yahweh says: “In the day when I chose Israel, and swore to the offspring of the house of Jacob, and made myself known to them in the land of Egypt, when I swore to them, saying, ‘I am Yahweh your God;’ 
-@6 in that day I swore to them to bring them out of the land of Egypt into a land that I had searched out for them, flowing with milk and honey, which is the glory of all lands. 
-@7 I said to them, ‘Each of you throw away the abominations of his eyes. Don’t defile yourselves with the idols of Egypt. I am Yahweh your God.’ 
+@5 Tell_H0559 them_H0413, ‘The_H0559 Lord_H3068 Yahweh_H3068 says_H0559: “In_H0413 the_H0559 day_H3117 when_H3117 I_H0589 chose_H0977 Israel_H3478, and_H3068 swore_H5375 to_H0413 the_H0559 offspring_H2233 of_H1004 the_H0559 house_H1004 of_H1004 Jacob_H3290, and_H3068 made_H3045 myself_H0589 known_H3045 to_H0413 them_H0413 in_H0413 the_H0559 land_H0776 of_H1004 Egypt_H4714, when_H3117 I_H0589 swore_H5375 to_H0413 them_H0413, saying_H0559, ‘I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430;’ 
+@6 in_H0413 that_H0834 day_H3117 I_H0834 swore_H5375 to_H0413 them_H0413 to_H0413 bring_H3318 them_H0413 out_H3318 of_H0776 the_H3605 land_H0776 of_H0776 Egypt_H4714 into_H0413 a_H5375 land_H0776 that_H0834 I_H0834 had_H0834 searched out_H3318 for_H0413 them_H0413, flowing_H2100 with_H0413 milk_H2461 and_H0776 honey_H1706, which_H0834 is_H0834 the_H3605 glory of_H0776 all_H3605 lands_H0776. 
+@7 I_H0589 said_H0559 to_H0413 them_H0413, ‘Each_H0376 of_H0376 you_H0413 throw_H7993 away_H7993 the_H0559 abominations_H8251 of_H0376 his_H3068 eyes_H5869. Don’t_H0408 defile_H2930 yourselves_H5869 with_H0413 the_H0559 idols_H1544 of_H0376 Egypt_H4714. I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430.’ 
 
-@8 “‘“But they rebelled against me and wouldn’t listen to me. They didn’t all throw away the abominations of their eyes. They also didn’t forsake the idols of Egypt. Then I said I would pour out my wrath on them, to accomplish my anger against them in the middle of the land of Egypt. 
-@9 But I worked for my name’s sake, that it should not be profaned in the sight of the nations among which they were, in whose sight I made myself known to them in bringing them out of the land of Egypt.
+@8 “‘“But_H3808 they_H3808 rebelled_H4784 against_H5921 me_H0413 and_H0776 wouldn’t listen_H8085 to_H0413 me_H0413. They_H3808 didn’t_H3808 all_H0376 throw_H7993 away_H7993 the_H0853 abominations_H8251 of_H0776 their_H5921 eyes_H5869. They_H3808 also_H0853 didn’t_H3808 forsake_H5800 the_H0853 idols_H1544 of_H0776 Egypt_H4714. Then_H0853 I_H0776 said_H0559 I_H0776 would_H0014 pour_H8210 out_H8210 my_H8085 wrath_H2534 on_H5921 them_H0413, to_H0413 accomplish_H3615 my_H8085 anger_H0639 against_H5921 them_H0413 in_H5921 the_H0853 middle_H8432 of_H0776 the_H0853 land_H0776 of_H0776 Egypt_H4714. 
+@9 But_H1992 I_H0834 worked_H6213 for_H0413 my_H3045 name’s_H8034 sake_H4616, that_H0834 it_H3045 should_H6213 not_H1115 be_H8034 profaned_H2490 in_H0413 the_H0834 sight_H5869 of_H0776 the_H0834 nations_H1471 among_H8432 which_H0834 they_H1992 were_H0834, in_H0413 whose_H0834 sight_H5869 I_H0834 made_H6213 myself_H3045 known_H3045 to_H0413 them_H0413 in_H0413 bringing_H3318 them_H0413 out_H3318 of_H0776 the_H0834 land_H0776 of_H0776 Egypt_H4714.
 
 ## Disobedience after the legislation in the migration in the desert
-@10 So I caused them to go out of the land of Egypt and brought them into the wilderness. 
-@11 I gave them my statutes and showed them my ordinances, which if a man does, he will live in them. 
-@12 Moreover also I gave them my Sabbaths, to be a sign between me and them, that they might know that I am Yahweh who sanctifies them. 
+@10 So_H3318 I_H0776 caused them_H0413 to_H0413 go_H3318 out_H3318 of_H0776 the_H0413 land_H0776 of_H0776 Egypt_H4714 and_H0935 brought_H0935 them_H0413 into_H0413 the_H0413 wilderness_H4057. 
+@11 I_H0834 gave_H5414 them_H5414 my_H5414 statutes_H2708 and_H4941 showed_H5414 them_H5414 my_H5414 ordinances_H4941, which_H0834 if_H0834 a_H5414 man_H0120 does_H6213, he_H0834 will_H0834 live in_H5414 them_H5414. 
+@12 Moreover_H1571 also_H1571 I_H0589 gave_H5414 them_H5414 my_H5414 Sabbaths_H7676, to_H1961 be_H1961 a_H1961 sign_H0226 between_H0996 me_H5414 and_H3068 them_H5414, that_H3588 they_H3588 might_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068 who_H3068 sanctifies_H6942 them_H5414. 
 
-@13 “‘“But the house of Israel rebelled against me in the wilderness. They didn’t walk in my statutes and they rejected my ordinances, which if a man keeps, he shall live in them. They greatly profaned my Sabbaths. Then I said I would pour out my wrath on them in the wilderness, to consume them. 
-@14 But I worked for my name’s sake, that it should not be profaned in the sight of the nations, in whose sight I brought them out. 
-@15 Moreover also I swore to them in the wilderness that I would not bring them into the land which I had given them, flowing with milk and honey, which is the glory of all lands, 
-@16 because they rejected my ordinances, and didn’t walk in my statutes, and profaned my Sabbaths; for their heart went after their idols. 
-@17 Nevertheless my eye spared them, and I didn’t destroy them. I didn’t make a full end of them in the wilderness.
+@13 “‘“But_H3808 the_H0853 house_H1004 of_H1004 Israel_H3478 rebelled_H4784 against_H5921 me_H5921 in_H5921 the_H0853 wilderness_H4057. They_H0834 didn’t_H3808 walk_H1980 in_H5921 my_H5921 statutes_H2708 and_H1980 they_H0834 rejected_H3988 my_H5921 ordinances_H4941, which_H0834 if_H0834 a_H0834 man_H0120 keeps, he_H0834 shall_H3478 live_H1980 in_H5921 them_H0853. They_H0834 greatly_H3966 profaned_H2490 my_H5921 Sabbaths_H7676. Then_H1980 I_H0834 said_H0559 I_H0834 would_H3478 pour_H8210 out_H8210 my_H5921 wrath_H2534 on_H5921 them_H0853 in_H5921 the_H0853 wilderness_H4057, to_H0559 consume_H3615 them_H0853. 
+@14 But_H0834 I_H0834 worked_H6213 for_H4616 my_H0834 name’s_H8034 sake_H4616, that_H0834 it_H6213 should_H6213 not_H1115 be_H8034 profaned_H2490 in_H8034 the_H0834 sight_H5869 of_H5869 the_H0834 nations_H1471, in_H8034 whose_H0834 sight_H5869 I_H0834 brought_H3318 them_H3318 out_H3318. 
+@15 Moreover_H1571 also_H1571 I_H0589 swore_H5375 to_H0413 them_H0413 in_H0935 the_H3605 wilderness_H4057 that_H0834 I_H0589 would_H0834 not_H1115 bring_H0935 them_H0413 into_H0413 the_H3605 land_H0776 which_H0834 I_H0589 had_H0834 given_H5414 them_H0413, flowing_H2100 with_H0413 milk_H2461 and_H0935 honey_H1706, which_H0834 is_H0834 the_H3605 glory of_H0776 all_H3605 lands_H0776, 
+@16 because_H3588 they_H3588 rejected_H3988 my_H3588 ordinances_H4941, and_H1980 didn’t_H3808 walk_H1980 in_H1980 my_H3588 statutes_H2708, and_H1980 profaned_H2490 my_H3588 Sabbaths_H7676; for_H3588 their_H3588 heart_H3820 went_H1980 after_H0310 their_H3588 idols_H1544. 
+@17 Nevertheless my_H5921 eye_H5869 spared_H2347 them_H0853, and_H5869 I_H5921 didn’t_H3808 destroy_H7843 them_H0853. I_H5921 didn’t_H3808 make_H6213 a_H5921 full_H3617 end_H3617 of_H5869 them_H0853 in_H5921 the_H0853 wilderness_H4057.
 
 ## Disobedience of the second generation in the desert
-@18 I said to their children in the wilderness, ‘Don’t walk in the statutes of your fathers. Don’t observe their ordinances or defile yourselves with their idols. 
-@19 I am Yahweh your God. Walk in my statutes, keep my ordinances, and do them. 
-@20 Make my Sabbaths holy. They shall be a sign between me and you, that you may know that I am Yahweh your God.’ 
+@18 I_H0559 said_H0559 to_H0413 their_H0413 children_H1121 in_H0413 the_H0853 wilderness_H4057, ‘Don’t_H0408 walk in_H0413 the_H0853 statutes_H2706 of_H1121 your_H8104 fathers_H0001. Don’t_H0408 observe_H8104 their_H0413 ordinances_H4941 or_H0408 defile_H2930 yourselves_H2930 with_H0413 their_H0413 idols_H1544. 
+@19 I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430. Walk in_H0430 my_H8104 statutes_H2708, keep_H8104 my_H8104 ordinances_H4941, and_H3068 do_H6213 them_H0853. 
+@20 Make_H3045 my_H3068 Sabbaths_H7676 holy_H6942. They_H3588 shall_H3068 be_H1961 a_H1961 sign_H0226 between_H0996 me_H0589 and_H3068 you_H3588, that_H3588 you_H3588 may_H1961 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068 your_H3068 God_H0430.’ 
 
-@21 “‘“But the children rebelled against me. They didn’t walk in my statutes, and didn’t keep my ordinances to do them, which if a man does, he shall live in them. They profaned my Sabbaths. Then I said I would pour out my wrath on them, to accomplish my anger against them in the wilderness. 
-@22 Nevertheless I withdrew my hand and worked for my name’s sake, that it should not be profaned in the sight of the nations, in whose sight I brought them out. 
-@23 Moreover I swore to them in the wilderness, that I would scatter them among the nations and disperse them through the countries, 
-@24 because they had not executed my ordinances, but had rejected my statutes, and had profaned my Sabbaths, and their eyes were after their fathers’ idols. 
-@25 Moreover also I gave them statutes that were not good, and ordinances in which they couldn’t live. 
-@26 I polluted them in their own gifts, in that they caused all that opens the womb to pass through the fire, that I might make them desolate, to the end that they might know that I am Yahweh.”’
+@21 “‘“But_H3808 the_H0853 children_H1121 rebelled_H4784 against_H5921 me_H5921. They_H0834 didn’t_H3808 walk_H1980 in_H5921 my_H8104 statutes_H2708, and_H1980 didn’t_H3808 keep_H8104 my_H8104 ordinances_H4941 to_H0559 do_H6213 them_H0853, which_H0834 if_H0834 a_H0834 man_H0120 does_H6213, he_H0834 shall_H1121 live_H1980 in_H5921 them_H0853. They_H0834 profaned_H2490 my_H8104 Sabbaths_H7676. Then_H1980 I_H0834 said_H0559 I_H0834 would_H0559 pour_H8210 out_H8210 my_H8104 wrath_H2534 on_H5921 them_H0853, to_H0559 accomplish_H3615 my_H8104 anger_H0639 against_H5921 them_H0853 in_H5921 the_H0853 wilderness_H4057. 
+@22 Nevertheless I_H0834 withdrew_H7725 my_H7725 hand_H3027 and_H3027 worked_H6213 for_H4616 my_H7725 name’s_H8034 sake_H4616, that_H0834 it_H7725 should_H6213 not_H1115 be_H8034 profaned_H2490 in_H8034 the_H0853 sight_H5869 of_H3027 the_H0853 nations_H1471, in_H8034 whose_H0834 sight_H5869 I_H0834 brought_H3318 them_H0853 out_H3318. 
+@23 Moreover_H1571 I_H0589 swore_H5375 to_H3027 them_H0853 in_H0776 the_H0853 wilderness_H4057, that_H1471 I_H0589 would scatter_H2219 them_H0853 among_H0776 the_H0853 nations_H1471 and_H0776 disperse_H2219 them_H0853 through_H3027 the_H0853 countries_H0776, 
+@24 because_H3282 they_H3808 had_H1961 not_H3808 executed my_H1961 ordinances_H4941, but_H3808 had_H1961 rejected_H3988 my_H1961 statutes_H2708, and_H4941 had_H1961 profaned_H2490 my_H1961 Sabbaths_H7676, and_H4941 their_H0310 eyes_H5869 were_H1961 after_H0310 their_H0310 fathers’_H0001 idols_H1544. 
+@25 Moreover_H1571 also_H1571 I_H0589 gave_H5414 them_H5414 statutes_H2706 that_H3808 were_H1571 not_H3808 good_H2896, and_H4941 ordinances_H4941 in_H5414 which they_H3808 couldn’t_H3808 live_H2421. 
+@26 I_H0589 polluted them_H0853 in_H3068 their_H3605 own gifts_H4979, in_H3068 that_H0834 they_H0834 caused_H0834 all_H3605 that_H0834 opens the_H3605 womb_H7356 to_H3068 pass_H5674 through_H5674 the_H3605 fire, that_H0834 I_H0589 might_H4616 make_H3045 them_H0853 desolate_H8074, to_H3068 the_H3605 end that_H0834 they_H0834 might_H4616 know_H3045 that_H0834 I_H0589 am_H0589 Yahweh_H3068.”’
 
 ## High service in the land of Canaan
-@27 “Therefore, son of man, speak to the house of Israel, and tell them, ‘The Lord Yahweh says: “Moreover, in this your fathers have blasphemed me, in that they have committed a trespass against me. 
-@28 For when I had brought them into the land which I swore to give to them, then they saw every high hill and every thick tree, and they offered there their sacrifices, and there they presented the provocation of their offering. There they also made their pleasant aroma, and there they poured out their drink offerings. 
-@29 Then I said to them, ‘What does the high place where you go mean?’ So its name is called Bamah^a^ to this day.”’ 
+@27 “Therefore_H3651, son_H1121 of_H1121 man_H0120, speak_H1696 to_H0413 the_H0853 house_H1004 of_H1121 Israel_H3478, and_H1121 tell_H0559 them_H0413, ‘The_H0853 Lord_H0136 Yahweh says_H0559: “Moreover_H3541, in_H0413 this_H2063 your_H0413 fathers_H0001 have_H0001 blasphemed_H1442 me_H0413, in_H0413 that_H3651 they_H3651 have_H0001 committed_H4603 a_H1696 trespass_H4604 against_H0413 me_H0413. 
+@28 For_H0413 when_H0834 I_H0834 had_H0834 brought_H0935 them_H0413 into_H0413 the_H3605 land_H0776 which_H0834 I_H0834 swore_H5375 to_H0413 give_H5414 to_H0413 them_H0413, then_H0853 they_H0834 saw_H7200 every_H3605 high_H7311 hill_H1389 and_H0935 every_H3605 thick tree_H6086, and_H0935 they_H0834 offered_H2076 there_H8033 their_H3605 sacrifices_H2077, and_H0935 there_H8033 they_H0834 presented_H5414 the_H3605 provocation of_H0776 their_H3605 offering_H7133. There_H8033 they_H0834 also_H0853 made_H5414 their_H3605 pleasant aroma_H5207, and_H0935 there_H8033 they_H0834 poured out_H0413 their_H3605 drink offerings_H2077. 
+@29 Then_H2088 I_H0834 said_H0559 to_H0413 them_H0413, ‘What_H4100 does_H4100 the_H0559 high_H1116 place_H1116 where_H0834 you_H0859 go_H0935 mean?’ So_H7121 its_H0935 name_H8034 is_H0834 called_H7121 Bamah_H1117^a^ to_H0413 this_H2088 day_H3117.”’ 
 ^a^[**20:29** “Bamah” means “High Place”.]
 
 ## The current generation, like the parents, is rejected by God
-@30 “Therefore tell the house of Israel, ‘The Lord Yahweh says: “Do you pollute yourselves in the way of your fathers? Do you play the prostitute after their abominations? 
-@31 When you offer your gifts, when you make your sons pass through the fire, do you pollute yourselves with all your idols to this day? Should I be inquired of by you, house of Israel? As I live, says the Lord Yahweh, I will not be inquired of by you!
+@30 “Therefore_H3651 tell_H0559 the_H0559 house_H1004 of_H1004 Israel_H3478, ‘The_H0559 Lord_H0136 Yahweh says_H0559: “Do_H1870 you_H0859 pollute yourselves_H0859 in_H0413 the_H0559 way_H1870 of_H1004 your_H0413 fathers_H0001? Do_H1870 you_H0859 play_H2181 the_H0559 prostitute_H2181 after_H0310 their_H0310 abominations_H8251? 
+@31 When_H3117 you_H0859 offer_H5375 your_H3605 gifts_H4979, when_H3117 you_H0859 make_H2930 your_H3605 sons_H1121 pass_H5674 through_H5674 the_H3605 fire_H0784, do_H0518 you_H0859 pollute yourselves_H0859 with_H1004 all_H3605 your_H3605 idols_H1544 to_H5704 this_H3117 day_H3117? Should_H0518 I_H0589 be_H1121 inquired_H1875 of_H1121 by_H0784 you_H0859, house_H1004 of_H1121 Israel_H3478? As_H5704 I_H0589 live_H2416, says_H5002 the_H3605 Lord_H0136 Yahweh, I_H0589 will_H3478 not_H0518 be_H1121 inquired_H1875 of_H1121 by_H0784 you_H0859!
 
 ## The Ancient Purification of the Exiles
-@32 “‘“That which comes into your mind will not be at all, in that you say, ‘We will be as the nations, as the families of the countries, to serve wood and stone.’ 
-@33 As I live,” says the Lord Yahweh, “surely with a mighty hand, with an outstretched arm, and with wrath poured out, I will be king over you. 
-@34 I will bring you out from the peoples, and will gather you out of the countries in which you are scattered with a mighty hand, with an outstretched arm, and with wrath poured out. 
-@35 I will bring you into the wilderness of the peoples, and there I will enter into judgment with you face to face. 
-@36 Just as I entered into judgment with your fathers in the wilderness of the land of Egypt, so I will enter into judgment with you,” says the Lord Yahweh. 
-@37 “I will cause you to pass under the rod, and I will bring you into the bond of the covenant. 
-@38 I will purge out from among you the rebels and those who disobey me. I will bring them out of the land where they live, but they shall not enter into the land of Israel. Then you will know that I am Yahweh.”
+@32 “‘“That_H0834 which_H0834 comes_H1961 into_H5921 your_H5921 mind_H7307 will_H1961 not_H3808 be_H1961 at_H5921 all_H5927, in_H5921 that_H0834 you_H0859 say_H0559, ‘We_H0834 will_H1961 be_H1961 as_H0834 the_H0559 nations_H1471, as_H0834 the_H0559 families_H4940 of_H0776 the_H0559 countries_H0776, to_H0559 serve_H8334 wood_H6086 and_H0776 stone_H0068.’ 
+@33 As_H0589 I_H0589 live_H2416,” says_H5002 the_H5002 Lord_H0136 Yahweh, “surely_H0518 with_H5921 a_H0518 mighty_H2389 hand_H3027, with_H5921 an_H0518 outstretched_H5186 arm_H2220, and_H3027 with_H5921 wrath_H2534 poured_H8210 out_H5186, I_H0589 will_H3027 be_H3808 king_H4427 over_H5921 you_H0518. 
+@34 I_H0834 will_H0776 bring_H3318 you_H0834 out_H3318 from_H4480 the_H0853 peoples_H5971, and_H0776 will_H0776 gather_H6908 you_H0834 out_H3318 of_H0776 the_H0853 countries_H0776 in_H0776 which_H0834 you_H0834 are_H0834 scattered_H6327 with_H3027 a_H4480 mighty_H2389 hand_H3027, with_H3027 an_H4480 outstretched_H5186 arm_H2220, and_H0776 with_H3027 wrath_H2534 poured_H8210 out_H3318. 
+@35 I_H0935 will_H0935 bring_H0935 you_H6440 into_H0413 the_H0853 wilderness_H4057 of_H6440 the_H0853 peoples_H5971, and_H0935 there_H8033 I_H0935 will_H0935 enter_H0935 into_H0413 judgment_H8199 with_H0854 you_H6440 face_H6440 to_H0413 face_H6440. 
+@36 Just_H0834 as_H0834 I_H0834 entered_H8199 into_H8199 judgment_H8199 with_H0854 your_H0834 fathers_H0001 in_H0776 the_H0834 wilderness_H4057 of_H0776 the_H0834 land_H0776 of_H0776 Egypt_H4714, so_H3651 I_H0834 will_H0776 enter_H8199 into_H8199 judgment_H8199 with_H0854 you_H0834,” says_H5002 the_H0834 Lord_H0136 Yahweh. 
+@37 “I_H8478 will_H0935 cause you_H0935 to_H0935 pass_H5674 under_H8478 the_H0853 rod_H7626, and_H0935 I_H8478 will_H0935 bring_H0935 you_H0935 into_H0935 the_H0853 bond_H4562 of_H7626 the_H0853 covenant_H1285. 
+@38 I_H0589 will_H3068 purge_H1305 out_H3318 from_H4480 among_H4480 you_H3588 the_H0853 rebels_H4775 and_H0935 those_H4480 who_H3068 disobey me_H0413. I_H0589 will_H3068 bring_H0935 them_H0413 out_H3318 of_H0776 the_H0853 land_H0776 where_H4033 they_H3588 live, but_H3588 they_H3588 shall_H3068 not_H3808 enter_H0935 into_H0413 the_H0853 land_H0776 of_H0776 Israel_H3478. Then_H3318 you_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068.”
 
 ## The pleasant worship of converts in the land of Israel
-@39 “‘As for you, house of Israel, the Lord Yahweh says: “Go, everyone serve his idols, and hereafter also, if you will not listen to me; but you shall no more profane my holy name with your gifts and with your idols. 
-@40 For in my holy mountain, in the mountain of the height of Israel,” says the Lord Yahweh, “there all the house of Israel, all of them, shall serve me in the land. There I will accept them, and there I will require your offerings and the first fruits of your offerings, with all your holy things. 
-@41 I will accept you as a pleasant aroma when I bring you out from the peoples and gather you out of the countries in which you have been scattered. I will be sanctified in you in the sight of the nations. 
-@42 You will know that I am Yahweh when I bring you into the land of Israel, into the country which I swore to give to your fathers. 
-@43 There you will remember your ways, and all your deeds in which you have polluted yourselves. Then you will loathe yourselves in your own sight for all your evils that you have committed. 
-@44 You will know that I am Yahweh, when I have dealt with you for my name’s sake, not according to your evil ways, nor according to your corrupt doings, you house of Israel,” says the Lord Yahweh.’”
+@39 “‘As_H0376 for_H0413 you_H0859, house_H1004 of_H1004 Israel_H3478, the_H0853 Lord_H0136 Yahweh says_H0559: “Go_H2490, everyone_H0376 serve_H5647 his_H8085 idols_H1544, and_H3478 hereafter also_H3541, if_H0518 you_H0859 will_H3478 not_H3808 listen_H8085 to_H0413 me_H0413; but_H0518 you_H0859 shall_H3478 no_H3808 more_H5750 profane_H2490 my_H8085 holy_H6944 name_H8034 with_H0413 your_H8085 gifts_H4979 and_H3478 with_H0413 your_H8085 idols_H1544. 
+@40 For_H3588 in_H1004 my_H3605 holy_H6944 mountain_H2022, in_H1004 the_H3605 mountain_H2022 of_H1004 the_H3605 height_H4791 of_H1004 Israel_H3478,” says_H5002 the_H3605 Lord_H0136 Yahweh, “there_H8033 all_H3605 the_H3605 house_H1004 of_H1004 Israel_H3478, all_H3605 of_H1004 them_H0853, shall_H3478 serve_H5647 me_H1875 in_H1004 the_H3605 land_H0776. There_H8033 I_H3588 will_H0776 accept_H7521 them_H0853, and_H3478 there_H8033 I_H3588 will_H0776 require_H1875 your_H3605 offerings_H8641 and_H3478 the_H3605 first_H7225 fruits_H7225 of_H1004 your_H3605 offerings_H8641, with_H1004 all_H3605 your_H3605 holy_H6944 things_H6944. 
+@41 I_H0834 will_H0776 accept_H7521 you_H0834 as_H0834 a_H4480 pleasant aroma_H5207 when_H0834 I_H0834 bring_H3318 you_H0834 out_H3318 from_H4480 the_H0853 peoples_H5971 and_H0776 gather_H6908 you_H0834 out_H3318 of_H0776 the_H0853 countries_H0776 in_H0776 which_H0834 you_H0834 have_H0834 been_H0834 scattered_H6327. I_H0834 will_H0776 be_H0776 sanctified_H6942 in_H0776 you_H0834 in_H0776 the_H0853 sight_H5869 of_H0776 the_H0853 nations_H1471. 
+@42 You_H0834 will_H3068 know_H3045 that_H0834 I_H0589 am_H0589 Yahweh_H3068 when_H3588 I_H0589 bring_H0935 you_H0834 into_H0413 the_H0853 land_H0776 of_H0776 Israel_H3478, into_H0413 the_H0853 country_H0776 which_H0834 I_H0589 swore_H5375 to_H0413 give_H5414 to_H0413 your_H3068 fathers_H0001. 
+@43 There_H8033 you_H0834 will_H0834 remember_H2142 your_H3605 ways_H1870, and_H1870 all_H3605 your_H3605 deeds_H5949 in_H1870 which_H0834 you_H0834 have_H0834 polluted yourselves_H2930. Then_H0853 you_H0834 will_H0834 loathe yourselves_H2930 in_H1870 your_H3605 own_H6440 sight_H6440 for_H3605 all_H3605 your_H3605 evils that_H0834 you_H0834 have_H0834 committed_H6213. 
+@44 You_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068, when_H3588 I_H0589 have_H3045 dealt with_H0854 you_H3588 for_H3588 my_H3068 name’s_H8034 sake_H4616, not_H3808 according to_H3068 your_H3068 evil_H7451 ways_H1870, nor_H3808 according to_H3068 your_H3068 corrupt_H7843 doings, you_H3588 house_H1004 of_H1004 Israel_H3478,” says_H5002 the_H5002 Lord_H3068 Yahweh_H3068.’”
 
 ## The parable of the devastating forest fire
 @45 Yahweh’s word came to me, saying, 
@@ -754,1206 +754,1206 @@ So the vision that I had seen went up from me.
 
 # 21 
 ## The murderous sword of God's vengeance against Jerusalem and the Ammonites
-@1 Yahweh’s word came to me, saying, 
-@2 “Son of man, set your face toward Jerusalem, and preach toward the sanctuaries, and prophesy against the land of Israel. 
-@3 Tell the land of Israel, ‘Yahweh says: “Behold, I am against you, and will draw my sword out of its sheath, and will cut off from you the righteous and the wicked. 
-@4 Seeing then that I will cut off from you the righteous and the wicked, therefore my sword will go out of its sheath against all flesh from the south to the north. 
-@5 All flesh will know that I, Yahweh, have drawn my sword out of its sheath. It will not return any more.”’
+@1 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 “Son_H1121 of_H1121 man_H0120, set_H7760 your_H7760 face_H6440 toward_H0413 Jerusalem, and_H1121 preach_H5197 toward_H0413 the_H6440 sanctuaries, and_H1121 prophesy_H5012 against_H0413 the_H6440 land_H7704 of_H1121 Israel. 
+@3 Tell_H0559 the_H3605 land_H6440 of_H3068 Israel, ‘Yahweh_H3068 says_H0559: “Behold_H2005, I_H2005 am_H3068 against_H6440 you_H3605, and_H3068 will_H3068 draw my_H3605 sword out_H6440 of_H3068 its_H3605 sheath, and_H3068 will_H3068 cut off_H0398 from_H6440 you_H3605 the_H3605 righteous and_H3068 the_H3605 wicked. 
+@4 Seeing_H7200 then_H7200 that_H3588 I_H0589 will_H3068 cut off from_H3068 you_H3588 the_H3605 righteous and_H3068 the_H3605 wicked, therefore_H3068 my_H3605 sword will_H3068 go_H3518 out_H7200 of_H3068 its_H3605 sheath against_H3605 all_H3605 flesh_H1320 from_H3068 the_H3605 south to_H3068 the_H3605 north. 
+@5 All flesh will_H0136 know that_H1931 I_H0559, Yahweh, have_H3808 drawn my_H0559 sword out of_H0559 its_H3808 sheath. It_H1931 will_H0136 not_H3808 return any_H3808 more_H3808.”’
 
 ## Witness the pain and ominous announcement of the prophet
-@6 “Therefore sigh, you son of man. You shall sigh before their eyes with a broken heart^a^ and with bitterness. 
-@7 It shall be, when they ask you, ‘Why do you sigh?’ that you shall say, ‘Because of the news, for it comes! Every heart will melt, all hands will be feeble, every spirit will faint, and all knees will be weak as water. Behold, it comes, and it shall be done, says the Lord Yahweh.’” 
+@6 “Therefore_H3068 sigh, you_H0413 son of_H3068 man. You_H0413 shall_H3068 sigh before_H0413 their_H3068 eyes with_H0413 a_H1961 broken heart^a^ and_H3068 with_H0413 bitterness. 
+@7 It_H7760 shall_H1121 be_H1121, when_H1121 they_H3389 ask you_H6440, ‘Why do you_H6440 sigh?’ that_H3478 you_H6440 shall_H1121 say_H3478, ‘Because_H6440 of_H1121 the_H6440 news, for_H0413 it_H7760 comes_H6440! Every heart will_H3478 melt, all hands will_H3478 be_H1121 feeble, every spirit will_H3478 faint, and_H1121 all knees will_H3478 be_H1121 weak as_H1121 water. Behold, it_H7760 comes_H6440, and_H1121 it_H7760 shall_H1121 be_H1121 done, says the_H6440 Lord Yahweh.’” 
 ^a^[**21:6** literally, the breaking of your thighs]
 
 ## The song of the sword
-@8 Yahweh’s word came to me, saying, 
-@9 “Son of man, prophesy, and say, ‘Yahweh says: “A sword! A sword! It is sharpened, and also polished. 
-@10 It is sharpened that it may make a slaughter. It is polished that it may be as lightning. Should we then make mirth? The rod of my son condemns every tree. 
-@11 It is given to be polished, that it may be handled. The sword is sharpened. Yes, it is polished to give it into the hand of the killer.”’ 
-@12 Cry and wail, son of man; for it is on my people. It is on all the princes of Israel. They are delivered over to the sword with my people. Therefore beat your thigh. 
+@8 Yahweh’s_H3068 word_H0559 came_H3318 to_H0413 me_H0413, saying_H0559, 
+@9 “Son of_H4480 man_H7563, prophesy, and_H2719 say, ‘Yahweh says_H3282: “A_H3772 sword_H2719! A_H3772 sword_H2719! It_H3651 is_H0834 sharpened, and_H2719 also_H0834 polished. 
+@10 It_H3588 is_H3068 sharpened that_H3588 it_H3588 may_H3068 make_H3045 a_H3588 slaughter. It_H3588 is_H3068 polished that_H3588 it_H3588 may_H3068 be_H5750 as_H3068 lightning. Should_H3068 we_H3588 then_H3318 make_H3045 mirth? The_H3605 rod of_H3068 my_H3605 son condemns every_H3605 tree. 
+@11 It_H1121 is_H1121 given to_H1121 be_H1121 polished, that_H5869 it_H1121 may_H1121 be_H1121 handled. The_H5869 sword is_H1121 sharpened. Yes, it_H1121 is_H1121 polished to_H1121 give it_H1121 into the_H5869 hand of_H1121 the_H5869 killer.”’ 
+@12 Cry and_H0935 wail, son of_H3027 man_H3605; for_H3588 it_H5921 is_H4100 on_H5921 my_H3605 people_H3820. It_H5921 is_H4100 on_H5921 all_H3605 the_H3605 princes of_H3027 Israel. They_H3588 are_H4100 delivered_H3027 over_H5921 to_H0413 the_H3605 sword with_H0413 my_H3605 people_H3820. Therefore_H1961 beat your_H3605 thigh. 
 
-@13 “For there is a trial. What if even the rod that condemns will be no more?” says the Lord Yahweh. 
-@14 “You therefore, son of man, prophesy, and strike your hands together. Let the sword be doubled the third time, the sword of the fatally wounded. It is the sword of the great one who is fatally wounded, which enters into their rooms. 
-@15 I have set the threatening sword against all their gates, that their heart may melt, and their stumblings be multiplied. Ah! It is made as lightning. It is pointed for slaughter. 
-@16 Gather yourselves together. Go to the right. Set yourselves in array. Go to the left, wherever your face is set. 
-@17 I will also strike my hands together, and I will cause my wrath to rest. I, Yahweh, have spoken it.”
+@13 “For_H0413 there_H1961 is_H3068 a_H1961 trial. What_H1697 if_H1961 even the_H0559 rod that_H1697 condemns will_H3068 be_H1961 no more?” says_H0559 the_H0559 Lord_H3068 Yahweh_H3068. 
+@14 “You_H1571 therefore_H1571, son_H1121 of_H1121 man_H0120, prophesy_H5012, and_H1121 strike your_H0559 hands together_H1571. Let the_H0559 sword_H2719 be_H1571 doubled the_H0559 third time, the_H0559 sword_H2719 of_H1121 the_H0559 fatally wounded. It_H1121 is_H1571 the_H0559 sword_H2719 of_H1121 the_H0559 great one_H0120 who_H1121 is_H1571 fatally wounded, which_H2719 enters into_H2719 their_H1571 rooms. 
+@15 I_H3988 have_H1961 set the_H3605 threatening sword against_H3605 all_H3605 their_H3605 gates, that_H3605 their_H3605 heart may_H1961 melt, and_H1121 their_H3605 stumblings be_H1961 multiplied. Ah! It_H1961 is_H3605 made_H1961 as_H1961 lightning_H1300. It_H1961 is_H3605 pointed for_H4616 slaughter_H2874. 
+@16 Gather yourselves_H3027 together. Go to_H5414 the_H0853 right. Set_H5414 yourselves_H3027 in_H5414 array. Go to_H5414 the_H0853 left_H5414, wherever your_H5414 face is_H1931 set_H5414. 
+@17 I_H3588 will_H1961 also_H3478 strike_H5606 my_H3605 hands together_H2199, and_H1121 I_H3588 will_H1961 cause_H1961 my_H3605 wrath to_H0413 rest_H1961. I_H3588, Yahweh, have_H1961 spoken_H0413 it_H1931.”
 
 ## King Nebuchadnezzar at the crossroads
-@18 Yahweh’s word came to me again, saying, 
-@19 “Also, you son of man, appoint two ways, that the sword of the king of Babylon may come. They both will come out of one land, and mark out a place. Mark it out at the head of the way to the city. 
-@20 You shall appoint a way for the sword to come to Rabbah of the children of Ammon, and to Judah in Jerusalem the fortified. 
-@21 For the king of Babylon stood at the parting of the way, at the head of the two ways, to use divination. He shook the arrows back and forth. He consulted the teraphim.^a^ He looked in the liver. 
-@22 In his right hand was the lot for Jerusalem, to set battering rams, to open the mouth in the slaughter, to lift up the voice with shouting, to set battering rams against the gates, to cast up mounds, and to build forts. 
-@23 It will be to them as a false divination in their sight, who have sworn oaths to them; but he brings iniquity to memory, that they may be taken. 
+@18 Yahweh’s word came_H1961 to_H1961 me_H1961 again_H1961, saying, 
+@19 “Also_H7992, you_H0859 son_H1121 of_H1121 man_H0120, appoint two_H5221 ways, that_H1931 the_H0413 sword_H2719 of_H1121 the_H0413 king of_H1121 Babylon may_H0120 come. They_H5221 both_H0120 will_H2719 come out_H0413 of_H1121 one_H0120 land, and_H1121 mark out_H0413 a_H5221 place. Mark it_H1931 out_H0413 at_H0413 the_H0413 head of_H1121 the_H0413 way to_H0413 the_H0413 city_H1931. 
+@20 You_H5414 shall_H2719 appoint_H5414 a_H5414 way_H3605 for_H5921 the_H3605 sword_H2719 to_H5921 come to_H5921 Rabbah of_H8179 the_H3605 children of_H8179 Ammon, and_H2719 to_H5921 Judah in_H5921 Jerusalem_H4616 the_H3605 fortified. 
+@21 For_H6440 the_H6440 king of_H6440 Babylon stood at the_H6440 parting of_H6440 the_H6440 way_H6440, at the_H6440 head_H6440 of_H6440 the_H6440 two ways, to_H6440 use divination. He_H6440 shook the_H6440 arrows back and_H6440 forth. He_H6440 consulted the_H6440 teraphim.^a^ He_H6440 looked in_H6440 the_H6440 liver. 
+@22 In_H0413 his_H3068 right_H1571 hand_H3709 was_H3068 the_H0413 lot for_H0413 Jerusalem, to_H0413 set_H5117 battering rams, to_H0413 open the_H0413 mouth in_H0413 the_H0413 slaughter_H5221, to_H0413 lift up_H0589 the_H0413 voice with_H0413 shouting, to_H0413 set_H5117 battering rams against_H0413 the_H0413 gates, to_H0413 cast_H5117 up_H0589 mounds, and_H3068 to_H0413 build forts. 
+@23 It_H1961 will_H3068 be_H1961 to_H0413 them_H0413 as_H1697 a_H1961 false divination in_H0413 their_H3068 sight, who_H3068 have_H1961 sworn oaths to_H0413 them_H0413; but_H1961 he_H3068 brings iniquity to_H0413 memory, that_H1697 they_H3068 may_H1961 be_H1961 taken_H1961. 
 ^a^[**21:21** teraphim were household idols that may have been associated with inheritance rights to the household property.]
 
 ## God's threat against the main culprit, Zedekiah, and against the city; the messianic king
-@24 “Therefore the Lord Yahweh says: ‘Because you have caused your iniquity to be remembered, in that your transgressions are uncovered, so that in all your doings your sins appear; because you have come to memory, you will be taken with the hand. 
+@24 “Therefore_H0859 the_H0935 Lord Yahweh says: ‘Because_H3027 you_H0859 have_H1121 caused your_H7760 iniquity to_H0935 be_H1121 remembered, in_H0935 that_H3027 your_H7760 transgressions are_H3027 uncovered, so_H3318 that_H3027 in_H0935 all_H0259 your_H7760 doings your_H7760 sins appear; because_H3027 you_H0859 have_H1121 come_H0935 to_H0935 memory, you_H0859 will_H0776 be_H1121 taken_H3318 with_H0935 the_H0935 hand_H3027. 
 
-@25 “‘You, deadly wounded wicked one, the prince of Israel, whose day has come, in the time of the iniquity of the end, 
-@26 the Lord Yahweh says: “Remove the turban, and take off the crown. This will not be as it was. Exalt that which is low, and humble that which is high. 
-@27 I will overturn, overturn, overturn it. This also will be no more, until he comes whose right it is; and I will give it.”’
+@25 “‘You_H7760, deadly wounded wicked one_H1121, the_H0853 prince of_H1121 Israel, whose_H1121 day has_H3063 come_H0935, in_H0935 the_H0853 time of_H1121 the_H0853 iniquity of_H1121 the_H0853 end, 
+@26 the_H3588 Lord Yahweh says: “Remove the_H3588 turban, and_H4428 take_H7200 off_H7218 the_H3588 crown. This_H3588 will_H4428 not_H3588 be_H0517 as_H3588 it_H3588 was_H4428. Exalt that_H3588 which is_H1870 low, and_H4428 humble that_H3588 which is_H1870 high. 
+@27 I_H7760 will_H1961 overturn, overturn, overturn it_H7760. This also will_H1961 be_H1961 no more_H5921, until_H5921 he_H3389 comes_H1961 whose right_H3225 it_H7760 is_H1961; and_H3389 I_H7760 will_H1961 give_H7760 it_H7760.”’
 
 ## The sword of vengeance strikes the Ammonites
-@28 “You, son of man, prophesy and say, ‘The Lord Yahweh says this concerning the children of Ammon, and concerning their reproach: “A sword! A sword is drawn! It is polished for the slaughter, to cause it to devour, that it may be as lightning; 
-@29 while they see for you false visions, while they divine lies to you, to lay you on the necks of the wicked who are deadly wounded, whose day has come in the time of the iniquity of the end. 
-@30 Cause it to return into its sheath. In the place where you were created, in the land of your birth, I will judge you. 
-@31 I will pour out my indignation on you. I will blow on you with the fire of my wrath. I will deliver you into the hand of brutish men, skillful to destroy. 
-@32 You will be for fuel to the fire. Your blood will be in the middle of the land. You will be remembered no more; for I, Yahweh, have spoken it.”’” 
+@28 “You_H5869, son of_H5869 man, prophesy and_H5869 say, ‘The_H1961 Lord Yahweh says this_H1931 concerning the_H1961 children of_H5869 Ammon, and_H5869 concerning their_H1961 reproach: “A_H1961 sword! A_H1961 sword is_H1931 drawn! It_H1931 is_H1931 polished for_H5869 the_H1961 slaughter, to_H1961 cause_H1961 it_H1931 to_H1961 devour, that_H1931 it_H1931 may_H1961 be_H1961 as_H1961 lightning; 
+@29 while_H3541 they_H3651 see_H7200 for_H3605 you_H3605 false visions, while_H3541 they_H3651 divine lies to_H0559 you_H3605, to_H0559 lay_H1540 you_H3605 on_H7200 the_H3605 necks of_H3605 the_H3605 wicked who_H3605 are_H6588 deadly wounded, whose_H3605 day has_H0136 come_H2142 in_H7200 the_H3605 time of_H3605 the_H3605 iniquity_H5771 of_H3605 the_H3605 end. 
+@30 Cause it_H0834 to_H0935 return_H0935 into_H0935 its_H0935 sheath. In_H0935 the_H0834 place_H0935 where_H0834 you_H0859 were_H0834 created, in_H0935 the_H0834 land of_H3117 your_H0834 birth, I_H0834 will_H0834 judge you_H0859. 
+@31 I_H3541 will_H0136 pour out my_H5493 indignation on_H3069 you_H3808. I_H3541 will_H0136 blow on_H3069 you_H3808 with_H0559 the_H0559 fire of_H0559 my_H5493 wrath. I_H3541 will_H0136 deliver you_H3808 into_H5493 the_H0559 hand of_H0559 brutish men_H0559, skillful to_H0559 destroy. 
+@32 You_H0834 will_H1961 be_H1961 for_H4941 fuel to_H0935 the_H0834 fire. Your_H5414 blood will_H1961 be_H1961 in_H0935 the_H0834 middle of_H4941 the_H0834 land. You_H0834 will_H1961 be_H1961 remembered no_H3808 more_H3808; for_H4941 I_H0834, Yahweh, have_H1961 spoken_H0935 it_H7760.”’” 
 
 # 22 
 ## The Guilt and Punishment of Jerusalem
-@1 Moreover Yahweh’s word came to me, saying, 
-@2 “You, son of man, will you judge? Will you judge the bloody city? Then cause her to know all her abominations. 
-@3 You shall say, ‘The Lord Yahweh says: “A city that sheds blood within herself, that her time may come, and that makes idols against herself to defile her! 
-@4 You have become guilty in your blood that you have shed, and are defiled in your idols which you have made! You have caused your days to draw near, and have come to the end of your years. Therefore I have made you a reproach to the nations, and a mocking to all the countries. 
-@5 Those who are near and those who are far from you will mock you, you infamous one, full of tumult.
+@1 Moreover_H1961 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 “You_H0859, son_H1121 of_H1121 man_H0120, will_H1121 you_H0859 judge_H8199? Will_H1121 you_H0859 judge_H8199 the_H3605 bloody_H1818 city_H5892? Then_H0853 cause her_H3605 to_H1121 know_H3045 all_H3605 her_H3605 abominations_H8441. 
+@3 You_H5921 shall say_H0559, ‘The_H0559 Lord_H0136 Yahweh says_H0559: “A_H0935 city_H5892 that_H0559 sheds_H8210 blood_H1818 within_H8432 herself_H5921, that_H0559 her_H5921 time_H6256 may_H6213 come_H0935, and_H0935 that_H0559 makes_H6213 idols_H1544 against_H5921 herself_H5921 to_H0559 defile_H2930 her_H5921! 
+@4 You_H0834 have_H0834 become_H2930 guilty_H0816 in_H5921 your_H3605 blood_H1818 that_H0834 you_H0834 have_H0834 shed_H8210, and_H0935 are_H0834 defiled_H2930 in_H5921 your_H3605 idols_H1544 which_H0834 you_H0834 have_H0834 made_H6213! You_H0834 have_H0834 caused_H5414 your_H3605 days_H3117 to_H0935 draw_H7126 near_H7126, and_H0935 have_H0834 come_H0935 to_H0935 the_H3605 end of_H0776 your_H3605 years_H8141. Therefore_H3651 I_H0834 have_H0834 made_H6213 you_H0834 a_H5414 reproach_H2781 to_H0935 the_H3605 nations_H1471, and_H0935 a_H5414 mocking_H7048 to_H0935 all_H3605 the_H3605 countries_H0776. 
+@5 Those_H4480 who_H7350 are_H7350 near_H7138 and_H8034 those_H4480 who_H7350 are_H7350 far_H7350 from_H4480 you_H4480 will_H8034 mock_H7046 you_H4480, you_H4480 infamous one_H4480, full_H7227 of_H4480 tumult_H4103.
 
 ## Crafting Sins
-@6 “‘“Behold, the princes of Israel, everyone according to his power, have been in you to shed blood. 
-@7 In you have they treated father and mother with contempt.^a^ Among you they have oppressed the foreigner. In you they have wronged the fatherless and the widow. 
-@8 You have despised my holy things, and have profaned my Sabbaths. 
-@9 Slanderous men have been in you to shed blood. In you they have eaten on the mountains. They have committed lewdness among you. 
-@10 In you have they uncovered their fathers’ nakedness. In you have they humbled her who was unclean in her impurity. 
-@11 One has committed abomination with his neighbor’s wife, and another has lewdly defiled his daughter-in-law. Another in you has humbled his sister, his father’s daughter. 
-@12 In you have they taken bribes to shed blood. You have taken interest and increase, and you have greedily gained of your neighbors by oppression, and have forgotten me,” says the Lord Yahweh. 
+@6 “‘“Behold_H2009, the_H1961 princes_H5387 of_H0376 Israel_H3478, everyone_H0376 according_H0376 to_H1961 his_H1961 power_H2220, have_H1961 been_H1961 in_H3478 you_H0376 to_H1961 shed_H8210 blood_H1818. 
+@7 In_H8432 you_H6213 have_H0001 they_H6213 treated_H7043 father_H0001 and_H0001 mother_H0517 with_H0001 contempt_H7043.^a^ Among_H8432 you_H6213 they_H6213 have_H0001 oppressed the_H8432 foreigner_H1616. In_H8432 you_H6213 they_H6213 have_H0001 wronged_H3238 the_H8432 fatherless_H3490 and_H0001 the_H8432 widow_H0490. 
+@8 You_H0853 have_H7676 despised_H0959 my_H0959 holy_H6944 things_H6944, and_H0853 have_H7676 profaned_H2490 my_H0959 Sabbaths_H7676. 
+@9 Slanderous_H7400 men_H0376 have_H1961 been_H1961 in_H0413 you_H6213 to_H0413 shed_H8210 blood_H1818. In_H0413 you_H6213 they_H0376 have_H1961 eaten_H0398 on_H0413 the_H0413 mountains_H2022. They_H0376 have_H1961 committed_H6213 lewdness_H2154 among_H8432 you_H6213. 
+@10 In_H0001 you_H1540 have_H0001 they_H1540 uncovered_H1540 their_H1540 fathers’_H0001 nakedness_H6172. In_H0001 you_H1540 have_H0001 they_H1540 humbled her_H1540 who_H0001 was_H0001 unclean_H2931 in_H0001 her_H1540 impurity_H5079. 
+@11 One_H0376 has_H0376 committed_H6213 abomination_H8441 with_H0854 his_H0376 neighbor’s_H7453 wife_H0802, and_H0376 another_H7453 has_H0376 lewdly_H2154 defiled_H2930 his_H0376 daughter-in-law_H3618. Another_H7453 in_H0802 you_H6213 has_H0376 humbled his_H0376 sister_H0269, his_H0376 father’s_H0001 daughter_H1323. 
+@12 In_H7453 you_H0853 have_H7453 they_H7911 taken_H3947 bribes_H7810 to_H4616 shed_H8210 blood_H1818. You_H0853 have_H7453 taken_H3947 interest_H5392 and_H1818 increase_H8636, and_H1818 you_H0853 have_H7453 greedily gained of_H1818 your_H3947 neighbors_H7453 by_H1214 oppression_H6233, and_H1818 have_H7453 forgotten_H7911 me_H3947,” says_H5002 the_H0853 Lord_H0136 Yahweh. 
 ^a^[**22:7** Literally, made light of father and mother.]
 
-@13 “‘“Behold, therefore I have struck my hand at your dishonest gain which you have made, and at the blood which has been shed within you. 
-@14 Can your heart endure, or can your hands be strong, in the days that I will deal with you? I, Yahweh, have spoken it, and will do it. 
-@15 I will scatter you among the nations, and disperse you through the countries. I will purge your filthiness out of you. 
-@16 You will be profaned in yourself in the sight of the nations. Then you will know that I am Yahweh.”’”
+@13 “‘“Behold_H2009, therefore_H1961 I_H0834 have_H1961 struck_H5221 my_H5921 hand_H3709 at_H0413 your_H5921 dishonest_H1215 gain_H1215 which_H0834 you_H0834 have_H1961 made_H6213, and_H1818 at_H0413 the_H0834 blood_H1818 which_H0834 has_H0834 been_H1961 shed_H1818 within_H8432 you_H0834. 
+@14 Can_H0518 your_H3068 heart_H3820 endure_H5975, or_H0518 can_H0518 your_H3068 hands_H3027 be_H3027 strong_H2388, in_H3068 the_H0834 days_H3117 that_H0834 I_H0589 will_H3068 deal_H6213 with_H0854 you_H0834? I_H0589, Yahweh_H3068, have_H0834 spoken_H1696 it_H0518, and_H3068 will_H3068 do_H6213 it_H0518. 
+@15 I_H0776 will_H0776 scatter_H2219 you_H0853 among_H4480 the_H0853 nations_H1471, and_H0776 disperse_H2219 you_H0853 through_H4480 the_H0853 countries_H0776. I_H0776 will_H0776 purge your_H4480 filthiness out_H4480 of_H0776 you_H0853. 
+@16 You_H3588 will_H3068 be_H3068 profaned_H2490 in_H3068 yourself_H3045 in_H3068 the_H3588 sight_H5869 of_H3068 the_H3588 nations_H1471. Then_H3045 you_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068.”’”
 
 ## The melting of the dross in the furnace of besieged Jerusalem
-@17 Yahweh’s word came to me, saying, 
-@18 “Son of man, the house of Israel has become dross to me. All of them are bronze, tin, iron, and lead in the middle of the furnace. They are the dross of silver. 
-@19 Therefore the Lord Yahweh says: ‘Because you have all become dross, therefore, behold, I will gather you into the middle of Jerusalem. 
-@20 As they gather silver, bronze, iron, lead, and tin into the middle of the furnace, to blow the fire on it, to melt it, so I will gather you in my anger and in my wrath, and I will lay you there and melt you. 
-@21 Yes, I will gather you, and blow on you with the fire of my wrath, and you will be melted in the middle of it. 
-@22 As silver is melted in the middle of the furnace, so you will be melted in the middle of it; and you will know that I, Yahweh, have poured out my wrath on you.’”
+@17 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@18 “Son_H1121 of_H1121 man_H0120, the_H3605 house_H1004 of_H1121 Israel_H3478 has_H1961 become_H1961 dross_H5509 to_H1961 me_H1961. All_H3605 of_H1121 them_H1961 are_H3478 bronze_H5178, tin_H0913, iron_H1270, and_H1121 lead_H5777 in_H1004 the_H3605 middle_H8432 of_H1121 the_H3605 furnace_H3564. They_H3605 are_H3478 the_H3605 dross_H5509 of_H1121 silver_H3701. 
+@19 Therefore_H3651 the_H3605 Lord_H0136 Yahweh says_H0559: ‘Because_H3282 you_H3605 have_H1961 all_H3605 become_H1961 dross_H5509, therefore_H3651, behold_H2005, I_H2005 will_H1961 gather_H6908 you_H3605 into_H0413 the_H3605 middle_H8432 of_H3605 Jerusalem_H3389. 
+@20 As_H3651 they_H3651 gather_H6908 silver_H3701, bronze_H5178, iron_H1270, lead_H5777, and_H3701 tin_H0913 into_H0413 the_H0853 middle_H8432 of_H5921 the_H0853 furnace_H3564, to_H0413 blow_H5301 the_H0853 fire_H0784 on_H5921 it_H5921, to_H0413 melt_H5413 it_H5921, so_H3651 I_H3651 will_H0784 gather_H6908 you_H5921 in_H5921 my_H5921 anger_H0639 and_H3701 in_H5921 my_H5921 wrath_H2534, and_H3701 I_H3651 will_H0784 lay you_H5921 there_H8432 and_H3701 melt_H5413 you_H5921. 
+@21 Yes, I_H5921 will_H0784 gather_H3664 you_H5921, and_H0784 blow_H5301 on_H5921 you_H5921 with_H5921 the_H0853 fire_H0784 of_H5921 my_H5921 wrath_H5678, and_H0784 you_H5921 will_H0784 be melted_H5413 in_H5921 the_H0853 middle_H8432 of_H5921 it_H5921. 
+@22 As_H3651 silver_H3701 is_H3068 melted_H5413 in_H5921 the_H5921 middle_H8432 of_H3068 the_H5921 furnace_H3564, so_H3651 you_H3588 will_H3068 be_H3068 melted_H5413 in_H5921 the_H5921 middle_H8432 of_H3068 it_H5921; and_H3068 you_H3588 will_H3068 know_H3045 that_H3588 I_H0589, Yahweh_H3068, have_H3045 poured_H8210 out_H8210 my_H3068 wrath_H2534 on_H5921 you_H3588.’”
 
 ## Corruption spreads to the whole town
-@23 Yahweh’s word came to me, saying, 
-@24 “Son of man, tell her, ‘You are a land that is not cleansed nor rained on in the day of indignation.’ 
-@25 There is a conspiracy of her prophets within it, like a roaring lion ravening the prey. They have devoured souls. They take treasure and precious things. They have made many widows within it. 
-@26 Her priests have done violence to my law and have profaned my holy things. They have made no distinction between the holy and the common, neither have they caused men to discern between the unclean and the clean, and have hidden their eyes from my Sabbaths. So I am profaned among them. 
-@27 Her princes within it are like wolves ravening the prey, to shed blood and to destroy souls, that they may get dishonest gain. 
-@28 Her prophets have plastered for them with whitewash, seeing false visions, and divining lies to them, saying, ‘The Lord Yahweh says,’ when Yahweh has not spoken. 
-@29 The people of the land have used oppression and exercised robbery. Yes, they have troubled the poor and needy, and have oppressed the foreigner wrongfully. 
+@23 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@24 “Son_H1121 of_H1121 man_H0120, tell_H0559 her_H0559, ‘You_H0859 are_H3117 a_H0776 land_H0776 that_H3117 is_H1931 not_H3808 cleansed_H2891 nor_H3808 rained on_H3117 in_H0776 the_H0559 day_H3117 of_H1121 indignation_H2195.’ 
+@25 There_H8432 is_H5315 a_H3947 conspiracy_H7195 of_H8432 her_H3947 prophets_H5030 within_H8432 it_H0398, like_H7580 a_H3947 roaring_H7580 lion_H0738 ravening_H2963 the_H3947 prey_H2964. They_H5315 have_H5030 devoured_H0398 souls_H5315. They_H5315 take_H3947 treasure_H2633 and_H0398 precious_H3366 things_H3366. They_H5315 have_H5030 made_H3947 many_H7235 widows_H0490 within_H8432 it_H0398. 
+@26 Her_H0996 priests_H3548 have_H5869 done_H2554 violence_H2554 to_H5869 my_H3045 law_H8451 and_H3548 have_H5869 profaned_H2490 my_H3045 holy_H6944 things_H6944. They_H3808 have_H5869 made_H3045 no_H3808 distinction_H0914 between_H0996 the_H0996 holy_H6944 and_H3548 the_H0996 common_H2455, neither_H3808 have_H5869 they_H3808 caused men to_H5869 discern_H3045 between_H0996 the_H0996 unclean_H2931 and_H3548 the_H0996 clean_H2889, and_H3548 have_H5869 hidden_H5956 their_H8432 eyes_H5869 from_H8432 my_H3045 Sabbaths_H7676. So_H3808 I_H3045 am profaned_H2490 among_H8432 them_H2490. 
+@27 Her_H7130 princes_H8269 within_H7130 it_H7130 are_H8269 like_H1818 wolves_H2061 ravening_H2963 the_H0006 prey_H2964, to_H4616 shed_H8210 blood_H1818 and_H1818 to_H4616 destroy_H0006 souls_H5315, that_H4616 they_H7130 may_H5315 get_H1214 dishonest_H1215 gain_H1215. 
+@28 Her_H0559 prophets_H5030 have_H5030 plastered_H2902 for_H3068 them_H0559 with_H3068 whitewash, seeing false_H7723 visions_H7723, and_H3068 divining_H7080 lies_H3577 to_H0559 them_H0559, saying_H0559, ‘The_H0559 Lord_H3068 Yahweh_H3068 says_H0559,’ when_H1696 Yahweh_H3068 has_H3068 not_H3808 spoken_H1696. 
+@29 The_H0853 people_H5971 of_H0776 the_H0853 land_H0776 have_H0776 used oppression_H6233 and_H0776 exercised robbery_H1498. Yes, they_H3808 have_H0776 troubled the_H0853 poor_H6041 and_H0776 needy_H0034, and_H0776 have_H0776 oppressed_H6231 the_H0853 foreigner_H1616 wrongfully. 
 
-@30 “I sought for a man among them who would build up the wall and stand in the gap before me for the land, that I would not destroy it; but I found no one. 
-@31 Therefore I have poured out my indignation on them. I have consumed them with the fire of my wrath. I have brought their own way on their heads,” says the Lord Yahweh. 
+@30 “I_H0776 sought_H1245 for_H1157 a_H4672 man_H0376 among_H4672 them_H1992 who_H0376 would_H0376 build_H1443 up_H5975 the_H6440 wall_H1447 and_H0776 stand_H5975 in_H0776 the_H6440 gap_H6556 before_H6440 me_H6440 for_H1157 the_H6440 land_H0776, that_H3808 I_H0776 would_H0376 not_H3808 destroy_H7843 it_H3808; but_H3808 I_H0776 found_H4672 no_H3808 one_H0376. 
+@31 Therefore I_H5414 have_H5414 poured_H8210 out_H8210 my_H5414 indignation_H2195 on_H5921 them_H5414. I_H5414 have_H5414 consumed_H3615 them_H5414 with_H5921 the_H5002 fire_H0784 of_H7218 my_H5414 wrath_H5678. I_H5414 have_H5414 brought_H5414 their_H5414 own way_H1870 on_H5921 their_H5414 heads_H7218,” says_H5002 the_H5002 Lord_H0136 Yahweh. 
 
 # 23 
 ## The moral corruption of the sister kingdoms Israel and Judah is illustrated
-@1 Yahweh’s word came again to me, saying, 
-@2 “Son of man, there were two women, the daughters of one mother. 
-@3 They played the prostitute in Egypt. They played the prostitute in their youth. Their breasts were fondled there, and their youthful nipples were caressed there. 
-@4 Their names were Oholah the elder, and Oholibah her sister. They became mine, and they bore sons and daughters. As for their names, Samaria is Oholah, and Jerusalem Oholibah.
+@1 Yahweh’s_H3068 word_H1697 came_H1961 again_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 “Son_H1121 of_H1121 man_H0120, there_H1961 were_H1961 two_H8147 women_H0802, the_H1961 daughters_H1323 of_H1121 one_H0259 mother_H0517. 
+@3 They_H8033 played_H2181 the_H2181 prostitute_H2181 in_H8033 Egypt_H4714. They_H8033 played_H2181 the_H2181 prostitute_H2181 in_H8033 their_H8033 youth_H5271. Their_H8033 breasts_H7699 were_H4714 fondled_H1717 there_H8033, and_H4714 their_H8033 youthful nipples_H1717 were_H4714 caressed there_H8033. 
+@4 Their_H1961 names_H8034 were_H1961 Oholah_H0170 the_H3205 elder_H1419, and_H1121 Oholibah_H0172 her_H1961 sister_H0269. They_H3389 became_H3205 mine, and_H1121 they_H3389 bore_H3205 sons_H1121 and_H1121 daughters_H1323. As_H1961 for_H3389 their_H1961 names_H8034, Samaria_H8111 is_H8034 Oholah_H0170, and_H1121 Jerusalem_H3389 Oholibah_H0172.
 
 ## Aholah courting the Assyrians and Egyptians
-@5 “Oholah played the prostitute when she was mine. She doted on her lovers, on the Assyrians her neighbors, 
-@6 who were clothed with blue—governors and rulers, all of them desirable young men, horsemen riding on horses. 
-@7 She gave herself as a prostitute to them, all of them the choicest men of Assyria. She defiled herself with the idols of whoever she lusted after. 
-@8 She hasn’t left her prostitution since leaving Egypt; for in her youth they lay with her. They caressed her youthful nipples and they poured out their prostitution on her. 
+@5 “Oholah_H0170 played_H2181 the_H5921 prostitute_H2181 when_H5921 she was mine_H8478. She doted on_H5921 her_H0413 lovers_H0157, on_H5921 the_H5921 Assyrians her_H0413 neighbors_H7138, 
+@6 who_H3605 were clothed_H3847 with_H3847 blue_H8504—governors_H6346 and_H8504 rulers_H5461, all_H3605 of_H3605 them_H3847 desirable_H2531 young_H0970 men_H0970, horsemen_H6571 riding_H7392 on_H3847 horses_H5483. 
+@7 She_H0834 gave_H5414 herself_H5921 as_H0834 a_H5414 prostitute to_H5921 them_H5414, all_H3605 of_H1121 them_H5414 the_H3605 choicest_H4005 men_H1121 of_H1121 Assyria_H0804. She_H0834 defiled_H2930 herself_H5921 with_H5921 the_H3605 idols_H1544 of_H1121 whoever_H3605 she_H0834 lusted_H5689 after_H5921. 
+@8 She_H3588 hasn’t_H3808 left_H5800 her_H5921 prostitution since_H3588 leaving_H5800 Egypt_H4714; for_H3588 in_H5921 her_H5921 youth_H5271 they_H1992 lay_H7901 with_H0854 her_H5921. They_H1992 caressed her_H5921 youthful nipples_H1717 and_H4714 they_H1992 poured_H8210 out_H8210 their_H1992 prostitution on_H5921 her_H5921. 
 
-@9 “Therefore I delivered her into the hand of her lovers, into the hand of the Assyrians on whom she doted. 
-@10 These uncovered her nakedness. They took her sons and her daughters, and they killed her with the sword. She became a byword among women; for they executed judgments on her.
+@9 “Therefore_H3651 I_H0834 delivered_H5414 her_H5921 into_H5921 the_H0834 hand_H3027 of_H1121 her_H5921 lovers_H0157, into_H5921 the_H0834 hand_H3027 of_H1121 the_H0834 Assyrians on_H5921 whom_H0834 she_H0834 doted. 
+@10 These_H1992 uncovered_H1540 her_H1540 nakedness_H6172. They_H1992 took_H3947 her_H1540 sons_H1121 and_H1121 her_H1540 daughters_H1323, and_H1121 they_H1992 killed_H2026 her_H1540 with_H0802 the_H0853 sword_H2719. She became_H1961 a_H1961 byword_H8034 among_H0802 women_H0802; for_H0802 they_H1992 executed judgments_H8196 on_H1961 her_H1540.
 
 ## Oholibah's courtship with the Assyrians, Chaldeans and Egyptians
-@11 “Her sister Oholibah saw this, yet she was more corrupt in her lusting than she, and in her prostitution which was more depraved than the prostitution of her sister. 
-@12 She lusted after the Assyrians, governors and rulers—her neighbors, clothed most gorgeously, horsemen riding on horses, all of them desirable young men. 
-@13 I saw that she was defiled. They both went the same way. 
+@11 “Her_H7200 sister_H0269 Oholibah_H0172 saw_H7200 this, yet she was_H0269 more_H4480 corrupt_H7843 in_H7200 her_H7200 lusting than_H4480 she, and_H7200 in_H7200 her_H7200 prostitution which was_H0269 more_H4480 depraved_H7843 than_H4480 the_H0853 prostitution of_H4480 her_H7200 sister_H0269. 
+@12 She lusted_H5689 after_H0413 the_H3605 Assyrians, governors_H6346 and_H1121 rulers_H5461—her_H3605 neighbors_H7138, clothed_H3847 most gorgeously, horsemen_H6571 riding_H7392 on_H0413 horses_H5483, all_H3605 of_H1121 them_H0413 desirable_H2531 young_H1121 men_H0970. 
+@13 I_H3588 saw_H7200 that_H3588 she_H3588 was_H0259 defiled_H2930. They_H3588 both_H8147 went the_H3588 same_H0259 way_H1870. 
 
-@14 “She increased her prostitution; for she saw men portrayed on the wall, the images of the Chaldeans portrayed with red, 
-@15 dressed with belts on their waists, with flowing turbans on their heads, all of them looking like princes, after the likeness of the Babylonians in Chaldea, the land of their birth. 
-@16 As soon as she saw them, she lusted after them and sent messengers to them into Chaldea. 
-@17 The Babylonians came to her into the bed of love, and they defiled her with their prostitution. She was polluted with them, and her soul was alienated from them. 
-@18 So she uncovered her prostitution and uncovered her nakedness. Then my soul was alienated from her, just like my soul was alienated from her sister. 
-@19 Yet she multiplied her prostitution, remembering the days of her youth, in which she had played the prostitute in the land of Egypt. 
-@20 She lusted after their lovers, whose flesh is as the flesh of donkeys, and whose issue is like the issue of horses. 
-@21 Thus you called to memory the lewdness of your youth, in the caressing of your nipples by the Egyptians because of your youthful breasts.
+@14 “She increased_H3254 her_H0413 prostitution; for_H5921 she saw_H7200 men_H0376 portrayed_H2707 on_H5921 the_H5921 wall_H7023, the_H5921 images_H6754 of_H0376 the_H5921 Chaldeans_H3778 portrayed_H2707 with_H0413 red_H8350, 
+@15 dressed with_H0776 belts_H0232 on_H0776 their_H3605 waists, with_H0776 flowing_H5628 turbans_H2871 on_H0776 their_H3605 heads_H7218, all_H3605 of_H1121 them_H1823 looking_H4758 like_H4758 princes, after_H0776 the_H3605 likeness_H1823 of_H1121 the_H3605 Babylonians_H3778 in_H0776 Chaldea_H3778, the_H3605 land_H0776 of_H1121 their_H3605 birth_H4138. 
+@16 As_H0413 soon as_H0413 she saw them_H0413, she lusted_H5689 after_H5921 them_H0413 and_H7971 sent_H7971 messengers_H4397 to_H0413 them_H0413 into_H0413 Chaldea_H3778. 
+@17 The_H0853 Babylonians came_H0935 to_H0413 her_H0413 into_H0413 the_H0853 bed_H4904 of_H1121 love_H1730, and_H1121 they_H1992 defiled_H2930 her_H0413 with_H0413 their_H1992 prostitution. She was_H1121 polluted with_H0413 them_H0413, and_H1121 her_H0413 soul_H5315 was_H1121 alienated_H3363 from_H0935 them_H0413. 
+@18 So_H0834 she_H0834 uncovered_H1540 her_H1540 prostitution and_H0853 uncovered_H1540 her_H1540 nakedness_H6172. Then_H0853 my_H5921 soul_H5315 was_H0834 alienated_H5361 from_H5921 her_H1540, just_H0834 like_H0834 my_H5921 soul_H5315 was_H0834 alienated_H5361 from_H5921 her_H1540 sister_H0269. 
+@19 Yet_H3117 she_H0834 multiplied_H7235 her_H3117 prostitution, remembering_H2142 the_H0853 days_H3117 of_H0776 her_H3117 youth_H5271, in_H0776 which_H0834 she_H0834 had_H0834 played_H2181 the_H0853 prostitute_H2181 in_H0776 the_H0853 land_H0776 of_H0776 Egypt_H4714. 
+@20 She_H0834 lusted_H5689 after_H5921 their_H5921 lovers_H5689, whose_H0834 flesh_H1320 is_H0834 as_H0834 the_H0834 flesh_H1320 of_H5921 donkeys_H2543, and_H1320 whose_H0834 issue_H2231 is_H0834 like_H0834 the_H0834 issue_H2231 of_H5921 horses_H5483. 
+@21 Thus_H4616 you_H6213 called to_H4714 memory the_H0853 lewdness_H2154 of_H4616 your_H6485 youth_H5271, in_H4714 the_H0853 caressing of_H4616 your_H6485 nipples_H1717 by_H6485 the_H0853 Egyptians_H4714 because_H4616 of_H4616 your_H6485 youthful breasts_H7699.
 
 ## Announcement of divine judgment to be carried out on Aholibah through Babylon
-@22 “Therefore, Oholibah, the Lord Yahweh says: ‘Behold, I will raise up your lovers against you, from whom your soul is alienated, and I will bring them against you on every side: 
-@23 the Babylonians and all the Chaldeans, Pekod, Shoa, Koa, and all the Assyrians with them; all of them desirable young men, governors and rulers, princes and men of renown, all of them riding on horses. 
-@24 They will come against you with weapons, chariots, and wagons, and with a company of peoples. They will set themselves against you with buckler, shield, and helmet all around. I will commit the judgment to them, and they will judge you according to their judgments. 
-@25 I will set my jealousy against you, and they will deal with you in fury. They will take away your nose and your ears. Your remnant will fall by the sword. They will take your sons and your daughters; and the rest of you will be devoured by the fire. 
-@26 They will also strip you of your clothes and take away your beautiful jewels. 
-@27 Thus I will make your lewdness to cease from you, and remove your prostitution from the land of Egypt, so that you will not lift up your eyes to them, nor remember Egypt any more.’ 
+@22 “Therefore_H3651, Oholibah_H0172, the_H0853 Lord_H0136 Yahweh says_H0559: ‘Behold_H2005, I_H0834 will_H0834 raise_H5782 up_H5921 your_H5921 lovers_H0157 against_H5921 you_H0834, from_H0935 whom_H0834 your_H5921 soul_H5315 is_H0834 alienated_H5361, and_H0935 I_H0834 will_H0834 bring_H0935 them_H1992 against_H5921 you_H0834 on_H5921 every_H5439 side_H5439: 
+@23 the_H3605 Babylonians_H3778 and_H1121 all_H3605 the_H3605 Chaldeans_H3778, Pekod_H6489, Shoa_H7772, Koa_H6970, and_H1121 all_H3605 the_H3605 Assyrians with_H0854 them_H7121; all_H3605 of_H1121 them_H7121 desirable_H2531 young_H1121 men_H0970, governors_H6346 and_H1121 rulers_H5461, princes and_H1121 men_H0970 of_H1121 renown_H7121, all_H3605 of_H1121 them_H7121 riding_H7392 on_H7392 horses_H5483. 
+@24 They_H5921 will_H5414 come_H0935 against_H5921 you_H5414 with_H5921 weapons_H2021, chariots_H7393, and_H0935 wagons_H1534, and_H0935 with_H5921 a_H5414 company_H6951 of_H6440 peoples_H5971. They_H5921 will_H5414 set_H7760 themselves_H5921 against_H5921 you_H5414 with_H5921 buckler_H4043, shield_H4043, and_H0935 helmet_H6959 all_H5439 around_H5439. I_H5414 will_H5414 commit_H5414 the_H6440 judgment_H4941 to_H0935 them_H5414, and_H0935 they_H5921 will_H5414 judge_H8199 you_H5414 according_H5921 to_H0935 their_H5414 judgments_H4941. 
+@25 I_H5414 will_H2719 set_H5414 my_H5414 jealousy_H7068 against_H0854 you_H5414, and_H1121 they_H1992 will_H2719 deal_H6213 with_H0854 you_H5414 in_H1121 fury_H2534. They_H1992 will_H2719 take_H3947 away_H5493 your_H5414 nose_H0639 and_H1121 your_H5414 ears_H0241. Your_H5414 remnant will_H2719 fall_H5307 by_H0784 the_H5414 sword_H2719. They_H1992 will_H2719 take_H3947 your_H5414 sons_H1121 and_H1121 your_H5414 daughters_H1323; and_H1121 the_H5414 rest_H0319 of_H1121 you_H5414 will_H2719 be_H1121 devoured_H0398 by_H0784 the_H5414 fire_H0784. 
+@26 They will also_H0853 strip_H6584 you_H0853 of_H3627 your_H3947 clothes_H0899 and_H0853 take_H3947 away_H3947 your_H3947 beautiful_H8597 jewels_H3627. 
+@27 Thus_H3808 I_H0776 will_H0776 make_H2142 your_H5375 lewdness_H2154 to_H0413 cease_H7673 from_H4480 you_H0853, and_H0776 remove_H7673 your_H5375 prostitution_H2184 from_H4480 the_H0853 land_H0776 of_H0776 Egypt_H4714, so_H4480 that_H4480 you_H0853 will_H0776 not_H3808 lift_H5375 up_H5375 your_H5375 eyes_H5869 to_H0413 them_H0413, nor_H3808 remember_H2142 Egypt_H4714 any_H4480 more_H4480.’ 
 
-@28 “For the Lord Yahweh says: ‘Behold, I will deliver you into the hand of them whom you hate, into the hand of them from whom your soul is alienated. 
-@29 They will deal with you in hatred, and will take away all your labor, and will leave you naked and bare. The nakedness of your prostitution will be uncovered, both your lewdness and your prostitution. 
-@30 These things will be done to you because you have played the prostitute after the nations, and because you are polluted with their idols. 
-@31 You have walked in the way of your sister; therefore I will give her cup into your hand.’ 
+@28 “For_H3588 the_H0559 Lord_H0136 Yahweh says_H0559: ‘Behold_H2005, I_H0834 will_H0834 deliver_H5414 you_H0834 into_H3027 the_H0559 hand_H3027 of_H3027 them_H5414 whom_H0834 you_H0834 hate_H8130, into_H3027 the_H0559 hand_H3027 of_H3027 them_H5414 from_H5315 whom_H0834 your_H5414 soul_H5315 is_H0834 alienated_H5361. 
+@29 They_H3605 will_H3605 deal_H6213 with_H0854 you_H3605 in_H3947 hatred_H8135, and_H3947 will_H3605 take_H3947 away_H1540 all_H3605 your_H3605 labor_H3018, and_H3947 will_H3605 leave_H5800 you_H3605 naked_H5903 and_H3947 bare_H1540. The_H3605 nakedness_H6172 of_H3605 your_H3605 prostitution will_H3605 be_H3605 uncovered_H1540, both_H3605 your_H3605 lewdness_H2154 and_H3947 your_H3605 prostitution. 
+@30 These_H0428 things_H0428 will_H0834 be_H1471 done_H6213 to_H5921 you_H0834 because_H5921 you_H0834 have_H0834 played_H2181 the_H0834 prostitute_H2181 after_H0310 the_H0834 nations_H1471, and_H1471 because_H5921 you_H0834 are_H0834 polluted with_H5921 their_H5921 idols_H1544. 
+@31 You_H5414 have_H5414 walked_H1980 in_H1980 the_H5414 way_H1870 of_H3027 your_H5414 sister_H0269; therefore I_H5414 will_H3027 give_H5414 her_H5414 cup_H3563 into_H1980 your_H5414 hand_H3027.’ 
 
-@32 “The Lord Yahweh says: ‘You will drink of your sister’s cup, which is deep and large. You will be ridiculed and held in derision. It contains much. 
-@33 You will be filled with drunkenness and sorrow, with the cup of astonishment and desolation, with the cup of your sister Samaria. 
-@34 You will even drink it and drain it out. You will gnaw the broken pieces of it, and will tear your breasts; for I have spoken it,’ says the Lord Yahweh. 
+@32 “The_H0559 Lord_H0136 Yahweh says_H0559: ‘You_H1961 will_H1961 drink_H8354 of_H0269 your_H1961 sister’s_H0269 cup_H3563, which is_H1961 deep_H6013 and_H8354 large. You_H1961 will_H1961 be_H1961 ridiculed and_H8354 held_H3557 in_H1961 derision. It_H1961 contains_H3557 much_H4767. 
+@33 You will_H8111 be_H8111 filled_H4390 with_H4390 drunkenness_H7943 and_H8111 sorrow_H3015, with_H4390 the_H4390 cup_H3563 of_H4390 astonishment and_H8111 desolation_H8077, with_H4390 the_H4390 cup_H3563 of_H4390 your_H4390 sister_H0269 Samaria_H8111. 
+@34 You_H3588 will_H0136 even_H3588 drink_H8354 it_H3588 and_H8354 drain_H4680 it_H3588 out_H4680. You_H3588 will_H0136 gnaw_H4680 the_H0853 broken_H5423 pieces of_H0136 it_H3588, and_H8354 will_H0136 tear_H5423 your_H3588 breasts_H7699; for_H3588 I_H0589 have_H0589 spoken_H1696 it_H3588,’ says_H5002 the_H0853 Lord_H0136 Yahweh. 
 
-@35 “Therefore the Lord Yahweh says: ‘Because you have forgotten me and cast me behind your back, therefore you also bear your lewdness and your prostitution.’”
+@35 “Therefore_H3651 the_H0853 Lord_H0136 Yahweh says_H0559: ‘Because_H3282 you_H0859 have_H1571 forgotten_H7911 me_H0310 and_H0853 cast_H7993 me_H0310 behind_H0310 your_H5375 back_H0310, therefore_H3651 you_H0859 also_H1571 bear_H5375 your_H5375 lewdness_H2154 and_H0853 your_H5375 prostitution.’”
 
 ## Final summary of guilt, especially religious atrocities, and just punishment of both sisters
-@36 Yahweh said moreover to me: “Son of man, will you judge Oholah and Oholibah? Then declare to them their abominations. 
-@37 For they have committed adultery, and blood is in their hands. They have committed adultery with their idols. They have also caused their sons, whom they bore to me, to pass through the fire to them to be devoured. 
-@38 Moreover this they have done to me: they have defiled my sanctuary in the same day, and have profaned my Sabbaths. 
-@39 For when they had slain their children to their idols, then they came the same day into my sanctuary to profane it; and behold, they have done this in the middle of my house. 
+@36 Yahweh_H3068 said_H0559 moreover to_H0413 me_H0413: “Son_H1121 of_H1121 man_H0120, will_H3068 you_H5046 judge_H8199 Oholah_H0170 and_H1121 Oholibah_H0172? Then_H0853 declare_H5046 to_H0413 them_H0413 their_H3068 abominations_H8441. 
+@37 For_H3588 they_H0834 have_H0834 committed_H5003 adultery_H5003, and_H1121 blood_H1818 is_H0834 in_H1121 their_H3588 hands_H3027. They_H0834 have_H0834 committed_H5003 adultery_H5003 with_H0854 their_H3588 idols_H1544. They_H0834 have_H0834 also_H1571 caused_H0854 their_H3588 sons_H1121, whom_H0834 they_H0834 bore_H3205 to_H3205 me_H3205, to_H3205 pass_H5674 through_H3027 the_H0853 fire to_H3205 them_H0853 to_H3205 be_H1571 devoured. 
+@38 Moreover_H5750 this_H2063 they_H3117 have_H3117 done_H6213 to_H3117 me_H3117: they_H3117 have_H3117 defiled_H2930 my_H2930 sanctuary_H4720 in_H3117 the_H0853 same_H1931 day_H3117, and_H3117 have_H3117 profaned_H2490 my_H2930 Sabbaths_H7676. 
+@39 For_H0413 when_H3117 they_H3117 had_H0853 slain_H7819 their_H0935 children_H1121 to_H0413 their_H0935 idols_H1544, then_H2009 they_H3117 came_H0935 the_H0853 same_H1931 day_H3117 into_H0413 my_H0935 sanctuary_H4720 to_H0413 profane_H2490 it_H1931; and_H1121 behold_H2009, they_H3117 have_H1121 done_H6213 this_H1931 in_H0935 the_H0853 middle_H8432 of_H1121 my_H0935 house_H1004. 
 
-@40 “Furthermore you sisters have sent for men who come from far away, to whom a messenger was sent, and behold, they came; for whom you washed yourself, painted your eyes, decorated yourself with ornaments, 
-@41 and sat on a stately bed, with a table prepared before it, whereupon you set my incense and my oil. 
+@40 “Furthermore_H0637 you_H0834 sisters have_H0834 sent_H7971 for_H3588 men_H0376 who_H0834 come_H0935 from_H0935 far_H4801 away_H7971, to_H0413 whom_H0834 a_H3588 messenger_H4397 was_H0834 sent_H7971, and_H0935 behold_H2009, they_H0834 came_H0935; for_H3588 whom_H0834 you_H0834 washed_H7364 yourself_H0413, painted_H3583 your_H0834 eyes_H5869, decorated yourself_H0413 with_H0413 ornaments_H5716, 
+@41 and_H6440 sat_H3427 on_H5921 a_H7760 stately bed_H4296, with_H5921 a_H7760 table_H7979 prepared before_H6440 it_H7760, whereupon you_H6440 set_H7760 my_H7760 incense_H7004 and_H6440 my_H7760 oil_H8081. 
 
-@42 “The voice of a multitude being at ease was with her. With men of the common sort were brought drunkards from the wilderness; and they put bracelets on their hands, and beautiful crowns on their heads. 
-@43 Then I said of her who was old in adulteries, ‘Now they will play the prostitute with her, and she with them.’ 
-@44 They went in to her, as they go in to a prostitute. So they went in to Oholah and to Oholibah, the lewd women. 
-@45 Righteous men will judge them with the judgment of adulteresses and with the judgment of women who shed blood, because they are adulteresses, and blood is in their hands. 
+@42 “The_H5921 voice_H6963 of_H0376 a_H5414 multitude_H1995 being at_H0413 ease_H7961 was_H0376 with_H0413 her_H0413. With_H0413 men_H0376 of_H0376 the_H5921 common sort were_H0376 brought_H0935 drunkards_H5433 from_H0935 the_H5921 wilderness_H4057; and_H0935 they_H5921 put_H5414 bracelets_H6781 on_H5921 their_H5414 hands_H3027, and_H0935 beautiful_H8597 crowns_H5850 on_H5921 their_H5414 heads_H7218. 
+@43 Then_H6258 I_H6258 said_H0559 of_H0559 her_H0559 who_H1931 was_H1931 old in_H0559 adulteries_H5004, ‘Now_H6258 they_H0559 will_H1931 play_H2181 the_H0559 prostitute_H2181 with_H2181 her_H0559, and_H6258 she_H1931 with_H2181 them_H0559.’ 
+@44 They_H3651 went_H0935 in_H0935 to_H0413 her_H0413, as_H0935 they_H3651 go_H0935 in_H0935 to_H0413 a_H0935 prostitute_H2181. So_H3651 they_H3651 went_H0935 in_H0935 to_H0413 Oholah_H0170 and_H0935 to_H0413 Oholibah_H0172, the_H0413 lewd_H2154 women_H0802. 
+@45 Righteous_H6662 men_H0376 will_H0376 judge_H8199 them_H1992 with_H0376 the_H0853 judgment_H4941 of_H0376 adulteresses_H5003 and_H3027 with_H0376 the_H0853 judgment_H4941 of_H0376 women who_H0376 shed_H8210 blood_H1818, because_H3588 they_H1992 are_H1992 adulteresses_H5003, and_H3027 blood_H1818 is_H0376 in_H0376 their_H1992 hands_H3027. 
 
-@46 “For the Lord Yahweh says: ‘I will bring up a mob against them, and will give them to be tossed back and forth and robbed. 
-@47 The company will stone them with stones and dispatch them with their swords. They will kill their sons and their daughters, and burn up their houses with fire. 
+@46 “For_H3588 the_H0853 Lord_H0136 Yahweh says_H0559: ‘I_H3588 will_H5414 bring_H5927 up_H5927 a_H3588 mob against_H5921 them_H5414, and_H0853 will_H5414 give_H5414 them_H5414 to_H0559 be_H0136 tossed back_H5927 and_H0853 forth_H5414 and_H0853 robbed. 
+@47 The_H0853 company_H6951 will_H2719 stone_H0068 them_H0853 with_H1004 stones_H0068 and_H1121 dispatch them_H0853 with_H1004 their_H5921 swords_H2719. They_H5921 will_H2719 kill_H2026 their_H5921 sons_H1121 and_H1121 their_H5921 daughters_H1323, and_H1121 burn_H8313 up_H5921 their_H5921 houses_H1004 with_H1004 fire_H0784. 
 
-@48 “‘Thus I will cause lewdness to cease out of the land, that all women may be taught not to be lewd like you. 
-@49 They will recompense your lewdness on you, and you will bear the sins of your idols. Then you will know that I am the Lord Yahweh.’” 
+@48 “‘Thus_H3808 I_H0776 will_H0776 cause lewdness_H2154 to_H0776 cease_H7673 out_H4480 of_H0776 the_H3605 land_H0776, that_H3605 all_H3605 women_H0802 may_H0776 be_H3808 taught_H3256 not_H3808 to_H0776 be_H3808 lewd_H2154 like_H0776 you_H3605. 
+@49 They_H3588 will_H5414 recompense your_H5414 lewdness_H2154 on_H5921 you_H3588, and_H3045 you_H3588 will_H5414 bear_H5375 the_H5921 sins_H2399 of_H5921 your_H5414 idols_H1544. Then_H5375 you_H3588 will_H5414 know_H3045 that_H3588 I_H0589 am_H0589 the_H5921 Lord_H0136 Yahweh.’” 
 
 # 24 
 ## Parable of the rusty and incurable saucepan and its fate
-@1 Again, in the ninth year, in the tenth month, in the tenth day of the month, Yahweh’s word came to me, saying, 
-@2 “Son of man, write the name of the day, this same day. The king of Babylon drew close to Jerusalem this same day. 
-@3 Utter a parable to the rebellious house, and tell them, ‘The Lord Yahweh says, “Put the cauldron on the fire. Put it on, and also pour water into it. 
-@4 Gather its pieces into it, even every good piece: the thigh and the shoulder. Fill it with the choice bones. 
-@5 Take the choice of the flock, and also a pile of wood for the bones under the cauldron. Make it boil well. Yes, let its bones be boiled within it.” 
-@6 “‘Therefore the Lord Yahweh says: “Woe to the bloody city, to the cauldron whose rust is in it, and whose rust hasn’t gone out of it! Take out of it piece after piece without casting lots for it. 
-@7 “‘“For the blood she shed is in the middle of her. She set it on the bare rock. She didn’t pour it on the ground, to cover it with dust. 
-@8 That it may cause wrath to come up to take vengeance, I have set her blood on the bare rock, that it should not be covered.” 
-@9 “‘Therefore the Lord Yahweh says: “Woe to the bloody city! I also will make the pile great. 
-@10 Heap on the wood. Make the fire hot. Boil the meat well. Make the broth thick, and let the bones be burned. 
-@11 Then set it empty on its coals, that it may be hot, and its bronze may burn, and that its filthiness may be molten in it, that its rust may be consumed. 
-@12 She is weary with toil; yet her great rust, rust by fire, doesn’t leave her. 
+@1 Again_H1961, in_H8141 the_H0559 ninth_H8671 year_H8141, in_H8141 the_H0559 tenth_H6224 month_H2320, in_H8141 the_H0559 tenth_H6224 day_H2320 of_H3068 the_H0559 month_H2320, Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 “Son_H1121 of_H1121 man_H0120, write_H3789 the_H0853 name_H8034 of_H1121 the_H0853 day_H3117, this_H2088 same_H6106 day_H3117. The_H0853 king_H4428 of_H1121 Babylon_H0894 drew close to_H0413 Jerusalem_H3389 this_H2088 same_H6106 day_H3117. 
+@3 Utter a_H1571 parable_H4912 to_H0413 the_H0559 rebellious_H4805 house_H1004, and_H1004 tell_H0559 them_H0413, ‘The_H0559 Lord_H0136 Yahweh says_H0559, “Put_H8239 the_H0559 cauldron on_H0413 the_H0559 fire. Put_H8239 it_H1004 on_H0413, and_H1004 also_H1571 pour_H3332 water_H4325 into_H0413 it_H1004. 
+@4 Gather_H0622 its_H3605 pieces_H5409 into_H0413 it_H0622, even every_H3605 good_H2896 piece_H5409: the_H3605 thigh_H3409 and_H3605 the_H3605 shoulder_H3802. Fill_H4390 it_H0622 with_H4390 the_H3605 choice_H4005 bones_H6106. 
+@5 Take_H3947 the_H3947 choice_H4005 of_H8478 the_H3947 flock_H6629, and_H6629 also_H1571 a_H3947 pile_H1754 of_H8478 wood_H6106 for_H8478 the_H3947 bones_H6106 under_H8478 the_H3947 cauldron. Make_H3947 it_H3947 boil_H1310 well_H1571. Yes_H1571, let its_H8478 bones_H6106 be_H1571 boiled_H1310 within_H8432 it_H3947.” 
+@6 “‘Therefore_H3651 the_H0559 Lord_H0136 Yahweh says_H0559: “Woe_H0188 to_H0559 the_H0559 bloody_H1818 city_H5892, to_H0559 the_H0559 cauldron whose_H0834 rust_H2457 is_H0834 in_H5921 it_H5921, and_H1818 whose_H0834 rust_H2457 hasn’t_H3808 gone_H3318 out_H3318 of_H4480 it_H5921! Take_H3318 out_H3318 of_H4480 it_H5921 piece_H5409 after_H4480 piece_H5409 without_H3808 casting lots_H1486 for_H5921 it_H5921. 
+@7 “‘“For_H3588 the_H5921 blood_H1818 she_H3588 shed_H8210 is_H0776 in_H5921 the_H5921 middle_H8432 of_H0776 her_H5921. She_H3588 set_H7760 it_H7760 on_H5921 the_H5921 bare_H6706 rock_H5553. She_H3588 didn’t_H3808 pour_H8210 it_H7760 on_H5921 the_H5921 ground_H0776, to_H1961 cover_H3680 it_H7760 with_H5921 dust_H6083. 
+@8 That_H5927 it_H5414 may_H5414 cause_H5414 wrath_H2534 to_H5921 come_H5927 up_H5927 to_H5921 take_H5358 vengeance_H5359, I_H5414 have_H5414 set_H5414 her_H5921 blood_H1818 on_H5921 the_H0853 bare_H6706 rock_H5553, that_H5927 it_H5414 should not_H1115 be_H5414 covered_H3680.” 
+@9 “‘Therefore_H3651 the_H0559 Lord_H0136 Yahweh says_H0559: “Woe_H0188 to_H0559 the_H0559 bloody_H1818 city_H5892! I_H0589 also_H1571 will_H1571 make_H1431 the_H0559 pile_H4071 great_H1431. 
+@10 Heap on_H0784 the_H1814 wood_H6086. Make_H8552 the_H1814 fire_H0784 hot. Boil_H8552 the_H1814 meat_H1320 well_H8552. Make_H8552 the_H1814 broth thick, and_H6086 let the_H1814 bones_H6106 be_H6086 burned_H2787. 
+@11 Then_H4616 set_H5975 it_H5921 empty_H7386 on_H5921 its_H5921 coals_H1513, that_H4616 it_H5921 may_H5178 be hot_H1513, and_H5975 its_H5921 bronze_H5178 may_H5178 burn_H2787, and_H5975 that_H4616 its_H5921 filthiness may_H5178 be molten in_H5921 it_H5921, that_H4616 its_H5921 rust_H2457 may_H5178 be consumed_H8552. 
+@12 She_H3808 is_H3808 weary_H3811 with_H3318 toil_H8383; yet_H3808 her_H4480 great_H7227 rust_H2457, rust_H2457 by_H0784 fire_H0784, doesn’t_H3808 leave_H3318 her_H4480. 
 
-@13 “‘“In your filthiness is lewdness. Because I have cleansed you and you weren’t cleansed, you won’t be cleansed from your filthiness any more, until I have caused my wrath toward you to rest. 
+@13 “‘“In_H5750 your_H3808 filthiness is_H2534 lewdness_H2154. Because_H3282 I_H5704 have_H3808 cleansed_H2891 you_H5704 and_H0853 you_H5704 weren’t cleansed_H2891, you_H5704 won’t_H3808 be_H5750 cleansed_H2891 from_H5704 your_H3808 filthiness any_H5750 more_H5750, until_H5704 I_H5704 have_H3808 caused my_H5117 wrath_H2534 toward_H5704 you_H5704 to_H5704 rest_H5117. 
 
-@14 “‘“I, Yahweh, have spoken it. It will happen, and I will do it. I won’t go back. I won’t spare. I won’t repent. According to your ways and according to your doings, they will judge you,” says the Lord Yahweh.’”
+@14 “‘“I_H0589, Yahweh_H3068, have_H2347 spoken_H1696 it_H6213. It_H6213 will_H3068 happen, and_H0935 I_H0589 will_H3068 do_H6213 it_H6213. I_H0589 won’t_H3808 go_H0935 back_H0935. I_H0589 won’t_H3808 spare_H2347. I_H0589 won’t_H3808 repent_H5162. According to_H0935 your_H3068 ways_H1870 and_H0935 according to_H0935 your_H3068 doings, they_H3808 will_H3068 judge_H8199 you_H0935,” says_H5002 the_H5002 Lord_H3068 Yahweh_H3068.’”
 
 ## Announcement of the sudden death of the beloved wife and prohibition of the customs of mourning and mourning for her
-@15 Also Yahweh’s word came to me, saying, 
-@16 “Son of man, behold, I will take away from you the desire of your eyes with one stroke; yet you shall neither mourn nor weep, neither shall your tears run down. 
-@17 Sigh, but not aloud. Make no mourning for the dead. Bind your headdress on you, and put your sandals on your feet. Don’t cover your lips, and don’t eat mourner’s bread.”
+@15 Also_H3068 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@16 “Son_H1121 of_H1121 man_H0120, behold_H2005, I_H2005 will_H5869 take_H3947 away_H3947 from_H4480 you_H0935 the_H0853 desire_H4261 of_H1121 your_H3947 eyes_H5869 with_H0935 one_H0120 stroke; yet_H3808 you_H0935 shall_H1121 neither_H3808 mourn_H5594 nor_H3808 weep_H1058, neither_H3808 shall_H1121 your_H3947 tears_H1832 run down. 
+@17 Sigh, but_H3808 not_H3808 aloud. Make_H7760 no_H3808 mourning_H0060 for_H5921 the_H5921 dead_H4191. Bind_H2280 your_H5921 headdress on_H5921 you_H5921, and_H0398 put_H4191 your_H5921 sandals_H5275 on_H5921 your_H5921 feet_H7272. Don’t_H3808 cover_H5844 your_H5921 lips, and_H0398 don’t_H3808 eat_H0398 mourner’s bread_H3899.”
 
 ## Wife death occurrence; Enlightening messages from Ezequiel to the exile community
-@18 So I spoke to the people in the morning, and at evening my wife died. So I did in the morning as I was commanded. 
+@18 So_H6213 I_H0834 spoke_H1696 to_H0413 the_H0834 people_H5971 in_H0413 the_H0834 morning_H1242, and_H0802 at_H0413 evening_H6153 my_H0834 wife_H0802 died_H4191. So_H6213 I_H0834 did_H6213 in_H0413 the_H0834 morning_H1242 as_H0834 I_H0834 was_H0834 commanded_H6680. 
 
-@19 The people asked me, “Won’t you tell us what these things mean to us, that you act like this?” 
+@19 The_H0559 people_H5971 asked_H0559 me_H0413, “Won’t_H3808 you_H0859 tell_H5046 us_H0413 what_H4100 these_H0428 things_H0428 mean to_H0413 us_H0413, that_H3588 you_H0859 act_H6213 like_H3808 this_H0428?” 
 
-@20 Then I said to them, “Yahweh’s word came to me, saying, 
-@21 ‘Speak to the house of Israel, “The Lord Yahweh says: ‘Behold, I will profane my sanctuary, the pride of your power, the desire of your eyes, and that which your soul pities; and your sons and your daughters whom you have left behind will fall by the sword. 
-@22 You will do as I have done. You won’t cover your lips or eat mourner’s bread. 
-@23 Your turbans will be on your heads, and your sandals on your feet. You won’t mourn or weep; but you will pine away in your iniquities, and moan one toward another. 
-@24 Thus Ezekiel will be a sign to you; according to all that he has done, you will do. When this comes, then you will know that I am the Lord Yahweh.’”’”
+@20 Then_H1961 I_H1697 said_H0559 to_H0413 them_H0413, “Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@21 ‘Speak_H0559 to_H0559 the_H0853 house_H1004 of_H1121 Israel_H3478, “The_H0853 Lord_H0136 Yahweh says_H0559: ‘Behold_H2005, I_H0834 will_H0834 profane_H2490 my_H0834 sanctuary_H4720, the_H0853 pride_H1347 of_H1121 your_H0834 power_H5797, the_H0853 desire_H5315 of_H1121 your_H0834 eyes_H5869, and_H1121 that_H0834 which_H0834 your_H0834 soul_H5315 pities; and_H1121 your_H0834 sons_H1121 and_H1121 your_H0834 daughters_H1323 whom_H0834 you_H0834 have_H0834 left_H5800 behind will_H0834 fall_H5307 by_H3478 the_H0853 sword_H2719. 
+@22 You_H0834 will_H0834 do_H6213 as_H0834 I_H0834 have_H0834 done_H6213. You_H0834 won’t_H3808 cover_H5844 your_H5921 lips or_H3808 eat_H0398 mourner’s bread_H3899. 
+@23 Your_H5921 turbans_H6287 will_H0376 be_H3808 on_H5921 your_H5921 heads_H7218, and_H0376 your_H5921 sandals_H5275 on_H5921 your_H5921 feet_H7272. You_H5921 won’t_H3808 mourn_H5594 or_H3808 weep_H1058; but_H3808 you_H5921 will_H0376 pine away_H4743 in_H5921 your_H5921 iniquities_H5771, and_H0376 moan one_H0376 toward_H0413 another_H0251. 
+@24 Thus_H1961 Ezekiel_H3168 will_H1961 be_H1961 a_H1961 sign_H4159 to_H0935 you_H0834; according to_H0935 all_H3605 that_H0834 he_H0834 has_H0834 done_H6213, you_H0834 will_H1961 do_H6213. When_H3588 this_H3588 comes_H0935, then_H1961 you_H0834 will_H1961 know_H3045 that_H0834 I_H0589 am_H0589 the_H3605 Lord_H0136 Yahweh.’”’”
 
 ## Announcing wonderful new events
-@25 “You, son of man, shouldn’t it be in the day when I take from them their strength, the joy of their glory, the desire of their eyes, and that whereupon they set their heart—their sons and their daughters— 
-@26 that in that day he who escapes will come to you, to cause you to hear it with your ears? 
-@27 In that day your mouth will be opened to him who has escaped, and you will speak and be no more mute. So you will be a sign to them. Then they will know that I am Yahweh.” 
+@25 “You_H0859, son_H1121 of_H1121 man_H0120, shouldn’t it_H3947 be_H3808 in_H3117 the_H0853 day_H3117 when_H3117 I_H3117 take_H3947 from_H5315 them_H1992 their_H1992 strength_H4581, the_H0853 joy_H4885 of_H1121 their_H1992 glory_H8597, the_H0853 desire_H5315 of_H1121 their_H1992 eyes_H5869, and_H1121 that_H3117 whereupon they_H1992 set their_H1992 heart_H5315—their_H1992 sons_H1121 and_H1121 their_H1992 daughters_H1323— 
+@26 that_H3117 in_H0935 that_H3117 day_H3117 he_H1931 who_H1931 escapes will_H1931 come_H0935 to_H0413 you_H3117, to_H0413 cause you_H3117 to_H0413 hear_H0241 it_H1931 with_H0413 your_H0935 ears_H0241? 
+@27 In_H3068 that_H3588 day_H3117 your_H3068 mouth_H6310 will_H3068 be_H1961 opened_H6605 to_H1696 him_H0853 who_H1931 has_H3068 escaped, and_H3068 you_H3588 will_H3068 speak_H1696 and_H3068 be_H1961 no_H3808 more_H5750 mute_H0481. So_H1961 you_H3588 will_H3068 be_H1961 a_H1961 sign_H4159 to_H1696 them_H0853. Then_H1961 they_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068.” 
 
 # 25 
 ## Threatening speeches against Ammon, Moab, Edom and the Philistines
-@1 Yahweh’s word came to me, saying, 
-@2 “Son of man, set your face toward the children of Ammon, and prophesy against them. 
-@3 Tell the children of Ammon, ‘Hear the word of the Lord Yahweh! The Lord Yahweh says, “Because you said, ‘Aha!’ against my sanctuary when it was profaned, and against the land of Israel when it was made desolate, and against the house of Judah when they went into captivity, 
-@4 therefore, behold, I will deliver you to the children of the east for a possession. They will set their encampments in you and make their dwellings in you. They will eat your fruit and they will drink your milk. 
-@5 I will make Rabbah a stable for camels and the children of Ammon a resting place for flocks. Then you will know that I am Yahweh.” 
-@6 For the Lord Yahweh says: “Because you have clapped your hands, stamped with the feet, and rejoiced with all the contempt of your soul against the land of Israel, 
-@7 therefore, behold, I have stretched out my hand on you, and will deliver you for a plunder to the nations. I will cut you off from the peoples, and I will cause you to perish out of the countries. I will destroy you. Then you will know that I am Yahweh.” 
+@1 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 “Son_H1121 of_H1121 man_H0120, set_H7760 your_H5921 face_H6440 toward_H0413 the_H6440 children_H1121 of_H1121 Ammon_H5983, and_H1121 prophesy_H5012 against_H5921 them_H0413. 
+@3 Tell_H0559 the_H0559 children_H1121 of_H1121 Ammon_H5983, ‘Hear_H8085 the_H0559 word_H1697 of_H1121 the_H0559 Lord_H0136 Yahweh! The_H0559 Lord_H0136 Yahweh says_H0559, “Because_H3588 you_H3588 said_H0559, ‘Aha_H1889!’ against_H0413 my_H8085 sanctuary_H4720 when_H3588 it_H3588 was_H3478 profaned_H2490, and_H1980 against_H0413 the_H0559 land_H0127 of_H1121 Israel_H3478 when_H3588 it_H3588 was_H3478 made_H8074 desolate_H8074, and_H1980 against_H0413 the_H0559 house_H1004 of_H1121 Judah_H3063 when_H3588 they_H3588 went_H1980 into_H0413 captivity, 
+@4 therefore_H3651, behold_H2005, I_H2005 will_H1121 deliver_H5414 you_H5414 to_H5414 the_H5414 children_H1121 of_H1121 the_H5414 east_H6924 for_H3651 a_H5414 possession_H4181. They_H1992 will_H1121 set_H5414 their_H5414 encampments_H2918 in_H3427 you_H5414 and_H1121 make_H5414 their_H5414 dwellings_H4908 in_H3427 you_H5414. They_H1992 will_H1121 eat_H0398 your_H5414 fruit_H6529 and_H1121 they_H1992 will_H1121 drink_H8354 your_H5414 milk_H2461. 
+@5 I_H0589 will_H3068 make_H5414 Rabbah_H7237 a_H3588 stable for_H3588 camels_H1581 and_H1121 the_H0853 children_H1121 of_H1121 Ammon_H5983 a_H3588 resting_H4769 place_H5414 for_H3588 flocks_H6629. Then_H0853 you_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068.” 
+@6 For_H3588 the_H3605 Lord_H0136 Yahweh says_H0559: “Because_H3588 you_H3588 have_H3478 clapped_H4222 your_H3605 hands_H3027, stamped_H7554 with_H0413 the_H3605 feet_H7272, and_H3478 rejoiced_H8055 with_H0413 all_H3605 the_H3605 contempt_H5315 of_H3027 your_H3605 soul_H5315 against_H0413 the_H3605 land_H0127 of_H3027 Israel_H3478, 
+@7 therefore_H3651, behold_H2005, I_H0589 have_H3045 stretched_H5186 out_H4480 my_H5414 hand_H3027 on_H5921 you_H3588, and_H3068 will_H3068 deliver_H5414 you_H3588 for_H3588 a_H3588 plunder to_H5921 the_H0853 nations_H1471. I_H0589 will_H3068 cut_H3772 you_H3588 off_H3772 from_H4480 the_H0853 peoples_H5971, and_H3068 I_H0589 will_H3068 cause_H5414 you_H3588 to_H5921 perish_H0006 out_H4480 of_H0776 the_H0853 countries_H0776. I_H0589 will_H3068 destroy_H8045 you_H3588. Then_H0853 you_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068.” 
 
-@8 “‘The Lord Yahweh says: “Because Moab and Seir say, ‘Behold, the house of Judah is like all the nations,’ 
-@9 therefore, behold, I will open the side of Moab from the cities, from his cities which are on its frontiers, the glory of the country, Beth Jeshimoth, Baal Meon, and Kiriathaim, 
-@10 to the children of the east, to go against the children of Ammon; and I will give them for a possession, that the children of Ammon may not be remembered among the nations. 
-@11 I will execute judgments on Moab. Then they will know that I am Yahweh.” 
+@8 “‘The_H3605 Lord_H0136 Yahweh says_H0559: “Because_H3282 Moab_H4124 and_H3063 Seir_H8165 say_H0559, ‘Behold_H2009, the_H3605 house_H1004 of_H1004 Judah_H3063 is_H2009 like_H1004 all_H3605 the_H3605 nations_H1471,’ 
+@9 therefore_H3651, behold_H2005, I_H2005 will_H0776 open_H6605 the_H0853 side_H3802 of_H0776 Moab_H4124 from_H0776 the_H0853 cities_H5892, from_H0776 his_H3651 cities_H5892 which are_H0776 on_H0776 its_H0853 frontiers, the_H0853 glory of_H0776 the_H0853 country_H0776, Beth Jeshimoth, Baal Meon, and_H0776 Kiriathaim_H7156, 
+@10 to_H5921 the_H5921 children_H1121 of_H1121 the_H5921 east_H6924, to_H5921 go against_H5921 the_H5921 children_H1121 of_H1121 Ammon_H5983; and_H1121 I_H5414 will_H1471 give_H5414 them_H5414 for_H5921 a_H5414 possession_H4181, that_H4616 the_H5921 children_H1121 of_H1121 Ammon_H5983 may_H1121 not_H3808 be_H3808 remembered_H2142 among_H5921 the_H5921 nations_H1471. 
+@11 I_H0589 will_H3068 execute judgments_H8201 on_H3068 Moab_H4124. Then_H6213 they_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068.” 
 
-@12 “‘The Lord Yahweh says: “Because Edom has dealt against the house of Judah by taking vengeance, and has greatly offended, and taken revenge on them,” 
-@13 therefore the Lord Yahweh says, “I will stretch out my hand on Edom, and will cut off man and animal from it; and I will make it desolate from Teman. They will fall by the sword even to Dedan. 
-@14 I will lay my vengeance on Edom by the hand of my people Israel. They will do in Edom according to my anger and according to my wrath. Then they will know my vengeance,” says the Lord Yahweh. 
+@12 “‘The_H0559 Lord_H0136 Yahweh says_H0559: “Because_H3282 Edom_H0123 has_H0136 dealt against the_H0559 house_H1004 of_H1004 Judah_H3063 by_H0559 taking_H5358 vengeance_H5359, and_H3063 has_H0136 greatly offended, and_H3063 taken_H5358 revenge_H5358 on_H1004 them_H6213,” 
+@13 therefore_H3651 the_H0559 Lord_H0136 Yahweh says_H0559, “I_H5414 will_H2719 stretch_H5186 out_H4480 my_H5414 hand_H3027 on_H5921 Edom_H0123, and_H3027 will_H2719 cut_H3772 off_H3772 man_H0120 and_H3027 animal_H0929 from_H4480 it_H5414; and_H3027 I_H5414 will_H2719 make_H5414 it_H5414 desolate from_H4480 Teman_H8487. They_H3651 will_H2719 fall_H5307 by_H5921 the_H0559 sword_H2719 even_H3651 to_H0559 Dedan_H1719. 
+@14 I_H5414 will_H3478 lay_H5414 my_H5414 vengeance_H5360 on_H3027 Edom_H0123 by_H3027 the_H0853 hand_H3027 of_H3027 my_H5414 people_H5971 Israel_H3478. They_H0639 will_H3478 do_H6213 in_H3478 Edom_H0123 according_H3027 to_H3478 my_H5414 anger_H0639 and_H3478 according_H3027 to_H3478 my_H5414 wrath_H2534. Then_H0853 they_H0639 will_H3478 know_H3045 my_H5414 vengeance_H5360,” says_H5002 the_H0853 Lord_H0136 Yahweh. 
 
-@15 “‘The Lord Yahweh says: “Because the Philistines have taken revenge, and have taken vengeance with contempt of soul to destroy with perpetual hostility,” 
-@16 therefore the Lord Yahweh says, “Behold, I will stretch out my hand on the Philistines, and I will cut off the Cherethites, and destroy the remnant of the sea coast. 
-@17 I will execute great vengeance on them with wrathful rebukes. Then they will know that I am Yahweh, when I lay my vengeance on them.”’” 
+@15 “‘The_H0559 Lord_H0136 Yahweh says_H0559: “Because_H3282 the_H0559 Philistines_H6430 have_H6430 taken_H5358 revenge_H5360, and_H6430 have_H6430 taken_H5358 vengeance_H5360 with_H5315 contempt_H5315 of_H5315 soul_H5315 to_H0559 destroy_H4889 with_H5315 perpetual_H5769 hostility_H0342,” 
+@16 therefore_H3651 the_H0853 Lord_H0136 Yahweh says_H0559, “Behold_H2005, I_H2005 will_H3027 stretch_H5186 out_H5186 my_H5921 hand_H3027 on_H5921 the_H0853 Philistines_H6430, and_H3027 I_H2005 will_H3027 cut_H3772 off_H3772 the_H0853 Cherethites_H3774, and_H3027 destroy_H0006 the_H0853 remnant_H7611 of_H3027 the_H0853 sea_H3220 coast_H3027. 
+@17 I_H0589 will_H3068 execute_H5414 great_H1419 vengeance_H5360 on_H3068 them_H5414 with_H3068 wrathful_H2534 rebukes_H8433. Then_H0853 they_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068, when_H3588 I_H0589 lay_H5414 my_H5414 vengeance_H5360 on_H3068 them_H5414.”’” 
 
 # 26 
 ## God's spell against Tire
-@1 In the eleventh year, in the first of the month, Yahweh’s word came to me, saying, 
-@2 “Son of man, because Tyre has said against Jerusalem, ‘Aha! She is broken! She who was the gateway of the peoples has been returned to me. I will be replenished, now that she is laid waste;’ 
-@3 therefore the Lord Yahweh says, ‘Behold, I am against you, Tyre, and will cause many nations to come up against you, as the sea causes its waves to come up. 
-@4 They will destroy the walls of Tyre, and break down her towers. I will also scrape her dust from her, and make her a bare rock. 
-@5 She will be a place for the spreading of nets in the middle of the sea; for I have spoken it,’ says the Lord Yahweh. ‘She will become plunder for the nations. 
-@6 Her daughters who are in the field will be slain with the sword. Then they will know that I am Yahweh.’
+@1 In_H8141 the_H0559 eleventh_H6240 year_H8141, in_H8141 the_H0559 first_H0259 of_H3068 the_H0559 month_H2320, Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 “Son_H1121 of_H1121 man_H0120, because_H5921 Tyre_H6865 has_H0834 said_H0559 against_H5921 Jerusalem_H3389, ‘Aha_H1889! She_H0834 is_H0834 broken_H7665! She_H0834 who_H0834 was_H0834 the_H0559 gateway_H1817 of_H1121 the_H0559 peoples_H5971 has_H0834 been_H0834 returned_H5437 to_H0413 me_H0413. I_H0834 will_H0834 be_H1121 replenished, now_H0120 that_H0834 she_H0834 is_H0834 laid waste;’ 
+@3 therefore_H3651 the_H0559 Lord_H0136 Yahweh says_H0559, ‘Behold_H2005, I_H2005 am_H2005 against_H5921 you_H5921, Tyre_H6865, and_H1471 will_H1471 cause many_H7227 nations_H1471 to_H0559 come_H5927 up_H5927 against_H5921 you_H5921, as_H3651 the_H0559 sea_H3220 causes its_H5921 waves_H1530 to_H0559 come_H5927 up_H5927. 
+@4 They will_H5414 destroy_H7843 the_H0853 walls_H2346 of_H4480 Tyre_H6865, and_H0853 break_H2040 down_H2040 her_H5414 towers_H4026. I_H5414 will_H5414 also_H0853 scrape_H5500 her_H5414 dust_H6083 from_H4480 her_H5414, and_H0853 make_H5414 her_H5414 a_H5414 bare_H6706 rock_H5553. 
+@5 She_H3588 will_H1961 be_H1961 a_H1961 place_H1961 for_H3588 the_H5002 spreading of_H8432 nets_H2764 in_H8432 the_H5002 middle_H8432 of_H8432 the_H5002 sea_H3220; for_H3588 I_H0589 have_H1961 spoken_H1696 it_H3588,’ says_H5002 the_H5002 Lord_H0136 Yahweh. ‘She_H3588 will_H1961 become_H1961 plunder_H0957 for_H3588 the_H5002 nations_H1471. 
+@6 Her_H3588 daughters_H1323 who_H0834 are_H0834 in_H3068 the_H0834 field_H7704 will_H3068 be_H3068 slain_H2026 with_H3068 the_H0834 sword_H2719. Then_H3045 they_H0834 will_H3068 know_H3045 that_H0834 I_H0589 am_H0589 Yahweh_H3068.’
 
 ## The city will be besieged and destroyed by Nebuchadnezzar
-@7 “For the Lord Yahweh says: ‘Behold, I will bring on Tyre Nebuchadnezzar king of Babylon, king of kings, from the north, with horses, with chariots, with horsemen, and an army with many people. 
-@8 He will kill your daughters in the field with the sword. He will make forts against you, cast up a mound against you, and raise up the buckler against you. 
-@9 He will set his battering engines against your walls, and with his axes he will break down your towers. 
-@10 By reason of the abundance of his horses, their dust will cover you. Your walls will shake at the noise of the horsemen, of the wagons, and of the chariots, when he enters into your gates, as men enter into a city which is broken open. 
-@11 He will tread down all your streets with the hoofs of his horses. He will kill your people with the sword. The pillars of your strength will go down to the ground. 
-@12 They will make a plunder of your riches and make a prey of your merchandise. They will break down your walls and destroy your pleasant houses. They will lay your stones, your timber, and your dust in the middle of the waters. 
-@13 I will cause the noise of your songs to cease. The sound of your harps won’t be heard any more. 
-@14 I will make you a bare rock. You will be a place for the spreading of nets. You will be built no more; for I Yahweh have spoken it,’ says the Lord Yahweh.
+@7 “For_H3588 the_H0559 Lord_H0136 Yahweh says_H0559: ‘Behold_H2005, I_H3588 will_H4428 bring_H0935 on_H0413 Tyre_H6865 Nebuchadnezzar_H5019 king_H4428 of_H4428 Babylon_H0894, king_H4428 of_H4428 kings_H4428, from_H0935 the_H0559 north_H6828, with_H0413 horses_H5483, with_H0413 chariots_H7393, with_H0413 horsemen_H6571, and_H0935 an_H0935 army_H5971 with_H0413 many_H7227 people_H5971. 
+@8 He_H5414 will_H2719 kill_H2026 your_H5414 daughters_H1323 in_H5921 the_H5921 field_H7704 with_H5921 the_H5921 sword_H2719. He_H5414 will_H2719 make_H5414 forts against_H5921 you_H5414, cast_H8210 up_H6965 a_H5414 mound against_H5921 you_H5414, and_H6965 raise_H6965 up_H6965 the_H5921 buckler against_H5921 you_H5414. 
+@9 He_H5414 will_H2719 set_H5414 his_H5414 battering_H6904 engines against_H2719 your_H5414 walls_H2346, and_H2719 with_H2719 his_H5414 axes_H2719 he_H5414 will_H2719 break_H5422 down_H5422 your_H5414 towers_H4026. 
+@10 By_H0935 reason of_H6963 the_H0935 abundance_H8229 of_H6963 his_H0935 horses_H5483, their_H0935 dust_H0080 will_H6963 cover_H3680 you_H0935. Your_H0935 walls_H2346 will_H6963 shake_H7493 at_H0935 the_H0935 noise_H6963 of_H6963 the_H0935 horsemen_H6571, of_H6963 the_H0935 wagons_H1534, and_H0935 of_H6963 the_H0935 chariots_H7393, when_H0935 he_H0935 enters_H0935 into_H0935 your_H0935 gates_H8179, as_H0935 men enter_H0935 into_H0935 a_H0935 city_H5892 which is_H6963 broken_H1234 open_H1234. 
+@11 He_H0853 will_H0776 tread_H7429 down_H3381 all_H3605 your_H3605 streets_H2351 with_H0776 the_H3605 hoofs_H6541 of_H0776 his_H3605 horses_H5483. He_H0853 will_H0776 kill_H2026 your_H3605 people_H5971 with_H0776 the_H3605 sword_H2719. The_H3605 pillars_H4676 of_H0776 your_H3605 strength_H5797 will_H0776 go_H3381 down_H3381 to_H3381 the_H3605 ground_H0776. 
+@12 They_H7997 will_H1004 make_H7760 a_H7760 plunder_H0962 of_H1004 your_H7760 riches_H2428 and_H1004 make_H7760 a_H7760 prey_H0962 of_H1004 your_H7760 merchandise_H7404. They_H7997 will_H1004 break_H2040 down_H5422 your_H7760 walls_H2346 and_H1004 destroy_H5422 your_H7760 pleasant_H2532 houses_H1004. They_H7997 will_H1004 lay_H7760 your_H7760 stones_H0068, your_H7760 timber_H6086, and_H1004 your_H7760 dust_H6083 in_H1004 the_H8432 middle_H8432 of_H1004 the_H8432 waters_H4325. 
+@13 I_H3808 will_H3808 cause the_H8085 noise_H6963 of_H6963 your_H8085 songs_H7892 to_H8085 cease_H7673. The_H8085 sound_H6963 of_H6963 your_H8085 harps_H3658 won’t_H3808 be_H3808 heard_H8085 any_H5750 more_H5750. 
+@14 I_H0589 will_H3068 make_H5414 you_H3588 a_H1961 bare_H6706 rock_H5553. You_H3588 will_H3068 be_H1961 a_H1961 place_H5414 for_H3588 the_H5002 spreading of_H3068 nets_H2764. You_H3588 will_H3068 be_H1961 built_H1129 no_H3808 more_H5750; for_H3588 I_H0589 Yahweh_H3068 have_H1961 spoken_H1696 it_H5414,’ says_H5002 the_H5002 Lord_H3068 Yahweh_H3068.
 
 ## Description of the impact of this destruction on the world of nations
-@15 “The Lord Yahweh says to Tyre: ‘Won’t the islands shake at the sound of your fall, when the wounded groan, when the slaughter is made within you? 
-@16 Then all the princes of the sea will come down from their thrones, and lay aside their robes, and strip off their embroidered garments. They will clothe themselves with trembling. They will sit on the ground, and will tremble every moment, and be astonished at you. 
-@17 They will take up a lamentation over you, and tell you, “How you are destroyed, who were inhabited by seafaring men, the renowned city, who was strong in the sea, she and her inhabitants, who caused their terror to be on all who lived there!” 
-@18 Now the islands will tremble in the day of your fall. Yes, the islands that are in the sea will be dismayed at your departure.’
+@15 “The_H0559 Lord_H0136 Yahweh says_H0559 to_H0559 Tyre_H6865: ‘Won’t_H3808 the_H0559 islands_H0339 shake_H7493 at_H3808 the_H0559 sound_H6963 of_H6963 your_H3808 fall_H4658, when_H6963 the_H0559 wounded_H2491 groan_H0602, when_H6963 the_H0559 slaughter_H2026 is_H6963 made within_H8432 you_H3808? 
+@16 Then_H0853 all_H3605 the_H3605 princes_H5387 of_H0776 the_H3605 sea_H3220 will_H0776 come_H3381 down_H3381 from_H5493 their_H3605 thrones_H3678, and_H0776 lay aside_H5493 their_H3605 robes_H4598, and_H0776 strip_H6584 off_H6584 their_H3605 embroidered_H7553 garments_H0899. They_H5921 will_H0776 clothe_H3847 themselves_H5921 with_H3847 trembling_H2729. They_H5921 will_H0776 sit_H3427 on_H5921 the_H3605 ground_H0776, and_H0776 will_H0776 tremble_H2729 every_H3605 moment_H7281, and_H0776 be_H0776 astonished_H8074 at_H3427 you_H3605. 
+@17 They_H0834 will_H1961 take_H5375 up_H5375 a_H1961 lamentation_H7015 over_H5921 you_H0834, and_H3220 tell_H0559 you_H0834, “How_H0349 you_H0834 are_H0834 destroyed_H0006, who_H0834 were_H0834 inhabited_H3427 by_H5921 seafaring men_H3605, the_H3605 renowned city_H5892, who_H0834 was_H1961 strong_H2389 in_H3427 the_H3605 sea_H3220, she_H1931 and_H3220 her_H3605 inhabitants_H3427, who_H0834 caused_H1961 their_H3605 terror_H2851 to_H0559 be_H1961 on_H5921 all_H3605 who_H0834 lived_H3427 there_H1961!” 
+@18 Now_H6258 the_H0834 islands_H0339 will_H0834 tremble_H2729 in_H3117 the_H0834 day_H3117 of_H3117 your_H0834 fall_H4658. Yes, the_H0834 islands_H0339 that_H0834 are_H0834 in_H3117 the_H0834 sea_H3220 will_H0834 be_H3117 dismayed_H0926 at_H3117 your_H0834 departure_H3318.’
 
 ## God has decided to completely destroy the city
-@19 “For the Lord Yahweh says: ‘When I make you a desolate city, like the cities that are not inhabited, when I bring up the deep on you, and the great waters cover you, 
-@20 then I will bring you down with those who descend into the pit, to the people of old time, and will make you dwell in the lower parts of the earth, in the places that are desolate of old, with those who go down to the pit, that you be not inhabited; and I will set glory in the land of the living. 
-@21 I will make you a terror, and you will no more have any being. Though you are sought for, yet you will never be found again,’ says the Lord Yahweh.” 
+@19 “For_H3588 the_H0853 Lord_H0136 Yahweh says_H0559: ‘When_H3588 I_H0834 make_H5414 you_H0834 a_H3588 desolate city_H5892, like_H0834 the_H0853 cities_H5892 that_H0834 are_H0834 not_H3808 inhabited_H3427, when_H3588 I_H0834 bring_H5927 up_H5927 the_H0853 deep_H8415 on_H5921 you_H0834, and_H4325 the_H0853 great_H7227 waters_H4325 cover_H3680 you_H0834, 
+@20 then_H4616 I_H5414 will_H0776 bring_H3381 you_H5414 down_H3381 with_H0854 those who_H3427 descend_H3381 into_H0413 the_H0413 pit_H0953, to_H0413 the_H0413 people_H5971 of_H0776 old_H5769 time_H5769, and_H0776 will_H0776 make_H5414 you_H5414 dwell_H3427 in_H3427 the_H0413 lower_H8482 parts_H8482 of_H0776 the_H0413 earth_H0776, in_H3427 the_H0413 places_H2723 that_H4616 are_H0776 desolate of_H0776 old_H5769, with_H0854 those who_H3427 go_H3381 down_H3381 to_H0413 the_H0413 pit_H0953, that_H4616 you_H5414 be_H3808 not_H3808 inhabited_H3427; and_H0776 I_H5414 will_H0776 set_H5414 glory in_H3427 the_H0413 land_H0776 of_H0776 the_H0413 living_H3427. 
+@21 I_H5414 will_H0369 make_H5414 you_H5414 a_H5414 terror_H1091, and_H5769 you_H5414 will_H0369 no_H3808 more_H5750 have_H0369 any_H5750 being. Though_H0369 you_H5414 are_H0369 sought_H1245 for_H5414, yet_H5750 you_H5414 will_H0369 never_H3808 be_H5750 found_H4672 again_H5750,’ says_H5002 the_H5002 Lord_H0136 Yahweh.” 
 
 # 27 
 ## I shoot like a ship of superb splendor; the glory of the city, especially as the world market
-@1 Yahweh’s word came again to me, saying, 
-@2 “You, son of man, take up a lamentation over Tyre; 
-@3 and tell Tyre, ‘You who dwell at the entry of the sea, who are the merchant of the peoples to many islands, the Lord Yahweh says: “You, Tyre, have said, ‘I am perfect in beauty.’ 
-@4 Your borders are in the heart of the seas. Your builders have perfected your beauty. 
-@5 They have made all your planks of cypress trees from Senir. They have taken a cedar from Lebanon to make a mast for you. 
-@6 They have made your oars of the oaks of Bashan. They have made your benches of ivory inlaid in cypress wood from the islands of Kittim. 
-@7 Your sail was of fine linen with embroidered work from Egypt, that it might be to you for a banner. Blue and purple from the islands of Elishah was your awning. 
-@8 The inhabitants of Sidon and Arvad were your rowers. Your wise men, Tyre, were in you. They were your pilots. 
-@9 The old men of Gebal and its wise men were your repairers of ship seams in you. All the ships of the sea with their mariners were in you to deal in your merchandise. 
-@10 “‘“Persia, Lud, and Put were in your army, your men of war. They hung the shield and helmet in you. They showed your beauty. 
-@11 The men of Arvad with your army were on your walls all around, and valiant men were in your towers. They hung their shields on your walls all around. They have perfected your beauty. 
+@1 Yahweh’s_H3068 word_H1697 came_H1961 again_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 “You_H0859, son_H1121 of_H1121 man_H0120, take_H5375 up_H5375 a_H5375 lamentation_H7015 over_H5921 Tyre_H6865; 
+@3 and_H3427 tell_H0559 Tyre_H6865, ‘You_H0859 who_H3427 dwell_H3427 at_H0413 the_H0559 entry of_H3427 the_H0559 sea_H3220, who_H3427 are_H0859 the_H0559 merchant_H7402 of_H3427 the_H0559 peoples_H5971 to_H0413 many_H7227 islands_H0339, the_H0559 Lord_H0136 Yahweh says_H0559: “You_H0859, Tyre_H6865, have_H0859 said_H0559, ‘I_H0589 am_H0589 perfect_H3632 in_H3427 beauty_H3308.’ 
+@4 Your_H1129 borders_H1366 are_H3820 in_H1129 the_H1129 heart_H3820 of_H1366 the_H1129 seas_H3220. Your_H1129 builders_H1129 have_H1129 perfected_H3634 your_H1129 beauty_H3308. 
+@5 They_H5921 have_H3605 made_H6213 all_H3605 your_H3605 planks_H3871 of_H5921 cypress_H1265 trees_H1265 from_H5921 Senir_H8149. They_H5921 have_H3605 taken_H3947 a_H3947 cedar_H0730 from_H5921 Lebanon_H3844 to_H5921 make_H6213 a_H3947 mast_H8650 for_H5921 you_H3605. 
+@6 They_H6213 have_H1323 made_H6213 your oars of_H1323 the_H6213 oaks_H0437 of_H1323 Bashan_H1316. They_H6213 have_H1323 made_H6213 your benches of_H1323 ivory_H8127 inlaid in_H1323 cypress wood from_H0437 the_H6213 islands_H0339 of_H1323 Kittim_H3794. 
+@7 Your_H1961 sail_H5251 was_H1961 of_H0339 fine_H8336 linen_H8336 with_H4714 embroidered_H7553 work_H7553 from_H1961 Egypt_H4714, that_H1961 it_H1961 might be_H1961 to_H1961 you_H4714 for_H4714 a_H1961 banner_H5251. Blue_H8504 and_H4714 purple_H0713 from_H1961 the_H1961 islands_H0339 of_H0339 Elishah_H0473 was_H1961 your_H1961 awning_H4374. 
+@8 The_H1961 inhabitants_H3427 of_H3427 Sidon_H6721 and_H3427 Arvad_H0719 were_H1961 your_H1961 rowers. Your_H1961 wise_H2450 men_H2450, Tyre_H6865, were_H1961 in_H3427 you_H3427. They_H1992 were_H1961 your_H1961 pilots_H2259. 
+@9 The_H3605 old_H2205 men_H2450 of_H2205 Gebal_H1380 and_H2388 its_H3605 wise_H2450 men_H2450 were_H1961 your_H3605 repairers_H2388 of_H2205 ship_H0591 seams_H0919 in_H2388 you_H3605. All_H3605 the_H3605 ships_H0591 of_H2205 the_H3605 sea_H3220 with_H3605 their_H3605 mariners were_H1961 in_H2388 you_H3605 to_H1961 deal_H6148 in_H2388 your_H3605 merchandise_H4627. 
+@10 “‘“Persia_H6539, Lud_H3865, and_H0376 Put_H5414 were_H1961 in_H0376 your_H5414 army_H2428, your_H5414 men_H0376 of_H0376 war_H4421. They_H1992 hung_H8518 the_H5414 shield_H4043 and_H0376 helmet_H3553 in_H0376 you_H5414. They_H1992 showed_H5414 your_H5414 beauty. 
+@11 The_H5921 men_H1121 of_H1121 Arvad_H0719 with_H5921 your_H5921 army_H2428 were_H1961 on_H5921 your_H5921 walls_H2346 all_H5439 around_H5439, and_H1121 valiant_H2428 men_H1121 were_H1961 in_H5921 your_H5921 towers_H4026. They_H1992 hung_H8518 their_H1992 shields_H7982 on_H5921 your_H5921 walls_H2346 all_H5439 around_H5439. They_H1992 have_H1961 perfected_H3634 your_H5921 beauty_H3308. 
 
-@12 “‘“Tarshish was your merchant by reason of the multitude of all kinds of riches. They traded for your wares with silver, iron, tin, and lead. 
+@12 “‘“Tarshish_H8659 was_H5414 your_H3605 merchant_H5503 by_H3605 reason of_H3605 the_H3605 multitude_H7230 of_H3605 all_H3605 kinds_H1952 of_H3605 riches_H1952. They_H3605 traded_H5414 for_H3605 your_H3605 wares_H5801 with_H3605 silver_H3701, iron_H1270, tin_H0913, and_H3701 lead_H5777. 
 
-@13 “‘“Javan, Tubal, and Meshech were your traders. They traded the persons of men and vessels of bronze for your merchandise. 
+@13 “‘“Javan_H3120, Tubal_H8422, and_H0120 Meshech_H4902 were_H1992 your_H5414 traders_H7402. They_H1992 traded_H7402 the_H5414 persons_H5315 of_H3627 men_H0120 and_H0120 vessels_H3627 of_H3627 bronze_H5178 for_H3627 your_H5414 merchandise_H4627. 
 
-@14 “‘“They of the house of Togarmah traded for your wares with horses, war horses, and mules. 
+@14 “‘“They of_H1004 the_H5414 house_H1004 of_H1004 Togarmah_H8425 traded_H5414 for_H1004 your_H5414 wares_H5801 with_H1004 horses_H5483, war horses_H5483, and_H1004 mules_H6505. 
 
-@15 “‘“The men of Dedan traded with you. Many islands were the market of your hand. They brought you horns of ivory and ebony in exchange. 
+@15 “‘“The_H7725 men_H1121 of_H1121 Dedan_H1719 traded_H7402 with_H3027 you_H7725. Many_H7227 islands_H0339 were_H1121 the_H7725 market_H5506 of_H1121 your_H7725 hand_H3027. They_H3027 brought_H7725 you_H7725 horns_H7161 of_H1121 ivory_H8127 and_H1121 ebony_H1894 in_H1121 exchange. 
 
-@16 “‘“Syria was your merchant by reason of the multitude of your handiworks. They traded for your wares with emeralds, purple, embroidered work, fine linen, coral, and rubies. 
+@16 “‘“Syria_H0758 was_H5414 your_H5414 merchant_H5503 by_H5414 reason of_H7230 the_H5414 multitude_H7230 of_H7230 your_H5414 handiworks. They traded_H5414 for_H5414 your_H5414 wares_H5801 with_H5414 emeralds_H5306, purple_H0713, embroidered_H7553 work_H4639, fine_H0948 linen_H0948, coral_H7215, and_H0713 rubies_H3539. 
 
-@17 “‘“Judah and the land of Israel were your traders. They traded wheat of Minnith, confections, honey, oil, and balm for your merchandise. 
+@17 “‘“Judah_H3063 and_H3063 the_H5414 land_H0776 of_H0776 Israel_H3478 were_H3478 your_H5414 traders_H7402. They_H1992 traded_H7402 wheat_H2406 of_H0776 Minnith_H4511, confections, honey_H1706, oil_H8081, and_H3063 balm_H6875 for_H0776 your_H5414 merchandise_H4627. 
 
-@18 “‘“Damascus was your merchant for the multitude of your handiworks by reason of the multitude of all kinds of riches, with the wine of Helbon, and white wool. 
+@18 “‘“Damascus_H1834 was_H3605 your_H3605 merchant_H5503 for_H3605 the_H3605 multitude_H7230 of_H3605 your_H3605 handiworks by_H3605 reason of_H3605 the_H3605 multitude_H7230 of_H3605 all_H3605 kinds_H1952 of_H3605 riches_H1952, with_H3605 the_H3605 wine_H3196 of_H3605 Helbon_H2463, and_H3196 white_H6713 wool_H6785. 
 
-@19 “‘“Vedan and Javan traded with yarn for your wares; wrought iron, cassia, and calamus were among your merchandise. 
+@19 “‘“Vedan_H2051 and_H1961 Javan_H3120 traded_H5414 with_H1961 yarn for_H5414 your_H5414 wares_H5801; wrought_H6219 iron_H1270, cassia_H6916, and_H1961 calamus_H7070 were_H1961 among your_H5414 merchandise_H4627. 
 
-@20 “‘“Dedan was your merchant in precious saddle blankets for riding. 
+@20 “‘“Dedan_H1719 was your merchant_H7402 in precious saddle blankets for riding_H7396. 
 
-@21 “‘“Arabia and all the princes of Kedar were your favorite dealers in lambs, rams, and goats. In these, they were your merchants. 
+@21 “‘“Arabia_H6152 and_H3027 all_H3605 the_H3605 princes_H5387 of_H3027 Kedar_H6938 were_H1992 your_H3605 favorite dealers in_H3027 lambs_H3733, rams_H0352, and_H3027 goats_H6260. In_H3027 these_H1992, they_H1992 were_H1992 your_H3605 merchants_H5503. 
 
-@22 “‘“The traders of Sheba and Raamah were your traders. They traded for your wares with the best of all spices, all precious stones, and gold. 
+@22 “‘“The_H3605 traders_H7402 of_H7218 Sheba_H7614 and_H7218 Raamah_H7484 were_H1992 your_H3605 traders_H7402. They_H1992 traded_H7402 for_H3605 your_H3605 wares_H5801 with_H3605 the_H3605 best_H7218 of_H7218 all_H3605 spices_H1314, all_H3605 precious_H3368 stones_H0068, and_H7218 gold_H2091. 
 
-@23 “‘“Haran, Canneh, Eden, the traders of Sheba, Asshur and Chilmad, were your traders. 
-@24 These were your traders in choice wares, in wrappings of blue and embroidered work, and in cedar chests of rich clothing bound with cords, among your merchandise. 
-@25 “‘“The ships of Tarshish were your caravans for your merchandise. You were replenished and made very glorious in the heart of the seas.
+@23 “‘“Haran_H2771, Canneh_H3656, Eden_H5729, the traders_H7402 of_H7402 Sheba_H7614, Asshur_H0804 and_H7614 Chilmad_H3638, were your traders_H7402. 
+@24 These_H1992 were_H1992 your traders_H7402 in choice_H4360 wares, in wrappings of_H7402 blue_H8504 and_H8504 embroidered_H7553 work_H7553, and_H8504 in cedar chests of_H7402 rich clothing bound_H2280 with cords_H2256, among your merchandise_H4819. 
+@25 “‘“The_H4390 ships_H0591 of_H4390 Tarshish_H8659 were_H0591 your_H3513 caravans for_H4390 your_H3513 merchandise_H4627. You_H3513 were_H0591 replenished and_H3220 made_H3513 very_H3966 glorious_H3513 in_H3220 the_H4390 heart_H3820 of_H4390 the_H4390 seas_H3220.
 
 ## The sudden sinking of the ship; Impression of this event in the world of nations
-@26 Your rowers have brought you into great waters. The east wind has broken you in the heart of the seas. 
-@27 Your riches, your wares, your merchandise, your mariners, your pilots, your repairers of ship seams, the dealers in your merchandise, and all your men of war who are in you, with all your company which is among you, will fall into the heart of the seas in the day of your ruin. 
-@28 At the sound of the cry of your pilots, the pasture lands will shake. 
-@29 All who handle the oars, the mariners and all the pilots of the sea, will come down from their ships. They will stand on the land, 
-@30 and will cause their voice to be heard over you, and will cry bitterly. They will cast up dust on their heads. They will wallow in the ashes. 
-@31 They will make themselves bald for you, and clothe themselves with sackcloth. They will weep for you in bitterness of soul, with bitter mourning. 
-@32 In their wailing they will take up a lamentation for you, and lament over you, saying, ‘Who is there like Tyre, like her who is brought to silence in the middle of the sea?’ 
-@33 When your wares came from the seas, you filled many peoples. You enriched the kings of the earth with the multitude of your riches and of your merchandise. 
-@34 In the time that you were broken by the seas, in the depths of the waters, your merchandise and all your company fell within you. 
-@35 All the inhabitants of the islands are astonished at you, and their kings are horribly afraid. They are troubled in their face. 
-@36 The merchants among the peoples hiss at you. You have come to a terrible end, and you will be no more.”’” 
+@26 Your_H0935 rowers have_H4325 brought_H0935 you_H0935 into_H0935 great_H7227 waters_H4325. The_H0853 east_H6921 wind_H7307 has_H3820 broken_H7665 you_H0935 in_H0935 the_H0853 heart_H3820 of_H7307 the_H0853 seas_H3220. 
+@27 Your_H3605 riches_H1952, your_H3605 wares_H5801, your_H3605 merchandise_H4627, your_H3605 mariners, your_H3605 pilots_H2259, your_H3605 repairers_H2388 of_H0376 ship seams_H0919, the_H3605 dealers_H6148 in_H3117 your_H3605 merchandise_H4627, and_H3117 all_H3605 your_H3605 men_H0376 of_H0376 war_H4421 who_H0834 are_H0834 in_H3117 you_H0834, with_H0376 all_H3605 your_H3605 company_H6951 which_H0834 is_H0834 among_H8432 you_H0834, will_H0834 fall_H5307 into_H8432 the_H3605 heart_H3820 of_H0376 the_H3605 seas_H3220 in_H3117 the_H3605 day_H3117 of_H0376 your_H3605 ruin_H4658. 
+@28 At_H6963 the_H6963 sound_H6963 of_H6963 the_H6963 cry_H2201 of_H6963 your pilots_H2259, the_H6963 pasture_H4054 lands_H4054 will_H6963 shake_H7493. 
+@29 All_H3605 who_H3605 handle_H8610 the_H3605 oars, the_H3605 mariners and_H0776 all_H3605 the_H3605 pilots_H2259 of_H0776 the_H3605 sea_H3220, will_H0776 come_H3381 down_H3381 from_H3381 their_H3605 ships_H0591. They_H3605 will_H0776 stand_H5975 on_H0413 the_H3605 land_H0776, 
+@30 and_H7218 will_H6963 cause their_H5921 voice_H6963 to_H5921 be_H6963 heard_H8085 over_H5921 you_H5921, and_H7218 will_H6963 cry_H2199 bitterly_H4751. They_H5921 will_H6963 cast_H5927 up_H5927 dust_H6083 on_H5921 their_H5921 heads_H7218. They_H5921 will_H6963 wallow_H6428 in_H5921 the_H5921 ashes_H0665. 
+@31 They_H5315 will_H5315 make_H7139 themselves_H5315 bald_H7144 for_H0413 you_H0413, and_H8242 clothe themselves_H5315 with_H0413 sackcloth_H8242. They_H5315 will_H5315 weep_H1058 for_H0413 you_H0413 in_H0413 bitterness_H4751 of_H5315 soul_H5315, with_H0413 bitter_H4751 mourning_H4553. 
+@32 In_H5921 their_H5375 wailing they_H5921 will_H4310 take_H5375 up_H5375 a_H5375 lamentation_H7015 for_H5921 you_H5921, and_H3220 lament_H7015 over_H5921 you_H5921, saying, ‘Who_H4310 is_H4310 there_H8432 like_H5921 Tyre_H6865, like_H5921 her_H0413 who_H4310 is_H4310 brought_H5375 to_H0413 silence in_H5921 the_H5921 middle_H8432 of_H5921 the_H5921 sea_H3220?’ 
+@33 When_H3318 your_H3318 wares_H5801 came_H3318 from_H3318 the_H3318 seas_H3220, you_H0776 filled_H7646 many_H7227 peoples_H5971. You_H0776 enriched_H6238 the_H3318 kings_H4428 of_H4428 the_H3318 earth_H0776 with_H7646 the_H3318 multitude_H7230 of_H4428 your_H3318 riches_H1952 and_H0776 of_H4428 your_H3318 merchandise_H4627. 
+@34 In_H8432 the_H3605 time_H6256 that_H3605 you_H3605 were_H4325 broken_H7665 by_H3605 the_H3605 seas_H3220, in_H8432 the_H3605 depths_H4615 of_H4325 the_H3605 waters_H4325, your_H3605 merchandise_H4627 and_H4325 all_H3605 your_H3605 company_H6951 fell_H5307 within_H8432 you_H3605. 
+@35 All_H3605 the_H3605 inhabitants_H3427 of_H4428 the_H3605 islands_H0339 are_H8074 astonished_H8074 at_H3427 you_H3605, and_H4428 their_H3605 kings_H4428 are_H8074 horribly afraid. They_H5921 are_H8074 troubled_H7481 in_H3427 their_H3605 face_H6440. 
+@36 The_H5921 merchants_H5503 among_H5921 the_H5921 peoples_H5971 hiss_H8319 at_H5921 you_H5921. You_H5921 have_H1961 come_H1961 to_H5704 a_H1961 terrible end, and_H5769 you_H5921 will_H1961 be_H1961 no_H0369 more_H0369.”’” 
 
 # 28 
 ## God's judgment on the prince's arrogance
-@1 Yahweh’s word came again to me, saying, 
-@2 “Son of man, tell the prince of Tyre, ‘The Lord Yahweh says: “Because your heart is lifted up, and you have said, ‘I am a god, I sit in the seat of God, in the middle of the seas;’ yet you are man, and no god, though you set your heart as the heart of a god— 
-@3 behold, you are wiser than Daniel. There is no secret that is hidden from you. 
-@4 By your wisdom and by your understanding you have gotten yourself riches, and have gotten gold and silver into your treasuries. 
-@5 By your great wisdom and by your trading you have increased your riches, and your heart is lifted up because of your riches—” 
+@1 Yahweh’s_H3068 word_H1697 came_H1961 again_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 “Son_H1121 of_H1121 man_H0120, tell_H0559 the_H0559 prince_H5057 of_H1121 Tyre_H6865, ‘The_H0559 Lord_H0136 Yahweh says_H0559: “Because_H3282 your_H5414 heart_H3820 is_H0430 lifted up_H5414, and_H1121 you_H0859 have_H1121 said_H0559, ‘I_H0589 am_H0589 a_H5414 god_H0430, I_H0589 sit_H3427 in_H3427 the_H0559 seat_H4186 of_H1121 God_H0430, in_H3427 the_H0559 middle_H3820 of_H1121 the_H0559 seas_H3220;’ yet_H5414 you_H0859 are_H1121 man_H0120, and_H1121 no_H3808 god_H0430, though you_H0859 set_H5414 your_H5414 heart_H3820 as_H1121 the_H0559 heart_H3820 of_H1121 a_H5414 god_H0430— 
+@3 behold_H2009, you_H0859 are_H2450 wiser_H2450 than_H3808 Daniel_H1840. There_H2009 is_H2009 no_H3808 secret_H5640 that_H3605 is_H2009 hidden_H5640 from_H2450 you_H0859. 
+@4 By_H2091 your_H3701 wisdom_H2451 and_H3701 by_H2091 your_H3701 understanding_H8394 you_H6213 have gotten yourself riches_H2428, and_H3701 have gotten gold_H2091 and_H3701 silver_H3701 into_H3701 your_H3701 treasuries_H0214. 
+@5 By_H7230 your great_H7230 wisdom_H2451 and_H2451 by_H7230 your trading you_H3824 have increased_H7230 your riches_H2428, and_H2451 your heart_H3824 is_H2451 lifted up because_H7230 of_H7230 your riches_H2428—” 
 
-@6 “‘therefore the Lord Yahweh says: “Because you have set your heart as the heart of God, 
-@7 therefore, behold, I will bring strangers on you, the terrible of the nations. They will draw their swords against the beauty of your wisdom. They will defile your brightness. 
-@8 They will bring you down to the pit. You will die the death of those who are slain in the heart of the seas. 
-@9 Will you yet say before him who kills you, ‘I am God’? But you are man, and not God, in the hand of him who wounds you. 
-@10 You will die the death of the uncircumcised by the hand of strangers; for I have spoken it,” says the Lord Yahweh.’”
+@6 “‘therefore_H3651 the_H0853 Lord_H0136 Yahweh says_H0559: “Because_H3282 you_H5414 have_H3282 set_H5414 your_H5414 heart_H3820 as_H3824 the_H0853 heart_H3820 of_H0430 God_H0430, 
+@7 therefore_H3651, behold_H2005, I_H2005 will_H1471 bring_H0935 strangers_H2114 on_H5921 you_H5921, the_H5921 terrible of_H5921 the_H5921 nations_H1471. They_H3651 will_H1471 draw their_H5921 swords_H2719 against_H5921 the_H5921 beauty_H3308 of_H5921 your_H5921 wisdom_H2451. They_H3651 will_H1471 defile_H2490 your_H5921 brightness. 
+@8 They_H3820 will_H3820 bring_H3381 you_H3381 down_H3381 to_H4191 the_H4191 pit_H7845. You_H3381 will_H3820 die_H4191 the_H4191 death_H4191 of_H3820 those who are_H3820 slain_H2491 in_H4191 the_H4191 heart_H3820 of_H3820 the_H4191 seas_H3220. 
+@9 Will_H0430 you_H0859 yet_H3808 say_H0559 before_H6440 him_H6440 who_H0120 kills_H2026 you_H0859, ‘I_H0589 am_H0589 God’? But_H3808 you_H0859 are_H3027 man_H0120, and_H0430 not_H3808 God_H0430, in_H0430 the_H0559 hand_H3027 of_H0430 him_H6440 who_H0120 wounds you_H0859. 
+@10 You_H3588 will_H3027 die_H4191 the_H5002 death_H4191 of_H3027 the_H5002 uncircumcised_H6189 by_H3027 the_H5002 hand_H3027 of_H3027 strangers_H2114; for_H3588 I_H0589 have_H0589 spoken_H1696 it_H3588,” says_H5002 the_H5002 Lord_H0136 Yahweh.’”
 
 ## Sorry for the death of this prince
-@11 Moreover Yahweh’s word came to me, saying, 
-@12 “Son of man, take up a lamentation over the king of Tyre, and tell him, ‘The Lord Yahweh says: “You were the seal of full measure, full of wisdom, and perfect in beauty. 
-@13 You were in Eden, the garden of God. Every precious stone adorned you: ruby, topaz, emerald, chrysolite, onyx, jasper, sapphire,^a^ turquoise, and beryl. Gold work of tambourines and of pipes was in you. They were prepared in the day that you were created. 
-@14 You were the anointed cherub who covers. Then I set you up on the holy mountain of God. You have walked up and down in the middle of the stones of fire. 
-@15 You were perfect in your ways from the day that you were created, until unrighteousness was found in you. 
-@16 By the abundance of your commerce, your insides were filled with violence, and you have sinned. Therefore I have cast you as profane out of God’s mountain. I have destroyed you, covering cherub, from the middle of the stones of fire. 
-@17 Your heart was lifted up because of your beauty. You have corrupted your wisdom by reason of your splendor. I have cast you to the ground. I have laid you before kings, that they may see you. 
-@18 By the multitude of your iniquities, in the unrighteousness of your commerce, you have profaned your sanctuaries. Therefore I have brought out a fire from the middle of you. It has devoured you. I have turned you to ashes on the earth in the sight of all those who see you. 
-@19 All those who know you among the peoples will be astonished at you. You have become a terror, and you will exist no more.”’” 
+@11 Moreover_H1961 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@12 “Son_H1121 of_H1121 man_H0120, take_H5375 up_H5375 a_H5375 lamentation_H7015 over_H5921 the_H0559 king_H4428 of_H1121 Tyre_H6865, and_H1121 tell_H0559 him_H5921, ‘The_H0559 Lord_H0136 Yahweh says_H0559: “You_H0859 were_H1121 the_H0559 seal_H2856 of_H1121 full_H4392 measure, full_H4392 of_H1121 wisdom_H2451, and_H1121 perfect_H3632 in_H5921 beauty_H3308. 
+@13 You_H3605 were_H1961 in_H0430 Eden_H5731, the_H3605 garden_H1588 of_H0430 God_H0430. Every_H3605 precious_H3368 stone_H0068 adorned you_H3605: ruby_H0124, topaz_H6357, emerald, chrysolite, onyx_H7718, jasper_H3471, sapphire_H5601,^a^ turquoise_H5306, and_H0430 beryl_H8658. Gold_H2091 work_H4399 of_H0430 tambourines_H8596 and_H0430 of_H0430 pipes was_H1961 in_H0430 you_H3605. They_H3117 were_H1961 prepared_H3559 in_H0430 the_H3605 day_H3117 that_H3605 you_H3605 were_H1961 created_H1254. 
+@14 You_H0859 were_H1961 the_H5414 anointed_H4473 cherub_H3742 who_H0430 covers. Then_H1961 I_H5414 set_H5414 you_H0859 up_H5414 on_H1980 the_H5414 holy_H6944 mountain_H2022 of_H0430 God_H0430. You_H0859 have_H1961 walked_H1980 up_H5414 and_H1980 down_H1980 in_H1980 the_H5414 middle_H8432 of_H0430 the_H5414 stones_H0068 of_H0430 fire_H0784. 
+@15 You_H0859 were_H3117 perfect_H8549 in_H3117 your_H5704 ways_H1870 from_H5704 the_H5704 day_H3117 that_H3117 you_H0859 were_H3117 created_H1254, until_H5704 unrighteousness_H5766 was_H3117 found_H4672 in_H3117 you_H0859. 
+@16 By_H0784 the_H8432 abundance_H7230 of_H0430 your_H4390 commerce, your_H4390 insides were_H2022 filled_H4390 with_H4390 violence_H2555, and_H0430 you_H8432 have_H2022 sinned_H2398. Therefore I have_H2022 cast you_H8432 as_H7230 profane_H2490 out_H0006 of_H0430 God’s_H0430 mountain_H2022. I have_H2022 destroyed_H0006 you_H8432, covering cherub_H3742, from_H8432 the_H8432 middle_H8432 of_H0430 the_H8432 stones_H0068 of_H0430 fire_H0784. 
+@17 Your_H5414 heart_H3820 was_H0776 lifted up_H7200 because_H5921 of_H4428 your_H5414 beauty_H3308. You_H5414 have_H0776 corrupted_H7843 your_H5414 wisdom_H2451 by_H5921 reason_H5921 of_H4428 your_H5414 splendor_H3314. I_H5414 have_H0776 cast_H7993 you_H5414 to_H5921 the_H6440 ground_H0776. I_H5414 have_H0776 laid_H5414 you_H5414 before_H6440 kings_H4428, that_H7200 they_H5921 may_H0776 see_H7200 you_H5414. 
+@18 By_H5921 the_H3605 multitude_H7230 of_H0776 your_H3605 iniquities_H5771, in_H5921 the_H3605 unrighteousness_H5766 of_H0776 your_H3605 commerce, you_H5414 have_H5869 profaned_H2490 your_H3605 sanctuaries_H4720. Therefore_H0776 I_H5414 have_H5869 brought_H3318 out_H3318 a_H5414 fire_H0784 from_H3318 the_H3605 middle_H8432 of_H0776 you_H5414. It_H5414 has_H0776 devoured_H0398 you_H5414. I_H5414 have_H5869 turned_H5414 you_H5414 to_H5921 ashes_H0665 on_H5921 the_H3605 earth_H0776 in_H5921 the_H3605 sight_H5869 of_H0776 all_H3605 those_H3605 who_H3605 see_H7200 you_H5414. 
+@19 All_H3605 those_H3605 who_H3605 know_H3045 you_H3605 among_H5921 the_H3605 peoples_H5971 will_H1961 be_H1961 astonished_H8074 at_H5921 you_H3605. You_H3605 have_H1961 become_H1961 a_H1961 terror_H1091, and_H5769 you_H3605 will_H1961 exist no_H0369 more_H0369.”’” 
 ^a^[**28:13** or, lapis lazuli ]
 
 ## Word of God against Sidon
-@20 Yahweh’s word came to me, saying, 
-@21 “Son of man, set your face toward Sidon, and prophesy against it, 
-@22 and say, ‘The Lord Yahweh says: “Behold, I am against you, Sidon. I will be glorified among you. Then they will know that I am Yahweh, when I have executed judgments in her, and am sanctified in her. 
-@23 For I will send pestilence into her, and blood into her streets. The wounded will fall within her, with the sword on her on every side. Then they will know that I am Yahweh.
+@20 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@21 “Son_H1121 of_H1121 man_H0120, set_H7760 your_H5921 face_H6440 toward_H0413 Sidon_H6721, and_H1121 prophesy_H5012 against_H5921 it_H7760, 
+@22 and_H3068 say_H0559, ‘The_H0559 Lord_H3068 Yahweh_H3068 says_H0559: “Behold_H2005, I_H0589 am_H0589 against_H5921 you_H3588, Sidon_H6721. I_H0589 will_H3068 be_H3068 glorified_H3513 among_H8432 you_H3588. Then_H6213 they_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068, when_H3588 I_H0589 have_H3045 executed judgments_H8201 in_H5921 her_H5921, and_H3068 am_H0589 sanctified_H6942 in_H5921 her_H5921. 
+@23 For_H3588 I_H0589 will_H3068 send_H7971 pestilence_H1698 into_H8432 her_H7971, and_H3068 blood_H1818 into_H8432 her_H7971 streets_H2351. The_H5921 wounded_H2491 will_H3068 fall_H5307 within_H8432 her_H7971, with_H3068 the_H5921 sword_H2719 on_H5921 her_H7971 on_H5921 every_H5439 side_H5439. Then_H7971 they_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068.
 
 ## Conclusion: purpose of all these divine judgments; Perspective of the later dispensation of Israel
-@24 “‘“There will no longer be a pricking brier to the house of Israel, nor a hurting thorn of any that are around them that scorned them. Then they will know that I am the Lord Yahweh.” 
+@24 “‘“There_H1961 will_H1961 no_H3808 longer_H5750 be_H1961 a_H1961 pricking brier_H5544 to_H1961 the_H3605 house_H1004 of_H1004 Israel_H3478, nor_H3808 a_H1961 hurting thorn_H6975 of_H1004 any_H3605 that_H3588 are_H3478 around_H5439 them_H0853 that_H3588 scorned them_H0853. Then_H1961 they_H3588 will_H1961 know_H3045 that_H3588 I_H0589 am_H0589 the_H3605 Lord_H0136 Yahweh.” 
 
-@25 “‘The Lord Yahweh says: “When I have gathered the house of Israel from the peoples among whom they are scattered, and am shown as holy among them in the sight of the nations, then they will dwell in their own land which I gave to my servant Jacob. 
-@26 They will dwell in it securely. Yes, they will build houses, plant vineyards, and will dwell securely when I have executed judgments on all those around them who have treated them with contempt. Then they will know that I am Yahweh their God.”’” 
+@25 “‘The_H0853 Lord_H0136 Yahweh says_H0559: “When_H0834 I_H0834 have_H0834 gathered_H6908 the_H0853 house_H1004 of_H1004 Israel_H3478 from_H4480 the_H0853 peoples_H5971 among_H4480 whom_H0834 they_H0834 are_H0834 scattered_H6327, and_H3478 am shown as_H0834 holy_H6942 among_H4480 them_H5414 in_H3427 the_H0853 sight_H5869 of_H1004 the_H0853 nations_H1471, then_H0853 they_H0834 will_H0834 dwell_H3427 in_H3427 their_H5414 own_H5869 land_H0127 which_H0834 I_H0834 gave_H5414 to_H0559 my_H5414 servant_H5650 Jacob_H3290. 
+@26 They_H3588 will_H3068 dwell_H3427 in_H3427 it_H5921 securely_H0983. Yes_H3588, they_H3588 will_H3068 build_H1129 houses_H1004, plant_H5193 vineyards_H3754, and_H3068 will_H3068 dwell_H3427 securely_H0983 when_H3588 I_H0589 have_H3045 executed judgments_H8201 on_H5921 all_H3605 those_H3605 around_H5439 them_H0853 who_H3605 have_H3045 treated_H6213 them_H0853 with_H1004 contempt. Then_H0853 they_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068 their_H3605 God_H0430.”’” 
 
 # 29 
 ## Fall of Egypt and subsequent restoration; Nebuchadnezzar's compensation
-@1 In the tenth year, in the tenth month, on the twelfth day of the month, Yahweh’s word came to me, saying, 
-@2 “Son of man, set your face against Pharaoh king of Egypt, and prophesy against him and against all Egypt.
+@1 In_H8141 the_H0559 tenth_H6224 year_H8141, in_H8141 the_H0559 tenth_H6224 month_H2320, on_H0413 the_H0559 twelfth day_H2320 of_H3068 the_H0559 month_H2320, Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 “Son_H1121 of_H1121 man_H0120, set_H7760 your_H3605 face_H6440 against_H5921 Pharaoh_H6547 king_H4428 of_H1121 Egypt_H4714, and_H1121 prophesy_H5012 against_H5921 him_H5921 and_H1121 against_H5921 all_H3605 Egypt_H4714.
 
 ## Announcement of the destruction of the pharaoh, the great crocodile
-@3 Speak and say, ‘The Lord Yahweh says: “Behold, I am against you, Pharaoh king of Egypt, the great monster that lies in the middle of his rivers, that has said, ‘My river is my own, and I have made it for myself.’ 
-@4 I will put hooks in your jaws, and I will make the fish of your rivers stick to your scales. I will bring you up out of the middle of your rivers, with all the fish of your rivers which stick to your scales. 
-@5 I’ll cast you out into the wilderness, you and all the fish of your rivers. You’ll fall on the open field. You won’t be brought together or gathered. I have given you for food to the animals of the earth and to the birds of the sky. 
+@3 Speak_H1696 and_H4428 say_H0559, ‘The_H0559 Lord_H0136 Yahweh says_H0559: “Behold_H2005, I_H0589 am_H0589 against_H5921 you_H0834, Pharaoh_H6547 king_H4428 of_H4428 Egypt_H4714, the_H0559 great_H1419 monster_H8577 that_H0834 lies_H7257 in_H5921 the_H0559 middle_H8432 of_H4428 his_H5921 rivers_H2975, that_H0834 has_H0834 said_H0559, ‘My_H5921 river_H2975 is_H0834 my_H5921 own, and_H4428 I_H0589 have_H0834 made_H6213 it_H5921 for_H5921 myself_H0589.’ 
+@4 I_H5414 will_H5414 put_H5414 hooks_H2397 in_H8432 your_H3605 jaws_H3895, and_H0853 I_H5414 will_H5414 make_H5414 the_H3605 fish_H1710 of_H3605 your_H3605 rivers_H2975 stick_H1692 to_H5414 your_H3605 scales_H7193. I_H5414 will_H5414 bring_H5927 you_H5414 up_H5927 out_H3605 of_H3605 the_H3605 middle_H8432 of_H3605 your_H3605 rivers_H2975, with_H3605 all_H3605 the_H3605 fish_H1710 of_H3605 your_H3605 rivers_H2975 which stick_H1692 to_H5414 your_H3605 scales_H7193. 
+@5 I’ll cast_H5307 you_H5414 out_H6440 into_H5921 the_H3605 wilderness_H4057, you_H5414 and_H0776 all_H3605 the_H3605 fish_H1710 of_H0776 your_H3605 rivers_H2975. You’ll fall_H5307 on_H5921 the_H3605 open_H6440 field_H7704. You_H5414 won’t_H3808 be_H3808 brought_H0622 together_H0622 or_H3808 gathered_H0622. I_H5414 have_H0776 given_H5414 you_H5414 for_H5921 food_H0402 to_H5921 the_H3605 animals_H2416 of_H0776 the_H3605 earth_H0776 and_H0776 to_H5921 the_H3605 birds_H5775 of_H0776 the_H3605 sky_H8064. 
 
-@6 “‘“All the inhabitants of Egypt will know that I am Yahweh, because they have been a staff of reed to the house of Israel. 
-@7 When they took hold of you by your hand, you broke and tore all their shoulders. When they leaned on you, you broke and paralyzed all of their thighs.”
+@6 “‘“All_H3605 the_H3605 inhabitants_H3427 of_H1004 Egypt_H4714 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068, because_H3588 they_H3588 have_H1961 been_H1961 a_H1961 staff_H4938 of_H1004 reed_H7070 to_H1961 the_H3605 house_H1004 of_H1004 Israel_H3478. 
+@7 When_H5921 they_H5921 took_H8610 hold_H8610 of_H5921 you_H3605 by_H5921 your_H3605 hand_H3709, you_H3605 broke_H7665 and_H4975 tore_H1234 all_H3605 their_H3605 shoulders_H3802. When_H5921 they_H5921 leaned_H8172 on_H5921 you_H3605, you_H3605 broke_H7665 and_H4975 paralyzed all_H3605 of_H5921 their_H3605 thighs.”
 
 ## The devastation of Egypt
-@8 “‘Therefore the Lord Yahweh says: “Behold, I will bring a sword on you, and will cut off man and animal from you. 
-@9 The land of Egypt will be a desolation and a waste. Then they will know that I am Yahweh. 
+@8 “‘Therefore_H3651 the_H0559 Lord_H0136 Yahweh says_H0559: “Behold_H2005, I_H2005 will_H2719 bring_H0935 a_H3772 sword_H2719 on_H5921 you_H5921, and_H0935 will_H2719 cut_H3772 off_H3772 man_H0120 and_H0935 animal_H0929 from_H4480 you_H5921. 
+@9 The_H0559 land_H0776 of_H0776 Egypt_H4714 will_H3068 be_H1961 a_H1961 desolation_H8077 and_H3068 a_H1961 waste_H2723. Then_H1961 they_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068. 
 
-“‘“Because he has said, ‘The river is mine, and I have made it,’ 
-@10 therefore, behold, I am against you and against your rivers. I will make the land of Egypt an utter waste and desolation, from the tower of Seveneh even to the border of Ethiopia. 
-@11 No foot of man will pass through it, nor will any animal foot pass through it. It won’t be inhabited for forty years. 
-@12 I will make the land of Egypt a desolation in the middle of the countries that are desolate. Her cities among the cities that are laid waste will be a desolation forty years. I will scatter the Egyptians among the nations, and will disperse them through the countries.”
+“‘“Because_H3588 he_H3588 has_H3068 said_H0559, ‘The_H0559 river_H2975 is_H3068 mine, and_H3068 I_H0589 have_H1961 made_H6213 it_H3588,’ 
+@10 therefore_H3651, behold_H2005, I_H2005 am_H2005 against_H0413 you_H5414 and_H0776 against_H0413 your_H5414 rivers_H2975. I_H2005 will_H0776 make_H5414 the_H0853 land_H0776 of_H0776 Egypt_H4714 an_H5414 utter_H5414 waste_H2723 and_H0776 desolation_H8077, from_H5704 the_H0853 tower of_H0776 Seveneh even_H5704 to_H0413 the_H0853 border_H1366 of_H0776 Ethiopia_H3568. 
+@11 No_H3808 foot_H7272 of_H8141 man_H0120 will_H0120 pass_H5674 through_H5674 it_H3808, nor_H3808 will_H0120 any_H0120 animal_H0929 foot_H7272 pass_H5674 through_H5674 it_H3808. It_H3808 won’t_H3808 be_H3808 inhabited_H3427 for_H3427 forty_H0705 years_H8141. 
+@12 I_H5414 will_H1961 make_H5414 the_H0853 land_H0776 of_H0776 Egypt_H4714 a_H1961 desolation_H8077 in_H8141 the_H0853 middle_H8432 of_H0776 the_H0853 countries_H0776 that_H8141 are_H0776 desolate_H8074. Her_H5414 cities_H5892 among_H8432 the_H0853 cities_H5892 that_H8141 are_H0776 laid_H5414 waste_H8074 will_H1961 be_H1961 a_H1961 desolation_H8077 forty_H0705 years_H8141. I_H5414 will_H1961 scatter_H2219 the_H0853 Egyptians_H4714 among_H8432 the_H0853 nations_H1471, and_H0776 will_H1961 disperse_H2219 them_H5414 through_H8432 the_H0853 countries_H0776.”
 
 ## Unique Restoration of Egypt
-@13 “‘For the Lord Yahweh says: “At the end of forty years I will gather the Egyptians from the peoples where they were scattered. 
-@14 I will reverse the captivity of Egypt, and will cause them to return into the land of Pathros, into the land of their birth. There they will be a lowly kingdom. 
-@15 It will be the lowest of the kingdoms. It won’t lift itself up above the nations any more. I will diminish them so that they will no longer rule over the nations. 
-@16 It will no longer be the confidence of the house of Israel, bringing iniquity to memory, when they turn to look after them. Then they will know that I am the Lord Yahweh.”’”
+@13 “‘For_H3588 the_H0853 Lord_H0136 Yahweh says_H0559: “At_H6908 the_H0853 end_H7093 of_H8141 forty_H0705 years_H8141 I_H0834 will_H0834 gather_H6908 the_H0853 Egyptians_H4714 from_H4480 the_H0853 peoples_H5971 where_H0834 they_H0834 were_H0834 scattered_H6327. 
+@14 I_H0776 will_H1961 reverse_H7725 the_H0853 captivity_H7622 of_H0776 Egypt_H4714, and_H0776 will_H1961 cause_H7725 them_H0853 to_H7725 return_H7725 into_H5921 the_H0853 land_H0776 of_H0776 Pathros_H6624, into_H5921 the_H0853 land_H0776 of_H0776 their_H5921 birth. There_H8033 they_H8033 will_H1961 be_H1961 a_H1961 lowly_H8217 kingdom_H4467. 
+@15 It_H5921 will_H1961 be_H1961 the_H5921 lowest_H8217 of_H4480 the_H5921 kingdoms_H4467. It_H5921 won’t_H3808 lift_H5375 itself up_H5375 above_H5921 the_H5921 nations_H1471 any_H4480 more_H4480. I_H3808 will_H1961 diminish_H4591 them_H5921 so_H4480 that_H4480 they_H5921 will_H1961 no_H3808 longer_H5750 rule_H7287 over_H5921 the_H5921 nations_H1471. 
+@16 It_H3588 will_H1961 no_H3808 longer_H5750 be_H1961 the_H3588 confidence_H4009 of_H1004 the_H3588 house_H1004 of_H1004 Israel_H3478, bringing_H2142 iniquity_H5771 to_H1961 memory, when_H3588 they_H3588 turn_H6437 to_H1961 look_H6437 after_H0310 them_H0310. Then_H1961 they_H3588 will_H1961 know_H3045 that_H3588 I_H0589 am_H0589 the_H3588 Lord_H0136 Yahweh.”’”
 
 ## Egypt designated as replacement salary for Nebuchadnezzar's futile siege of Tire
-@17 It came to pass in the twenty-seventh year, in the first month, in the first day of the month, Yahweh’s word came to me, saying, 
-@18 “Son of man, Nebuchadnezzar king of Babylon caused his army to serve a great service against Tyre. Every head was made bald, and every shoulder was worn; yet he had no wages, nor did his army, from Tyre, for the service that he had served against it. 
-@19 Therefore the Lord Yahweh says: ‘Behold, I will give the land of Egypt to Nebuchadnezzar king of Babylon. He will carry off her multitude, take her plunder, and take her prey. That will be the wages for his army. 
-@20 I have given him the land of Egypt as his payment for which he served, because they worked for me,’ says the Lord Yahweh. 
+@17 It_H1961 came_H1961 to_H0413 pass_H1961 in_H8141 the_H0559 twenty-seventh year_H8141, in_H8141 the_H0559 first_H7223 month_H2320, in_H8141 the_H0559 first_H7223 day_H2320 of_H3068 the_H0559 month_H2320, Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@18 “Son_H1121 of_H1121 man_H0120, Nebuchadnezzar_H5019 king_H4428 of_H1121 Babylon_H0894 caused_H1961 his_H3605 army_H2428 to_H0413 serve_H5647 a_H1961 great_H1419 service_H5656 against_H5921 Tyre_H6865. Every_H3605 head_H7218 was_H1961 made_H1961 bald_H7139, and_H1121 every_H3605 shoulder_H3802 was_H1961 worn; yet_H5921 he_H0834 had_H0834 no_H3808 wages_H7939, nor_H3808 did_H0834 his_H3605 army_H2428, from_H5921 Tyre_H6865, for_H5921 the_H3605 service_H5656 that_H0834 he_H0834 had_H0834 served_H5647 against_H5921 it_H5921. 
+@19 Therefore_H3651 the_H0853 Lord_H0136 Yahweh says_H0559: ‘Behold_H2005, I_H2005 will_H1961 give_H5414 the_H0853 land_H0776 of_H4428 Egypt_H4714 to_H0559 Nebuchadnezzar_H5019 king_H4428 of_H4428 Babylon_H0894. He_H3651 will_H1961 carry_H5375 off_H5375 her_H5414 multitude_H1995, take_H5375 her_H5414 plunder_H0962, and_H0776 take_H5375 her_H5414 prey_H0957. That_H3651 will_H1961 be_H1961 the_H0853 wages_H7939 for_H0776 his_H5414 army_H2426. 
+@20 I_H0834 have_H0834 given_H5414 him_H5414 the_H0853 land_H0776 of_H0776 Egypt_H4714 as_H0834 his_H5414 payment for_H0776 which_H0834 he_H0834 served_H5647, because_H0834 they_H0834 worked_H5647 for_H0776 me_H5414,’ says_H5002 the_H0853 Lord_H0136 Yahweh. 
 
-@21 “In that day I will cause a horn to sprout for the house of Israel, and I will open your mouth among them. Then they will know that I am Yahweh.” 
+@21 “In_H3068 that_H3588 day_H3117 I_H0589 will_H3068 cause_H5414 a_H3588 horn_H7161 to_H3068 sprout_H6779 for_H3588 the_H3588 house_H1004 of_H1004 Israel_H3478, and_H3068 I_H0589 will_H3068 open_H6610 your_H3068 mouth_H6310 among_H8432 them_H5414. Then_H5414 they_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068.” 
 
 # 30 
 ## New threatening words about divine judgment imminent for Egyptians
-@1 Yahweh’s word came again to me, saying, 
-@2 “Son of man, prophesy, and say, ‘The Lord Yahweh says: “Wail, ‘Alas for the day!’ 
-@3 For the day is near, even Yahweh’s day is near. It will be a day of clouds, a time of the nations. 
-@4 A sword will come on Egypt, and anguish will be in Ethiopia, when the slain fall in Egypt. They take away her multitude, and her foundations are broken down. 
+@1 Yahweh’s_H3068 word_H1697 came_H1961 again_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 “Son_H1121 of_H1121 man_H0120, prophesy_H5012, and_H1121 say_H0559, ‘The_H0559 Lord_H0136 Yahweh says_H0559: “Wail_H3213, ‘Alas_H1929 for_H3117 the_H0559 day_H3117!’ 
+@3 For_H3588 the_H3588 day_H3117 is_H3068 near_H7138, even_H3588 Yahweh’s_H3068 day_H3117 is_H3068 near_H7138. It_H3588 will_H3068 be_H1961 a_H1961 day_H3117 of_H3068 clouds_H6051, a_H1961 time_H6256 of_H3068 the_H3588 nations_H1471. 
+@4 A_H1961 sword_H2719 will_H1961 come_H0935 on_H5307 Egypt_H4714, and_H0935 anguish_H2479 will_H1961 be_H1961 in_H0935 Ethiopia_H3568, when_H1961 the_H0935 slain_H2491 fall_H5307 in_H0935 Egypt_H4714. They_H0935 take_H3947 away_H3947 her_H3947 multitude_H1995, and_H0935 her_H3947 foundations_H3247 are_H4714 broken_H2040 down_H5307. 
 
-@5 “‘“Ethiopia, Put, Lud, all the mixed people, Cub, and the children of the land that is allied with them, will fall with them by the sword.” 
+@5 “‘“Ethiopia_H3568, Put_H6316, Lud_H3865, all_H3605 the_H3605 mixed people_H1121, Cub, and_H1121 the_H3605 children_H1121 of_H1121 the_H3605 land_H0776 that_H3605 is_H0776 allied_H1285 with_H0854 them_H5307, will_H0776 fall_H5307 with_H0854 them_H5307 by_H3605 the_H3605 sword_H2719.” 
 
-@6 “‘Yahweh says: “They also who uphold Egypt will fall. The pride of her power will come down. They will fall by the sword in it from the tower of Seveneh,” says the Lord Yahweh. 
-@7 “They will be desolate in the middle of the countries that are desolate. Her cities will be among the cities that are wasted. 
-@8 They will know that I am Yahweh when I have set a fire in Egypt, and all her helpers are destroyed. 
+@6 “‘Yahweh_H3068 says_H0559: “They_H3068 also_H3068 who_H3068 uphold_H5564 Egypt_H4714 will_H3068 fall_H5307. The_H0559 pride_H1347 of_H3068 her_H3381 power_H5797 will_H3068 come_H3381 down_H3381. They_H3068 will_H3068 fall_H5307 by_H3068 the_H0559 sword_H2719 in_H3068 it_H3381 from_H3381 the_H0559 tower of_H3068 Seveneh,” says_H0559 the_H0559 Lord_H3068 Yahweh_H3068. 
+@7 “They_H0776 will_H1961 be_H1961 desolate_H8074 in_H0776 the_H8432 middle_H8432 of_H0776 the_H8432 countries_H0776 that_H1961 are_H0776 desolate_H8074. Her_H1961 cities_H5892 will_H1961 be_H1961 among_H8432 the_H8432 cities_H5892 that_H1961 are_H0776 wasted. 
+@8 They_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068 when_H3588 I_H0589 have_H3045 set_H5414 a_H3588 fire_H0784 in_H3068 Egypt_H4714, and_H3068 all_H3605 her_H3605 helpers_H5826 are_H3068 destroyed. 
 
-@9 “‘“In that day messengers will go out from before me in ships to make the careless Ethiopians afraid. There will be anguish on them, as in the day of Egypt; for, behold, it comes.”
+@9 “‘“In_H0935 that_H3588 day_H3117 messengers_H4397 will_H1961 go_H3318 out_H3318 from_H0935 before_H6440 me_H6440 in_H0935 ships_H6716 to_H0935 make_H2729 the_H0853 careless Ethiopians afraid_H2729. There_H2009 will_H1961 be_H1961 anguish_H2479 on_H3117 them_H0853, as_H1961 in_H0935 the_H0853 day_H3117 of_H3117 Egypt_H4714; for_H3588, behold_H2009, it_H1931 comes_H0935.”
 
 ## Disaster comes to Egypt through Nebuchadnezzar
-@10 “‘The Lord Yahweh says: “I will also make the multitude of Egypt to cease, by the hand of Nebuchadnezzar king of Babylon. 
-@11 He and his people with him, the terrible of the nations, will be brought in to destroy the land. They will draw their swords against Egypt, and fill the land with the slain. 
-@12 I will make the rivers dry, and will sell the land into the hand of evil men. I will make the land desolate, and all that is therein, by the hand of foreigners. I, Yahweh, have spoken it.”
+@10 “‘The_H0853 Lord_H0136 Yahweh says_H0559: “I_H3541 will_H4428 also_H3541 make_H3027 the_H0853 multitude_H1995 of_H4428 Egypt_H4714 to_H0559 cease_H7673, by_H3027 the_H0853 hand_H3027 of_H4428 Nebuchadnezzar_H5019 king_H4428 of_H4428 Babylon_H0894. 
+@11 He_H1931 and_H0935 his_H5921 people_H5971 with_H0854 him_H5921, the_H0853 terrible of_H0776 the_H0853 nations_H1471, will_H0776 be_H0776 brought_H0935 in_H5921 to_H0935 destroy_H7843 the_H0853 land_H0776. They_H5921 will_H0776 draw their_H5921 swords_H2719 against_H5921 Egypt_H4714, and_H0935 fill_H4390 the_H0853 land_H0776 with_H0854 the_H0853 slain_H2491. 
+@12 I_H0589 will_H3068 make_H5414 the_H0853 rivers_H2975 dry_H2724, and_H3068 will_H3068 sell_H4376 the_H0853 land_H0776 into_H0776 the_H0853 hand_H3027 of_H0776 evil_H7451 men. I_H0589 will_H3068 make_H5414 the_H0853 land_H0776 desolate_H8074, and_H3068 all_H4393 that_H3068 is_H3068 therein, by_H3027 the_H0853 hand_H3027 of_H0776 foreigners_H2114. I_H0589, Yahweh_H3068, have_H0776 spoken_H1696 it_H5414.”
 
 ## The judgment of the most important cities of Egypt
-@13 “‘The Lord Yahweh says: “I will also destroy the idols, and I will cause the images to cease from Memphis. There will be no more a prince from the land of Egypt. I will put a fear in the land of Egypt. 
-@14 I will make Pathros desolate, and will set a fire in Zoan, and will execute judgments on No. 
-@15 I will pour my wrath on Sin, the stronghold of Egypt. I will cut off the multitude of No. 
-@16 I will set a fire in Egypt Sin will be in great anguish. No will be broken up. Memphis will have adversaries in the daytime. 
-@17 The young men of Aven and of Pibeseth will fall by the sword. They will go into captivity. 
-@18 At Tehaphnehes also the day will withdraw itself, when I break the yokes of Egypt there. The pride of her power will cease in her. As for her, a cloud will cover her, and her daughters will go into captivity. 
-@19 Thus I will execute judgments on Egypt. Then they will know that I am Yahweh.”’”
+@13 “‘The_H0559 Lord_H0136 Yahweh says_H0559: “I_H5414 will_H1961 also_H3541 destroy_H0006 the_H0559 idols_H1544, and_H0776 I_H5414 will_H1961 cause_H5414 the_H0559 images_H0457 to_H0559 cease_H7673 from_H1961 Memphis_H5297. There_H1961 will_H1961 be_H1961 no_H3808 more_H5750 a_H1961 prince_H5387 from_H1961 the_H0559 land_H0776 of_H0776 Egypt_H4714. I_H5414 will_H1961 put_H5414 a_H1961 fear_H3374 in_H0776 the_H0559 land_H0776 of_H0776 Egypt_H4714. 
+@14 I_H5414 will_H5414 make_H5414 Pathros_H6624 desolate_H8074, and_H0784 will_H5414 set_H5414 a_H5414 fire_H0784 in_H0784 Zoan_H6814, and_H0784 will_H5414 execute_H5414 judgments_H8201 on_H8201 No_H5414. 
+@15 I_H4714 will_H4714 pour_H8210 my_H5921 wrath_H2534 on_H5921 Sin, the_H0853 stronghold_H4581 of_H5921 Egypt_H4714. I_H4714 will_H4714 cut_H3772 off_H3772 the_H0853 multitude_H1995 of_H5921 No. 
+@16 I_H5414 will_H1961 set_H5414 a_H1961 fire_H0784 in_H0784 Egypt_H4714 Sin will_H1961 be_H1961 in_H0784 great anguish_H2342. No_H5414 will_H1961 be_H1961 broken_H1234 up_H5414. Memphis_H5297 will_H1961 have_H1961 adversaries in_H0784 the_H5414 daytime_H3119. 
+@17 The_H5307 young_H0970 men_H0970 of_H2719 Aven_H0206 and_H2719 of_H2719 Pibeseth will_H2719 fall_H5307 by_H5307 the_H5307 sword_H2719. They_H2007 will_H2719 go_H5307 into_H5307 captivity_H7628. 
+@18 At_H3117 Tehaphnehes_H8471 also_H0853 the_H0853 day_H3117 will_H4714 withdraw itself_H1931, when_H3117 I_H3117 break_H7665 the_H0853 yokes_H4133 of_H3117 Egypt_H4714 there_H8033. The_H0853 pride_H1347 of_H3117 her_H3680 power_H5797 will_H4714 cease_H7673 in_H3117 her_H3680. As_H3117 for_H4714 her_H3680, a_H8033 cloud_H6051 will_H4714 cover_H3680 her_H3680, and_H3117 her_H3680 daughters_H1323 will_H4714 go into_H4714 captivity_H7628. 
+@19 Thus I_H0589 will_H3068 execute judgments_H8201 on_H3068 Egypt_H4714. Then_H6213 they_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068.”’”
 
 ## Pharaoh's Arm Crush
-@20 In the eleventh year, in the first month, in the seventh day of the month, Yahweh’s word came to me, saying, 
-@21 “Son of man, I have broken the arm of Pharaoh king of Egypt. Behold, it has not been bound up, to apply medicines, to put a bandage to bind it, that it may become strong to hold the sword.
+@20 In_H8141 the_H0559 eleventh_H6240 year_H8141, in_H8141 the_H0559 first_H7223 month_H2320, in_H8141 the_H0559 seventh_H7651 day_H2320 of_H3068 the_H0559 month_H2320, Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@21 “Son_H1121 of_H1121 man_H0120, I_H5414 have_H1121 broken_H7665 the_H0853 arm_H2220 of_H1121 Pharaoh_H6547 king_H4428 of_H1121 Egypt_H4714. Behold_H2009, it_H7760 has_H4428 not_H3808 been_H2388 bound_H2280 up_H5414, to_H5414 apply medicines, to_H5414 put_H5414 a_H5414 bandage_H2848 to_H5414 bind_H2280 it_H7760, that_H3808 it_H7760 may_H0120 become strong_H2388 to_H5414 hold_H2388 the_H0853 sword_H2719.
 
 ## Threat against Pharaoh and against Egypt
-@22 Therefore the Lord Yahweh says: ‘Behold, I am against Pharaoh king of Egypt, and will break his arms, the strong arm, and that which was broken. I will cause the sword to fall out of his hand. 
-@23 I will scatter the Egyptians among the nations, and will disperse them through the countries. 
-@24 I will strengthen the arms of the king of Babylon, and put my sword in his hand; but I will break the arms of Pharaoh, and he will groan before the king of Babylon with the groaning of a mortally wounded man. 
-@25 I will hold up the arms of the king of Babylon, but the arms of Pharaoh will fall down. Then they will know that I am Yahweh when I put my sword into the hand of the king of Babylon, and he stretches it out on the land of Egypt. 
-@26 I will scatter the Egyptians among the nations and disperse them through the countries. Then they will know that I am Yahweh.’” 
+@22 Therefore_H3651 the_H0853 Lord_H0136 Yahweh says_H0559: ‘Behold_H2005, I_H2005 am_H2005 against_H0413 Pharaoh_H6547 king_H4428 of_H4428 Egypt_H4714, and_H3027 will_H4428 break_H7665 his_H3027 arms_H2220, the_H0853 strong_H2389 arm_H2220, and_H3027 that_H3651 which_H2719 was_H4428 broken_H7665. I_H2005 will_H4428 cause the_H0853 sword_H2719 to_H0413 fall_H5307 out_H0413 of_H4428 his_H3027 hand_H3027. 
+@23 I_H4714 will_H0776 scatter_H2219 the_H0853 Egyptians_H4714 among_H0776 the_H0853 nations_H1471, and_H0776 will_H0776 disperse_H2219 them_H0853 through_H0776 the_H0853 countries_H0776. 
+@24 I_H5414 will_H4428 strengthen_H2388 the_H0853 arms_H2220 of_H4428 the_H0853 king_H4428 of_H4428 Babylon_H0894, and_H3027 put_H5414 my_H5414 sword_H2719 in_H4428 his_H5414 hand_H3027; but_H2388 I_H5414 will_H4428 break_H7665 the_H0853 arms_H2220 of_H4428 Pharaoh_H6547, and_H3027 he_H5414 will_H4428 groan_H5008 before_H6440 the_H0853 king_H4428 of_H4428 Babylon_H0894 with_H3027 the_H0853 groaning_H5009 of_H4428 a_H5414 mortally_H2491 wounded_H2491 man. 
+@25 I_H0589 will_H3068 hold_H2388 up_H5414 the_H0853 arms_H2220 of_H4428 the_H0853 king_H4428 of_H4428 Babylon_H0894, but_H3588 the_H0853 arms_H2220 of_H4428 Pharaoh_H6547 will_H3068 fall_H5307 down_H5307. Then_H0853 they_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068 when_H3588 I_H0589 put_H5414 my_H5414 sword_H2719 into_H0413 the_H0853 hand_H3027 of_H4428 the_H0853 king_H4428 of_H4428 Babylon_H0894, and_H3068 he_H3588 stretches_H5186 it_H5414 out_H2388 on_H0413 the_H0853 land_H0776 of_H4428 Egypt_H4714. 
+@26 I_H0589 will_H3068 scatter_H2219 the_H0853 Egyptians_H4714 among_H0776 the_H0853 nations_H1471 and_H3068 disperse_H2219 them_H0853 through_H0776 the_H0853 countries_H0776. Then_H0853 they_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068.’” 
 
 # 31 
 ## Proud height and sudden fall of the pharaoh compared to a magnificent cedar
-@1 In the eleventh year, in the third month, in the first day of the month, Yahweh’s word came to me, saying, 
-@2 “Son of man, tell Pharaoh king of Egypt and his multitude: ‘Whom are you like in your greatness? 
-@3 Behold, the Assyrian was a cedar in Lebanon with beautiful branches, and with a forest-like shade, of high stature; and its top was among the thick boughs. 
-@4 The waters nourished it. The deep made it to grow. Its rivers ran all around its plantation. It sent out its channels to all the trees of the field. 
-@5 Therefore its stature was exalted above all the trees of the field; and its boughs were multiplied. Its branches became long by reason of many waters, when it spread them out. 
-@6 All the birds of the sky made their nests in its boughs. Under its branches, all the animals of the field gave birth to their young. All great nations lived under its shadow. 
-@7 Thus it was beautiful in its greatness, in the length of its branches; for its root was by many waters. 
-@8 The cedars in the garden of God could not hide it. The cypress trees were not like its branches. The pine trees were not like its branches; nor was any tree in the garden of God like it in its beauty. 
-@9 I made it beautiful by the multitude of its branches, so that all the trees of Eden, that were in the garden of God, envied it.’
+@1 In_H8141 the_H0559 eleventh_H6240 year_H8141, in_H8141 the_H0559 third_H7992 month_H2320, in_H8141 the_H0559 first_H0259 day_H2320 of_H3068 the_H0559 month_H2320, Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 “Son_H1121 of_H1121 man_H0120, tell_H0559 Pharaoh_H6547 king_H4428 of_H1121 Egypt_H4714 and_H1121 his_H0413 multitude_H1995: ‘Whom_H4310 are_H1121 you_H0413 like_H1819 in_H0413 your_H0413 greatness_H1433? 
+@3 Behold_H2009, the_H0996 Assyrian was_H1961 a_H1961 cedar_H0730 in_H3303 Lebanon_H3844 with_H1961 beautiful_H3303 branches_H6057, and_H0730 with_H1961 a_H1961 forest-like shade_H6751, of_H0730 high_H6967 stature_H6967; and_H0730 its_H1961 top_H6788 was_H1961 among_H0996 the_H0996 thick boughs_H6057. 
+@4 The_H3605 waters_H4325 nourished it_H5439. The_H3605 deep_H8415 made_H3605 it_H5439 to_H0413 grow_H1431. Its_H3605 rivers_H5104 ran_H1980 all_H3605 around_H5439 its_H3605 plantation. It_H5439 sent_H7971 out_H7971 its_H3605 channels to_H0413 all_H3605 the_H3605 trees_H6086 of_H4325 the_H3605 field_H7704. 
+@5 Therefore_H3651 its_H3605 stature_H6967 was_H4325 exalted_H1361 above_H5921 all_H3605 the_H3605 trees_H6086 of_H5921 the_H3605 field_H7704; and_H7971 its_H3605 boughs_H5634 were_H4325 multiplied_H7235. Its_H3605 branches_H6288 became long_H0748 by_H5921 reason_H3651 of_H5921 many_H7227 waters_H4325, when_H7971 it_H5921 spread_H7971 them_H5921 out_H7971. 
+@6 All_H3605 the_H3605 birds_H5775 of_H3205 the_H3605 sky_H8064 made_H3605 their_H3605 nests_H7077 in_H3427 its_H3605 boughs_H6288. Under_H8478 its_H3605 branches_H6288, all_H3605 the_H3605 animals_H2416 of_H3205 the_H3605 field_H7704 gave_H3205 birth_H3205 to_H3205 their_H3605 young. All_H3605 great_H7227 nations_H1471 lived_H3427 under_H8478 its_H3605 shadow_H6738. 
+@7 Thus_H1961 it_H3588 was_H1961 beautiful_H3302 in_H0413 its_H1961 greatness_H1433, in_H0413 the_H3588 length_H0753 of_H4325 its_H1961 branches_H1808; for_H3588 its_H1961 root_H8328 was_H1961 by_H0413 many_H7227 waters_H4325. 
+@8 The_H3605 cedars_H0730 in_H0413 the_H3605 garden_H1588 of_H0430 God_H0430 could not_H3808 hide it_H1961. The_H3605 cypress_H1265 trees_H6086 were_H1961 not_H3808 like_H1961 its_H3605 branches_H6288. The_H3605 pine trees_H6086 were_H1961 not_H3808 like_H1961 its_H3605 branches_H6288; nor_H3808 was_H1961 any_H3605 tree_H6086 in_H0413 the_H3605 garden_H1588 of_H0430 God_H0430 like_H1961 it_H1961 in_H0413 its_H3605 beauty_H3308. 
+@9 I_H0834 made_H6213 it_H6213 beautiful_H3303 by_H3605 the_H3605 multitude_H7230 of_H0430 its_H3605 branches_H1808, so_H6213 that_H0834 all_H3605 the_H3605 trees_H6086 of_H0430 Eden_H5731, that_H0834 were_H0834 in_H0430 the_H3605 garden_H1588 of_H0430 God_H0430, envied_H7065 it_H6213.’
 
 ## The sudden fall of the cedar and God's purpose in it
-@10 “Therefore thus said the Lord Yahweh: ‘Because he is exalted in stature, and he has set his top among the thick branches, and his heart is lifted up in his height, 
-@11 I will deliver him into the hand of the mighty one of the nations. He will surely deal with him. I have driven him out for his wickedness. 
-@12 Foreigners, the tyrants of the nations, have cut him off and have left him. His branches have fallen on the mountains and in all the valleys, and his boughs are broken by all the watercourses of the land. All the peoples of the earth have gone down from his shadow and have left him. 
-@13 All the birds of the sky will dwell on his ruin, and all the animals of the field will be on his branches, 
-@14 to the end that none of all the trees by the waters exalt themselves in their stature, and don’t set their top among the thick boughs. Their mighty ones don’t stand up on their height, even all who drink water; for they are all delivered to death, to the lower parts of the earth, among the children of men, with those who go down to the pit.’
+@10 “Therefore_H3651 thus_H3541 said_H0559 the_H0559 Lord_H0136 Yahweh: ‘Because_H3282 he_H0834 is_H0834 exalted_H7311 in_H0413 stature_H6967, and_H3824 he_H0834 has_H0834 set_H5414 his_H5414 top_H6788 among_H0996 the_H0559 thick branches, and_H3824 his_H5414 heart_H3824 is_H0834 lifted_H7311 up_H7311 in_H0413 his_H5414 height_H6967, 
+@11 I_H5414 will_H1471 deliver_H5414 him_H5414 into_H3027 the_H5414 hand_H3027 of_H3027 the_H5414 mighty one_H3027 of_H3027 the_H5414 nations_H1471. He_H6213 will_H1471 surely_H5414 deal_H6213 with_H3027 him_H5414. I_H5414 have_H1471 driven_H1644 him_H5414 out_H1644 for_H3027 his_H5414 wickedness_H7562. 
+@12 Foreigners_H2114, the_H3605 tyrants_H6184 of_H0776 the_H3605 nations_H1471, have_H0776 cut_H3772 him_H0413 off_H3772 and_H0776 have_H0776 left_H5203 him_H0413. His_H3605 branches_H1808 have_H0776 fallen_H5307 on_H0413 the_H3605 mountains_H2022 and_H0776 in_H0413 all_H3605 the_H3605 valleys_H1516, and_H0776 his_H3605 boughs_H6288 are_H0776 broken_H7665 by_H0413 all_H3605 the_H3605 watercourses of_H0776 the_H3605 land_H0776. All_H3605 the_H3605 peoples_H5971 of_H0776 the_H3605 earth_H0776 have_H0776 gone_H3381 down_H3381 from_H3772 his_H3605 shadow_H6738 and_H0776 have_H0776 left_H5203 him_H0413. 
+@13 All_H3605 the_H3605 birds_H5775 of_H5921 the_H3605 sky_H8064 will_H1961 dwell_H7931 on_H5921 his_H3605 ruin_H4658, and_H8064 all_H3605 the_H3605 animals_H2416 of_H5921 the_H3605 field_H7704 will_H1961 be_H1961 on_H5921 his_H3605 branches_H6288, 
+@14 to_H0413 the_H3605 end that_H0834 none_H3808 of_H1121 all_H3605 the_H3605 trees_H6086 by_H0413 the_H3605 waters_H4325 exalt themselves in_H0413 their_H3605 stature_H6967, and_H1121 don’t_H3808 set_H5414 their_H3605 top_H6788 among_H8432 the_H3605 thick boughs. Their_H3605 mighty ones_H1121 don’t_H3808 stand_H5975 up_H5975 on_H0413 their_H3605 height_H6967, even_H3588 all_H3605 who_H0834 drink_H8354 water_H4325; for_H3588 they_H0834 are_H0834 all_H3605 delivered_H5414 to_H0413 death_H4194, to_H0413 the_H3605 lower_H8482 parts_H8482 of_H1121 the_H3605 earth_H0776, among_H8432 the_H3605 children_H1121 of_H1121 men_H0120, with_H0413 those_H3605 who_H0834 go_H3381 down_H3381 to_H0413 the_H3605 pit_H0953.’
 
 ## The effect and meaning of this fall
-@15 “The Lord Yahweh says: ‘In the day when he went down to Sheol,^a^ I caused a mourning. I covered the deep for him, and I restrained its rivers. The great waters were stopped. I caused Lebanon to mourn for him, and all the trees of the field fainted for him. 
-@16 I made the nations to shake at the sound of his fall, when I cast him down to Sheol^b^ with those who descend into the pit. All the trees of Eden, the choice and best of Lebanon, all that drink water, were comforted in the lower parts of the earth. 
-@17 They also went down into Sheol with him to those who are slain by the sword; yes, those who were his arm, who lived under his shadow in the middle of the nations. 
+@15 “The_H3605 Lord_H0136 Yahweh says_H0559: ‘In_H5921 the_H3605 day_H3117 when_H3117 he_H3117 went_H3381 down_H3381 to_H0559 Sheol_H7585,^a^ I_H3117 caused_H0056 a_H5921 mourning_H6937. I_H3117 covered_H3680 the_H3605 deep_H8415 for_H5921 him_H5921, and_H3117 I_H3117 restrained_H3607 its_H3605 rivers_H5104. The_H3605 great_H7227 waters_H4325 were_H3117 stopped_H3607. I_H3117 caused_H0056 Lebanon_H3844 to_H0559 mourn_H0056 for_H5921 him_H5921, and_H3117 all_H3605 the_H3605 trees_H6086 of_H3117 the_H3605 field_H7704 fainted for_H5921 him_H5921. 
+@16 I_H0776 made_H3605 the_H3605 nations_H1471 to_H3381 shake_H7493 at_H4325 the_H3605 sound_H6963 of_H0776 his_H3605 fall_H4658, when_H0776 I_H0776 cast him_H0853 down_H3381 to_H3381 Sheol_H7585^b^ with_H0854 those_H3605 who_H3605 descend_H3381 into_H0776 the_H3605 pit_H0953. All_H3605 the_H3605 trees_H6086 of_H0776 Eden_H5731, the_H3605 choice_H4005 and_H0776 best_H2896 of_H0776 Lebanon_H3844, all_H3605 that_H3605 drink_H8354 water_H4325, were_H4325 comforted_H5162 in_H0776 the_H3605 lower_H8482 parts_H8482 of_H0776 the_H3605 earth_H0776. 
+@17 They_H1992 also_H1571 went_H3381 down_H3381 into_H0413 Sheol_H7585 with_H0854 him_H0413 to_H0413 those_H1992 who_H3427 are_H1992 slain_H2491 by_H0413 the_H0413 sword_H2719; yes_H1571, those_H1992 who_H3427 were_H1992 his_H8432 arm_H2220, who_H3427 lived_H3427 under_H3427 his_H8432 shadow_H6738 in_H3427 the_H0413 middle_H8432 of_H3427 the_H0413 nations_H1471. 
 ^a^[**31:15** Sheol is the place of the dead.] ^b^[**31:16** Sheol is the place of the dead.]
 
-@18 “‘To whom are you thus like in glory and in greatness among the trees of Eden? Yet you will be brought down with the trees of Eden to the lower parts of the earth. You will lie in the middle of the uncircumcised, with those who are slain by the sword. 
+@18 “‘To_H0413 whom_H4310 are_H0776 you_H3605 thus_H3602 like_H1819 in_H0413 glory_H3519 and_H0776 in_H0413 greatness_H1433 among_H8432 the_H3605 trees_H6086 of_H0776 Eden_H5731? Yet you_H3605 will_H4310 be_H0776 brought_H3381 down_H3381 with_H0854 the_H3605 trees_H6086 of_H0776 Eden_H5731 to_H0413 the_H3605 lower_H8482 parts_H8482 of_H0776 the_H3605 earth_H0776. You_H3605 will_H4310 lie_H7901 in_H0413 the_H3605 middle_H8432 of_H0776 the_H3605 uncircumcised_H6189, with_H0854 those_H3605 who_H4310 are_H0776 slain_H2491 by_H0413 the_H3605 sword_H2719. 
 
-“‘This is Pharaoh and all his multitude,’ says the Lord Yahweh.” 
+“‘This_H1931 is_H1931 Pharaoh_H6547 and_H0776 all_H3605 his_H3605 multitude_H1995,’ says_H5002 the_H3605 Lord_H0136 Yahweh.” 
 
 # 32 
 ## Lament for Pharaoh
-@1 In the twelfth year, in the twelfth month, in the first day of the month, “Yahweh’s word came to me, saying, 
-@2 ‘Son of man, take up a lamentation over Pharaoh king of Egypt, and tell him, “You were likened to a young lion of the nations; yet you are as a monster in the seas. You broke out with your rivers, and troubled the waters with your feet, and fouled their rivers.” 
-@3 The Lord Yahweh says: “I will spread out my net on you with a company of many peoples. They will bring you up in my net. 
-@4 I will leave you on the land. I will cast you out on the open field, and will cause all the birds of the sky to settle on you. I will satisfy the animals of the whole earth with you. 
-@5 I will lay your flesh on the mountains, and fill the valleys with your height. 
-@6 I will also water the land in which you swim with your blood, even to the mountains. The watercourses will be full of you. 
-@7 When I extinguish you, I will cover the heavens and make its stars dark. I will cover the sun with a cloud, and the moon won’t give its light. 
-@8 I will make all the bright lights of the sky dark over you, and set darkness on your land,” says the Lord Yahweh. 
-@9 “I will also trouble the hearts of many peoples, when I bring your destruction among the nations, into the countries which you have not known. 
-@10 Yes, I will make many peoples amazed at you, and their kings will be horribly afraid for you, when I brandish my sword before them. They will tremble at every moment, every man for his own life, in the day of your fall.”
+@1 In_H8141 the_H0559 twelfth year_H8141, in_H8141 the_H0559 twelfth month_H2320, in_H8141 the_H0559 first_H0259 day_H2320 of_H3068 the_H0559 month_H2320, “Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 ‘Son_H1121 of_H1121 man_H0120, take_H5375 up_H5375 a_H5375 lamentation_H7015 over_H5921 Pharaoh_H6547 king_H4428 of_H1121 Egypt_H4714, and_H1121 tell_H0559 him_H0413, “You_H0859 were_H1121 likened to_H0413 a_H5375 young_H1121 lion_H3715 of_H1121 the_H0559 nations_H1471; yet_H5921 you_H0859 are_H1121 as_H1121 a_H5375 monster in_H5921 the_H0559 seas_H3220. You_H0859 broke_H1518 out_H5921 with_H0413 your_H5921 rivers_H5104, and_H1121 troubled the_H0559 waters_H4325 with_H0413 your_H5921 feet_H7272, and_H1121 fouled their_H5375 rivers_H5104.” 
+@3 The_H0853 Lord_H0136 Yahweh says_H0559: “I_H3541 will_H0136 spread_H6566 out_H5921 my_H5921 net_H7568 on_H5921 you_H5921 with_H5921 a_H5921 company_H6951 of_H5921 many_H7227 peoples_H5971. They_H5921 will_H0136 bring_H5927 you_H5921 up_H5927 in_H5921 my_H5921 net_H7568. 
+@4 I_H0776 will_H0776 leave_H4480 you_H3605 on_H5921 the_H3605 land_H0776. I_H0776 will_H0776 cast_H2904 you_H3605 out_H4480 on_H5921 the_H3605 open_H6440 field_H7704, and_H0776 will_H0776 cause all_H3605 the_H3605 birds_H5775 of_H0776 the_H3605 sky_H8064 to_H5921 settle_H7931 on_H5921 you_H3605. I_H0776 will_H0776 satisfy_H7646 the_H3605 animals_H2416 of_H0776 the_H3605 whole_H3605 earth_H0776 with_H5921 you_H3605. 
+@5 I_H5414 will_H1320 lay_H5414 your_H5414 flesh_H1320 on_H5921 the_H0853 mountains_H2022, and_H2022 fill_H4390 the_H0853 valleys_H1516 with_H4390 your_H5414 height. 
+@6 I_H0776 will_H0776 also water_H8248 the_H0413 land_H0776 in_H0413 which_H2022 you_H4480 swim with_H4390 your_H4480 blood_H1818, even_H0776 to_H0413 the_H0413 mountains_H2022. The_H0413 watercourses will_H0776 be_H0776 full_H4390 of_H0776 you_H4480. 
+@7 When_H6051 I_H3808 extinguish_H3518 you_H0853, I_H3808 will_H8064 cover_H3680 the_H0853 heavens_H8064 and_H8064 make_H0215 its_H0853 stars_H3556 dark_H6937. I_H3808 will_H8064 cover_H3680 the_H0853 sun_H8121 with_H3680 a_H3808 cloud_H6051, and_H8064 the_H0853 moon_H3394 won’t_H3808 give_H0215 its_H0853 light_H0216. 
+@8 I_H5414 will_H0776 make_H5414 all_H3605 the_H3605 bright_H3974 lights_H3974 of_H0776 the_H3605 sky_H8064 dark_H2822 over_H5921 you_H5414, and_H0776 set_H5414 darkness_H2822 on_H5921 your_H3605 land_H0776,” says_H5002 the_H3605 Lord_H0136 Yahweh. 
+@9 “I_H0834 will_H0776 also_H3820 trouble_H3707 the_H0834 hearts_H3820 of_H0776 many_H7227 peoples_H5971, when_H0834 I_H0834 bring_H0935 your_H5921 destruction_H7667 among_H5921 the_H0834 nations_H1471, into_H0935 the_H0834 countries_H0776 which_H0834 you_H0834 have_H0834 not_H3808 known_H3045. 
+@10 Yes, I_H3117 will_H4428 make_H8074 many_H7227 peoples_H5971 amazed at_H5921 you_H6440, and_H4428 their_H5921 kings_H4428 will_H4428 be_H0376 horribly afraid_H2729 for_H5921 you_H6440, when_H3117 I_H3117 brandish my_H5921 sword_H2719 before_H6440 them_H5921. They_H3117 will_H4428 tremble_H2729 at_H5921 every_H0376 moment_H7281, every_H0376 man_H0376 for_H5921 his_H5921 own_H0376 life_H5315, in_H5921 the_H6440 day_H3117 of_H4428 your_H5921 fall_H4658.”
 
 ## The destruction of Egypt by the king of Babylon
-@11 For the Lord Yahweh says: “The sword of the king of Babylon will come on you. 
-@12 I will cause your multitude to fall by the swords of the mighty. They are all the ruthless of the nations. They will bring the pride of Egypt to nothing, and all its multitude will be destroyed. 
-@13 I will destroy also all its animals from beside many waters. The foot of man won’t trouble them any more, nor will the hoofs of animals trouble them. 
-@14 Then I will make their waters clear, and cause their rivers to run like oil,” says the Lord Yahweh. 
-@15 “When I make the land of Egypt desolate and waste, a land destitute of that of which it was full, when I strike all those who dwell therein, then they will know that I am Yahweh. 
+@11 For_H3588 the_H0559 Lord_H0136 Yahweh says_H0559: “The_H0559 sword_H2719 of_H4428 the_H0559 king_H4428 of_H4428 Babylon_H0894 will_H4428 come_H0935 on_H0935 you_H3588. 
+@12 I_H4714 will_H1471 cause your_H3605 multitude_H1995 to_H4714 fall_H5307 by_H3605 the_H3605 swords_H2719 of_H3605 the_H3605 mighty_H1368. They_H3605 are_H1471 all_H3605 the_H3605 ruthless_H6184 of_H3605 the_H3605 nations_H1471. They_H3605 will_H1471 bring_H5307 the_H3605 pride_H1347 of_H3605 Egypt_H4714 to_H4714 nothing_H3605, and_H4714 all_H3605 its_H3605 multitude_H1995 will_H1471 be_H1471 destroyed_H8045. 
+@13 I_H3808 will_H0120 destroy_H0006 also_H0853 all_H3605 its_H3605 animals_H0929 from_H5921 beside_H5921 many_H7227 waters_H4325. The_H3605 foot_H7272 of_H5921 man_H0120 won’t_H3808 trouble them_H0853 any_H3605 more_H5750, nor_H3808 will_H0120 the_H3605 hoofs_H6541 of_H5921 animals_H0929 trouble them_H0853. 
+@14 Then_H0227 I_H0227 will_H4325 make their_H0227 waters_H4325 clear, and_H8081 cause their_H0227 rivers_H5104 to_H4325 run like oil_H8081,” says_H5002 the_H5002 Lord_H0136 Yahweh. 
+@15 “When_H3588 I_H0589 make_H5414 the_H3605 land_H0776 of_H0776 Egypt_H4714 desolate_H8074 and_H3068 waste_H8074, a_H3588 land_H0776 destitute_H8074 of_H0776 that_H3588 of_H0776 which_H4393 it_H5414 was_H3068 full_H4393, when_H3588 I_H0589 strike_H5221 all_H3605 those_H3605 who_H3605 dwell_H3427 therein, then_H0853 they_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068. 
 
-@16 “‘“This is the lamentation with which they will lament. The daughters of the nations will lament with this. They will lament with it over Egypt, and over all her multitude,” says the Lord Yahweh.’”
+@16 “‘“This_H1931 is_H1931 the_H3605 lamentation_H7015 with_H5921 which_H1931 they_H5921 will_H1471 lament_H7015. The_H3605 daughters_H1323 of_H1323 the_H3605 nations_H1471 will_H1471 lament_H7015 with_H5921 this_H1931. They_H5921 will_H1471 lament_H7015 with_H5921 it_H1931 over_H5921 Egypt_H4714, and_H4714 over_H5921 all_H3605 her_H3605 multitude_H1995,” says_H5002 the_H3605 Lord_H0136 Yahweh.’”
 
 ## Funeral hymns for the pharaoh
-@17 Also in the twelfth year, in the fifteenth day of the month, Yahweh’s word came to me, saying, 
-@18 “Son of man, wail for the multitude of Egypt, and cast them down, even her and the daughters of the famous nations, to the lower parts of the earth, with those who go down into the pit.
+@17 Also_H3068 in_H8141 the_H0559 twelfth year_H8141, in_H8141 the_H0559 fifteenth day_H2320 of_H3068 the_H0559 month_H2320, Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@18 “Son_H1121 of_H1121 man_H0120, wail_H5091 for_H5921 the_H0853 multitude_H1995 of_H1121 Egypt_H4714, and_H1121 cast them_H0413 down_H3381, even_H0853 her_H0413 and_H1121 the_H0853 daughters_H1323 of_H1121 the_H0853 famous nations_H1471, to_H0413 the_H0853 lower_H8482 parts_H8482 of_H1121 the_H0853 earth_H0776, with_H0854 those_H1121 who_H1121 go_H3381 down_H3381 into_H0413 the_H0853 pit_H0953.
 
 ## The pharaoh doomed to unhappiness; His reception by the inhabitants of the underworld
-@19 Whom do you pass in beauty? Go down, and be laid with the uncircumcised. 
-@20 They will fall among those who are slain by the sword. She is delivered to the sword. Draw her away with all her multitudes. 
-@21 The strong among the mighty will speak to him out of the middle of Sheol^a^ with those who help him. They have gone down. The uncircumcised lie still, slain by the sword. 
+@19 Whom_H4310 do_H4310 you_H3381 pass in_H6189 beauty_H5276? Go_H3381 down_H3381, and_H3381 be laid_H7901 with_H0854 the_H0854 uncircumcised_H6189. 
+@20 They_H3605 will_H2719 fall_H5307 among_H8432 those_H3605 who_H3605 are_H1995 slain_H2491 by_H3605 the_H3605 sword_H2719. She is_H3605 delivered_H5414 to_H5414 the_H3605 sword_H2719. Draw_H4900 her_H3605 away_H5307 with_H3605 all_H3605 her_H3605 multitudes_H1995. 
+@21 The_H8432 strong_H1368 among_H8432 the_H8432 mighty_H1368 will_H2719 speak_H1696 to_H1696 him_H0854 out of_H8432 the_H8432 middle_H8432 of_H8432 Sheol_H7585^a^ with_H0854 those who_H0410 help_H5826 him_H0854. They_H2719 have_H1696 gone_H3381 down_H3381. The_H8432 uncircumcised_H6189 lie_H7901 still_H7901, slain_H2491 by_H1696 the_H8432 sword_H2719. 
 ^a^[**32:21** Sheol is the place of the dead.]
 
 ## The pharaoh in the underworld in the midst of the unhappy
-@22 “Asshur is there with all her company. Her graves are all around her. All of them are slain, fallen by the sword, 
-@23 whose graves are set in the uttermost parts of the pit, and her company is around her grave, all of them slain, fallen by the sword, who caused terror in the land of the living. 
+@22 “Asshur_H0804 is_H3605 there_H8033 with_H3605 all_H3605 her_H3605 company_H6951. Her_H3605 graves_H6913 are_H6913 all_H3605 around_H5439 her_H3605. All_H3605 of_H3605 them_H5307 are_H6913 slain_H2491, fallen_H5307 by_H3605 the_H3605 sword_H2719, 
+@23 whose_H0834 graves_H6913 are_H0834 set_H5414 in_H0776 the_H3605 uttermost parts_H3411 of_H0776 the_H3605 pit_H0953, and_H0776 her_H3605 company_H6951 is_H0834 around_H5439 her_H3605 grave_H6913, all_H3605 of_H0776 them_H5414 slain_H2491, fallen_H5307 by_H1961 the_H3605 sword_H2719, who_H0834 caused_H1961 terror_H2851 in_H0776 the_H3605 land_H0776 of_H0776 the_H3605 living_H2416. 
 
-@24 “There is Elam and all her multitude around her grave; all of them slain, fallen by the sword, who have gone down uncircumcised into the lower parts of the earth, who caused their terror in the land of the living, and have borne their shame with those who go down to the pit. 
-@25 They have made Elam a bed among the slain with all her multitude. Her graves are around her, all of them uncircumcised, slain by the sword; for their terror was caused in the land of the living, and they have borne their shame with those who go down to the pit. He is put among those who are slain. 
+@24 “There_H8033 is_H0834 Elam_H5867 and_H0776 all_H3605 her_H3605 multitude_H1995 around_H5439 her_H3605 grave_H6900; all_H3605 of_H0776 them_H0413 slain_H2491, fallen_H5307 by_H0413 the_H3605 sword_H2719, who_H0834 have_H0834 gone_H3381 down_H3381 uncircumcised_H6189 into_H0413 the_H3605 lower_H8482 parts_H8482 of_H0776 the_H3605 earth_H0776, who_H0834 caused_H5414 their_H3605 terror_H2851 in_H0413 the_H3605 land_H0776 of_H0776 the_H3605 living_H2416, and_H0776 have_H0834 borne_H5375 their_H3605 shame_H3639 with_H0854 those_H3605 who_H0834 go_H3381 down_H3381 to_H0413 the_H3605 pit_H0953. 
+@25 They_H3588 have_H0776 made_H5414 Elam a_H3588 bed_H4904 among_H8432 the_H3605 slain_H2491 with_H0854 all_H3605 her_H3605 multitude_H1995. Her_H3605 graves_H6913 are_H0776 around_H5439 her_H3605, all_H3605 of_H0776 them_H5414 uncircumcised_H6189, slain_H2491 by_H3605 the_H3605 sword_H2719; for_H3588 their_H3605 terror_H2851 was_H0776 caused_H5414 in_H0776 the_H3605 land_H0776 of_H0776 the_H3605 living_H2416, and_H0776 they_H3588 have_H0776 borne_H5375 their_H3605 shame_H3639 with_H0854 those_H3605 who_H3605 go_H3381 down_H3381 to_H3381 the_H3605 pit_H0953. He_H3588 is_H0776 put_H5414 among_H8432 those_H3605 who_H3605 are_H0776 slain_H2491. 
 
-@26 “There is Meshech, Tubal, and all their multitude. Their graves are around them, all of them uncircumcised, slain by the sword; for they caused their terror in the land of the living. 
-@27 They will not lie with the mighty who are fallen of the uncircumcised, who have gone down to Sheol with their weapons of war and have laid their swords under their heads. Their iniquities are on their bones; for they were the terror of the mighty in the land of the living. 
+@26 “There_H8033 is_H0776 Meshech_H4902, Tubal_H8422, and_H0776 all_H3605 their_H3605 multitude_H1995. Their_H3605 graves_H6913 are_H0776 around_H5439 them_H5414, all_H3605 of_H0776 them_H5414 uncircumcised_H6189, slain by_H3605 the_H3605 sword_H2719; for_H3588 they_H3588 caused_H5414 their_H3605 terror_H2851 in_H0776 the_H3605 land_H0776 of_H0776 the_H3605 living_H2416. 
+@27 They_H0834 will_H1961 not_H3808 lie_H7901 with_H0854 the_H0853 mighty_H1368 who_H0834 are_H0834 fallen_H5307 of_H0776 the_H0853 uncircumcised_H6189, who_H0834 have_H1961 gone_H3381 down_H3381 to_H1961 Sheol_H7585 with_H0854 their_H5414 weapons_H3627 of_H0776 war_H4421 and_H0776 have_H1961 laid_H7901 their_H5414 swords_H2719 under_H8478 their_H5414 heads_H7218. Their_H5414 iniquities_H5771 are_H0834 on_H5921 their_H5414 bones_H6106; for_H3588 they_H0834 were_H0834 the_H0853 terror_H2851 of_H0776 the_H0853 mighty_H1368 in_H5921 the_H0853 land_H0776 of_H0776 the_H0853 living_H2416. 
 
-@28 “But you will be broken among the uncircumcised, and will lie with those who are slain by the sword. 
+@28 “But_H0859 you_H0859 will_H2719 be_H7665 broken_H7665 among_H8432 the_H8432 uncircumcised_H6189, and_H2719 will_H2719 lie_H7901 with_H0854 those who are_H0859 slain_H2491 by_H0854 the_H8432 sword_H2719. 
 
-@29 “There is Edom, her kings, and all her princes, who in their might are laid with those who are slain by the sword. They will lie with the uncircumcised, and with those who go down to the pit. 
+@29 “There_H8033 is_H0834 Edom_H0123, her_H3605 kings_H4428, and_H4428 all_H3605 her_H3605 princes_H5387, who_H0834 in_H4428 their_H3605 might_H1369 are_H0834 laid_H7901 with_H0854 those_H3605 who_H0834 are_H0834 slain_H2491 by_H3605 the_H3605 sword_H2719. They_H1992 will_H0834 lie_H7901 with_H0854 the_H3605 uncircumcised_H6189, and_H4428 with_H0854 those_H3605 who_H0834 go_H3381 down_H3381 to_H3381 the_H3605 pit_H0953. 
 
-@30 “There are the princes of the north, all of them, and all the Sidonians, who have gone down with the slain. They are put to shame in the terror which they caused by their might. They lie uncircumcised with those who are slain by the sword, and bear their shame with those who go down to the pit.
+@30 “There_H8033 are_H0834 the_H3605 princes of_H3605 the_H3605 north_H6828, all_H3605 of_H3605 them_H3381, and_H2719 all_H3605 the_H3605 Sidonians_H6722, who_H0834 have_H0834 gone_H3381 down_H3381 with_H0854 the_H3605 slain_H2491. They_H0834 are_H0834 put_H0954 to_H3381 shame_H0954 in_H6189 the_H3605 terror_H2851 which_H0834 they_H0834 caused_H0854 by_H3605 their_H3605 might_H1369. They_H0834 lie_H7901 uncircumcised_H6189 with_H0854 those_H3605 who_H0834 are_H0834 slain_H2491 by_H3605 the_H3605 sword_H2719, and_H2719 bear_H5375 their_H3605 shame_H0954 with_H0854 those_H3605 who_H0834 go_H3381 down_H3381 to_H3381 the_H3605 pit_H0953.
 
 ## The pharaoh expelled by God to the underworld
-@31 “Pharaoh will see them and will be comforted over all his multitude, even Pharaoh and all his army, slain by the sword,” says the Lord Yahweh. 
-@32 “For I have put his terror in the land of the living. He will be laid among the uncircumcised, with those who are slain by the sword, even Pharaoh and all his multitude,” says the Lord Yahweh. 
+@31 “Pharaoh_H6547 will_H2719 see_H7200 them_H0853 and_H2719 will_H2719 be_H0136 comforted_H5162 over_H5921 all_H3605 his_H3605 multitude_H1995, even_H0853 Pharaoh_H6547 and_H2719 all_H3605 his_H3605 army_H2428, slain_H2491 by_H5921 the_H3605 sword_H2719,” says_H5002 the_H3605 Lord_H0136 Yahweh. 
+@32 “For_H3588 I_H3588 have_H0776 put_H5414 his_H3605 terror_H2851 in_H0776 the_H3605 land_H0776 of_H0776 the_H3605 living_H2416. He_H3588 will_H0776 be_H0776 laid_H7901 among_H8432 the_H3605 uncircumcised_H6189, with_H0854 those_H3605 who_H3605 are_H0776 slain_H2491 by_H3605 the_H3605 sword_H2719, even_H3588 Pharaoh_H6547 and_H0776 all_H3605 his_H3605 multitude_H1995,” says_H5002 the_H3605 Lord_H0136 Yahweh. 
 
 # 33 
 ## The importance of the guard's commandment
-@1 Yahweh’s word came to me, saying, 
-@2 “Son of man, speak to the children of your people, and tell them, ‘When I bring the sword on a land, and the people of the land take a man from among them, and set him for their watchman, 
-@3 if, when he sees the sword come on the land, he blows the trumpet and warns the people, 
-@4 then whoever hears the sound of the trumpet and doesn’t heed the warning, if the sword comes and takes him away, his blood will be on his own head. 
-@5 He heard the sound of the trumpet and didn’t take warning. His blood will be on him; whereas if he had heeded the warning, he would have delivered his soul. 
-@6 But if the watchman sees the sword come and doesn’t blow the trumpet, and the people aren’t warned, and the sword comes and takes any person from among them, he is taken away in his iniquity, but his blood I will require at the watchman’s hand.’
+@1 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 “Son_H1121 of_H1121 man_H0376, speak_H1696 to_H0413 the_H0853 children_H1121 of_H1121 your_H5414 people_H5971, and_H1121 tell_H0559 them_H0413, ‘When_H3588 I_H3588 bring_H0935 the_H0853 sword_H2719 on_H5921 a_H3947 land_H0776, and_H1121 the_H0853 people_H5971 of_H1121 the_H0853 land_H0776 take_H3947 a_H3947 man_H0376 from_H0935 among_H5921 them_H0413, and_H1121 set_H5414 him_H0413 for_H3588 their_H5414 watchman_H6822, 
+@3 if_H7200, when_H7200 he_H0853 sees_H7200 the_H0853 sword_H2719 come_H0935 on_H5921 the_H0853 land_H0776, he_H0853 blows_H8628 the_H0853 trumpet_H7782 and_H0935 warns the_H0853 people_H5971, 
+@4 then_H1961 whoever hears_H8085 the_H0853 sound_H6963 of_H7218 the_H0853 trumpet_H7782 and_H0935 doesn’t_H3808 heed_H8085 the_H0853 warning, if_H1961 the_H0853 sword_H2719 comes_H0935 and_H0935 takes_H3947 him_H0853 away_H3947, his_H3947 blood_H1818 will_H1961 be_H1961 on_H0935 his_H3947 own_H1961 head_H7218. 
+@5 He_H1931 heard_H8085 the_H0853 sound_H6963 of_H6963 the_H0853 trumpet_H7782 and_H6963 didn’t_H3808 take_H1961 warning. His_H8085 blood_H1818 will_H1961 be_H1961 on_H1961 him_H0853; whereas if_H1961 he_H1931 had_H1961 heeded_H8085 the_H0853 warning, he_H1931 would_H5315 have_H1961 delivered_H4422 his_H8085 soul_H5315. 
+@6 But_H3588 if_H3588 the_H0853 watchman_H6822 sees_H7200 the_H0853 sword_H2719 come_H0935 and_H0935 doesn’t_H3808 blow_H8628 the_H0853 trumpet_H7782, and_H0935 the_H0853 people_H5971 aren’t warned_H2094, and_H0935 the_H0853 sword_H2719 comes_H0935 and_H0935 takes_H3947 any_H3588 person_H5315 from_H0935 among_H3808 them_H1992, he_H1931 is_H1931 taken_H3947 away_H3947 in_H0935 his_H3947 iniquity_H5771, but_H3588 his_H3947 blood_H1818 I_H3588 will_H2719 require_H1875 at_H7200 the_H0853 watchman’s_H6822 hand_H3027.’
 
 ## Ezekiel's call to the watchman; your responsibility
-@7 “So you, son of man, I have set you a watchman to the house of Israel. Therefore hear the word from my mouth, and give them warnings from me. 
-@8 When I tell the wicked, ‘O wicked man, you will surely die,’ and you don’t speak to warn the wicked from his way, that wicked man will die in his iniquity, but I will require his blood at your hand. 
-@9 Nevertheless, if you warn the wicked of his way to turn from it, and he doesn’t turn from his way; he will die in his iniquity, but you have delivered your soul.
+@7 “So_H4480 you_H0859, son_H1121 of_H1121 man_H0120, I_H5414 have_H1121 set_H5414 you_H0859 a_H5414 watchman_H6822 to_H3478 the_H0853 house_H1004 of_H1121 Israel_H3478. Therefore_H0859 hear_H8085 the_H0853 word_H1697 from_H4480 my_H5414 mouth_H6310, and_H1121 give_H5414 them_H5414 warnings from_H4480 me_H5414. 
+@8 When_H1696 I_H0559 tell_H0559 the_H0559 wicked_H7563, ‘O wicked_H7563 man_H7563, you_H3808 will_H7563 surely_H4191 die_H4191,’ and_H3027 you_H3808 don’t_H3808 speak_H1696 to_H0559 warn_H2094 the_H0559 wicked_H7563 from_H3027 his_H3027 way_H1870, that_H1931 wicked_H7563 man_H7563 will_H7563 die_H4191 in_H4191 his_H3027 iniquity_H5771, but_H3808 I_H0559 will_H7563 require_H1245 his_H3027 blood_H1818 at_H4191 your_H1245 hand_H3027. 
+@9 Nevertheless_H3588, if_H3588 you_H0859 warn_H2094 the_H3588 wicked_H7563 of_H4480 his_H7725 way_H1870 to_H4191 turn_H7725 from_H4480 it_H1931, and_H7725 he_H1931 doesn’t_H3808 turn_H7725 from_H4480 his_H7725 way_H1870; he_H1931 will_H7563 die_H4191 in_H4191 his_H7725 iniquity_H5771, but_H3588 you_H0859 have_H0859 delivered_H5337 your_H7725 soul_H5315.
 
 ## Ezekiel's penitential sermon on God's command and his proclamation of divine grace and justice for repentant sinners
-@10 “You, son of man, tell the house of Israel: ‘You say this, “Our transgressions and our sins are on us, and we pine away in them. How then can we live?”’ 
-@11 Tell them, ‘“As I live,” says the Lord Yahweh, “I have no pleasure in the death of the wicked, but that the wicked turn from his way and live. Turn, turn from your evil ways! For why will you die, house of Israel?”’ 
+@10 “You_H0859, son_H1121 of_H1121 man_H0120, tell_H0559 the_H0559 house_H1004 of_H1121 Israel_H3478: ‘You_H0859 say_H0559 this_H3651, “Our_H5921 transgressions_H6588 and_H1121 our_H5921 sins_H2403 are_H3478 on_H5921 us_H0413, and_H1121 we_H0587 pine away_H4743 in_H5921 them_H0413. How_H0349 then_H3651 can_H0349 we_H0587 live_H2421?”’ 
+@11 Tell_H0559 them_H0413, ‘“As_H3588 I_H0589 live_H2421,” says_H0559 the_H0559 Lord_H0136 Yahweh, “I_H0589 have_H0589 no_H0518 pleasure_H2654 in_H0413 the_H0559 death_H4191 of_H1004 the_H0559 wicked_H7563, but_H3588 that_H3588 the_H0559 wicked_H7563 turn_H7725 from_H7725 his_H7725 way_H1870 and_H3478 live_H2421. Turn_H7725, turn_H7725 from_H7725 your_H7725 evil_H7451 ways_H1870! For_H3588 why_H4100 will_H3478 you_H3588 die_H4191, house_H1004 of_H1004 Israel_H3478?”’ 
 
-@12 “You, son of man, tell the children of your people, ‘The righteousness of the righteous will not deliver him in the day of his disobedience. And as for the wickedness of the wicked, he will not fall by it in the day that he turns from his wickedness; neither will he who is righteous be able to live by it in the day that he sins. 
-@13 When I tell the righteous that he will surely live, if he trusts in his righteousness and commits iniquity, none of his righteous deeds will be remembered; but he will die in his iniquity that he has committed. 
-@14 Again, when I say to the wicked, “You will surely die,” if he turns from his sin and does that which is lawful and right, 
-@15 if the wicked restore the pledge, give again that which he had taken by robbery, walk in the statutes of life, committing no iniquity, he will surely live. He will not die. 
-@16 None of his sins that he has committed will be remembered against him. He has done that which is lawful and right. He will surely live. 
+@12 “You_H0859, son_H1121 of_H1121 man_H0120, tell_H0559 the_H0559 children_H1121 of_H1121 your_H7725 people_H5971, ‘The_H0559 righteousness_H6666 of_H1121 the_H0559 righteous_H6662 will_H6662 not_H3808 deliver_H5337 him_H0413 in_H0413 the_H0559 day_H3117 of_H1121 his_H7725 disobedience. And_H1121 as_H3117 for_H0413 the_H0559 wickedness_H7562 of_H1121 the_H0559 wicked_H7563, he_H3117 will_H6662 not_H3808 fall_H3782 by_H0413 it_H7725 in_H0413 the_H0559 day_H3117 that_H3117 he_H3117 turns_H7725 from_H7725 his_H7725 wickedness_H7562; neither_H3808 will_H6662 he_H3117 who_H1121 is_H3117 righteous_H6662 be_H3808 able_H3201 to_H0413 live_H2421 by_H0413 it_H7725 in_H0413 the_H0559 day_H3117 that_H3117 he_H3117 sins_H2398. 
+@13 When_H0834 I_H0834 tell_H0559 the_H3605 righteous_H6662 that_H0834 he_H0834 will_H0834 surely_H4191 live_H2421, if_H0834 he_H0834 trusts_H0982 in_H5921 his_H3605 righteousness_H6666 and_H4191 commits_H6213 iniquity_H5766, none_H3808 of_H5921 his_H3605 righteous_H6662 deeds_H6666 will_H0834 be_H4191 remembered_H2142; but_H3808 he_H0834 will_H0834 die_H4191 in_H5921 his_H3605 iniquity_H5766 that_H0834 he_H0834 has_H0834 committed_H6213. 
+@14 Again_H7725, when_H7725 I_H0559 say_H0559 to_H0559 the_H0559 wicked_H7563, “You_H7725 will_H7563 surely_H4191 die_H4191,” if he_H6213 turns_H7725 from_H7725 his_H7725 sin_H2403 and_H7725 does_H6213 that_H0559 which is_H7563 lawful and_H7725 right_H4941, 
+@15 if the_H7725 wicked_H7563 restore_H7725 the_H7725 pledge_H2258, give_H7725 again_H7725 that_H3808 which_H2708 he_H6213 had_H3808 taken_H1500 by_H1980 robbery_H1500, walk_H1980 in_H1980 the_H7725 statutes_H2708 of_H4191 life_H2416, committing_H6213 no_H3808 iniquity_H5766, he_H6213 will_H7563 surely_H4191 live_H2421. He_H6213 will_H7563 not_H3808 die_H4191. 
+@16 None_H3808 of_H3605 his_H3605 sins_H2398 that_H0834 he_H0834 has_H0834 committed_H2398 will_H0834 be_H3808 remembered_H2142 against_H2398 him_H3605. He_H0834 has_H0834 done_H6213 that_H0834 which_H0834 is_H0834 lawful and_H4941 right_H4941. He_H0834 will_H0834 surely_H0834 live_H2421. 
 
-@17 “‘Yet the children of your people say, “The way of the Lord is not fair;” but as for them, their way is not fair. 
-@18 When the righteous turns from his righteousness and commits iniquity, he will even die therein. 
-@19 When the wicked turns from his wickedness and does that which is lawful and right, he will live by it. 
-@20 Yet you say, “The way of the Lord is not fair.” House of Israel, I will judge every one of you after his ways.’”
+@17 “‘Yet_H8505 the_H0559 children_H1121 of_H1121 your_H3808 people_H5971 say_H0559, “The_H0559 way_H1870 of_H1121 the_H0559 Lord_H0136 is_H1870 not_H3808 fair;” but_H3808 as_H1121 for_H3808 them_H1992, their_H1992 way_H1870 is_H1870 not_H3808 fair. 
+@18 When_H7725 the_H7725 righteous_H6662 turns_H7725 from_H7725 his_H7725 righteousness_H6666 and_H7725 commits_H6213 iniquity_H5766, he_H6213 will_H6662 even_H6213 die_H4191 therein. 
+@19 When_H2421 the_H5921 wicked_H7563 turns_H7725 from_H7725 his_H5921 wickedness_H7564 and_H7725 does_H6213 that_H1931 which_H1931 is_H1931 lawful and_H7725 right_H4941, he_H1931 will_H7563 live_H2421 by_H5921 it_H1931. 
+@20 Yet_H8505 you_H3808 say_H0559, “The_H0853 way_H1870 of_H1004 the_H0853 Lord_H0136 is_H0376 not_H3808 fair.” House_H1004 of_H1004 Israel_H3478, I_H0559 will_H3478 judge_H8199 every_H0376 one_H0376 of_H1004 you_H3808 after his_H0376 ways_H1870.’”
 
 ## The turning point for Ezequiel occurs when his tongue loosens
-@21 In the twelfth year of our captivity, in the tenth month, in the fifth day of the month, one who had escaped out of Jerusalem came to me, saying, “The city has been defeated!” 
-@22 Now Yahweh’s hand had been on me in the evening, before he who had escaped came; and he had opened my mouth until he came to me in the morning; and my mouth was opened, and I was no longer mute.
+@21 In_H8141 the_H0559 twelfth year_H8141 of_H8141 our_H1961 captivity, in_H8141 the_H0559 tenth_H6224 month_H2320, in_H8141 the_H0559 fifth_H2568 day_H2320 of_H8141 the_H0559 month_H2320, one_H1961 who_H3389 had_H1961 escaped out_H0413 of_H8141 Jerusalem_H3389 came_H0935 to_H0413 me_H0413, saying_H0559, “The_H0559 city_H5892 has_H1961 been_H1961 defeated_H5221!” 
+@22 Now_H1961 Yahweh’s_H3068 hand_H3027 had_H3068 been_H1961 on_H0413 me_H0413 in_H0935 the_H0853 evening_H6153, before_H6440 he_H5704 who_H3068 had_H3068 escaped came_H0935; and_H0935 he_H5704 had_H3068 opened_H6605 my_H3068 mouth_H6310 until_H5704 he_H5704 came_H0935 to_H0413 me_H0413 in_H0935 the_H0853 morning_H1242; and_H0935 my_H3068 mouth_H6310 was_H1961 opened_H6605, and_H0935 I_H5704 was_H1961 no_H3808 longer_H5750 mute_H0481.
 
 ## Punishment speech on the demanding arrogance of the comrades who stayed in Palestine
-@23 Yahweh’s word came to me, saying, 
-@24 “Son of man, those who inhabit the waste places in the land of Israel speak, saying, ‘Abraham was one, and he inherited the land; but we are many. The land is given us for inheritance.’ 
-@25 Therefore tell them, ‘The Lord Yahweh says: “You eat with the blood, and lift up your eyes to your idols, and shed blood. So should you possess the land? 
-@26 You stand on your sword, you work abomination, and every one of you defiles his neighbor’s wife. So should you possess the land?”’
+@23 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@24 “Son_H1121 of_H1121 man_H0120, those_H0428 who_H1121 inhabit_H3427 the_H0853 waste_H2723 places_H2723 in_H3427 the_H0853 land_H0776 of_H1121 Israel_H3478 speak_H0559, saying_H0559, ‘Abraham_H0085 was_H1961 one_H0259, and_H1121 he_H5414 inherited the_H0853 land_H0776; but_H1961 we_H0587 are_H0428 many_H7227. The_H0853 land_H0776 is_H0776 given_H5414 us_H5414 for_H5921 inheritance_H3423.’ 
+@25 Therefore_H3651 tell_H0559 them_H0413, ‘The_H0559 Lord_H0136 Yahweh says_H0559: “You_H5921 eat_H0398 with_H0413 the_H0559 blood_H1818, and_H0776 lift_H5375 up_H5375 your_H5921 eyes_H5869 to_H0413 your_H5921 idols_H1544, and_H0776 shed_H8210 blood_H1818. So_H3651 should_H0559 you_H5921 possess_H3423 the_H0559 land_H0776? 
+@26 You_H5921 stand_H5975 on_H5921 your_H5921 sword_H2719, you_H5921 work abomination_H8441, and_H0776 every_H0376 one_H0376 of_H0776 you_H5921 defiles_H2930 his_H5921 neighbor’s_H7453 wife_H0802. So_H6213 should_H0376 you_H5921 possess_H3423 the_H0853 land_H0776?”’
 
 ## Criminal Court Threat
-@27 “You shall tell them, ‘The Lord Yahweh says: “As I live, surely those who are in the waste places will fall by the sword. I will give whoever is in the open field to the animals to be devoured, and those who are in the strongholds and in the caves will die of the pestilence. 
-@28 I will make the land a desolation and an astonishment. The pride of her power will cease. The mountains of Israel will be desolate, so that no one will pass through. 
-@29 Then they will know that I am Yahweh, when I have made the land a desolation and an astonishment because of all their abominations which they have committed.”’
+@27 “You_H0834 shall_H3808 tell_H0559 them_H0413, ‘The_H0559 Lord_H0136 Yahweh says_H0559: “As_H0834 I_H0589 live_H2416, surely_H4191 those_H0834 who_H0834 are_H0834 in_H5921 the_H0559 waste_H2723 places_H2723 will_H0834 fall_H5307 by_H5921 the_H0559 sword_H2719. I_H0589 will_H0834 give_H5414 whoever_H0834 is_H0834 in_H5921 the_H0559 open_H6440 field_H7704 to_H0413 the_H0559 animals_H2416 to_H0413 be_H4191 devoured_H0398, and_H0398 those_H0834 who_H0834 are_H0834 in_H5921 the_H0559 strongholds and_H0398 in_H5921 the_H0559 caves_H4631 will_H0834 die_H4191 of_H6440 the_H0559 pestilence_H1698. 
+@28 I_H5414 will_H0776 make_H5414 the_H0853 land_H0776 a_H5414 desolation_H8077 and_H3478 an_H5414 astonishment. The_H0853 pride_H1347 of_H0776 her_H5414 power_H5797 will_H0776 cease_H0369. The_H0853 mountains_H2022 of_H0776 Israel_H3478 will_H0776 be_H3478 desolate_H8074, so_H5414 that_H3478 no_H0369 one_H0369 will_H0776 pass_H5674 through_H5674. 
+@29 Then_H0853 they_H0834 will_H3068 know_H3045 that_H0834 I_H0589 am_H0589 Yahweh_H3068, when_H3588 I_H0589 have_H0834 made_H6213 the_H3605 land_H0776 a_H3588 desolation_H8077 and_H3068 an_H5414 astonishment because_H3588 of_H0776 all_H3605 their_H3605 abominations_H8441 which_H0834 they_H0834 have_H0834 committed_H6213.”’
 
 ## Punitive speech on the impenetrability of the prophet's hearing
-@30 “As for you, son of man, the children of your people talk about you by the walls and in the doors of the houses, and speak to one another, everyone to his brother, saying, ‘Please come and hear what the word is that comes out from Yahweh.’ 
-@31 They come to you as the people come, and they sit before you as my people, and they hear your words, but don’t do them; for with their mouth they show much love, but their heart goes after their gain. 
-@32 Behold, you are to them as a very lovely song of one who has a pleasant voice, and can play well on an instrument; for they hear your words, but they don’t do them. 
+@30 “As_H1697 for_H1004 you_H0859, son_H1121 of_H1121 man_H0376, the_H0853 children_H1121 of_H1121 your_H3068 people_H5971 talk_H1696 about_H1697 you_H0859 by_H3068 the_H0853 walls_H7023 and_H1121 in_H0935 the_H0853 doors_H6607 of_H1121 the_H0853 houses_H1004, and_H1121 speak_H1696 to_H0559 one_H0259 another_H0259, everyone_H0376 to_H0559 his_H3068 brother_H0251, saying_H0559, ‘Please_H4994 come_H0935 and_H1121 hear_H8085 what_H4100 the_H0853 word_H1697 is_H3068 that_H8085 comes_H0935 out_H3318 from_H0935 Yahweh_H3068.’ 
+@31 They_H1992 come_H0935 to_H0413 you_H3588 as_H1697 the_H0853 people_H5971 come_H0935, and_H1980 they_H1992 sit_H3427 before_H6440 you_H3588 as_H1697 my_H8085 people_H5971, and_H1980 they_H1992 hear_H8085 your_H8085 words_H1697, but_H3588 don’t_H3808 do_H6213 them_H0413; for_H3588 with_H1980 their_H1992 mouth_H6310 they_H1992 show_H6213 much_H6310 love, but_H3588 their_H1992 heart_H3820 goes_H1980 after_H0310 their_H1992 gain_H1215. 
+@32 Behold_H2005, you_H6213 are_H1697 to_H0369 them_H0853 as_H1697 a_H8085 very lovely song_H7892 of_H1697 one_H0369 who_H0369 has_H0369 a_H8085 pleasant voice_H6963, and_H6963 can_H0369 play_H5059 well_H2895 on_H1697 an_H8085 instrument; for_H1697 they_H0369 hear_H8085 your_H8085 words_H1697, but_H0369 they_H0369 don’t_H0369 do_H6213 them_H0853. 
 
-@33 “When this comes to pass—behold, it comes—then they will know that a prophet has been among them.” 
+@33 “When_H3588 this_H3588 comes_H0935 to_H0935 pass_H0935—behold_H2009, it_H3588 comes_H0935—then_H1961 they_H3588 will_H1961 know_H3045 that_H3588 a_H1961 prophet_H5030 has_H1961 been_H1961 among_H8432 them_H0935.” 
 
 # 34 
 ## Pastors past, abandoned and perishable
-@1 Yahweh’s word came to me, saying, 
-@2 “Son of man, prophesy against the shepherds of Israel. Prophesy, and tell them, even the shepherds, ‘The Lord Yahweh says: “Woe to the shepherds of Israel who feed themselves! Shouldn’t the shepherds feed the sheep? 
-@3 You eat the fat. You clothe yourself with the wool. You kill the fatlings, but you don’t feed the sheep. 
-@4 You haven’t strengthened the diseased. You haven’t healed that which was sick. You haven’t bound up that which was broken. You haven’t brought back that which was driven away. You haven’t sought that which was lost, but you have ruled over them with force and with rigor. 
-@5 They were scattered, because there was no shepherd. They became food to all the animals of the field, and were scattered. 
-@6 My sheep wandered through all the mountains and on every high hill. Yes, my sheep were scattered on all the surface of the earth. There was no one who searched or sought.” 
+@1 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 “Son_H1121 of_H1121 man_H0120, prophesy_H5012 against_H5921 the_H0853 shepherds_H7462 of_H1121 Israel_H3478. Prophesy_H5012, and_H1121 tell_H0559 them_H0413, even_H3808 the_H0853 shepherds_H7462, ‘The_H0853 Lord_H0136 Yahweh says_H0559: “Woe_H1945 to_H0413 the_H0853 shepherds_H7462 of_H1121 Israel_H3478 who_H0834 feed_H7462 themselves_H5921! Shouldn’t the_H0853 shepherds_H7462 feed_H7462 the_H0853 sheep_H6629? 
+@3 You_H0853 eat_H0398 the_H0853 fat_H2459. You_H0853 clothe_H3847 yourself_H3847 with_H3847 the_H0853 wool_H6785. You_H0853 kill the_H0853 fatlings, but_H3808 you_H0853 don’t_H3808 feed_H0398 the_H0853 sheep_H6629. 
+@4 You_H7725 haven’t_H3808 strengthened_H2388 the_H0853 diseased. You_H7725 haven’t_H3808 healed_H7495 that_H3808 which was_H3808 sick_H2470. You_H7725 haven’t_H3808 bound_H2280 up_H0853 that_H3808 which was_H3808 broken_H7665. You_H7725 haven’t_H3808 brought_H7725 back_H7725 that_H3808 which was_H3808 driven_H5080 away_H7725. You_H7725 haven’t_H3808 sought_H1245 that_H3808 which was_H3808 lost_H0006, but_H3808 you_H7725 have_H3808 ruled over_H2388 them_H0853 with_H7725 force_H2394 and_H7725 with_H7725 rigor. 
+@5 They_H3605 were_H1961 scattered_H6327, because_H1097 there_H1961 was_H1961 no_H1097 shepherd_H7462. They_H3605 became_H1961 food_H0402 to_H1961 all_H3605 the_H3605 animals_H2416 of_H7704 the_H3605 field_H7704, and_H7704 were_H1961 scattered_H6327. 
+@6 My_H3605 sheep_H6629 wandered_H7686 through_H5921 all_H3605 the_H3605 mountains_H2022 and_H0776 on_H5921 every_H3605 high_H7311 hill_H2022. Yes, my_H3605 sheep_H6629 were_H2022 scattered_H6327 on_H5921 all_H3605 the_H3605 surface_H6440 of_H0776 the_H3605 earth_H0776. There_H0369 was_H0369 no_H0369 one_H0369 who_H3605 searched_H1245 or_H0369 sought_H1245.” 
 
-@7 “‘Therefore, you shepherds, hear Yahweh’s word: 
-@8 “As I live,” says the Lord Yahweh, “surely because my sheep became a prey, and my sheep became food to all the animals of the field, because there was no shepherd, and my shepherds didn’t search for my sheep, but the shepherds fed themselves, and didn’t feed my sheep, 
-@9 therefore, you shepherds, hear Yahweh’s word!” 
-@10 The Lord Yahweh says: “Behold, I am against the shepherds. I will require my sheep at their hand, and cause them to cease from feeding the sheep. The shepherds won’t feed themselves any more. I will deliver my sheep from their mouth, that they may not be food for them.”
+@7 “‘Therefore_H3651, you_H0853 shepherds_H7462, hear_H8085 Yahweh’s_H3068 word_H1697: 
+@8 “As_H1961 I_H0589 live_H2416,” says_H5002 the_H3605 Lord_H0136 Yahweh, “surely_H0518 because_H3282 my_H3605 sheep_H6629 became_H1961 a_H1961 prey_H0957, and_H6629 my_H3605 sheep_H6629 became_H1961 food_H0402 to_H1961 all_H3605 the_H3605 animals_H2416 of_H7704 the_H3605 field_H7704, because_H3282 there_H0369 was_H0369 no_H3808 shepherd_H7462, and_H6629 my_H3605 shepherds_H7462 didn’t_H3808 search_H1875 for_H3605 my_H3605 sheep_H6629, but_H0518 the_H3605 shepherds_H7462 fed themselves, and_H6629 didn’t_H3808 feed_H7462 my_H3605 sheep_H6629, 
+@9 therefore_H3651, you_H3651 shepherds_H7462, hear_H8085 Yahweh’s_H3068 word_H1697!” 
+@10 The_H0853 Lord_H0136 Yahweh says_H0559: “Behold_H2005, I_H2005 am_H1961 against_H0413 the_H0853 shepherds_H7462. I_H2005 will_H1961 require_H1875 my_H1961 sheep_H6629 at_H0413 their_H1961 hand_H3027, and_H3027 cause_H6310 them_H0413 to_H0413 cease_H7673 from_H3027 feeding the_H0853 sheep_H6629. The_H0853 shepherds_H7462 won’t_H3808 feed_H7462 themselves any_H5750 more_H5750. I_H2005 will_H1961 deliver_H5337 my_H1961 sheep_H6629 from_H3027 their_H1961 mouth_H6310, that_H0559 they_H3808 may_H1961 not_H3808 be_H1961 food_H0402 for_H0413 them_H0413.”
 
 ## He gathers his sheep and cares for them with love
-@11 “‘For the Lord Yahweh says: “Behold, I myself, even I, will search for my sheep, and will seek them out. 
-@12 As a shepherd seeks out his flock in the day that he is among his sheep that are scattered abroad, so I will seek out my sheep. I will deliver them out of all places where they have been scattered in the cloudy and dark day. 
-@13 I will bring them out from the peoples, and gather them from the countries, and will bring them into their own land. I will feed them on the mountains of Israel, by the watercourses, and in all the inhabited places of the country. 
-@14 I will feed them with good pasture, and their fold will be on the mountains of the height of Israel. There they will lie down in a good fold. They will feed on rich pasture on the mountains of Israel. 
-@15 I myself will be the shepherd of my sheep, and I will cause them to lie down,” says the Lord Yahweh. 
-@16 “I will seek that which was lost, and will bring back that which was driven away, and will bind up that which was broken, and will strengthen that which was sick; but I will destroy the fat and the strong. I will feed them in justice.”’
+@11 “‘For_H3588 the_H0853 Lord_H0136 Yahweh says_H0559: “Behold_H2005, I_H0589 myself_H0589, even_H3588 I_H0589, will_H0136 search_H1875 for_H3588 my_H3588 sheep_H6629, and_H6629 will_H0136 seek_H1875 them_H0853 out_H0853. 
+@12 As_H0834 a_H1961 shepherd_H7462 seeks_H1243 out_H3605 his_H3605 flock_H6629 in_H3117 the_H3605 day_H3117 that_H0834 he_H0834 is_H0834 among_H8432 his_H3605 sheep_H6629 that_H0834 are_H0834 scattered_H6327 abroad, so_H3651 I_H0834 will_H1961 seek_H1239 out_H3605 my_H3605 sheep_H6629. I_H0834 will_H1961 deliver_H5337 them_H0853 out_H3605 of_H3117 all_H3605 places_H4725 where_H0834 they_H0834 have_H1961 been_H1961 scattered_H6327 in_H3117 the_H3605 cloudy_H6051 and_H3117 dark_H6205 day_H3117. 
+@13 I_H0776 will_H0776 bring_H0935 them_H0413 out_H3318 from_H4480 the_H3605 peoples_H5971, and_H0935 gather_H6908 them_H0413 from_H4480 the_H3605 countries_H0776, and_H0935 will_H0776 bring_H0935 them_H0413 into_H0413 their_H3605 own land_H0776. I_H0776 will_H0776 feed_H7462 them_H0413 on_H0413 the_H3605 mountains_H2022 of_H0776 Israel_H3478, by_H0413 the_H3605 watercourses, and_H0935 in_H0935 all_H3605 the_H3605 inhabited_H4186 places_H4186 of_H0776 the_H3605 country_H2022. 
+@14 I_H3478 will_H1961 feed_H7462 them_H0413 with_H0413 good_H2896 pasture_H4829, and_H3478 their_H1961 fold will_H1961 be_H1961 on_H0413 the_H0853 mountains_H2022 of_H2022 the_H0853 height_H4791 of_H2022 Israel_H3478. There_H8033 they_H8033 will_H1961 lie_H7257 down_H7257 in_H0413 a_H1961 good_H2896 fold. They_H8033 will_H1961 feed_H7462 on_H0413 rich pasture_H4829 on_H0413 the_H0853 mountains_H2022 of_H2022 Israel_H3478. 
+@15 I_H0589 myself_H0589 will_H0136 be_H0136 the_H5002 shepherd_H7462 of_H6629 my_H0136 sheep_H6629, and_H6629 I_H0589 will_H0136 cause them_H7462 to_H0136 lie_H7257 down_H7257,” says_H5002 the_H5002 Lord_H0136 Yahweh. 
+@16 “I_H7665 will_H7725 seek_H1245 that_H7725 which was_H2389 lost_H0006, and_H7725 will_H7725 bring_H7725 back_H7725 that_H7725 which was_H2389 driven_H5080 away_H7725, and_H7725 will_H7725 bind_H2280 up_H0853 that_H7725 which was_H2389 broken_H7665, and_H7725 will_H7725 strengthen_H2388 that_H7725 which was_H2389 sick_H2470; but_H2388 I_H7665 will_H7725 destroy_H8045 the_H0853 fat and_H7725 the_H0853 strong_H2388. I_H7665 will_H7725 feed_H7462 them_H0853 in_H7665 justice_H4941.”’
 
 ## He divorces the herd and protects weak animals from violent ones
-@17 “As for you, O my flock, the Lord Yahweh says: ‘Behold, I judge between sheep and sheep, the rams and the male goats. 
-@18 Does it seem a small thing to you to have fed on the good pasture, but you must tread down with your feet the residue of your pasture? And to have drunk of the clear waters, but must you foul the residue with your feet? 
-@19 As for my sheep, they eat that which you have trodden with your feet, and they drink that which you have fouled with your feet.’ 
+@17 “As_H0859 for_H3541 you_H0859, O_H3069 my_H0996 flock_H6629, the_H0559 Lord_H0136 Yahweh says_H0559: ‘Behold_H2005, I_H2005 judge_H8199 between_H0996 sheep_H6629 and_H6629 sheep_H6629, the_H0559 rams_H0352 and_H6629 the_H0559 male_H6260 goats_H6260. 
+@18 Does it_H8354 seem a_H4480 small_H4592 thing_H4592 to_H4325 you_H0853 to_H4325 have_H4592 fed on_H4480 the_H0853 good_H2896 pasture_H4829, but_H3498 you_H0853 must_H0853 tread_H7429 down_H7429 with_H4325 your_H4480 feet_H7272 the_H0853 residue of_H4480 your_H4480 pasture_H4829? And_H8354 to_H4325 have_H4592 drunk_H8354 of_H4480 the_H0853 clear_H4950 waters_H4325, but_H3498 must_H0853 you_H0853 foul the_H0853 residue with_H4325 your_H4480 feet_H7272? 
+@19 As for_H7272 my_H7272 sheep_H6629, they_H7272 eat that_H7272 which you_H4823 have_H6629 trodden with_H6629 your_H8354 feet_H7272, and_H6629 they_H7272 drink_H8354 that_H7272 which you_H4823 have_H6629 fouled with_H6629 your_H8354 feet_H7272.’ 
 
-@20 “Therefore the Lord Yahweh says to them: ‘Behold, I, even I, will judge between the fat sheep and the lean sheep. 
-@21 Because you thrust with side and with shoulder, and push all the diseased with your horns, until you have scattered them abroad, 
-@22 therefore I will save my flock, and they will no more be a prey. I will judge between sheep and sheep.
+@20 “Therefore_H3651 the_H0559 Lord_H0136 Yahweh says_H0559 to_H0413 them_H0413: ‘Behold_H2005, I_H0589, even_H3651 I_H0589, will_H0136 judge_H8199 between_H0996 the_H0559 fat sheep_H7716 and_H7716 the_H0559 lean_H7330 sheep_H7716. 
+@21 Because_H3282 you_H0834 thrust_H1920 with_H0413 side_H3802 and_H0853 with_H0413 shoulder_H3802, and_H0853 push_H5055 all_H3605 the_H3605 diseased with_H0413 your_H3605 horns_H7161, until_H5704 you_H0834 have_H0834 scattered_H6327 them_H0413 abroad_H2351, 
+@22 therefore_H1961 I_H3808 will_H1961 save_H3467 my_H1961 flock_H6629, and_H6629 they_H3808 will_H1961 no_H3808 more_H5750 be_H1961 a_H1961 prey_H0957. I_H3808 will_H1961 judge_H8199 between_H0996 sheep_H6629 and_H6629 sheep_H6629.
 
 ## He gives them his servant David as his deputy and makes a peace pact with them
-@23 I will set up one shepherd over them, and he will feed them, even my servant David. He will feed them, and he will be their shepherd. 
-@24 I, Yahweh, will be their God, and my servant David prince among them. I, Yahweh, have spoken it. 
+@23 I_H5650 will_H1961 set_H6965 up_H6965 one_H0259 shepherd_H7462 over_H5921 them_H0853, and_H6965 he_H1931 will_H1961 feed_H7462 them_H0853, even_H0853 my_H5921 servant_H5650 David_H1732. He_H1931 will_H1961 feed_H7462 them_H0853, and_H6965 he_H1931 will_H1961 be_H1961 their_H5921 shepherd_H7462. 
+@24 I_H0589, Yahweh_H3068, will_H3068 be_H1961 their_H3068 God_H0430, and_H3068 my_H3068 servant_H5650 David_H1732 prince_H5387 among_H8432 them_H1961. I_H0589, Yahweh_H3068, have_H1961 spoken_H1696 it_H1961. 
 
-@25 “‘I will make with them a covenant of peace, and will cause evil animals to cease out of the land. They will dwell securely in the wilderness and sleep in the woods. 
-@26 I will make them and the places around my hill a blessing. I will cause the shower to come down in its season. There will be showers of blessing. 
-@27 The tree of the field will yield its fruit, and the earth will yield its increase, and they will be secure in their land. Then they will know that I am Yahweh, when I have broken the bars of their yoke, and have delivered them out of the hand of those who made slaves of them. 
-@28 They will no more be a prey to the nations, neither will the animals of the earth devour them; but they will dwell securely, and no one will make them afraid. 
-@29 I will raise up to them a plantation for renown, and they will no more be consumed with famine in the land, and not bear the shame of the nations any more. 
-@30 They will know that I, Yahweh, their God am with them, and that they, the house of Israel, are my people, says the Lord Yahweh. 
-@31 You my sheep, the sheep of my pasture, are men, and I am your God,’ says the Lord Yahweh.” 
+@25 “‘I_H0776 will_H0776 make_H3772 with_H1285 them_H3427 a_H3772 covenant_H1285 of_H0776 peace_H7965, and_H0776 will_H0776 cause evil_H7451 animals_H2416 to_H0776 cease_H7673 out_H4480 of_H0776 the_H4480 land_H0776. They_H0776 will_H0776 dwell_H3427 securely_H0983 in_H3427 the_H4480 wilderness_H4057 and_H0776 sleep_H3462 in_H3427 the_H4480 woods_H3293. 
+@26 I_H5414 will_H1961 make_H5414 them_H5414 and_H3381 the_H0853 places_H5439 around_H5439 my_H5414 hill_H1389 a_H1961 blessing_H1293. I_H5414 will_H1961 cause_H5414 the_H0853 shower_H1653 to_H1961 come_H1961 down_H3381 in_H5414 its_H5414 season_H6256. There_H1961 will_H1961 be_H1961 showers_H1653 of_H6256 blessing_H1293. 
+@27 The_H0853 tree_H6086 of_H0776 the_H0853 field_H7704 will_H3068 yield_H5414 its_H5414 fruit_H6529, and_H3068 the_H0853 earth_H0776 will_H3068 yield_H5414 its_H5414 increase_H2981, and_H3068 they_H3588 will_H3068 be_H1961 secure_H0983 in_H5921 their_H3068 land_H0776. Then_H1961 they_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068, when_H3588 I_H0589 have_H1961 broken_H7665 the_H0853 bars_H4133 of_H0776 their_H3068 yoke_H5923, and_H3068 have_H1961 delivered_H5337 them_H5414 out_H3045 of_H0776 the_H0853 hand_H3027 of_H0776 those_H5921 who_H3068 made_H5414 slaves_H5647 of_H0776 them_H5414. 
+@28 They_H3808 will_H1961 no_H3808 more_H5750 be_H1961 a_H1961 prey_H0957 to_H1961 the_H0398 nations_H1471, neither_H3808 will_H1961 the_H0398 animals_H2416 of_H0776 the_H0398 earth_H0776 devour_H0398 them_H0398; but_H3808 they_H3808 will_H1961 dwell_H3427 securely_H0983, and_H0776 no_H3808 one_H0369 will_H1961 make_H2729 them_H0398 afraid_H2729. 
+@29 I_H0776 will_H1961 raise_H6965 up_H6965 to_H1961 them_H5375 a_H1961 plantation for_H0776 renown_H8034, and_H6965 they_H3808 will_H1961 no_H3808 more_H5750 be_H1961 consumed with_H0776 famine_H7458 in_H0776 the_H5375 land_H0776, and_H6965 not_H3808 bear_H5375 the_H5375 shame_H3639 of_H0776 the_H5375 nations_H1471 any_H5750 more_H5750. 
+@30 They_H1992 will_H3068 know_H3045 that_H3588 I_H0589, Yahweh_H3068, their_H3068 God_H0430 am_H0589 with_H0854 them_H1992, and_H3068 that_H3588 they_H1992, the_H5002 house_H1004 of_H1004 Israel_H3478, are_H1992 my_H3068 people_H5971, says_H5002 the_H5002 Lord_H3068 Yahweh_H3068. 
+@31 You_H0859 my_H0136 sheep_H6629, the_H5002 sheep_H6629 of_H0430 my_H0136 pasture_H4830, are_H0430 men_H0120, and_H0430 I_H0589 am_H0589 your_H0859 God_H0430,’ says_H5002 the_H5002 Lord_H0136 Yahweh.” 
 
 # 35 
 ## Destruction of the malicious and predatory hereditary enemy Edom
-@1 Moreover Yahweh’s word came to me, saying, 
-@2 “Son of man, set your face against Mount Seir, and prophesy against it, 
-@3 and tell it, ‘The Lord Yahweh says: “Behold, I am against you, Mount Seir, and I will stretch out my hand against you. I will make you a desolation and an astonishment. 
-@4 I will lay your cities waste, and you will be desolate. Then you will know that I am Yahweh. 
+@1 Moreover_H1961 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 “Son_H1121 of_H1121 man_H0120, set_H7760 your_H5921 face_H6440 against_H5921 Mount_H2022 Seir_H8165, and_H1121 prophesy_H5012 against_H5921 it_H7760, 
+@3 and_H3027 tell_H0559 it_H5414, ‘The_H0559 Lord_H0136 Yahweh says_H0559: “Behold_H2005, I_H2005 am_H2005 against_H5921 you_H5414, Mount_H2022 Seir_H8165, and_H3027 I_H2005 will_H3027 stretch_H5186 out_H5186 my_H5414 hand_H3027 against_H5921 you_H5414. I_H2005 will_H3027 make_H5414 you_H5414 a_H5414 desolation_H8077 and_H3027 an_H5414 astonishment. 
+@4 I_H0589 will_H3068 lay_H7760 your_H3068 cities_H5892 waste_H2723, and_H3068 you_H0859 will_H3068 be_H1961 desolate_H8077. Then_H1961 you_H0859 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068. 
 
-@5 “‘“Because you have had a perpetual hostility, and have given over the children of Israel to the power of the sword in the time of their calamity, in the time of the iniquity of the end, 
-@6 therefore, as I live,” says the Lord Yahweh, “I will prepare you for blood, and blood will pursue you. Since you have not hated blood, therefore blood will pursue you. 
-@7 Thus I will make Mount Seir an astonishment and a desolation. I will cut off from it him who passes through and him who returns. 
-@8 I will fill its mountains with its slain. The slain with the sword will fall in your hills and in your valleys and in all your watercourses. 
-@9 I will make you a perpetual desolation, and your cities will not be inhabited. Then you will know that I am Yahweh. 
+@5 “‘“Because_H5921 you_H5921 have_H1961 had_H1961 a_H1961 perpetual_H5769 hostility_H0342, and_H1121 have_H1961 given_H3027 over_H5921 the_H0853 children_H1121 of_H1121 Israel_H3478 to_H1961 the_H0853 power_H3027 of_H1121 the_H0853 sword_H2719 in_H5921 the_H0853 time_H6256 of_H1121 their_H5921 calamity_H0343, in_H5921 the_H0853 time_H6256 of_H1121 the_H0853 iniquity_H5771 of_H1121 the_H0853 end_H7093, 
+@6 therefore_H3651, as_H3651 I_H0589 live_H2416,” says_H5002 the_H5002 Lord_H0136 Yahweh, “I_H0589 will_H3808 prepare_H6213 you_H3588 for_H3588 blood_H1818, and_H1818 blood_H1818 will_H3808 pursue_H7291 you_H3588. Since_H3588 you_H3588 have_H0589 not_H3808 hated_H8130 blood_H1818, therefore_H3651 blood_H1818 will_H3808 pursue_H7291 you_H3588. 
+@7 Thus I_H5414 will_H5414 make_H5414 Mount_H2022 Seir_H8165 an_H5414 astonishment and_H7725 a_H3772 desolation_H8077. I_H5414 will_H5414 cut_H3772 off_H3772 from_H4480 it_H5414 him_H5414 who passes_H5674 through_H4480 and_H7725 him_H5414 who returns_H7725. 
+@8 I will_H2719 fill_H4390 its_H3605 mountains_H2022 with_H4390 its_H3605 slain_H2491. The_H3605 slain_H2491 with_H4390 the_H3605 sword_H2719 will_H2719 fall_H5307 in_H5307 your_H3605 hills_H1389 and_H2719 in_H5307 your_H3605 valleys_H1516 and_H2719 in_H5307 all_H3605 your_H3605 watercourses. 
+@9 I_H0589 will_H3068 make_H5414 you_H3588 a_H3588 perpetual_H5769 desolation_H8077, and_H3068 your_H3068 cities_H5892 will_H3068 not_H3808 be_H3808 inhabited_H3427. Then_H5414 you_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068. 
 
-@10 “‘“Because you have said, ‘These two nations and these two countries will be mine, and we will possess it,’ although Yahweh was there, 
-@11 therefore, as I live,” says the Lord Yahweh, “I will do according to your anger, and according to your envy which you have shown out of your hatred against them; and I will make myself known among them when I judge you. 
-@12 You will know that I, Yahweh, have heard all your insults which you have spoken against the mountains of Israel, saying, ‘They have been laid desolate. They have been given to us to devour.’ 
-@13 You have magnified yourselves against me with your mouth, and have multiplied your words against me. I have heard it.” 
-@14 The Lord Yahweh says: “When the whole earth rejoices, I will make you desolate. 
-@15 As you rejoiced over the inheritance of the house of Israel because it was desolate, so I will do to you. You will be desolate, Mount Seir, and all Edom, even all of it. Then they will know that I am Yahweh.’” 
+@10 “‘“Because_H3282 you_H0853 have_H1961 said_H0559, ‘These two_H8147 nations_H1471 and_H3068 these two_H8147 countries_H0776 will_H3068 be_H1961 mine, and_H3068 we_H8033 will_H3068 possess_H3423 it_H8033,’ although_H0559 Yahweh_H3068 was_H1961 there_H8033, 
+@11 therefore_H3651, as_H0834 I_H0589 live_H2416,” says_H5002 the_H0834 Lord_H0136 Yahweh, “I_H0589 will_H0834 do_H6213 according to_H3045 your_H0834 anger_H0639, and_H0639 according to_H3045 your_H0834 envy_H7068 which_H0834 you_H0834 have_H0834 shown_H3045 out_H3045 of_H8199 your_H0834 hatred_H8135 against them_H6213; and_H0639 I_H0589 will_H0834 make_H6213 myself_H0589 known_H3045 among them_H6213 when_H0834 I_H0589 judge_H8199 you_H0834. 
+@12 You_H0834 will_H3068 know_H3045 that_H0834 I_H0589, Yahweh_H3068, have_H0834 heard_H8085 all_H3605 your_H3068 insults which_H0834 you_H0834 have_H0834 spoken_H0559 against_H5921 the_H3605 mountains_H2022 of_H3068 Israel_H3478, saying_H0559, ‘They_H0834 have_H0834 been_H0834 laid_H5414 desolate_H8074. They_H0834 have_H0834 been_H0834 given_H5414 to_H0559 us_H5414 to_H0559 devour.’ 
+@13 You_H5921 have_H1697 magnified_H1431 yourselves_H5921 against_H5921 me_H5921 with_H5921 your_H5921 mouth_H6310, and_H8085 have_H1697 multiplied_H6280 your_H5921 words_H1697 against_H5921 me_H5921. I_H0589 have_H1697 heard_H8085 it_H5921.” 
+@14 The_H3605 Lord_H0136 Yahweh says_H0559: “When_H6213 the_H3605 whole_H3605 earth_H0776 rejoices_H8055, I_H3541 will_H0776 make_H6213 you_H3605 desolate_H8077. 
+@15 As_H0834 you_H0834 rejoiced_H8057 over_H5921 the_H3605 inheritance_H5159 of_H1004 the_H3605 house_H1004 of_H1004 Israel_H3478 because_H3588 it_H5921 was_H1961 desolate_H8074, so_H3651 I_H0589 will_H3068 do_H6213 to_H1961 you_H0834. You_H0834 will_H3068 be_H1961 desolate_H8074, Mount_H2022 Seir_H8165, and_H3068 all_H3605 Edom_H0123, even_H3588 all_H3605 of_H1004 it_H5921. Then_H1961 they_H0834 will_H3068 know_H3045 that_H0834 I_H0589 am_H0589 Yahweh_H3068.’” 
 
 # 36 
 ## The mountainous country of Israel, mocked by the enemy, is promised the removal of its illegitimate owners
-@1 You, son of man, prophesy to the mountains of Israel, and say, “You mountains of Israel, hear Yahweh’s word. 
-@2 The Lord Yahweh says: ‘Because the enemy has said against you, “Aha!” and, “The ancient high places are ours in possession!”’ 
-@3 therefore prophesy, and say, ‘The Lord Yahweh says: “Because, even because they have made you desolate, and swallowed you up on every side, that you might be a possession to the residue of the nations, and you are taken up in the lips of talkers, and the evil report of the people;” 
-@4 therefore, you mountains of Israel, hear the word of the Lord Yahweh: The Lord Yahweh says to the mountains and to the hills, to the watercourses and to the valleys, to the desolate wastes and to the cities that are forsaken, which have become a prey and derision to the residue of the nations that are all around; 
-@5 therefore the Lord Yahweh says: “Surely in the fire of my jealousy I have spoken against the residue of the nations, and against all Edom, that have appointed my land to themselves for a possession with the joy of all their heart, with despite of soul, to cast it out for a prey.”’ 
-@6 Therefore prophesy concerning the land of Israel, and tell the mountains, the hills, the watercourses and the valleys, ‘The Lord Yahweh says: “Behold, I have spoken in my jealousy and in my wrath, because you have borne the shame of the nations.” 
-@7 Therefore the Lord Yahweh says: “I have sworn, ‘Surely the nations that are around you will bear their shame.’
+@1 You_H0859, son_H1121 of_H1121 man_H0120, prophesy_H5012 to_H0413 the_H0559 mountains_H2022 of_H1121 Israel_H3478, and_H1121 say_H0559, “You_H0859 mountains_H2022 of_H1121 Israel_H3478, hear_H8085 Yahweh’s_H3068 word_H1697. 
+@2 The_H0559 Lord_H0136 Yahweh says_H0559: ‘Because_H5921 the_H0559 enemy_H0341 has_H1961 said_H0559 against_H5921 you_H5921, “Aha_H1889!” and_H5769, “The_H0559 ancient_H5769 high_H1116 places_H1116 are_H1961 ours in_H5921 possession_H4181!”’ 
+@3 therefore_H3651 prophesy_H5012, and_H1471 say_H0559, ‘The_H0853 Lord_H0136 Yahweh says_H0559: “Because_H5921, even_H3651 because_H5921 they_H3651 have_H1961 made_H8074 you_H5921 desolate_H8074, and_H1471 swallowed you_H5921 up_H5927 on_H5921 every_H5439 side_H5439, that_H3651 you_H5921 might be_H1961 a_H1961 possession_H4181 to_H0559 the_H0853 residue of_H5921 the_H0853 nations_H1471, and_H1471 you_H5921 are_H1471 taken_H5927 up_H5927 in_H5921 the_H0853 lips_H8193 of_H5921 talkers, and_H1471 the_H0853 evil_H1681 report_H1681 of_H5921 the_H0853 people_H5971;” 
+@4 therefore_H3651, you_H0834 mountains_H2022 of_H1697 Israel_H3478, hear_H8085 the_H0559 word_H1697 of_H1697 the_H0559 Lord_H0136 Yahweh: The_H0559 Lord_H0136 Yahweh says_H0559 to_H0559 the_H0559 mountains_H2022 and_H3478 to_H0559 the_H0559 hills_H1389, to_H0559 the_H0559 watercourses and_H3478 to_H0559 the_H0559 valleys_H1516, to_H0559 the_H0559 desolate_H8076 wastes_H2723 and_H3478 to_H0559 the_H0559 cities_H5892 that_H0834 are_H0834 forsaken, which_H0834 have_H1961 become_H1961 a_H1961 prey_H0957 and_H3478 derision_H3933 to_H0559 the_H0559 residue of_H1697 the_H0559 nations_H1471 that_H0834 are_H0834 all_H5439 around_H5439; 
+@5 therefore_H3651 the_H3605 Lord_H0136 Yahweh says_H0559: “Surely_H0518 in_H5921 the_H3605 fire_H0784 of_H0776 my_H3605 jealousy_H7068 I_H0834 have_H0834 spoken_H1696 against_H5921 the_H3605 residue of_H0776 the_H3605 nations_H1471, and_H0776 against_H5921 all_H3605 Edom_H0123, that_H0834 have_H0834 appointed_H5414 my_H3605 land_H0776 to_H0559 themselves_H5315 for_H5921 a_H5414 possession_H4181 with_H5921 the_H3605 joy_H8057 of_H0776 all_H3605 their_H3605 heart_H3824, with_H5921 despite_H5921 of_H0776 soul_H5315, to_H0559 cast_H5414 it_H5414 out_H5921 for_H5921 a_H5414 prey_H0957.”’ 
+@6 Therefore_H3651 prophesy_H5012 concerning_H5921 the_H0559 land_H0127 of_H2022 Israel_H3478, and_H3478 tell_H0559 the_H0559 mountains_H2022, the_H0559 hills_H1389, the_H0559 watercourses and_H3478 the_H0559 valleys_H1516, ‘The_H0559 Lord_H0136 Yahweh says_H0559: “Behold_H2005, I_H2005 have_H1471 spoken_H1696 in_H5921 my_H5921 jealousy_H7068 and_H3478 in_H5921 my_H5921 wrath_H2534, because_H5921 you_H5921 have_H1471 borne_H5375 the_H0559 shame_H3639 of_H2022 the_H0559 nations_H1471.” 
+@7 Therefore_H3651 the_H0853 Lord_H0136 Yahweh says_H0559: “I_H0589 have_H0834 sworn_H5375, ‘Surely_H0518 the_H0853 nations_H1471 that_H0834 are_H0834 around_H5439 you_H0834 will_H0834 bear_H5375 their_H5375 shame_H3639.’
 
 ## Promise of new blessings and wonderful development of the mountainous country of Israel
-@8 “‘“But you, mountains of Israel, you shall shoot out your branches and yield your fruit to my people Israel; for they are at hand to come. 
-@9 For, behold, I am for you, and I will come to you, and you will be tilled and sown. 
-@10 I will multiply men on you, all the house of Israel, even all of it. The cities will be inhabited and the waste places will be built. 
-@11 I will multiply man and animal on you. They will increase and be fruitful. I will cause you to be inhabited as you were before, and you will do better than at your beginnings. Then you will know that I am Yahweh. 
-@12 Yes, I will cause men to walk on you, even my people Israel. They will possess you, and you will be their inheritance, and you will never again bereave them of their children.” 
+@8 “‘“But_H3588 you_H0859, mountains_H2022 of_H2022 Israel_H3478, you_H0859 shall_H3478 shoot out_H0935 your_H5414 branches_H6057 and_H0935 yield_H5414 your_H5414 fruit_H6529 to_H0935 my_H5414 people_H5971 Israel_H3478; for_H3588 they_H3588 are_H3478 at_H3478 hand_H5414 to_H0935 come_H0935. 
+@9 For_H3588, behold_H2005, I_H3588 am_H2005 for_H3588 you_H3588, and_H6437 I_H3588 will_H5647 come to_H0413 you_H3588, and_H6437 you_H3588 will_H5647 be_H3588 tilled and_H6437 sown_H2232. 
+@10 I_H3478 will_H3478 multiply_H7235 men_H0120 on_H5921 you_H3605, all_H3605 the_H3605 house_H1004 of_H1004 Israel_H3478, even_H5921 all_H3605 of_H1004 it_H5921. The_H3605 cities_H5892 will_H3478 be_H3478 inhabited_H3427 and_H3478 the_H3605 waste_H2723 places_H2723 will_H3478 be_H3478 built_H1129. 
+@11 I_H0589 will_H3068 multiply_H7235 man_H0120 and_H3068 animal_H0929 on_H5921 you_H3588. They_H3588 will_H3068 increase_H7235 and_H3068 be_H3068 fruitful_H6509. I_H0589 will_H3068 cause you_H3588 to_H5921 be_H3068 inhabited_H3427 as_H3068 you_H3588 were_H3427 before_H5921, and_H3068 you_H3588 will_H3068 do_H0589 better_H5921 than_H5921 at_H3427 your_H3068 beginnings. Then_H0853 you_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068. 
+@12 Yes, I_H3808 will_H1961 cause_H1961 men_H0120 to_H1961 walk on_H5921 you_H5921, even_H5750 my_H5921 people_H5971 Israel_H3478. They_H5921 will_H1961 possess_H3423 you_H5921, and_H3478 you_H5921 will_H1961 be_H1961 their_H5921 inheritance_H5159, and_H3478 you_H5921 will_H1961 never_H3808 again_H5750 bereave_H7921 them_H0853 of_H5921 their_H5921 children_H7921.” 
 
-@13 “‘The Lord Yahweh says: “Because they say to you, ‘You are a devourer of men, and have been a bereaver of your nation;’ 
-@14 therefore you shall devour men no more, and not bereave your nation any more,” says the Lord Yahweh. 
-@15 “I won’t let you hear the shame of the nations any more. You won’t bear the reproach of the peoples any more, and you won’t cause your nation to stumble any more,” says the Lord Yahweh.’”
+@13 “‘The_H0559 Lord_H0136 Yahweh says_H0559: “Because_H3282 they_H0559 say_H0559 to_H0559 you_H0859, ‘You_H0859 are_H1471 a_H1961 devourer_H0398 of_H0559 men_H0120, and_H0398 have_H1961 been_H1961 a_H1961 bereaver of_H0559 your_H0398 nation_H1471;’ 
+@14 therefore_H3651 you_H3808 shall_H3808 devour_H0398 men_H0120 no_H3808 more_H5750, and_H0398 not_H3808 bereave_H3782 your_H0398 nation_H1471 any_H5750 more_H5750,” says_H5002 the_H5002 Lord_H0136 Yahweh. 
+@15 “I_H3808 won’t_H3808 let_H3808 you_H3808 hear_H8085 the_H5002 shame_H2781 of_H8085 the_H5002 nations_H1471 any_H5750 more_H5750. You_H3808 won’t_H3808 bear_H5375 the_H5002 reproach_H2781 of_H8085 the_H5002 peoples_H5971 any_H5750 more_H5750, and_H8085 you_H3808 won’t_H3808 cause your_H8085 nation_H1471 to_H0413 stumble_H3782 any_H5750 more_H5750,” says_H5002 the_H5002 Lord_H0136 Yahweh.’”
 
 ## The reasons why God is appointed for such a practice
-@16 Moreover Yahweh’s word came to me, saying, 
-@17 “Son of man, when the house of Israel lived in their own land, they defiled it by their ways and by their deeds. Their way before me was as the uncleanness of a woman in her impurity. 
-@18 Therefore I poured out my wrath on them for the blood which they had poured out on the land, and because they had defiled it with their idols. 
-@19 I scattered them among the nations, and they were dispersed through the countries. I judged them according to their way and according to their deeds. 
-@20 When they came to the nations where they went, they profaned my holy name, in that men said of them, ‘These are Yahweh’s people, and have left his land.’ 
-@21 But I had respect for my holy name, which the house of Israel had profaned among the nations where they went. 
+@16 Moreover_H1961 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@17 “Son_H1121 of_H1121 man_H0120, when_H1961 the_H0853 house_H1004 of_H1121 Israel_H3478 lived_H3427 in_H3427 their_H5921 own_H1961 land_H0127, they_H5921 defiled_H2930 it_H5921 by_H5921 their_H5921 ways_H1870 and_H1121 by_H5921 their_H5921 deeds_H5949. Their_H5921 way_H1870 before_H6440 me_H6440 was_H1961 as_H1961 the_H0853 uncleanness_H5079 of_H1121 a_H1961 woman_H1004 in_H3427 her_H5921 impurity_H5079. 
+@18 Therefore_H0776 I_H0834 poured_H8210 out_H8210 my_H5921 wrath_H2534 on_H5921 them_H5921 for_H5921 the_H0834 blood_H1818 which_H0834 they_H0834 had_H0834 poured_H8210 out_H8210 on_H5921 the_H0834 land_H0776, and_H0776 because_H5921 they_H0834 had_H0834 defiled_H2930 it_H5921 with_H5921 their_H5921 idols_H1544. 
+@19 I_H0776 scattered_H2219 them_H0853 among_H0776 the_H0853 nations_H1471, and_H0776 they_H1471 were_H0776 dispersed_H2219 through_H0776 the_H0853 countries_H0776. I_H0776 judged_H8199 them_H0853 according to_H1870 their_H1870 way_H1870 and_H0776 according to_H1870 their_H1870 deeds_H5949. 
+@20 When_H0834 they_H0834 came_H0935 to_H0413 the_H0853 nations_H1471 where_H0834 they_H0834 went_H3318, they_H0834 profaned_H2490 my_H3068 holy_H6944 name_H8034, in_H0935 that_H0834 men_H5971 said_H0559 of_H0776 them_H0413, ‘These_H0428 are_H0834 Yahweh’s_H3068 people_H5971, and_H0935 have_H0834 left_H3318 his_H3068 land_H0776.’ 
+@21 But_H0935 I_H0834 had_H0834 respect_H5921 for_H5921 my_H5921 holy_H6944 name_H8034, which_H0834 the_H0834 house_H1004 of_H1004 Israel_H3478 had_H0834 profaned_H2490 among_H5921 the_H0834 nations_H1471 where_H0834 they_H0834 went_H0935. 
 
-@22 “Therefore tell the house of Israel, ‘The Lord Yahweh says: “I don’t do this for your sake, house of Israel, but for my holy name, which you have profaned among the nations where you went. 
-@23 I will sanctify my great name, which has been profaned among the nations, which you have profaned among them. Then the nations will know that I am Yahweh,” says the Lord Yahweh, “when I am proven holy in you before their eyes.
+@22 “Therefore_H3651 tell_H0559 the_H0559 house_H1004 of_H1004 Israel_H3478, ‘The_H0559 Lord_H0136 Yahweh says_H0559: “I_H0589 don’t_H3808 do_H6213 this_H3651 for_H3588 your_H0834 sake_H4616, house_H1004 of_H1004 Israel_H3478, but_H3588 for_H3588 my_H0834 holy_H6944 name_H8034, which_H0834 you_H0834 have_H0834 profaned_H2490 among_H8033 the_H0559 nations_H1471 where_H0834 you_H0834 went_H0935. 
+@23 I_H0589 will_H3068 sanctify_H6942 my_H3068 great_H1419 name_H8034, which_H0834 has_H3068 been_H0834 profaned_H2490 among_H8432 the_H0853 nations_H1471, which_H0834 you_H0834 have_H0834 profaned_H2490 among_H8432 them_H0853. Then_H0853 the_H0853 nations_H1471 will_H3068 know_H3045 that_H0834 I_H0589 am_H0589 Yahweh_H3068,” says_H5002 the_H0853 Lord_H3068 Yahweh_H3068, “when_H3588 I_H0589 am_H0589 proven holy_H6942 in_H3068 you_H0834 before_H5869 their_H3068 eyes_H5869.
 
 ## The gradual execution of the divine plan, by grace
-@24 “‘“For I will take you from among the nations and gather you out of all the countries, and will bring you into your own land. 
-@25 I will sprinkle clean water on you, and you will be clean. I will cleanse you from all your filthiness and from all your idols. 
-@26 I will also give you a new heart, and I will put a new spirit within you. I will take away the stony heart out of your flesh, and I will give you a heart of flesh. 
-@27 I will put my Spirit within you, and cause you to walk in my statutes. You will keep my ordinances and do them. 
-@28 You will dwell in the land that I gave to your fathers. You will be my people, and I will be your God. 
-@29 I will save you from all your uncleanness. I will call for the grain and will multiply it, and lay no famine on you. 
-@30 I will multiply the fruit of the tree and the increase of the field, that you may receive no more the reproach of famine among the nations. 
+@24 “‘“For_H0413 I_H0776 will_H0776 take_H3947 you_H3605 from_H4480 among_H4480 the_H3605 nations_H1471 and_H0935 gather_H6908 you_H3605 out_H4480 of_H0776 all_H3605 the_H3605 countries_H0776, and_H0935 will_H0776 bring_H0935 you_H3605 into_H0413 your_H3605 own land_H0776. 
+@25 I_H5921 will_H4325 sprinkle_H2236 clean_H2889 water_H4325 on_H5921 you_H3605, and_H4325 you_H3605 will_H4325 be_H4325 clean_H2889. I_H5921 will_H4325 cleanse_H2891 you_H3605 from_H5921 all_H3605 your_H3605 filthiness and_H4325 from_H5921 all_H3605 your_H3605 idols_H1544. 
+@26 I_H5414 will_H1320 also_H0853 give_H5414 you_H5414 a_H5414 new_H2319 heart_H3820, and_H0068 I_H5414 will_H1320 put_H5414 a_H5414 new_H2319 spirit_H7307 within_H7130 you_H5414. I_H5414 will_H1320 take_H5493 away_H5493 the_H0853 stony heart_H3820 out_H0853 of_H7307 your_H5414 flesh_H1320, and_H0068 I_H5414 will_H1320 give_H5414 you_H5414 a_H5414 heart_H3820 of_H7307 flesh_H1320. 
+@27 I_H0834 will_H0834 put_H5414 my_H8104 Spirit_H7307 within_H7130 you_H0834, and_H4941 cause_H4941 you_H0834 to_H5414 walk in_H7130 my_H8104 statutes_H2706. You_H0834 will_H0834 keep_H8104 my_H8104 ordinances_H4941 and_H4941 do_H6213 them_H5414. 
+@28 You_H0834 will_H0430 dwell_H3427 in_H3427 the_H0834 land_H0776 that_H0834 I_H0834 gave_H5414 to_H1961 your_H5414 fathers_H0001. You_H0834 will_H0430 be_H1961 my_H5414 people_H5971, and_H0430 I_H0834 will_H0430 be_H1961 your_H5414 God_H0430. 
+@29 I_H5414 will_H5414 save_H3467 you_H5414 from_H5921 all_H3605 your_H3605 uncleanness_H2932. I_H5414 will_H5414 call_H7121 for_H5921 the_H3605 grain_H1715 and_H0853 will_H5414 multiply_H7235 it_H5414, and_H0853 lay_H5414 no_H3808 famine_H7458 on_H5921 you_H5414. 
+@30 I_H0834 will_H0834 multiply_H7235 the_H0853 fruit_H6529 of_H7704 the_H0853 tree_H6086 and_H6086 the_H0853 increase_H7235 of_H7704 the_H0853 field_H7704, that_H0834 you_H0834 may_H0834 receive_H3947 no_H3808 more_H5750 the_H0853 reproach_H2781 of_H7704 famine_H7458 among_H2781 the_H0853 nations_H1471. 
 
-@31 “‘“Then you will remember your evil ways, and your deeds that were not good; and you will loathe yourselves in your own sight for your iniquities and for your abominations. 
-@32 I don’t do this for your sake,” says the Lord Yahweh. “Let it be known to you. Be ashamed and confounded for your ways, house of Israel.”
+@31 “‘“Then_H0853 you_H0834 will_H0834 remember_H2142 your_H5921 evil_H7451 ways_H1870, and_H6440 your_H5921 deeds_H4611 that_H0834 were_H0834 not_H3808 good_H2896; and_H6440 you_H0834 will_H0834 loathe yourselves_H5921 in_H5921 your_H5921 own_H6440 sight_H6440 for_H5921 your_H5921 iniquities_H5771 and_H6440 for_H5921 your_H5921 abominations_H8441. 
+@32 I_H0589 don’t_H3808 do_H6213 this_H4616 for_H4616 your_H3045 sake_H4616,” says_H5002 the_H5002 Lord_H0136 Yahweh. “Let_H3808 it_H3045 be_H3808 known_H3045 to_H0954 you_H3045. Be_H3808 ashamed_H0954 and_H3478 confounded_H3637 for_H4616 your_H3045 ways_H1870, house_H1004 of_H1004 Israel_H3478.”
 
 ## Die Anerkennung der Größe Gottes auch von seiten der Heiden
-@33 “‘The Lord Yahweh says: “In the day that I cleanse you from all your iniquities, I will cause the cities to be inhabited and the waste places will be built. 
-@34 The land that was desolate will be tilled instead of being a desolation in the sight of all who passed by. 
-@35 They will say, ‘This land that was desolate has become like the garden of Eden. The waste, desolate, and ruined cities are fortified and inhabited.’ 
-@36 Then the nations that are left around you will know that I, Yahweh, have built the ruined places and planted that which was desolate. I, Yahweh, have spoken it, and I will do it.” 
+@33 “‘The_H3605 Lord_H0136 Yahweh says_H0559: “In_H3427 the_H3605 day_H3117 that_H3605 I_H3117 cleanse_H2891 you_H3605 from_H3117 all_H3605 your_H3605 iniquities_H5771, I_H3117 will_H0136 cause the_H3605 cities_H5892 to_H0559 be_H0136 inhabited_H3427 and_H3117 the_H3605 waste_H2723 places_H2723 will_H0136 be_H0136 built_H1129. 
+@34 The_H3605 land_H0776 that_H0834 was_H1961 desolate_H8074 will_H1961 be_H1961 tilled instead_H8478 of_H0776 being_H1961 a_H1961 desolation_H8077 in_H0776 the_H3605 sight_H5869 of_H0776 all_H3605 who_H0834 passed_H5674 by_H1961. 
+@35 They_H0559 will_H1961 say_H0559, ‘This land_H0776 that_H0559 was_H1961 desolate_H8074 has_H1961 become_H1961 like_H1961 the_H0559 garden_H1588 of_H0776 Eden_H5731. The_H0559 waste_H8074, desolate_H8074, and_H0776 ruined_H2040 cities_H5892 are_H0776 fortified_H1219 and_H0776 inhabited_H3427.’ 
+@36 Then_H1696 the_H0834 nations_H1471 that_H0834 are_H0834 left_H7604 around_H5439 you_H0834 will_H3068 know_H3045 that_H0834 I_H0589, Yahweh_H3068, have_H0834 built_H1129 the_H0834 ruined_H2040 places_H2040 and_H3068 planted_H5193 that_H0834 which_H0834 was_H0834 desolate_H8074. I_H0589, Yahweh_H3068, have_H0834 spoken_H1696 it_H3588, and_H3068 I_H0589 will_H3068 do_H6213 it_H3588.” 
 
-@37 “‘The Lord Yahweh says: “For this, moreover, I will be inquired of by the house of Israel, to do it for them: I will increase them with men like a flock. 
-@38 As the flock for sacrifice, as the flock of Jerusalem in her appointed feasts, so the waste cities will be filled with flocks of men. Then they will know that I am Yahweh.’” 
+@37 “‘The_H0853 Lord_H0136 Yahweh says_H0559: “For_H1004 this_H2063, moreover_H3541, I_H3541 will_H3478 be_H5750 inquired_H1875 of_H1004 by_H3478 the_H0853 house_H1004 of_H1004 Israel_H3478, to_H0559 do_H6213 it_H6213 for_H1004 them_H0853: I_H3541 will_H3478 increase_H7235 them_H0853 with_H1004 men_H0120 like_H3478 a_H5750 flock_H6629. 
+@38 As_H1961 the_H3588 flock_H6629 for_H3588 sacrifice, as_H1961 the_H3588 flock_H6629 of_H3068 Jerusalem_H3389 in_H3068 her_H1961 appointed_H4150 feasts_H4150, so_H3651 the_H3588 waste cities_H5892 will_H3068 be_H1961 filled_H4392 with_H3068 flocks_H6629 of_H3068 men_H0120. Then_H1961 they_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068.’” 
 
 # 37 
 ## The face of dead bones revival delivered to the prophet
-@1 Yahweh’s hand was on me, and he brought me out in Yahweh’s Spirit, and set me down in the middle of the valley; and it was full of bones. 
-@2 He caused me to pass by them all around; and behold, there were very many in the open valley, and behold, they were very dry. 
-@3 He said to me, “Son of man, can these bones live?” 
+@1 Yahweh’s_H3068 hand_H3027 was_H1961 on_H5921 me_H5921, and_H3068 he_H1931 brought_H3318 me_H5921 out_H3318 in_H5921 Yahweh’s_H3068 Spirit_H7307, and_H3068 set_H5117 me_H5921 down_H5117 in_H5921 the_H5921 middle_H8432 of_H3068 the_H5921 valley_H1237; and_H3068 it_H1931 was_H1961 full_H4392 of_H3068 bones_H6106. 
+@2 He_H5921 caused me_H6440 to_H5921 pass_H5674 by_H5921 them_H5921 all_H5439 around_H5439; and_H6440 behold_H2009, there_H2009 were_H6440 very_H3966 many_H7227 in_H5921 the_H6440 open_H6440 valley_H1237, and_H6440 behold_H2009, they_H5921 were_H6440 very_H3966 dry_H3002. 
+@3 He_H0559 said_H0559 to_H0413 me_H0413, “Son_H1121 of_H1121 man_H0120, can_H3045 these_H0428 bones_H6106 live_H2421?” 
 
-I answered, “Lord Yahweh, you know.” 
+I_H3045 answered_H0559, “Lord_H0136 Yahweh, you_H0859 know_H3045.” 
 
-@4 Again he said to me, “Prophesy over these bones, and tell them, ‘You dry bones, hear Yahweh’s word. 
-@5 The Lord Yahweh says to these bones: “Behold, I will cause breath to enter into you, and you will live. 
-@6 I will lay sinews on you, and will bring up flesh on you, and cover you with skin, and put breath in you, and you will live. Then you will know that I am Yahweh.”’” 
+@4 Again he_H3068 said_H0559 to_H0413 me_H0413, “Prophesy_H5012 over_H5921 these_H0428 bones_H6106, and_H3068 tell_H0559 them_H0413, ‘You_H5921 dry_H3002 bones_H6106, hear_H8085 Yahweh’s_H3068 word_H1697. 
+@5 The_H0559 Lord_H0136 Yahweh says_H0559 to_H0559 these_H0428 bones_H6106: “Behold_H2009, I_H0589 will_H7307 cause breath_H7307 to_H0559 enter_H0935 into_H0935 you_H0935, and_H0935 you_H0935 will_H7307 live_H2421. 
+@6 I_H0589 will_H3068 lay_H5414 sinews_H1517 on_H5921 you_H3588, and_H3068 will_H3068 bring_H5927 up_H5927 flesh_H1320 on_H5921 you_H3588, and_H3068 cover_H7159 you_H3588 with_H3068 skin_H5785, and_H3068 put_H5414 breath_H7307 in_H5921 you_H3588, and_H3068 you_H3588 will_H3068 live_H2421. Then_H5414 you_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068.”’” 
 
-@7 So I prophesied as I was commanded. As I prophesied, there was a noise, and behold, there was an earthquake. Then the bones came together, bone to its bone. 
-@8 I saw, and, behold, there were sinews on them, and flesh came up, and skin covered them above; but there was no breath in them. 
+@7 So_H1961 I_H0834 prophesied_H5012 as_H0834 I_H0834 was_H1961 commanded_H6680. As_H0834 I_H0834 prophesied_H5012, there_H2009 was_H1961 a_H1961 noise_H6963, and_H6963 behold_H2009, there_H2009 was_H1961 an_H1961 earthquake_H7494. Then_H1961 the_H0834 bones_H6106 came_H1961 together_H7126, bone_H6106 to_H0413 its_H1961 bone_H6106. 
+@8 I_H2009 saw_H7200, and_H7200, behold_H2009, there_H0369 were_H0369 sinews_H1517 on_H5921 them_H5921, and_H7200 flesh_H1320 came_H5927 up_H5927, and_H7200 skin_H5785 covered_H7159 them_H5921 above_H5921; but_H7200 there_H0369 was_H0369 no_H0369 breath_H7307 in_H5921 them_H5921. 
 
-@9 Then he said to me, “Prophesy to the wind, prophesy, son of man, and tell the wind, ‘The Lord Yahweh says: “Come from the four winds, breath, and breathe on these slain, that they may live.”’” 
+@9 Then_H0935 he_H3541 said_H0559 to_H0413 me_H0413, “Prophesy_H5012 to_H0413 the_H0559 wind_H7307, prophesy_H5012, son_H1121 of_H1121 man_H0120, and_H1121 tell_H0559 the_H0559 wind_H7307, ‘The_H0559 Lord_H0136 Yahweh says_H0559: “Come_H0935 from_H0935 the_H0559 four_H0702 winds_H7307, breath_H7307, and_H1121 breathe_H5301 on_H0413 these_H0428 slain_H2026, that_H0559 they_H0559 may_H0120 live_H2421.”’” 
 
-@10 So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up on their feet, an exceedingly great army.
+@10 So_H0834 I_H0834 prophesied_H5012 as_H0834 he_H0834 commanded_H6680 me_H5921, and_H0935 the_H0834 breath_H7307 came_H0935 into_H0935 them_H5921, and_H0935 they_H0834 lived_H2421, and_H0935 stood_H5975 up_H5975 on_H5921 their_H5921 feet_H7272, an_H0935 exceedingly_H3966 great_H1419 army_H2428.
 
 ## Interpretation of the strange process as an image
-@11 Then he said to me, “Son of man, these bones are the whole house of Israel. Behold, they say, ‘Our bones are dried up, and our hope is lost. We are completely cut off.’ 
-@12 Therefore prophesy, and tell them, ‘The Lord Yahweh says: “Behold, I will open your graves, and cause you to come up out of your graves, my people; and I will bring you into the land of Israel. 
-@13 You will know that I am Yahweh, when I have opened your graves and caused you to come up out of your graves, my people. 
-@14 I will put my Spirit in you, and you will live. Then I will place you in your own land; and you will know that I, Yahweh, have spoken it and performed it,” says Yahweh.’”
+@11 Then_H2009 he_H1004 said_H0559 to_H0413 me_H0413, “Son_H1121 of_H1121 man_H0120, these_H0428 bones_H6106 are_H1992 the_H3605 whole_H3605 house_H1004 of_H1121 Israel_H3478. Behold_H2009, they_H1992 say_H0559, ‘Our_H3605 bones_H6106 are_H1992 dried_H3001 up_H3001, and_H1121 our_H3605 hope_H8615 is_H2009 lost_H0006. We_H3605 are_H1992 completely_H3605 cut_H1504 off_H1504.’ 
+@12 Therefore_H3651 prophesy_H5012, and_H0935 tell_H0559 them_H0413, ‘The_H0853 Lord_H0136 Yahweh says_H0559: “Behold_H2009, I_H0589 will_H3478 open_H6605 your_H0935 graves_H6913, and_H0935 cause you_H0935 to_H0413 come_H0935 up_H5927 out_H0413 of_H0127 your_H0935 graves_H6913, my_H0935 people_H5971; and_H0935 I_H0589 will_H3478 bring_H0935 you_H0935 into_H0413 the_H0853 land_H0127 of_H0127 Israel_H3478. 
+@13 You_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068, when_H3588 I_H0589 have_H3045 opened_H6605 your_H3068 graves_H6913 and_H3068 caused you_H3588 to_H3068 come_H5927 up_H5927 out_H3045 of_H3068 your_H3068 graves_H6913, my_H3068 people_H5971. 
+@14 I_H0589 will_H3068 put_H5414 my_H5414 Spirit_H7307 in_H5921 you_H3588, and_H3068 you_H3588 will_H3068 live_H2421. Then_H1696 I_H0589 will_H3068 place_H5414 you_H3588 in_H5921 your_H3068 own land_H0127; and_H3068 you_H3588 will_H3068 know_H3045 that_H3588 I_H0589, Yahweh_H3068, have_H3045 spoken_H1696 it_H5414 and_H3068 performed_H5414 it_H5414,” says_H5002 Yahweh_H3068.’”
 
 ## The figurative act that the prophet must perform
-@15 Yahweh’s word came again to me, saying, 
-@16 “You, son of man, take one stick and write on it, ‘For Judah, and for the children of Israel his companions.’ Then take another stick, and write on it, ‘For Joseph, the stick of Ephraim, and for all the house of Israel his companions.’ 
-@17 Then join them for yourself to one another into one stick, that they may become one in your hand.
+@15 Yahweh’s_H3068 word_H1697 came_H1961 again_H1961 to_H0413 me_H0413, saying_H0559, 
+@16 “You_H0859, son_H1121 of_H1121 man_H0120, take_H3947 one_H0259 stick_H6086 and_H1121 write_H3789 on_H5921 it_H5921, ‘For_H5921 Judah_H3063, and_H1121 for_H5921 the_H3605 children_H1121 of_H1121 Israel_H3478 his_H3605 companions_H2270.’ Then_H3947 take_H3947 another_H0259 stick_H6086, and_H1121 write_H3789 on_H5921 it_H5921, ‘For_H5921 Joseph_H3130, the_H3605 stick_H6086 of_H1121 Ephraim_H0669, and_H1121 for_H5921 all_H3605 the_H3605 house_H1004 of_H1121 Israel_H3478 his_H3605 companions_H2270.’ 
+@17 Then_H1961 join_H7126 them_H0413 for_H0413 yourself_H0413 to_H0413 one_H0259 another_H0259 into_H0413 one_H0259 stick_H6086, that_H1961 they_H3027 may_H1961 become_H1961 one_H0259 in_H0413 your_H1961 hand_H3027.
 
 ## The interpretation of symbolic action
-@18 “When the children of your people speak to you, saying, ‘Won’t you show us what you mean by these?’ 
-@19 tell them, ‘The Lord Yahweh says: “Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his companions; and I will put them with it, with the stick of Judah, and make them one stick, and they will be one in my hand. 
-@20 The sticks on which you write will be in your hand before their eyes.”’ 
-@21 Say to them, ‘The Lord Yahweh says: “Behold, I will take the children of Israel from among the nations where they have gone, and will gather them on every side, and bring them into their own land. 
-@22 I will make them one nation in the land, on the mountains of Israel. One king will be king to them all. They will no longer be two nations. They won’t be divided into two kingdoms any more at all.
+@18 “When_H0834 the_H0559 children_H1121 of_H1121 your_H0834 people_H5971 speak_H0559 to_H0413 you_H0834, saying_H0559, ‘Won’t_H3808 you_H0834 show_H5046 us_H0413 what_H4100 you_H0834 mean by_H0413 these_H0428?’ 
+@19 tell_H0559 them_H0413, ‘The_H0853 Lord_H0136 Yahweh says_H0559: “Behold_H2009, I_H0589 will_H1961 take_H3947 the_H0853 stick_H6086 of_H3027 Joseph_H3130, which_H0834 is_H0834 in_H5921 the_H0853 hand_H3027 of_H3027 Ephraim_H0669, and_H3063 the_H0853 tribes_H7626 of_H3027 Israel_H3478 his_H5414 companions_H2270; and_H3063 I_H0589 will_H1961 put_H5414 them_H0413 with_H0854 it_H5414, with_H0854 the_H0853 stick_H6086 of_H3027 Judah_H3063, and_H3063 make_H5414 them_H0413 one_H0259 stick_H6086, and_H3063 they_H0834 will_H1961 be_H1961 one_H0259 in_H5921 my_H5414 hand_H3027. 
+@20 The_H0834 sticks_H6086 on_H5921 which_H0834 you_H0834 write_H3789 will_H1961 be_H1961 in_H5921 your_H5921 hand_H3027 before_H5869 their_H5921 eyes_H5869.”’ 
+@21 Say_H0559 to_H0413 them_H0413, ‘The_H0853 Lord_H0136 Yahweh says_H0559: “Behold_H2009, I_H0589 will_H0834 take_H3947 the_H0853 children_H1121 of_H1121 Israel_H3478 from_H0935 among_H0996 the_H0853 nations_H1471 where_H0834 they_H0834 have_H0834 gone_H1980, and_H1980 will_H0834 gather_H6908 them_H0413 on_H0413 every_H5439 side_H5439, and_H1980 bring_H0935 them_H0413 into_H0413 their_H3947 own land_H0127. 
+@22 I_H0259 will_H1961 make_H6213 them_H0853 one_H0259 nation_H1471 in_H0776 the_H3605 land_H0776, on_H0776 the_H3605 mountains_H2022 of_H4428 Israel_H3478. One_H0259 king_H4428 will_H1961 be_H1961 king_H4428 to_H1961 them_H0853 all_H3605. They_H3808 will_H1961 no_H3808 longer_H5750 be_H1961 two_H8147 nations_H1471. They_H3808 won’t_H3808 be_H1961 divided_H2673 into_H0776 two_H8147 kingdoms_H4467 any_H3605 more_H5750 at_H3478 all_H3605.
 
 ## The glorious future of the united people
-@23 They won’t defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions; but I will save them out of all their dwelling places in which they have sinned, and will cleanse them. So they will be my people, and I will be their God. 
+@23 They_H0834 won’t_H3808 defile_H2930 themselves_H2891 any_H3605 more_H5750 with_H0430 their_H3605 idols_H1544, nor_H3808 with_H0430 their_H3605 detestable_H8251 things_H3605, nor_H3808 with_H0430 any_H3605 of_H0430 their_H3605 transgressions_H6588; but_H3808 I_H0589 will_H0430 save_H3467 them_H0853 out_H3605 of_H0430 all_H3605 their_H3605 dwelling_H4186 places_H4186 in_H0430 which_H0834 they_H0834 have_H1961 sinned_H2398, and_H0430 will_H0430 cleanse_H2891 them_H0853. So_H1961 they_H0834 will_H0430 be_H1961 my_H3605 people_H5971, and_H0430 I_H0589 will_H0430 be_H1961 their_H3605 God_H0430. 
 
-@24 “‘“My servant David will be king over them. They all will have one shepherd. They will also walk in my ordinances and observe my statutes, and do them. 
-@25 They will dwell in the land that I have given to Jacob my servant, in which your fathers lived. They will dwell therein, they, and their children, and their children’s children, forever. David my servant will be their prince forever. 
-@26 Moreover I will make a covenant of peace with them. It will be an everlasting covenant with them. I will place them, multiply them, and will set my sanctuary among them forever more. 
-@27 My tent also will be with them. I will be their God, and they will be my people. 
-@28 The nations will know that I am Yahweh who sanctifies Israel, when my sanctuary is among them forever more.”’” 
+@24 “‘“My_H3605 servant_H5650 David_H1732 will_H1961 be_H1961 king_H4428 over_H5921 them_H0853. They_H5921 all_H3605 will_H1961 have_H1961 one_H0259 shepherd_H7462. They_H5921 will_H1961 also_H0853 walk in_H5921 my_H3605 ordinances_H4941 and_H4428 observe_H8104 my_H3605 statutes_H2708, and_H4428 do_H6213 them_H0853. 
+@25 They_H1992 will_H0776 dwell_H3427 in_H3427 the_H0834 land_H0776 that_H0834 I_H0834 have_H0834 given_H5414 to_H5704 Jacob_H3290 my_H5414 servant_H5650, in_H3427 which_H0834 your_H5414 fathers_H0001 lived_H3427. They_H1992 will_H0776 dwell_H3427 therein, they_H1992, and_H1121 their_H5414 children_H1121, and_H1121 their_H5414 children’s_H1121 children_H1121, forever_H5769. David_H1732 my_H5414 servant_H5650 will_H0776 be_H1121 their_H5414 prince_H5387 forever_H5769. 
+@26 Moreover_H1961 I_H5414 will_H1961 make_H5414 a_H1961 covenant_H1285 of_H8432 peace_H7965 with_H0854 them_H5414. It_H5414 will_H1961 be_H1961 an_H1961 everlasting_H5769 covenant_H1285 with_H0854 them_H5414. I_H5414 will_H1961 place_H5414 them_H5414, multiply_H7235 them_H5414, and_H5769 will_H1961 set_H5414 my_H5414 sanctuary_H4720 among_H8432 them_H5414 forever_H5769 more_H7235. 
+@27 My_H5921 tent also_H0430 will_H0430 be_H1961 with_H5921 them_H1992. I_H5921 will_H0430 be_H1961 their_H1992 God_H0430, and_H0430 they_H1992 will_H0430 be_H1961 my_H5921 people_H5971. 
+@28 The_H0853 nations_H1471 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068 who_H3068 sanctifies_H6942 Israel_H3478, when_H3588 my_H3068 sanctuary_H4720 is_H3068 among_H8432 them_H0853 forever_H5769 more_H5769.”’” 
 
 # 38 
 ## God himself drives out the brute hordes of Gog from the land of Magog against Palestine
-@1 Yahweh’s word came to me, saying, 
-@2 “Son of man, set your face toward Gog, of the land of Magog, the prince of Rosh, Meshech, and Tubal, and prophesy against him, 
-@3 and say, ‘The Lord Yahweh says: “Behold, I am against you, Gog, prince of Rosh, Meshech, and Tubal. 
-@4 I will turn you around, and put hooks into your jaws, and I will bring you out, with all your army, horses and horsemen, all of them clothed in full armor, a great company with buckler and shield, all of them handling swords; 
-@5 Persia, Cush, and Put with them, all of them with shield and helmet; 
-@6 Gomer, and all his hordes; the house of Togarmah in the uttermost parts of the north, and all his hordes—even many peoples with you. 
+@1 Yahweh’s_H3068 word_H1697 came_H1961 to_H0413 me_H0413, saying_H0559, 
+@2 “Son_H1121 of_H1121 man_H0120, set_H7760 your_H5921 face_H6440 toward_H0413 Gog_H1463, of_H1121 the_H6440 land_H0776 of_H1121 Magog_H4031, the_H6440 prince_H5387 of_H1121 Rosh, Meshech_H4902, and_H1121 Tubal_H8422, and_H1121 prophesy_H5012 against_H5921 him_H0413, 
+@3 and_H7218 say_H0559, ‘The_H0559 Lord_H0136 Yahweh says_H0559: “Behold_H2005, I_H2005 am_H2005 against_H0413 you_H0413, Gog_H1463, prince_H5387 of_H7218 Rosh, Meshech_H4902, and_H7218 Tubal_H8422. 
+@4 I_H5414 will_H2719 turn_H7725 you_H5414 around_H7725, and_H7725 put_H5414 hooks_H2397 into_H5414 your_H3605 jaws_H3895, and_H7725 I_H5414 will_H2719 bring_H3318 you_H5414 out_H3318, with_H3847 all_H3605 your_H3605 army_H2428, horses_H5483 and_H7725 horsemen_H6571, all_H3605 of_H3605 them_H5414 clothed_H3847 in_H3847 full_H3605 armor_H3847, a_H5414 great_H7227 company_H6951 with_H3847 buckler_H4043 and_H7725 shield_H4043, all_H3605 of_H3605 them_H5414 handling swords_H2719; 
+@5 Persia_H6539, Cush_H3568, and_H4043 Put_H6316 with_H0854 them_H0854, all_H3605 of_H3605 them_H0854 with_H0854 shield_H4043 and_H4043 helmet_H3553; 
+@6 Gomer_H1586, and_H1004 all_H3605 his_H3605 hordes; the_H3605 house_H1004 of_H1004 Togarmah_H8425 in_H1004 the_H3605 uttermost parts_H3411 of_H1004 the_H3605 north_H6828, and_H1004 all_H3605 his_H3605 hordes—even_H0853 many_H7227 peoples_H5971 with_H0854 you_H3605. 
 
-@7 “‘“Be prepared, yes, prepare yourself, you, and all your companies who are assembled to you, and be a guard to them. 
-@8 After many days you will be visited. In the latter years you will come into the land that is brought back from the sword, that is gathered out of many peoples, on the mountains of Israel, which have been a continual waste; but it is brought out of the peoples and they will dwell securely, all of them. 
-@9 You will ascend. You will come like a storm. You will be like a cloud to cover the land, you and all your hordes, and many peoples with you.”
+@7 “‘“Be_H1961 prepared_H3559, yes, prepare_H3559 yourself_H0859, you_H0859, and_H3605 all_H3605 your_H3605 companies_H6951 who_H3605 are_H0859 assembled_H6950 to_H1961 you_H0859, and_H3605 be_H1961 a_H1961 guard_H4929 to_H1961 them_H5921. 
+@8 After_H5921 many_H7227 days_H3117 you_H0834 will_H1961 be_H1961 visited_H0935. In_H3427 the_H3605 latter_H0319 years_H8141 you_H0834 will_H1961 come_H0935 into_H0413 the_H3605 land_H0776 that_H0834 is_H0834 brought_H0935 back_H7725 from_H7725 the_H3605 sword_H2719, that_H0834 is_H0834 gathered_H6908 out_H3318 of_H0776 many_H7227 peoples_H5971, on_H5921 the_H3605 mountains_H2022 of_H0776 Israel_H3478, which_H0834 have_H1961 been_H1961 a_H1961 continual_H8548 waste_H2723; but_H1961 it_H1931 is_H0834 brought_H0935 out_H3318 of_H0776 the_H3605 peoples_H5971 and_H0935 they_H0834 will_H1961 dwell_H3427 securely_H0983, all_H3605 of_H0776 them_H0413. 
+@9 You_H0859 will_H1961 ascend_H5927. You_H0859 will_H1961 come_H0935 like_H1961 a_H1961 storm. You_H0859 will_H1961 be_H1961 like_H1961 a_H1961 cloud_H6051 to_H0935 cover_H3680 the_H3605 land_H0776, you_H0859 and_H0935 all_H3605 your_H3605 hordes, and_H0935 many_H7227 peoples_H5971 with_H0854 you_H0859.”
 
 ## The evil intentions of the enemy and the great plan of God
-@10 “‘The Lord Yahweh says: “It will happen in that day that things will come into your mind, and you will devise an evil plan. 
-@11 You will say, ‘I will go up to the land of unwalled villages. I will go to those who are at rest, who dwell securely, all of them dwelling without walls, and having neither bars nor gates, 
-@12 to take the plunder and to take prey; to turn your hand against the waste places that are inhabited, and against the people who are gathered out of the nations, who have gotten livestock and goods, who dwell in the middle of the earth.’ 
-@13 Sheba, Dedan, and the merchants of Tarshish, with all its young lions, will ask you, ‘Have you come to take the plunder? Have you assembled your company to take the prey, to carry away silver and gold, to take away livestock and goods, to take great plunder?’”’ 
+@10 “‘The_H0559 Lord_H0136 Yahweh says_H0559: “It_H1931 will_H1961 happen_H1961 in_H5921 that_H3117 day_H3117 that_H3117 things_H1697 will_H1961 come_H1961 into_H5921 your_H5921 mind_H3824, and_H3117 you_H5921 will_H1961 devise_H2803 an_H1961 evil_H7451 plan_H2803. 
+@11 You_H3605 will_H0776 say_H0559, ‘I_H0776 will_H0776 go_H0935 up_H5927 to_H0559 the_H3605 land_H0776 of_H0776 unwalled_H6519 villages_H6519. I_H0776 will_H0776 go_H0935 to_H0559 those_H3605 who_H3605 are_H0776 at_H3427 rest_H8252, who_H3605 dwell_H3427 securely_H0983, all_H3605 of_H0776 them_H5921 dwelling_H3427 without_H0369 walls_H2346, and_H0935 having_H0369 neither_H0369 bars_H1280 nor_H0369 gates_H1817, 
+@12 to_H0413 take_H7725 the_H5921 plunder_H0962 and_H0776 to_H0413 take_H7725 prey_H0957; to_H0413 turn_H7725 your_H5921 hand_H3027 against_H5921 the_H5921 waste_H2723 places_H2723 that_H1471 are_H3027 inhabited_H3427, and_H0776 against_H5921 the_H5921 people_H5971 who_H3427 are_H3027 gathered_H0622 out_H5921 of_H0776 the_H5921 nations_H1471, who_H3427 have_H0776 gotten livestock_H4735 and_H0776 goods_H7075, who_H3427 dwell_H3427 in_H3427 the_H5921 middle of_H0776 the_H5921 earth_H0776.’ 
+@13 Sheba_H7614, Dedan_H1719, and_H0935 the_H3605 merchants_H5503 of_H3605 Tarshish_H8659, with_H0935 all_H3605 its_H3605 young_H3715 lions_H3715, will_H6951 ask_H0559 you_H0859, ‘Have_H0859 you_H0859 come_H0935 to_H0559 take_H3947 the_H3605 plunder_H0962? Have_H0859 you_H0859 assembled_H6950 your_H3605 company_H6951 to_H0559 take_H3947 the_H3605 prey_H0957, to_H0559 carry_H5375 away_H5375 silver_H3701 and_H0935 gold_H2091, to_H0559 take_H3947 away_H5375 livestock_H4735 and_H0935 goods_H7075, to_H0559 take_H3947 great_H1419 plunder_H0962?’”’ 
 
-@14 “Therefore, son of man, prophesy, and tell Gog, ‘The Lord Yahweh says: “In that day when my people Israel dwells securely, will you not know it? 
-@15 You will come from your place out of the uttermost parts of the north, you, and many peoples with you, all of them riding on horses, a great company and a mighty army. 
-@16 You will come up against my people Israel as a cloud to cover the land. It will happen in the latter days that I will bring you against my land, that the nations may know me when I am sanctified in you, Gog, before their eyes.”
+@14 “Therefore_H3651, son_H1121 of_H1121 man_H0120, prophesy_H5012, and_H1121 tell_H0559 Gog_H1463, ‘The_H0559 Lord_H0136 Yahweh says_H0559: “In_H3427 that_H3045 day_H3117 when_H3117 my_H3045 people_H5971 Israel_H3478 dwells_H3427 securely_H0983, will_H3478 you_H3117 not_H3808 know_H3045 it_H1931? 
+@15 You_H0859 will_H6828 come_H0935 from_H0935 your_H3605 place_H4725 out_H3605 of_H3605 the_H3605 uttermost parts_H3411 of_H3605 the_H3605 north_H6828, you_H0859, and_H0935 many_H7227 peoples_H5971 with_H0854 you_H0859, all_H3605 of_H3605 them_H0935 riding_H7392 on_H7392 horses_H5483, a_H0935 great_H1419 company_H6951 and_H0935 a_H0935 mighty_H1419 army_H2428. 
+@16 You_H5921 will_H1961 come_H0935 up_H5927 against_H5921 my_H5921 people_H5971 Israel_H3478 as_H1961 a_H1961 cloud_H6051 to_H0935 cover_H3680 the_H0853 land_H0776. It_H5921 will_H1961 happen_H1961 in_H5921 the_H0853 latter_H0319 days_H3117 that_H3045 I_H3117 will_H1961 bring_H0935 you_H5921 against_H5921 my_H5921 land_H0776, that_H3045 the_H0853 nations_H1471 may_H1961 know_H3045 me_H5921 when_H1961 I_H3117 am_H1961 sanctified_H6942 in_H5921 you_H5921, Gog_H1463, before_H5869 their_H5921 eyes_H5869.”
 
 ## God's terrible judgment on Gog
-@17 “‘The Lord Yahweh says: “Are you he of whom I spoke in old time by my servants the prophets of Israel, who prophesied in those days for years that I would bring you against them? 
-@18 It will happen in that day, when Gog comes against the land of Israel,” says the Lord Yahweh, “that my wrath will come up into my nostrils. 
-@19 For in my jealousy and in the fire of my wrath I have spoken. Surely in that day there will be a great shaking in the land of Israel, 
-@20 so that the fish of the sea, the birds of the sky, the animals of the field, all creeping things who creep on the earth, and all the men who are on the surface of the earth will shake at my presence. Then the mountains will be thrown down, the steep places will fall, and every wall will fall to the ground. 
-@21 I will call for a sword against him to all my mountains,” says the Lord Yahweh. “Every man’s sword will be against his brother. 
-@22 I will enter into judgment with him with pestilence and with blood. I will rain on him, on his hordes, and on the many peoples who are with him, torrential rains with great hailstones, fire, and sulfur. 
-@23 I will magnify myself and sanctify myself, and I will make myself known in the eyes of many nations. Then they will know that I am Yahweh.”’ 
+@17 “‘The_H0853 Lord_H0136 Yahweh says_H0559: “Are_H0834 you_H0859 he_H0834 of_H3117 whom_H0834 I_H0834 spoke_H1696 in_H5921 old_H8141 time_H3117 by_H5921 my_H5921 servants_H5650 the_H0853 prophets_H5030 of_H3117 Israel_H3478, who_H0834 prophesied_H5012 in_H5921 those_H0834 days_H3117 for_H5921 years_H8141 that_H0834 I_H0834 would_H3478 bring_H0935 you_H0859 against_H5921 them_H1992? 
+@18 It_H1931 will_H1961 happen_H1961 in_H5921 that_H3117 day_H3117, when_H1961 Gog_H1463 comes_H0935 against_H5921 the_H5002 land_H0127 of_H3117 Israel_H3478,” says_H5002 the_H5002 Lord_H0136 Yahweh, “that_H3117 my_H5921 wrath_H2534 will_H1961 come_H0935 up_H5927 into_H0935 my_H5921 nostrils_H0639. 
+@19 For_H5921 in_H5921 my_H5921 jealousy_H7068 and_H3478 in_H5921 the_H5921 fire_H0784 of_H3117 my_H5921 wrath_H5678 I_H0518 have_H1961 spoken_H1696. Surely_H0518 in_H5921 that_H3117 day_H3117 there_H1961 will_H1961 be_H1961 a_H1961 great_H1419 shaking_H7494 in_H5921 the_H5921 land_H0127 of_H3117 Israel_H3478, 
+@20 so_H0834 that_H0834 the_H3605 fish_H1709 of_H0776 the_H3605 sea_H3220, the_H3605 birds_H5775 of_H0776 the_H3605 sky_H8064, the_H3605 animals_H2416 of_H0776 the_H3605 field_H7704, all_H3605 creeping_H7431 things_H3605 who_H0834 creep_H7430 on_H5921 the_H3605 earth_H0776, and_H0776 all_H3605 the_H3605 men_H0120 who_H0834 are_H0834 on_H5921 the_H3605 surface_H6440 of_H0776 the_H3605 earth_H0776 will_H0776 shake_H7493 at_H5921 my_H3605 presence_H6440. Then_H5307 the_H3605 mountains_H2022 will_H0776 be_H0776 thrown_H2040 down_H5307, the_H3605 steep_H4095 places_H2040 will_H0776 fall_H5307, and_H0776 every_H3605 wall_H2346 will_H0776 fall_H5307 to_H5921 the_H3605 ground_H0776. 
+@21 I_H5921 will_H1961 call_H7121 for_H5921 a_H1961 sword_H2719 against_H5921 him_H5921 to_H1961 all_H3605 my_H3605 mountains_H2022,” says_H5002 the_H3605 Lord_H0136 Yahweh. “Every_H3605 man’s_H0376 sword_H2719 will_H1961 be_H1961 against_H5921 his_H3605 brother_H0251. 
+@22 I_H0834 will_H0834 enter_H8199 into_H8199 judgment_H8199 with_H0854 him_H5921 with_H0854 pestilence_H1698 and_H0068 with_H0854 blood_H1818. I_H0834 will_H0834 rain_H1653 on_H5921 him_H5921, on_H5921 his_H5921 hordes, and_H0068 on_H5921 the_H0853 many_H7227 peoples_H5971 who_H0834 are_H0834 with_H0854 him_H5921, torrential_H7857 rains_H1653 with_H0854 great_H7227 hailstones_H0068, fire_H0784, and_H0068 sulfur_H1614. 
+@23 I_H0589 will_H3068 magnify_H1431 myself_H0589 and_H3068 sanctify_H6942 myself_H0589, and_H3068 I_H0589 will_H3068 make_H3045 myself_H0589 known_H3045 in_H3068 the_H3588 eyes_H5869 of_H3068 many_H7227 nations_H1471. Then_H3045 they_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068.”’ 
 
 # 39 
 ## Another announcement of the fall of Gog
-@1 “You, son of man, prophesy against Gog, and say, ‘The Lord Yahweh says: “Behold, I am against you, Gog, prince of Rosh, Meshech, and Tubal. 
-@2 I will turn you around, will lead you on, and will cause you to come up from the uttermost parts of the north; and I will bring you onto the mountains of Israel. 
-@3 I will strike your bow out of your left hand, and will cause your arrows to fall out of your right hand. 
-@4 You will fall on the mountains of Israel, you, and all your hordes, and the peoples who are with you. I will give you to the ravenous birds of every sort and to the animals of the field to be devoured. 
-@5 You will fall on the open field, for I have spoken it,” says the Lord Yahweh. 
-@6 “I will send a fire on Magog and on those who dwell securely in the islands. Then they will know that I am Yahweh. 
+@1 “You_H0859, son_H1121 of_H1121 man_H0120, prophesy_H5012 against_H5921 Gog_H1463, and_H1121 say_H0559, ‘The_H0559 Lord_H0136 Yahweh says_H0559: “Behold_H2005, I_H2005 am_H2005 against_H5921 you_H0859, Gog_H1463, prince_H5387 of_H1121 Rosh, Meshech_H4902, and_H1121 Tubal_H8422. 
+@2 I_H5921 will_H3478 turn_H7725 you_H5921 around_H5921, will_H3478 lead_H5927 you_H5921 on_H5921, and_H0935 will_H3478 cause_H7725 you_H5921 to_H0935 come_H0935 up_H5927 from_H7725 the_H5921 uttermost parts_H3411 of_H2022 the_H5921 north_H6828; and_H0935 I_H5921 will_H3478 bring_H0935 you_H5921 onto_H5921 the_H5921 mountains_H2022 of_H2022 Israel_H3478. 
+@3 I_H3027 will_H3027 strike_H5221 your_H5221 bow_H7198 out_H3027 of_H3027 your_H5221 left_H8040 hand_H3027, and_H3027 will_H3027 cause your_H5221 arrows_H2671 to_H3027 fall_H5307 out_H3027 of_H3027 your_H5221 right_H3225 hand_H3027. 
+@4 You_H0859 will_H0834 fall_H5307 on_H5921 the_H3605 mountains_H2022 of_H2022 Israel_H3478, you_H0859, and_H3478 all_H3605 your_H3605 hordes, and_H3478 the_H3605 peoples_H5971 who_H0834 are_H0834 with_H0854 you_H0859. I_H0834 will_H0834 give_H5414 you_H0859 to_H5921 the_H3605 ravenous birds_H6833 of_H2022 every_H3605 sort and_H3478 to_H5921 the_H3605 animals_H2416 of_H2022 the_H3605 field_H7704 to_H5921 be_H3478 devoured. 
+@5 You_H3588 will_H7704 fall_H5307 on_H5921 the_H6440 open_H6440 field_H7704, for_H3588 I_H0589 have_H0589 spoken_H1696 it_H5921,” says_H5002 the_H6440 Lord_H0136 Yahweh. 
+@6 “I_H0589 will_H3068 send_H7971 a_H3588 fire_H0784 on_H3427 Magog_H4031 and_H3068 on_H3427 those_H3588 who_H3068 dwell_H3427 securely_H0983 in_H3427 the_H3588 islands_H0339. Then_H7971 they_H3588 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068. 
 
-@7 “‘“I will make my holy name known among my people Israel. I won’t allow my holy name to be profaned any more. Then the nations will know that I am Yahweh, the Holy One in Israel. 
-@8 Behold, it comes, and it will be done,” says the Lord Yahweh. “This is the day about which I have spoken.
+@7 “‘“I_H0589 will_H3068 make_H3045 my_H3068 holy_H6944 name_H8034 known_H3045 among_H8432 my_H3068 people_H5971 Israel_H3478. I_H0589 won’t_H3808 allow my_H3068 holy_H6944 name_H8034 to_H3068 be_H5750 profaned_H2490 any_H5750 more_H5750. Then_H0853 the_H0853 nations_H1471 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068, the_H0853 Holy_H6944 One_H6918 in_H3068 Israel_H3478. 
+@8 Behold_H2009, it_H1931 comes_H0935, and_H0935 it_H1931 will_H1961 be_H1961 done_H1961,” says_H5002 the_H0834 Lord_H0136 Yahweh. “This_H1931 is_H0834 the_H0834 day_H3117 about_H1961 which_H0834 I_H0834 have_H1961 spoken_H1696.
 
 ## Defeat and burial of mobs of Gogs
-@9 “‘“Those who dwell in the cities of Israel will go out and will make fires of the weapons and burn them, both the shields and the bucklers, the bows and the arrows, and the war clubs and the spears, and they will make fires with them for seven years; 
-@10 so that they will take no wood out of the field, and not cut down any out of the forests; for they will make fires with the weapons. They will plunder those who plundered them, and rob those who robbed them,” says the Lord Yahweh. 
+@9 “‘“Those who_H3478 dwell_H3427 in_H3427 the_H3318 cities_H5892 of_H3027 Israel_H3478 will_H3478 go_H3318 out_H3318 and_H3478 will_H3478 make_H3027 fires_H0784 of_H3027 the_H3318 weapons_H5402 and_H3478 burn_H1197 them_H3318, both the_H3318 shields_H4043 and_H3478 the_H3318 bucklers, the_H3318 bows_H7198 and_H3478 the_H3318 arrows_H2671, and_H3478 the_H3318 war_H4731 clubs_H4731 and_H3478 the_H3318 spears_H7420, and_H3478 they_H8141 will_H3478 make_H3027 fires_H0784 with_H3427 them_H3318 for_H3027 seven_H7651 years_H8141; 
+@10 so_H4480 that_H3588 they_H3588 will_H7704 take_H5375 no_H3808 wood_H6086 out_H4480 of_H4480 the_H0853 field_H7704, and_H6086 not_H3808 cut_H2404 down_H3588 any_H4480 out_H4480 of_H4480 the_H0853 forests_H6086; for_H3588 they_H3588 will_H7704 make_H5375 fires_H0784 with_H6086 the_H0853 weapons_H5402. They_H3588 will_H7704 plunder_H0962 those_H4480 who_H2404 plundered_H0962 them_H0853, and_H6086 rob those_H4480 who_H2404 robbed_H7997 them_H0853,” says_H5002 the_H0853 Lord_H0136 Yahweh. 
 
-@11 “‘“It will happen in that day, that I will give to Gog a place for burial in Israel, the valley of those who pass through on the east of the sea; and it will stop those who pass through. They will bury Gog and all his multitude there, and they will call it ‘The valley of Hamon Gog’. 
+@11 “‘“It_H5414 will_H1961 happen_H1961 in_H3478 that_H3605 day_H3117, that_H3605 I_H5414 will_H1961 give_H5414 to_H1961 Gog_H1463 a_H1961 place_H4725 for_H7121 burial_H6913 in_H3478 Israel_H3478, the_H3605 valley_H1516 of_H3117 those_H3605 who_H3605 pass_H5674 through_H5674 on_H3117 the_H3605 east_H6926 of_H3117 the_H3605 sea_H3220; and_H3478 it_H5414 will_H1961 stop those_H3605 who_H3605 pass_H5674 through_H5674. They_H8033 will_H1961 bury_H6912 Gog_H1463 and_H3478 all_H3605 his_H3605 multitude_H1995 there_H8033, and_H3478 they_H8033 will_H1961 call_H7121 it_H5414 ‘The_H3605 valley_H1516 of_H3117 Hamon Gog’. 
 
-@12 “‘“The house of Israel will be burying them for seven months, that they may cleanse the land. 
-@13 Yes, all the people of the land will bury them; and they will become famous in the day that I will be glorified,” says the Lord Yahweh. 
+@12 “‘“The_H0853 house_H1004 of_H0776 Israel_H3478 will_H0776 be_H3478 burying_H6912 them_H0853 for_H0776 seven_H7651 months_H2320, that_H4616 they_H2320 may_H0776 cleanse_H2891 the_H0853 land_H0776. 
+@13 Yes, all_H3605 the_H3605 people_H5971 of_H0776 the_H3605 land_H0776 will_H1961 bury_H6912 them_H1961; and_H0776 they_H3117 will_H1961 become_H1961 famous_H8034 in_H0776 the_H3605 day_H3117 that_H3605 I_H3117 will_H1961 be_H1961 glorified_H3513,” says_H5002 the_H3605 Lord_H0136 Yahweh. 
 
-@14 “‘“They will set apart men of continual employment who will pass through the land. Those who pass through will go with those who bury those who remain on the surface of the land, to cleanse it. After the end of seven months they will search. 
-@15 Those who search through the land will pass through; and when anyone sees a man’s bone, then he will set up a sign by it, until the undertakers have buried it in the valley of Hamon Gog. 
-@16 Hamonah will also be the name of a city. Thus they will cleanse the land.”’
+@14 “‘“They_H5921 will_H0776 set_H0914 apart_H0914 men_H0376 of_H0776 continual_H8548 employment who_H0376 will_H0776 pass_H5674 through_H5674 the_H0853 land_H0776. Those_H0376 who_H0376 pass_H5674 through_H5674 will_H0776 go_H5674 with_H5921 those_H0376 who_H0376 bury_H6912 those_H0376 who_H0376 remain_H3498 on_H5921 the_H0853 surface_H6440 of_H0776 the_H0853 land_H0776, to_H5921 cleanse_H2891 it_H5921. After_H5921 the_H0853 end_H7097 of_H0776 seven_H7651 months_H2320 they_H5921 will_H0776 search_H2713. 
+@15 Those_H0853 who_H0120 search_H7200 through_H5674 the_H0853 land_H0776 will_H0776 pass_H5674 through_H5674; and_H0776 when_H7200 anyone_H0120 sees_H7200 a_H1129 man’s_H0120 bone_H6106, then_H0853 he_H5704 will_H0776 set_H1129 up_H7200 a_H1129 sign by_H0413 it_H5704, until_H5704 the_H0853 undertakers have_H0776 buried_H6912 it_H5704 in_H0413 the_H0853 valley_H1516 of_H0776 Hamon Gog. 
+@16 Hamonah_H1997 will_H0776 also_H1571 be_H1571 the_H1571 name_H8034 of_H0776 a_H0776 city_H5892. Thus they_H1571 will_H0776 cleanse_H2891 the_H1571 land_H0776.”’
 
 ## Invitation of birds and predators to a great sacrificial meal
-@17 “You, son of man, the Lord Yahweh says: ‘Speak to the birds of every sort, and to every animal of the field, “Assemble yourselves, and come; gather yourselves on every side to my sacrifice that I sacrifice for you, even a great sacrifice on the mountains of Israel, that you may eat meat and drink blood. 
-@18 You shall eat the flesh of the mighty, and drink the blood of the princes of the earth, of rams, of lambs, and of goats, of bulls, all of them fatlings of Bashan. 
-@19 You shall eat fat until you are full, and drink blood until you are drunk, of my sacrifice which I have sacrificed for you. 
-@20 You shall be filled at my table with horses and charioteers, with mighty men, and with all men of war,” says the Lord Yahweh.’
+@17 “You_H0859, son_H1121 of_H1121 man_H0120, the_H3605 Lord_H0136 Yahweh says_H0559: ‘Speak_H0559 to_H0559 the_H3605 birds_H6833 of_H1121 every_H3605 sort, and_H1121 to_H0559 every_H3605 animal_H2416 of_H1121 the_H3605 field_H7704, “Assemble_H0622 yourselves_H0859, and_H1121 come_H0935; gather_H6908 yourselves_H0859 on_H5921 every_H3605 side_H5439 to_H0559 my_H3605 sacrifice_H2077 that_H0834 I_H0589 sacrifice_H2077 for_H5921 you_H0859, even_H3541 a_H0935 great_H1419 sacrifice_H2077 on_H5921 the_H3605 mountains_H2022 of_H1121 Israel_H3478, that_H0834 you_H0859 may_H0120 eat_H0398 meat_H1320 and_H1121 drink_H8354 blood_H1818. 
+@18 You_H3605 shall_H0776 eat_H0398 the_H3605 flesh_H1320 of_H0776 the_H3605 mighty_H1368, and_H0776 drink_H8354 the_H3605 blood_H1818 of_H0776 the_H3605 princes_H5387 of_H0776 the_H3605 earth_H0776, of_H0776 rams_H0352, of_H0776 lambs_H3733, and_H0776 of_H0776 goats_H6260, of_H0776 bulls_H6499, all_H3605 of_H0776 them_H0398 fatlings_H4806 of_H0776 Bashan_H1316. 
+@19 You_H0834 shall_H0834 eat_H0398 fat_H2459 until you_H0834 are_H0834 full, and_H0398 drink_H8354 blood_H1818 until you_H0834 are_H0834 drunk_H8354, of_H2077 my_H0834 sacrifice_H2077 which_H0834 I_H0834 have_H0834 sacrificed_H2076 for_H2077 you_H0834. 
+@20 You_H3605 shall_H0376 be_H0376 filled_H7646 at_H5921 my_H3605 table_H7979 with_H5921 horses_H5483 and_H0376 charioteers_H7393, with_H5921 mighty_H1368 men_H0376, and_H0376 with_H5921 all_H3605 men_H0376 of_H0376 war_H4421,” says_H5002 the_H3605 Lord_H0136 Yahweh.’
 
 ## Recognition of God by Gentiles
-@21 “I will set my glory among the nations. Then all the nations will see my judgment that I have executed, and my hand that I have laid on them. 
-@22 So the house of Israel will know that I am Yahweh their God, from that day and forward. 
-@23 The nations will know that the house of Israel went into captivity for their iniquity, because they trespassed against me, and I hid my face from them; so I gave them into the hand of their adversaries, and they all fell by the sword. 
-@24 I did to them according to their uncleanness and according to their transgressions. I hid my face from them.
+@21 “I_H0834 will_H0834 set_H7760 my_H3605 glory_H3519 among the_H3605 nations_H1471. Then_H0853 all_H3605 the_H3605 nations_H1471 will_H0834 see_H7200 my_H3605 judgment_H4941 that_H0834 I_H0834 have_H0834 executed, and_H3027 my_H3605 hand_H3027 that_H0834 I_H0834 have_H0834 laid_H7760 on_H7200 them_H5414. 
+@22 So_H4480 the_H3588 house_H1004 of_H1004 Israel_H3478 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068 their_H3068 God_H0430, from_H4480 that_H3588 day_H3117 and_H3068 forward_H1973. 
+@23 The_H3605 nations_H1471 will_H0834 know_H3045 that_H0834 the_H3605 house_H1004 of_H1004 Israel_H3478 went_H6440 into_H1540 captivity_H1540 for_H3588 their_H3605 iniquity_H5771, because_H3588 they_H1992 trespassed against_H5921 me_H5414, and_H3478 I_H0834 hid_H5641 my_H3605 face_H6440 from_H5921 them_H5414; so_H5414 I_H0834 gave_H5414 them_H5414 into_H1540 the_H3605 hand_H3027 of_H1004 their_H3605 adversaries, and_H3478 they_H1992 all_H3605 fell_H5307 by_H5921 the_H3605 sword_H2719. 
+@24 I_H6588 did_H6213 to_H6440 them_H1992 according to_H6440 their_H1992 uncleanness_H2932 and_H6440 according to_H6440 their_H1992 transgressions_H6588. I_H6588 hid_H5641 my_H5641 face_H6440 from_H6440 them_H1992.
 
 ## Verheißung der Begnadigung Israels und seiner Rückkehr in die Heimat
-@25 “Therefore the Lord Yahweh says: ‘Now I will reverse the captivity of Jacob and have mercy on the whole house of Israel. I will be jealous for my holy name. 
-@26 They will forget their shame and all their trespasses by which they have trespassed against me, when they dwell securely in their land. No one will make them afraid 
-@27 when I have brought them back from the peoples, gathered them out of their enemies’ lands, and am shown holy among them in the sight of many nations. 
-@28 They will know that I am Yahweh their God, in that I caused them to go into captivity among the nations, and have gathered them to their own land. Then I will leave none of them captive any more. 
-@29 I won’t hide my face from them any more, for I have poured out my Spirit on the house of Israel,’ says the Lord Yahweh.” 
+@25 “Therefore_H3651 the_H3605 Lord_H0136 Yahweh says_H0559: ‘Now_H6258 I_H3541 will_H3478 reverse_H7725 the_H3605 captivity_H7622 of_H1004 Jacob_H3290 and_H3478 have_H7355 mercy_H7355 on_H1004 the_H3605 whole_H3605 house_H1004 of_H1004 Israel_H3478. I_H3541 will_H3478 be_H8034 jealous_H7065 for_H1004 my_H3605 holy_H6944 name_H8034. 
+@26 They_H0834 will_H0834 forget_H5375 their_H3605 shame_H3639 and_H3427 all_H3605 their_H3605 trespasses by_H5921 which_H0834 they_H0834 have_H0834 trespassed against_H5921 me_H5921, when_H0834 they_H0834 dwell_H3427 securely_H0983 in_H3427 their_H3605 land_H0127. No_H0369 one_H0369 will_H0834 make_H2729 them_H0853 afraid_H2729 
+@27 when_H7725 I_H0776 have_H5869 brought_H7725 them_H0853 back_H7725 from_H4480 the_H0853 peoples_H5971, gathered_H6908 them_H0853 out_H4480 of_H0776 their_H7725 enemies’ lands_H0776, and_H0776 am shown holy_H6942 among_H4480 them_H0853 in_H0776 the_H0853 sight_H5869 of_H0776 many_H7227 nations_H1471. 
+@28 They_H1992 will_H3068 know_H3045 that_H3588 I_H0589 am_H0589 Yahweh_H3068 their_H3068 God_H0430, in_H5921 that_H3588 I_H0589 caused_H0430 them_H0413 to_H0413 go_H1540 into_H0413 captivity_H1540 among_H5921 the_H0853 nations_H1471, and_H3068 have_H3045 gathered_H3588 them_H0413 to_H0413 their_H3068 own land_H0127. Then_H0853 I_H0589 will_H3068 leave_H3498 none_H3808 of_H0430 them_H0413 captive_H1540 any_H5750 more_H5750. 
+@29 I_H0834 won’t_H3808 hide_H5641 my_H5921 face_H6440 from_H5921 them_H1992 any_H5750 more_H5750, for_H5921 I_H0834 have_H0834 poured_H8210 out_H8210 my_H5921 Spirit_H7307 on_H5921 the_H0853 house_H1004 of_H1004 Israel_H3478,’ says_H5002 the_H0853 Lord_H0136 Yahweh.” 
 
 # 40 
 ## The abduction of Ezekiel and the appearance of a heavenly guide
-@1 In the twenty-fifth year of our captivity, in the beginning of the year, in the tenth day of the month, in the fourteenth year after the city was struck, in the same day, Yahweh’s hand was on me, and he brought me there. 
-@2 In the visions of God he brought me into the land of Israel, and set me down on a very high mountain, on which was something like the frame of a city to the south. 
-@3 He brought me there; and, behold, there was a man whose appearance was like the appearance of bronze, with a line of flax in his hand and a measuring reed; and he stood in the gate. 
-@4 The man said to me, “Son of man, see with your eyes, and hear with your ears, and set your heart on all that I will show you; for you have been brought here so that I may show them to you. Declare all that you see to the house of Israel.”
+@1 In_H5921 the_H0853 twenty-fifth year_H8141 of_H3068 our_H3068 captivity, in_H5921 the_H0853 beginning_H7218 of_H3068 the_H0853 year_H8141, in_H5921 the_H0853 tenth_H6218 day_H3117 of_H3068 the_H0853 month_H2320, in_H5921 the_H0853 fourteenth year_H8141 after_H0310 the_H0853 city_H5892 was_H1961 struck_H5221, in_H5921 the_H0853 same_H6106 day_H3117, Yahweh’s_H3068 hand_H3027 was_H1961 on_H5921 me_H5921, and_H0935 he_H0834 brought_H0935 me_H5921 there_H8033. 
+@2 In_H5921 the_H5921 visions_H4759 of_H0776 God_H0430 he_H0430 brought_H0935 me_H0413 into_H0413 the_H5921 land_H0776 of_H0776 Israel_H3478, and_H0935 set_H0935 me_H0413 down_H5117 on_H5921 a_H0935 very_H3966 high_H1364 mountain_H2022, on_H5921 which_H2022 was_H0776 something like_H0776 the_H5921 frame of_H0776 a_H0935 city_H5892 to_H0413 the_H5921 south_H5045. 
+@3 He_H1931 brought_H0935 me_H0935 there_H8033; and_H0935, behold_H2009, there_H8033 was_H1931 a_H0935 man_H0376 whose_H0376 appearance_H4758 was_H1931 like_H4758 the_H0853 appearance_H4758 of_H0376 bronze_H5178, with_H0935 a_H0935 line_H0935 of_H0376 flax_H6593 in_H0935 his_H0376 hand_H3027 and_H0935 a_H0935 measuring_H7070 reed_H7070; and_H0935 he_H1931 stood_H5975 in_H0935 the_H0853 gate_H8179. 
+@4 The_H3605 man_H0376 said_H1696 to_H0413 me_H0413, “Son_H1121 of_H1121 man_H0376, see_H7200 with_H0413 your_H3605 eyes_H5869, and_H1121 hear_H8085 with_H0413 your_H3605 ears_H0241, and_H1121 set_H7760 your_H3605 heart_H3820 on_H0413 all_H3605 that_H0834 I_H0589 will_H0834 show_H7200 you_H0859; for_H3588 you_H0859 have_H0834 been_H0834 brought_H0935 here_H2008 so_H4616 that_H0834 I_H0589 may_H0376 show_H7200 them_H0413 to_H0413 you_H0859. Declare_H5046 all_H3605 that_H0834 you_H0859 see_H7200 to_H0413 the_H3605 house_H1004 of_H1121 Israel_H3478.”
 
 ## The outer perimeter wall and the outer east gate
-@5 Behold, there was a wall on the outside of the house all around, and in the man’s hand a measuring reed six cubits^a^ long, of a cubit and a hand width each. So he measured the thickness of the building, one reed; and the height, one reed. 
+@5 Behold_H2009, there_H2009 was_H0376 a_H0259 wall_H2346 on_H3027 the_H0853 outside_H2351 of_H1004 the_H0853 house_H1004 all_H5439 around_H5439, and_H3027 in_H1004 the_H0853 man’s_H0376 hand_H3027 a_H0259 measuring_H7070 reed_H7070 six_H8337 cubits_H0520^a^ long_H2948, of_H1004 a_H0259 cubit_H0520 and_H3027 a_H0259 hand_H3027 width_H7341 each_H0376. So_H3027 he_H0853 measured_H4058 the_H0853 thickness_H7341 of_H1004 the_H0853 building_H1146, one_H0259 reed_H7070; and_H3027 the_H0853 height_H6967, one_H0259 reed_H7070. 
 ^a^[**40:5** A normal cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters. A handbreadth is about 4.3 inches or 11 centimeters, so the long cubit described here would be about 22.3 inches or 57 centimeters long. Thus, a 6 long cubit measuring reed would have been about 3 yards 26.6 inches or about 3.42 meters long.]
 
-@6 Then he came to the gate which looks toward the east, and went up its steps. He measured the threshold of the gate, one reed wide; and the other threshold, one reed wide. 
-@7 Every lodge was one reed long and one reed wide. Between the lodges was five cubits. The threshold of the gate by the porch of the gate toward the house was one reed. 
+@6 Then_H0853 he_H0834 came_H0935 to_H0413 the_H0853 gate_H8179 which_H0834 looks toward_H0413 the_H0853 east_H6921, and_H0935 went_H0935 up_H5927 its_H0853 steps_H4609. He_H0834 measured_H4058 the_H0853 threshold of_H8179 the_H0853 gate_H8179, one_H0259 reed_H7070 wide_H7341; and_H0935 the_H0853 other_H0259 threshold, one_H0259 reed_H7070 wide_H7341. 
+@7 Every_H0259 lodge was_H0259 one_H0259 reed_H7070 long_H0753 and_H1004 one_H0259 reed_H7070 wide_H7341. Between_H0996 the_H0996 lodges was_H0259 five_H2568 cubits_H0520. The_H0996 threshold of_H1004 the_H0996 gate_H8179 by_H0681 the_H0996 porch_H0197 of_H1004 the_H0996 gate_H8179 toward_H0259 the_H0996 house_H1004 was_H0259 one_H0259 reed_H7070. 
 
-@8 He measured also the porch of the gate toward the house, one reed. 
-@9 Then he measured the porch of the gate, eight cubits; and its posts, two cubits; and the porch of the gate was toward the house. 
+@8 He_H0853 measured_H4058 also_H0853 the_H0853 porch_H0197 of_H1004 the_H0853 gate_H8179 toward_H0259 the_H0853 house_H1004, one_H0259 reed_H7070. 
+@9 Then_H0853 he_H0853 measured_H4058 the_H0853 porch_H0197 of_H1004 the_H0853 gate_H8179, eight_H8083 cubits_H0520; and_H1004 its_H0853 posts, two_H8147 cubits_H0520; and_H1004 the_H0853 porch_H0197 of_H1004 the_H0853 gate_H8179 was_H1004 toward the_H0853 house_H1004. 
 
-@10 The side rooms of the gate eastward were three on this side, and three on that side. The three of them were of one measure. The posts had one measure on this side and on that side. 
-@11 He measured the width of the opening of the gate, ten cubits; and the length of the gate, thirteen cubits; 
-@12 and a border before the lodges, one cubit on this side, and a border, one cubit on that side; and the side rooms, six cubits on this side, and six cubits on that side. 
-@13 He measured the gate from the roof of the one side room to the roof of the other, a width of twenty-five cubits, door against door. 
-@14 He also made posts, sixty cubits; and the court reached to the posts, around the gate. 
-@15 From the forefront of the gate at the entrance to the forefront of the inner porch of the gate were fifty cubits. 
-@16 There were closed windows to the side rooms, and to their posts within the gate all around, and likewise to the arches. Windows were around inward. Palm trees were on each post.
+@10 The_H1870 side_H6311 rooms of_H8179 the_H1870 gate_H8179 eastward were_H7969 three_H7969 on_H1870 this side_H6311, and_H1870 three_H7969 on_H1870 that_H1870 side_H6311. The_H1870 three_H7969 of_H8179 them_H1870 were_H7969 of_H8179 one_H0259 measure. The_H1870 posts had_H0259 one_H0259 measure on_H1870 this side_H6311 and_H1870 on_H1870 that_H1870 side_H6311. 
+@11 He_H0853 measured_H4058 the_H0853 width_H7341 of_H8179 the_H0853 opening_H6607 of_H8179 the_H0853 gate_H8179, ten_H6235 cubits_H0520; and_H0753 the_H0853 length_H0753 of_H8179 the_H0853 gate_H8179, thirteen_H6240 cubits_H0520; 
+@12 and_H6440 a_H0259 border_H1366 before_H6440 the_H6440 lodges, one_H0259 cubit_H0520 on_H0259 this side_H6311, and_H6440 a_H0259 border_H1366, one_H0259 cubit_H0520 on_H0259 that side_H6311; and_H6440 the_H6440 side_H6311 rooms, six_H8337 cubits_H0520 on_H0259 this side_H6311, and_H6440 six_H8337 cubits_H0520 on_H0259 that side_H6311. 
+@13 He_H0853 measured_H4058 the_H0853 gate_H8179 from_H0520 the_H0853 roof_H1406 of_H8179 the_H0853 one_H7341 side_H5048 room_H8372 to_H8179 the_H0853 roof_H1406 of_H8179 the_H0853 other_H5048, a_H4058 width_H7341 of_H8179 twenty-five_H2568 cubits_H0520, door_H6607 against_H5048 door_H6607. 
+@14 He_H6213 also_H0853 made_H6213 posts, sixty_H8346 cubits_H0520; and_H0853 the_H0853 court_H2691 reached to_H0413 the_H0853 posts, around_H5439 the_H0853 gate_H8179. 
+@15 From_H5921 the_H6440 forefront of_H8179 the_H6440 gate_H8179 at_H5921 the_H6440 entrance_H8179 to_H5921 the_H6440 forefront of_H8179 the_H6440 inner_H6442 porch_H0197 of_H8179 the_H6440 gate_H8179 were_H6440 fifty_H2572 cubits_H0520. 
+@16 There were_H8179 closed windows_H2474 to_H0413 the_H0413 side_H5439 rooms_H5439, and_H8179 to_H0413 their_H0413 posts within_H6441 the_H0413 gate_H8179 all_H5439 around_H5439, and_H8179 likewise_H3651 to_H0413 the_H0413 arches. Windows_H2474 were_H8179 around_H5439 inward. Palm_H8561 trees_H8561 were_H8179 on_H0413 each_H5439 post.
 
 ## The outer court
-@17 Then he brought me into the outer court. Behold, there were rooms and a pavement made for the court all around. Thirty rooms were on the pavement. 
-@18 The pavement was by the side of the gates, corresponding to the length of the gates, even the lower pavement. 
-@19 Then he measured the width from the forefront of the lower gate to the forefront of the inner court outside, one hundred cubits, both on the east and on the north.
+@17 Then_H2009 he_H6213 brought_H0935 me_H0413 into_H0413 the_H0413 outer_H2435 court_H2691. Behold_H2009, there_H2009 were_H2009 rooms_H3957 and_H0935 a_H0935 pavement_H7531 made_H6213 for_H0413 the_H0413 court_H2691 all_H5439 around_H5439. Thirty_H7970 rooms_H3957 were_H2009 on_H0413 the_H0413 pavement_H7531. 
+@18 The_H0413 pavement_H7531 was_H0753 by_H0413 the_H0413 side_H3802 of_H8179 the_H0413 gates_H8179, corresponding_H5980 to_H0413 the_H0413 length_H0753 of_H8179 the_H0413 gates_H8179, even the_H0413 lower_H8481 pavement_H7531. 
+@19 Then he_H4058 measured_H4058 the_H6440 width_H7341 from_H6440 the_H6440 forefront of_H8179 the_H6440 lower_H8481 gate_H8179 to_H6440 the_H6440 forefront of_H8179 the_H6440 inner_H6442 court_H2691 outside_H2351, one_H3967 hundred_H3967 cubits_H0520, both on_H0520 the_H6440 east_H6921 and_H3967 on_H0520 the_H6440 north_H6828.
 
 ## The north outer gate and the south outer gate
-@20 He measured the length and width of the gate of the outer court which faces toward the north. 
-@21 The lodges of it were three on this side and three on that side. Its posts and its arches were the same as the measure of the first gate: its length was fifty cubits, and the width twenty-five cubits. 
-@22 Its windows, its arches, and its palm trees were the same as the measure of the gate which faces toward the east. They went up to it by seven steps. Its arches were before them. 
-@23 There was a gate to the inner court facing the other gate, on the north and on the east. He measured one hundred cubits from gate to gate. 
+@20 He_H0834 measured_H4058 the_H6440 length_H0753 and_H1870 width_H7341 of_H8179 the_H6440 gate_H8179 of_H8179 the_H6440 outer_H2435 court_H2691 which_H0834 faces_H6440 toward_H1870 the_H6440 north_H6828. 
+@21 The_H1961 lodges of_H8179 it_H1961 were_H1961 three_H7969 on_H1961 this side_H6311 and_H0753 three_H7969 on_H1961 that_H1961 side_H6311. Its_H1961 posts and_H0753 its_H1961 arches were_H1961 the_H1961 same as_H1961 the_H1961 measure_H0520 of_H8179 the_H1961 first_H7223 gate_H8179: its_H1961 length_H0753 was_H1961 fifty_H2572 cubits_H0520, and_H0753 the_H1961 width_H7341 twenty-five_H2568 cubits_H0520. 
+@22 Its_H5927 windows_H2474, its_H5927 arches, and_H1870 its_H5927 palm_H8561 trees_H8561 were_H0834 the_H6440 same as_H0834 the_H6440 measure of_H8179 the_H6440 gate_H8179 which_H0834 faces_H6440 toward_H1870 the_H6440 east_H6921. They_H0834 went_H5927 up_H5927 to_H6440 it_H6440 by_H1870 seven_H7651 steps_H4609. Its_H5927 arches were_H0834 before_H6440 them_H6440. 
+@23 There was_H8179 a_H4058 gate_H8179 to_H0413 the_H0413 inner_H6442 court_H2691 facing the_H0413 other_H5048 gate_H8179, on_H0413 the_H0413 north_H6828 and_H3967 on_H0413 the_H0413 east_H6921. He_H4058 measured_H4058 one_H3967 hundred_H3967 cubits_H0520 from_H0413 gate_H8179 to_H0413 gate_H8179. 
 
-@24 He led me toward the south; and behold, there was a gate toward the south. He measured its posts and its arches according to these measurements. 
-@25 There were windows in it and in its arches all around, like the other windows: the length was fifty cubits, and the width twenty-five cubits. 
-@26 There were seven steps to go up to it, and its arches were before them. It had palm trees, one on this side, and another on that side, on its posts. 
-@27 There was a gate to the inner court toward the south. He measured one hundred cubits from gate to gate toward the south.
+@24 He_H4058 led me toward_H1870 the_H1870 south_H1864; and_H1870 behold_H2009, there_H2009 was_H1870 a_H4058 gate_H8179 toward_H1870 the_H1870 south_H1864. He_H4058 measured_H4058 its_H4058 posts and_H1870 its_H4058 arches according to_H1870 these_H0428 measurements. 
+@25 There were_H0428 windows_H2474 in_H0520 it_H5439 and_H0753 in_H0520 its_H5439 arches all_H5439 around_H5439, like_H5439 the_H5439 other_H0428 windows_H2474: the_H5439 length_H0753 was_H0753 fifty_H2572 cubits_H0520, and_H0753 the_H5439 width_H7341 twenty-five_H2568 cubits_H0520. 
+@26 There were_H6440 seven_H7651 steps_H4609 to_H0413 go up_H0413 to_H0413 it_H6440, and_H6440 its_H6440 arches were_H6440 before_H6440 them_H0413. It_H6440 had_H0361 palm_H8561 trees_H8561, one_H0259 on_H0413 this side_H6311, and_H6440 another_H0259 on_H0413 that_H0413 side_H6311, on_H0413 its_H6440 posts. 
+@27 There was_H8179 a_H4058 gate_H8179 to_H0413 the_H0413 inner_H6442 court_H2691 toward_H0413 the_H0413 south_H1864. He_H4058 measured_H4058 one_H3967 hundred_H3967 cubits_H0520 from_H0413 gate_H8179 to_H0413 gate_H8179 toward_H0413 the_H0413 south_H1864.
 
 ## The three gates of the inner courtyard
-@28 Then he brought me to the inner court by the south gate. He measured the south gate according to these measurements; 
-@29 with its lodges, its posts, and its arches, according to these measurements. There were windows in it and in its arches all around. It was fifty cubits long, and twenty-five cubits wide. 
-@30 There were arches all around, twenty-five cubits long and five cubits wide. 
-@31 Its arches were toward the outer court. Palm trees were on its posts. The ascent to it had eight steps. 
+@28 Then_H0853 he_H0853 brought_H0935 me_H0413 to_H0413 the_H0853 inner_H6442 court_H2691 by_H0413 the_H0853 south_H1864 gate_H8179. He_H0853 measured_H4058 the_H0853 south_H1864 gate_H8179 according_H0413 to_H0413 these_H0428 measurements; 
+@29 with_H6242 its_H5439 lodges, its_H5439 posts, and_H0753 its_H5439 arches, according to_H0428 these_H0428 measurements. There_H4060 were_H0428 windows_H2474 in_H0520 it_H5439 and_H0753 in_H0520 its_H5439 arches all_H5439 around_H5439. It_H5439 was_H0753 fifty_H2572 cubits_H0520 long_H0753, and_H0753 twenty-five_H2568 cubits_H0520 wide_H7341. 
+@30 There were_H5439 arches all_H5439 around_H5439, twenty-five_H2568 cubits_H0520 long_H0753 and_H0753 five_H2568 cubits_H0520 wide_H7341. 
+@31 Its arches were_H8561 toward_H0413 the_H0413 outer_H2435 court_H2691. Palm_H8561 trees_H8561 were_H8561 on_H0413 its posts. The_H0413 ascent_H4608 to_H0413 it had_H0361 eight_H8083 steps_H4609. 
 
-@32 He brought me into the inner court toward the east. He measured the gate according to these measurements; 
-@33 with its lodges, its posts, and its arches, according to these measurements. There were windows in it and in its arches all around. It was fifty cubits long, and twenty-five cubits wide. 
-@34 Its arches were toward the outer court. Palm trees were on its posts on this side and on that side. The ascent to it had eight steps. 
+@32 He_H0853 brought_H0935 me_H0413 into_H0413 the_H0853 inner_H6442 court_H2691 toward_H0413 the_H0853 east_H6921. He_H0853 measured_H4058 the_H0853 gate_H8179 according_H0413 to_H0413 these_H0428 measurements; 
+@33 with_H6242 its_H5439 lodges, its_H5439 posts, and_H0753 its_H5439 arches, according to_H0428 these_H0428 measurements. There_H4060 were_H0428 windows_H2474 in_H0520 it_H5439 and_H0753 in_H0520 its_H5439 arches all_H5439 around_H5439. It_H5439 was_H0753 fifty_H2572 cubits_H0520 long_H0753, and_H0753 twenty-five_H2568 cubits_H0520 wide_H7341. 
+@34 Its arches were_H8561 toward_H0413 the_H0413 outer_H2435 court_H2691. Palm_H8561 trees_H8561 were_H8561 on_H0413 its posts on_H0413 this side_H6311 and_H0413 on_H0413 that_H0413 side_H6311. The_H0413 ascent_H4608 to_H0413 it had_H0361 eight_H8083 steps_H4609. 
 
-@35 He brought me to the north gate, and he measured it according to these measurements— 
-@36 its lodges, its posts, and its arches. There were windows in it all around. The length was fifty cubits and the width twenty-five cubits. 
-@37 Its posts were toward the outer court. Palm trees were on its posts on this side and on that side. The ascent to it had eight steps.
+@35 He_H0935 brought_H0935 me_H0413 to_H0413 the_H0413 north_H6828 gate_H8179, and_H0935 he_H0935 measured_H4058 it_H4058 according_H0413 to_H0413 these_H0428 measurements— 
+@36 its_H5439 lodges, its_H5439 posts, and_H0753 its_H5439 arches. There were_H2474 windows_H2474 in_H0520 it_H5439 all_H5439 around_H5439. The_H5439 length_H0753 was_H0753 fifty_H2572 cubits_H0520 and_H0753 the_H5439 width_H7341 twenty-five_H2568 cubits_H0520. 
+@37 Its posts were_H8561 toward_H0413 the_H0413 outer_H2435 court_H2691. Palm_H8561 trees_H8561 were_H8561 on_H0413 its posts on_H0413 this side_H6311 and_H0413 on_H0413 that_H0413 side_H6311. The_H0413 ascent_H4608 to_H0413 it had_H4608 eight_H8083 steps_H4609.
 
 ## The sacrificial devices at the inner east gate
-@38 A room with its door was by the posts at the gates. They washed the burnt offering there. 
-@39 In the porch of the gate were two tables on this side and two tables on that side, on which to kill the burnt offering, the sin offering, and the trespass offering. 
-@40 On the one side outside, as one goes up to the entry of the gate toward the north, were two tables; and on the other side, which belonged to the porch of the gate, were two tables. 
-@41 Four tables were on this side, and four tables on that side, by the side of the gate: eight tables, on which they killed the sacrifices. 
-@42 There were four cut stone tables for the burnt offering, a cubit and a half long, a cubit and a half wide, and one cubit high. They laid the instruments with which they killed the burnt offering and the sacrifice on them. 
-@43 The hooks, a hand width long, were fastened within all around. The meat of the offering was on the tables.
+@38 A_H8033 room_H3957 with_H8033 its_H0853 door_H6607 was_H8179 by_H8179 the_H0853 posts at_H8033 the_H0853 gates_H8179. They_H8033 washed_H1740 the_H0853 burnt_H5930 offering there_H8033. 
+@39 In_H0413 the_H0413 porch_H0197 of_H8179 the_H0413 gate_H8179 were_H8179 two_H8147 tables_H7979 on_H0413 this side_H6311 and_H8179 two_H8147 tables_H7979 on_H0413 that_H0413 side_H6311, on_H0413 which to_H0413 kill_H7819 the_H0413 burnt_H5930 offering_H0817, the_H0413 sin_H2403 offering_H0817, and_H8179 the_H0413 trespass offering_H0817. 
+@40 On_H0413 the_H0834 one_H0834 side_H3802 outside_H2351, as_H0834 one_H0834 goes_H5927 up_H5927 to_H0413 the_H0834 entry_H6607 of_H8179 the_H0834 gate_H8179 toward_H0413 the_H0834 north_H6828, were_H0834 two_H8147 tables_H7979; and_H6828 on_H0413 the_H0834 other_H0312 side_H3802, which_H0834 belonged_H5927 to_H0413 the_H0834 porch_H0197 of_H8179 the_H0834 gate_H8179, were_H0834 two_H8147 tables_H7979. 
+@41 Four_H0702 tables_H7979 were_H0702 on_H0413 this side_H3802, and_H8179 four_H0702 tables_H7979 on_H0413 that_H0413 side_H3802, by_H0413 the_H0413 side_H3802 of_H8179 the_H0413 gate_H8179: eight_H8083 tables_H7979, on_H0413 which they_H8179 killed_H7819 the_H0413 sacrifices. 
+@42 There_H0834 were_H0834 four_H0702 cut_H1496 stone_H0068 tables_H7979 for_H0413 the_H0853 burnt_H5930 offering_H0259, a_H0834 cubit_H0520 and_H0068 a_H0834 half_H2677 long_H0753, a_H0834 cubit_H0520 and_H0068 a_H0834 half_H2677 wide_H7341, and_H0068 one_H0259 cubit_H0520 high_H1363. They_H0834 laid the_H0853 instruments_H3627 with_H0413 which_H0834 they_H0834 killed_H7819 the_H0853 burnt_H5930 offering_H0259 and_H0068 the_H0853 sacrifice_H2077 on_H0413 them_H0413. 
+@43 The_H0413 hooks, a_H0259 hand width long_H2948, were_H1004 fastened_H3559 within_H1004 all_H5439 around_H5439. The_H0413 meat_H1320 of_H1004 the_H0413 offering_H7133 was_H0259 on_H0413 the_H0413 tables_H7979.
 
 ## The two priest's cells at the north and south inner gate
-@44 Outside of the inner gate were rooms for the singers in the inner court, which was at the side of the north gate. They faced toward the south. One at the side of the east gate faced toward the north. 
-@45 He said to me, “This room, which faces toward the south, is for the priests who perform the duty of the house. 
-@46 The room which faces toward the north is for the priests who perform the duty of the altar. These are the sons of Zadok, who from among the sons of Levi come near to Yahweh to minister to him.”
+@44 Outside_H2351 of_H8179 the_H6440 inner_H6442 gate_H8179 were_H0834 rooms_H3957 for_H0413 the_H6440 singers_H7891 in_H0413 the_H6440 inner_H6442 court_H2691, which_H0834 was_H0834 at_H0413 the_H6440 side_H3802 of_H8179 the_H6440 north_H6828 gate_H8179. They_H0834 faced_H6440 toward_H0413 the_H6440 south_H1864. One_H0259 at_H0413 the_H6440 side_H3802 of_H8179 the_H6440 east_H6921 gate_H8179 faced_H6440 toward_H0413 the_H6440 north_H6828. 
+@45 He_H0834 said_H1696 to_H0413 me_H0413, “This_H2090 room_H1004, which_H0834 faces_H6440 toward_H0413 the_H6440 south_H1864, is_H0834 for_H0413 the_H6440 priests_H3548 who_H0834 perform_H8104 the_H6440 duty_H4931 of_H1004 the_H6440 house_H1004. 
+@46 The_H6440 room_H3957 which_H0834 faces_H6440 toward_H0413 the_H6440 north_H6828 is_H0834 for_H0413 the_H6440 priests_H3548 who_H0834 perform_H8104 the_H6440 duty_H4931 of_H1121 the_H6440 altar_H4196. These_H1992 are_H0834 the_H6440 sons_H1121 of_H1121 Zadok_H6659, who_H0834 from_H6440 among_H0413 the_H6440 sons_H1121 of_H1121 Levi_H3878 come_H7131 near_H6440 to_H0413 Yahweh_H3068 to_H0413 minister_H8334 to_H0413 him_H0413.”
 
 ## Size and shape of the inner court
-@47 He measured the court, one hundred cubits long and one hundred cubits wide, square. The altar was before the house.
+@47 He_H0853 measured_H4058 the_H0853 court_H2691, one_H3967 hundred_H3967 cubits_H0520 long_H0753 and_H3967 one_H3967 hundred_H3967 cubits_H0520 wide_H7341, square_H7251. The_H0853 altar_H4196 was_H1004 before_H6440 the_H0853 house_H1004.
 
 ## Temple House Description
-@48 Then he brought me to the porch of the house, and measured each post of the porch, five cubits on this side, and five cubits on that side. The width of the gate was three cubits on this side and three cubits on that side. 
-@49 The length of the porch was twenty cubits and the width eleven cubits, even by the steps by which they went up to it. There were pillars by the posts, one on this side, and another on that side. 
+@48 Then_H0935 he_H1004 brought_H0935 me_H0413 to_H0413 the_H0413 porch_H0197 of_H1004 the_H0413 house_H1004, and_H0935 measured_H4058 each_H6311 post of_H1004 the_H0413 porch_H0197, five_H2568 cubits_H0520 on_H0413 this_H0935 side_H6311, and_H0935 five_H2568 cubits_H0520 on_H0413 that_H1004 side_H6311. The_H0413 width_H7341 of_H1004 the_H0413 gate_H8179 was_H1004 three_H7969 cubits_H0520 on_H0413 this_H0935 side_H6311 and_H0935 three_H7969 cubits_H0520 on_H0413 that_H1004 side_H6311. 
+@49 The_H0834 length_H0753 of_H5982 the_H0834 porch_H0197 was_H0834 twenty_H6242 cubits_H0520 and_H0753 the_H0834 width_H7341 eleven_H6240 cubits_H0520, even by_H0413 the_H0834 steps_H4609 by_H0413 which_H0834 they_H0834 went_H5927 up_H5927 to_H0413 it_H0834. There_H5927 were_H0834 pillars_H5982 by_H0413 the_H0834 posts_H5982, one_H0259 on_H0413 this_H0834 side_H6311, and_H0753 another_H0259 on_H0413 that_H0834 side_H6311. 
 
 # 41 
 ## The Temple Hall and the Holy of Holies
-@1 He brought me to the nave and measured the posts, six cubits wide on the one side and six cubits wide on the other side, which was the width of the tent. 
-@2 The width of the entrance was ten cubits,^a^ and the sides of the entrance were five cubits on the one side, and five cubits on the other side. He measured its length, forty cubits, and the width, twenty cubits. 
+@1 He_H0853 brought_H0935 me_H0413 to_H0413 the_H0853 nave_H1964 and_H0935 measured_H4058 the_H0853 posts, six_H8337 cubits_H0520 wide_H7341 on_H0413 the_H0853 one_H7341 side_H6311 and_H0935 six_H8337 cubits_H0520 wide_H7341 on_H0413 the_H0853 other_H6311 side_H6311, which was_H0520 the_H0853 width_H7341 of_H0168 the_H0853 tent_H0168. 
+@2 The_H4058 width_H7341 of_H0753 the_H4058 entrance_H6607 was_H0753 ten_H6235 cubits_H0520,^a^ and_H0753 the_H4058 sides_H3802 of_H0753 the_H4058 entrance_H6607 were five_H2568 cubits_H0520 on_H0520 the_H4058 one_H7341 side_H3802, and_H0753 five_H2568 cubits_H0520 on_H0520 the_H4058 other_H6311 side_H3802. He_H4058 measured_H4058 its_H4058 length_H0753, forty_H0705 cubits_H0520, and_H0753 the_H4058 width_H7341, twenty_H6242 cubits_H0520. 
 ^a^[**41:2** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters.]
 
-@3 Then he went inward and measured each post of the entrance, two cubits; and the entrance, six cubits; and the width of the entrance, seven cubits. 
-@4 He measured its length, twenty cubits, and the width, twenty cubits, before the nave. He said to me, “This is the most holy place.”
+@3 Then_H0935 he_H0935 went_H0935 inward and_H0935 measured_H4058 each_H4058 post of_H8147 the_H0935 entrance_H6607, two_H8147 cubits_H0520; and_H0935 the_H0935 entrance_H6607, six_H8337 cubits_H0520; and_H0935 the_H0935 width_H7341 of_H8147 the_H0935 entrance_H6607, seven_H7651 cubits_H0520. 
+@4 He_H0853 measured_H4058 its_H0853 length_H0753, twenty_H6242 cubits_H0520, and_H6440 the_H0853 width_H7341, twenty_H6242 cubits_H0520, before_H6440 the_H0853 nave_H1964. He_H0853 said_H0559 to_H0413 me_H0413, “This_H2088 is_H2088 the_H0853 most_H6944 holy_H6944 place_H6944.”
 
 ## The three-story side building and the rear building
-@5 Then he measured the wall of the house, six cubits; and the width of every side room, four cubits, all around the house on every side. 
-@6 The side rooms were in three stories, one over another, and thirty in each story. They entered into the wall which belonged to the house for the side rooms all around, that they might be supported and not penetrate the wall of the house. 
-@7 The side rooms were wider on the higher levels, because the walls were narrower at the higher levels. Therefore the width of the house increased upward; and so one went up from the lowest level to the highest through the middle level. 
+@5 Then he_H1004 measured_H4058 the_H5439 wall_H7023 of_H1004 the_H5439 house_H1004, six_H8337 cubits_H0520; and_H1004 the_H5439 width_H7341 of_H1004 every_H5439 side_H6763 room_H1004, four_H0702 cubits_H0520, all_H5439 around_H5439 the_H5439 house_H1004 on_H1004 every_H5439 side_H6763. 
+@6 The_H0834 side_H6763 rooms_H1004 were_H0834 in_H0935 three_H7969 stories_H6763, one_H3808 over_H0413 another_H3808, and_H0935 thirty_H7970 in_H0935 each_H5439 story_H6471. They_H0834 entered_H0935 into_H0413 the_H0834 wall_H7023 which_H0834 belonged_H1961 to_H0413 the_H0834 house_H1004 for_H0413 the_H0834 side_H6763 rooms_H1004 all_H5439 around_H5439, that_H0834 they_H0834 might_H0834 be_H1961 supported and_H0935 not_H3808 penetrate_H0935 the_H0834 wall_H7023 of_H1004 the_H0834 house_H1004. 
+@7 The_H5921 side_H6763 rooms_H1004 were_H4605 wider_H7337 on_H5921 the_H5921 higher_H4605 levels, because_H3588 the_H5921 walls_H6763 were_H4605 narrower at_H5921 the_H5921 higher_H4605 levels. Therefore_H3651 the_H5921 width_H7341 of_H1004 the_H5921 house_H1004 increased upward_H4605; and_H1004 so_H3651 one_H3588 went_H5927 up_H5927 from_H5921 the_H5921 lowest_H8481 level to_H5921 the_H5921 highest through_H5921 the_H5921 middle_H8484 level. 
 
-@8 I saw also that the house had a raised base all around. The foundations of the side rooms were a full reed of six great cubits. 
-@9 The thickness of the outer wall of the side rooms was five cubits. That which was left was the place of the side rooms that belonged to the house. 
-@10 Between the rooms was a width of twenty cubits around the house on every side. 
-@11 The doors of the side rooms were toward an open area that was left, one door toward the north, and another door toward the south. The width of the open area was five cubits all around. 
+@8 I_H7200 saw_H7200 also that_H7200 the_H7200 house_H1004 had a_H7200 raised_H1363 base all_H5439 around_H5439. The_H7200 foundations of_H1004 the_H7200 side_H6763 rooms_H1004 were_H7070 a_H7200 full_H4393 reed_H7070 of_H1004 six_H8337 great cubits_H0520. 
+@9 The_H0834 thickness_H7341 of_H1004 the_H0834 outer_H2351 wall_H7023 of_H1004 the_H0834 side_H6763 rooms_H1004 was_H0834 five_H2568 cubits_H0520. That_H0834 which_H0834 was_H0834 left_H3240 was_H0834 the_H0834 place_H1004 of_H1004 the_H0834 side_H6763 rooms_H1004 that_H0834 belonged to_H0413 the_H0834 house_H1004. 
+@10 Between_H0996 the_H0996 rooms_H3957 was_H1004 a_H0996 width_H7341 of_H1004 twenty_H6242 cubits_H0520 around_H5439 the_H0996 house_H1004 on_H1004 every_H5439 side_H5439. 
+@11 The_H5439 doors_H6607 of_H1870 the_H5439 side_H6763 rooms_H5439 were_H5439 toward_H1870 an_H0259 open area_H5439 that_H4725 was_H0259 left_H3240, one_H0259 door_H6607 toward_H1870 the_H5439 north_H6828, and_H1870 another_H0259 door_H6607 toward_H1870 the_H5439 south_H1864. The_H5439 width_H7341 of_H1870 the_H5439 open area_H5439 was_H0259 five_H2568 cubits_H0520 all_H5439 around_H5439. 
 
-@12 The building that was before the separate place at the side toward the west was seventy cubits wide; and the wall of the building was five cubits thick all around, and its length ninety cubits.
+@12 The_H6440 building_H1146 that_H0834 was_H0834 before_H6440 the_H6440 separate_H1508 place_H3220 at_H0413 the_H6440 side_H6285 toward_H0413 the_H6440 west_H3220 was_H0834 seventy_H7657 cubits_H0520 wide_H7341; and_H6440 the_H6440 wall_H7023 of_H1870 the_H6440 building_H1146 was_H0834 five_H2568 cubits_H0520 thick_H7341 all_H5439 around_H5439, and_H6440 its_H5439 length_H0753 ninety_H8673 cubits_H0520.
 
 ## The overall dimensions of the temple house
-@13 So he measured the temple, one hundred cubits long; and the separate place, and the building, with its walls, one hundred cubits long; 
-@14 also the width of the face of the temple, and of the separate place toward the east, one hundred cubits.
+@13 So_H0853 he_H0853 measured_H4058 the_H0853 temple_H1004, one_H3967 hundred_H3967 cubits_H0520 long_H0753; and_H3967 the_H0853 separate_H1508 place_H1004, and_H3967 the_H0853 building_H1140, with_H1004 its_H0853 walls_H7023, one_H3967 hundred_H3967 cubits_H0520 long_H0753; 
+@14 also the_H6440 width_H7341 of_H1004 the_H6440 face_H6440 of_H1004 the_H6440 temple_H1004, and_H3967 of_H1004 the_H6440 separate_H1508 place_H1004 toward_H6440 the_H6440 east_H6921, one_H7341 hundred_H3967 cubits_H0520.
 
 ## The furniture of the temple house
-@15 He measured the length of the building before the separate place which was at its back, and its galleries on the one side and on the other side, one hundred cubits from the inner temple, and the porches of the court, 
-@16 the thresholds, and the closed windows, and the galleries around on their three stories, opposite the threshold, with wood ceilings all around, and from the ground up to the windows, (now the windows were covered), 
-@17 to the space above the door, even to the inner house, and outside, and by all the wall all around inside and outside, by measure. 
-@18 It was made with cherubim and palm trees. A palm tree was between cherub and cherub, and every cherub had two faces, 
-@19 so that there was the face of a man toward the palm tree on the one side, and the face of a young lion toward the palm tree on the other side. It was made like this through all the house all around. 
-@20 Cherubim and palm trees were made from the ground to above the door. The wall of the temple was like this. 
+@15 He_H0834 measured_H4058 the_H6440 length_H0753 of_H6440 the_H6440 building_H1146 before_H6440 the_H6440 separate_H1508 place which_H0834 was_H0834 at_H0413 its_H5921 back_H0310, and_H3967 its_H5921 galleries on_H5921 the_H6440 one_H0834 side_H6311 and_H3967 on_H5921 the_H6440 other_H6311 side_H6311, one_H0834 hundred_H3967 cubits_H0520 from_H5921 the_H6440 inner_H6442 temple_H1964, and_H3967 the_H6440 porches_H0197 of_H6440 the_H6440 court_H2691, 
+@16 the_H5704 thresholds_H5592, and_H0776 the_H5704 closed_H3680 windows_H2474, and_H0776 the_H5704 galleries around_H5439 on_H0776 their_H3680 three_H7969 stories, opposite_H5048 the_H5704 threshold, with_H0776 wood_H6086 ceilings all_H5439 around_H5439, and_H0776 from_H5704 the_H5704 ground_H0776 up_H5704 to_H5704 the_H5704 windows_H2474, (now the_H5704 windows_H2474 were_H0776 covered_H3680), 
+@17 to_H0413 the_H3605 space above_H5921 the_H3605 door_H6607, even_H5704 to_H0413 the_H3605 inner_H6442 house_H1004, and_H1004 outside_H2351, and_H1004 by_H5921 all_H3605 the_H3605 wall_H7023 all_H3605 around_H5439 inside_H1004 and_H1004 outside_H2351, by_H5921 measure. 
+@18 It_H6213 was_H6440 made_H6213 with_H8147 cherubim_H3742 and_H6440 palm_H8561 trees_H8561. A_H0996 palm_H8561 tree_H8561 was_H6440 between_H0996 cherub_H3742 and_H6440 cherub_H3742, and_H6440 every cherub_H3742 had_H6213 two_H8147 faces_H6440, 
+@19 so_H6213 that_H3605 there_H3605 was_H1004 the_H3605 face_H6440 of_H1004 a_H3605 man_H0120 toward_H0413 the_H3605 palm_H8561 tree_H8561 on_H0413 the_H3605 one_H3605 side_H5439, and_H1004 the_H3605 face_H6440 of_H1004 a_H3605 young_H3715 lion_H3715 toward_H0413 the_H3605 palm_H8561 tree_H8561 on_H0413 the_H3605 other_H3605 side_H5439. It_H5439 was_H1004 made_H6213 like_H1004 this_H3605 through_H3605 all_H3605 the_H3605 house_H1004 all_H3605 around_H5439. 
+@20 Cherubim_H3742 and_H0776 palm_H8561 trees_H8561 were_H3742 made_H6213 from_H5921 the_H5921 ground_H0776 to_H5704 above_H5921 the_H5921 door_H6607. The_H5921 wall_H7023 of_H0776 the_H5921 temple_H1964 was_H0776 like_H0776 this_H6213. 
 
-@21 The door posts of the nave were squared. As for the face of the nave, its appearance was as the appearance of the temple. 
-@22 The altar was of wood, three cubits high, and its length two cubits. Its corners, its base, and its walls were of wood. He said to me, “This is the table that is before Yahweh.” 
-@23 The temple and the sanctuary had two doors. 
-@24 The doors had two leaves each, two turning leaves: two for the one door, and two leaves for the other. 
-@25 There were made on them, on the doors of the nave, cherubim and palm trees, like those made on the walls. There was a threshold of wood on the face of the porch outside. 
-@26 There were closed windows and palm trees on the one side and on the other side, on the sides of the porch. This is how the side rooms of the temple and the thresholds were arranged. 
+@21 The_H6440 door_H4201 posts_H4201 of_H6440 the_H6440 nave_H1964 were_H1964 squared_H7251. As_H6440 for_H6440 the_H6440 face_H6440 of_H6440 the_H6440 nave_H1964, its_H6440 appearance_H4758 was_H6440 as_H6440 the_H6440 appearance_H4758 of_H6440 the_H6440 temple_H1964. 
+@22 The_H6440 altar_H4196 was_H0834 of_H3068 wood_H6086, three_H7969 cubits_H0520 high_H1364, and_H3068 its_H6440 length_H0753 two_H8147 cubits_H0520. Its_H6440 corners_H4740, its_H6440 base_H0753, and_H3068 its_H6440 walls_H7023 were_H0834 of_H3068 wood_H6086. He_H0834 said_H1696 to_H0413 me_H0413, “This_H2088 is_H0834 the_H6440 table_H7979 that_H0834 is_H0834 before_H6440 Yahweh_H3068.” 
+@23 The_H8147 temple_H1964 and_H1817 the_H8147 sanctuary_H6944 had_H1817 two_H8147 doors_H1817. 
+@24 The_H8147 doors_H1817 had_H0259 two_H8147 leaves_H1817 each_H0259, two_H8147 turning leaves_H1817: two_H8147 for_H0259 the_H8147 one_H0259 door_H1817, and_H1817 two_H8147 leaves_H1817 for_H0259 the_H8147 other_H0312. 
+@25 There_H0834 were_H0834 made_H6213 on_H0413 them_H0413, on_H0413 the_H6440 doors_H1817 of_H6440 the_H6440 nave_H1964, cherubim_H3742 and_H6086 palm_H8561 trees_H6086, like_H0834 those_H0834 made_H6213 on_H0413 the_H6440 walls_H7023. There_H0834 was_H0834 a_H0834 threshold_H5646 of_H6440 wood_H6086 on_H0413 the_H6440 face_H6440 of_H6440 the_H6440 porch_H0197 outside_H2351. 
+@26 There were_H1004 closed windows_H2474 and_H1004 palm_H8561 trees_H8561 on_H0413 the_H0413 one_H0413 side_H3802 and_H1004 on_H0413 the_H0413 other_H6311 side_H3802, on_H0413 the_H0413 sides_H6763 of_H1004 the_H0413 porch_H0197. This is_H1004 how the_H0413 side_H3802 rooms_H1004 of_H1004 the_H0413 temple_H1004 and_H1004 the_H0413 thresholds_H5646 were_H1004 arranged. 
 
 # 42 
 ## The Northern Priest Cells
-@1 Then he brought me out into the outer court, the way toward the north. Then he brought me into the room that was opposite the separate place, and which was opposite the building toward the north. 
-@2 Facing the length of one hundred cubits^a^ was the north door, and the width was fifty cubits. 
-@3 Opposite the twenty cubits which belonged to the inner court, and opposite the pavement which belonged to the outer court, was gallery against gallery in the three stories. 
-@4 Before the rooms was a walk of ten cubits’ width inward, a way of one cubit; and their doors were toward the north. 
-@5 Now the upper rooms were shorter; for the galleries took away from these more than from the lower and the middle in the building. 
-@6 For they were in three stories, and they didn’t have pillars as the pillars of the courts. Therefore the uppermost was set back more than the lowest and the middle from the ground. 
-@7 The wall that was outside by the side of the rooms, toward the outer court before the rooms, was fifty cubits long. 
-@8 For the length of the rooms that were in the outer court was fifty cubits. Behold, those facing the temple were one hundred cubits. 
-@9 From under these rooms was the entry on the east side, as one goes into them from the outer court. 
+@1 Then_H3318 he_H0834 brought_H0935 me_H0413 out_H3318 into_H0413 the_H0834 outer_H2435 court_H2691, the_H0834 way_H1870 toward_H0413 the_H0834 north_H6828. Then_H3318 he_H0834 brought_H0935 me_H0413 into_H0413 the_H0834 room_H3957 that_H0834 was_H0834 opposite_H5048 the_H0834 separate_H1508 place_H0935, and_H0935 which_H0834 was_H0834 opposite_H5048 the_H0834 building_H1146 toward_H0413 the_H0834 north_H6828. 
+@2 Facing_H6440 the_H6440 length_H0753 of_H6440 one_H6607 hundred_H3967 cubits_H0520^a^ was_H6440 the_H6440 north_H6828 door_H6607, and_H3967 the_H6440 width_H7341 was_H6440 fifty_H2572 cubits_H0520. 
+@3 Opposite_H5048 the_H6440 twenty_H6242 cubits which_H0834 belonged to_H0413 the_H6440 inner_H6442 court_H2691, and_H6440 opposite_H5048 the_H6440 pavement_H7531 which_H0834 belonged to_H0413 the_H6440 outer_H2435 court_H2691, was_H0834 gallery_H0862 against_H0413 gallery_H0862 in_H0413 the_H6440 three_H7992 stories. 
+@4 Before_H6440 the_H6440 rooms_H3957 was_H0259 a_H0259 walk_H4109 of_H1870 ten_H6235 cubits’ width_H7341 inward, a_H0259 way_H1870 of_H1870 one_H0259 cubit_H0520; and_H6440 their_H6440 doors_H6607 were_H6440 toward_H0413 the_H6440 north_H6828. 
+@5 Now_H3588 the_H3588 upper_H5945 rooms_H3957 were_H2007 shorter; for_H3588 the_H3588 galleries took_H0398 away_H0398 from_H0398 these_H2007 more_H3588 than_H3588 from_H0398 the_H3588 lower_H8481 and_H0398 the_H3588 middle_H8484 in_H3588 the_H3588 building_H1146. 
+@6 For_H3588 they_H3588 were_H0369 in_H5921 three_H8027 stories, and_H0776 they_H3588 didn’t have_H0369 pillars_H5982 as_H3651 the_H5921 pillars_H5982 of_H0776 the_H5921 courts. Therefore_H3651 the_H5921 uppermost was_H0369 set_H0680 back_H0680 more_H0369 than_H5921 the_H5921 lowest_H8481 and_H0776 the_H5921 middle_H8484 from_H5921 the_H5921 ground_H0776. 
+@7 The_H6440 wall_H1447 that_H0834 was_H0834 outside_H2351 by_H0413 the_H6440 side_H5980 of_H1870 the_H6440 rooms_H3957, toward_H0413 the_H6440 outer_H2435 court_H2691 before_H6440 the_H6440 rooms_H3957, was_H0834 fifty_H2572 cubits_H0520 long_H0753. 
+@8 For_H3588 the_H6440 length_H0753 of_H6440 the_H6440 rooms_H3957 that_H0834 were_H0834 in_H5921 the_H6440 outer_H2435 court_H2691 was_H0834 fifty_H2572 cubits_H0520. Behold_H2009, those_H0834 facing_H6440 the_H6440 temple_H1964 were_H0834 one_H3588 hundred_H3967 cubits_H0520. 
+@9 From_H0935 under_H8478 these_H0428 rooms_H3957 was_H0935 the_H0935 entry_H3996 on_H0935 the_H0935 east_H6921 side_H6921, as_H0935 one_H0428 goes_H0935 into_H0935 them_H0935 from_H0935 the_H0935 outer_H2435 court_H2691. 
 ^a^[**42:2** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters.]
 
 ## The priestly cells of the south
-@10 In the thickness of the wall of the court toward the east, before the separate place, and before the building, there were rooms. 
-@11 The way before them was like the appearance of the rooms which were toward the north. Their length and width were the same. All their exits had the same arrangement and doors. 
-@12 Like the doors of the rooms that were toward the south was a door at the head of the way, even the way directly before the wall toward the east, as one enters into them.
+@10 In_H0413 the_H6440 thickness_H7341 of_H1870 the_H6440 wall_H1444 of_H1870 the_H6440 court_H2691 toward_H0413 the_H6440 east_H6921, before_H6440 the_H6440 separate_H1508 place, and_H1870 before_H6440 the_H6440 building_H1146, there were_H6440 rooms_H3957. 
+@11 The_H3605 way_H1870 before_H6440 them_H6440 was_H0834 like_H3651 the_H3605 appearance_H4758 of_H1870 the_H3605 rooms_H3957 which_H0834 were_H0834 toward_H1870 the_H3605 north_H6828. Their_H3605 length_H0753 and_H4941 width_H7341 were_H0834 the_H3605 same_H3651. All_H3605 their_H3605 exits_H4161 had_H0834 the_H3605 same_H3651 arrangement and_H4941 doors_H6607. 
+@12 Like_H0834 the_H6440 doors_H6607 of_H7218 the_H6440 rooms_H3957 that_H0834 were_H0834 toward_H1870 the_H6440 south_H1864 was_H0834 a_H0935 door_H6607 at_H0935 the_H6440 head_H7218 of_H7218 the_H6440 way_H1870, even the_H6440 way_H1870 directly before_H6440 the_H6440 wall_H1448 toward_H1870 the_H6440 east_H6921, as_H0834 one_H0834 enters_H0935 into_H0935 them_H6440.
 
 ## The purpose of the priest cells
-@13 Then he said to me, “The north rooms and the south rooms, which are opposite the separate place, are the holy rooms, where the priests who are near to Yahweh shall eat the most holy things. There they shall lay the most holy things, with the meal offering, the sin offering, and the trespass offering; for the place is holy. 
-@14 When the priests enter in, then they shall not go out of the holy place into the outer court until they lay their garments in which they minister there; for they are holy. Then they shall put on other garments, and shall approach that which is for the people.”
+@13 Then_H0559 he_H0834 said_H0559 to_H0413 me_H0413, “The_H0559 north_H6828 rooms_H3957 and_H3068 the_H0559 south_H1864 rooms_H3957, which_H0834 are_H0834 opposite_H6440 the_H0559 separate_H1508 place_H4725, are_H0834 the_H0559 holy_H6944 rooms_H3957, where_H0834 the_H0559 priests_H3548 who_H0834 are_H0834 near_H7138 to_H0413 Yahweh_H3068 shall_H3548 eat_H0398 the_H0559 most_H6944 holy_H6944 things_H6944. There_H8033 they_H0834 shall_H3548 lay the_H0559 most_H6944 holy_H6944 things_H6944, with_H0413 the_H0559 meal_H4503 offering_H4503, the_H0559 sin_H2403 offering_H4503, and_H3068 the_H0559 trespass offering_H4503; for_H3588 the_H0559 place_H4725 is_H0834 holy_H6944. 
+@14 When_H3588 the_H0834 priests_H3548 enter_H0935 in_H0935, then_H3318 they_H0834 shall_H3548 not_H3808 go_H3318 out_H3318 of_H3548 the_H0834 holy_H6944 place_H6944 into_H0413 the_H0834 outer_H2435 court_H2691 until they_H0834 lay_H3318 their_H3588 garments_H0899 in_H0935 which_H0834 they_H0834 minister_H8334 there_H8033; for_H3588 they_H0834 are_H0834 holy_H6944. Then_H3318 they_H0834 shall_H3548 put_H3847 on_H0413 other_H0312 garments_H0899, and_H0935 shall_H3548 approach_H7126 that_H0834 which_H0834 is_H0834 for_H3588 the_H0834 people_H5971.”
 
 ## Completion of the reconnaissance of the entire sacred precinct
-@15 Now when he had finished measuring the inner house, he brought me out by the way of the gate which faces toward the east, and measured it all around. 
-@16 He measured on the east side with the measuring reed five hundred reeds, with the measuring reed all around. 
-@17 He measured on the north side five hundred reeds with the measuring reed all around. 
-@18 He measured on the south side five hundred reeds with the measuring reed. 
-@19 He turned about to the west side, and measured five hundred reeds with the measuring reed. 
-@20 He measured it on the four sides. It had a wall around it, the length five hundred cubits, and the width five hundred cubits, to make a separation between that which was holy and that which was common. 
+@15 Now when_H0834 he_H0834 had_H0834 finished_H3615 measuring_H4060 the_H0853 inner_H6442 house_H1004, he_H0834 brought_H3318 me_H6440 out_H3318 by_H1870 the_H0853 way_H1870 of_H1004 the_H0853 gate_H8179 which_H0834 faces_H6440 toward_H1870 the_H0853 east_H6921, and_H1004 measured_H4058 it_H5439 all_H5439 around_H5439. 
+@16 He_H4058 measured_H4058 on_H0520 the_H5439 east_H6921 side_H5439 with_H7070 the_H5439 measuring_H7070 reed_H7070 five_H2568 hundred reeds_H7070, with_H7070 the_H5439 measuring_H7070 reed_H7070 all_H5439 around_H5439. 
+@17 He_H4058 measured_H4058 on_H7307 the_H5439 north_H6828 side_H5439 five_H2568 hundred_H3967 reeds_H7070 with_H6828 the_H5439 measuring_H7070 reed_H7070 all_H5439 around_H5439. 
+@18 He_H0853 measured_H4058 on_H7307 the_H0853 south_H1864 side_H7307 five_H2568 hundred_H3967 reeds_H7070 with_H0853 the_H0853 measuring_H7070 reed_H7070. 
+@19 He_H4058 turned_H5437 about_H0413 to_H0413 the_H0413 west_H3220 side_H7307, and_H3967 measured_H4058 five_H2568 hundred_H3967 reeds_H7070 with_H0413 the_H0413 measuring_H7070 reed_H7070. 
+@20 He_H4058 measured_H4058 it_H5439 on_H7341 the_H0996 four_H0702 sides_H5439. It_H5439 had a_H4058 wall_H2346 around_H5439 it_H5439, the_H0996 length_H0753 five_H2568 hundred_H3967 cubits, and_H3967 the_H0996 width_H7341 five_H2568 hundred_H3967 cubits, to_H7307 make_H0914 a_H4058 separation_H0914 between_H0996 that_H7307 which_H7307 was_H7307 holy_H6944 and_H3967 that_H7307 which_H7307 was_H7307 common_H2455. 
 
 # 43 
 ## God's entry into the newly built temple and his canonization
-@1 Afterward he brought me to the gate, even the gate that looks toward the east. 
-@2 Behold, the glory of the God of Israel came from the way of the east. His voice was like the sound of many waters; and the earth was illuminated with his glory. 
-@3 It was like the appearance of the vision which I saw, even according to the vision that I saw when I came to destroy the city; and the visions were like the vision that I saw by the river Chebar; and I fell on my face. 
-@4 Yahweh’s glory came into the house by the way of the gate which faces toward the east. 
-@5 The Spirit took me up and brought me into the inner court; and behold, Yahweh’s glory filled the house. 
+@1 Afterward he_H0834 brought me_H0413 to_H0413 the_H0834 gate_H8179, even the_H0834 gate_H8179 that_H0834 looks toward_H0413 the_H0834 east_H6921. 
+@2 Behold_H2009, the_H0935 glory_H3519 of_H0776 the_H0935 God_H0430 of_H0776 Israel_H3478 came_H0935 from_H0935 the_H0935 way_H1870 of_H0776 the_H0935 east_H6921. His_H0935 voice_H6963 was_H3478 like_H0776 the_H0935 sound_H6963 of_H0776 many_H7227 waters_H4325; and_H0935 the_H0935 earth_H0776 was_H3478 illuminated with_H0935 his_H0935 glory_H3519. 
+@3 It_H7200 was_H0834 like_H4758 the_H0853 appearance_H4758 of_H6440 the_H0853 vision_H4758 which_H0834 I_H0834 saw_H7200, even_H0853 according_H0413 to_H0413 the_H0853 vision_H4758 that_H0834 I_H0834 saw_H7200 when_H0834 I_H0834 came_H0935 to_H0413 destroy_H7843 the_H0853 city_H5892; and_H0935 the_H0853 visions were_H0834 like_H4758 the_H0853 vision_H4758 that_H0834 I_H0834 saw_H7200 by_H0413 the_H0853 river_H5104 Chebar_H3529; and_H0935 I_H0834 fell_H5307 on_H0413 my_H7200 face_H6440. 
+@4 Yahweh’s_H3068 glory_H3519 came_H0935 into_H0413 the_H6440 house_H1004 by_H3068 the_H6440 way_H1870 of_H1004 the_H6440 gate_H8179 which_H0834 faces_H6440 toward_H0413 the_H6440 east_H6921. 
+@5 The_H0413 Spirit_H7307 took_H5375 me_H0413 up_H5375 and_H0935 brought_H0935 me_H0413 into_H0413 the_H0413 inner_H6442 court_H2691; and_H0935 behold_H2009, Yahweh’s_H3068 glory_H3519 filled_H4390 the_H0413 house_H1004. 
 
-@6 I heard one speaking to me out of the house, and a man stood by me. 
-@7 He said to me, “Son of man, this is the place of my throne and the place of the soles of my feet, where I will dwell among the children of Israel forever. The house of Israel will no more defile my holy name, neither they nor their kings, by their prostitution and by the dead bodies of their kings in their high places; 
-@8 in their setting of their threshold by my threshold and their door post beside my door post. There was a wall between me and them; and they have defiled my holy name by their abominations which they have committed. Therefore I have consumed them in my anger. 
-@9 Now let them put away their prostitution, and the dead bodies of their kings far from me. Then I will dwell among them forever. 
+@6 I_H8085 heard_H8085 one_H0376 speaking_H1696 to_H0413 me_H0413 out_H0413 of_H1004 the_H0413 house_H1004, and_H1004 a_H1961 man_H0376 stood_H5975 by_H0413 me_H0413. 
+@7 He_H0834 said_H0559 to_H0413 me_H0413, “Son_H1121 of_H1121 man_H0120, this_H0834 is_H0834 the_H0853 place_H4725 of_H1121 my_H0834 throne_H3678 and_H1121 the_H0853 place_H4725 of_H1121 the_H0853 soles_H3709 of_H1121 my_H0834 feet_H7272, where_H0834 I_H0834 will_H0834 dwell_H7931 among_H8432 the_H0853 children_H1121 of_H1121 Israel_H3478 forever_H5769. The_H0853 house_H1004 of_H1121 Israel_H3478 will_H0834 no_H3808 more_H5750 defile_H2930 my_H0834 holy_H6944 name_H8034, neither_H3808 they_H1992 nor_H3808 their_H1992 kings_H4428, by_H0413 their_H1992 prostitution_H2184 and_H1121 by_H0413 the_H0853 dead_H6297 bodies_H6297 of_H1121 their_H1992 kings_H4428 in_H0413 their_H1992 high_H1116 places_H1116; 
+@8 in_H8034 their_H5414 setting_H5414 of_H8034 their_H5414 threshold by_H8034 my_H5414 threshold and_H0398 their_H5414 door_H4201 post_H4201 beside_H0681 my_H5414 door_H4201 post_H4201. There_H0834 was_H8034 a_H5414 wall_H7023 between_H0996 me_H5414 and_H0398 them_H5414; and_H0398 they_H0834 have_H0834 defiled_H2930 my_H5414 holy_H6944 name_H8034 by_H8034 their_H5414 abominations_H8441 which_H0834 they_H0834 have_H0834 committed_H6213. Therefore_H0834 I_H0834 have_H0834 consumed_H0398 them_H5414 in_H8034 my_H5414 anger_H0639. 
+@9 Now_H6258 let_H6258 them_H0853 put_H7368 away_H4480 their_H8432 prostitution_H2184, and_H4428 the_H0853 dead_H6297 bodies_H6297 of_H4428 their_H8432 kings_H4428 far_H7368 from_H4480 me_H4480. Then_H6258 I_H6258 will_H4428 dwell_H7931 among_H8432 them_H0853 forever_H5769. 
 
-@10 “You, son of man, show the house to the house of Israel, that they may be ashamed of their iniquities; and let them measure the pattern. 
-@11 If they are ashamed of all that they have done, make known to them the form of the house, its fashion, its exits, its entrances, its structure, all its ordinances, all its forms, and all its laws; and write it in their sight, that they may keep the whole form of it, and all its ordinances, and do them. 
+@10 “You_H0859, son_H1121 of_H1121 man_H0120, show_H5046 the_H0853 house_H1004 to_H3478 the_H0853 house_H1004 of_H1121 Israel_H3478, that_H3478 they_H3478 may_H0120 be_H1121 ashamed_H3637 of_H1121 their_H5046 iniquities_H5771; and_H1121 let_H5046 them_H0853 measure_H4058 the_H0853 pattern_H8508. 
+@11 If_H0518 they_H0834 are_H0834 ashamed_H3637 of_H1004 all_H3605 that_H0834 they_H0834 have_H0834 done_H6213, make_H6213 known_H3045 to_H8104 them_H0853 the_H3605 form of_H1004 the_H3605 house_H1004, its_H3605 fashion, its_H3605 exits_H4161, its_H3605 entrances_H4126, its_H3605 structure, all_H3605 its_H3605 ordinances_H2708, all_H3605 its_H3605 forms, and_H1004 all_H3605 its_H3605 laws_H8451; and_H1004 write_H3789 it_H0518 in_H1004 their_H3605 sight_H5869, that_H0834 they_H0834 may_H0834 keep_H8104 the_H3605 whole_H3605 form of_H1004 it_H0518, and_H1004 all_H3605 its_H3605 ordinances_H2708, and_H1004 do_H6213 them_H0853. 
 
-@12 “This is the law of the house. On the top of the mountain the whole limit around it shall be most holy. Behold, this is the law of the house.
+@12 “This_H2063 is_H2009 the_H3605 law_H8451 of_H1004 the_H3605 house_H1004. On_H5921 the_H3605 top_H7218 of_H1004 the_H3605 mountain_H2022 the_H3605 whole_H3605 limit around_H5439 it_H5921 shall_H1004 be_H1004 most_H6944 holy_H6944. Behold_H2009, this_H2063 is_H2009 the_H3605 law_H8451 of_H1004 the_H3605 house_H1004.
 
 ## The altar of holocaust and its consecration
-@13 “These are the measurements of the altar by cubits (the cubit^a^ is a cubit and a hand width): the bottom shall be a cubit, and the width a cubit, and its border around its edge a span;^b^ and this shall be the base of the altar. 
-@14 From the bottom on the ground to the lower ledge shall be two cubits, and the width one cubit; and from the lesser ledge to the greater ledge shall be four cubits, and the width a cubit. 
-@15 The upper altar shall be four cubits; and from the altar hearth and upward there shall be four horns. 
-@16 The altar hearth shall be twelve cubits long by twelve wide, square in its four sides. 
-@17 The ledge shall be fourteen cubits long by fourteen wide in its four sides; and the border about it shall be half a cubit; and its bottom shall be a cubit around; and its steps shall look toward the east.” 
+@13 “These_H0428 are_H0428 the_H0413 measurements of_H1366 the_H0413 altar_H4196 by_H0413 cubits_H0520 (the_H0413 cubit_H0520^a^ is_H2088 a_H2088 cubit_H0520 and_H4196 a_H2088 hand width_H7341): the_H0413 bottom_H2436 shall_H1366 be_H8193 a_H2088 cubit_H0520, and_H4196 the_H0413 width_H7341 a_H2088 cubit_H0520, and_H4196 its_H5439 border_H1366 around_H5439 its_H5439 edge_H8193 a_H2088 span_H2239;^b^ and_H4196 this_H2088 shall_H1366 be_H8193 the_H0413 base_H2436 of_H1366 the_H0413 altar_H4196. 
+@14 From_H5704 the_H5704 bottom_H2436 on_H0776 the_H5704 ground_H0776 to_H5704 the_H5704 lower_H8481 ledge_H5835 shall_H0776 be_H0776 two_H8147 cubits_H0520, and_H0776 the_H5704 width_H7341 one_H0259 cubit_H0520; and_H0776 from_H5704 the_H5704 lesser_H6996 ledge_H5835 to_H5704 the_H5704 greater_H1419 ledge_H5835 shall_H0776 be_H0776 four_H0702 cubits_H0520, and_H0776 the_H5704 width_H7341 a_H0776 cubit_H0520. 
+@15 The_H0520 upper altar_H0741 shall be four_H0702 cubits_H0520; and_H4605 from_H0520 the_H0520 altar_H0741 hearth_H0741 and_H4605 upward_H4605 there shall be four_H0702 horns_H7161. 
+@16 The_H0413 altar_H0741 hearth_H0741 shall be twelve_H6240 cubits long_H0753 by_H0413 twelve_H6240 wide_H7341, square_H7251 in_H0413 its four_H0702 sides_H7253. 
+@17 The_H0853 ledge_H5835 shall_H1366 be fourteen_H6240 cubits_H0520 long_H0753 by_H0413 fourteen_H6240 wide_H7341 in_H0413 its_H0853 four_H0702 sides_H5439; and_H6437 the_H0853 border_H1366 about_H5439 it_H5439 shall_H1366 be half_H2677 a_H2677 cubit_H0520; and_H6437 its_H0853 bottom_H2436 shall_H1366 be a_H2677 cubit_H0520 around_H5439; and_H6437 its_H0853 steps_H4609 shall_H1366 look_H6437 toward_H0413 the_H0853 east_H6921.” 
 ^a^[**43:13** A normal cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters. A hand width is about 4.3 inches or 11 cm.] ^b^[**43:13** A span is the length from the tip of a man’s thumb to the tip of his little finger when his hand is stretched out (about half a cubit, or 9 inches, or 22.8 cm.)]
 
 ## The dedication of the altar
-@18 He said to me, “Son of man, the Lord Yahweh says: ‘These are the ordinances of the altar in the day when they make it, to offer burnt offerings on it, and to sprinkle blood on it. 
-@19 You shall give to the Levitical priests who are of the offspring of Zadok, who are near to me, to minister to me,’ says the Lord Yahweh, ‘a young bull for a sin offering. 
-@20 You shall take of its blood and put it on its four horns, and on the four corners of the ledge, and on the border all around. You shall cleanse it and make atonement for it that way. 
-@21 You shall also take the bull of the sin offering, and it shall be burned in the appointed place of the house, outside of the sanctuary. 
+@18 He_H3117 said_H0559 to_H0413 me_H0413, “Son_H1121 of_H1121 man_H0120, the_H0559 Lord_H0136 Yahweh says_H0559: ‘These_H0428 are_H3117 the_H0559 ordinances_H2708 of_H1121 the_H0559 altar_H4196 in_H5921 the_H0559 day_H3117 when_H3117 they_H3117 make_H6213 it_H5921, to_H0413 offer_H5927 burnt_H5930 offerings_H5930 on_H5921 it_H5921, and_H1121 to_H0413 sprinkle_H2236 blood_H1818 on_H5921 it_H5921. 
+@19 You_H0834 shall_H3548 give_H5414 to_H0413 the_H0834 Levitical_H3881 priests_H3548 who_H0834 are_H0834 of_H1121 the_H0834 offspring_H2233 of_H1121 Zadok_H6659, who_H0834 are_H0834 near_H7138 to_H0413 me_H0413, to_H0413 minister_H8334 to_H0413 me_H0413,’ says_H5002 the_H0834 Lord_H0136 Yahweh, ‘a_H5414 young_H1121 bull_H6499 for_H0413 a_H5414 sin_H2403 offering_H3548. 
+@20 You_H5414 shall_H1366 take_H3947 of_H1366 its_H5414 blood_H1818 and_H1818 put_H5414 it_H5414 on_H5921 its_H5414 four_H0702 horns_H7161, and_H1818 on_H5921 the_H0853 four_H0702 corners_H6438 of_H1366 the_H0853 ledge_H5835, and_H1818 on_H5921 the_H0853 border_H1366 all_H5439 around_H5439. You_H5414 shall_H1366 cleanse_H2398 it_H5414 and_H1818 make_H5414 atonement_H3722 for_H5921 it_H5414 that_H5414 way_H5921. 
+@21 You_H0853 shall_H1004 also_H0853 take_H3947 the_H0853 bull_H6499 of_H1004 the_H0853 sin_H2403 offering, and_H1004 it_H3947 shall_H1004 be_H1004 burned_H8313 in_H1004 the_H0853 appointed_H4662 place_H1004 of_H1004 the_H0853 house_H1004, outside_H2351 of_H1004 the_H0853 sanctuary_H4720. 
 
-@22 “On the second day you shall offer a male goat without defect for a sin offering; and they shall cleanse the altar, as they cleansed it with the bull. 
-@23 When you have finished cleansing it, you shall offer a young bull without defect and a ram out of the flock without defect. 
-@24 You shall bring them near to Yahweh, and the priests shall cast salt on them, and they shall offer them up for a burnt offering to Yahweh. 
+@22 “On_H3117 the_H0853 second_H8145 day_H3117 you_H0834 shall_H3117 offer_H7126 a_H7126 male_H8163 goat_H5795 without_H8549 defect_H8549 for_H3117 a_H7126 sin_H2398 offering_H7126; and_H3117 they_H0834 shall_H3117 cleanse_H2398 the_H0853 altar_H4196, as_H0834 they_H0834 cleansed_H2398 it_H7126 with_H3117 the_H0853 bull_H6499. 
+@23 When_H3615 you_H4480 have_H1121 finished_H3615 cleansing_H2398 it_H7126, you_H4480 shall_H1121 offer_H7126 a_H4480 young_H1121 bull_H6499 without_H8549 defect_H8549 and_H1121 a_H4480 ram_H0352 out_H4480 of_H1121 the_H4480 flock_H6629 without_H8549 defect_H8549. 
+@24 You_H6440 shall_H3548 bring_H5927 them_H0853 near_H7126 to_H5921 Yahweh_H3068, and_H3068 the_H0853 priests_H3548 shall_H3548 cast_H7993 salt_H4417 on_H5921 them_H0853, and_H3068 they_H5921 shall_H3548 offer_H7126 them_H0853 up_H5927 for_H5921 a_H7126 burnt_H5930 offering_H5927 to_H5921 Yahweh_H3068. 
 
-@25 “Seven days you shall prepare every day a goat for a sin offering. They shall also prepare a young bull and a ram out of the flock, without defect. 
-@26 Seven days shall they make atonement for the altar and purify it. So shall they consecrate it. 
-@27 When they have accomplished the days, it shall be that on the eighth day and onward, the priests shall make your burnt offerings on the altar and your peace offerings. Then I will accept you,’ says the Lord Yahweh.” 
+@25 “Seven_H7651 days_H3117 you_H3117 shall_H1121 prepare_H6213 every_H3117 day_H3117 a_H4480 goat_H8163 for_H3117 a_H4480 sin_H2403 offering_H4480. They_H3117 shall_H1121 also_H3117 prepare_H6213 a_H4480 young_H1121 bull_H6499 and_H1121 a_H4480 ram_H0352 out_H4480 of_H1121 the_H4480 flock_H6629, without_H8549 defect_H8549. 
+@26 Seven_H7651 days_H3117 shall_H3117 they_H3117 make_H3027 atonement_H3722 for_H3027 the_H0853 altar_H4196 and_H3027 purify_H2891 it_H2891. So_H3722 shall_H3117 they_H3117 consecrate it_H2891. 
+@27 When_H1961 they_H3117 have_H1961 accomplished_H6213 the_H0853 days_H3117, it_H5921 shall_H3548 be_H1961 that_H3117 on_H5921 the_H0853 eighth_H8066 day_H3117 and_H3117 onward_H1973, the_H0853 priests_H3548 shall_H3548 make_H6213 your_H5921 burnt_H5930 offerings_H8002 on_H5921 the_H0853 altar_H4196 and_H3117 your_H5921 peace_H8002 offerings_H8002. Then_H1961 I_H3117 will_H1961 accept_H7521 you_H5921,’ says_H5002 the_H0853 Lord_H0136 Yahweh.” 
 
 # 44 
 ## The outer east gate of the temple compound and its destination for the prince
-@1 Then he brought me back by the way of the outer gate of the sanctuary, which looks toward the east; and it was shut. 
-@2 Yahweh said to me, “This gate shall be shut. It shall not be opened, no man shall enter in by it; for Yahweh, the God of Israel, has entered in by it. Therefore it shall be shut. 
-@3 As for the prince, he shall sit in it as prince to eat bread before Yahweh. He shall enter by the way of the porch of the gate, and shall go out the same way.”
+@1 Then_H0853 he_H1931 brought_H7725 me_H7725 back_H7725 by_H1870 the_H0853 way_H1870 of_H8179 the_H0853 outer_H2435 gate_H8179 of_H8179 the_H0853 sanctuary_H4720, which_H1931 looks toward_H1870 the_H0853 east_H6921; and_H7725 it_H1931 was_H1931 shut_H5462. 
+@2 Yahweh_H3068 said_H0559 to_H0413 me_H0413, “This_H2088 gate_H8179 shall_H3068 be_H1961 shut_H5462. It_H3588 shall_H3068 not_H3808 be_H1961 opened_H6605, no_H3808 man_H0376 shall_H3068 enter_H0935 in_H0935 by_H3068 it_H3588; for_H3588 Yahweh_H3068, the_H0559 God_H0430 of_H0376 Israel_H3478, has_H3068 entered_H0935 in_H0935 by_H3068 it_H3588. Therefore_H3068 it_H3588 shall_H3068 be_H1961 shut_H5462. 
+@3 As_H0935 for_H3427 the_H0853 prince_H5387, he_H1931 shall_H3068 sit_H3427 in_H3427 it_H1931 as_H0935 prince_H5387 to_H0935 eat_H0398 bread_H3899 before_H6440 Yahweh_H3068. He_H1931 shall_H3068 enter_H0935 by_H3068 the_H0853 way_H1870 of_H3068 the_H0853 porch_H0197 of_H3068 the_H0853 gate_H8179, and_H0935 shall_H3068 go_H3318 out_H3318 the_H0853 same_H1931 way_H1870.”
 
 ## Exclusion of Gentiles from the temple service and exclusion of Levites from the priesthood
-@4 Then he brought me by the way of the north gate before the house; and I looked, and behold, Yahweh’s glory filled Yahweh’s house; so I fell on my face. 
+@4 Then_H2009 he_H3068 brought_H0935 me_H0413 by_H3068 the_H0853 way_H1870 of_H1004 the_H0853 north_H6828 gate_H8179 before_H6440 the_H0853 house_H1004; and_H0935 I_H2009 looked_H7200, and_H0935 behold_H2009, Yahweh’s_H3068 glory_H3519 filled_H4390 Yahweh’s_H3068 house_H1004; so_H0935 I_H2009 fell_H5307 on_H0413 my_H3068 face_H6440. 
 
-@5 Yahweh said to me, “Son of man, mark well, and see with your eyes, and hear with your ears all that I tell you concerning all the ordinances of Yahweh’s house and all its laws; and mark well the entrance of the house, with every exit of the sanctuary. 
-@6 You shall tell the rebellious, even the house of Israel, ‘The Lord Yahweh says: “You house of Israel, let that be enough of all your abominations, 
-@7 in that you have brought in foreigners, uncircumcised in heart and uncircumcised in flesh, to be in my sanctuary, to profane it, even my house, when you offer my bread, the fat and the blood; and they have broken my covenant, to add to all your abominations. 
-@8 You have not performed the duty of my holy things; but you have set performers of my duty in my sanctuary for yourselves.” 
-@9 The Lord Yahweh says, “No foreigner, uncircumcised in heart and uncircumcised in flesh, shall enter into my sanctuary, of any foreigners who are among the children of Israel. 
+@5 Yahweh_H3068 said_H0559 to_H0413 me_H0413, “Son_H1121 of_H1121 man_H0120, mark_H7760 well_H3820, and_H1121 see_H7200 with_H0413 your_H3068 eyes_H5869, and_H1121 hear_H8085 with_H0413 your_H3068 ears_H0241 all_H3605 that_H0834 I_H0589 tell_H0559 you_H0834 concerning_H0413 all_H3605 the_H3605 ordinances_H2708 of_H1121 Yahweh’s_H3068 house_H1004 and_H1121 all_H3605 its_H3605 laws_H8451; and_H1121 mark_H7760 well_H3820 the_H3605 entrance_H3996 of_H1121 the_H3605 house_H1004, with_H0413 every_H3605 exit of_H1121 the_H3605 sanctuary_H4720. 
+@6 You_H3605 shall_H3478 tell_H0559 the_H3605 rebellious_H4805, even_H3541 the_H3605 house_H1004 of_H1004 Israel_H3478, ‘The_H3605 Lord_H0136 Yahweh says_H0559: “You_H3605 house_H1004 of_H1004 Israel_H3478, let that_H3605 be_H3478 enough_H7227 of_H1004 all_H3605 your_H3605 abominations_H8441, 
+@7 in_H0935 that_H3605 you_H3605 have_H1961 brought_H0935 in_H0935 foreigners_H5236, uncircumcised_H6189 in_H0935 heart_H3820 and_H1121 uncircumcised_H6189 in_H0935 flesh_H1320, to_H0413 be_H1961 in_H0935 my_H3605 sanctuary_H4720, to_H0413 profane_H2490 it_H7126, even_H0853 my_H3605 house_H1004, when_H1961 you_H3605 offer_H7126 my_H3605 bread_H3899, the_H3605 fat_H2459 and_H1121 the_H3605 blood_H1818; and_H1121 they_H0935 have_H1961 broken_H6565 my_H3605 covenant_H1285, to_H0413 add to_H0413 all_H3605 your_H3605 abominations_H8441. 
+@8 You_H7760 have_H3808 not_H3808 performed_H7760 the_H8104 duty_H4931 of_H6944 my_H8104 holy_H6944 things_H6944; but_H3808 you_H7760 have_H3808 set_H7760 performers of_H6944 my_H8104 duty_H4931 in_H3808 my_H8104 sanctuary_H4720 for_H3808 yourselves.” 
+@9 The_H3605 Lord_H0136 Yahweh says_H0559, “No_H3808 foreigner_H5236, uncircumcised_H6189 in_H0935 heart_H3820 and_H1121 uncircumcised_H6189 in_H0935 flesh_H1320, shall_H1121 enter_H0935 into_H0413 my_H3605 sanctuary_H4720, of_H1121 any_H3605 foreigners_H5236 who_H0834 are_H0834 among_H8432 the_H3605 children_H1121 of_H1121 Israel_H3478. 
 
-@10 “‘“But the Levites who went far from me when Israel went astray, who went astray from me after their idols, they will bear their iniquity. 
-@11 Yet they shall be ministers in my sanctuary, having oversight at the gates of the house, and ministering in the house. They shall kill the burnt offering and the sacrifice for the people, and they shall stand before them to minister to them. 
-@12 Because they ministered to them before their idols, and became a stumbling block of iniquity to the house of Israel, therefore I have lifted up my hand against them,” says the Lord Yahweh, “and they will bear their iniquity. 
-@13 They shall not come near to me, to execute the office of priest to me, nor to come near to any of my holy things, to the things that are most holy; but they will bear their shame and their abominations which they have committed. 
-@14 Yet I will make them performers of the duty of the house, for all its service and for all that will be done therein.
+@10 “‘“But_H3588 the_H0834 Levites_H3881 who_H0834 went_H8582 far_H7368 from_H5921 me_H5921 when_H3588 Israel_H3478 went_H8582 astray_H8582, who_H0834 went_H8582 astray_H8582 from_H5921 me_H5921 after_H0310 their_H5375 idols_H1544, they_H0834 will_H0834 bear_H5375 their_H5375 iniquity_H5771. 
+@11 Yet they_H1992 shall_H1004 be_H1961 ministers_H8334 in_H0413 my_H1961 sanctuary_H4720, having_H1961 oversight_H6486 at_H0413 the_H0853 gates_H8179 of_H1004 the_H0853 house_H1004, and_H1004 ministering_H8334 in_H0413 the_H0853 house_H1004. They_H1992 shall_H1004 kill_H7819 the_H0853 burnt_H5930 offering and_H1004 the_H0853 sacrifice_H2077 for_H0413 the_H0853 people_H5971, and_H1004 they_H1992 shall_H1004 stand_H5975 before_H6440 them_H0413 to_H0413 minister_H8334 to_H0413 them_H0413. 
+@12 Because_H5921 they_H0834 ministered_H8334 to_H1961 them_H0853 before_H6440 their_H5375 idols_H1544, and_H3478 became_H1961 a_H1961 stumbling_H4383 block_H4383 of_H1004 iniquity_H5771 to_H1961 the_H0853 house_H1004 of_H1004 Israel_H3478, therefore_H3651 I_H0834 have_H1961 lifted_H5375 up_H5375 my_H5921 hand_H3027 against_H5921 them_H0853,” says_H5002 the_H0853 Lord_H0136 Yahweh, “and_H3478 they_H0834 will_H1961 bear_H5375 their_H5375 iniquity_H5771. 
+@13 They_H0834 shall_H3808 not_H3808 come_H5066 near_H5066 to_H0413 me_H0413, to_H0413 execute the_H3605 office of_H5921 priest_H3547 to_H0413 me_H0413, nor_H3808 to_H0413 come_H5066 near_H5066 to_H0413 any_H3605 of_H5921 my_H3605 holy_H6944 things_H6944, to_H0413 the_H3605 things_H6944 that_H0834 are_H0834 most_H6944 holy_H6944; but_H3808 they_H0834 will_H0834 bear_H5375 their_H3605 shame_H3639 and_H5066 their_H3605 abominations_H8441 which_H0834 they_H0834 have_H0834 committed_H6213. 
+@14 Yet_H5414 I_H0834 will_H0834 make_H5414 them_H5414 performers of_H1004 the_H3605 duty_H4931 of_H1004 the_H3605 house_H1004, for_H1004 all_H3605 its_H3605 service_H5656 and_H1004 for_H1004 all_H3605 that_H0834 will_H0834 be_H1004 done_H6213 therein.
 
 ## Instructions for legitimate priests
-@15 “‘“But the Levitical priests, the sons of Zadok, who performed the duty of my sanctuary when the children of Israel went astray from me, shall come near to me to minister to me. They shall stand before me to offer to me the fat and the blood,” says the Lord Yahweh. 
-@16 “They shall enter into my sanctuary, and they shall come near to my table, to minister to me, and they shall keep my instruction. 
+@15 “‘“But_H1992 the_H0853 Levitical_H3881 priests_H3548, the_H0853 sons_H1121 of_H1121 Zadok_H6659, who_H0834 performed_H8104 the_H0853 duty_H4931 of_H1121 my_H8104 sanctuary_H4720 when_H0834 the_H0853 children_H1121 of_H1121 Israel_H3478 went_H8582 astray_H8582 from_H5921 me_H0413, shall_H3548 come_H7126 near_H7126 to_H0413 me_H0413 to_H0413 minister_H8334 to_H0413 me_H0413. They_H1992 shall_H3548 stand_H5975 before_H6440 me_H0413 to_H0413 offer_H7126 to_H0413 me_H0413 the_H0853 fat_H2459 and_H1121 the_H0853 blood_H1818,” says_H5002 the_H0853 Lord_H0136 Yahweh. 
+@16 “They_H1992 shall enter_H0935 into_H0413 my_H8104 sanctuary_H4720, and_H0935 they_H1992 shall come_H0935 near_H7126 to_H0413 my_H8104 table_H7979, to_H0413 minister_H8334 to_H0413 me_H0413, and_H0935 they_H1992 shall keep_H8104 my_H8104 instruction. 
 
-@17 “‘“It will be that when they enter in at the gates of the inner court, they shall be clothed with linen garments. No wool shall come on them while they minister in the gates of the inner court, and within. 
-@18 They shall have linen turbans on their heads, and shall have linen trousers on their waists. They shall not clothe themselves with anything that makes them sweat. 
-@19 When they go out into the outer court, even into the outer court to the people, they shall put off their garments in which they minister and lay them in the holy rooms. They shall put on other garments, that they not sanctify the people with their garments. 
+@17 “‘“It_H5921 will_H1961 be_H1961 that_H3808 when_H1961 they_H5921 enter_H0935 in_H5921 at_H0413 the_H5921 gates_H8179 of_H1004 the_H5921 inner_H6442 court_H2691, they_H5921 shall_H1004 be_H1961 clothed_H3847 with_H0413 linen_H6593 garments_H0899. No_H3808 wool_H6785 shall_H1004 come_H0935 on_H5921 them_H0413 while_H1961 they_H5921 minister_H8334 in_H5921 the_H5921 gates_H8179 of_H1004 the_H5921 inner_H6442 court_H2691, and_H0935 within_H5921. 
+@18 They_H5921 shall_H3808 have_H1961 linen_H6593 turbans_H6287 on_H5921 their_H5921 heads_H7218, and_H7218 shall_H3808 have_H1961 linen_H6593 trousers on_H5921 their_H5921 waists. They_H5921 shall_H3808 not_H3808 clothe themselves_H5921 with_H5921 anything_H3808 that_H1961 makes them_H5921 sweat_H3154. 
+@19 When_H0834 they_H1992 go_H3318 out_H3318 into_H0413 the_H0853 outer_H2435 court_H2691, even_H3808 into_H0413 the_H0853 outer_H2435 court_H2691 to_H0413 the_H0853 people_H5971, they_H1992 shall_H3808 put_H3847 off_H6584 their_H1992 garments_H0899 in_H0413 which_H0834 they_H1992 minister_H8334 and_H3318 lay_H3318 them_H0413 in_H0413 the_H0853 holy_H6944 rooms_H3957. They_H1992 shall_H3808 put_H3847 on_H0413 other_H0312 garments_H0899, that_H0834 they_H1992 not_H3808 sanctify_H6942 the_H0853 people_H5971 with_H0413 their_H1992 garments_H0899. 
 
-@20 “‘“They shall not shave their heads, or allow their locks to grow long. They shall only cut off the hair of their heads. 
-@21 None of the priests shall drink wine when they enter into the inner court. 
-@22 They shall not take for their wives a widow, or her who is put away; but they shall take virgins of the offspring of the house of Israel, or a widow who is the widow of a priest. 
-@23 They shall teach my people the difference between the holy and the common, and cause them to discern between the unclean and the clean. 
+@20 “‘“They_H3808 shall_H3808 not_H3808 shave_H1548 their_H7971 heads_H7218, or_H3808 allow their_H7971 locks_H6545 to_H7971 grow_H7971 long_H7971. They_H3808 shall_H3808 only_H3697 cut_H1548 off_H1548 the_H0853 hair_H7218 of_H7218 their_H7971 heads_H7218. 
+@21 None_H3808 of_H3605 the_H3605 priests_H3548 shall_H3548 drink_H8354 wine_H3196 when_H0935 they_H3808 enter_H0935 into_H0413 the_H3605 inner_H6442 court_H2691. 
+@22 They_H0834 shall_H3548 not_H3808 take_H3947 for_H3588 their_H3947 wives_H0802 a_H1961 widow_H0490, or_H0518 her_H3947 who_H0834 is_H0834 put_H3947 away_H3947; but_H3588 they_H0834 shall_H3548 take_H3947 virgins_H1330 of_H1004 the_H0834 offspring_H2233 of_H1004 the_H0834 house_H1004 of_H1004 Israel_H3478, or_H0518 a_H1961 widow_H0490 who_H0834 is_H0834 the_H0834 widow_H0490 of_H1004 a_H1961 priest_H3548. 
+@23 They_H5971 shall_H2889 teach_H3384 my_H3045 people_H5971 the_H0853 difference between_H0996 the_H0853 holy_H6944 and_H3045 the_H0853 common_H2455, and_H3045 cause them_H0853 to_H3045 discern_H3045 between_H0996 the_H0853 unclean_H2931 and_H3045 the_H0853 clean_H2889. 
 
-@24 “‘“In a controversy they shall stand to judge. They shall judge it according to my ordinances. They shall keep my laws and my statutes in all my appointed feasts. They shall make my Sabbaths holy.
+@24 “‘“In_H5921 a_H5921 controversy_H7379 they_H1992 shall_H8451 stand_H5975 to_H5921 judge_H8199. They_H1992 shall_H8451 judge_H8199 it_H5921 according_H5921 to_H5921 my_H3605 ordinances_H4941. They_H1992 shall_H8451 keep_H8104 my_H3605 laws_H8451 and_H4941 my_H3605 statutes_H2708 in_H5921 all_H3605 my_H3605 appointed_H4150 feasts_H4150. They_H1992 shall_H8451 make_H5975 my_H3605 Sabbaths_H7676 holy_H6942.
 
 ## Conduct of priests in case of death
-@25 “‘“They shall go in to no dead person to defile themselves; but for father, or for mother, or for son, or for daughter, for brother, or for sister who has had no husband, they may defile themselves. 
-@26 After he is cleansed, they shall reckon to him seven days. 
-@27 In the day that he goes into the sanctuary, into the inner court, to minister in the sanctuary, he shall offer his sin offering,” says the Lord Yahweh.
+@25 “‘“They_H0834 shall_H1121 go_H0935 in_H0935 to_H0413 no_H3808 dead_H4191 person_H0376 to_H0413 defile_H2930 themselves; but_H3588 for_H3588 father_H0001, or_H0518 for_H3588 mother_H0517, or_H0518 for_H3588 son_H1121, or_H0518 for_H3588 daughter_H1323, for_H3588 brother_H0251, or_H0518 for_H3588 sister_H0269 who_H0834 has_H0834 had_H0834 no_H3808 husband_H0376, they_H0834 may_H1961 defile_H2930 themselves. 
+@26 After_H0310 he_H0310 is_H3117 cleansed_H2893, they_H3117 shall_H3117 reckon to_H3117 him_H0310 seven_H7651 days_H3117. 
+@27 In_H0935 the_H5002 day_H3117 that_H3117 he_H3117 goes_H0935 into_H0413 the_H5002 sanctuary_H6944, into_H0413 the_H5002 inner_H6442 court_H2691, to_H0413 minister_H8334 in_H0935 the_H5002 sanctuary_H6944, he_H3117 shall_H3117 offer_H7126 his_H0935 sin_H2403 offering_H7126,” says_H5002 the_H5002 Lord_H0136 Yahweh.
 
 ## Inheritance, property and income of priests
-@28 “‘They shall have an inheritance: I am their inheritance; and you shall give them no possession in Israel. I am their possession. 
-@29 They shall eat the meal offering, and the sin offering, and the trespass offering; and every devoted thing in Israel shall be theirs. 
-@30 The first of all the first fruits of every thing, and every offering of everything, of all your offerings, shall be for the priest. You shall also give to the priests the first of your dough, to cause a blessing to rest on your house. 
-@31 The priests shall not eat of anything that dies of itself or is torn, whether it is bird or animal. 
+@28 “‘They_H3808 shall_H3478 have_H1961 an_H1961 inheritance_H5159: I_H0589 am_H0589 their_H5414 inheritance_H5159; and_H3478 you_H5414 shall_H3478 give_H5414 them_H5414 no_H3808 possession_H0272 in_H3478 Israel_H3478. I_H0589 am_H0589 their_H5414 possession_H0272. 
+@29 They_H1992 shall_H3478 eat_H0398 the_H3605 meal_H4503 offering_H4503, and_H3478 the_H3605 sin_H2403 offering_H4503, and_H3478 the_H3605 trespass offering_H4503; and_H3478 every_H3605 devoted_H2764 thing_H3605 in_H3478 Israel_H3478 shall_H3478 be_H1961 theirs_H1992. 
+@30 The_H3605 first_H7225 of_H1004 all_H3605 the_H3605 first_H7225 fruits_H1061 of_H1004 every_H3605 thing_H3605, and_H1004 every_H3605 offering_H8641 of_H1004 everything_H3605, of_H1004 all_H3605 your_H3605 offerings_H8641, shall_H3548 be_H1961 for_H0413 the_H3605 priest_H3548. You_H5414 shall_H3548 also give_H5414 to_H0413 the_H3605 priests_H3548 the_H3605 first_H7225 of_H1004 your_H3605 dough_H6182, to_H0413 cause_H5414 a_H1961 blessing_H1293 to_H0413 rest_H5117 on_H0413 your_H3605 house_H1004. 
+@31 The_H3605 priests_H3548 shall_H3548 not_H3808 eat_H0398 of_H4480 anything_H3605 that_H3605 dies_H5038 of_H4480 itself or_H3808 is_H3605 torn_H2966, whether_H4480 it_H0398 is_H3605 bird_H5775 or_H3808 animal_H0929. 
 
 # 45 
-@1 “‘“Moreover, when you divide by lot the land for inheritance, you shall offer an offering to Yahweh, a holy portion of the land. The length shall be the length of twenty-five thousand reeds, and the width shall be ten thousand. It shall be holy in all its border all around. 
-@2 Of this there shall be a five hundred by five hundred square for the holy place, and fifty cubits^a^ for its pasture lands all around. 
-@3 Of this measure you shall measure a length of twenty-five thousand, and a width of ten thousand. In it shall be the sanctuary, which is most holy. 
-@4 It is a holy portion of the land; it shall be for the priests, the ministers of the sanctuary, who come near to minister to Yahweh. It shall be a place for their houses and a holy place for the sanctuary. 
-@5 Twenty-five thousand cubits in length and ten thousand in width shall be for the Levites, the ministers of the house, as a possession for themselves, for twenty rooms. 
+@1 “‘“Moreover, when_H3068 you_H3605 divide_H5307 by_H3068 lot_H5307 the_H3605 land_H0776 for_H0776 inheritance_H5159, you_H3605 shall_H3068 offer_H7311 an_H4480 offering_H8641 to_H3068 Yahweh_H3068, a_H4480 holy_H6944 portion_H6944 of_H0776 the_H3605 land_H0776. The_H3605 length_H0753 shall_H3068 be_H3068 the_H3605 length_H0753 of_H0776 twenty-five_H2568 thousand_H0505 reeds, and_H3068 the_H3605 width_H7341 shall_H3068 be_H3068 ten_H6235 thousand_H0505. It_H1931 shall_H3068 be_H3068 holy_H6944 in_H3068 all_H3605 its_H3605 border_H1366 all_H3605 around_H5439. 
+@2 Of_H6944 this_H2088 there_H1961 shall_H2088 be_H1961 a_H1961 five_H2568 hundred_H3967 by_H0413 five_H2568 hundred_H3967 square_H7251 for_H0413 the_H0413 holy_H6944 place_H6944, and_H3967 fifty_H2572 cubits_H0520^a^ for_H0413 its_H5439 pasture_H4054 lands_H4054 all_H5439 around_H5439. 
+@3 Of_H4480 this_H2063 measure_H4058 you_H4480 shall measure_H4058 a_H1961 length_H0753 of_H4480 twenty-five_H2568 thousand_H0505, and_H0753 a_H1961 width_H7341 of_H4480 ten_H6235 thousand_H0505. In_H1961 it_H1961 shall be_H1961 the_H4480 sanctuary_H4720, which is_H1961 most_H6944 holy_H6944. 
+@4 It_H1931 is_H3068 a_H1961 holy_H6944 portion_H6944 of_H1004 the_H0853 land_H0776; it_H1931 shall_H3548 be_H1961 for_H0776 the_H0853 priests_H3548, the_H0853 ministers_H8334 of_H1004 the_H0853 sanctuary_H4720, who_H1931 come_H1961 near_H7131 to_H1961 minister_H8334 to_H1961 Yahweh_H3068. It_H1931 shall_H3548 be_H1961 a_H1961 place_H4725 for_H0776 their_H3068 houses_H1004 and_H3068 a_H1961 holy_H6944 place_H4725 for_H0776 the_H0853 sanctuary_H4720. 
+@5 Twenty-five_H2568 thousand_H0505 cubits in_H1004 length_H0753 and_H1004 ten_H6235 thousand_H0505 in_H1004 width_H7341 shall_H1004 be_H1961 for_H1004 the_H1961 Levites_H3881, the_H1961 ministers_H8334 of_H1004 the_H1961 house_H1004, as_H1961 a_H1961 possession_H0272 for_H1004 themselves_H1992, for_H1004 twenty_H6242 rooms_H3957. 
 ^a^[**45:2** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters.]
 
-@6 “‘“You shall appoint the possession of the city five thousand cubits wide and twenty-five thousand long, side by side with the offering of the holy portion. It shall be for the whole house of Israel. 
+@6 “‘“You_H5414 shall_H3478 appoint_H5414 the_H3605 possession_H0272 of_H1004 the_H3605 city_H5892 five_H2568 thousand_H0505 cubits wide_H7341 and_H3478 twenty-five_H2568 thousand_H0505 long_H0753, side_H5980 by_H1961 side_H5980 with_H1004 the_H3605 offering_H8641 of_H1004 the_H3605 holy_H6944 portion_H6944. It_H5414 shall_H3478 be_H1961 for_H1004 the_H3605 whole_H3605 house_H1004 of_H1004 Israel_H3478. 
 
-@7 “‘“What is for the prince shall be on the one side and on the other side of the holy allotment and of the possession of the city, in front of the holy allotment and in front of the possession of the city, on the west side westward, and on the east side eastward, and in length corresponding to one of the portions, from the west border to the east border. 
-@8 In the land it shall be to him for a possession in Israel. My princes shall no more oppress my people, but they shall give the land to the house of Israel according to their tribes.” 
+@7 “‘“What_H2088 is_H2088 for_H0413 the_H6440 prince_H5387 shall_H1366 be_H3220 on_H0413 the_H6440 one_H0259 side_H6285 and_H6440 on_H0413 the_H6440 other_H0259 side_H6285 of_H1366 the_H6440 holy_H6944 allotment_H8641 and_H6440 of_H1366 the_H6440 possession_H0272 of_H1366 the_H6440 city_H5892, in_H0413 front_H6440 of_H1366 the_H6440 holy_H6944 allotment_H8641 and_H6440 in_H0413 front_H6440 of_H1366 the_H6440 possession_H0272 of_H1366 the_H6440 city_H5892, on_H0413 the_H6440 west_H3220 side_H6285 westward_H3220, and_H6440 on_H0413 the_H6440 east_H6921 side_H6285 eastward_H6924, and_H6440 in_H0413 length_H0753 corresponding_H5980 to_H0413 one_H0259 of_H1366 the_H6440 portions_H2506, from_H6440 the_H6440 west_H3220 border_H1366 to_H0413 the_H6440 east_H6921 border_H1366. 
+@8 In_H1004 the_H0853 land_H0776 it_H5414 shall_H3478 be_H1961 to_H1961 him_H5414 for_H0776 a_H1961 possession_H0272 in_H1004 Israel_H3478. My_H5414 princes_H5387 shall_H3478 no_H3808 more_H5750 oppress_H3238 my_H5414 people_H5971, but_H3808 they_H3808 shall_H3478 give_H5414 the_H0853 land_H0776 to_H1961 the_H0853 house_H1004 of_H1004 Israel_H3478 according to_H1961 their_H5414 tribes_H7626.” 
 
-@9 “‘The Lord Yahweh says: “Enough you, princes of Israel! Remove violence and plunder, and execute justice and righteousness! Stop dispossessing my people!” says the Lord Yahweh. 
-@10 “You shall have just balances, a just ephah,^a^ and a just bath. 
-@11 The ephah and the bath shall be of one measure, that the bath may contain one tenth of a homer,^b^ and the ephah one tenth of a homer. Its measure shall be the same as the homer. 
-@12 The shekel^c^ shall be twenty gerahs.^d^ Twenty shekels plus twenty-five shekels plus fifteen shekels shall be your mina.^e^ 
+@9 “‘The_H0559 Lord_H0136 Yahweh says_H0559: “Enough_H7227 you_H5921, princes_H5387 of_H5921 Israel_H3478! Remove_H5493 violence_H2555 and_H3478 plunder, and_H3478 execute justice_H4941 and_H3478 righteousness_H6666! Stop_H5493 dispossessing my_H5921 people_H5971!” says_H0559 the_H0559 Lord_H0136 Yahweh. 
+@10 “You_H6664 shall have_H1961 just_H6664 balances_H3976, a_H1961 just_H6664 ephah_H0374,^a^ and_H6664 a_H1961 just_H6664 bath_H1324. 
+@11 The_H0413 ephah_H0374 and_H0259 the_H0413 bath_H1324 shall be_H1961 of_H0259 one_H0259 measure_H0374, that_H1961 the_H0413 bath_H1324 may_H1961 contain_H5375 one_H0259 tenth_H6224 of_H0259 a_H1961 homer,^b^ and_H0259 the_H0413 ephah_H0374 one_H0259 tenth_H6224 of_H0259 a_H1961 homer. Its_H1961 measure_H0374 shall be_H1961 the_H0413 same_H0259 as_H1961 the_H0413 homer. 
+@12 The_H1961 shekel_H8255^c^ shall be_H1961 twenty_H6242 gerahs_H1626.^d^ Twenty_H6242 shekels_H8255 plus twenty-five_H2568 shekels_H8255 plus fifteen shekels_H8255 shall be_H1961 your_H1961 mina.^e^ 
 ^a^[**45:10** 1 ephah is about 22 liters or about 2/3 of a bushel] ^b^[**45:11** 1 homer is about 220 liters or 6 bushels] ^c^[**45:12** A shekel is about 10 grams or about 0.35 ounces.] ^d^[**45:12** a gerah is about 0.5 grams or about 7.7 grains] ^e^[**45:12** A mina is about 600 grams or 1.3 U. S. pounds.]
 
-@13 “‘“This is the offering that you shall offer: the sixth part of an ephah from a homer of wheat, and you shall give the sixth part of an ephah from a homer of barley, 
-@14 and the set portion of oil, of the bath of oil, one tenth of a bath out of the cor, which is ten baths, even a homer (for ten baths are a homer),^a^ 
-@15 and one lamb of the flock out of two hundred, from the well-watered pastures of Israel—for a meal offering, for a burnt offering, and for peace offerings, to make atonement for them,” says the Lord Yahweh. 
-@16 “All the people of the land shall give to this offering for the prince in Israel. 
-@17 It shall be the prince’s part to give the burnt offerings, the meal offerings, and the drink offerings, in the feasts, and on the new moons, and on the Sabbaths, in all the appointed feasts of the house of Israel. He shall prepare the sin offering, the meal offering, the burnt offering, and the peace offerings, to make atonement for the house of Israel.” 
+@13 “‘“This_H2063 is_H0834 the_H0834 offering_H8641 that_H0834 you_H0834 shall_H0834 offer_H7311: the_H0834 sixth_H8345 part_H8345 of_H0374 an_H7311 ephah_H0374 from_H0834 a_H0834 homer of_H0374 wheat_H2406, and_H7311 you_H0834 shall_H0834 give the_H0834 sixth_H8345 part_H8345 of_H0374 an_H7311 ephah_H0374 from_H0834 a_H0834 homer of_H0374 barley_H8184, 
+@14 and_H8081 the_H3588 set portion_H2706 of_H4480 oil_H8081, of_H4480 the_H3588 bath_H1324 of_H4480 oil_H8081, one_H4480 tenth_H4643 of_H4480 a_H3588 bath_H1324 out_H4480 of_H4480 the_H3588 cor, which is_H2706 ten_H6235 baths_H1324, even_H3588 a_H3588 homer (for_H3588 ten_H6235 baths_H1324 are_H6235 a_H3588 homer),^a^ 
+@15 and_H3478 one_H0259 lamb_H7716 of_H4480 the_H5002 flock_H6629 out_H4480 of_H4480 two_H4480 hundred_H3967, from_H4480 the_H5002 well-watered pastures of_H4480 Israel_H3478—for_H5921 a_H4480 meal_H4503 offering_H4503, for_H5921 a_H4480 burnt_H5930 offering_H4503, and_H3478 for_H5921 peace_H8002 offerings_H8002, to_H5921 make atonement_H3722 for_H5921 them_H5921,” says_H5002 the_H5002 Lord_H0136 Yahweh. 
+@16 “All_H3605 the_H3605 people_H5971 of_H0776 the_H3605 land_H0776 shall_H3478 give_H1961 to_H0413 this_H2063 offering_H8641 for_H0413 the_H3605 prince_H5387 in_H0413 Israel_H3478. 
+@17 It_H1931 shall_H3478 be_H1961 the_H3605 prince’s part_H1931 to_H1961 give_H1961 the_H3605 burnt_H5930 offerings_H8002, the_H3605 meal_H4503 offerings_H8002, and_H3478 the_H3605 drink offerings_H8002, in_H5921 the_H3605 feasts_H4150, and_H3478 on_H5921 the_H3605 new_H2320 moons_H2320, and_H3478 on_H5921 the_H3605 Sabbaths_H7676, in_H5921 all_H3605 the_H3605 appointed_H4150 feasts_H4150 of_H1004 the_H3605 house_H1004 of_H1004 Israel_H3478. He_H1931 shall_H3478 prepare_H6213 the_H3605 sin_H2403 offering_H4503, the_H3605 meal_H4503 offering_H4503, the_H3605 burnt_H5930 offering_H4503, and_H3478 the_H3605 peace_H8002 offerings_H8002, to_H1961 make_H6213 atonement_H3722 for_H5921 the_H3605 house_H1004 of_H1004 Israel_H3478.” 
 ^a^[**45:14** 1 cor is the same as 1 homer in volume, and is about 211 liters, 55.9 gallons, or 6 bushels. 1 bath is about 21.1 liters, 5.59 gallons, or 2.4 pecks.]
 
-@18 “‘The Lord Yahweh says: “In the first month, on the first day of the month, you shall take a young bull without defect, and you shall cleanse the sanctuary. 
-@19 The priest shall take of the blood of the sin offering and put it on the door posts of the house, and on the four corners of the ledge of the altar, and on the posts of the gate of the inner court. 
-@20 So you shall do on the seventh day of the month for everyone who errs, and for him who is simple. So you shall make atonement for the house. 
+@18 “‘The_H0853 Lord_H0136 Yahweh says_H0559: “In_H1121 the_H0853 first_H7223 month_H2320, on_H0259 the_H0853 first_H7223 day_H2320 of_H1121 the_H0853 month_H2320, you_H0853 shall_H1121 take_H3947 a_H3947 young_H1121 bull_H6499 without_H8549 defect_H8549, and_H1121 you_H0853 shall_H1121 cleanse_H2398 the_H0853 sanctuary_H4720. 
+@19 The_H5921 priest_H3548 shall_H3548 take_H3947 of_H1004 the_H5921 blood_H1818 of_H1004 the_H5921 sin_H2403 offering_H3548 and_H1004 put_H5414 it_H5414 on_H5921 the_H5921 door_H4201 posts_H4201 of_H1004 the_H5921 house_H1004, and_H1004 on_H5921 the_H5921 four_H0702 corners_H6438 of_H1004 the_H5921 ledge_H5835 of_H1004 the_H5921 altar_H4196, and_H1004 on_H5921 the_H5921 posts_H4201 of_H1004 the_H5921 gate_H8179 of_H1004 the_H5921 inner_H6442 court_H2691. 
+@20 So_H3651 you_H6213 shall_H1004 do_H6213 on_H1004 the_H0853 seventh_H7651 day_H2320 of_H1004 the_H0853 month_H2320 for_H1004 everyone_H0376 who_H0376 errs, and_H1004 for_H1004 him_H0853 who_H0376 is_H0376 simple. So_H3651 you_H6213 shall_H1004 make_H6213 atonement_H3722 for_H1004 the_H0853 house_H1004. 
 
-@21 “‘“In the first month, on the fourteenth day of the month, you shall have the Passover, a feast of seven days; unleavened bread shall be eaten. 
-@22 On that day the prince shall prepare for himself and for all the people of the land a bull for a sin offering. 
-@23 The seven days of the feast he shall prepare a burnt offering to Yahweh, seven bulls and seven rams without defect daily the seven days; and a male goat daily for a sin offering. 
-@24 He shall prepare a meal offering, an ephah^a^ for a bull, an ephah for a ram, and a hin^b^ of oil to an ephah. 
+@21 “‘“In_H3117 the_H3117 first_H7223 month_H2320, on_H3117 the_H3117 fourteenth day_H3117 of_H3117 the_H3117 month_H2320, you_H3117 shall_H3117 have_H1961 the_H3117 Passover_H6453, a_H1961 feast_H2282 of_H3117 seven_H7620 days_H3117; unleavened_H4682 bread_H4682 shall_H3117 be_H1961 eaten_H0398. 
+@22 On_H3117 that_H3605 day_H3117 the_H3605 prince_H5387 shall_H0776 prepare_H6213 for_H1157 himself_H1931 and_H0776 for_H1157 all_H3605 the_H3605 people_H5971 of_H0776 the_H3605 land_H0776 a_H0776 bull_H6499 for_H1157 a_H0776 sin_H2403 offering. 
+@23 The_H3068 seven_H7651 days_H3117 of_H3068 the_H3068 feast_H2282 he_H3117 shall_H3068 prepare_H6213 a_H3068 burnt_H5930 offering_H3068 to_H3068 Yahweh_H3068, seven_H7651 bulls_H6499 and_H3068 seven_H7651 rams_H0352 without_H8549 defect_H8549 daily_H3117 the_H3068 seven_H7651 days_H3117; and_H3068 a_H3068 male_H8163 goat_H5795 daily_H3117 for_H3117 a_H3068 sin_H2403 offering_H3068. 
+@24 He_H6213 shall prepare_H6213 a_H0374 meal_H4503 offering_H4503, an_H4503 ephah_H0374^a^ for_H8081 a_H0374 bull_H6499, an_H4503 ephah_H0374 for_H8081 a_H0374 ram_H0352, and_H8081 a_H0374 hin_H1969^b^ of_H1969 oil_H8081 to_H4503 an_H4503 ephah_H0374. 
 ^a^[**45:24** 1 ephah is about 22 liters or about 2/3 of a bushel] ^b^[**45:24** A hin is about 6.5 liters or 1.7 gallons.]
 
-@25 “‘“In the seventh month, on the fifteenth day of the month, during the feast, he shall do like that for seven days. He shall make the same provision for sin offering, the burnt offering, the meal offering, and the oil.” 
+@25 “‘“In_H3117 the_H3117 seventh_H7651 month_H2320, on_H3117 the_H3117 fifteenth day_H3117 of_H3117 the_H3117 month_H2320, during_H3117 the_H3117 feast_H2282, he_H3117 shall_H3117 do_H6213 like that_H3117 for_H3117 seven_H7651 days_H3117. He_H3117 shall_H3117 make_H6213 the_H3117 same_H0428 provision for_H3117 sin_H2403 offering_H4503, the_H3117 burnt_H5930 offering_H4503, the_H3117 meal_H4503 offering_H4503, and_H3117 the_H3117 oil_H8081.” 
 
 # 46 
 ## Regulations for the celebration of Saturday and the new moon
-@1 “‘The Lord Yahweh says: “The gate of the inner court that looks toward the east shall be shut the six working days; but on the Sabbath day it shall be opened, and on the day of the new moon it shall be opened. 
-@2 The prince shall enter by the way of the porch of the gate outside, and shall stand by the post of the gate; and the priests shall prepare his burnt offering and his peace offerings, and he shall worship at the threshold of the gate. Then he shall go out, but the gate shall not be shut until the evening. 
-@3 The people of the land shall worship at the door of that gate before Yahweh on the Sabbaths and on the new moons. 
-@4 The burnt offering that the prince shall offer to Yahweh shall be on the Sabbath day, six lambs without defect and a ram without defect; 
-@5 and the meal offering shall be an ephah for the ram, and the meal offering for the lambs as he is able to give, and a hin^a^ of oil to an ephah.^b^ 
-@6 On the day of the new moon it shall be a young bull without defect, six lambs, and a ram. They shall be without defect. 
-@7 He shall prepare a meal offering: an ephah for the bull, and an ephah for the ram, and for the lambs according as he is able, and a hin of oil to an ephah. 
-@8 When the prince enters, he shall go in by the way of the porch of the gate, and he shall go out by its way. 
+@1 “‘The_H0559 Lord_H0136 Yahweh says_H0559: “The_H0559 gate_H8179 of_H3117 the_H0559 inner_H6442 court_H2691 that_H3117 looks toward_H6437 the_H0559 east_H6921 shall_H3117 be_H1961 shut_H5462 the_H0559 six_H8337 working_H4639 days_H3117; but_H1961 on_H3117 the_H0559 Sabbath_H7676 day_H3117 it_H1961 shall_H3117 be_H1961 opened_H6605, and_H3117 on_H3117 the_H0559 day_H3117 of_H3117 the_H0559 new_H2320 moon_H2320 it_H1961 shall_H3117 be_H1961 opened_H6605. 
+@2 The_H0853 prince_H5387 shall_H3548 enter_H0935 by_H5921 the_H0853 way_H1870 of_H8179 the_H0853 porch_H0197 of_H8179 the_H0853 gate_H8179 outside_H2351, and_H0935 shall_H3548 stand_H5975 by_H5921 the_H0853 post_H4201 of_H8179 the_H0853 gate_H8179; and_H0935 the_H0853 priests_H3548 shall_H3548 prepare_H6213 his_H5921 burnt_H5930 offering_H8002 and_H0935 his_H5921 peace_H8002 offerings_H8002, and_H0935 he_H5704 shall_H3548 worship_H7812 at_H5921 the_H0853 threshold_H4670 of_H8179 the_H0853 gate_H8179. Then_H3318 he_H5704 shall_H3548 go_H3318 out_H3318, but_H3808 the_H0853 gate_H8179 shall_H3548 not_H3808 be_H3808 shut_H5462 until_H5704 the_H0853 evening_H6153. 
+@3 The_H6440 people_H5971 of_H0776 the_H6440 land_H0776 shall_H3068 worship_H7812 at_H3068 the_H6440 door_H6607 of_H0776 that_H1931 gate_H8179 before_H6440 Yahweh_H3068 on_H0776 the_H6440 Sabbaths_H7676 and_H3068 on_H0776 the_H6440 new_H2320 moons_H2320. 
+@4 The_H0834 burnt_H5930 offering_H7126 that_H0834 the_H0834 prince_H5387 shall_H3068 offer_H7126 to_H3068 Yahweh_H3068 shall_H3068 be_H3068 on_H3117 the_H0834 Sabbath_H7676 day_H3117, six_H8337 lambs_H3532 without_H8549 defect_H8549 and_H3068 a_H7126 ram_H0352 without_H8549 defect_H8549; 
+@5 and_H3027 the_H3027 meal_H4503 offering_H4503 shall_H3027 be_H3027 an_H4503 ephah_H0374 for_H3027 the_H3027 ram_H0352, and_H3027 the_H3027 meal_H4503 offering_H4503 for_H3027 the_H3027 lambs_H3532 as_H3532 he_H3027 is_H3027 able_H3027 to_H3027 give_H4991, and_H3027 a_H3532 hin_H1969^a^ of_H3027 oil_H8081 to_H3027 an_H4503 ephah_H0374.^b^ 
+@6 On_H3117 the_H3117 day_H3117 of_H1121 the_H3117 new_H2320 moon_H2320 it_H1961 shall_H1121 be_H1961 a_H1961 young_H1121 bull_H6499 without_H8549 defect_H8549, six_H8337 lambs_H3532, and_H1121 a_H1961 ram_H0352. They_H3117 shall_H1121 be_H1961 without_H8549 defect_H8549. 
+@7 He_H0834 shall_H0834 prepare_H6213 a_H0834 meal_H4503 offering_H4503: an_H4503 ephah_H0374 for_H3027 the_H0834 bull_H6499, and_H3027 an_H4503 ephah_H0374 for_H3027 the_H0834 ram_H0352, and_H3027 for_H3027 the_H0834 lambs_H3532 according_H3027 as_H0834 he_H0834 is_H0834 able_H3027, and_H3027 a_H0834 hin_H1969 of_H3027 oil_H8081 to_H3027 an_H4503 ephah_H0374. 
+@8 When_H0935 the_H0935 prince_H5387 enters_H0935, he_H0935 shall_H8179 go_H3318 in_H0935 by_H0935 the_H0935 way_H1870 of_H8179 the_H0935 porch_H0197 of_H8179 the_H0935 gate_H8179, and_H0935 he_H0935 shall_H8179 go_H3318 out_H3318 by_H0935 its_H0935 way_H1870. 
 ^a^[**46:5** A hin is about 6.5 liters or 1.7 gallons.] ^b^[**46:5** 1 ephah is about 22 liters or about 2/3 of a bushel]
 
-@9 “‘“But when the people of the land come before Yahweh in the appointed feasts, he who enters by the way of the north gate to worship shall go out by the way of the south gate; and he who enters by the way of the south gate shall go out by the way of the north gate. He shall not return by the way of the gate by which he came in, but shall go out straight before him. 
-@10 The prince shall go in with them when they go in. When they go out, he shall go out.
+@9 “‘“But_H3588 when_H3588 the_H6440 people_H5971 of_H0776 the_H6440 land_H0776 come_H0935 before_H6440 Yahweh_H3068 in_H0935 the_H6440 appointed_H4150 feasts_H4150, he_H0834 who_H0834 enters_H0935 by_H3068 the_H6440 way_H1870 of_H0776 the_H6440 north_H6828 gate_H8179 to_H0935 worship_H7812 shall_H3068 go_H3318 out_H3318 by_H3068 the_H6440 way_H1870 of_H0776 the_H6440 south_H5045 gate_H8179; and_H0935 he_H0834 who_H0834 enters_H0935 by_H3068 the_H6440 way_H1870 of_H0776 the_H6440 south_H5045 gate_H8179 shall_H3068 go_H3318 out_H3318 by_H3068 the_H6440 way_H1870 of_H0776 the_H6440 north_H6828 gate_H8179. He_H0834 shall_H3068 not_H3808 return_H7725 by_H3068 the_H6440 way_H1870 of_H0776 the_H6440 gate_H8179 by_H3068 which_H0834 he_H0834 came_H0935 in_H0935, but_H3588 shall_H3068 go_H3318 out_H3318 straight_H3318 before_H6440 him_H6440. 
+@10 The_H0935 prince_H5387 shall go_H3318 in_H0935 with_H0935 them_H0935 when_H0935 they_H0935 go_H3318 in_H0935. When_H0935 they_H0935 go_H3318 out_H3318, he_H0935 shall go_H3318 out_H3318.
 
 ## Regulations for isolated victims
-@11 “‘“In the feasts and in the appointed holidays, the meal offering shall be an ephah^a^ for a bull, and an ephah for a ram, and for the lambs as he is able to give, and a hin of oil to an ephah. 
-@12 When the prince prepares a free will offering, a burnt offering or peace offerings as a free will offering to Yahweh, one shall open for him the gate that looks toward the east; and he shall prepare his burnt offering and his peace offerings, as he does on the Sabbath day. Then he shall go out; and after his going out one shall shut the gate. 
+@11 “‘“In_H1961 the_H1961 feasts_H4150 and_H3027 in_H1961 the_H1961 appointed_H4150 holidays, the_H1961 meal_H4503 offering_H4503 shall_H3027 be_H1961 an_H1961 ephah_H0374^a^ for_H3027 a_H1961 bull_H6499, and_H3027 an_H1961 ephah_H0374 for_H3027 a_H1961 ram_H0352, and_H3027 for_H3027 the_H1961 lambs_H3532 as_H1961 he_H3027 is_H3027 able_H3027 to_H1961 give_H4991, and_H3027 a_H1961 hin_H1969 of_H3027 oil_H8081 to_H1961 an_H1961 ephah_H0374. 
+@12 When_H3588 the_H0853 prince_H5387 prepares a_H3588 free_H3318 will_H3068 offering_H5071, a_H3588 burnt_H5930 offering_H5071 or_H0176 peace_H8002 offerings_H8002 as_H0834 a_H3588 free_H3318 will_H3068 offering_H5071 to_H3068 Yahweh_H3068, one_H3588 shall_H3068 open_H6605 for_H3588 him_H0853 the_H0853 gate_H8179 that_H0834 looks toward_H6437 the_H0853 east_H6921; and_H3068 he_H0834 shall_H3068 prepare_H6213 his_H3068 burnt_H5930 offering_H5071 and_H3068 his_H3068 peace_H8002 offerings_H8002, as_H0834 he_H0834 does_H6213 on_H3117 the_H0853 Sabbath_H7676 day_H3117. Then_H3318 he_H0834 shall_H3068 go_H3318 out_H3318; and_H3068 after_H0310 his_H3068 going_H3318 out_H3318 one_H3588 shall_H3068 shut_H5462 the_H0853 gate_H8179. 
 ^a^[**46:11** 1 ephah is about 22 liters or about 2/3 of a bushel]
 
-@13 “‘“You shall prepare a lamb a year old without defect for a burnt offering to Yahweh daily. Morning by morning you shall prepare it. 
-@14 You shall prepare a meal offering with it morning by morning, the sixth part of an ephah,^a^ and the third part of a hin of oil to moisten the fine flour; a meal offering to Yahweh continually by a perpetual ordinance. 
-@15 Thus they shall prepare the lamb, the meal offering, and the oil, morning by morning, for a continual burnt offering.” 
+@13 “‘“You_H3117 shall_H1121 prepare_H6213 a_H3068 lamb_H3532 a_H3068 year_H8141 old_H1121 without_H8549 defect_H8549 for_H3117 a_H3068 burnt_H5930 offering_H3068 to_H3068 Yahweh_H3068 daily_H3117. Morning_H1242 by_H3068 morning_H1242 you_H3117 shall_H1121 prepare_H6213 it_H6213. 
+@14 You_H5921 shall_H3068 prepare_H6213 a_H5921 meal_H4503 offering_H4503 with_H3068 it_H5921 morning_H1242 by_H5921 morning_H1242, the_H0853 sixth_H8345 part_H7992 of_H3068 an_H3068 ephah_H0374,^a^ and_H3068 the_H0853 third_H7992 part_H7992 of_H3068 a_H5921 hin_H1969 of_H3068 oil_H8081 to_H5921 moisten_H7450 the_H0853 fine_H5560 flour_H5560; a_H5921 meal_H4503 offering_H4503 to_H5921 Yahweh_H3068 continually_H8548 by_H5921 a_H5921 perpetual_H5769 ordinance_H2708. 
+@15 Thus they_H6213 shall prepare_H6213 the_H0853 lamb_H3532, the_H0853 meal_H4503 offering_H4503, and_H1242 the_H0853 oil_H8081, morning_H1242 by_H1242 morning_H1242, for_H8081 a_H3532 continual_H8548 burnt_H5930 offering_H4503.” 
 ^a^[**46:14** 1 ephah is about 22 liters or about 2/3 of a bushel]
 
 ## Subsequent Ordinance on the Prince's Property
-@16 “‘The Lord Yahweh says: “If the prince gives a gift to any of his sons, it is his inheritance. It shall belong to his sons. It is their possession by inheritance. 
-@17 But if he gives of his inheritance a gift to one of his servants, it shall be his to the year of liberty; then it shall return to the prince; but as for his inheritance, it shall be for his sons. 
-@18 Moreover the prince shall not take of the people’s inheritance, to thrust them out of their possession. He shall give inheritance to his sons out of his own possession, that my people not each be scattered from his possession.”’”
+@16 “‘The_H0559 Lord_H0136 Yahweh says_H0559: “If_H3588 the_H0559 prince_H5387 gives_H5414 a_H1961 gift_H4979 to_H0559 any_H0376 of_H1121 his_H5414 sons_H1121, it_H5414 is_H1931 his_H5414 inheritance_H5159. It_H5414 shall_H1121 belong_H1961 to_H0559 his_H5414 sons_H1121. It_H5414 is_H1931 their_H5414 possession_H0272 by_H1961 inheritance_H5159. 
+@17 But_H3588 if_H3588 he_H3588 gives_H5414 of_H1121 his_H5414 inheritance_H5159 a_H1961 gift_H4979 to_H5704 one_H0259 of_H1121 his_H5414 servants_H5650, it_H5414 shall_H1121 be_H1961 his_H5414 to_H5704 the_H3588 year_H8141 of_H1121 liberty_H1865; then_H1961 it_H5414 shall_H1121 return_H7725 to_H5704 the_H3588 prince_H5387; but_H3588 as_H5704 for_H3588 his_H5414 inheritance_H5159, it_H5414 shall_H1121 be_H1961 for_H3588 his_H5414 sons_H1121. 
+@18 Moreover the_H0853 prince_H5387 shall_H1121 not_H3808 take_H3947 of_H1121 the_H0853 people’s_H5971 inheritance_H5159, to_H0376 thrust them_H0853 out_H0376 of_H1121 their_H3947 possession_H0272. He_H0834 shall_H1121 give_H5157 inheritance_H5159 to_H0376 his_H3947 sons_H1121 out_H0376 of_H1121 his_H3947 own_H0376 possession_H0272, that_H0834 my_H3947 people_H5971 not_H3808 each_H0376 be_H3808 scattered_H6327 from_H0376 his_H3947 possession_H0272.”’”
 
 ## The sacrificial kitchens of the priests and people in the temple precincts
-@19 Then he brought me through the entry, which was at the side of the gate, into the holy rooms for the priests, which looked toward the north. Behold, there was a place on the back part westward. 
-@20 He said to me, “This is the place where the priests shall boil the trespass offering and the sin offering, and where they shall bake the meal offering, that they not bring them out into the outer court, to sanctify the people.” 
+@19 Then_H2009 he_H0834 brought_H0935 me_H0413 through_H5921 the_H0834 entry_H3996, which_H0834 was_H0834 at_H0413 the_H0834 side_H3802 of_H8179 the_H0834 gate_H8179, into_H0413 the_H0834 holy_H6944 rooms_H3957 for_H5921 the_H0834 priests_H3548, which_H0834 looked_H6437 toward_H0413 the_H0834 north_H6828. Behold_H2009, there_H8033 was_H0834 a_H0935 place_H4725 on_H5921 the_H0834 back_H6437 part_H3411 westward_H3220. 
+@20 He_H0834 said_H0559 to_H0413 me_H0413, “This_H2088 is_H0834 the_H0853 place_H4725 where_H0834 the_H0853 priests_H3548 shall_H3548 boil_H1310 the_H0853 trespass offering_H4503 and_H3548 the_H0853 sin_H2403 offering_H4503, and_H3548 where_H0834 they_H0834 shall_H3548 bake_H0644 the_H0853 meal_H4503 offering_H4503, that_H0834 they_H0834 not_H1115 bring_H3318 them_H0413 out_H3318 into_H0413 the_H0853 outer_H2435 court_H2691, to_H0413 sanctify_H6942 the_H0853 people_H5971.” 
 
-@21 Then he brought me out into the outer court and caused me to pass by the four corners of the court; and behold, in every corner of the court there was a court. 
-@22 In the four corners of the court there were courts enclosed, forty cubits^a^ long and thirty wide. These four in the corners were the same size. 
-@23 There was a wall around in them, around the four, and boiling places were made under the walls all around. 
-@24 Then he said to me, “These are the boiling houses, where the ministers of the house shall boil the sacrifice of the people.”
+@21 Then_H3318 he_H3318 brought_H3318 me_H0413 out_H3318 into_H0413 the_H0413 outer_H2435 court_H2691 and_H3318 caused me_H0413 to_H0413 pass_H5674 by_H0413 the_H0413 four_H0702 corners_H4740 of_H0413 the_H0413 court_H2691; and_H3318 behold_H2009, in_H0413 every_H4740 corner_H4740 of_H0413 the_H0413 court_H2691 there_H2009 was a_H3318 court_H2691. 
+@22 In_H0753 the four_H0702 corners_H4740 of_H0259 the court_H2691 there_H4060 were_H0702 courts enclosed_H7000, forty_H0705 cubits^a^ long_H0753 and_H0753 thirty_H7970 wide_H7341. These four_H0702 in_H0753 the corners_H4740 were_H0702 the same_H0259 size_H4060. 
+@23 There_H8478 was a_H8478 wall around_H5439 in_H8478 them_H8478, around_H5439 the_H8478 four_H0702, and_H5439 boiling places_H5439 were_H5439 made_H6213 under_H8478 the_H8478 walls all_H5439 around_H5439. 
+@24 Then_H0853 he_H0834 said_H0559 to_H0413 me_H0413, “These_H0428 are_H0834 the_H0853 boiling_H1310 houses_H1004, where_H0834 the_H0853 ministers_H8334 of_H1004 the_H0853 house_H1004 shall_H1004 boil_H1310 the_H0853 sacrifice_H2077 of_H1004 the_H0853 people_H5971.”
 ^a^[**46:22** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters.] 
 
 # 47 
 ## The wonderful spring of the temple as a stream of blessings
-@1 He brought me back to the door of the temple; and behold, waters flowed out from under the threshold of the temple eastward, for the front of the temple faced toward the east. The waters came down from underneath, from the right side of the temple, on the south of the altar. 
-@2 Then he brought me out by the way of the gate northward, and led me around by the way outside to the outer gate, by the way of the gate that looks toward the east. Behold, waters ran out on the right side. 
+@1 He_H3588 brought_H3318 me_H0413 back_H7725 to_H0413 the_H6440 door_H6607 of_H1004 the_H6440 temple_H1004; and_H7725 behold_H2009, waters_H4325 flowed_H3318 out_H3318 from_H7725 under_H8478 the_H6440 threshold_H4670 of_H1004 the_H6440 temple_H1004 eastward, for_H3588 the_H6440 front_H6440 of_H1004 the_H6440 temple_H1004 faced_H6440 toward_H0413 the_H6440 east_H6921. The_H6440 waters_H4325 came_H3318 down_H3381 from_H7725 underneath_H8478, from_H7725 the_H6440 right_H3233 side_H3802 of_H1004 the_H6440 temple_H1004, on_H0413 the_H6440 south_H5045 of_H1004 the_H6440 altar_H4196. 
+@2 Then_H3318 he_H4480 brought_H3318 me_H0413 out_H3318 by_H0413 the_H0413 way_H1870 of_H8179 the_H0413 gate_H8179 northward_H6828, and_H1870 led_H3318 me_H0413 around_H5437 by_H0413 the_H0413 way_H1870 outside_H2351 to_H0413 the_H0413 outer_H2351 gate_H8179, by_H0413 the_H0413 way_H1870 of_H8179 the_H0413 gate_H8179 that_H4480 looks toward_H0413 the_H0413 east_H6921. Behold_H2009, waters_H4325 ran out_H3318 on_H0413 the_H0413 right_H3233 side_H3802. 
 
-@3 When the man went out eastward with the line in his hand, he measured one thousand cubits,^a^ and he caused me to pass through the waters, waters that were to the ankles. 
-@4 Again he measured one thousand, and caused me to pass through the waters, waters that were to the knees. Again he measured one thousand, and caused me to pass through waters that were to the waist. 
-@5 Afterward he measured one thousand; and it was a river that I could not pass through, for the waters had risen, waters to swim in, a river that could not be walked through. 
+@3 When_H3318 the_H3318 man_H0376 went_H3318 out_H3318 eastward with_H0376 the_H3318 line in_H0376 his_H0376 hand_H3027, he_H0376 measured_H4058 one_H0376 thousand_H0505 cubits_H0520,^a^ and_H3027 he_H0376 caused me_H3318 to_H0376 pass_H5674 through_H3027 the_H3318 waters_H4325, waters_H4325 that_H4325 were_H0376 to_H0376 the_H3318 ankles. 
+@4 Again he_H4058 measured_H4058 one thousand_H0505, and_H4325 caused me to_H4325 pass_H5674 through_H5674 the_H4058 waters_H4325, waters_H4325 that_H4325 were_H4325 to_H4325 the_H4058 knees_H1290. Again he_H4058 measured_H4058 one thousand_H0505, and_H4325 caused me to_H4325 pass_H5674 through_H5674 waters_H4325 that_H4325 were_H4325 to_H4325 the_H4058 waist_H4975. 
+@5 Afterward he_H0834 measured_H4058 one_H3808 thousand_H0505; and_H4325 it_H3588 was_H0834 a_H3588 river_H5158 that_H0834 I_H0834 could_H3201 not_H3808 pass_H5674 through_H5674, for_H3588 the_H0834 waters_H4325 had_H0834 risen_H1342, waters_H4325 to_H3201 swim_H7813 in_H3808, a_H3588 river_H5158 that_H0834 could_H3201 not_H3808 be_H3808 walked through_H5674. 
 ^a^[**47:3** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters.]
 
-@6 He said to me, “Son of man, have you seen this?” 
+@6 He_H0559 said_H0559 to_H0413 me_H0413, “Son_H1121 of_H1121 man_H0120, have_H1121 you_H7725 seen_H7200 this_H7725?” 
 
-Then he brought me and caused me to return to the bank of the river. 
-@7 Now when I had returned, behold, on the bank of the river were very many trees on the one side and on the other. 
-@8 Then he said to me, “These waters flow out toward the eastern region and will go down into the Arabah. Then they will go toward the sea and flow into the sea which will be made to flow out; and the waters will be healed. 
-@9 It will happen that every living creature which swarms, in every place where the rivers come, will live. Then there will be a very great multitude of fish; for these waters have come there, and the waters of the sea will be healed, and everything will live wherever the river comes. 
-@10 It will happen that fishermen will stand by it. From En Gedi even to En Eglaim will be a place for the spreading of nets. Their fish will be after their kinds, as the fish of the great sea, exceedingly many. 
-@11 But its swamps marshes will not be healed. They will be given up to salt. 
-@12 By the river banks, on both sides, will grow every tree for food, whose leaf won’t wither, neither will its fruit fail. It will produce new fruit every month, because its waters issue out of the sanctuary. Its fruit will be for food, and its leaf for healing.”
+Then_H7725 he_H0559 brought_H7725 me_H0413 and_H1121 caused me_H0413 to_H0413 return_H7725 to_H0413 the_H0559 bank_H8193 of_H1121 the_H0559 river_H5158. 
+@7 Now_H2009 when_H7725 I_H2009 had returned_H7725, behold_H2009, on_H0413 the_H0413 bank_H8193 of_H6086 the_H0413 river_H5158 were_H2009 very_H3966 many_H7227 trees_H6086 on_H0413 the_H0413 one_H2088 side_H2088 and_H7725 on_H0413 the_H0413 other_H2088. 
+@8 Then_H3318 he_H5921 said_H0559 to_H0413 me_H0413, “These_H0428 waters_H4325 flow_H3381 out_H3318 toward_H0413 the_H0559 eastern_H6930 region_H1552 and_H0935 will_H4325 go_H3318 down_H3381 into_H0413 the_H0559 Arabah_H6160. Then_H3318 they_H5921 will_H4325 go_H3318 toward_H0413 the_H0559 sea_H3220 and_H0935 flow_H3381 into_H0413 the_H0559 sea_H3220 which_H4325 will_H4325 be_H4325 made to_H0413 flow_H3381 out_H3318; and_H0935 the_H0559 waters_H4325 will_H4325 be_H4325 healed_H7495. 
+@9 It_H3588 will_H1961 happen_H1961 that_H0834 every_H3605 living_H2416 creature_H5315 which_H0834 swarms_H8317, in_H0935 every_H3605 place_H1961 where_H0834 the_H3605 rivers come_H0935, will_H1961 live_H2421. Then_H1961 there_H8033 will_H1961 be_H1961 a_H1961 very_H3966 great_H3966 multitude of_H4325 fish_H1710; for_H3588 these_H0428 waters_H4325 have_H1961 come_H0935 there_H8033, and_H0935 the_H3605 waters_H4325 of_H4325 the_H3605 sea will_H1961 be_H1961 healed_H7495, and_H0935 everything_H3605 will_H1961 live_H2421 wherever_H0834 the_H3605 river_H5158 comes_H0935. 
+@10 It_H5921 will_H1961 happen_H1961 that_H1961 fishermen_H1728 will_H1961 stand_H5975 by_H5921 it_H5921. From_H5921 En Gedi even_H5704 to_H5704 En Eglaim will_H1961 be_H1961 a_H1961 place_H1961 for_H5921 the_H5921 spreading of_H5921 nets_H2764. Their_H5921 fish_H1710 will_H1961 be_H1961 after_H5921 their_H5921 kinds_H4327, as_H5704 the_H5921 fish_H1710 of_H5921 the_H5921 great_H1419 sea_H3220, exceedingly_H3966 many_H7227. 
+@11 But_H3808 its_H5414 swamps_H1207 marshes_H1207 will_H5414 not_H3808 be_H3808 healed_H7495. They_H3808 will_H5414 be_H3808 given_H5414 up_H5414 to_H5414 salt_H4417. 
+@12 By_H5921 the_H3605 river_H5158 banks_H8193, on_H5921 both_H4480 sides_H2088, will_H1961 grow_H5927 every_H3605 tree_H6086 for_H3588 food_H3978, whose_H3605 leaf_H5929 won’t_H3808 wither_H5034, neither_H3808 will_H1961 its_H3605 fruit_H6529 fail_H8552. It_H5921 will_H1961 produce_H6529 new_H2320 fruit_H6529 every_H3605 month_H2320, because_H3588 its_H3605 waters_H4325 issue_H3318 out_H3318 of_H4480 the_H3605 sanctuary_H4720. Its_H3605 fruit_H6529 will_H1961 be_H1961 for_H3588 food_H3978, and_H6086 its_H3605 leaf_H5929 for_H3588 healing_H8644.”
 
 ## Country borders
-@13 The Lord Yahweh says: “This shall be the border by which you shall divide the land for inheritance according to the twelve tribes of Israel. Joseph shall have two portions. 
-@14 You shall inherit it, one as well as another; for I swore to give it to your fathers. This land will fall to you for inheritance. 
+@13 The_H0853 Lord_H0136 Yahweh says_H0559: “This_H3541 shall_H3478 be_H3478 the_H0853 border_H1366 by_H3478 which_H0834 you_H0834 shall_H3478 divide_H5157 the_H0853 land_H0776 for_H0776 inheritance_H5157 according to_H0559 the_H0853 twelve_H6240 tribes_H7626 of_H0776 Israel_H3478. Joseph_H3130 shall_H3478 have_H0834 two_H8147 portions_H2256. 
+@14 You_H0834 shall_H0776 inherit_H5157 it_H5414, one_H0376 as_H0834 well_H0834 as_H0834 another_H0251; for_H0776 I_H0834 swore_H5375 to_H5414 give_H5414 it_H5414 to_H5414 your_H5414 fathers_H0001. This_H2063 land_H0776 will_H0776 fall_H5307 to_H5414 you_H0834 for_H0776 inheritance_H5159. 
 
-@15 “This shall be the border of the land: 
+@15 “This_H2088 shall_H0776 be_H0776 the_H0935 border_H1366 of_H0776 the_H0935 land_H0776: 
 
-“On the north side, from the great sea, by the way of Hethlon, to the entrance of Zedad; 
-@16 Hamath, Berothah, Sibraim (which is between the border of Damascus and the border of Hamath), to Hazer Hatticon, which is by the border of Hauran. 
-@17 The border from the sea shall be Hazar Enon at the border of Damascus; and on the north northward is the border of Hamath. This is the north side. 
+“On_H1870 the_H0935 north_H6828 side_H6285, from_H4480 the_H0935 great_H1419 sea_H3220, by_H0935 the_H0935 way_H1870 of_H0776 Hethlon_H2855, to_H0935 the_H0935 entrance_H0935 of_H0776 Zedad_H6657; 
+@16 Hamath_H2574, Berothah_H1268, Sibraim_H5453 (which_H0834 is_H0834 between_H0996 the_H0834 border_H1366 of_H1366 Damascus_H1834 and_H2574 the_H0834 border_H1366 of_H1366 Hamath_H2574), to_H0413 Hazer Hatticon, which_H0834 is_H0834 by_H0413 the_H0834 border_H1366 of_H1366 Hauran_H2362. 
+@17 The_H0853 border_H1366 from_H4480 the_H0853 sea_H3220 shall_H1366 be_H1961 Hazar Enon at_H1961 the_H0853 border_H1366 of_H1366 Damascus_H1834; and_H3220 on_H1961 the_H0853 north_H6828 northward_H6828 is_H1961 the_H0853 border_H1366 of_H1366 Hamath_H2574. This is_H1961 the_H0853 north_H6828 side_H6285. 
 
-@18 “The east side, between Hauran, Damascus, Gilead, and the land of Israel, shall be the Jordan; from the north border to the east sea you shall measure. This is the east side. 
+@18 “The_H0853 east_H6921 side_H6285, between_H0996 Hauran_H2362, Damascus_H1834, Gilead_H1568, and_H3478 the_H0853 land_H0776 of_H0776 Israel_H3478, shall_H3478 be_H3478 the_H0853 Jordan_H3383; from_H5921 the_H0853 north border_H1366 to_H5921 the_H0853 east_H6921 sea_H3220 you_H5921 shall_H3478 measure_H4058. This is_H0776 the_H0853 east_H6921 side_H6285. 
 
-@19 “The south side southward shall be from Tamar as far as the waters of Meriboth Kadesh, to the brook, to the great sea. This is the south side southward. 
+@19 “The_H0853 south_H5045 side_H6285 southward_H5045 shall_H4325 be_H4325 from_H6285 Tamar_H8559 as_H5704 far_H5704 as_H5704 the_H0853 waters_H4325 of_H4325 Meriboth Kadesh_H6946, to_H0413 the_H0853 brook_H5158, to_H0413 the_H0853 great_H1419 sea_H3220. This is_H4325 the_H0853 south_H5045 side_H6285 southward_H5045. 
 
-@20 “The west side shall be the great sea, from the south border as far as opposite the entrance of Hamath. This is the west side.
+@20 “The_H0935 west_H3220 side_H6285 shall_H1366 be_H3220 the_H0935 great_H1419 sea_H3220, from_H0935 the_H0935 south_H3220 border_H1366 as_H5704 far_H5704 as_H5704 opposite_H5227 the_H0935 entrance_H0935 of_H1366 Hamath_H2574. This_H2063 is_H0935 the_H0935 west_H3220 side_H6285.
 
 ## Treatment of strangers during distribution
-@21 “So you shall divide this land to yourselves according to the tribes of Israel. 
-@22 You shall divide it by lot for an inheritance to you and to the aliens who live among you, who will father children among you. Then they shall be to you as the native-born among the children of Israel. They shall have inheritance with you among the tribes of Israel. 
-@23 In whatever tribe the stranger lives, there you shall give him his inheritance,” says the Lord Yahweh. 
+@21 “So_H0853 you_H0853 shall_H3478 divide_H2505 this_H2063 land_H0776 to_H3478 yourselves according to_H3478 the_H0853 tribes_H7626 of_H0776 Israel_H3478. 
+@22 You_H0834 shall_H1121 divide_H5307 it_H1961 by_H3478 lot_H5307 for_H0854 an_H1961 inheritance_H5159 to_H1961 you_H0834 and_H1121 to_H1961 the_H0853 aliens_H1616 who_H0834 live_H1481 among_H8432 you_H0834, who_H0834 will_H1961 father_H3205 children_H1121 among_H8432 you_H0834. Then_H1961 they_H0834 shall_H1121 be_H1961 to_H1961 you_H0834 as_H0834 the_H0853 native-born_H0249 among_H8432 the_H0853 children_H1121 of_H1121 Israel_H3478. They_H0834 shall_H1121 have_H1961 inheritance_H5159 with_H0854 you_H0834 among_H8432 the_H0853 tribes_H7626 of_H1121 Israel_H3478. 
+@23 In_H8033 whatever_H0834 tribe_H7626 the_H0834 stranger_H1616 lives_H1481, there_H8033 you_H0834 shall_H0834 give_H5414 him_H5414 his_H5414 inheritance_H5159,” says_H5002 the_H0834 Lord_H0136 Yahweh. 
 
 # 48 
 ## The seven tribes north of the holy shrine
-@1 “Now these are the names of the tribes: From the north end, beside the way of Hethlon to the entrance of Hamath, Hazar Enan at the border of Damascus, northward beside Hamath (and they shall have their sides east and west), Dan, one portion. 
+@1 “Now_H1961 these_H0428 are_H0428 the_H0413 names_H8034 of_H3027 the_H0413 tribes_H7626: From_H0935 the_H0413 north_H6828 end_H7097, beside_H3027 the_H0413 way_H1870 of_H3027 Hethlon_H2855 to_H0413 the_H0413 entrance_H0935 of_H3027 Hamath_H2574, Hazar Enan at_H0413 the_H0413 border_H1366 of_H3027 Damascus_H1834, northward_H6828 beside_H3027 Hamath_H2574 (and_H0935 they_H0935 shall_H1366 have_H1961 their_H0935 sides_H6285 east_H6921 and_H0935 west_H3220), Dan_H1835, one_H0259 portion. 
 
-@2 “By the border of Dan, from the east side to the west side, Asher, one portion. 
+@2 “By_H5921 the_H5921 border_H1366 of_H1366 Dan_H1835, from_H5921 the_H5921 east_H6921 side_H6285 to_H5704 the_H5921 west_H3220 side_H6285, Asher_H0836, one_H0259 portion. 
 
-@3 “By the border of Asher, from the east side even to the west side, Naphtali, one portion. 
+@3 “By_H5921 the_H5921 border_H1366 of_H1366 Asher_H0836, from_H5921 the_H5921 east_H6921 side_H6285 even_H5704 to_H5704 the_H5921 west_H3220 side_H6285, Naphtali_H5321, one_H0259 portion. 
 
-@4 “By the border of Naphtali, from the east side to the west side, Manasseh, one portion. 
+@4 “By_H5921 the_H5921 border_H1366 of_H1366 Naphtali_H5321, from_H5921 the_H5921 east_H6921 side_H6285 to_H5704 the_H5921 west_H3220 side_H6285, Manasseh_H4519, one_H0259 portion. 
 
-@5 “By the border of Manasseh, from the east side to the west side, Ephraim, one portion. 
+@5 “By_H5921 the_H5921 border_H1366 of_H1366 Manasseh_H4519, from_H5921 the_H5921 east_H6921 side_H6285 to_H5704 the_H5921 west_H3220 side_H6285, Ephraim_H0669, one_H0259 portion. 
 
-@6 “By the border of Ephraim, from the east side even to the west side, Reuben, one portion. 
+@6 “By_H5921 the_H5921 border_H1366 of_H1366 Ephraim_H0669, from_H5921 the_H5921 east_H6921 side_H6285 even_H5704 to_H5704 the_H5921 west_H3220 side_H6285, Reuben_H7205, one_H0259 portion. 
 
-@7 “By the border of Reuben, from the east side to the west side, Judah, one portion.
+@7 “By_H5921 the_H5921 border_H1366 of_H1366 Reuben_H7205, from_H5921 the_H5921 east_H6921 side_H6285 to_H5704 the_H5921 west_H3220 side_H6285, Judah_H3063, one_H0259 portion.
 
 ## The holy ordinance
-@8 “By the border of Judah, from the east side to the west side, shall be the offering which you shall offer, twenty-five thousand reeds in width, and in length as one of the portions, from the east side to the west side; and the sanctuary shall be in the middle of it. 
+@8 “By_H5921 the_H0834 border_H1366 of_H1366 Judah_H3063, from_H5921 the_H0834 east_H6921 side_H6285 to_H5704 the_H0834 west_H3220 side_H6285, shall_H1366 be_H1961 the_H0834 offering_H8641 which_H0834 you_H0834 shall_H1366 offer_H7311, twenty-five_H2568 thousand_H0505 reeds in_H5921 width_H7341, and_H3063 in_H5921 length_H0753 as_H0834 one_H0259 of_H1366 the_H0834 portions_H2506, from_H5921 the_H0834 east_H6921 side_H6285 to_H5704 the_H0834 west_H3220 side_H6285; and_H3063 the_H0834 sanctuary_H4720 shall_H1366 be_H1961 in_H5921 the_H0834 middle_H8432 of_H1366 it_H5921. 
 
-@9 “The offering that you shall offer to Yahweh shall be twenty-five thousand reeds in length, and ten thousand in width. 
-@10 For these, even for the priests, shall be the holy offering: toward the north twenty-five thousand in length, and toward the west ten thousand in width, and toward the east ten thousand in width, and toward the south twenty-five thousand in length; and the sanctuary of Yahweh shall be in the middle of it. 
-@11 It shall be for the priests who are sanctified of the sons of Zadok, who have kept my instruction, who didn’t go astray when the children of Israel went astray, as the Levites went astray. 
-@12 It shall be to them an offering from the offering of the land, a most holy thing, by the border of the Levites. 
+@9 “The_H0834 offering_H8641 that_H0834 you_H0834 shall_H3068 offer_H7311 to_H3068 Yahweh_H3068 shall_H3068 be_H3068 twenty-five_H2568 thousand_H0505 reeds in_H3068 length_H0753, and_H3068 ten_H6235 thousand_H0505 in_H3068 width_H7341. 
+@10 For_H3068 these_H0428, even for_H3068 the_H3068 priests_H3548, shall_H3548 be_H1961 the_H3068 holy_H6944 offering_H8641: toward the_H3068 north_H6828 twenty-five_H2568 thousand_H0505 in_H3068 length_H0753, and_H3068 toward the_H3068 west_H3220 ten_H6235 thousand_H0505 in_H3068 width_H7341, and_H3068 toward the_H3068 east_H6921 ten_H6235 thousand_H0505 in_H3068 width_H7341, and_H3068 toward the_H3068 south_H5045 twenty-five_H2568 thousand_H0505 in_H3068 length_H0753; and_H3068 the_H3068 sanctuary_H4720 of_H3068 Yahweh_H3068 shall_H3548 be_H1961 in_H3068 the_H3068 middle_H8432 of_H3068 it_H1961. 
+@11 It_H6942 shall_H3548 be_H3808 for_H3808 the_H0834 priests_H3548 who_H0834 are_H0834 sanctified_H6942 of_H1121 the_H0834 sons_H1121 of_H1121 Zadok_H6659, who_H0834 have_H0834 kept_H8104 my_H8104 instruction, who_H0834 didn’t_H3808 go_H8582 astray_H8582 when_H0834 the_H0834 children_H1121 of_H1121 Israel_H3478 went_H8582 astray_H8582, as_H0834 the_H0834 Levites_H3881 went_H8582 astray_H8582. 
+@12 It_H1961 shall_H0776 be_H1961 to_H0413 them_H0413 an_H1961 offering_H8641 from_H0413 the_H0413 offering_H8641 of_H0776 the_H0413 land_H0776, a_H1961 most_H6944 holy_H6944 thing_H6944, by_H0413 the_H0413 border_H1366 of_H0776 the_H0413 Levites_H3881. 
 
-@13 “Alongside the border of the priests, the Levites shall have twenty-five thousand cubits in length and ten thousand in width. All the length shall be twenty-five thousand, and the width ten thousand. 
-@14 They shall sell none of it, nor exchange it, nor shall the first fruits of the land be alienated, for it is holy to Yahweh. 
+@13 “Alongside_H5980 the_H3605 border_H1366 of_H1366 the_H3605 priests_H3548, the_H3605 Levites_H3881 shall_H3548 have_H3605 twenty-five_H2568 thousand_H0505 cubits in_H3881 length_H0753 and_H3548 ten_H6235 thousand_H0505 in_H3881 width_H7341. All_H3605 the_H3605 length_H0753 shall_H3548 be_H3605 twenty-five_H2568 thousand_H0505, and_H3548 the_H3605 width_H7341 ten_H6235 thousand_H0505. 
+@14 They_H3588 shall_H3068 sell_H4376 none_H3808 of_H0776 it_H3588, nor_H3808 exchange_H4171 it_H3588, nor_H3808 shall_H3068 the_H3588 first_H7225 fruits_H7225 of_H0776 the_H3588 land_H0776 be_H3808 alienated, for_H3588 it_H3588 is_H3068 holy_H6944 to_H3068 Yahweh_H3068. 
 
-@15 “The five thousand cubits that are left in the width, in front of the twenty-five thousand, shall be for common use, for the city, for dwelling and for pasture lands; and the city shall be in the middle of it. 
-@16 These shall be its measurements: the north side four thousand and five hundred, and the south side four thousand and five hundred, and on the east side four thousand and five hundred, and the west side four thousand and five hundred. 
-@17 The city shall have pasture lands: toward the north two hundred fifty, and toward the south two hundred fifty, and toward the east two hundred fifty, and toward the west two hundred fifty. 
-@18 The remainder of the length, alongside the holy offering, shall be ten thousand eastward and ten thousand westward; and it shall be alongside the holy offering. Its increase shall be for food to those who labor in the city. 
-@19 Those who labor in the city, out of all the tribes of Israel, shall cultivate it. 
-@20 All the offering shall be a square of twenty-five thousand by twenty-five thousand. You shall offer it as a holy offering, with the possession of the city. 
+@15 “The_H6440 five_H2568 thousand_H0505 cubits that_H1931 are_H6440 left_H3498 in_H5921 the_H6440 width_H7341, in_H5921 front_H6440 of_H6440 the_H6440 twenty-five_H2568 thousand_H0505, shall_H1931 be_H1961 for_H5921 common_H2455 use_H1931, for_H5921 the_H6440 city_H5892, for_H5921 dwelling_H4186 and_H6440 for_H5921 pasture_H4054 lands_H4054; and_H6440 the_H6440 city_H5892 shall_H1931 be_H1961 in_H5921 the_H6440 middle_H8432 of_H6440 it_H1931. 
+@16 These_H0428 shall_H0428 be_H3220 its_H3220 measurements: the_H0428 north_H6828 side_H6285 four_H0702 thousand_H0505 and_H3967 five_H2568 hundred_H3967, and_H3967 the_H0428 south_H5045 side_H6285 four_H0702 thousand_H0505 and_H3967 five_H2568 hundred_H3967, and_H3967 on_H6285 the_H0428 east_H6921 side_H6285 four_H0702 thousand_H0505 and_H3967 five_H2568 hundred_H3967, and_H3967 the_H0428 west_H3220 side_H6285 four_H0702 thousand_H0505 and_H3967 five_H2568 hundred_H3967. 
+@17 The_H1961 city_H5892 shall have_H1961 pasture_H4054 lands_H4054: toward the_H1961 north_H6828 two_H3967 hundred_H3967 fifty_H2572, and_H3967 toward the_H1961 south_H5045 two_H3967 hundred_H3967 fifty_H2572, and_H3967 toward the_H1961 east_H6921 two_H3967 hundred_H3967 fifty_H2572, and_H3967 toward the_H1961 west_H3220 two_H3967 hundred_H3967 fifty_H2572. 
+@18 The_H5647 remainder_H3498 of_H0505 the_H5647 length_H0753, alongside_H5980 the_H5647 holy_H6944 offering_H8641, shall be_H1961 ten_H6235 thousand_H0505 eastward and_H3899 ten_H6235 thousand_H0505 westward_H3220; and_H3899 it_H1961 shall be_H1961 alongside_H5980 the_H5647 holy_H6944 offering_H8641. Its_H1961 increase_H8393 shall be_H1961 for_H3899 food_H3899 to_H1961 those_H1961 who_H8641 labor_H5647 in_H3899 the_H5647 city_H5892. 
+@19 Those_H3605 who_H3605 labor_H5647 in_H3478 the_H3605 city_H5892, out_H3605 of_H7626 all_H3605 the_H3605 tribes_H7626 of_H7626 Israel_H3478, shall_H3478 cultivate_H5647 it_H3605. 
+@20 All_H3605 the_H3605 offering_H8641 shall be_H7311 a_H7311 square_H7243 of_H3605 twenty-five_H2568 thousand_H0505 by_H0413 twenty-five_H2568 thousand_H0505. You_H3605 shall offer_H7311 it_H7311 as_H0413 a_H7311 holy_H6944 offering_H8641, with_H0413 the_H3605 possession_H0272 of_H3605 the_H3605 city_H5892. 
 
-@21 “The remainder shall be for the prince, on the one side and on the other of the holy offering and of the possession of the city; in front of the twenty-five thousand of the offering toward the east border, and westward in front of the twenty-five thousand toward the west border, alongside the portions, it shall be for the prince. The holy offering and the sanctuary of the house shall be in the middle of it. 
-@22 Moreover, from the possession of the Levites, and from the possession of the city, being in the middle of that which is the prince’s, between the border of Judah and the border of Benjamin, shall be for the prince.
+@21 “The_H6440 remainder_H3498 shall_H1004 be_H1961 for_H5921 the_H6440 prince_H5387, on_H5921 the_H6440 one_H2088 side_H2088 and_H1004 on_H5921 the_H6440 other_H2088 of_H1004 the_H6440 holy_H6944 offering_H8641 and_H1004 of_H1004 the_H6440 possession_H0272 of_H1004 the_H6440 city_H5892; in_H5921 front_H6440 of_H1004 the_H6440 twenty-five_H2568 thousand_H0505 of_H1004 the_H6440 offering_H8641 toward_H0413 the_H6440 east_H6921 border_H1366, and_H1004 westward_H3220 in_H5921 front_H6440 of_H1004 the_H6440 twenty-five_H2568 thousand_H0505 toward_H0413 the_H6440 west_H3220 border_H1366, alongside_H5980 the_H6440 portions_H2506, it_H5921 shall_H1004 be_H1961 for_H5921 the_H6440 prince_H5387. The_H6440 holy_H6944 offering_H8641 and_H1004 the_H6440 sanctuary_H4720 of_H1004 the_H6440 house_H1004 shall_H1004 be_H1961 in_H5921 the_H6440 middle_H8432 of_H1004 it_H5921. 
+@22 Moreover_H1961, from_H3881 the_H0834 possession_H0272 of_H1366 the_H0834 Levites_H3881, and_H3063 from_H3881 the_H0834 possession_H0272 of_H1366 the_H0834 city_H5892, being_H1961 in_H8432 the_H0834 middle_H8432 of_H1366 that_H0834 which_H0834 is_H0834 the_H0834 prince’s, between_H0996 the_H0834 border_H1366 of_H1366 Judah_H3063 and_H3063 the_H0834 border_H1366 of_H1366 Benjamin_H1144, shall_H1366 be_H1961 for_H0834 the_H0834 prince_H5387.
 
 ## The five tribes south of the holy shrine
-@23 “As for the rest of the tribes: from the east side to the west side, Benjamin, one portion. 
+@23 “As_H5704 for_H0259 the_H5704 rest_H3499 of_H7626 the_H5704 tribes_H7626: from_H6285 the_H5704 east_H6921 side_H6285 to_H5704 the_H5704 west_H3220 side_H6285, Benjamin_H1144, one_H0259 portion. 
 
-@24 “By the border of Benjamin, from the east side to the west side, Simeon, one portion. 
+@24 “By_H5921 the_H5921 border_H1366 of_H1366 Benjamin_H1144, from_H5921 the_H5921 east_H6921 side_H6285 to_H5704 the_H5921 west_H3220 side_H6285, Simeon_H8095, one_H0259 portion. 
 
-@25 “By the border of Simeon, from the east side to the west side, Issachar, one portion. 
+@25 “By_H5921 the_H5921 border_H1366 of_H1366 Simeon_H8095, from_H5921 the_H5921 east_H6921 side_H6285 to_H5704 the_H5921 west_H3220 side_H6285, Issachar_H3485, one_H0259 portion. 
 
-@26 “By the border of Issachar, from the east side to the west side, Zebulun, one portion. 
+@26 “By_H5921 the_H5921 border_H1366 of_H1366 Issachar_H3485, from_H5921 the_H5921 east_H6921 side_H6285 to_H5704 the_H5921 west_H3220 side_H6285, Zebulun_H2074, one_H0259 portion. 
 
-@27 “By the border of Zebulun, from the east side to the west side, Gad, one portion. 
+@27 “By_H5921 the_H5921 border_H1366 of_H1366 Zebulun_H2074, from_H5921 the_H5921 east_H6921 side_H6285 to_H5704 the_H5921 west_H3220 side_H6285, Gad_H1410, one_H0259 portion. 
 
-@28 “By the border of Gad, at the south side southward, the border shall be even from Tamar to the waters of Meribath Kadesh, to the brook, to the great sea. 
+@28 “By_H5921 the_H5921 border_H1366 of_H1366 Gad_H1410, at_H0413 the_H5921 south_H5045 side_H6285 southward_H5045, the_H5921 border_H1366 shall_H1366 be_H1961 even_H5921 from_H5921 Tamar_H8559 to_H0413 the_H5921 waters_H4325 of_H1366 Meribath Kadesh_H6946, to_H0413 the_H5921 brook_H5158, to_H0413 the_H5921 great_H1419 sea_H3220. 
 
-@29 “This is the land which you shall divide by lot to the tribes of Israel for inheritance, and these are their several portions, says the Lord Yahweh.
+@29 “This_H2063 is_H0834 the_H0834 land_H0776 which_H0834 you_H0834 shall_H3478 divide_H5307 by_H3478 lot_H5307 to_H3478 the_H0834 tribes_H7626 of_H0776 Israel_H3478 for_H0776 inheritance_H5159, and_H3478 these_H0428 are_H0834 their_H0834 several portions_H4256, says_H5002 the_H0834 Lord_H0136 Yahweh.
 
 ## The holy city, its twelve gates, its perimeter and its name
-@30 “These are the exits of the city: On the north side four thousand five hundred reeds by measure; 
-@31 and the gates of the city shall be named after the tribes of Israel, three gates northward: the gate of Reuben, one; the gate of Judah, one; the gate of Levi, one. 
+@30 “These_H0428 are_H0428 the_H0428 exits_H8444 of_H0505 the_H0428 city_H5892: On_H6285 the_H0428 north_H6828 side_H6285 four_H0702 thousand_H0505 five_H2568 hundred_H3967 reeds by_H3967 measure; 
+@31 and_H3063 the_H5921 gates_H8179 of_H7626 the_H5921 city_H5892 shall_H3478 be_H8034 named_H8034 after_H5921 the_H5921 tribes_H7626 of_H7626 Israel_H3478, three_H7969 gates_H8179 northward_H6828: the_H5921 gate_H8179 of_H7626 Reuben_H7205, one_H0259; the_H5921 gate_H8179 of_H7626 Judah_H3063, one_H0259; the_H5921 gate_H8179 of_H7626 Levi_H3878, one_H0259. 
 
-@32 “At the east side four thousand five hundred reeds, and three gates: even the gate of Joseph, one; the gate of Benjamin, one; the gate of Dan, one. 
+@32 “At_H0413 the_H0413 east_H6921 side_H6285 four_H0702 thousand_H0505 five_H2568 hundred_H3967 reeds, and_H3967 three_H7969 gates_H8179: even the_H0413 gate_H8179 of_H8179 Joseph_H3130, one_H0259; the_H0413 gate_H8179 of_H8179 Benjamin_H1144, one_H0259; the_H0413 gate_H8179 of_H8179 Dan_H1835, one_H0259. 
 
-@33 “At the south side four thousand five hundred reeds by measure, and three gates: the gate of Simeon, one; the gate of Issachar, one; the gate of Zebulun, one. 
+@33 “At_H8179 the_H8179 south_H5045 side_H6285 four_H0702 thousand_H0505 five_H2568 hundred_H3967 reeds by_H8179 measure, and_H3967 three_H7969 gates_H8179: the_H8179 gate_H8179 of_H8179 Simeon_H8095, one_H0259; the_H8179 gate_H8179 of_H8179 Issachar_H3485, one_H0259; the_H8179 gate_H8179 of_H8179 Zebulun_H2074, one_H0259. 
 
-@34 “At the west side four thousand five hundred reeds, with their three gates: the gate of Gad, one; the gate of Asher, one; the gate of Naphtali, one. 
+@34 “At_H3220 the_H8179 west_H3220 side_H6285 four_H0702 thousand_H0505 five_H2568 hundred_H3967 reeds, with_H3220 their three_H7969 gates_H8179: the_H8179 gate_H8179 of_H8179 Gad_H1410, one_H0259; the_H8179 gate_H8179 of_H8179 Asher_H0836, one_H0259; the_H8179 gate_H8179 of_H8179 Naphtali_H5321, one_H0259. 
 
-@35 “It shall be eighteen thousand reeds in circumference; and the name of the city from that day shall be, ‘Yahweh is there.’ 
+@35 “It_H5439 shall_H3068 be_H8034 eighteen_H6240 thousand_H0505 reeds in_H3068 circumference; and_H3068 the_H3068 name_H8034 of_H3068 the_H3068 city_H5892 from_H3117 that_H3117 day_H3117 shall_H3068 be_H8034, ‘Yahweh_H3068 is_H3068 there_H8033.’ 
