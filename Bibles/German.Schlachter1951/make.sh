@@ -7,5 +7,6 @@ pandoc -o ../../epub/Schlachter1951Bibel.epub --from markdown-smart --epub-embed
 cd ../../../tex
 mkdir -p ../out/pdf
 xelatex -jobname=Schlachter1951Bibel11ptB5 -output-directory ../out/pdf Bible11ptB5.tex
+xelatex -jobname=Schlachter1951Bibel11ptB5 -output-directory ../out/pdf Bible11ptB5.tex
 
 cd ..
