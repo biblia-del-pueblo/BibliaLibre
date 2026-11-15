@@ -1,326 +1,326 @@
 # 1 
-@1 The words of the Preacher, the son of David, king in Jerusalem. 
-@2 Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity. 
-@3 What profit hath a man of all his labour which he taketh under the sun? 
+@1 The_words_H1697 of_the_Preacher_H6953, the_son_H1121 of_David_H1732, king_H4428 in_Jerusalem_H3389. 
+@2 Vanity_H1892 of_vanities_H1892, [saith]{strong="H559" x-morph="strongMorph: TH8804"} the_Preacher_H6953, vanity_H1892 of_vanities_H1892; all is vanity_H1892. 
+@3 What_profit_H3504 hath_a_man_H120 of_all_his_labour_H5999 [which he taketh]{strong="H5998" x-morph="strongMorph: TH8799"} under_the_sun_H8121? 
 
-@4 One generation passeth away, and another generation cometh: but the earth abideth for ever. 
-@5 The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose.^a^ 
-@6 The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits. 
-@7 All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.^b^ 
-@8 All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing. 
+@4 One generation_H1755 [passeth away]{strong="H1980" x-morph="strongMorph: TH8802"}, and another generation_H1755 [cometh]{strong="H935 H935" x-morph="strongMorph: TH8804 strongMorph: TH8676 strongMorph: TH8802"}: but_the_earth_H776 [abideth]{strong="H5975" x-morph="strongMorph: TH8802"} for_ever_H5769. 
+@5 The_sun_H8121 [also ariseth]{strong="H2224" x-morph="strongMorph: TH8804"}, and_the_sun_H8121 [goeth down]{strong="H935" x-morph="strongMorph: TH8804"}, [and hasteth]{strong="H7602" x-morph="strongMorph: TH8802"} to_his_place_H4725 [where he arose]{strong="H2224" x-morph="strongMorph: TH8802"}.^a^ 
+@6 The_wind_H7307 [goeth]{strong="H1980" x-morph="strongMorph: TH8802"} toward_the_south_H1864, [and turneth about]{strong="H5437" x-morph="strongMorph: TH8802"} unto_the_north_H6828; [it whirleth about continually]{strong="H1980" x-morph="strongMorph: TH8802"}, and_the_wind_H7307 [returneth again]{strong="H7725" x-morph="strongMorph: TH8804"} according_to_his_circuits_H5439. 
+@7 All_the_rivers_H5158 [run]{strong="H1980" x-morph="strongMorph: TH8802"} into_the_sea_H3220; yet_the_sea_H3220 is not_full_H4392; unto_the_place_H4725 from_whence_the_rivers_H5158 [come]{strong="H1980" x-morph="strongMorph: TH8802"}, [thither they return]{strong="H7725" x-morph="strongMorph: TH8802"} [again]{strong="H3212" x-morph="strongMorph: TH8800"}.^b^ 
+@8 All_things_H1697 are full_of_labour_H3023; man_H376 [cannot]{strong="H3201" x-morph="strongMorph: TH8799"} [utter]{strong="H1696" x-morph="strongMorph: TH8763"} it: the_eye_H5869 [is not satisfied]{strong="H7646" x-morph="strongMorph: TH8799"} [with seeing]{strong="H7200" x-morph="strongMorph: TH8800"}, nor_the_ear_H241 [filled]{strong="H4390" x-morph="strongMorph: TH8735"} [with hearing]{strong="H8085" x-morph="strongMorph: TH8800"}. 
 ^a^[**1:5** hasteth: Heb. panteth] ^b^[**1:7** return…: Heb. return to go]
 
-@9 The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun. 
-@10 Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us. 
-@11 There is no remembrance of former things; neither shall there be any remembrance of things that are to come with those that shall come after. 
+@9 The thing that hath been, it is that [which shall be; and that which is done]{strong="H6213" x-morph="strongMorph: TH8738"} is [that which shall be done]{strong="H6213" x-morph="strongMorph: TH8735"}: and there is no_new_H2319 thing under_the_sun_H8121. 
+@10 Is_there_H3426 any thing_H1697 [whereof it may be said]{strong="H559" x-morph="strongMorph: TH8799"}, [See]{strong="H7200" x-morph="strongMorph: TH8798"}, this is new_H2319? it_hath_been_already_H3528 of_old_time_H5769, which_was_before_H6440 us. 
+@11 There is no_remembrance_H2146 of_former_H7223 things; neither shall there be any remembrance_H2146 of things that_are_to_come_H314 with those that_shall_come_after_H314. 
 
-@12 I the Preacher was king over Israel in Jerusalem. 
-@13 And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith.^a^ 
-@14 I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit. 
-@15 That which is crooked cannot be made straight: and that which is wanting cannot be numbered.^b^ 
-@16 I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all they that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge.^c^ 
-@17 And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit. 
-@18 For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.
+@12 I_the_Preacher_H6953 was_king_H4428 over_Israel_H3478 in_Jerusalem_H3389. 
+@13 [And I gave]{strong="H5414" x-morph="strongMorph: TH8804"} my_heart_H3820 [to seek]{strong="H1875" x-morph="strongMorph: TH8800"} [and search out]{strong="H8446" x-morph="strongMorph: TH8800"} by_wisdom_H2451 concerning all things [that are done]{strong="H6213" x-morph="strongMorph: TH8738"} under_heaven_H8064: this_sore_H7451 travail_H6045 hath_God_H430 [given]{strong="H5414" x-morph="strongMorph: TH8804"} to_the_sons_H1121 of_man_H120 [to be exercised]{strong="H6031" x-morph="strongMorph: TH8800"} therewith.^a^ 
+@14 [I have seen]{strong="H7200" x-morph="strongMorph: TH8804"} all_the_works_H4639 [that are done]{strong="H6213" x-morph="strongMorph: TH8738"} under_the_sun_H8121; and, behold, all is vanity_H1892 and_vexation_H7469 of_spirit_H7307. 
+@15 That which is [crooked]{strong="H5791" x-morph="strongMorph: TH8794"} [cannot]{strong="H3201" x-morph="strongMorph: TH8799"} [be made straight]{strong="H8626" x-morph="strongMorph: TH8800"}: and_that_which_is_wanting_H2642 [cannot]{strong="H3201" x-morph="strongMorph: TH8799"} [be numbered]{strong="H4487" x-morph="strongMorph: TH8736"}.^b^ 
+@16 [I communed]{strong="H1696" x-morph="strongMorph: TH8765"} with_mine_own_heart_H3820, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, [Lo, I am come to great estate]{strong="H1431" x-morph="strongMorph: TH8689"}, [and have gotten]{strong="H3254" x-morph="strongMorph: TH8689"} more_wisdom_H2451 than all they that_have_been_before_H6440 me_in_Jerusalem_H3389: [yea, my heart]{strong="H3820"} [had great]{strong="H7235" x-morph="strongMorph: TH8687"} [experience]{strong="H7200" x-morph="strongMorph: TH8804"} of_wisdom_H2451 and_knowledge_H1847.^c^ 
+@17 [And I gave]{strong="H5414" x-morph="strongMorph: TH8799"} my_heart_H3820 [to know]{strong="H3045" x-morph="strongMorph: TH8800"} wisdom_H2451, [and to know]{strong="H3045" x-morph="strongMorph: TH8800"} madness_H1947 and_folly_H5531: [I perceived]{strong="H3045" x-morph="strongMorph: TH8804"} that_this_H1571 also_is_vexation_H7475 of_spirit_H7307. 
+@18 For_in_much_H7230 wisdom_H2451 is much_H7230 grief_H3708: [and he that increaseth]{strong="H3254" x-morph="strongMorph: TH8686"} knowledge_H1847 [increaseth ]{strong="H3254" x-morph="strongMorph: TH8686"} sorrow_H4341.
 ^a^[**1:13** to be…: or, to afflict them] ^b^[**1:15** that which is wanting: Heb. defect] ^c^[**1:16** had…: Heb. had seen much] 
 
 # 2 
-@1 I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also is vanity. 
-@2 I said of laughter, It is mad: and of mirth, What doeth it? 
-@3 I sought in mine heart to give myself unto wine, yet acquainting mine heart with wisdom; and to lay hold on folly, till I might see what was that good for the sons of men, which they should do under the heaven all the days of their life.^a^ ^b^ 
-@4 I made me great works; I builded me houses; I planted me vineyards: 
-@5 I made me gardens and orchards, and I planted trees in them of all kind of fruits: 
-@6 I made me pools of water, to water therewith the wood that bringeth forth trees: 
-@7 I got me servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me:^c^ 
-@8 I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, as musical instruments, and that of all sorts.^d^ 
-@9 So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me. 
-@10 And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour. 
-@11 Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all was vanity and vexation of spirit, and there was no profit under the sun. 
+@1 [I said]{strong="H559" x-morph="strongMorph: TH8804"} in_mine_heart_H3820, [Go to now]{strong="H3212" x-morph="strongMorph: TH8798"}, [I will prove]{strong="H5254" x-morph="strongMorph: TH8762"} thee_with_mirth_H8057, [therefore enjoy]{strong="H7200" x-morph="strongMorph: TH8798"} pleasure_H2896: and, behold, this also is vanity_H1892. 
+@2 [I said]{strong="H559" x-morph="strongMorph: TH8804"} of_laughter_H7814, It is [mad]{strong="H1984" x-morph="strongMorph: TH8781"}: and_of_mirth_H8057, What_H2090 [doeth]{strong="H6213" x-morph="strongMorph: TH8802"} it? 
+@3 [I sought]{strong="H8446" x-morph="strongMorph: TH8804"} in_mine_heart_H3820 [to give]{strong="H4900" x-morph="strongMorph: TH8800"} myself_H1320 unto_wine_H3196, [yet acquainting]{strong="H5090" x-morph="strongMorph: TH8802"} mine_heart_H3820 with_wisdom_H2451; [and to lay hold]{strong="H270" x-morph="strongMorph: TH8800"} on_folly_H5531, [till I might see]{strong="H7200" x-morph="strongMorph: TH8799"} what was that_good_H2896 for_the_sons_H1121 of_men_H120, [which they should do]{strong="H6213" x-morph="strongMorph: TH8799"} under_the_heaven_H8064 all_H4557 the_days_H3117 of_their_life_H2416.^a^ ^b^ 
+@4 [I made me great]{strong="H1431" x-morph="strongMorph: TH8689"} works_H4639; [I builded]{strong="H1129" x-morph="strongMorph: TH8804"} me_houses_H1004; [I planted]{strong="H5193" x-morph="strongMorph: TH8804"} me_vineyards_H3754: 
+@5 [I made]{strong="H6213" x-morph="strongMorph: TH8804"} me_gardens_H1593 and_orchards_H6508, [and I planted]{strong="H5193" x-morph="strongMorph: TH8804"} trees_H6086 in them of all kind of fruits_H6529: 
+@6 [I made]{strong="H6213" x-morph="strongMorph: TH8804"} me_pools_H1295 of_water_H4325, [to water]{strong="H8248" x-morph="strongMorph: TH8687"} therewith_the_wood_H3293 [that bringeth forth]{strong="H6779" x-morph="strongMorph: TH8802"} trees_H6086: 
+@7 [I got]{strong="H7069" x-morph="strongMorph: TH8804"} me servants_H5650 and_maidens_H8198, and_had_servants_born_H1121 in_my_house_H1004; [also I had great]{strong="H7235" x-morph="strongMorph: TH8687"} possessions_H4735 of_great_H1241 and_small_cattle_H6629 above_all_that_were_in_Jerusalem_H3389 before_H6440 me:^c^ 
+@8 [I gathered]{strong="H3664" x-morph="strongMorph: TH8804"} me_also_silver_H3701 and_gold_H2091, and_the_peculiar_treasure_H5459 of_kings_H4428 and_of_the_provinces_H4082: [I gat]{strong="H6213" x-morph="strongMorph: TH8804"} [me men singers]{strong="H7891" x-morph="strongMorph: TH8802"} [and women singers]{strong="H7891" x-morph="strongMorph: TH8802"}, and_the_delights_H8588 of_the_sons_H1121 of_men_H120, as [musical instruments]{strong="H7705 H7705"}, and that of all sorts.^d^ 
+@9 [So I was great]{strong="H1431" x-morph="strongMorph: TH8804"}, [and increased]{strong="H3254" x-morph="strongMorph: TH8689"} more_than_all_that_were_before_H6440 me_in_Jerusalem_H3389: also_my_wisdom_H2451 [remained]{strong="H5975" x-morph="strongMorph: TH8804"} with me. 
+@10 And_whatsoever_mine_eyes_H5869 [desired]{strong="H7592" x-morph="strongMorph: TH8804"} [I kept]{strong="H680" x-morph="strongMorph: TH8804"} [not from them, I withheld]{strong="H4513" x-morph="strongMorph: TH8804"} not_my_heart_H3820 from_any_joy_H8057; for_my_heart_H3820 rejoiced_H8056 in_all_my_labour_H5999: and_this_was_my_portion_H2506 of_all_my_labour_H5999. 
+@11 [Then I looked]{strong="H6437" x-morph="strongMorph: TH8804"} on_all_the_works_H4639 that_my_hands_H3027 [had wrought]{strong="H6213" x-morph="strongMorph: TH8804"}, and_on_the_labour_H5999 [that I had laboured]{strong="H5998" x-morph="strongMorph: TH8804"} [to do]{strong="H6213" x-morph="strongMorph: TH8800"}: and, behold, all was vanity_H1892 and_vexation_H7469 of_spirit_H7307, and there was no_profit_H3504 under_the_sun_H8121. 
 ^a^[**2:3** to give…: Heb. to draw my flesh with wine] ^b^[**2:3** all…: Heb. the number of the days of their life] ^c^[**2:7** servants born…: Heb. sons of my house] ^d^[**2:8** musical…: Heb. musical instrument and instruments]
 
-@12 And I turned myself to behold wisdom, and madness, and folly: for what can the man do that cometh after the king? even that which hath been already done.^a^ 
-@13 Then I saw that wisdom excelleth folly, as far as light excelleth darkness.^b^ 
-@14 The wise man’s eyes are in his head; but the fool walketh in darkness: and I myself perceived also that one event happeneth to them all. 
-@15 Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also is vanity.^c^ 
-@16 For there is no remembrance of the wise more than of the fool for ever; seeing that which now is in the days to come shall all be forgotten. And how dieth the wise man? as the fool. 
+@12 [And I turned]{strong="H6437" x-morph="strongMorph: TH8804"} [myself to behold]{strong="H7200" x-morph="strongMorph: TH8800"} wisdom_H2451, and_madness_H1947, and_folly_H5531: for what can the_man_H120 do [that cometh]{strong="H935" x-morph="strongMorph: TH8799"} after_H310 the_king_H4428? even that_which_hath_been_already_H3528 [done]{strong="H6213" x-morph="strongMorph: TH8804"}.^a^ 
+@13 [Then I saw]{strong="H7200" x-morph="strongMorph: TH8804"} that_H3426 wisdom_H2451 excelleth_H3504 folly_H5531, as_far_as_light_H216 excelleth_H3504 darkness_H2822.^b^ 
+@14 [The wise man’s]{strong="H2450"} eyes_H5869 are in_his_head_H7218; but_the_fool_H3684 [walketh]{strong="H1980" x-morph="strongMorph: TH8802"} in_darkness_H2822: [and I myself perceived]{strong="H3045" x-morph="strongMorph: TH8804"} also_that_one_H259 event_H4745 [happeneth]{strong="H7136" x-morph="strongMorph: TH8799"} to them all. 
+@15 Then_H227 [said]{strong="H559" x-morph="strongMorph: TH8804"} I_in_my_heart_H3820, As_it_happeneth_H4745 to_the_fool_H3684, [so it happeneth]{strong="H7136" x-morph="strongMorph: TH8799"} even_to_me_H1571; and_why_was_I_then_more_H3148 [wise]{strong="H2449" x-morph="strongMorph: TH8804"}? [Then I said]{strong="H1696" x-morph="strongMorph: TH8765"} in_my_heart_H3820, that this also is vanity_H1892.^c^ 
+@16 For there is no_remembrance_H2146 of_the_wise_H2450 more_than_H5973 of_the_fool_H3684 for_ever_H5769; seeing_that_which_now_H3528 is in_the_days_H3117 [to come]{strong="H935" x-morph="strongMorph: TH8802"} [shall all be forgotten]{strong="H7911" x-morph="strongMorph: TH8738"}. [And how dieth]{strong="H4191" x-morph="strongMorph: TH8799"} the_wise_H2450 man? as_the_fool_H3684. 
 ^a^[**2:12** even…: or, in those things which have been already done] ^b^[**2:13** that…: Heb. that there is an excellency in wisdom more than in folly, etc] ^c^[**2:15** happeneth even…: Heb. happeneth to me, even to me]
 
-@17 Therefore I hated life; because the work that is wrought under the sun is grievous unto me: for all is vanity and vexation of spirit. 
+@17 [Therefore I hated]{strong="H8130" x-morph="strongMorph: TH8804"} life_H2416; because_the_work_H4639 [that is wrought]{strong="H6213" x-morph="strongMorph: TH8738"} under_the_sun_H8121 is grievous_H7451 unto me: for all is vanity_H1892 and_vexation_H7469 of_spirit_H7307. 
 
-@18 Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me.^a^ 
-@19 And who knoweth whether he shall be a wise man or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have shewed myself wise under the sun. This is also vanity. 
-@20 Therefore I went about to cause my heart to despair of all the labour which I took under the sun. 
-@21 For there is a man whose labour is in wisdom, and in knowledge, and in equity; yet to a man that hath not laboured therein shall he leave it for his portion. This also is vanity and a great evil.^b^ 
-@22 For what hath man of all his labour, and of the vexation of his heart, wherein he hath laboured under the sun? 
-@23 For all his days are sorrows, and his travail grief; yea, his heart taketh not rest in the night. This is also vanity. 
+@18 [Yea, I hated]{strong="H8130" x-morph="strongMorph: TH8804"} all_my_labour_H5999 which_I_had_taken_H6001 under_the_sun_H8121: [because I should leave]{strong="H3240" x-morph="strongMorph: TH8686"} it_unto_the_man_H120 that_shall_be_after_H310 me.^a^ 
+@19 [And who knoweth]{strong="H3045" x-morph="strongMorph: TH8802"} whether_he_shall_be_a_wise_H2450 man or_a_fool_H5530? [yet shall he have rule]{strong="H7980" x-morph="strongMorph: TH8799"} over_all_my_labour_H5999 [wherein I have laboured]{strong="H5998" x-morph="strongMorph: TH8804"}, [and wherein I have shewed myself wise]{strong="H2449" x-morph="strongMorph: TH8804"} under_the_sun_H8121. This is also_vanity_H1892. 
+@20 [Therefore I went about]{strong="H5437" x-morph="strongMorph: TH8804"} to_cause_H2976 my_heart_H3820 [to despair]{strong="H2976" x-morph="strongMorph: TH8763"} of_all_the_labour_H5999 [which I took]{strong="H5998" x-morph="strongMorph: TH8804"} under_the_sun_H8121. 
+@21 For_there_is_H3426 a_man_H120 whose_labour_H5999 is in_wisdom_H2451, and_in_knowledge_H1847, and_in_equity_H3788; yet_to_a_man_H120 [that hath not laboured]{strong="H5998" x-morph="strongMorph: TH8804"} [therein shall he leave]{strong="H5414" x-morph="strongMorph: TH8799"} it for his_portion_H2506. This also is vanity_H1892 and_a_great_H7227 evil_H7451.^b^ 
+@22 [For what hath]{strong="H1933" x-morph="strongMorph: TH8802"} man_H120 of_all_his_labour_H5999, and_of_the_vexation_H7475 of_his_heart_H3820, wherein_H1931 he_hath_laboured_H6001 under_the_sun_H8121? 
+@23 For_all_his_days_H3117 are sorrows_H4341, and_his_travail_H6045 grief_H3708; [yea, his heart]{strong="H3820"} [taketh not rest]{strong="H7901" x-morph="strongMorph: TH8804"} in_the_night_H3915. This_is_also_vanity_H1892. 
 ^a^[**2:18** taken: Heb. laboured] ^b^[**2:21** leave: Heb. give]
 
-@24 There is nothing better for a man, than that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God.^a^ 
-@25 For who can eat, or who else can hasten hereunto, more than I? 
-@26 For God giveth to a man that is good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to him that is good before God. This also is vanity and vexation of spirit.^b^
+@24 There is nothing_better_H2896 for_a_man_H120, than [that he should eat]{strong="H398" x-morph="strongMorph: TH8799"} [and drink]{strong="H8354" x-morph="strongMorph: TH8804"}, and that he_should_make_his_soul_H5315 [enjoy]{strong="H7200" x-morph="strongMorph: TH8689"} good_H2896 in_his_labour_H5999. This_H2090 [also I saw]{strong="H7200" x-morph="strongMorph: TH8804"}, that it was from_the_hand_H3027 of_God_H430.^a^ 
+@25 [For who can eat]{strong="H398" x-morph="strongMorph: TH8799"}, [or who else can hasten]{strong="H2363" x-morph="strongMorph: TH8799"} hereunto, more_H2351 than I? 
+@26 For God [giveth]{strong="H5414" x-morph="strongMorph: TH8804"} to_a_man_H120 that is good_H2896 in_his_sight_H6440 wisdom_H2451, and_knowledge_H1847, and_joy_H8057: [but to the sinner]{strong="H2398" x-morph="strongMorph: TH8802"} [he giveth]{strong="H5414" x-morph="strongMorph: TH8804"} travail_H6045, [to gather]{strong="H622" x-morph="strongMorph: TH8800"} [and to heap up]{strong="H3664" x-morph="strongMorph: TH8800"}, [that he may give]{strong="H5414" x-morph="strongMorph: TH8800"} to him that is good_H2896 before_H6440 God_H430. This also is vanity_H1892 and_vexation_H7469 of_spirit_H7307.^b^
 ^a^[**2:24** should make…: or, delight his senses] ^b^[**2:26** in his…: Heb. before him] 
 
 # 3 
-@1 To every thing there is a season, and a time to every purpose under the heaven: 
-@2 A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;^a^ 
-@3 A time to kill, and a time to heal; a time to break down, and a time to build up; 
-@4 A time to weep, and a time to laugh; a time to mourn, and a time to dance; 
-@5 A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;^b^ 
-@6 A time to get, and a time to lose; a time to keep, and a time to cast away;^c^ 
-@7 A time to rend, and a time to sew; a time to keep silence, and a time to speak; 
-@8 A time to love, and a time to hate; a time of war, and a time of peace. 
-@9 What profit hath he that worketh in that wherein he laboureth? 
-@10 I have seen the travail, which God hath given to the sons of men to be exercised in it. 
+@1 To every thing there is a_season_H2165, and_a_time_H6256 to_every_purpose_H2656 under_the_heaven_H8064: 
+@2 A_time_H6256 [to be born]{strong="H3205" x-morph="strongMorph: TH8800"}, and_a_time_H6256 [to die]{strong="H4191" x-morph="strongMorph: TH8800"}; a_time_H6256 [to plant]{strong="H5193" x-morph="strongMorph: TH8800"}, and_a_time_H6256 [to pluck up]{strong="H6131" x-morph="strongMorph: TH8800"} that which is [planted]{strong="H5193" x-morph="strongMorph: TH8803"};^a^ 
+@3 A_time_H6256 [to kill]{strong="H2026" x-morph="strongMorph: TH8800"}, and_a_time_H6256 [to heal]{strong="H7495" x-morph="strongMorph: TH8800"}; a_time_H6256 [to break down]{strong="H6555" x-morph="strongMorph: TH8800"}, and_a_time_H6256 [to build up]{strong="H1129" x-morph="strongMorph: TH8800"}; 
+@4 A_time_H6256 [to weep]{strong="H1058" x-morph="strongMorph: TH8800"}, and_a_time_H6256 [to laugh]{strong="H7832" x-morph="strongMorph: TH8800"}; a_time_H6256 [to mourn]{strong="H5594" x-morph="strongMorph: TH8800"}, and_a_time_H6256 [to dance]{strong="H7540" x-morph="strongMorph: TH8800"}; 
+@5 A_time_H6256 [to cast away]{strong="H7993" x-morph="strongMorph: TH8687"} stones_H68, and_a_time_H6256 to_gather_H3664 stones_H68 [together]{strong="H3664" x-morph="strongMorph: TH8800"}; a_time_H6256 [to embrace]{strong="H2263" x-morph="strongMorph: TH8800"}, and_a_time_H6256 [to refrain]{strong="H7368" x-morph="strongMorph: TH8800"} [from embracing]{strong="H2263" x-morph="strongMorph: TH8763"};^b^ 
+@6 A_time_H6256 [to get]{strong="H1245" x-morph="strongMorph: TH8763"}, and_a_time_H6256 [to lose]{strong="H6" x-morph="strongMorph: TH8763"}; a_time_H6256 [to keep]{strong="H8104" x-morph="strongMorph: TH8800"}, and_a_time_H6256 [to cast away]{strong="H7993" x-morph="strongMorph: TH8687"};^c^ 
+@7 A_time_H6256 [to rend]{strong="H7167" x-morph="strongMorph: TH8800"}, and_a_time_H6256 [to sew]{strong="H8609" x-morph="strongMorph: TH8800"}; a_time_H6256 [to keep silence]{strong="H2814" x-morph="strongMorph: TH8800"}, and_a_time_H6256 [to speak]{strong="H1696" x-morph="strongMorph: TH8763"}; 
+@8 A_time_H6256 [to love]{strong="H157" x-morph="strongMorph: TH8800"}, and_a_time_H6256 [to hate]{strong="H8130" x-morph="strongMorph: TH8800"}; a_time_H6256 of_war_H4421, and_a_time_H6256 of_peace_H7965. 
+@9 What_profit_H3504 [hath he that worketh]{strong="H6213" x-morph="strongMorph: TH8802"} in_that_wherein_H834 he_laboureth_H6001? 
+@10 [I have seen]{strong="H7200" x-morph="strongMorph: TH8804"} the_travail_H6045, which_God_H430 [hath given]{strong="H5414" x-morph="strongMorph: TH8804"} to_the_sons_H1121 of_men_H120 [to be exercised]{strong="H6031" x-morph="strongMorph: TH8800"} in it. 
 ^a^[**3:2** to be…: Heb. to bear] ^b^[**3:5** to refrain from: Heb. to be far from] ^c^[**3:6** get: or, seek]
 
-@11 He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end. 
-@12 I know that there is no good in them, but for a man to rejoice, and to do good in his life. 
-@13 And also that every man should eat and drink, and enjoy the good of all his labour, it is the gift of God. 
-@14 I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth it, that men should fear before him. 
-@15 That which hath been is now; and that which is to be hath already been; and God requireth that which is past.^a^ 
+@11 [He hath made]{strong="H6213" x-morph="strongMorph: TH8804"} every thing beautiful_H3303 in_his_time_H6256: [also he hath set]{strong="H5414" x-morph="strongMorph: TH8804"} the_world_H5769 in_their_heart_H3820, so_that_H1097 no_man_H120 [can find out]{strong="H4672" x-morph="strongMorph: TH8799"} the_work_H4639 that_God_H430 [maketh]{strong="H6213" x-morph="strongMorph: TH8804"} from_the_beginning_H7218 to_the_end_H5490. 
+@12 [I know]{strong="H3045" x-morph="strongMorph: TH8804"} that there is no_good_H2896 in them, but for a man [to rejoice]{strong="H8055" x-morph="strongMorph: TH8800"}, [and to do]{strong="H6213" x-morph="strongMorph: TH8800"} good_H2896 in_his_life_H2416. 
+@13 And_also_that_every_man_H120 [should eat]{strong="H398" x-morph="strongMorph: TH8799"} [and drink]{strong="H8354" x-morph="strongMorph: TH8804"}, [and enjoy]{strong="H7200" x-morph="strongMorph: TH8804"} the_good_H2896 of_all_his_labour_H5999, it is the_gift_H4991 of_God_H430. 
+@14 [I know]{strong="H3045" x-morph="strongMorph: TH8804"} [that, whatsoever God]{strong="H430"} [doeth]{strong="H6213" x-morph="strongMorph: TH8799"}, it_shall_be_for_ever_H5769: nothing_H369 [can be put]{strong="H3254" x-morph="strongMorph: TH8687"} [to it, nor any thing taken]{strong="H1639" x-morph="strongMorph: TH8800"} [from it: and God]{strong="H430"} [doeth]{strong="H6213" x-morph="strongMorph: TH8804"} it, that men [should fear]{strong="H3372" x-morph="strongMorph: TH8799"} before_H6440 him. 
+@15 That_which_hath_been_is_now_H3528; and_that_which_is_to_be_hath_already_H3528 [been; and God]{strong="H430"} [requireth]{strong="H1245" x-morph="strongMorph: TH8762"} [that which is past]{strong="H7291" x-morph="strongMorph: TH8737"}.^a^ 
 ^a^[**3:15** that which is past: Heb. that which is driven away]
 
-@16 And moreover I saw under the sun the place of judgment, that wickedness was there; and the place of righteousness, that iniquity was there. 
-@17 I said in mine heart, God shall judge the righteous and the wicked: for there is a time there for every purpose and for every work. 
-@18 I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.^a^ 
-@19 For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all is vanity. 
-@20 All go unto one place; all are of the dust, and all turn to dust again. 
-@21 Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?^b^ ^c^ 
-@22 Wherefore I perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who shall bring him to see what shall be after him?
+@16 [And moreover I saw]{strong="H7200" x-morph="strongMorph: TH8804"} under_the_sun_H8121 the_place_H4725 of_judgment_H4941, that wickedness_H7562 was [there; and the place]{strong="H4725"} of_righteousness_H6664, that iniquity_H7562 was there. 
+@17 [I said]{strong="H559" x-morph="strongMorph: TH8804"} in_mine_heart_H3820, God_H430 [shall judge]{strong="H8199" x-morph="strongMorph: TH8799"} the_righteous_H6662 and_the_wicked_H7563: for there is a_time_H6256 there_for_every_purpose_H2656 and_for_every_work_H4639. 
+@18 [I said]{strong="H559" x-morph="strongMorph: TH8804"} in_mine_heart_H3820 concerning_the_estate_H1700 of_the_sons_H1121 of_men_H120, that_God_H430 [might manifest]{strong="H1305" x-morph="strongMorph: TH8800"} [them, and that they might see]{strong="H7200" x-morph="strongMorph: TH8800"} that_they_H1992 themselves_are_beasts_H929.^a^ 
+@19 For_that_which_befalleth_H4745 the_sons_H1121 of_men_H120 befalleth_H4745 beasts_H929; even_one_thing_H259 befalleth_H4745 [them: as the one dieth]{strong="H4194"}, so_dieth_H4194 the_other_H2088; [yea, they have all one]{strong="H259"} breath_H7307; so_that_a_man_H120 hath_no_preeminence_H4195 above_a_beast_H929: for all is vanity_H1892. 
+@20 [All go]{strong="H1980" x-morph="strongMorph: TH8802"} unto_one_H259 place_H4725; all_are_of_the_dust_H6083, and_all_turn_H7725 to_dust_H6083 [again]{strong="H7725" x-morph="strongMorph: TH8804"}. 
+@21 [Who knoweth]{strong="H3045" x-morph="strongMorph: TH8802"} the_spirit_H7307 [of man]{strong="H120 H1121"} [that goeth]{strong="H5927" x-morph="strongMorph: TH8802"} upward_H4605, and_the_spirit_H7307 of_the_beast_H929 [that goeth]{strong="H3381" x-morph="strongMorph: TH8802"} downward_H4295 to_the_earth_H776?^b^ ^c^ 
+@22 [Wherefore I perceive]{strong="H7200" x-morph="strongMorph: TH8804"} that there is nothing_better_H2896, than_that_a_man_H120 [should rejoice]{strong="H8055" x-morph="strongMorph: TH8799"} in_his_own_works_H4639; for that is his_portion_H2506: [for who shall bring]{strong="H935" x-morph="strongMorph: TH8686"} [him to see]{strong="H7200" x-morph="strongMorph: TH8800"} what_shall_be_after_H310 him?
 ^a^[**3:18** that God…: or, that they might clear God, and see, etc] ^b^[**3:21** of man: Heb. of the sons of man] ^c^[**3:21** goeth upward: Heb. is ascending, etc] 
 
 # 4 
-@1 So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.^a^ 
-@2 Wherefore I praised the dead which are already dead more than the living which are yet alive. 
-@3 Yea, better is he than both they, which hath not yet been, who hath not seen the evil work that is done under the sun. 
+@1 [So I returned]{strong="H7725" x-morph="strongMorph: TH8804"}, [and considered]{strong="H7200" x-morph="strongMorph: TH8799"} all_the_oppressions_H6217 [that are done]{strong="H6213" x-morph="strongMorph: TH8737"} under_the_sun_H8121: and_behold_the_tears_H1832 of such as were [oppressed]{strong="H6231" x-morph="strongMorph: TH8803"}, [and they had no comforter]{strong="H5162" x-morph="strongMorph: TH8764"}; and_on_the_side_H3027 [of their oppressors]{strong="H6231" x-morph="strongMorph: TH8802"} there was power_H3581; [but they had no comforter]{strong="H5162" x-morph="strongMorph: TH8764"}.^a^ 
+@2 [Wherefore I praised]{strong="H7623" x-morph="strongMorph: TH8764"} [the dead]{strong="H4191" x-morph="strongMorph: TH8801"} which_are_already_H3528 [dead]{strong="H4191" x-morph="strongMorph: TH8804"} more_than_the_living_H2416 which_are_yet_H5728 alive_H2416. 
+@3 [Yea, better]{strong="H2896"} is he than_both_H8147 [they, which hath not yet]{strong="H5728"} [been, who hath not seen]{strong="H7200" x-morph="strongMorph: TH8804"} the_evil_H7451 work_H4639 [that is done]{strong="H6213" x-morph="strongMorph: TH8738"} under_the_sun_H8121. 
 ^a^[**4:1** side: Heb. hand]
 
-@4 Again, I considered all travail, and every right work, that for this a man is envied of his neighbour. This is also vanity and vexation of spirit.^a^ ^b^ 
-@5 The fool foldeth his hands together, and eateth his own flesh. 
-@6 Better is an handful with quietness, than both the hands full with travail and vexation of spirit. 
+@4 [Again, I considered]{strong="H7200" x-morph="strongMorph: TH8804"} all_travail_H5999, and_every_right_H3788 work_H4639, that_for_this_a_man_H376 is_envied_H7068 of_his_neighbour_H7453. This is also_vanity_H1892 and_vexation_H7469 of_spirit_H7307.^a^ ^b^ 
+@5 The_fool_H3684 foldeth_H2263 his_hands_H3027 [together]{strong="H2263" x-morph="strongMorph: TH8802"}, [and eateth]{strong="H398" x-morph="strongMorph: TH8802"} his_own_flesh_H1320. 
+@6 Better_H2896 is an_handful_H3709 with quietness_H5183, than_both_the_hands_H2651 full_H4393 with travail_H5999 and_vexation_H7469 of_spirit_H7307. 
 ^a^[**4:4** every…: Heb. all the rightness of work] ^b^[**4:4** for this…: Heb. this is the envy of a man from his neighbour]
 
-@7 Then I returned, and I saw vanity under the sun. 
-@8 There is one alone, and there is not a second; yea, he hath neither child nor brother: yet is there no end of all his labour; neither is his eye satisfied with riches; neither saith he, For whom do I labour, and bereave my soul of good? This is also vanity, yea, it is a sore travail. 
+@7 [Then I returned]{strong="H7725" x-morph="strongMorph: TH8804"}, [and I saw]{strong="H7200" x-morph="strongMorph: TH8799"} vanity_H1892 under_the_sun_H8121. 
+@8 There_is_H3426 one_H259 alone, and there is not_a_second_H8145; [yea, he hath neither child]{strong="H1121"} nor_brother_H251: yet is there no_end_H7093 of_all_his_labour_H5999; neither_is_his_eye_H5869 [satisfied]{strong="H7646" x-morph="strongMorph: TH8799"} with_riches_H6239; neither saith he, For_whom_do_I_labour_H6001, [and bereave]{strong="H2637" x-morph="strongMorph: TH8764"} my_soul_H5315 of_good_H2896? This is also_vanity_H1892, yea, it is a_sore_H7451 travail_H6045. 
 
-@9 Two are better than one; because they have a good reward for their labour. 
-@10 For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him up. 
-@11 Again, if two lie together, then they have heat: but how can one be warm alone? 
-@12 And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken. 
+@9 Two_H8147 are better_H2896 than_one_H259; because_they_have_H3426 a_good_H2896 reward_H7939 for_their_labour_H5999. 
+@10 [For if they fall]{strong="H5307" x-morph="strongMorph: TH8799"}, the_one_H259 [will lift up]{strong="H6965" x-morph="strongMorph: TH8686"} his_fellow_H2270: but_woe_H337 to him that is alone_H259 [when he falleth]{strong="H5307" x-morph="strongMorph: TH8799"}; for he hath not_another_H8145 [to help him up]{strong="H6965" x-morph="strongMorph: TH8687"}. 
+@11 Again_H1571, if_two_H8147 [lie together]{strong="H7901" x-morph="strongMorph: TH8799"}, [then they have heat]{strong="H2552" x-morph="strongMorph: TH8804"}: but_how_can_one_H259 [be warm]{strong="H3179" x-morph="strongMorph: TH8799"} alone? 
+@12 And_if_one_H259 [prevail]{strong="H8630" x-morph="strongMorph: TH8799"} [against him, two]{strong="H8147"} [shall withstand]{strong="H5975" x-morph="strongMorph: TH8799"} [him; and a threefold]{strong="H8027" x-morph="strongMorph: TH8794"} cord_H2339 is_not_quickly_H4120 [broken]{strong="H5423" x-morph="strongMorph: TH8735"}. 
 
-@13 Better is a poor and a wise child than an old and foolish king, who will no more be admonished.^a^ 
-@14 For out of prison he cometh to reign; whereas also he that is born in his kingdom becometh poor. 
-@15 I considered all the living which walk under the sun, with the second child that shall stand up in his stead. 
-@16 There is no end of all the people, even of all that have been before them: they also that come after shall not rejoice in him. Surely this also is vanity and vexation of spirit.
+@13 Better_H2896 is a_poor_H4542 and_a_wise_H2450 child_H3206 than_an_old_H2205 and_foolish_H3684 king_H4428, [who will]{strong="H3045" x-morph="strongMorph: TH8804"} [no more be admonished]{strong="H2094" x-morph="strongMorph: TH8736"}.^a^ 
+@14 [For out of prison]{strong="H1004 H631" x-morph="strongMorph: TH8803"} [he cometh]{strong="H3318" x-morph="strongMorph: TH8804"} [to reign]{strong="H4427" x-morph="strongMorph: TH8800"}; whereas also he that is [born]{strong="H3205" x-morph="strongMorph: TH8738"} in_his_kingdom_H4438 [becometh poor]{strong="H7326" x-morph="strongMorph: TH8802"}. 
+@15 [I considered]{strong="H7200" x-morph="strongMorph: TH8804"} all_the_living_H2416 [which walk]{strong="H1980" x-morph="strongMorph: TH8764"} under_the_sun_H8121, with_the_second_H8145 child_H3206 [that shall stand up]{strong="H5975" x-morph="strongMorph: TH8799"} in his stead. 
+@16 There is no_end_H7093 of_all_the_people_H5971, even of_all_that_have_been_before_H6440 [them: they also that come after]{strong="H314"} [shall not rejoice]{strong="H8055" x-morph="strongMorph: TH8799"} in him. Surely this also is vanity_H1892 and_vexation_H7475 of_spirit_H7307.
 ^a^[**4:13** who…: Heb. who knoweth not to be admonished] 
 
 # 5 
-@1 Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil. 
-@2 Be not rash with thy mouth, and let not thine heart be hasty to utter any thing before God: for God is in heaven, and thou upon earth: therefore let thy words be few.^a^ 
-@3 For a dream cometh through the multitude of business; and a fool’s voice is known by multitude of words. 
+@1 [Keep]{strong="H8104" x-morph="strongMorph: TH8798"} thy_foot_H7272 [when thou goest]{strong="H3212" x-morph="strongMorph: TH8799"} to_the_house_H1004 of_God_H430, and_be_more_ready_H7138 [to hear]{strong="H8085" x-morph="strongMorph: TH8800"}, [than to give]{strong="H5414" x-morph="strongMorph: TH8800"} the_sacrifice_H2077 of_fools_H3684: [for they consider]{strong="H3045" x-morph="strongMorph: TH8802"} [not that they do]{strong="H6213" x-morph="strongMorph: TH8800"} evil_H7451. 
+@2 [Be not rash]{strong="H926" x-morph="strongMorph: TH8762"} with_thy_mouth_H6310, and_let_not_thine_heart_H3820 [be hasty]{strong="H4116" x-morph="strongMorph: TH8762"} [to utter]{strong="H3318" x-morph="strongMorph: TH8687"} any thing_H1697 before_H6440 God_H430: for_God_H430 is in_heaven_H8064, and_thou_upon_earth_H776: therefore_let_thy_words_H1697 be_few_H4592.^a^ 
+@3 For_a_dream_H2472 [cometh]{strong="H935" x-morph="strongMorph: TH8802"} through_the_multitude_H7230 of_business_H6045; [and a fool’s]{strong="H3684"} voice_H6963 is known by_multitude_H7230 of_words_H1697. 
 ^a^[**5:2** thing: or, word]
 
-@4 When thou vowest a vow unto God, defer not to pay it; for he hath no pleasure in fools: pay that which thou hast vowed. 
-@5 Better is it that thou shouldest not vow, than that thou shouldest vow and not pay. 
-@6 Suffer not thy mouth to cause thy flesh to sin; neither say thou before the angel, that it was an error: wherefore should God be angry at thy voice, and destroy the work of thine hands? 
-@7 For in the multitude of dreams and many words there are also divers vanities: but fear thou God. 
+@4 [When thou vowest]{strong="H5087" x-morph="strongMorph: TH8799"} a_vow_H5088 unto_God_H430, [defer]{strong="H309" x-morph="strongMorph: TH8762"} [not to pay]{strong="H7999" x-morph="strongMorph: TH8763"} it; for he hath no_pleasure_H2656 in_fools_H3684: [pay]{strong="H7999" x-morph="strongMorph: TH8761"} [that which thou hast vowed]{strong="H5087" x-morph="strongMorph: TH8799"}. 
+@5 Better_H2896 is it [that thou shouldest not vow]{strong="H5087" x-morph="strongMorph: TH8799"}, [than that thou shouldest vow]{strong="H5087" x-morph="strongMorph: TH8799"} [and not pay]{strong="H7999" x-morph="strongMorph: TH8762"}. 
+@6 [Suffer]{strong="H5414" x-morph="strongMorph: TH8799"} not_thy_mouth_H6310 to_cause_thy_flesh_H1320 [to sin]{strong="H2398" x-morph="strongMorph: TH8687"}; [neither say]{strong="H559" x-morph="strongMorph: TH8799"} thou_before_H6440 the_angel_H4397, that it was an_error_H7684: wherefore_should_God_H430 [be angry]{strong="H7107" x-morph="strongMorph: TH8799"} at_thy_voice_H6963, [and destroy]{strong="H2254" x-morph="strongMorph: TH8765"} the_work_H4639 of_thine_hands_H3027? 
+@7 For_in_the_multitude_H7230 of_dreams_H2472 [and many]{strong="H7235" x-morph="strongMorph: TH8687"} words_H1697 there are also divers vanities_H1892: [but fear]{strong="H3372" x-morph="strongMorph: TH8798"} thou_God_H430. 
 
-@8 If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regardeth; and there be higher than they.^a^ 
+@8 [If thou seest]{strong="H7200" x-morph="strongMorph: TH8799"} the_oppression_H6233 [of the poor]{strong="H7326" x-morph="strongMorph: TH8802"}, and_violent_H1499 perverting_of_judgment_H4941 and_justice_H6664 in_a_province_H4082, [marvel]{strong="H8539" x-morph="strongMorph: TH8799"} not_at_the_matter_H2656: for he that is higher_H1364 than_the_highest_H1364 [regardeth]{strong="H8104" x-morph="strongMorph: TH8802"}; and there be higher_H1364 than_they_H5921.^a^ 
 ^a^[**5:8** at the…: Heb. at the will, or, purpose]
 
-@9 Moreover the profit of the earth is for all: the king himself is served by the field. 
-@10 He that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this is also vanity. 
-@11 When goods increase, they are increased that eat them: and what good is there to the owners thereof, saving the beholding of them with their eyes? 
-@12 The sleep of a labouring man is sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep. 
-@13 There is a sore evil which I have seen under the sun, namely, riches kept for the owners thereof to their hurt. 
-@14 But those riches perish by evil travail: and he begetteth a son, and there is nothing in his hand. 
-@15 As he came forth of his mother’s womb, naked shall he return to go as he came, and shall take nothing of his labour, which he may carry away in his hand. 
-@16 And this also is a sore evil, that in all points as he came, so shall he go: and what profit hath he that hath laboured for the wind? 
-@17 All his days also he eateth in darkness, and he hath much sorrow and wrath with his sickness. 
+@9 Moreover_the_profit_H3504 of_the_earth_H776 [is for all: the king]{strong="H4428"} himself [is served]{strong="H5647" x-morph="strongMorph: TH8738"} by_the_field_H7704. 
+@10 [He that loveth]{strong="H157" x-morph="strongMorph: TH8802"} silver_H3701 [shall not be satisfied]{strong="H7646" x-morph="strongMorph: TH8799"} with_silver_H3701; [nor he that loveth]{strong="H157" x-morph="strongMorph: TH8802"} abundance_H1995 with_increase_H8393: this is also_vanity_H1892. 
+@11 When_goods_H2896 [increase]{strong="H7235" x-morph="strongMorph: TH8800"}, [they are increased]{strong="H7231" x-morph="strongMorph: TH8804"} [that eat]{strong="H398" x-morph="strongMorph: TH8802"} [them: and what good]{strong="H3788"} is there to_the_owners_H1167 [thereof, saving]{strong="H518"} [the beholding]{strong="H7212 H7207" x-morph="strongMorph: TH8801 strongMorph: TH8675"} of them with_their_eyes_H5869? 
+@12 The_sleep_H8142 [of a labouring man]{strong="H5647" x-morph="strongMorph: TH8802"} is sweet_H4966, [whether he eat]{strong="H398" x-morph="strongMorph: TH8799"} little_H4592 [or much]{strong="H7235" x-morph="strongMorph: TH8687"}: but_the_abundance_H7647 of_the_rich_H6223 [will not suffer]{strong="H3240" x-morph="strongMorph: TH8688"} [him to sleep]{strong="H3462" x-morph="strongMorph: TH8800"}. 
+@13 There_is_H3426 [a sore]{strong="H2470" x-morph="strongMorph: TH8802"} evil_H7451 which [I have seen]{strong="H7200" x-morph="strongMorph: TH8804"} under_the_sun_H8121, namely, riches_H6239 [kept]{strong="H8104" x-morph="strongMorph: TH8803"} for_the_owners_H1167 thereof_to_their_hurt_H7451. 
+@14 But_those_riches_H6239 [perish]{strong="H6" x-morph="strongMorph: TH8804"} by_evil_H7451 travail_H6045: [and he begetteth]{strong="H3205" x-morph="strongMorph: TH8689"} a_son_H1121, and there is nothing_H3972 in_his_hand_H3027. 
+@15 [As he came forth]{strong="H3318" x-morph="strongMorph: TH8804"} [of his mother’s]{strong="H517"} womb_H990, naked_H6174 [shall he return]{strong="H7725" x-morph="strongMorph: TH8799"} [to go]{strong="H3212" x-morph="strongMorph: TH8800"} [as he came]{strong="H935" x-morph="strongMorph: TH8804"}, [and shall take]{strong="H5375" x-morph="strongMorph: TH8799"} nothing_H3972 of_his_labour_H5999, [which he may carry away]{strong="H3212" x-morph="strongMorph: TH8686"} in_his_hand_H3027. 
+@16 And_this_H2090 also is [a sore]{strong="H2470" x-morph="strongMorph: TH8802"} evil_H7451, that in_all_points_H5980 [as he came]{strong="H935" x-morph="strongMorph: TH8804"}, [so shall he go]{strong="H3212" x-morph="strongMorph: TH8799"}: and_what_profit_H3504 [hath he that hath laboured]{strong="H5998" x-morph="strongMorph: TH8799"} for_the_wind_H7307? 
+@17 All_his_days_H3117 [also he eateth]{strong="H398" x-morph="strongMorph: TH8799"} in_darkness_H2822, and he hath [much]{strong="H7235" x-morph="strongMorph: TH8687"} [sorrow]{strong="H3707" x-morph="strongMorph: TH8804"} and_wrath_H7110 with_his_sickness_H2483. 
 
-@18 Behold that which I have seen: it is good and comely for one to eat and to drink, and to enjoy the good of all his labour that he taketh under the sun all the days of his life, which God giveth him: for it is his portion.^a^ ^b^ 
-@19 Every man also to whom God hath given riches and wealth, and hath given him power to eat thereof, and to take his portion, and to rejoice in his labour; this is the gift of God. 
-@20 For he shall not much remember the days of his life; because God answereth him in the joy of his heart.^c^
+@18 Behold that [which I have seen]{strong="H7200" x-morph="strongMorph: TH8804"}: it is good_H2896 and_comely_H3303 for one [to eat]{strong="H398" x-morph="strongMorph: TH8800"} [and to drink]{strong="H8354" x-morph="strongMorph: TH8800"}, [and to enjoy]{strong="H7200" x-morph="strongMorph: TH8800"} the_good_H2896 of_all_his_labour_H5999 [that he taketh]{strong="H5998" x-morph="strongMorph: TH8799"} under_the_sun_H8121 all_H4557 the_days_H3117 of_his_life_H2416, which_God_H430 [giveth]{strong="H5414" x-morph="strongMorph: TH8804"} him: for it is his_portion_H2506.^a^ ^b^ 
+@19 Every_man_H120 also_to_whom_God_H430 [hath given]{strong="H5414" x-morph="strongMorph: TH8804"} riches_H6239 and_wealth_H5233, [and hath given him power]{strong="H7980" x-morph="strongMorph: TH8689"} [to eat]{strong="H398" x-morph="strongMorph: TH8800"} [thereof, and to take]{strong="H5375" x-morph="strongMorph: TH8800"} his_portion_H2506, [and to rejoice]{strong="H8055" x-morph="strongMorph: TH8800"} in_his_labour_H5999; this_H2090 is the_gift_H4991 of_God_H430. 
+@20 [For he shall not much]{strong="H7235" x-morph="strongMorph: TH8687"} [remember]{strong="H2142" x-morph="strongMorph: TH8799"} the_days_H3117 of_his_life_H2416; because_God_H430 [answereth ]{strong="H6031" x-morph="strongMorph: TH8688"} him in_the_joy_H8057 of_his_heart_H3820.^c^
 ^a^[**5:18** it is good…: Heb. there is a good which is comely, etc] ^b^[**5:18** all the days: Heb. the number of the days] ^c^[**5:20** For…: or, Though he give not much, yet he remembereth, etc] 
 
 # 6 
-@1 There is an evil which I have seen under the sun, and it is common among men: 
-@2 A man to whom God hath given riches, wealth, and honour, so that he wanteth nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but a stranger eateth it: this is vanity, and it is an evil disease. 
+@1 There_is_H3426 an_evil_H7451 [which I have seen]{strong="H7200" x-morph="strongMorph: TH8804"} under_the_sun_H8121, and it is common_H7227 among_men_H120: 
+@2 A_man_H376 to_whom_God_H430 [hath given]{strong="H5414" x-morph="strongMorph: TH8799"} riches_H6239, wealth_H5233, and_honour_H3519, so_that_he_wanteth_H2638 nothing_for_his_soul_H5315 [of all that he desireth]{strong="H183" x-morph="strongMorph: TH8691"}, yet_God_H430 [giveth him not power]{strong="H7980" x-morph="strongMorph: TH8686"} [to eat]{strong="H398" x-morph="strongMorph: TH8800"} [thereof, but a stranger]{strong="H5237 H376"} [eateth]{strong="H398" x-morph="strongMorph: TH8799"} it: this is vanity_H1892, and it is an_evil_H7451 disease_H2483. 
 
-@3 If a man beget an hundred children, and live many years, so that the days of his years be many, and his soul be not filled with good, and also that he have no burial; I say, that an untimely birth is better than he. 
-@4 For he cometh in with vanity, and departeth in darkness, and his name shall be covered with darkness. 
-@5 Moreover he hath not seen the sun, nor known any thing: this hath more rest than the other. 
+@3 If_a_man_H376 [beget]{strong="H3205" x-morph="strongMorph: TH8686"} an_hundred_H3967 children, [and live]{strong="H2421" x-morph="strongMorph: TH8799"} many_H7227 years_H8141, so_that_the_days_H3117 of_his_years_H8141 be_many_H7227, and_his_soul_H5315 [be not filled]{strong="H7646" x-morph="strongMorph: TH8799"} with_good_H2896, and also that he_have_no_burial_H6900; [I say]{strong="H559" x-morph="strongMorph: TH8804"}, that an_untimely_birth_H5309 is better_H2896 than he. 
+@4 [For he cometh]{strong="H935" x-morph="strongMorph: TH8804"} in_with_vanity_H1892, [and departeth]{strong="H3212" x-morph="strongMorph: TH8799"} in_darkness_H2822, and_his_name_H8034 [shall be covered]{strong="H3680" x-morph="strongMorph: TH8792"} with_darkness_H2822. 
+@5 [Moreover he hath not seen]{strong="H7200" x-morph="strongMorph: TH8804"} the_sun_H8121, [nor known]{strong="H3045" x-morph="strongMorph: TH8804"} any thing: this_H2088 hath_more_rest_H5183 than_H2088 the other. 
 
-@6 Yea, though he live a thousand years twice told, yet hath he seen no good: do not all go to one place? 
+@6 [Yea, though]{strong="H432"} [he live]{strong="H2421" x-morph="strongMorph: TH8804"} a_thousand_H505 years_H8141 twice_H6471 told, [yet hath he seen]{strong="H7200" x-morph="strongMorph: TH8804"} no_good_H2896: [do not all go]{strong="H1980" x-morph="strongMorph: TH8802"} to_one_H259 place_H4725? 
 
-@7 All the labour of man is for his mouth, and yet the appetite is not filled.^a^ 
-@8 For what hath the wise more than the fool? what hath the poor, that knoweth to walk before the living? 
+@7 All_the_labour_H5999 of_man_H120 is for_his_mouth_H6310, and_yet_the_appetite_H5315 [is not filled]{strong="H4390" x-morph="strongMorph: TH8735"}.^a^ 
+@8 For_what_hath_the_wise_H2450 more_H3148 than_the_fool_H3684? what_hath_the_poor_H6041, [that knoweth]{strong="H3045" x-morph="strongMorph: TH8802"} [to walk]{strong="H1980" x-morph="strongMorph: TH8800"} before_the_living_H2416? 
 ^a^[**6:7** appetite: Heb. soul]
 
-@9 Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit.^a^ 
-@10 That which hath been is named already, and it is known that it is man: neither may he contend with him that is mightier than he. 
+@9 Better_H2896 is the_sight_H4758 of_the_eyes_H5869 [than the wandering]{strong="H1980" x-morph="strongMorph: TH8800"} of_the_desire_H5315: this is also_vanity_H1892 and_vexation_H7469 of_spirit_H7307.^a^ 
+@10 [That which hath been is named]{strong="H8034 H7121" x-morph="strongMorph: TH8738"} already_H3528, [and it is known]{strong="H3045" x-morph="strongMorph: TH8737"} that it is man_H120: [neither may]{strong="H3201" x-morph="strongMorph: TH8799"} [he contend]{strong="H1777" x-morph="strongMorph: TH8800"} with_him_that_is_mightier_H8623 than he. 
 ^a^[**6:9** than…: Heb. than the walking of the soul]
 
-@11 Seeing there be many things that increase vanity, what is man the better? 
-@12 For who knoweth what is good for man in this life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?^a^
+@11 Seeing_there_be_H3426 [many]{strong="H7235" x-morph="strongMorph: TH8687"} things_H1697 [that increase]{strong="H7235" x-morph="strongMorph: TH8688"} vanity_H1892, what is man_H120 the_better_H3148? 
+@12 [For who knoweth]{strong="H3045" x-morph="strongMorph: TH8802"} what is good_H2896 for_man_H120 in this life_H2416, all_H4557 the_days_H3117 of_his_vain_H1892 life_H2416 [which he spendeth]{strong="H6213" x-morph="strongMorph: TH8799"} as_a_shadow_H6738? [for who can tell]{strong="H5046" x-morph="strongMorph: TH8686"} a_man_H120 what_shall_be_after_H310 him_under_the_sun_H8121?^a^
 ^a^[**6:12** all…: Heb. the number of the days of the life of his vanity] 
 
 # 7 
-@1 A good name is better than precious ointment; and the day of death than the day of one’s birth. 
+@1 A_good_name_H8034 is better_H2896 than_precious_H2896 ointment_H8081; and_the_day_H3117 of_death_H4194 than_the_day_H3117 [of one’s birth]{strong="H3205" x-morph="strongMorph: TH8736"}. 
 
-@2 It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart. 
-@3 Sorrow is better than laughter: for by the sadness of the countenance the heart is made better.^a^ 
-@4 The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth. 
-@5 It is better to hear the rebuke of the wise, than for a man to hear the song of fools. 
-@6 For as the crackling of thorns under a pot, so is the laughter of the fool: this also is vanity.^b^ 
+@2 It is better_H2896 [to go]{strong="H3212" x-morph="strongMorph: TH8800"} to_the_house_H1004 of_mourning_H60, [than to go]{strong="H3212" x-morph="strongMorph: TH8800"} to_the_house_H1004 of_feasting_H4960: for_H834 that is the_end_H5490 of_all_men_H120; and_the_living_H2416 [will lay]{strong="H5414" x-morph="strongMorph: TH8799"} it to_his_heart_H3820. 
+@3 Sorrow_H3708 is better_H2896 than_laughter_H7814: for_by_the_sadness_H7455 of_the_countenance_H6440 the_heart_H3820 [is made better]{strong="H3190" x-morph="strongMorph: TH8799"}.^a^ 
+@4 The_heart_H3820 of_the_wise_H2450 is in_the_house_H1004 of_mourning_H60; but_the_heart_H3820 of_fools_H3684 is in_the_house_H1004 of_mirth_H8057. 
+@5 It is better_H2896 [to hear]{strong="H8085" x-morph="strongMorph: TH8800"} the_rebuke_H1606 of_the_wise_H2450, than_for_a_man_H376 [to hear]{strong="H8085" x-morph="strongMorph: TH8802"} the_song_H7892 of_fools_H3684. 
+@6 For_as_the_crackling_H6963 of_thorns_H5518 under_a_pot_H5518, so is the_laughter_H7814 of_the_fool_H3684: this also is vanity_H1892.^b^ 
 ^a^[**7:3** Sorrow: or, Anger] ^b^[**7:6** crackling: Heb. sound]
 
-@7 Surely oppression maketh a wise man mad; and a gift destroyeth the heart. 
-@8 Better is the end of a thing than the beginning thereof: and the patient in spirit is better than the proud in spirit. 
-@9 Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools. 
-@10 Say not thou, What is the cause that the former days were better than these? for thou dost not enquire wisely concerning this.^a^ 
+@7 Surely_oppression_H6233 maketh_a_wise_man_H2450 [mad]{strong="H1984" x-morph="strongMorph: TH8779"}; and_a_gift_H4979 [destroyeth]{strong="H6" x-morph="strongMorph: TH8762"} the_heart_H3820. 
+@8 Better_H2896 is the_end_H319 of_a_thing_H1697 than_the_beginning_H7225 thereof: and the_patient_H750 in_spirit_H7307 is better_H2896 than_the_proud_H1362 in_spirit_H7307. 
+@9 [Be not hasty]{strong="H926" x-morph="strongMorph: TH8762"} in_thy_spirit_H7307 [to be angry]{strong="H3707" x-morph="strongMorph: TH8800"}: for_anger_H3708 [resteth]{strong="H5117" x-morph="strongMorph: TH8799"} in_the_bosom_H2436 of_fools_H3684. 
+@10 [Say]{strong="H559" x-morph="strongMorph: TH8799"} not thou, What is the cause that_the_former_H7223 days_H3117 were_better_H2896 [than these? for thou dost not enquire]{strong="H7592" x-morph="strongMorph: TH8804"} wisely_H2451 concerning this.^a^ 
 ^a^[**7:10** wisely: Heb. out of wisdom]
 
-@11 Wisdom is good with an inheritance: and by it there is profit to them that see the sun.^a^ 
-@12 For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it.^b^ 
-@13 Consider the work of God: for who can make that straight, which he hath made crooked? 
-@14 In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him.^c^ 
-@15 All things have I seen in the days of my vanity: there is a just man that perisheth in his righteousness, and there is a wicked man that prolongeth his life in his wickedness. 
-@16 Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself?^d^ 
-@17 Be not over much wicked, neither be thou foolish: why shouldest thou die before thy time?^e^ 
-@18 It is good that thou shouldest take hold of this; yea, also from this withdraw not thine hand: for he that feareth God shall come forth of them all. 
-@19 Wisdom strengtheneth the wise more than ten mighty men which are in the city. 
-@20 For there is not a just man upon earth, that doeth good, and sinneth not. 
-@21 Also take no heed unto all words that are spoken; lest thou hear thy servant curse thee:^f^ 
-@22 For oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others. 
+@11 Wisdom_H2451 is good_H2896 with_an_inheritance_H5159: and by it there is profit_H3148 [to them that see]{strong="H7200" x-morph="strongMorph: TH8802"} the_sun_H8121.^a^ 
+@12 For_wisdom_H2451 is a_defence_H6738, and money_H3701 is a_defence_H6738: but_the_excellency_H3504 of_knowledge_H1847 is, that wisdom_H2451 [giveth life]{strong="H2421" x-morph="strongMorph: TH8762"} to_them_that_have_H1167 it.^b^ 
+@13 [Consider]{strong="H7200" x-morph="strongMorph: TH8798"} the_work_H4639 of_God_H430: [for who can]{strong="H3201" x-morph="strongMorph: TH8799"} make that [straight]{strong="H8626" x-morph="strongMorph: TH8763"}, [which he hath made crooked]{strong="H5791" x-morph="strongMorph: TH8765"}? 
+@14 In_the_day_H3117 of_prosperity_H2896 be_joyful_H2896, but_in_the_day_H3117 of_adversity_H7451 [consider]{strong="H7200" x-morph="strongMorph: TH8798"}: God_H430 [also hath set]{strong="H6213" x-morph="strongMorph: TH8804"} the_one_over_against_H5980 [the other, to the end]{strong="H1700"} that_man_H120 [should find]{strong="H4672" x-morph="strongMorph: TH8799"} nothing_H3972 after_H310 him.^c^ 
+@15 All things [have I seen]{strong="H7200" x-morph="strongMorph: TH8804"} in_the_days_H3117 of_my_vanity_H1892: there_is_H3426 a_just_H6662 man [that perisheth]{strong="H6" x-morph="strongMorph: TH8802"} in_his_righteousness_H6664, and_there_is_a_wicked_H7563 man [that prolongeth]{strong="H748" x-morph="strongMorph: TH8688"} his life in_his_wickedness_H7451. 
+@16 Be_not_righteous_H6662 [over much]{strong="H7235" x-morph="strongMorph: TH8687"}; neither_make_thyself_over_H3148 [wise]{strong="H2449" x-morph="strongMorph: TH8691"}: [why shouldest thou destroy]{strong="H8074" x-morph="strongMorph: TH8709"} thyself?^d^ 
+@17 [Be not over much]{strong="H7235" x-morph="strongMorph: TH8687"} [wicked]{strong="H7561" x-morph="strongMorph: TH8799"}, neither_be_thou_foolish_H5530: [why shouldest thou die]{strong="H4191" x-morph="strongMorph: TH8799"} before_thy_time_H6256?^e^ 
+@18 It is good_H2896 [that thou shouldest take hold]{strong="H270" x-morph="strongMorph: TH8799"} [of this; yea, also from this]{strong="H2088"} [withdraw]{strong="H3240" x-morph="strongMorph: TH8686"} not_thine_hand_H3027: for_he_that_feareth_H3373 God_H430 [shall come forth]{strong="H3318" x-morph="strongMorph: TH8799"} of them all. 
+@19 Wisdom_H2451 [strengtheneth]{strong="H5810" x-morph="strongMorph: TH8799"} the_wise_H2450 more_than_ten_H6235 mighty_H7989 men which_are_in_the_city_H5892. 
+@20 For there is not_a_just_H6662 man_H120 upon_earth_H776, [that doeth]{strong="H6213" x-morph="strongMorph: TH8799"} good_H2896, [and sinneth]{strong="H2398" x-morph="strongMorph: TH8799"} not. 
+@21 [Also take]{strong="H5414" x-morph="strongMorph: TH8799"} no_heed_H3820 unto_all_words_H1697 [that are spoken]{strong="H1696" x-morph="strongMorph: TH8762"}; [lest thou hear]{strong="H8085" x-morph="strongMorph: TH8799"} thy_servant_H5650 [curse]{strong="H7043" x-morph="strongMorph: TH8764"} thee:^f^ 
+@22 [For oftentimes]{strong="H7227 H6471"} also_thine_own_heart_H3820 [knoweth]{strong="H3045" x-morph="strongMorph: TH8804"} [that thou thyself likewise hast cursed]{strong="H7043" x-morph="strongMorph: TH8765"} others_H312. 
 ^a^[**7:11** good…: or, as good as an inheritance, yea, better too] ^b^[**7:12** defence: Heb. shadow] ^c^[**7:14** set: Heb. made] ^d^[**7:16** destroy…: Heb. be desolate?] ^e^[**7:17** before…: Heb. not in thy time?] ^f^[**7:21** take…: Heb. give not thine heart]
 
-@23 All this have I proved by wisdom: I said, I will be wise; but it was far from me. 
-@24 That which is far off, and exceeding deep, who can find it out? 
-@25 I applied mine heart to know, and to search, and to seek out wisdom, and the reason of things, and to know the wickedness of folly, even of foolishness and madness:^a^ 
-@26 And I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her.^b^ 
-@27 Behold, this have I found, saith the preacher, counting one by one, to find out the account:^c^ 
-@28 Which yet my soul seeketh, but I find not: one man among a thousand have I found; but a woman among all those have I not found. 
-@29 Lo, this only have I found, that God hath made man upright; but they have sought out many inventions.
+@23 All_this_H2090 [have I proved]{strong="H5254" x-morph="strongMorph: TH8765"} by_wisdom_H2451: [I said]{strong="H559" x-morph="strongMorph: TH8804"}, [I will be wise]{strong="H2449" x-morph="strongMorph: TH8799"}; but it was far_H7350 from me. 
+@24 That_which_is_far_off_H7350, and_exceeding_deep_H6013, [who can find it out]{strong="H4672" x-morph="strongMorph: TH8799"}? 
+@25 [I applied]{strong="H5437" x-morph="strongMorph: TH8804"} mine_heart_H3820 [to know]{strong="H3045" x-morph="strongMorph: TH8800"}, [and to search]{strong="H8446" x-morph="strongMorph: TH8800"}, [and to seek out]{strong="H1245" x-morph="strongMorph: TH8763"} wisdom_H2451, and_the_reason_H2808 of things, [and to know]{strong="H3045" x-morph="strongMorph: TH8800"} the_wickedness_H7562 of_folly_H3689, even_of_foolishness_H5531 and madness_H1947:^a^ 
+@26 [And I find]{strong="H4672" x-morph="strongMorph: TH8802"} more_bitter_H4751 than_death_H4194 the_woman_H802, whose_heart_H3820 is snares_H4685 and_nets_H2764, and her_hands_H3027 as bands_H612: [whoso pleaseth]{strong="H6440 H2896"} God_H430 [shall escape]{strong="H4422" x-morph="strongMorph: TH8735"} [from her; but the sinner]{strong="H2398" x-morph="strongMorph: TH8802"} [shall be taken]{strong="H3920" x-morph="strongMorph: TH8735"} by her.^b^ 
+@27 [Behold]{strong="H7200" x-morph="strongMorph: TH8798"}, [this have I found]{strong="H4672" x-morph="strongMorph: TH8804"}, [saith]{strong="H559" x-morph="strongMorph: TH8804"} the_preacher_H6953, counting one_H259 by_one_H259, [to find out]{strong="H4672" x-morph="strongMorph: TH8800"} the_account_H2808:^c^ 
+@28 Which_yet_my_soul_H5315 [seeketh]{strong="H1245" x-morph="strongMorph: TH8765"}, [but I find]{strong="H4672" x-morph="strongMorph: TH8804"} [not: one]{strong="H259"} man_H120 among_a_thousand_H505 [have I found]{strong="H4672" x-morph="strongMorph: TH8804"}; but_a_woman_H802 [among all those have I not found]{strong="H4672" x-morph="strongMorph: TH8804"}. 
+@29 [Lo]{strong="H7200" x-morph="strongMorph: TH8798"}, this_only_H905 [have I found]{strong="H4672" x-morph="strongMorph: TH8804"}, that_God_H430 [hath made]{strong="H6213" x-morph="strongMorph: TH8804"} man_H120 upright_H3477; [but they have sought out]{strong="H1245" x-morph="strongMorph: TH8765"} many_H7227 inventions_H2810.
 ^a^[**7:25** I applied…: Heb. I and mine heart compassed] ^b^[**7:26** whoso…: Heb. he that is good before God] ^c^[**7:27** counting…: or, weighing one thing after another, to find out the reason] 
 
 # 8 
-@1 Who is as the wise man? and who knoweth the interpretation of a thing? a man’s wisdom maketh his face to shine, and the boldness of his face shall be changed.^a^ 
-@2 I counsel thee to keep the king’s commandment, and that in regard of the oath of God. 
-@3 Be not hasty to go out of his sight: stand not in an evil thing; for he doeth whatsoever pleaseth him. 
-@4 Where the word of a king is, there is power: and who may say unto him, What doest thou? 
-@5 Whoso keepeth the commandment shall feel no evil thing: and a wise man’s heart discerneth both time and judgment.^b^ 
+@1 Who is as_the_wise_H2450 man? [and who knoweth]{strong="H3045" x-morph="strongMorph: TH8802"} the_interpretation_H6592 of_a_thing_H1697? [a man’s]{strong="H120"} wisdom_H2451 maketh_his_face_H6440 [to shine]{strong="H215" x-morph="strongMorph: TH8686"}, and_the_boldness_H5797 of_his_face_H6440 [shall be changed]{strong="H8132" x-morph="strongMorph: TH8792"}.^a^ 
+@2 I counsel thee [to keep]{strong="H8104" x-morph="strongMorph: TH8798"} [the king’s]{strong="H4428"} commandment_H6310, and that in_regard_H1700 of_the_oath_H7621 of_God_H430. 
+@3 [Be not hasty]{strong="H926" x-morph="strongMorph: TH8735"} [to go out]{strong="H3212" x-morph="strongMorph: TH8799"} of_his_sight_H6440: [stand]{strong="H5975" x-morph="strongMorph: TH8799"} not_in_an_evil_H7451 thing_H1697; [for he doeth]{strong="H6213" x-morph="strongMorph: TH8799"} [whatsoever pleaseth]{strong="H2654" x-morph="strongMorph: TH8799"} him. 
+@4 Where_the_word_H1697 of_a_king_H4428 is, there is power_H7983: [and who may say]{strong="H559" x-morph="strongMorph: TH8799"} [unto him, What doest]{strong="H6213" x-morph="strongMorph: TH8799"} thou? 
+@5 [Whoso keepeth]{strong="H8104" x-morph="strongMorph: TH8802"} the_commandment_H4687 [shall feel]{strong="H3045" x-morph="strongMorph: TH8799"} no_evil_H7451 thing_H1697: [and a wise man’s]{strong="H2450"} heart_H3820 [discerneth]{strong="H3045" x-morph="strongMorph: TH8799"} both_time_H6256 and_judgment_H4941.^b^ 
 ^a^[**8:1** the boldness: Heb. the strength] ^b^[**8:5** shall…: Heb. shall know]
 
-@6 Because to every purpose there is time and judgment, therefore the misery of man is great upon him. 
-@7 For he knoweth not that which shall be: for who can tell him when it shall be?^a^ 
-@8 There is no man that hath power over the spirit to retain the spirit; neither hath he power in the day of death: and there is no discharge in that war; neither shall wickedness deliver those that are given to it.^b^ 
+@6 Because_to_every_purpose_H2656 there_is_H3426 time_H6256 and_judgment_H4941, therefore_the_misery_H7451 of_man_H120 is great_H7227 upon him. 
+@7 [For he knoweth]{strong="H3045" x-morph="strongMorph: TH8802"} [not that which shall be: for who can tell]{strong="H5046" x-morph="strongMorph: TH8686"} him when it shall be?^a^ 
+@8 There is no_man_H120 that_hath_power_H7989 over_the_spirit_H7307 [to retain]{strong="H3607" x-morph="strongMorph: TH8800"} the_spirit_H7307; neither hath he power_H7983 in_the_day_H3117 of_death_H4194: and there is no_discharge_H4917 in that war_H4421; neither_shall_wickedness_H7562 [deliver]{strong="H4422" x-morph="strongMorph: TH8762"} those_that_are_given_H1167 to it.^b^ 
 ^a^[**8:7** when…: or, how it shall be?] ^b^[**8:8** discharge: or, casting off weapons]
 
-@9 All this have I seen, and applied my heart unto every work that is done under the sun: there is a time wherein one man ruleth over another to his own hurt. 
-@10 And so I saw the wicked buried, who had come and gone from the place of the holy, and they were forgotten in the city where they had so done: this is also vanity. 
-@11 Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil. 
+@9 [All this have I seen]{strong="H7200" x-morph="strongMorph: TH8804"}, [and applied]{strong="H5414" x-morph="strongMorph: TH8800"} my_heart_H3820 unto_every_work_H4639 [that is done]{strong="H6213" x-morph="strongMorph: TH8738"} under_the_sun_H8121: there is a_time_H6256 wherein_one_man_H120 [ruleth]{strong="H7980" x-morph="strongMorph: TH8804"} over_another_to_his_own_hurt_H7451. 
+@10 And_so_H3651 [I saw]{strong="H7200" x-morph="strongMorph: TH8804"} the_wicked_H7563 [buried]{strong="H6912" x-morph="strongMorph: TH8803"}, [who had come]{strong="H935" x-morph="strongMorph: TH8804"} [and gone]{strong="H1980" x-morph="strongMorph: TH8762"} from_the_place_H4725 of_the_holy_H6918, [and they were forgotten]{strong="H7911" x-morph="strongMorph: TH8691"} in_the_city_H5892 [where they had so done]{strong="H6213" x-morph="strongMorph: TH8804"}: this is also_vanity_H1892. 
+@11 Because_sentence_H6599 against_an_evil_H7451 work_H4639 [is not executed]{strong="H6213" x-morph="strongMorph: TH8738"} speedily_H4120, therefore_the_heart_H3820 of_the_sons_H1121 of_men_H120 [is fully set]{strong="H4390" x-morph="strongMorph: TH8804"} [in them to do]{strong="H6213" x-morph="strongMorph: TH8800"} evil_H7451. 
 
-@12 Though a sinner do evil an hundred times, and his days be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him: 
-@13 But it shall not be well with the wicked, neither shall he prolong his days, which are as a shadow; because he feareth not before God. 
+@12 [Though a sinner]{strong="H2398" x-morph="strongMorph: TH8802"} [do]{strong="H6213" x-morph="strongMorph: TH8802"} evil_H7451 an_hundred_times_H3967, and his days [be prolonged]{strong="H748" x-morph="strongMorph: TH8688"}, [yet surely I know]{strong="H3045" x-morph="strongMorph: TH8802"} that_it_shall_be_well_H2896 with_them_that_fear_H3373 God_H430, [which fear]{strong="H3372" x-morph="strongMorph: TH8799"} before_H6440 him: 
+@13 But_it_shall_not_be_well_H2896 with_the_wicked_H7563, [neither shall he prolong]{strong="H748" x-morph="strongMorph: TH8686"} his days_H3117, which are as_a_shadow_H6738; because_he_feareth_H3373 not_before_H6440 God_H430. 
 
-@14 There is a vanity which is done upon the earth; that there be just men, unto whom it happeneth according to the work of the wicked; again, there be wicked men, to whom it happeneth according to the work of the righteous: I said that this also is vanity. 
-@15 Then I commended mirth, because a man hath no better thing under the sun, than to eat, and to drink, and to be merry: for that shall abide with him of his labour the days of his life, which God giveth him under the sun. 
+@14 There_is_H3426 a_vanity_H1892 [which is done]{strong="H6213" x-morph="strongMorph: TH8738"} upon_the_earth_H776; that_there_be_just_H6662 men, [unto whom it happeneth]{strong="H5060" x-morph="strongMorph: TH8688"} according_to_the_work_H4639 of_the_wicked_H7563; [again, there be]{strong="H3426"} wicked_H7563 men, [to whom it happeneth]{strong="H5060" x-morph="strongMorph: TH8688"} according_to_the_work_H4639 of_the_righteous_H6662: [I said]{strong="H559" x-morph="strongMorph: TH8804"} that_this_also_H1571 is vanity_H1892. 
+@15 [Then I commended]{strong="H7623" x-morph="strongMorph: TH8765"} mirth_H8057, because_a_man_H120 hath_no_better_thing_H2896 under_the_sun_H8121, [than to eat]{strong="H398" x-morph="strongMorph: TH8800"}, [and to drink]{strong="H8354" x-morph="strongMorph: TH8800"}, [and to be merry]{strong="H8055" x-morph="strongMorph: TH8800"}: [for that shall abide]{strong="H3867" x-morph="strongMorph: TH8799"} with_him_of_his_labour_H5999 the_days_H3117 of_his_life_H2416, which_God_H430 [giveth]{strong="H5414" x-morph="strongMorph: TH8804"} him_under_the_sun_H8121. 
 
-@16 When I applied mine heart to know wisdom, and to see the business that is done upon the earth: (for also there is that neither day nor night seeth sleep with his eyes:) 
-@17 Then I beheld all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek it out, yet he shall not find it; yea further; though a wise man think to know it, yet shall he not be able to find it. 
+@16 [When I applied]{strong="H5414" x-morph="strongMorph: TH8804"} mine_heart_H3820 [to know]{strong="H3045" x-morph="strongMorph: TH8800"} wisdom_H2451, [and to see]{strong="H7200" x-morph="strongMorph: TH8800"} the_business_H6045 [that is done]{strong="H6213" x-morph="strongMorph: TH8738"} upon_the_earth_H776: (for also there is that neither_day_H3117 nor_night_H3915 [seeth]{strong="H7200" x-morph="strongMorph: TH8802"} sleep_H8142 with_his_eyes_H5869:) 
+@17 [Then I beheld]{strong="H7200" x-morph="strongMorph: TH8804"} all_the_work_H4639 of_God_H430, that_a_man_H120 [cannot]{strong="H3201" x-morph="strongMorph: TH8799"} [find out]{strong="H4672" x-morph="strongMorph: TH8800"} the_work_H4639 [that is done]{strong="H6213" x-morph="strongMorph: TH8738"} under_the_sun_H8121: because_H834 though_H7945 a_man_H120 [labour]{strong="H5998" x-morph="strongMorph: TH8799"} to seek it [out]{strong="H1245" x-morph="strongMorph: TH8763"}, [yet he shall not find]{strong="H4672" x-morph="strongMorph: TH8799"} it; [yea further; though a wise]{strong="H2450"} man [think]{strong="H559" x-morph="strongMorph: TH8799"} [to know]{strong="H3045" x-morph="strongMorph: TH8800"} it, [yet shall he not be able]{strong="H3201" x-morph="strongMorph: TH8799"} [to find]{strong="H4672" x-morph="strongMorph: TH8800"} it. 
 
 # 9 
-@1 For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, are in the hand of God: no man knoweth either love or hatred by all that is before them.^a^ 
-@2 All things come alike to all: there is one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean; to him that sacrificeth, and to him that sacrificeth not: as is the good, so is the sinner; and he that sweareth, as he that feareth an oath. 
-@3 This is an evil among all things that are done under the sun, that there is one event unto all: yea, also the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that they go to the dead. 
+@1 [For all this I considered]{strong="H5414" x-morph="strongMorph: TH8804"} in_my_heart_H3820 [even to declare]{strong="H952" x-morph="strongMorph: TH8800"} [all this, that the righteous]{strong="H6662"}, and_the_wise_H2450, and_their_works_H5652, are in_the_hand_H3027 of_God_H430: no_man_H120 [knoweth]{strong="H3045" x-morph="strongMorph: TH8802"} either_H1571 love_H160 or_hatred_H8135 by all that is before_H6440 them.^a^ 
+@2 All things come alike to all: there is one_H259 event_H4745 to_the_righteous_H6662, and_to_the_wicked_H7563; to_the_good_H2896 and_to_the_clean_H2889, and_to_the_unclean_H2931; [to him that sacrificeth]{strong="H2076" x-morph="strongMorph: TH8802"}, and_to_him_that_H834 [sacrificeth]{strong="H2076" x-morph="strongMorph: TH8802"} not: as is the_good_H2896, so is [the sinner]{strong="H2398" x-morph="strongMorph: TH8802"}; and [he that sweareth]{strong="H7650" x-morph="strongMorph: TH8737"}, as he that_feareth_H3373 an_oath_H7621. 
+@3 This is an_evil_H7451 among all things [that are done]{strong="H6213" x-morph="strongMorph: TH8738"} under_the_sun_H8121, that there is one_H259 event_H4745 [unto all: yea, also the heart]{strong="H3820"} of_the_sons_H1121 of_men_H120 [is full]{strong="H4390" x-morph="strongMorph: TH8804"} of_evil_H7451, and_madness_H1947 is in_their_heart_H3824 while_they_live_H2416, and_after_H310 that they go [to the dead]{strong="H4191" x-morph="strongMorph: TH8801"}. 
 ^a^[**9:1** I considered…: Heb. I gave, or, set to my heart]
 
-@4 For to him that is joined to all the living there is hope: for a living dog is better than a dead lion. 
-@5 For the living know that they shall die: but the dead know not any thing, neither have they any more a reward; for the memory of them is forgotten. 
-@6 Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion for ever in any thing that is done under the sun. 
+@4 For_H4310 to_him_that_is_H3426 [joined]{strong="H977 H2266" x-morph="strongMorph: TH8792 strongMorph: TH8675 strongMorph: TH8792"} to_all_the_living_H2416 there_is_hope_H986: for_a_living_H2416 dog_H3611 is_better_H2896 [than a dead]{strong="H4191" x-morph="strongMorph: TH8801"} lion_H738. 
+@5 For_the_living_H2416 [know]{strong="H3045" x-morph="strongMorph: TH8802"} [that they shall die]{strong="H4191" x-morph="strongMorph: TH8799"}: [but the dead]{strong="H4191" x-morph="strongMorph: TH8801"} [know]{strong="H3045" x-morph="strongMorph: TH8802"} not_any_thing_H3972, neither_have_they_any_more_a_reward_H7939; for_the_memory_H2143 [of them is forgotten]{strong="H7911" x-morph="strongMorph: TH8738"}. 
+@6 Also_their_love_H160, and_their_hatred_H8135, and_their_envy_H7068, is_now_H3528 [perished]{strong="H6" x-morph="strongMorph: TH8804"}; neither_have_they_any_more_a_portion_H2506 for_ever_H5769 in any thing [that is done]{strong="H6213" x-morph="strongMorph: TH8738"} under_the_sun_H8121. 
 
-@7 Go thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works. 
-@8 Let thy garments be always white; and let thy head lack no ointment. 
-@9 Live joyfully with the wife whom thou lovest all the days of the life of thy vanity, which he hath given thee under the sun, all the days of thy vanity: for that is thy portion in this life, and in thy labour which thou takest under the sun.^a^ 
-@10 Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest. 
+@7 [Go thy way]{strong="H3212" x-morph="strongMorph: TH8798"}, [eat]{strong="H398" x-morph="strongMorph: TH8798"} thy_bread_H3899 with_joy_H8057, [and drink]{strong="H8354" x-morph="strongMorph: TH8798"} thy_wine_H3196 with_a_merry_H2896 heart_H3820; for_God_H430 now_H3528 [accepteth]{strong="H7521" x-morph="strongMorph: TH8804"} thy_works_H4639. 
+@8 Let_thy_garments_H899 be_always_H6256 white_H3836; and_let_thy_head_H7218 [lack]{strong="H2637" x-morph="strongMorph: TH8799"} no_ointment_H8081. 
+@9 Live_H2416 [joyfully]{strong="H7200" x-morph="strongMorph: TH8798"} with_the_wife_H802 [whom thou lovest]{strong="H157" x-morph="strongMorph: TH8804"} all_the_days_H3117 of_the_life_H2416 of_thy_vanity_H1892, [which he hath given]{strong="H5414" x-morph="strongMorph: TH8804"} thee_under_the_sun_H8121, all_the_days_H3117 of_thy_vanity_H1892: for that is thy_portion_H2506 in this life_H2416, and_in_thy_labour_H5999 which_thou_takest_H6001 under_the_sun_H8121.^a^ 
+@10 Whatsoever_thy_hand_H3027 [findeth]{strong="H4672" x-morph="strongMorph: TH8799"} [to do]{strong="H6213" x-morph="strongMorph: TH8800"}, [do]{strong="H6213" x-morph="strongMorph: TH8798"} it with_thy_might_H3581; for there is no_work_H4639, nor_device_H2808, nor_knowledge_H1847, nor_wisdom_H2451, in_the_grave_H7585, [whither thou goest]{strong="H1980" x-morph="strongMorph: TH8802"}. 
 ^a^[**9:9** Live…: Heb. See, or, Enjoy life]
 
-@11 I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all. 
-@12 For man also knoweth not his time: as the fishes that are taken in an evil net, and as the birds that are caught in the snare; so are the sons of men snared in an evil time, when it falleth suddenly upon them. 
+@11 [I returned]{strong="H7725" x-morph="strongMorph: TH8804"}, [and saw]{strong="H7200" x-morph="strongMorph: TH8800"} under_the_sun_H8121, that_the_race_H4793 is not_to_the_swift_H7031, nor_the_battle_H4421 to_the_strong_H1368, neither_yet_bread_H3899 to_the_wise_H2450, nor_yet_riches_H6239 [to men of understanding]{strong="H995" x-morph="strongMorph: TH8737"}, nor_yet_favour_H2580 [to men of skill]{strong="H3045" x-morph="strongMorph: TH8802"}; but_time_H6256 and_chance_H6294 [happeneth]{strong="H7136" x-morph="strongMorph: TH8799"} to them all. 
+@12 For_man_H120 [also knoweth]{strong="H3045" x-morph="strongMorph: TH8799"} not_his_time_H6256: as_the_fishes_H1709 [that are taken]{strong="H270" x-morph="strongMorph: TH8737"} in_an_evil_H7451 net_H4685, and_as_the_birds_H6833 [that are caught]{strong="H270" x-morph="strongMorph: TH8803"} in_the_snare_H6341; so_H1992 are the_sons_H1121 of_men_H120 [snared]{strong="H3369" x-morph="strongMorph: TH8795"} in_an_evil_H7451 time_H6256, [when it falleth]{strong="H5307" x-morph="strongMorph: TH8799"} suddenly_H6597 upon them. 
 
-@13 This wisdom have I seen also under the sun, and it seemed great unto me: 
-@14 There was a little city, and few men within it; and there came a great king against it, and besieged it, and built great bulwarks against it: 
-@15 Now there was found in it a poor wise man, and he by his wisdom delivered the city; yet no man remembered that same poor man. 
-@16 Then said I, Wisdom is better than strength: nevertheless the poor man’s wisdom is despised, and his words are not heard. 
-@17 The words of wise men are heard in quiet more than the cry of him that ruleth among fools. 
-@18 Wisdom is better than weapons of war: but one sinner destroyeth much good. 
+@13 This_H2090 wisdom_H2451 [have I seen]{strong="H7200" x-morph="strongMorph: TH8804"} also_under_the_sun_H8121, and it seemed great_H1419 unto me: 
+@14 There was a_little_H6996 city_H5892, and_few_H4592 men_H582 [within it; and there came]{strong="H935" x-morph="strongMorph: TH8804"} a_great_H1419 king_H4428 [against it, and besieged]{strong="H5437" x-morph="strongMorph: TH8804"} [it, and built]{strong="H1129" x-morph="strongMorph: TH8804"} great_H1419 bulwarks_H4685 against it: 
+@15 [Now there was found]{strong="H4672" x-morph="strongMorph: TH8804"} in_it_a_poor_H4542 wise_H2450 man_H376, and_he_by_his_wisdom_H2451 [delivered]{strong="H4422" x-morph="strongMorph: TH8765"} the_city_H5892; yet_no_man_H120 [remembered]{strong="H2142" x-morph="strongMorph: TH8804"} that_same_poor_H4542 man_H376. 
+@16 [Then said]{strong="H559" x-morph="strongMorph: TH8804"} [I, Wisdom]{strong="H2451"} is better_H2896 than_strength_H1369: [nevertheless the poor man’s]{strong="H4542"} wisdom_H2451 is [despised]{strong="H959" x-morph="strongMorph: TH8803"}, and_his_words_H1697 [are not heard]{strong="H8085" x-morph="strongMorph: TH8737"}. 
+@17 The_words_H1697 of_wise_H2450 men are [heard]{strong="H8085" x-morph="strongMorph: TH8737"} in_quiet_H5183 more_than_the_cry_H2201 [of him that ruleth]{strong="H4910" x-morph="strongMorph: TH8802"} among_fools_H3684. 
+@18 Wisdom_H2451 is better_H2896 than_weapons_H3627 of_war_H7128: but_one_H259 [sinner]{strong="H2398" x-morph="strongMorph: TH8802"} [destroyeth]{strong="H6" x-morph="strongMorph: TH8762"} [much]{strong="H7235" x-morph="strongMorph: TH8687"} good_H2896. 
 
 # 10 
-@1 Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour.^a^ 
-@2 A wise man’s heart is at his right hand; but a fool’s heart at his left. 
-@3 Yea also, when he that is a fool walketh by the way, his wisdom faileth him, and he saith to every one that he is a fool.^b^ 
+@1 Dead_H4194 flies_H2070 cause_the_ointment_H8081 [of the apothecary]{strong="H7543" x-morph="strongMorph: TH8802"} [to send forth]{strong="H5042" x-morph="strongMorph: TH8686"} [a stinking savour]{strong="H887" x-morph="strongMorph: TH8686"}: so doth a_little_H4592 folly_H5531 him_that_is_in_reputation_H3368 for_wisdom_H2451 and honour_H3519.^a^ 
+@2 [A wise man’s]{strong="H2450"} heart_H3820 is at_his_right_hand_H3225; [but a fool’s]{strong="H3684"} heart_H3820 at_his_left_H8040. 
+@3 [Yea also, when he that is a fool]{strong="H5530"} [walketh]{strong="H1980" x-morph="strongMorph: TH8802"} by_the_way_H1870, his_wisdom_H3820 faileth_H2638 him, [and he saith]{strong="H559" x-morph="strongMorph: TH8804"} to every one that he is a_fool_H5530.^b^ 
 ^a^[**10:1** Dead…: Heb. Flies of death] ^b^[**10:3** his…: Heb. his heart]
 
-@4 If the spirit of the ruler rise up against thee, leave not thy place; for yielding pacifieth great offences. 
-@5 There is an evil which I have seen under the sun, as an error which proceedeth from the ruler:^a^ 
-@6 Folly is set in great dignity, and the rich sit in low place.^b^ 
-@7 I have seen servants upon horses, and princes walking as servants upon the earth. 
-@8 He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him. 
-@9 Whoso removeth stones shall be hurt therewith; and he that cleaveth wood shall be endangered thereby. 
-@10 If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct. 
-@11 Surely the serpent will bite without enchantment; and a babbler is no better.^c^ 
+@4 If_the_spirit_H7307 [of the ruler]{strong="H4910" x-morph="strongMorph: TH8802"} [rise up]{strong="H5927" x-morph="strongMorph: TH8799"} [against thee, leave]{strong="H3240" x-morph="strongMorph: TH8686"} not_thy_place_H4725; for_yielding_H4832 [pacifieth]{strong="H3240" x-morph="strongMorph: TH8686"} great_H1419 offences_H2399. 
+@5 There_is_H3426 an_evil_H7451 which [I have seen]{strong="H7200" x-morph="strongMorph: TH8804"} under_the_sun_H8121, as_an_error_H7684 which [proceedeth]{strong="H3318" x-morph="strongMorph: TH8802"} from_H6440 the_ruler_H7989:^a^ 
+@6 Folly_H5529 [is set]{strong="H5414" x-morph="strongMorph: TH8738"} in_great_H7227 dignity_H4791, and_the_rich_H6223 [sit]{strong="H3427" x-morph="strongMorph: TH8799"} in_low_place_H8216.^b^ 
+@7 [I have seen]{strong="H7200" x-morph="strongMorph: TH8804"} servants_H5650 upon_horses_H5483, and_princes_H8269 [walking ]{strong="H1980" x-morph="strongMorph: TH8802"} as_servants_H5650 upon_the_earth_H776. 
+@8 [He that diggeth]{strong="H2658" x-morph="strongMorph: TH8802"} a_pit_H1475 [shall fall]{strong="H5307" x-morph="strongMorph: TH8799"} [into it; and whoso breaketh]{strong="H6555" x-morph="strongMorph: TH8802"} an_hedge_H1447, a_serpent_H5175 [shall bite]{strong="H5391" x-morph="strongMorph: TH8799"} him. 
+@9 [Whoso removeth]{strong="H5265" x-morph="strongMorph: TH8688"} stones_H68 [shall be hurt]{strong="H6087" x-morph="strongMorph: TH8735"} therewith; and [he that cleaveth]{strong="H1234" x-morph="strongMorph: TH8802"} wood_H6086 [shall be endangered]{strong="H5533" x-morph="strongMorph: TH8735"} thereby. 
+@10 If_the_iron_H1270 [be blunt]{strong="H6949" x-morph="strongMorph: TH8765"}, [and he do not whet]{strong="H7043" x-morph="strongMorph: TH8773"} the_edge_H6440, [then must he put]{strong="H1396" x-morph="strongMorph: TH8762"} to_more_strength_H2428: but_wisdom_H2451 is profitable_H3504 [to direct]{strong="H3787" x-morph="strongMorph: TH8687"}. 
+@11 Surely_the_serpent_H5175 [will bite]{strong="H5391" x-morph="strongMorph: TH8799"} without_enchantment_H3908; [and a babbler]{strong="H1167 H3956"} is_no_better_H3504.^c^ 
 ^a^[**10:5** from: Heb. from before] ^b^[**10:6** in great…: Heb. in great heights] ^c^[**10:11** a babbler: Heb. the master of the tongue]
 
-@12 The words of a wise man’s mouth are gracious; but the lips of a fool will swallow up himself.^a^ 
-@13 The beginning of the words of his mouth is foolishness: and the end of his talk is mischievous madness.^b^ 
-@14 A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?^c^ 
-@15 The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city. 
+@12 The_words_H1697 [of a wise man’s]{strong="H2450"} mouth_H6310 are gracious_H2580; but_the_lips_H8193 of_a_fool_H3684 [will swallow up]{strong="H1104" x-morph="strongMorph: TH8762"} himself.^a^ 
+@13 The_beginning_H8462 of_the_words_H1697 of_his_mouth_H6310 is foolishness_H5531: and_the_end_H319 of_his_talk_H6310 is mischievous_H7451 madness_H1948.^b^ 
+@14 A_fool_H5530 [also is full]{strong="H7235" x-morph="strongMorph: TH8686"} of_words_H1697: a_man_H120 [cannot tell]{strong="H3045" x-morph="strongMorph: TH8799"} [what shall be; and what shall be after]{strong="H310"} [him, who can tell]{strong="H5046" x-morph="strongMorph: TH8686"} him?^c^ 
+@15 The_labour_H5999 of_the_foolish_H3684 [wearieth]{strong="H3021" x-morph="strongMorph: TH8762"} [every one of them, because he knoweth]{strong="H3045" x-morph="strongMorph: TH8804"} [not how to go]{strong="H3212" x-morph="strongMorph: TH8800"} to_the_city_H5892. 
 ^a^[**10:12** gracious: Heb. grace] ^b^[**10:13** his talk: Heb. his mouth] ^c^[**10:14** is full…: Heb. multiplieth words]
 
-@16 Woe to thee, O land, when thy king is a child, and thy princes eat in the morning! 
-@17 Blessed art thou, O land, when thy king is the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness! 
+@16 Woe_H337 [to thee, O land]{strong="H776"}, when_thy_king_H4428 is a_child_H5288, and_thy_princes_H8269 [eat]{strong="H398" x-morph="strongMorph: TH8799"} in_the_morning_H1242! 
+@17 Blessed_H835 art [thou, O land]{strong="H776"}, when_thy_king_H4428 is the_son_H1121 of_nobles_H2715, and_thy_princes_H8269 [eat]{strong="H398" x-morph="strongMorph: TH8799"} in_due_season_H6256, for_strength_H1369, and_not_for_drunkenness_H8358! 
 
-@18 By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through. 
+@18 By_much_slothfulness_H6103 the_building_H4746 [decayeth]{strong="H4355" x-morph="strongMorph: TH8735"}; and_through_idleness_H8220 of_the_hands_H3027 the_house_H1004 [droppeth through]{strong="H1811" x-morph="strongMorph: TH8799"}. 
 
-@19 A feast is made for laughter, and wine maketh merry: but money answereth all things.^a^ 
+@19 A_feast_H3899 [is made]{strong="H6213" x-morph="strongMorph: TH8802"} for_laughter_H7814, and_wine_H3196 [maketh merry]{strong="H2416 H8055" x-morph="strongMorph: TH8762"}: but_money_H3701 [answereth ]{strong="H6030" x-morph="strongMorph: TH8799"} all things.^a^ 
 ^a^[**10:19** maketh…: Heb. maketh glad the life]
 
-@20 Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter.^a^
+@20 [Curse]{strong="H7043" x-morph="strongMorph: TH8762"} not_the_king_H4428, no_not_in_thy_thought_H4093; [and curse]{strong="H7043" x-morph="strongMorph: TH8762"} not_the_rich_H6223 [in thy bedchamber]{strong="H4904 H2315"}: for_a_bird_H5775 of_the_air_H8064 [shall carry]{strong="H3212" x-morph="strongMorph: TH8686"} the_voice_H6963, and_that_which_hath_H1167 wings_H3671 [shall tell]{strong="H5046" x-morph="strongMorph: TH8686"} the_matter_H1697.^a^
 ^a^[**10:20** thought: or, conscience] 
 
 # 11 
-@1 Cast thy bread upon the waters: for thou shalt find it after many days.^a^ 
-@2 Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth. 
-@3 If the clouds be full of rain, they empty themselves upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be. 
-@4 He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap. 
-@5 As thou knowest not what is the way of the spirit, nor how the bones do grow in the womb of her that is with child: even so thou knowest not the works of God who maketh all. 
-@6 In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good.^b^ 
+@1 [Cast]{strong="H7971" x-morph="strongMorph: TH8761"} thy_bread_H3899 upon_H6440 the_waters_H4325: [for thou shalt find]{strong="H4672" x-morph="strongMorph: TH8799"} it_after_many_H7230 days_H3117.^a^ 
+@2 [Give]{strong="H5414" x-morph="strongMorph: TH8798"} a_portion_H2506 to_seven_H7651, and_also_to_eight_H8083; [for thou knowest]{strong="H3045" x-morph="strongMorph: TH8799"} not_what_evil_H7451 shall_be_upon_the_earth_H776. 
+@3 If_the_clouds_H5645 [be full]{strong="H4390" x-morph="strongMorph: TH8735"} of_rain_H1653, [they empty]{strong="H7324" x-morph="strongMorph: TH8686"} themselves upon_the_earth_H776: and_if_the_tree_H6086 [fall]{strong="H5307" x-morph="strongMorph: TH8799"} toward_the_south_H1864, or_toward_the_north_H6828, in_the_place_H4725 where_the_tree_H6086 [falleth]{strong="H5307" x-morph="strongMorph: TH8799"}, [there it shall be]{strong="H1933" x-morph="strongMorph: TH8799"}. 
+@4 [He that observeth]{strong="H8104" x-morph="strongMorph: TH8802"} the_wind_H7307 [shall not sow]{strong="H2232" x-morph="strongMorph: TH8799"}; [and he that regardeth]{strong="H7200" x-morph="strongMorph: TH8802"} the_clouds_H5645 [shall not reap]{strong="H7114" x-morph="strongMorph: TH8799"}. 
+@5 [As thou knowest]{strong="H3045" x-morph="strongMorph: TH8802"} not what is the_way_H1870 of_the_spirit_H7307, nor how_the_bones_H6106 do grow in_the_womb_H990 of_her_that_is_with_child_H4392: [even so thou knowest]{strong="H3045" x-morph="strongMorph: TH8799"} not_the_works_H4639 of_God_H430 [who maketh]{strong="H6213" x-morph="strongMorph: TH8799"} all. 
+@6 In_the_morning_H1242 [sow]{strong="H2232" x-morph="strongMorph: TH8798"} thy_seed_H2233, and_in_the_evening_H6153 [withhold]{strong="H3240" x-morph="strongMorph: TH8686"} not_thine_hand_H3027: [for thou knowest]{strong="H3045" x-morph="strongMorph: TH8802"} not_whether_H335 [shall prosper]{strong="H3787" x-morph="strongMorph: TH8799"}, [either this or that, or whether they both]{strong="H8147"} shall be alike_H259 good_H2896.^b^ 
 ^a^[**11:1** upon…: Heb. upon the face of the waters] ^b^[**11:6** shall prosper: Heb. shall be right]
 
-@7 Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun: 
-@8 But if a man live many years, and rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that cometh is vanity. 
+@7 Truly_the_light_H216 is sweet_H4966, and_a_pleasant_H2896 thing it is for_the_eyes_H5869 [to behold]{strong="H7200" x-morph="strongMorph: TH8800"} the_sun_H8121: 
+@8 But_if_a_man_H120 [live]{strong="H2421" x-morph="strongMorph: TH8799"} [many]{strong="H7235" x-morph="strongMorph: TH8687"} years_H8141, and [rejoice]{strong="H8055" x-morph="strongMorph: TH8799"} [in them all; yet let him remember]{strong="H2142" x-morph="strongMorph: TH8799"} the_days_H3117 of_darkness_H2822; [for they shall be many]{strong="H7235" x-morph="strongMorph: TH8687"}. [All that cometh]{strong="H935" x-morph="strongMorph: TH8804"} is vanity_H1892. 
 
-@9 Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these things God will bring thee into judgment. 
-@10 Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth are vanity.^a^
+@9 [Rejoice]{strong="H8055" x-morph="strongMorph: TH8798"}, O_young_man_H970, in_thy_youth_H3208; and_let_thy_heart_H3820 [cheer]{strong="H2895" x-morph="strongMorph: TH8686"} thee_in_the_days_H3117 of_thy_youth_H979, [and walk]{strong="H1980" x-morph="strongMorph: TH8761"} in_the_ways_H1870 of_thine_heart_H3820, and_in_the_sight_H4758 of_thine_eyes_H5869: [but know]{strong="H3045" x-morph="strongMorph: TH8798"} thou, that for all these things God_H430 [will bring]{strong="H935" x-morph="strongMorph: TH8686"} thee_into_judgment_H4941. 
+@10 [Therefore remove]{strong="H5493" x-morph="strongMorph: TH8685"} sorrow_H3708 from_thy_heart_H3820, [and put away]{strong="H5674" x-morph="strongMorph: TH8685"} evil_H7451 from_thy_flesh_H1320: for_childhood_H3208 and_youth_H7839 are vanity_H1892.^a^
 ^a^[**11:10** sorrow: or, anger] 
 
 # 12 
-@1 Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them; 
-@2 While the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain: 
-@3 In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,^a^ 
-@4 And the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of musick shall be brought low; 
-@5 Also when they shall be afraid of that which is high, and fears shall be in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets: 
-@6 Or ever the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern. 
-@7 Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it. 
+@1 [Remember]{strong="H2142" x-morph="strongMorph: TH8798"} [now thy Creator]{strong="H1254" x-morph="strongMorph: TH8802"} in_the_days_H3117 of_thy_youth_H979, while_the_evil_H7451 days_H3117 [come]{strong="H935" x-morph="strongMorph: TH8799"} [not, nor the years]{strong="H8141"} [draw nigh]{strong="H5060" x-morph="strongMorph: TH8689"}, [when thou shalt say]{strong="H559" x-morph="strongMorph: TH8799"}, I_have_no_pleasure_H2656 in them; 
+@2 While_the_sun_H8121, or_the_light_H216, or_the_moon_H3394, or_the_stars_H3556, [be not darkened]{strong="H2821" x-morph="strongMorph: TH8799"}, nor_the_clouds_H5645 [return]{strong="H7725" x-morph="strongMorph: TH8804"} after_H310 the_rain_H1653: 
+@3 In_the_day_H3117 [when the keepers]{strong="H8104" x-morph="strongMorph: TH8802"} of_the_house_H1004 [shall tremble]{strong="H2111" x-morph="strongMorph: TH8799"}, and_the_strong_H2428 men_H582 [shall bow]{strong="H5791" x-morph="strongMorph: TH8694"} [themselves, and the grinders]{strong="H2912" x-morph="strongMorph: TH8802"} [cease]{strong="H988" x-morph="strongMorph: TH8804"} [because they are few]{strong="H4591" x-morph="strongMorph: TH8765"}, [and those that look out]{strong="H7200" x-morph="strongMorph: TH8802"} of_the_windows_H699 [be darkened]{strong="H2821" x-morph="strongMorph: TH8804"},^a^ 
+@4 And_the_doors_H1817 [shall be shut]{strong="H5462" x-morph="strongMorph: TH8795"} in_the_streets_H7784, when_the_sound_H6963 of_the_grinding_H2913 is_low_H8217, [and he shall rise up]{strong="H6965" x-morph="strongMorph: TH8799"} at_the_voice_H6963 of_the_bird_H6833, and_all_the_daughters_H1323 of_musick_H7892 [shall be brought low]{strong="H7817" x-morph="strongMorph: TH8735"}; 
+@5 Also when [they shall be afraid]{strong="H3372" x-morph="strongMorph: TH8799"} of that which is high_H1364, and_fears_H2849 shall be in_the_way_H1870, and_the_almond_tree_H8247 [shall flourish]{strong="H5006" x-morph="strongMorph: TH8686"}, and_the_grasshopper_H2284 [shall be a burden]{strong="H5445" x-morph="strongMorph: TH8691"}, and_desire_H35 [shall fail]{strong="H6565" x-morph="strongMorph: TH8686"}: because_man_H120 [goeth]{strong="H1980" x-morph="strongMorph: TH8802"} to_his_long_H5769 home_H1004, [and the mourners]{strong="H5594" x-morph="strongMorph: TH8802"} [go about]{strong="H5437" x-morph="strongMorph: TH8804"} the_streets_H7784: 
+@6 Or_ever_H3808 the_silver_H3701 cord_H2256 [be loosed]{strong="H7368 H7576" x-morph="strongMorph: TH8735 strongMorph: TH8675 strongMorph: TH8735"}, or_the_golden_H2091 bowl_H1543 [be broken]{strong="H7533" x-morph="strongMorph: TH8799"}, or_the_pitcher_H3537 [be broken]{strong="H7665" x-morph="strongMorph: TH8735"} at_the_fountain_H4002, or_the_wheel_H1534 [broken]{strong="H7533" x-morph="strongMorph: TH8738"} at_the_cistern_H953. 
+@7 Then_shall_the_dust_H6083 [return]{strong="H7725" x-morph="strongMorph: TH8799"} to_the_earth_H776 [as it was: and the spirit]{strong="H7307"} [shall return]{strong="H7725" x-morph="strongMorph: TH8799"} unto_God_H430 [who gave]{strong="H5414" x-morph="strongMorph: TH8804"} it. 
 ^a^[**12:3** the grinders…: or, the grinders fail, because they grind little]
 
-@8 Vanity of vanities, saith the preacher; all is vanity. 
-@9 And moreover, because the preacher was wise, he still taught the people knowledge; yea, he gave good heed, and sought out, and set in order many proverbs.^a^ 
-@10 The preacher sought to find out acceptable words: and that which was written was upright, even words of truth.^b^ 
-@11 The words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd. 
-@12 And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.^c^ 
+@8 Vanity_H1892 of_vanities_H1892, [saith]{strong="H559" x-morph="strongMorph: TH8804"} the_preacher_H6953; all is vanity_H1892. 
+@9 And_moreover_H3148, because_the_preacher_H6953 was_wise_H2450, [he still taught]{strong="H3925" x-morph="strongMorph: TH8765"} the_people_H5971 knowledge_H1847; [yea, he gave good heed]{strong="H239" x-morph="strongMorph: TH8765"}, [and sought out]{strong="H2713" x-morph="strongMorph: TH8765"}, and [set in order]{strong="H8626" x-morph="strongMorph: TH8765"} [many]{strong="H7235" x-morph="strongMorph: TH8687"} proverbs_H4912.^a^ 
+@10 The_preacher_H6953 [sought]{strong="H1245" x-morph="strongMorph: TH8765"} [to find out]{strong="H4672" x-morph="strongMorph: TH8800"} acceptable_H2656 words_H1697: and that which was [written]{strong="H3789" x-morph="strongMorph: TH8803"} was upright_H3476, even words_H1697 of_truth_H571.^b^ 
+@11 The_words_H1697 of_the_wise_H2450 are as_goads_H1861, and_as_nails_H4930 [fastened]{strong="H5193" x-morph="strongMorph: TH8803"} by the_masters_H1167 of_assemblies_H627, which [are given]{strong="H5414" x-morph="strongMorph: TH8738"} from_one_H259 [shepherd]{strong="H7462" x-morph="strongMorph: TH8802"}. 
+@12 And_further_H3148, by_these_H1992, my_son_H1121, [be admonished]{strong="H2094" x-morph="strongMorph: TH8734"}: [of making]{strong="H6213" x-morph="strongMorph: TH8800"} [many]{strong="H7235" x-morph="strongMorph: TH8687"} books_H5612 there is no_end_H7093; [and much]{strong="H7235" x-morph="strongMorph: TH8687"} study_H3854 is a_weariness_H3024 of_the_flesh_H1320.^c^ 
 ^a^[**12:9** moreover…: or, the more wise the preacher was, etc] ^b^[**12:10** acceptable…: Heb. words of delight] ^c^[**12:12** study: or, reading]
 
-@13 Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.^a^ 
-@14 For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil. 
+@13 [Let us hear]{strong="H8085" x-morph="strongMorph: TH8799"} the_conclusion_H5490 of_the_whole_matter_H1697: [Fear]{strong="H3372" x-morph="strongMorph: TH8798"} God_H430, [and keep]{strong="H8104" x-morph="strongMorph: TH8798"} his_commandments_H4687: for this is the whole duty of_man_H120.^a^ 
+@14 For_God_H430 [shall bring]{strong="H935" x-morph="strongMorph: TH8686"} every_work_H4639 into_judgment_H4941, [with every secret thing]{strong="H5956" x-morph="strongMorph: TH8737"}, whether it be good_H2896, or whether it be evil_H7451. 
 ^a^[**12:13** Let…: or, The end of the matter, even all that hath been heard, is]

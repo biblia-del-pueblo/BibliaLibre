@@ -1,1633 +1,1633 @@
 # 1 
-@1 And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying, 
-@2 Take ye the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of their names, every male by their polls; 
-@3 From twenty years old and upward, all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies. 
-@4 And with you there shall be a man of every tribe; every one head of the house of his fathers. 
+@1 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872 in_the_wilderness_H4057 of_Sinai_H5514, in_the_tabernacle_H168 of_the_congregation_H4150, on_the_first_H259 day of_the_second_H8145 month_H2320, in_the_second_H8145 year_H8141 [after they were come out]{strong="H3318" x-morph="strongMorph: TH8800"} of_the_land_H776 of_Egypt_H4714, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@2 [Take]{strong="H5375" x-morph="strongMorph: TH8798"} ye_the_sum_H7218 of_all_the_congregation_H5712 of_the_children_H1121 of_Israel_H3478, after_their_families_H4940, by_the_house_H1004 of_their_fathers_H1, with_the_number_H4557 of their names_H8034, every_male_H2145 by_their_polls_H1538; 
+@3 From_twenty_H6242 years_H8141 old_H1121 and_upward_H4605, [all that are able to go forth]{strong="H3318" x-morph="strongMorph: TH8802"} to_war_H6635 in_Israel_H3478: thou_and_Aaron_H175 [shall number]{strong="H6485" x-morph="strongMorph: TH8799"} them_by_their_armies_H6635. 
+@4 And_with_you_there_shall_be_a_man_H376 of_every_H376 tribe_H4294; every_one_H376 head_H7218 of_the_house_H1004 of_his_fathers_H1. 
 
-@5 And these are the names of the men that shall stand with you: of the tribe of Reuben; Elizur the son of Shedeur. 
-@6 Of Simeon; Shelumiel the son of Zurishaddai. 
-@7 Of Judah; Nahshon the son of Amminadab. 
-@8 Of Issachar; Nethaneel the son of Zuar. 
-@9 Of Zebulun; Eliab the son of Helon. 
-@10 Of the children of Joseph: of Ephraim; Elishama the son of Ammihud: of Manasseh; Gamaliel the son of Pedahzur. 
-@11 Of Benjamin; Abidan the son of Gideoni. 
-@12 Of Dan; Ahiezer the son of Ammishaddai. 
-@13 Of Asher; Pagiel the son of Ocran. 
-@14 Of Gad; Eliasaph the son of Deuel.^a^ 
-@15 Of Naphtali; Ahira the son of Enan. 
-@16 These were the renowned of the congregation, princes of the tribes of their fathers, heads of thousands in Israel. 
+@5 And these are the_names_H8034 of_the_men_H582 [that shall stand]{strong="H5975" x-morph="strongMorph: TH8799"} with you: of the tribe of Reuben_H7205; Elizur_H468 the_son_H1121 of_Shedeur_H7707. 
+@6 Of_Simeon_H8095; Shelumiel_H8017 the_son_H1121 of_Zurishaddai_H6701. 
+@7 Of_Judah_H3063; Nahshon_H5177 the_son_H1121 of_Amminadab_H5992. 
+@8 Of_Issachar_H3485; Nethaneel_H5417 the_son_H1121 of_Zuar_H6686. 
+@9 Of_Zebulun_H2074; Eliab_H446 the_son_H1121 of_Helon_H2497. 
+@10 Of_the_children_H1121 of_Joseph_H3130: of_Ephraim_H669; Elishama_H476 the_son_H1121 of_Ammihud_H5989: of_Manasseh_H4519; Gamaliel_H1583 the_son_H1121 of_Pedahzur_H6301. 
+@11 Of_Benjamin_H1144; Abidan_H27 the_son_H1121 of_Gideoni_H1441. 
+@12 Of_Dan_H1835; Ahiezer_H295 the_son_H1121 of_Ammishaddai_H5996. 
+@13 Of_Asher_H836; Pagiel_H6295 the_son_H1121 of_Ocran_H5918. 
+@14 Of_Gad_H1410; Eliasaph_H460 the_son_H1121 of_Deuel_H1845.^a^ 
+@15 Of_Naphtali_H5321; Ahira_H299 the_son_H1121 of_Enan_H5881. 
+@16 These were [the renowned]{strong="H7121" x-morph="strongMorph: TH8803"} of_the_congregation_H5712, princes_H5387 of_the_tribes_H4294 of_their_fathers_H1, heads_H7218 of_thousands_H505 in_H1992 Israel_H3478. 
 ^a^[**1:14** Deuel: also called, Reuel]
 
-@17 And Moses and Aaron took these men which are expressed by their names: 
-@18 And they assembled all the congregation together on the first day of the second month, and they declared their pedigrees after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, by their polls. 
-@19 As the LORD commanded Moses, so he numbered them in the wilderness of Sinai. 
-@20 And the children of Reuben, Israel’s eldest son, by their generations, after their families, by the house of their fathers, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war; 
-@21 Those that were numbered of them, even of the tribe of Reuben, were forty and six thousand and five hundred. 
+@17 And_Moses_H4872 and_Aaron_H175 [took]{strong="H3947" x-morph="strongMorph: TH8799"} these_men_H582 [which are expressed]{strong="H5344" x-morph="strongMorph: TH8738"} by their names_H8034: 
+@18 And_they_assembled_H6950 all_the_congregation_H5712 [together]{strong="H6950" x-morph="strongMorph: TH8689"} on_the_first_H259 day of_the_second_H8145 month_H2320, [and they declared their pedigrees]{strong="H3205" x-morph="strongMorph: TH8691"} after_their_families_H4940, by_the_house_H1004 of_their_fathers_H1, according_to_the_number_H4557 of_the_names_H8034, from_twenty_H6242 years_H8141 old_H1121 and_upward_H4605, by_their_polls_H1538. 
+@19 As the LORD [commanded ]{strong="H6680" x-morph="strongMorph: TH8765"} Moses_H4872, [so he numbered]{strong="H6485" x-morph="strongMorph: TH8799"} them_in_the_wilderness_H4057 of_Sinai_H5514. 
+@20 And_the_children_H1121 of_Reuben_H7205, [Israel’s]{strong="H3478"} eldest_son_H1060, by_their_generations_H8435, after_their_families_H4940, by_the_house_H1004 of_their_fathers_H1, according_to_the_number_H4557 of_the_names_H8034, by_their_polls_H1538, every_male_H2145 from_twenty_H6242 years_H8141 old_H1121 and_upward_H4605, [all that were able to go forth]{strong="H3318" x-morph="strongMorph: TH8802"} to_war_H6635; 
+@21 [Those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them, even of_the_tribe_H4294 of_Reuben_H7205, were forty_H705 and_six_H8337 thousand_H505 and_five_H2568 hundred_H3967. 
 
-@22 Of the children of Simeon, by their generations, after their families, by the house of their fathers, those that were numbered of them, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war; 
-@23 Those that were numbered of them, even of the tribe of Simeon, were fifty and nine thousand and three hundred. 
+@22 Of_the_children_H1121 of_Simeon_H8095, by_their_generations_H8435, after_their_families_H4940, by_the_house_H1004 of_their_fathers_H1, [those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} [of them, according to the number]{strong="H4557"} of_the_names_H8034, by_their_polls_H1538, every_male_H2145 from_twenty_H6242 years_H8141 old_H1121 and_upward_H4605, [all that were able to go forth]{strong="H3318" x-morph="strongMorph: TH8802"} to_war_H6635; 
+@23 [Those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them, even of_the_tribe_H4294 of_Simeon_H8095, were fifty_H2572 and_nine_H8672 thousand_H505 and_three_H7969 hundred_H3967. 
 
-@24 Of the children of Gad, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; 
-@25 Those that were numbered of them, even of the tribe of Gad, were forty and five thousand six hundred and fifty. 
+@24 Of_the_children_H1121 of_Gad_H1410, by_their_generations_H8435, after_their_families_H4940, by_the_house_H1004 of_their_fathers_H1, according_to_the_number_H4557 of_the_names_H8034, from_twenty_H6242 years_H8141 old_H1121 and_upward_H4605, [all that were able to go forth]{strong="H3318" x-morph="strongMorph: TH8802"} to_war_H6635; 
+@25 [Those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them, even of_the_tribe_H4294 of_Gad_H1410, were forty_H705 and_five_H2568 thousand_H505 six_H8337 hundred_H3967 and_fifty_H2572. 
 
-@26 Of the children of Judah, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; 
-@27 Those that were numbered of them, even of the tribe of Judah, were threescore and fourteen thousand and six hundred. 
+@26 Of_the_children_H1121 of_Judah_H3063, by_their_generations_H8435, after_their_families_H4940, by_the_house_H1004 of_their_fathers_H1, according_to_the_number_H4557 of_the_names_H8034, from_twenty_H6242 years_H8141 old_H1121 and_upward_H4605, [all that were able to go forth]{strong="H3318" x-morph="strongMorph: TH8802"} to_war_H6635; 
+@27 [Those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them, even of_the_tribe_H4294 of_Judah_H3063, were [threescore and fourteen]{strong="H702 H7657"} thousand_H505 and_six_H8337 hundred_H3967. 
 
-@28 Of the children of Issachar, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; 
-@29 Those that were numbered of them, even of the tribe of Issachar, were fifty and four thousand and four hundred. 
+@28 Of_the_children_H1121 of_Issachar_H3485, by_their_generations_H8435, after_their_families_H4940, by_the_house_H1004 of_their_fathers_H1, according_to_the_number_H4557 of_the_names_H8034, from_twenty_H6242 years_H8141 old_H1121 and_upward_H4605, [all that were able to go forth]{strong="H3318" x-morph="strongMorph: TH8802"} to_war_H6635; 
+@29 [Those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them, even of_the_tribe_H4294 of_Issachar_H3485, were fifty_H2572 and_four_H702 thousand_H505 and_four_H702 hundred_H3967. 
 
-@30 Of the children of Zebulun, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; 
-@31 Those that were numbered of them, even of the tribe of Zebulun, were fifty and seven thousand and four hundred. 
+@30 Of_the_children_H1121 of_Zebulun_H2074, by_their_generations_H8435, after_their_families_H4940, by_the_house_H1004 of_their_fathers_H1, according_to_the_number_H4557 of_the_names_H8034, from_twenty_H6242 years_H8141 old_H1121 and_upward_H4605, [all that were able to go forth]{strong="H3318" x-morph="strongMorph: TH8802"} to_war_H6635; 
+@31 [Those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them, even of_the_tribe_H4294 of_Zebulun_H2074, were fifty_H2572 and_seven_H7651 thousand_H505 and_four_H702 hundred_H3967. 
 
-@32 Of the children of Joseph, namely, of the children of Ephraim, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; 
-@33 Those that were numbered of them, even of the tribe of Ephraim, were forty thousand and five hundred. 
+@32 Of_the_children_H1121 of_Joseph_H3130, namely, of_the_children_H1121 of_Ephraim_H669, by_their_generations_H8435, after_their_families_H4940, by_the_house_H1004 of_their_fathers_H1, according_to_the_number_H4557 of_the_names_H8034, from_twenty_H6242 years_H8141 old_H1121 and_upward_H4605, [all that were able to go forth]{strong="H3318" x-morph="strongMorph: TH8802"} to_war_H6635; 
+@33 [Those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them, even of_the_tribe_H4294 of_Ephraim_H669, were forty_H705 thousand_H505 and_five_H2568 hundred_H3967. 
 
-@34 Of the children of Manasseh, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; 
-@35 Those that were numbered of them, even of the tribe of Manasseh, were thirty and two thousand and two hundred. 
+@34 Of_the_children_H1121 of_Manasseh_H4519, by_their_generations_H8435, after_their_families_H4940, by_the_house_H1004 of_their_fathers_H1, according_to_the_number_H4557 of_the_names_H8034, from_twenty_H6242 years_H8141 old_H1121 and_upward_H4605, [all that were able to go forth]{strong="H3318" x-morph="strongMorph: TH8802"} to_war_H6635; 
+@35 [Those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them, even of_the_tribe_H4294 of_Manasseh_H4519, were thirty_H7970 and_two_H8147 thousand_H505 and_two_hundred_H3967. 
 
-@36 Of the children of Benjamin, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; 
-@37 Those that were numbered of them, even of the tribe of Benjamin, were thirty and five thousand and four hundred. 
+@36 Of_the_children_H1121 of_Benjamin_H1144, by_their_generations_H8435, after_their_families_H4940, by_the_house_H1004 of_their_fathers_H1, according_to_the_number_H4557 of_the_names_H8034, from_twenty_H6242 years_H8141 old_H1121 and_upward_H4605, [all that were able to go forth]{strong="H3318" x-morph="strongMorph: TH8802"} to_war_H6635; 
+@37 [Those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them, even of_the_tribe_H4294 of_Benjamin_H1144, were thirty_H7970 and_five_H2568 thousand_H505 and_four_H702 hundred_H3967. 
 
-@38 Of the children of Dan, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; 
-@39 Those that were numbered of them, even of the tribe of Dan, were threescore and two thousand and seven hundred. 
+@38 Of_the_children_H1121 of_Dan_H1835, by_their_generations_H8435, after_their_families_H4940, by_the_house_H1004 of_their_fathers_H1, according_to_the_number_H4557 of_the_names_H8034, from_twenty_H6242 years_H8141 old_H1121 and_upward_H4605, [all that were able to go forth]{strong="H3318" x-morph="strongMorph: TH8802"} to_war_H6635; 
+@39 [Those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them, even of_the_tribe_H4294 of_Dan_H1835, were threescore_H8346 and_two_H8147 thousand_H505 and_seven_H7651 hundred_H3967. 
 
-@40 Of the children of Asher, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; 
-@41 Those that were numbered of them, even of the tribe of Asher, were forty and one thousand and five hundred. 
+@40 Of_the_children_H1121 of_Asher_H836, by_their_generations_H8435, after_their_families_H4940, by_the_house_H1004 of_their_fathers_H1, according_to_the_number_H4557 of_the_names_H8034, from_twenty_H6242 years_H8141 old_H1121 and_upward_H4605, [all that were able to go forth]{strong="H3318" x-morph="strongMorph: TH8802"} to_war_H6635; 
+@41 [Those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them, even of_the_tribe_H4294 of_Asher_H836, were forty_H705 and_one_H259 thousand_H505 and_five_H2568 hundred_H3967. 
 
-@42 Of the children of Naphtali, throughout their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; 
-@43 Those that were numbered of them, even of the tribe of Naphtali, were fifty and three thousand and four hundred. 
+@42 Of_the_children_H1121 of_Naphtali_H5321, throughout_their_generations_H8435, after_their_families_H4940, by_the_house_H1004 of_their_fathers_H1, according_to_the_number_H4557 of_the_names_H8034, from_twenty_H6242 years_H8141 old_H1121 and_upward_H4605, [all that were able to go forth]{strong="H3318" x-morph="strongMorph: TH8802"} to_war_H6635; 
+@43 [Those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them, even of_the_tribe_H4294 of_Naphtali_H5321, were fifty_H2572 and_three_H7969 thousand_H505 and_four_H702 hundred_H3967. 
 
-@44 These are those that were numbered, which Moses and Aaron numbered, and the princes of Israel, being twelve men: each one was for the house of his fathers. 
-@45 So were all those that were numbered of the children of Israel, by the house of their fathers, from twenty years old and upward, all that were able to go forth to war in Israel; 
-@46 Even all they that were numbered were six hundred thousand and three thousand and five hundred and fifty. 
+@44 These are [those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"}, which_Moses_H4872 and_Aaron_H175 [numbered]{strong="H6485" x-morph="strongMorph: TH8804"}, and_the_princes_H5387 of_Israel_H3478, being [twelve]{strong="H8147 H6240"} men_H376: each_H376 one_H259 was_for_the_house_H1004 of_his_fathers_H1. 
+@45 [So were all those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of_the_children_H1121 of_Israel_H3478, by_the_house_H1004 of_their_fathers_H1, from_twenty_H6242 years_H8141 old_H1121 and_upward_H4605, [all that were able to go forth]{strong="H3318" x-morph="strongMorph: TH8802"} to_war_H6635 in_Israel_H3478; 
+@46 [Even all they that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} were_six_H8337 hundred_H3967 thousand_H505 and_three_H7969 thousand_H505 and_five_H2568 hundred_H3967 and_fifty_H2572. 
 
-@47 But the Levites after the tribe of their fathers were not numbered among them. 
-@48 For the LORD had spoken unto Moses, saying, 
-@49 Only thou shalt not number the tribe of Levi, neither take the sum of them among the children of Israel: 
-@50 But thou shalt appoint the Levites over the tabernacle of testimony, and over all the vessels thereof, and over all things that belong to it: they shall bear the tabernacle, and all the vessels thereof; and they shall minister unto it, and shall encamp round about the tabernacle. 
-@51 And when the tabernacle setteth forward, the Levites shall take it down: and when the tabernacle is to be pitched, the Levites shall set it up: and the stranger that cometh nigh shall be put to death. 
-@52 And the children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, throughout their hosts. 
-@53 But the Levites shall pitch round about the tabernacle of testimony, that there be no wrath upon the congregation of the children of Israel: and the Levites shall keep the charge of the tabernacle of testimony. 
-@54 And the children of Israel did according to all that the LORD commanded Moses, so did they. 
+@47 But_the_Levites_H3881 after_the_tribe_H4294 of_their_fathers_H1 [were not numbered]{strong="H6485" x-morph="strongMorph: TH8719"} among_H8432 them. 
+@48 For the LORD [had spoken]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@49 [Only thou shalt not number]{strong="H6485" x-morph="strongMorph: TH8799"} the_tribe_H4294 of_Levi_H3878, [neither take]{strong="H5375" x-morph="strongMorph: TH8799"} the_sum_H7218 of_them_among_H8432 the_children_H1121 of_Israel_H3478: 
+@50 [But thou shalt appoint]{strong="H6485" x-morph="strongMorph: TH8685"} the_Levites_H3881 over_the_tabernacle_H4908 of_testimony_H5715, and_over_all_the_vessels_H3627 thereof, and over all things that belong [to it: they shall bear]{strong="H5375" x-morph="strongMorph: TH8799"} the_tabernacle_H4908, and_all_the_vessels_H3627 [thereof; and they shall minister]{strong="H8334" x-morph="strongMorph: TH8762"} [unto it, and shall encamp]{strong="H2583" x-morph="strongMorph: TH8799"} round_about_H5439 the_tabernacle_H4908. 
+@51 And_when_the_tabernacle_H4908 [setteth forward]{strong="H5265" x-morph="strongMorph: TH8800"}, the_Levites_H3881 [shall take it down]{strong="H3381" x-morph="strongMorph: TH8686"}: and_when_the_tabernacle_H4908 [is to be pitched]{strong="H2583" x-morph="strongMorph: TH8800"}, the_Levites_H3881 [shall set it up]{strong="H6965" x-morph="strongMorph: TH8686"}: [and the stranger]{strong="H2114" x-morph="strongMorph: TH8801"} that_cometh_nigh_H7131 [shall be put to death]{strong="H4191" x-morph="strongMorph: TH8714"}. 
+@52 And_the_children_H1121 of_Israel_H3478 [shall pitch their tents]{strong="H2583" x-morph="strongMorph: TH8804"}, every_man_H376 by_his_own_camp_H4264, and_every_man_H376 by_his_own_standard_H1714, throughout_their_hosts_H6635. 
+@53 But_the_Levites_H3881 [shall pitch]{strong="H2583" x-morph="strongMorph: TH8799"} round_about_H5439 the_tabernacle_H4908 of_testimony_H5715, that_there_be_no_wrath_H7110 upon_the_congregation_H5712 of_the_children_H1121 of_Israel_H3478: and_the_Levites_H3881 [shall keep]{strong="H8104" x-morph="strongMorph: TH8804"} the_charge_H4931 of_the_tabernacle_H4908 of_testimony_H5715. 
+@54 And_the_children_H1121 of_Israel_H3478 [did]{strong="H6213" x-morph="strongMorph: TH8799"} according to all that the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} Moses_H4872, [so did]{strong="H6213" x-morph="strongMorph: TH8804"} they. 
 
 # 2 
-@1 And the LORD spake unto Moses and unto Aaron, saying, 
-@2 Every man of the children of Israel shall pitch by his own standard, with the ensign of their father’s house: far off about the tabernacle of the congregation shall they pitch.^a^ 
+@1 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872 and_unto_Aaron_H175, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@2 Every_man_H376 of_the_children_H1121 of_Israel_H3478 [shall pitch]{strong="H2583" x-morph="strongMorph: TH8799"} by_his_own_standard_H1714, with_the_ensign_H226 [of their father’s]{strong="H1"} house_H1004: far_off_H5048 about_H5439 the_tabernacle_H168 of_the_congregation_H4150 [shall they pitch]{strong="H2583" x-morph="strongMorph: TH8799"}.^a^ 
 ^a^[**2:2** far…: Heb. over against]
 
-@3 And on the east side toward the rising of the sun shall they of the standard of the camp of Judah pitch throughout their armies: and Nahshon the son of Amminadab shall be captain of the children of Judah. 
-@4 And his host, and those that were numbered of them, were threescore and fourteen thousand and six hundred. 
-@5 And those that do pitch next unto him shall be the tribe of Issachar: and Nethaneel the son of Zuar shall be captain of the children of Issachar. 
-@6 And his host, and those that were numbered thereof, were fifty and four thousand and four hundred. 
-@7 Then the tribe of Zebulun: and Eliab the son of Helon shall be captain of the children of Zebulun. 
-@8 And his host, and those that were numbered thereof, were fifty and seven thousand and four hundred. 
-@9 All that were numbered in the camp of Judah were an hundred thousand and fourscore thousand and six thousand and four hundred, throughout their armies. These shall first set forth. 
+@3 And_on_the_east_side_H6924 toward_the_rising_H4217 of_the_sun_shall_they_of_the_standard_H1714 of_the_camp_H4264 of_Judah_H3063 [pitch]{strong="H2583" x-morph="strongMorph: TH8802"} throughout_their_armies_H6635: and_Nahshon_H5177 the_son_H1121 of_Amminadab_H5992 shall be captain_H5387 of_the_children_H1121 of_Judah_H3063. 
+@4 And_his_host_H6635, [and those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them, were [threescore and fourteen]{strong="H702 H7657"} thousand_H505 and_six_H8337 hundred_H3967. 
+@5 [And those that do pitch]{strong="H2583" x-morph="strongMorph: TH8802"} next unto him shall be the_tribe_H4294 of_Issachar_H3485: and_Nethaneel_H5417 the_son_H1121 of_Zuar_H6686 shall be captain_H5387 of_the_children_H1121 of_Issachar_H3485. 
+@6 And_his_host_H6635, [and those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} thereof, were fifty_H2572 and_four_H702 thousand_H505 and_four_H702 hundred_H3967. 
+@7 Then the_tribe_H4294 of_Zebulun_H2074: and_Eliab_H446 the_son_H1121 of_Helon_H2497 shall be captain_H5387 of_the_children_H1121 of_Zebulun_H2074. 
+@8 And_his_host_H6635, [and those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} thereof, were fifty_H2572 and_seven_H7651 thousand_H505 and_four_H702 hundred_H3967. 
+@9 [All that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} in_the_camp_H4264 of_Judah_H3063 were an_hundred_H3967 thousand_H505 and_fourscore_H8084 thousand_H505 and_six_H8337 thousand_H505 and_four_H702 hundred_H3967, throughout_their_armies_H6635. These_shall_first_H7223 [set forth]{strong="H5265" x-morph="strongMorph: TH8799"}. 
 
-@10 On the south side shall be the standard of the camp of Reuben according to their armies: and the captain of the children of Reuben shall be Elizur the son of Shedeur. 
-@11 And his host, and those that were numbered thereof, were forty and six thousand and five hundred. 
-@12 And those which pitch by him shall be the tribe of Simeon: and the captain of the children of Simeon shall be Shelumiel the son of Zurishaddai. 
-@13 And his host, and those that were numbered of them, were fifty and nine thousand and three hundred. 
-@14 Then the tribe of Gad: and the captain of the sons of Gad shall be Eliasaph the son of Reuel.^a^ 
-@15 And his host, and those that were numbered of them, were forty and five thousand and six hundred and fifty. 
-@16 All that were numbered in the camp of Reuben were an hundred thousand and fifty and one thousand and four hundred and fifty, throughout their armies. And they shall set forth in the second rank. 
+@10 On_the_south_side_H8486 shall be the_standard_H1714 of_the_camp_H4264 of_Reuben_H7205 according_to_their_armies_H6635: and_the_captain_H5387 of_the_children_H1121 of_Reuben_H7205 shall be Elizur_H468 the_son_H1121 of_Shedeur_H7707. 
+@11 And_his_host_H6635, [and those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} thereof, were forty_H705 and_six_H8337 thousand_H505 and_five_H2568 hundred_H3967. 
+@12 [And those which pitch]{strong="H2583" x-morph="strongMorph: TH8802"} by him shall be the_tribe_H4294 of_Simeon_H8095: and_the_captain_H5387 of_the_children_H1121 of_Simeon_H8095 shall be Shelumiel_H8017 the_son_H1121 of_Zurishaddai_H6701. 
+@13 And_his_host_H6635, [and those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them, were fifty_H2572 and_nine_H8672 thousand_H505 and_three_H7969 hundred_H3967. 
+@14 Then_the_tribe_H4294 of_Gad_H1410: and_the_captain_H5387 of_the_sons_H1121 of_Gad_H1410 shall be Eliasaph_H460 the_son_H1121 of_Reuel_H7467.^a^ 
+@15 And_his_host_H6635, [and those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them, were forty_H705 and_five_H2568 thousand_H505 and_six_H8337 hundred_H3967 and_fifty_H2572. 
+@16 [All that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} in_the_camp_H4264 of_Reuben_H7205 were an_hundred_H3967 thousand_H505 and_fifty_H2572 and_one_H259 thousand_H505 and_four_H702 hundred_H3967 and_fifty_H2572, throughout_their_armies_H6635. [And they shall set forth]{strong="H5265" x-morph="strongMorph: TH8799"} in_the_second_rank_H8145. 
 ^a^[**2:14** Reuel: also called, Deuel]
 
-@17 Then the tabernacle of the congregation shall set forward with the camp of the Levites in the midst of the camp: as they encamp, so shall they set forward, every man in his place by their standards. 
+@17 Then_the_tabernacle_H168 of_the_congregation_H4150 [shall set forward]{strong="H5265" x-morph="strongMorph: TH8804"} with_the_camp_H4264 of_the_Levites_H3881 in_the_midst_H8432 of_the_camp_H4264: [as they encamp]{strong="H2583" x-morph="strongMorph: TH8799"}, [so shall they set forward]{strong="H5265" x-morph="strongMorph: TH8799"}, every_man_H376 in_his_place_H3027 by_their_standards_H1714. 
 
-@18 On the west side shall be the standard of the camp of Ephraim according to their armies: and the captain of the sons of Ephraim shall be Elishama the son of Ammihud. 
-@19 And his host, and those that were numbered of them, were forty thousand and five hundred. 
-@20 And by him shall be the tribe of Manasseh: and the captain of the children of Manasseh shall be Gamaliel the son of Pedahzur. 
-@21 And his host, and those that were numbered of them, were thirty and two thousand and two hundred. 
-@22 Then the tribe of Benjamin: and the captain of the sons of Benjamin shall be Abidan the son of Gideoni. 
-@23 And his host, and those that were numbered of them, were thirty and five thousand and four hundred. 
-@24 All that were numbered of the camp of Ephraim were an hundred thousand and eight thousand and an hundred, throughout their armies. And they shall go forward in the third rank. 
+@18 On_the_west_side_H3220 shall be the_standard_H1714 of_the_camp_H4264 of_Ephraim_H669 according_to_their_armies_H6635: and_the_captain_H5387 of_the_sons_H1121 of_Ephraim_H669 shall be Elishama_H476 the_son_H1121 of_Ammihud_H5989. 
+@19 And_his_host_H6635, [and those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them, were forty_H705 thousand_H505 and_five_H2568 hundred_H3967. 
+@20 And by him shall be the_tribe_H4294 of_Manasseh_H4519: and_the_captain_H5387 of_the_children_H1121 of_Manasseh_H4519 shall be Gamaliel_H1583 the_son_H1121 of_Pedahzur_H6301. 
+@21 And_his_host_H6635, [and those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them, were thirty_H7970 and_two_H8147 thousand_H505 and_two_hundred_H3967. 
+@22 Then_the_tribe_H4294 of_Benjamin_H1144: and_the_captain_H5387 of_the_sons_H1121 of_Benjamin_H1144 shall be Abidan_H27 the_son_H1121 of_Gideoni_H1441. 
+@23 And_his_host_H6635, [and those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them, were thirty_H7970 and_five_H2568 thousand_H505 and_four_H702 hundred_H3967. 
+@24 [All that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of_the_camp_H4264 of_Ephraim_H669 were an_hundred_H3967 thousand_H505 and_eight_H8083 thousand_H505 and_an_hundred_H3967, throughout_their_armies_H6635. [And they shall go forward]{strong="H5265" x-morph="strongMorph: TH8799"} in_the_third_rank_H7992. 
 
-@25 The standard of the camp of Dan shall be on the north side by their armies: and the captain of the children of Dan shall be Ahiezer the son of Ammishaddai. 
-@26 And his host, and those that were numbered of them, were threescore and two thousand and seven hundred. 
-@27 And those that encamp by him shall be the tribe of Asher: and the captain of the children of Asher shall be Pagiel the son of Ocran. 
-@28 And his host, and those that were numbered of them, were forty and one thousand and five hundred. 
+@25 The_standard_H1714 of_the_camp_H4264 of_Dan_H1835 shall be on_the_north_side_H6828 by_their_armies_H6635: and_the_captain_H5387 of_the_children_H1121 of_Dan_H1835 shall be Ahiezer_H295 the_son_H1121 of_Ammishaddai_H5996. 
+@26 And_his_host_H6635, [and those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them, were threescore_H8346 and_two_H8147 thousand_H505 and_seven_H7651 hundred_H3967. 
+@27 [And those that encamp]{strong="H2583" x-morph="strongMorph: TH8802"} by him shall be the_tribe_H4294 of_Asher_H836: and_the_captain_H5387 of_the_children_H1121 of_Asher_H836 shall be Pagiel_H6295 the_son_H1121 of_Ocran_H5918. 
+@28 And_his_host_H6635, [and those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them, were forty_H705 and_one_H259 thousand_H505 and_five_H2568 hundred_H3967. 
 
-@29 Then the tribe of Naphtali: and the captain of the children of Naphtali shall be Ahira the son of Enan. 
-@30 And his host, and those that were numbered of them, were fifty and three thousand and four hundred. 
-@31 All they that were numbered in the camp of Dan were an hundred thousand and fifty and seven thousand and six hundred. They shall go hindmost with their standards. 
+@29 Then_the_tribe_H4294 of_Naphtali_H5321: and_the_captain_H5387 of_the_children_H1121 of_Naphtali_H5321 shall be Ahira_H299 the_son_H1121 of_Enan_H5881. 
+@30 And_his_host_H6635, [and those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them, were fifty_H2572 and_three_H7969 thousand_H505 and_four_H702 hundred_H3967. 
+@31 [All they that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} in_the_camp_H4264 of_Dan_H1835 were an_hundred_H3967 thousand_H505 and_fifty_H2572 and_seven_H7651 thousand_H505 and_six_H8337 hundred_H3967. [They shall go]{strong="H5265" x-morph="strongMorph: TH8799"} hindmost_H314 with_their_standards_H1714. 
 
-@32 These are those which were numbered of the children of Israel by the house of their fathers: all those that were numbered of the camps throughout their hosts were six hundred thousand and three thousand and five hundred and fifty. 
-@33 But the Levites were not numbered among the children of Israel; as the LORD commanded Moses. 
-@34 And the children of Israel did according to all that the LORD commanded Moses: so they pitched by their standards, and so they set forward, every one after their families, according to the house of their fathers. 
+@32 These are [those which were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of_the_children_H1121 of_Israel_H3478 by_the_house_H1004 of_their_fathers_H1: [all those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of_the_camps_H4264 throughout_their_hosts_H6635 were six_H8337 hundred_H3967 thousand_H505 and_three_H7969 thousand_H505 and_five_H2568 hundred_H3967 and_fifty_H2572. 
+@33 But_the_Levites_H3881 [were not numbered]{strong="H6485" x-morph="strongMorph: TH8719"} among_H8432 the_children_H1121 of_Israel_H3478; as the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} Moses_H4872. 
+@34 And_the_children_H1121 of_Israel_H3478 [did]{strong="H6213" x-morph="strongMorph: TH8799"} according to all that the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} Moses_H4872: [so they pitched]{strong="H2583" x-morph="strongMorph: TH8804"} by_their_standards_H1714, [and so they set forward]{strong="H5265" x-morph="strongMorph: TH8804"}, every_one_H376 after_their_families_H4940, according_to_the_house_H1004 of_their_fathers_H1. 
 
 # 3 
-@1 These also are the generations of Aaron and Moses in the day that the LORD spake with Moses in mount Sinai. 
-@2 And these are the names of the sons of Aaron; Nadab the firstborn, and Abihu, Eleazar, and Ithamar. 
-@3 These are the names of the sons of Aaron, the priests which were anointed, whom he consecrated to minister in the priest’s office.^a^ 
-@4 And Nadab and Abihu died before the LORD, when they offered strange fire before the LORD, in the wilderness of Sinai, and they had no children: and Eleazar and Ithamar ministered in the priest’s office in the sight of Aaron their father. 
+@1 These also are the_generations_H8435 of_Aaron_H175 and_Moses_H4872 in_the_day_H3117 that the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8763"} with_Moses_H4872 in_mount_H2022 Sinai_H5514. 
+@2 And these are the_names_H8034 of_the_sons_H1121 of_Aaron_H175; Nadab_H5070 the_firstborn_H1060, and_Abihu_H30, Eleazar_H499, and_Ithamar_H385. 
+@3 These are the_names_H8034 of_the_sons_H1121 of_Aaron_H175, the_priests_H3548 [which were anointed]{strong="H4886" x-morph="strongMorph: TH8803"}, [whom he consecrated]{strong="H3027 H4390" x-morph="strongMorph: TH8765"} [to minister in the priest’s office]{strong="H3547" x-morph="strongMorph: TH8763"}.^a^ 
+@4 And_Nadab_H5070 and_Abihu_H30 [died]{strong="H4191" x-morph="strongMorph: TH8799"} before_H6440 the LORD, [when they offered]{strong="H7126" x-morph="strongMorph: TH8687"} [strange]{strong="H2114" x-morph="strongMorph: TH8801"} fire_H784 before_H6440 the LORD, in_the_wilderness_H4057 of_Sinai_H5514, and_they_had_no_children_H1121: and_Eleazar_H499 and_Ithamar_H385 [ministered in the priest’s office]{strong="H3547" x-morph="strongMorph: TH8762"} in_the_sight_H6440 of_Aaron_H175 their_father_H1. 
 ^a^[**3:3** whom…: Heb. whose hand he filled]
 
-@5 And the LORD spake unto Moses, saying, 
-@6 Bring the tribe of Levi near, and present them before Aaron the priest, that they may minister unto him. 
-@7 And they shall keep his charge, and the charge of the whole congregation before the tabernacle of the congregation, to do the service of the tabernacle. 
-@8 And they shall keep all the instruments of the tabernacle of the congregation, and the charge of the children of Israel, to do the service of the tabernacle. 
-@9 And thou shalt give the Levites unto Aaron and to his sons: they are wholly given unto him out of the children of Israel. 
-@10 And thou shalt appoint Aaron and his sons, and they shall wait on their priest’s office: and the stranger that cometh nigh shall be put to death. 
-@11 And the LORD spake unto Moses, saying, 
-@12 And I, behold, I have taken the Levites from among the children of Israel instead of all the firstborn that openeth the matrix among the children of Israel: therefore the Levites shall be mine; 
-@13 Because all the firstborn are mine; for on the day that I smote all the firstborn in the land of Egypt I hallowed unto me all the firstborn in Israel, both man and beast: mine shall they be: I am the LORD. 
+@5 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@6 Bring_H7126 the_tribe_H4294 of_Levi_H3878 [near]{strong="H7126" x-morph="strongMorph: TH8685"}, [and present]{strong="H5975" x-morph="strongMorph: TH8689"} them_before_H6440 Aaron_H175 the_priest_H3548, [that they may minister]{strong="H8334" x-morph="strongMorph: TH8765"} unto him. 
+@7 [And they shall keep]{strong="H8104" x-morph="strongMorph: TH8804"} his_charge_H4931, and_the_charge_H4931 of_the_whole_congregation_H5712 before_H6440 the_tabernacle_H168 of_the_congregation_H4150, [to do]{strong="H5647" x-morph="strongMorph: TH8800"} the_service_H5656 of_the_tabernacle_H4908. 
+@8 [And they shall keep]{strong="H8104" x-morph="strongMorph: TH8804"} all_the_instruments_H3627 of_the_tabernacle_H168 of_the_congregation_H4150, and_the_charge_H4931 of_the_children_H1121 of_Israel_H3478, [to do]{strong="H5647" x-morph="strongMorph: TH8800"} the_service_H5656 of_the_tabernacle_H4908. 
+@9 [And thou shalt give]{strong="H5414" x-morph="strongMorph: TH8804"} the_Levites_H3881 unto_Aaron_H175 and_to_his_sons_H1121: they are [wholly given]{strong="H5414" x-morph="strongMorph: TH8803"} unto_him_out_of_the_children_H1121 of_Israel_H3478. 
+@10 [And thou shalt appoint]{strong="H6485" x-morph="strongMorph: TH8799"} Aaron_H175 and_his_sons_H1121, [and they shall wait on]{strong="H8104" x-morph="strongMorph: TH8804"} [their priest’s office]{strong="H3550"}: [and the stranger]{strong="H2114" x-morph="strongMorph: TH8801"} that_cometh_nigh_H7131 [shall be put to death]{strong="H4191" x-morph="strongMorph: TH8714"}. 
+@11 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@12 [And I, behold, I have taken]{strong="H3947" x-morph="strongMorph: TH8804"} the_Levites_H3881 from_among_H8432 the_children_H1121 of_Israel_H3478 instead_of_all_the_firstborn_H1060 that_openeth_H6363 the_matrix_H7358 among_the_children_H1121 of_Israel_H3478: therefore_the_Levites_H3881 shall be mine; 
+@13 Because_all_the_firstborn_H1060 are mine; for on_the_day_H3117 [that I smote]{strong="H5221" x-morph="strongMorph: TH8687"} all_the_firstborn_H1060 in_the_land_H776 of_Egypt_H4714 [I hallowed]{strong="H6942" x-morph="strongMorph: TH8689"} unto_me_all_the_firstborn_H1060 in_Israel_H3478, both_man_H120 and_beast_H929: mine shall they be: I am the LORD. 
 
-@14 And the LORD spake unto Moses in the wilderness of Sinai, saying, 
-@15 Number the children of Levi after the house of their fathers, by their families: every male from a month old and upward shalt thou number them. 
-@16 And Moses numbered them according to the word of the LORD, as he was commanded.^a^ 
-@17 And these were the sons of Levi by their names; Gershon, and Kohath, and Merari. 
-@18 And these are the names of the sons of Gershon by their families; Libni, and Shimei. 
-@19 And the sons of Kohath by their families; Amram, and Izehar, Hebron, and Uzziel. 
-@20 And the sons of Merari by their families; Mahli, and Mushi. These are the families of the Levites according to the house of their fathers. 
-@21 Of Gershon was the family of the Libnites, and the family of the Shimites: these are the families of the Gershonites. 
-@22 Those that were numbered of them, according to the number of all the males, from a month old and upward, even those that were numbered of them were seven thousand and five hundred. 
-@23 The families of the Gershonites shall pitch behind the tabernacle westward. 
-@24 And the chief of the house of the father of the Gershonites shall be Eliasaph the son of Lael. 
-@25 And the charge of the sons of Gershon in the tabernacle of the congregation shall be the tabernacle, and the tent, the covering thereof, and the hanging for the door of the tabernacle of the congregation, 
-@26 And the hangings of the court, and the curtain for the door of the court, which is by the tabernacle, and by the altar round about, and the cords of it for all the service thereof. 
+@14 And the LORD [spake ]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872 in_the_wilderness_H4057 of_Sinai_H5514, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@15 [Number]{strong="H6485" x-morph="strongMorph: TH8798"} the_children_H1121 of_Levi_H3878 after_the_house_H1004 of_their_fathers_H1, by_their_families_H4940: every_male_H2145 from_a_month_H2320 old_H1121 and_upward_H4605 [shalt thou number]{strong="H6485" x-morph="strongMorph: TH8799"} them. 
+@16 And_Moses_H4872 [numbered]{strong="H6485" x-morph="strongMorph: TH8799"} them_according_to_the_word_H6310 of the LORD, [as he was commanded]{strong="H6680" x-morph="strongMorph: TH8795"}.^a^ 
+@17 And_these_were_the_sons_H1121 of_Levi_H3878 by_their_names_H8034; Gershon_H1648, and_Kohath_H6955, and_Merari_H4847. 
+@18 And these are the_names_H8034 of_the_sons_H1121 of_Gershon_H1648 by_their_families_H4940; Libni_H3845, and_Shimei_H8096. 
+@19 And_the_sons_H1121 of_Kohath_H6955 by_their_families_H4940; Amram_H6019, and_Izehar_H3324, Hebron_H2275, and_Uzziel_H5816. 
+@20 And_the_sons_H1121 of_Merari_H4847 by_their_families_H4940; Mahli_H4249, and_Mushi_H4187. These are the_families_H4940 of_the_Levites_H3881 according_to_the_house_H1004 of_their_fathers_H1. 
+@21 Of_Gershon_H1648 was the_family_H4940 of_the_Libnites_H3846, and_the_family_H4940 of_the_Shimites_H8097: these are the_families_H4940 of_the_Gershonites_H1649. 
+@22 [Those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} [of them, according to the number]{strong="H4557"} of_all_the_males_H2145, from_a_month_H2320 old_H1121 and_upward_H4605, even [those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them were seven_H7651 thousand_H505 and_five_H2568 hundred_H3967. 
+@23 The_families_H4940 of_the_Gershonites_H1649 [shall pitch]{strong="H2583" x-morph="strongMorph: TH8799"} behind_H310 the_tabernacle_H4908 westward_H3220. 
+@24 And_the_chief_H5387 of_the_house_H1004 of_the_father_H1 of_the_Gershonites_H1649 shall be Eliasaph_H460 the_son_H1121 of_Lael_H3815. 
+@25 And_the_charge_H4931 of_the_sons_H1121 of_Gershon_H1648 in_the_tabernacle_H168 of_the_congregation_H4150 shall be the_tabernacle_H4908, and_the_tent_H168, the_covering_H4372 [thereof, and the hanging]{strong="H4539"} for_the_door_H6607 of_the_tabernacle_H168 of_the_congregation_H4150, 
+@26 And_the_hangings_H7050 of_the_court_H2691, and_the_curtain_H4539 for_the_door_H6607 of_the_court_H2691, which is by_the_tabernacle_H4908, and_by_the_altar_H4196 round_about_H5439, and_the_cords_H4340 of_it_for_all_the_service_H5656 thereof. 
 ^a^[**3:16** word: Heb. mouth]
 
-@27 And of Kohath was the family of the Amramites, and the family of the Izeharites, and the family of the Hebronites, and the family of the Uzzielites: these are the families of the Kohathites. 
-@28 In the number of all the males, from a month old and upward, were eight thousand and six hundred, keeping the charge of the sanctuary. 
-@29 The families of the sons of Kohath shall pitch on the side of the tabernacle southward. 
-@30 And the chief of the house of the father of the families of the Kohathites shall be Elizaphan the son of Uzziel. 
-@31 And their charge shall be the ark, and the table, and the candlestick, and the altars, and the vessels of the sanctuary wherewith they minister, and the hanging, and all the service thereof. 
-@32 And Eleazar the son of Aaron the priest shall be chief over the chief of the Levites, and have the oversight of them that keep the charge of the sanctuary. 
+@27 And_of_Kohath_H6955 was the_family_H4940 of_the_Amramites_H6020, and_the_family_H4940 of_the_Izeharites_H3325, and_the_family_H4940 of_the_Hebronites_H2276, and_the_family_H4940 of_the_Uzzielites_H5817: these are the_families_H4940 of_the_Kohathites_H6956. 
+@28 In_the_number_H4557 of_all_the_males_H2145, from_a_month_H2320 old_H1121 and_upward_H4605, were eight_H8083 thousand_H505 and_six_H8337 hundred_H3967, [keeping]{strong="H8104" x-morph="strongMorph: TH8802"} the_charge_H4931 of_the_sanctuary_H6944. 
+@29 The_families_H4940 of_the_sons_H1121 of_Kohath_H6955 [shall pitch]{strong="H2583" x-morph="strongMorph: TH8799"} on_the_side_H3409 of_the_tabernacle_H4908 southward_H8486. 
+@30 And_the_chief_H5387 of_the_house_H1004 of_the_father_H1 of_the_families_H4940 of_the_Kohathites_H6956 shall be Elizaphan_H469 the_son_H1121 of_Uzziel_H5816. 
+@31 And_their_charge_H4931 shall be the_ark_H727, and_the_table_H7979, and_the_candlestick_H4501, and_the_altars_H4196, and_the_vessels_H3627 of_the_sanctuary_H6944 [wherewith they minister]{strong="H8334" x-morph="strongMorph: TH8762"}, and_the_hanging_H4539, and_all_the_service_H5656 thereof. 
+@32 And_Eleazar_H499 the_son_H1121 of_Aaron_H175 the_priest_H3548 shall be chief_H5387 over_the_chief_H5387 of_the_Levites_H3881, and have the_oversight_H6486 [of them that keep]{strong="H8104" x-morph="strongMorph: TH8802"} the_charge_H4931 of_the_sanctuary_H6944. 
 
-@33 Of Merari was the family of the Mahlites, and the family of the Mushites: these are the families of Merari. 
-@34 And those that were numbered of them, according to the number of all the males, from a month old and upward, were six thousand and two hundred. 
-@35 And the chief of the house of the father of the families of Merari was Zuriel the son of Abihail: these shall pitch on the side of the tabernacle northward. 
-@36 And under the custody and charge of the sons of Merari shall be the boards of the tabernacle, and the bars thereof, and the pillars thereof, and the sockets thereof, and all the vessels thereof, and all that serveth thereto,^a^ 
-@37 And the pillars of the court round about, and their sockets, and their pins, and their cords. 
+@33 Of_Merari_H4847 was the_family_H4940 of_the_Mahlites_H4250, and_the_family_H4940 of_the_Mushites_H4188: these are the_families_H4940 of_Merari_H4847. 
+@34 [And those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} [of them, according to the number]{strong="H4557"} of_all_the_males_H2145, from_a_month_H2320 old_H1121 and_upward_H4605, were six_H8337 thousand_H505 and_two_hundred_H3967. 
+@35 And_the_chief_H5387 of_the_house_H1004 of_the_father_H1 of_the_families_H4940 of_Merari_H4847 was Zuriel_H6700 the_son_H1121 of_Abihail_H32: these [shall pitch]{strong="H2583" x-morph="strongMorph: TH8799"} on_the_side_H3409 of_the_tabernacle_H4908 northward_H6828. 
+@36 And under the_custody_H6486 and_charge_H4931 of_the_sons_H1121 of_Merari_H4847 shall be the_boards_H7175 of_the_tabernacle_H4908, and_the_bars_H1280 [thereof, and the pillars]{strong="H5982"} [thereof, and the sockets]{strong="H134"} [thereof, and all the vessels]{strong="H3627"} [thereof, and all that serveth]{strong="H5656"} thereto,^a^ 
+@37 And_the_pillars_H5982 of_the_court_H2691 round_about_H5439, and_their_sockets_H134, and_their_pins_H3489, and_their_cords_H4340. 
 ^a^[**3:36** under…: Heb. the office of the charge]
 
-@38 But those that encamp before the tabernacle toward the east, even before the tabernacle of the congregation eastward, shall be Moses, and Aaron and his sons, keeping the charge of the sanctuary for the charge of the children of Israel; and the stranger that cometh nigh shall be put to death. 
-@39 All that were numbered of the Levites, which Moses and Aaron numbered at the commandment of the LORD, throughout their families, all the males from a month old and upward, were twenty and two thousand. 
+@38 [But those that encamp]{strong="H2583" x-morph="strongMorph: TH8802"} before_H6440 the_tabernacle_H4908 toward_the_east_H6924, even before_H6440 the_tabernacle_H168 of_the_congregation_H4150 eastward_H4217, shall be Moses_H4872, and_Aaron_H175 and_his_sons_H1121, [keeping]{strong="H8104" x-morph="strongMorph: TH8802"} the_charge_H4931 of_the_sanctuary_H4720 for_the_charge_H4931 of_the_children_H1121 of_Israel_H3478; [and the stranger]{strong="H2114" x-morph="strongMorph: TH8801"} that_cometh_nigh_H7131 [shall be put to death]{strong="H4191" x-morph="strongMorph: TH8714"}. 
+@39 [All that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of_the_Levites_H3881, which_Moses_H4872 and_Aaron_H175 [numbered]{strong="H6485" x-morph="strongMorph: TH8804"} at_the_commandment_H6310 of the LORD, throughout_their_families_H4940, all_the_males_H2145 from_a_month_H2320 old_H1121 and_upward_H4605, were twenty_H6242 and_two_H8147 thousand_H505. 
 
-@40 And the LORD said unto Moses, Number all the firstborn of the males of the children of Israel from a month old and upward, and take the number of their names. 
-@41 And thou shalt take the Levites for me (I am the LORD) instead of all the firstborn among the children of Israel; and the cattle of the Levites instead of all the firstlings among the cattle of the children of Israel. 
-@42 And Moses numbered, as the LORD commanded him, all the firstborn among the children of Israel. 
-@43 And all the firstborn males by the number of names, from a month old and upward, of those that were numbered of them, were twenty and two thousand two hundred and threescore and thirteen. 
+@40 And the LORD [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872, [Number]{strong="H6485" x-morph="strongMorph: TH8798"} all_the_firstborn_H1060 of_the_males_H2145 of_the_children_H1121 of_Israel_H3478 from_a_month_H2320 old_H1121 and_upward_H4605, [and take]{strong="H5375" x-morph="strongMorph: TH8798"} the_number_H4557 of_their_names_H8034. 
+@41 [And thou shalt take]{strong="H3947" x-morph="strongMorph: TH8804"} the_Levites_H3881 for me (I am the LORD) instead_of_all_the_firstborn_H1060 among_the_children_H1121 of_Israel_H3478; and_the_cattle_H929 of_the_Levites_H3881 instead_of_all_the_firstlings_H1060 among_the_cattle_H929 of_the_children_H1121 of_Israel_H3478. 
+@42 And_Moses_H4872 [numbered]{strong="H6485" x-morph="strongMorph: TH8799"}, as the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} [him, all the firstborn]{strong="H1060"} among_the_children_H1121 of_Israel_H3478. 
+@43 And_all_the_firstborn_H1060 males_H2145 by_the_number_H4557 of_names_H8034, from_a_month_H2320 old_H1121 and_upward_H4605, [of those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} [of them, were twenty]{strong="H6242"} and_two_H8147 thousand_H505 two_hundred_H3967 [and threescore and thirteen]{strong="H7969 H7657"}. 
 
-@44 And the LORD spake unto Moses, saying, 
-@45 Take the Levites instead of all the firstborn among the children of Israel, and the cattle of the Levites instead of their cattle; and the Levites shall be mine: I am the LORD. 
-@46 And for those that are to be redeemed of the two hundred and threescore and thirteen of the firstborn of the children of Israel, which are more than the Levites; 
-@47 Thou shalt even take five shekels apiece by the poll, after the shekel of the sanctuary shalt thou take them: (the shekel is twenty gerahs:) 
-@48 And thou shalt give the money, wherewith the odd number of them is to be redeemed, unto Aaron and to his sons. 
-@49 And Moses took the redemption money of them that were over and above them that were redeemed by the Levites: 
-@50 Of the firstborn of the children of Israel took he the money; a thousand three hundred and threescore and five shekels, after the shekel of the sanctuary: 
-@51 And Moses gave the money of them that were redeemed unto Aaron and to his sons, according to the word of the LORD, as the LORD commanded Moses. 
+@44 And the LORD [spake ]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@45 [Take]{strong="H3947" x-morph="strongMorph: TH8798"} the_Levites_H3881 instead_of_all_the_firstborn_H1060 among_the_children_H1121 of_Israel_H3478, and_the_cattle_H929 of_the_Levites_H3881 instead_of_their_cattle_H929; and_the_Levites_H3881 shall be mine: I am the LORD. 
+@46 And_for_those_that_are_to_be_redeemed_H6302 of_the_two_hundred_H3967 [and threescore and thirteen]{strong="H7969 H7657"} of_the_firstborn_H1060 of_the_children_H1121 of_Israel_H3478, [which are more]{strong="H5736" x-morph="strongMorph: TH8802"} than_H5921 the_Levites_H3881; 
+@47 [Thou shalt even take]{strong="H3947" x-morph="strongMorph: TH8804"} five_H2568 shekels_H8255 apiece_by_the_poll_H1538, after_the_shekel_H8255 of_the_sanctuary_H6944 [shalt thou take]{strong="H3947" x-morph="strongMorph: TH8799"} them: (the_shekel_H8255 is twenty_H6242 gerahs_H1626:) 
+@48 [And thou shalt give]{strong="H5414" x-morph="strongMorph: TH8804"} the_money_H3701, [wherewith the odd number]{strong="H5736" x-morph="strongMorph: TH8802"} of_them_is_to_be_redeemed_H6302, unto_Aaron_H175 and_to_his_sons_H1121. 
+@49 And_Moses_H4872 [took]{strong="H3947" x-morph="strongMorph: TH8799"} the_redemption_H6306 money_H3701 [of them that were over]{strong="H5736" x-morph="strongMorph: TH8802"} and_above_them_that_were_redeemed_H6302 by_the_Levites_H3881: 
+@50 Of_the_firstborn_H1060 of_the_children_H1121 of_Israel_H3478 [took]{strong="H3947" x-morph="strongMorph: TH8804"} he_the_money_H3701; a_thousand_H505 three_H7969 hundred_H3967 and_threescore_H8346 and_five_H2568 shekels, after_the_shekel_H8255 of_the_sanctuary_H6944: 
+@51 And_Moses_H4872 [gave]{strong="H5414" x-morph="strongMorph: TH8799"} the_money_H3701 [of them that were redeemed]{strong="H6306 H6302" x-morph="strongMorph: TH8675"} unto_Aaron_H175 and_to_his_sons_H1121, according_to_the_word_H6310 of the LORD, as the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} Moses_H4872. 
 
 # 4 
-@1 And the LORD spake unto Moses and unto Aaron, saying, 
-@2 Take the sum of the sons of Kohath from among the sons of Levi, after their families, by the house of their fathers, 
-@3 From thirty years old and upward even until fifty years old, all that enter into the host, to do the work in the tabernacle of the congregation. 
-@4 This shall be the service of the sons of Kohath in the tabernacle of the congregation, about the most holy things: 
+@1 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872 and_unto_Aaron_H175, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@2 [Take]{strong="H5375" x-morph="strongMorph: TH8800"} the_sum_H7218 of_the_sons_H1121 of_Kohath_H6955 from_among_H8432 the_sons_H1121 of_Levi_H3878, after_their_families_H4940, by_the_house_H1004 of_their_fathers_H1, 
+@3 From_thirty_H7970 years_H8141 old_H1121 and_upward_H4605 even_until_fifty_H2572 years_H8141 old_H1121, [all that enter]{strong="H935" x-morph="strongMorph: TH8802"} into_the_host_H6635, [to do]{strong="H6213" x-morph="strongMorph: TH8800"} the_work_H4399 in_the_tabernacle_H168 of_the_congregation_H4150. 
+@4 This shall be the_service_H5656 of_the_sons_H1121 of_Kohath_H6955 in_the_tabernacle_H168 of_the_congregation_H4150, about the_most_H6944 holy_things_H6944: 
 
-@5 And when the camp setteth forward, Aaron shall come, and his sons, and they shall take down the covering vail, and cover the ark of testimony with it: 
-@6 And shall put thereon the covering of badgers’ skins, and shall spread over it a cloth wholly of blue, and shall put in the staves thereof. 
-@7 And upon the table of shewbread they shall spread a cloth of blue, and put thereon the dishes, and the spoons, and the bowls, and covers to cover withal: and the continual bread shall be thereon:^a^ 
-@8 And they shall spread upon them a cloth of scarlet, and cover the same with a covering of badgers’ skins, and shall put in the staves thereof. 
-@9 And they shall take a cloth of blue, and cover the candlestick of the light, and his lamps, and his tongs, and his snuffdishes, and all the oil vessels thereof, wherewith they minister unto it: 
-@10 And they shall put it and all the vessels thereof within a covering of badgers’ skins, and shall put it upon a bar. 
-@11 And upon the golden altar they shall spread a cloth of blue, and cover it with a covering of badgers’ skins, and shall put to the staves thereof: 
-@12 And they shall take all the instruments of ministry, wherewith they minister in the sanctuary, and put them in a cloth of blue, and cover them with a covering of badgers’ skins, and shall put them on a bar: 
-@13 And they shall take away the ashes from the altar, and spread a purple cloth thereon: 
-@14 And they shall put upon it all the vessels thereof, wherewith they minister about it, even the censers, the fleshhooks, and the shovels, and the basons, all the vessels of the altar; and they shall spread upon it a covering of badgers’ skins, and put to the staves of it.^b^ 
-@15 And when Aaron and his sons have made an end of covering the sanctuary, and all the vessels of the sanctuary, as the camp is to set forward; after that, the sons of Kohath shall come to bear it: but they shall not touch any holy thing, lest they die. These things are the burden of the sons of Kohath in the tabernacle of the congregation. 
+@5 And_when_the_camp_H4264 [setteth forward]{strong="H5265" x-morph="strongMorph: TH8800"}, Aaron_H175 [shall come]{strong="H935" x-morph="strongMorph: TH8804"}, and_his_sons_H1121, [and they shall take down]{strong="H3381" x-morph="strongMorph: TH8689"} the_covering_H4539 vail_H6532, [and cover]{strong="H3680" x-morph="strongMorph: TH8765"} the_ark_H727 of_testimony_H5715 with it: 
+@6 [And shall put]{strong="H5414" x-morph="strongMorph: TH8804"} thereon_the_covering_H3681 [of badgers’]{strong="H8476"} skins_H5785, [and shall spread]{strong="H6566" x-morph="strongMorph: TH8804"} over_H4605 it a_cloth_H899 wholly_H3632 of_blue_H8504, [and shall put]{strong="H7760" x-morph="strongMorph: TH8804"} in_the_staves_H905 thereof. 
+@7 And_upon_the_table_H7979 of_shewbread_H6440 [they shall spread]{strong="H6566" x-morph="strongMorph: TH8799"} a_cloth_H899 of_blue_H8504, [and put]{strong="H5414" x-morph="strongMorph: TH8804"} thereon_the_dishes_H7086, and_the_spoons_H3709, and_the_bowls_H4518, and_covers_H7184 to_cover_withal_H5262: and_the_continual_H8548 bread_H3899 shall be thereon:^a^ 
+@8 [And they shall spread]{strong="H6566" x-morph="strongMorph: TH8804"} upon_them_a_cloth_H899 [of scarlet]{strong="H8144 H8438"}, [and cover]{strong="H3680" x-morph="strongMorph: TH8765"} the_same_with_a_covering_H4372 [of badgers’]{strong="H8476"} skins_H5785, [and shall put]{strong="H7760" x-morph="strongMorph: TH8804"} in_the_staves_H905 thereof. 
+@9 [And they shall take]{strong="H3947" x-morph="strongMorph: TH8804"} a_cloth_H899 of_blue_H8504, [and cover]{strong="H3680" x-morph="strongMorph: TH8765"} the_candlestick_H4501 of_the_light_H3974, and_his_lamps_H5216, and_his_tongs_H4457, and_his_snuffdishes_H4289, and_all_the_oil_H8081 vessels_H3627 [thereof, wherewith they minister]{strong="H8334" x-morph="strongMorph: TH8762"} unto it: 
+@10 [And they shall put]{strong="H5414" x-morph="strongMorph: TH8804"} it_and_all_the_vessels_H3627 thereof_within_a_covering_H4372 [of badgers’]{strong="H8476"} skins_H5785, [and shall put]{strong="H5414" x-morph="strongMorph: TH8804"} it upon_a_bar_H4132. 
+@11 And_upon_the_golden_H2091 altar_H4196 [they shall spread]{strong="H6566" x-morph="strongMorph: TH8799"} a_cloth_H899 of_blue_H8504, [and cover]{strong="H3680" x-morph="strongMorph: TH8765"} it_with_a_covering_H4372 [of badgers’]{strong="H8476"} skins_H5785, [and shall put]{strong="H7760" x-morph="strongMorph: TH8804"} to_the_staves_H905 thereof: 
+@12 [And they shall take]{strong="H3947" x-morph="strongMorph: TH8804"} all_the_instruments_H3627 of_ministry_H8335, [wherewith they minister]{strong="H8334" x-morph="strongMorph: TH8762"} in_the_sanctuary_H6944, [and put]{strong="H5414" x-morph="strongMorph: TH8804"} them in_a_cloth_H899 of_blue_H8504, [and cover]{strong="H3680" x-morph="strongMorph: TH8765"} them_with_a_covering_H4372 [of badgers’]{strong="H8476"} skins_H5785, [and shall put]{strong="H5414" x-morph="strongMorph: TH8804"} them on_a_bar_H4132: 
+@13 [And they shall take away the ashes]{strong="H1878" x-morph="strongMorph: TH8765"} from_the_altar_H4196, [and spread]{strong="H6566" x-morph="strongMorph: TH8804"} a_purple_H713 cloth_H899 thereon: 
+@14 [And they shall put]{strong="H5414" x-morph="strongMorph: TH8804"} upon_it_all_the_vessels_H3627 [thereof, wherewith they minister]{strong="H8334" x-morph="strongMorph: TH8762"} about it, even the_censers_H4289, the_fleshhooks_H4207, and_the_shovels_H3257, and_the_basons_H4219, all_the_vessels_H3627 of_the_altar_H4196; [and they shall spread]{strong="H6566" x-morph="strongMorph: TH8804"} upon_it_a_covering_H3681 [of badgers’]{strong="H8476"} skins_H5785, [and put]{strong="H7760" x-morph="strongMorph: TH8804"} to_the_staves_H905 of it.^b^ 
+@15 And_when_Aaron_H175 and_his_sons_H1121 [have made an end]{strong="H3615" x-morph="strongMorph: TH8765"} [of covering]{strong="H3680" x-morph="strongMorph: TH8763"} the_sanctuary_H6944, and_all_the_vessels_H3627 of_the_sanctuary_H6944, as_the_camp_H4264 [is to set forward]{strong="H5265" x-morph="strongMorph: TH8800"}; after_H310 [that, the sons]{strong="H1121"} of_Kohath_H6955 [shall come]{strong="H935" x-morph="strongMorph: TH8799"} [to bear]{strong="H5375" x-morph="strongMorph: TH8800"} it: [but they shall not touch]{strong="H5060" x-morph="strongMorph: TH8799"} any holy_thing_H6944, [lest they die]{strong="H4191" x-morph="strongMorph: TH8804"}. These things are the_burden_H4853 of_the_sons_H1121 of_Kohath_H6955 in_the_tabernacle_H168 of_the_congregation_H4150. 
 ^a^[**4:7** cover…: or, pour out withal] ^b^[**4:14** basons: or, bowls]
 
-@16 And to the office of Eleazar the son of Aaron the priest pertaineth the oil for the light, and the sweet incense, and the daily meat offering, and the anointing oil, and the oversight of all the tabernacle, and of all that therein is, in the sanctuary, and in the vessels thereof. 
+@16 And_to_the_office_H6486 of_Eleazar_H499 the_son_H1121 of_Aaron_H175 the_priest_H3548 pertaineth the_oil_H8081 for_the_light_H3974, and_the_sweet_H5561 incense_H7004, and_the_daily_H8548 meat_offering_H4503, and_the_anointing_H4888 oil_H8081, and the_oversight_H6486 of_all_the_tabernacle_H4908, and of all that therein is, in_the_sanctuary_H6944, and_in_the_vessels_H3627 thereof. 
 
-@17 And the LORD spake unto Moses and unto Aaron, saying, 
-@18 Cut ye not off the tribe of the families of the Kohathites from among the Levites: 
-@19 But thus do unto them, that they may live, and not die, when they approach unto the most holy things: Aaron and his sons shall go in, and appoint them every one to his service and to his burden: 
-@20 But they shall not go in to see when the holy things are covered, lest they die. 
+@17 And the LORD [spake ]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872 and_unto_Aaron_H175, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@18 [Cut ye not off]{strong="H3772" x-morph="strongMorph: TH8686"} the_tribe_H7626 of_the_families_H4940 of_the_Kohathites_H6956 from_among_H8432 the_Levites_H3881: 
+@19 [But thus do]{strong="H6213" x-morph="strongMorph: TH8798"} [unto them, that they may live]{strong="H2421" x-morph="strongMorph: TH8804"}, [and not die]{strong="H4191" x-morph="strongMorph: TH8799"}, [when they approach]{strong="H5066" x-morph="strongMorph: TH8800"} unto_the_most_H6944 holy_things_H6944: Aaron_H175 and_his_sons_H1121 [shall go in]{strong="H935" x-morph="strongMorph: TH8799"}, [and appoint]{strong="H7760" x-morph="strongMorph: TH8804"} them_every_H376 one_H376 to_his_service_H5656 and_to_his_burden_H4853: 
+@20 [But they shall not go in]{strong="H935" x-morph="strongMorph: TH8799"} [to see]{strong="H7200" x-morph="strongMorph: TH8800"} when_the_holy_things_H6944 [are covered]{strong="H1104" x-morph="strongMorph: TH8763"}, [lest they die]{strong="H4191" x-morph="strongMorph: TH8804"}. 
 
-@21 And the LORD spake unto Moses, saying, 
-@22 Take also the sum of the sons of Gershon, throughout the houses of their fathers, by their families; 
-@23 From thirty years old and upward until fifty years old shalt thou number them; all that enter in to perform the service, to do the work in the tabernacle of the congregation.^a^ 
-@24 This is the service of the families of the Gershonites, to serve, and for burdens:^b^ 
-@25 And they shall bear the curtains of the tabernacle, and the tabernacle of the congregation, his covering, and the covering of the badgers’ skins that is above upon it, and the hanging for the door of the tabernacle of the congregation, 
-@26 And the hangings of the court, and the hanging for the door of the gate of the court, which is by the tabernacle and by the altar round about, and their cords, and all the instruments of their service, and all that is made for them: so shall they serve. 
-@27 At the appointment of Aaron and his sons shall be all the service of the sons of the Gershonites, in all their burdens, and in all their service: and ye shall appoint unto them in charge all their burdens.^c^ 
-@28 This is the service of the families of the sons of Gershon in the tabernacle of the congregation: and their charge shall be under the hand of Ithamar the son of Aaron the priest. 
+@21 And the LORD [spake ]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@22 [Take]{strong="H5375" x-morph="strongMorph: TH8800"} also_the_sum_H7218 of_the_sons_H1121 of_Gershon_H1648, throughout_the_houses_H1004 of_their_fathers_H1, by_their_families_H4940; 
+@23 From_thirty_H7970 years_H8141 old_H1121 and_upward_H4605 until_fifty_H2572 years_H8141 old_H1121 [shalt thou number]{strong="H6485" x-morph="strongMorph: TH8799"} [them; all that enter in]{strong="H935" x-morph="strongMorph: TH8802"} [to perform]{strong="H6633" x-morph="strongMorph: TH8800"} the_service_H6635, [to do]{strong="H5647" x-morph="strongMorph: TH8800"} the_work_H5656 in_the_tabernacle_H168 of_the_congregation_H4150.^a^ 
+@24 This is the_service_H5656 of_the_families_H4940 of_the_Gershonites_H1649, [to serve]{strong="H5647" x-morph="strongMorph: TH8800"}, and_for_burdens_H4853:^b^ 
+@25 [And they shall bear]{strong="H5375" x-morph="strongMorph: TH8804"} the_curtains_H3407 of_the_tabernacle_H4908, and_the_tabernacle_H168 of_the_congregation_H4150, his_covering_H4372, and_the_covering_H4372 [of the badgers’]{strong="H8476"} skins that is above_H4605 [upon it, and the hanging]{strong="H4539"} for_the_door_H6607 of_the_tabernacle_H168 of_the_congregation_H4150, 
+@26 And_the_hangings_H7050 of_the_court_H2691, and_the_hanging_H4539 for_the_door_H6607 of_the_gate_H8179 of_the_court_H2691, which is by_the_tabernacle_H4908 and_by_the_altar_H4196 round_about_H5439, and_their_cords_H4340, and_all_the_instruments_H3627 of_their_service_H5656, [and all that is made]{strong="H6213" x-morph="strongMorph: TH8735"} [for them: so shall they serve]{strong="H5647" x-morph="strongMorph: TH8804"}. 
+@27 At_the_appointment_H6310 of_Aaron_H175 and_his_sons_H1121 shall_be_all_the_service_H5656 of_the_sons_H1121 of_the_Gershonites_H1649, in_all_their_burdens_H4853, and_in_all_their_service_H5656: [and ye shall appoint]{strong="H6485" x-morph="strongMorph: TH8804"} unto_them_in_charge_H4931 all_their_burdens_H4853.^c^ 
+@28 This is the_service_H5656 of_the_families_H4940 of_the_sons_H1121 of_Gershon_H1649 in_the_tabernacle_H168 of_the_congregation_H4150: and_their_charge_H4931 shall be under_the_hand_H3027 of_Ithamar_H385 the_son_H1121 of_Aaron_H175 the_priest_H3548. 
 ^a^[**4:23** to perform…: Heb. to war the warfare] ^b^[**4:24** burdens: or, carriage] ^c^[**4:27** appointment: Heb. mouth]
 
-@29 As for the sons of Merari, thou shalt number them after their families, by the house of their fathers; 
-@30 From thirty years old and upward even unto fifty years old shalt thou number them, every one that entereth into the service, to do the work of the tabernacle of the congregation.^a^ 
-@31 And this is the charge of their burden, according to all their service in the tabernacle of the congregation; the boards of the tabernacle, and the bars thereof, and the pillars thereof, and sockets thereof, 
-@32 And the pillars of the court round about, and their sockets, and their pins, and their cords, with all their instruments, and with all their service: and by name ye shall reckon the instruments of the charge of their burden. 
-@33 This is the service of the families of the sons of Merari, according to all their service, in the tabernacle of the congregation, under the hand of Ithamar the son of Aaron the priest. 
+@29 As_for_the_sons_H1121 of_Merari_H4847, [thou shalt number]{strong="H6485" x-morph="strongMorph: TH8799"} them_after_their_families_H4940, by_the_house_H1004 of_their_fathers_H1; 
+@30 From_thirty_H7970 years_H8141 old_H1121 and_upward_H4605 even_unto_fifty_H2572 years_H8141 old_H1121 [shalt thou number]{strong="H6485" x-morph="strongMorph: TH8799"} [them, every one that entereth]{strong="H935" x-morph="strongMorph: TH8802"} into_the_service_H6635, [to do]{strong="H5647" x-morph="strongMorph: TH8800"} the_work_H5656 of_the_tabernacle_H168 of_the_congregation_H4150.^a^ 
+@31 And this is the_charge_H4931 of_their_burden_H4853, according_to_all_their_service_H5656 in_the_tabernacle_H168 of_the_congregation_H4150; the_boards_H7175 of_the_tabernacle_H4908, and_the_bars_H1280 [thereof, and the pillars]{strong="H5982"} [thereof, and sockets]{strong="H134"} thereof, 
+@32 And_the_pillars_H5982 of_the_court_H2691 round_about_H5439, and_their_sockets_H134, and_their_pins_H3489, and_their_cords_H4340, with_all_their_instruments_H3627, and_with_all_their_service_H5656: and_by_name_H8034 [ye shall reckon]{strong="H6485" x-morph="strongMorph: TH8799"} the_instruments_H3627 of_the_charge_H4931 of_their_burden_H4853. 
+@33 This is the_service_H5656 of_the_families_H4940 of_the_sons_H1121 of_Merari_H4847, according_to_all_their_service_H5656, in_the_tabernacle_H168 of_the_congregation_H4150, under_the_hand_H3027 of_Ithamar_H385 the_son_H1121 of_Aaron_H175 the_priest_H3548. 
 ^a^[**4:30** service: Heb. warfare]
 
-@34 And Moses and Aaron and the chief of the congregation numbered the sons of the Kohathites after their families, and after the house of their fathers, 
-@35 From thirty years old and upward even unto fifty years old, every one that entereth into the service, for the work in the tabernacle of the congregation: 
-@36 And those that were numbered of them by their families were two thousand seven hundred and fifty. 
-@37 These were they that were numbered of the families of the Kohathites, all that might do service in the tabernacle of the congregation, which Moses and Aaron did number according to the commandment of the LORD by the hand of Moses. 
-@38 And those that were numbered of the sons of Gershon, throughout their families, and by the house of their fathers, 
-@39 From thirty years old and upward even unto fifty years old, every one that entereth into the service, for the work in the tabernacle of the congregation, 
-@40 Even those that were numbered of them, throughout their families, by the house of their fathers, were two thousand and six hundred and thirty. 
-@41 These are they that were numbered of the families of the sons of Gershon, of all that might do service in the tabernacle of the congregation, whom Moses and Aaron did number according to the commandment of the LORD. 
+@34 And_Moses_H4872 and_Aaron_H175 and_the_chief_H5387 of_the_congregation_H5712 [numbered]{strong="H6485" x-morph="strongMorph: TH8799"} the_sons_H1121 of_the_Kohathites_H6956 after_their_families_H4940, and_after_the_house_H1004 of_their_fathers_H1, 
+@35 From_thirty_H7970 years_H8141 old_H1121 and_upward_H4605 even_unto_fifty_H2572 years_H8141 old_H1121, [every one that entereth]{strong="H935" x-morph="strongMorph: TH8802"} into_the_service_H6635, for_the_work_H5656 in_the_tabernacle_H168 of_the_congregation_H4150: 
+@36 [And those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of_them_by_their_families_H4940 were_two_thousand_H505 seven_H7651 hundred_H3967 and_fifty_H2572. 
+@37 These were [they that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of_the_families_H4940 of_the_Kohathites_H6956, [all that might do service]{strong="H5647" x-morph="strongMorph: TH8802"} in_the_tabernacle_H168 of_the_congregation_H4150, which_Moses_H4872 and_Aaron_H175 [did number]{strong="H6485" x-morph="strongMorph: TH8804"} according_to_the_commandment_H6310 of the LORD by_the_hand_H3027 of_Moses_H4872. 
+@38 [And those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of_the_sons_H1121 of_Gershon_H1648, throughout_their_families_H4940, and_by_the_house_H1004 of_their_fathers_H1, 
+@39 From_thirty_H7970 years_H8141 old_H1121 and_upward_H4605 even_unto_fifty_H2572 years_H8141 old_H1121, [every one that entereth]{strong="H935" x-morph="strongMorph: TH8802"} into_the_service_H6635, for_the_work_H5656 in_the_tabernacle_H168 of_the_congregation_H4150, 
+@40 [Even those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} [of them, throughout their families]{strong="H4940"}, by_the_house_H1004 of_their_fathers_H1, were_two_thousand_H505 and_six_H8337 hundred_H3967 and_thirty_H7970. 
+@41 These are [they that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of_the_families_H4940 of_the_sons_H1121 of_Gershon_H1648, [of all that might do service]{strong="H5647" x-morph="strongMorph: TH8802"} in_the_tabernacle_H168 of_the_congregation_H4150, whom_Moses_H4872 and_Aaron_H175 [did number]{strong="H6485" x-morph="strongMorph: TH8804"} according_to_the_commandment_H6310 of the LORD. 
 
-@42 And those that were numbered of the families of the sons of Merari, throughout their families, by the house of their fathers, 
-@43 From thirty years old and upward even unto fifty years old, every one that entereth into the service, for the work in the tabernacle of the congregation, 
-@44 Even those that were numbered of them after their families, were three thousand and two hundred. 
-@45 These be those that were numbered of the families of the sons of Merari, whom Moses and Aaron numbered according to the word of the LORD by the hand of Moses. 
-@46 All those that were numbered of the Levites, whom Moses and Aaron and the chief of Israel numbered, after their families, and after the house of their fathers, 
-@47 From thirty years old and upward even unto fifty years old, every one that came to do the service of the ministry, and the service of the burden in the tabernacle of the congregation, 
-@48 Even those that were numbered of them, were eight thousand and five hundred and fourscore. 
-@49 According to the commandment of the LORD they were numbered by the hand of Moses, every one according to his service, and according to his burden: thus were they numbered of him, as the LORD commanded Moses. 
+@42 [And those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of_the_families_H4940 of_the_sons_H1121 of_Merari_H4847, throughout_their_families_H4940, by_the_house_H1004 of_their_fathers_H1, 
+@43 From_thirty_H7970 years_H8141 old_H1121 and_upward_H4605 even_unto_fifty_H2572 years_H8141 old_H1121, [every one that entereth]{strong="H935" x-morph="strongMorph: TH8802"} into_the_service_H6635, for_the_work_H5656 in_the_tabernacle_H168 of_the_congregation_H4150, 
+@44 [Even those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of_them_after_their_families_H4940, were_three_H7969 thousand_H505 and_two_hundred_H3967. 
+@45 These be [those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of_the_families_H4940 of_the_sons_H1121 of_Merari_H4847, whom_Moses_H4872 and_Aaron_H175 [numbered]{strong="H6485" x-morph="strongMorph: TH8804"} according_to_the_word_H6310 of the LORD by_the_hand_H3027 of_Moses_H4872. 
+@46 [All those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of_the_Levites_H3881, whom_Moses_H4872 and_Aaron_H175 and_the_chief_H5387 of_Israel_H3478 [numbered]{strong="H6485" x-morph="strongMorph: TH8804"}, after_their_families_H4940, and_after_the_house_H1004 of_their_fathers_H1, 
+@47 From_thirty_H7970 years_H8141 old_H1121 and_upward_H4605 even_unto_fifty_H2572 years_H8141 old_H1121, [every one that came]{strong="H935" x-morph="strongMorph: TH8802"} [to do]{strong="H5647" x-morph="strongMorph: TH8800"} the_service_of_the_ministry_H5656, and_the_service_H5656 of_the_burden_H4853 in_the_tabernacle_H168 of_the_congregation_H4150, 
+@48 [Even those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} [of them, were eight]{strong="H8083"} thousand_H505 and_five_H2568 hundred_H3967 and_fourscore_H8084. 
+@49 According_to_the_commandment_H6310 of the LORD [they were numbered]{strong="H6485" x-morph="strongMorph: TH8804"} by_the_hand_H3027 of_Moses_H4872, every_H376 one_H376 according_to_his_service_H5656, and_according_to_his_burden_H4853: [thus were they numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of him, as the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} Moses_H4872. 
 
 # 5 
-@1 And the LORD spake unto Moses, saying, 
-@2 Command the children of Israel, that they put out of the camp every leper, and every one that hath an issue, and whosoever is defiled by the dead: 
-@3 Both male and female shall ye put out, without the camp shall ye put them; that they defile not their camps, in the midst whereof I dwell. 
-@4 And the children of Israel did so, and put them out without the camp: as the LORD spake unto Moses, so did the children of Israel. 
+@1 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@2 [Command]{strong="H6680" x-morph="strongMorph: TH8761"} the_children_H1121 of_Israel_H3478, [that they put out]{strong="H7971" x-morph="strongMorph: TH8762"} of_the_camp_H4264 [every leper]{strong="H6879" x-morph="strongMorph: TH8803"}, [and every one that hath an issue]{strong="H2100" x-morph="strongMorph: TH8802"}, and_whosoever_is_defiled_H2931 by_the_dead_H5315: 
+@3 Both_male_H2145 and_female_H5347 [shall ye put out]{strong="H7971" x-morph="strongMorph: TH8762"}, without_H2351 the_camp_H4264 [shall ye put]{strong="H7971" x-morph="strongMorph: TH8762"} [them; that they defile]{strong="H2930" x-morph="strongMorph: TH8762"} not_their_camps_H4264, in_the_midst_H8432 whereof_H834 [I dwell]{strong="H7931" x-morph="strongMorph: TH8802"}. 
+@4 And_the_children_H1121 of_Israel_H3478 [did so]{strong="H6213" x-morph="strongMorph: TH8799"}, [and put them out]{strong="H7971" x-morph="strongMorph: TH8762"} without_H2351 the_camp_H4264: as the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8765"} unto_Moses_H4872, [so did]{strong="H6213" x-morph="strongMorph: TH8804"} the_children_H1121 of_Israel_H3478. 
 
-@5 And the LORD spake unto Moses, saying, 
-@6 Speak unto the children of Israel, When a man or woman shall commit any sin that men commit, to do a trespass against the LORD, and that person be guilty; 
-@7 Then they shall confess their sin which they have done: and he shall recompense his trespass with the principal thereof, and add unto it the fifth part thereof, and give it unto him against whom he hath trespassed. 
-@8 But if the man have no kinsman to recompense the trespass unto, let the trespass be recompensed unto the LORD, even to the priest; beside the ram of the atonement, whereby an atonement shall be made for him. 
-@9 And every offering of all the holy things of the children of Israel, which they bring unto the priest, shall be his.^a^ 
-@10 And every man’s hallowed things shall be his: whatsoever any man giveth the priest, it shall be his. 
+@5 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@6 [Speak]{strong="H1696" x-morph="strongMorph: TH8761"} unto_the_children_H1121 of_Israel_H3478, When_a_man_H376 or_woman_H802 [shall commit]{strong="H6213" x-morph="strongMorph: TH8799"} any_sin_H2403 that_men_H120 [commit]{strong="H4603" x-morph="strongMorph: TH8800"}, to_do_a_trespass_H4604 against the LORD, and_that_person_H5315 [be guilty]{strong="H816" x-morph="strongMorph: TH8804"}; 
+@7 [Then they shall confess]{strong="H3034" x-morph="strongMorph: TH8694"} their_sin_H2403 [which they have done]{strong="H6213" x-morph="strongMorph: TH8804"}: [and he shall recompense]{strong="H7725" x-morph="strongMorph: TH8689"} his_trespass_H817 with_the_principal_H7218 [thereof, and add]{strong="H3254" x-morph="strongMorph: TH8686"} unto_it_the_fifth_H2549 part [thereof, and give]{strong="H5414" x-morph="strongMorph: TH8804"} it unto him [against whom he hath trespassed]{strong="H816" x-morph="strongMorph: TH8804"}. 
+@8 But_if_the_man_H376 [have no kinsman]{strong="H1350" x-morph="strongMorph: TH8802"} [to recompense]{strong="H7725" x-morph="strongMorph: TH8687"} the_trespass_H817 [unto, let the trespass]{strong="H817"} [be recompensed]{strong="H7725" x-morph="strongMorph: TH8716"} unto the LORD, even to_the_priest_H3548; beside_the_ram_H352 of_the_atonement_H3725, [whereby an atonement shall be made]{strong="H3722" x-morph="strongMorph: TH8762"} for him. 
+@9 And_every_offering_H8641 of_all_the_holy_things_H6944 of_the_children_H1121 of_Israel_H3478, [which they bring]{strong="H7126" x-morph="strongMorph: TH8686"} unto_the_priest_H3548, shall be his.^a^ 
+@10 [And every man’s]{strong="H376"} hallowed_things_H6944 [shall be his: whatsoever any man]{strong="H376"} [giveth]{strong="H5414" x-morph="strongMorph: TH8799"} the_priest_H3548, it shall be his. 
 ^a^[**5:9** offering: or, heave offering]
 
-@11 And the LORD spake unto Moses, saying, 
-@12 Speak unto the children of Israel, and say unto them, If any man’s wife go aside, and commit a trespass against him, 
-@13 And a man lie with her carnally, and it be hid from the eyes of her husband, and be kept close, and she be defiled, and there be no witness against her, neither she be taken with the manner; 
-@14 And the spirit of jealousy come upon him, and he be jealous of his wife, and she be defiled: or if the spirit of jealousy come upon him, and he be jealous of his wife, and she be not defiled: 
-@15 Then shall the man bring his wife unto the priest, and he shall bring her offering for her, the tenth part of an ephah of barley meal; he shall pour no oil upon it, nor put frankincense thereon; for it is an offering of jealousy, an offering of memorial, bringing iniquity to remembrance. 
-@16 And the priest shall bring her near, and set her before the LORD: 
-@17 And the priest shall take holy water in an earthen vessel; and of the dust that is in the floor of the tabernacle the priest shall take, and put it into the water: 
-@18 And the priest shall set the woman before the LORD, and uncover the woman’s head, and put the offering of memorial in her hands, which is the jealousy offering: and the priest shall have in his hand the bitter water that causeth the curse: 
-@19 And the priest shall charge her by an oath, and say unto the woman, If no man have lain with thee, and if thou hast not gone aside to uncleanness with another instead of thy husband, be thou free from this bitter water that causeth the curse:^a^ 
-@20 But if thou hast gone aside to another instead of thy husband, and if thou be defiled, and some man have lain with thee beside thine husband: 
-@21 Then the priest shall charge the woman with an oath of cursing, and the priest shall say unto the woman, The LORD make thee a curse and an oath among thy people, when the LORD doth make thy thigh to rot, and thy belly to swell;^b^ 
-@22 And this water that causeth the curse shall go into thy bowels, to make thy belly to swell, and thy thigh to rot: And the woman shall say, Amen, amen. 
-@23 And the priest shall write these curses in a book, and he shall blot them out with the bitter water: 
-@24 And he shall cause the woman to drink the bitter water that causeth the curse: and the water that causeth the curse shall enter into her, and become bitter. 
-@25 Then the priest shall take the jealousy offering out of the woman’s hand, and shall wave the offering before the LORD, and offer it upon the altar: 
-@26 And the priest shall take an handful of the offering, even the memorial thereof, and burn it upon the altar, and afterward shall cause the woman to drink the water. 
-@27 And when he hath made her to drink the water, then it shall come to pass, that, if she be defiled, and have done trespass against her husband, that the water that causeth the curse shall enter into her, and become bitter, and her belly shall swell, and her thigh shall rot: and the woman shall be a curse among her people. 
-@28 And if the woman be not defiled, but be clean; then she shall be free, and shall conceive seed. 
-@29 This is the law of jealousies, when a wife goeth aside to another instead of her husband, and is defiled; 
-@30 Or when the spirit of jealousy cometh upon him, and he be jealous over his wife, and shall set the woman before the LORD, and the priest shall execute upon her all this law. 
-@31 Then shall the man be guiltless from iniquity, and this woman shall bear her iniquity.
+@11 And the LORD [spake ]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@12 [Speak]{strong="H1696" x-morph="strongMorph: TH8761"} unto_the_children_H1121 of_Israel_H3478, [and say]{strong="H559" x-morph="strongMorph: TH8804"} [unto them, If any]{strong="H376"} [man’s]{strong="H376"} wife_H802 [go aside]{strong="H7847" x-morph="strongMorph: TH8799"}, [and commit]{strong="H4603" x-morph="strongMorph: TH8804"} a_trespass_H4604 against him, 
+@13 And_a_man_H376 [lie]{strong="H7901" x-morph="strongMorph: TH8804"} [with her carnally]{strong="H2233 H7902"}, [and it be hid]{strong="H5956" x-morph="strongMorph: TH8738"} from_the_eyes_H5869 of_her_husband_H376, [and be kept close]{strong="H5641" x-morph="strongMorph: TH8738"}, [and she be defiled]{strong="H2930" x-morph="strongMorph: TH8738"}, and there be no_witness_H5707 [against her, neither she be taken]{strong="H8610" x-morph="strongMorph: TH8738"} with the manner; 
+@14 And_the_spirit_H7307 of_jealousy_H7068 [come]{strong="H5674" x-morph="strongMorph: TH8804"} [upon him, and he be jealous]{strong="H7065" x-morph="strongMorph: TH8765"} of_his_wife_H802, [and she be defiled]{strong="H2930" x-morph="strongMorph: TH8738"}: or_if_the_spirit_H7307 of_jealousy_H7068 [come]{strong="H5674" x-morph="strongMorph: TH8804"} [upon him, and he be jealous]{strong="H7065" x-morph="strongMorph: TH8765"} of_his_wife_H802, [and she be not defiled]{strong="H2930" x-morph="strongMorph: TH8738"}: 
+@15 Then_shall_the_man_H376 [bring]{strong="H935" x-morph="strongMorph: TH8689"} his_wife_H802 unto_the_priest_H3548, [and he shall bring]{strong="H935" x-morph="strongMorph: TH8689"} her_offering_H7133 [for her, the tenth]{strong="H6224"} part of_an_ephah_H374 of_barley_H8184 meal_H7058; [he shall pour]{strong="H3332" x-morph="strongMorph: TH8799"} no_oil_H8081 [upon it, nor put]{strong="H5414" x-morph="strongMorph: TH8799"} frankincense_H3828 thereon; for it is an_offering_H4503 of_jealousy_H7068, an_offering_H4503 of_memorial_H2146, bringing_H2142 iniquity_H5771 [to remembrance]{strong="H2142" x-morph="strongMorph: TH8688"}. 
+@16 And_the_priest_H3548 [shall bring her near]{strong="H7126" x-morph="strongMorph: TH8689"}, [and set]{strong="H5975" x-morph="strongMorph: TH8689"} her_before_H6440 the LORD: 
+@17 And_the_priest_H3548 [shall take]{strong="H3947" x-morph="strongMorph: TH8804"} holy_H6918 water_H4325 in_an_earthen_H2789 vessel_H3627; and_of_the_dust_H6083 that_is_in_the_floor_H7172 of_the_tabernacle_H4908 the_priest_H3548 [shall take]{strong="H3947" x-morph="strongMorph: TH8799"}, [and put]{strong="H5414" x-morph="strongMorph: TH8804"} it into_the_water_H4325: 
+@18 And_the_priest_H3548 [shall set]{strong="H5975" x-morph="strongMorph: TH8689"} the_woman_H802 before_H6440 the LORD, [and uncover]{strong="H6544" x-morph="strongMorph: TH8804"} [the woman’s]{strong="H802"} head_H7218, [and put]{strong="H5414" x-morph="strongMorph: TH8804"} the_offering_H4503 of_memorial_H2146 in_her_hands_H3709, which is the_jealousy_H7068 offering_H4503: and_the_priest_H3548 shall_have_in_his_hand_H3027 the_bitter_H4751 water_H4325 [that causeth the curse]{strong="H779" x-morph="strongMorph: TH8764"}: 
+@19 And_the_priest_H3548 [shall charge her by an oath]{strong="H7650" x-morph="strongMorph: TH8689"}, [and say]{strong="H559" x-morph="strongMorph: TH8804"} unto_the_woman_H802, If_no_man_H376 [have lain]{strong="H7901" x-morph="strongMorph: TH8804"} [with thee, and if thou hast not gone aside]{strong="H7847" x-morph="strongMorph: TH8804"} to_uncleanness_H2932 with another instead_of_thy_husband_H376, [be thou free]{strong="H5352" x-morph="strongMorph: TH8734"} from_this_bitter_H4751 water_H4325 [that causeth the curse]{strong="H779" x-morph="strongMorph: TH8764"}:^a^ 
+@20 [But if thou hast gone aside]{strong="H7847" x-morph="strongMorph: TH8804"} to another instead_of_thy_husband_H376, [and if thou be defiled]{strong="H2930" x-morph="strongMorph: TH8738"}, and_some_man_H376 [have]{strong="H5414" x-morph="strongMorph: TH8799"} lain_H7903 with_thee_beside_H1107 thine_husband_H376: 
+@21 Then_the_priest_H3548 [shall charge]{strong="H7650" x-morph="strongMorph: TH8689"} the_woman_H802 with_an_oath_H7621 of_cursing_H423, and_the_priest_H3548 [shall say]{strong="H559" x-morph="strongMorph: TH8804"} unto_the_woman_H802, The LORD [make]{strong="H5414" x-morph="strongMorph: TH8799"} thee_a_curse_H423 and_an_oath_H7621 among_H8432 thy_people_H5971, when the LORD [doth make]{strong="H5414" x-morph="strongMorph: TH8800"} thy_thigh_H3409 [to rot]{strong="H5307" x-morph="strongMorph: TH8802"}, and_thy_belly_H990 to_swell_H6639;^b^ 
+@22 And_this_water_H4325 [that causeth the curse]{strong="H779" x-morph="strongMorph: TH8764"} [shall go]{strong="H935" x-morph="strongMorph: TH8804"} into_thy_bowels_H4578, to make thy belly_H990 [to swell]{strong="H6638" x-morph="strongMorph: TH8687"}, and thy thigh_H3409 [to rot]{strong="H5307" x-morph="strongMorph: TH8687"}: And_the_woman_H802 [shall say]{strong="H559" x-morph="strongMorph: TH8804"}, Amen_H543, amen_H543. 
+@23 And_the_priest_H3548 [shall write]{strong="H3789" x-morph="strongMorph: TH8804"} these_curses_H423 in_a_book_H5612, [and he shall blot]{strong="H4229" x-morph="strongMorph: TH8804"} them out_with_the_bitter_H4751 water_H4325: 
+@24 And_he_shall_cause_the_woman_H802 [to drink]{strong="H8248" x-morph="strongMorph: TH8689"} the_bitter_H4751 water_H4325 [that causeth the curse]{strong="H779" x-morph="strongMorph: TH8764"}: and_the_water_H4325 [that causeth the curse]{strong="H779" x-morph="strongMorph: TH8764"} [shall enter]{strong="H935" x-morph="strongMorph: TH8804"} into her, and become bitter_H4751. 
+@25 Then_the_priest_H3548 [shall take]{strong="H3947" x-morph="strongMorph: TH8804"} the_jealousy_H7068 offering_H4503 [out of the woman’s]{strong="H802"} hand_H3027, [and shall wave]{strong="H5130" x-morph="strongMorph: TH8689"} the_offering_H4503 before_H6440 the LORD, [and offer]{strong="H7126" x-morph="strongMorph: TH8689"} it_upon_the_altar_H4196: 
+@26 And_the_priest_H3548 [shall take an handful]{strong="H7061" x-morph="strongMorph: TH8804"} of_the_offering_H4503, even the_memorial_H234 [thereof, and burn]{strong="H6999" x-morph="strongMorph: TH8689"} it upon_the_altar_H4196, and_afterward_H310 shall_cause_the_woman_H802 [to drink]{strong="H8248" x-morph="strongMorph: TH8686"} the_water_H4325. 
+@27 [And when he hath made her to drink]{strong="H8248" x-morph="strongMorph: TH8689"} the_water_H4325, then it shall come to pass, that, [if she be defiled]{strong="H2930" x-morph="strongMorph: TH8738"}, [and have done]{strong="H4603" x-morph="strongMorph: TH8799"} trespass_H4604 against_her_husband_H376, that_the_water_H4325 [that causeth the curse]{strong="H779" x-morph="strongMorph: TH8764"} [shall enter]{strong="H935" x-morph="strongMorph: TH8804"} into her, and become bitter_H4751, and_her_belly_H990 [shall swell]{strong="H6638" x-morph="strongMorph: TH8804"}, and_her_thigh_H3409 [shall rot]{strong="H5307" x-morph="strongMorph: TH8804"}: and_the_woman_H802 shall_be_a_curse_H423 among_H7130 her_people_H5971. 
+@28 And_if_the_woman_H802 [be not defiled]{strong="H2930" x-morph="strongMorph: TH8738"}, but_be_clean_H2889; [then she shall be free]{strong="H5352" x-morph="strongMorph: TH8738"}, [and shall conceive]{strong="H2232" x-morph="strongMorph: TH8738"} seed_H2233. 
+@29 This is the_law_H8451 of_jealousies_H7068, when_a_wife_H802 [goeth aside]{strong="H7847" x-morph="strongMorph: TH8799"} to another instead_of_her_husband_H376, [and is defiled]{strong="H2930" x-morph="strongMorph: TH8738"}; 
+@30 Or_when_the_spirit_H7307 of_jealousy_H7068 [cometh]{strong="H5674" x-morph="strongMorph: TH8799"} upon_him_H376, [and he be jealous]{strong="H7065" x-morph="strongMorph: TH8765"} over_his_wife_H802, [and shall set]{strong="H5975" x-morph="strongMorph: TH8689"} the_woman_H802 before_H6440 the LORD, and_the_priest_H3548 [shall execute]{strong="H6213" x-morph="strongMorph: TH8804"} upon_her_all_this_law_H8451. 
+@31 Then_shall_the_man_H376 [be guiltless]{strong="H5352" x-morph="strongMorph: TH8738"} from_iniquity_H5771, and_this_H1931 woman_H802 [shall bear]{strong="H5375" x-morph="strongMorph: TH8799"} her_iniquity_H5771.
 ^a^[**5:19** with another…: or, being in the power of thy husband: Heb. under thy husband] ^b^[**5:21** rot: Heb. fall] 
 
 # 6 
-@1 And the LORD spake unto Moses, saying, 
-@2 Speak unto the children of Israel, and say unto them, When either man or woman shall separate themselves to vow a vow of a Nazarite, to separate themselves unto the LORD:^a^ 
-@3 He shall separate himself from wine and strong drink, and shall drink no vinegar of wine, or vinegar of strong drink, neither shall he drink any liquor of grapes, nor eat moist grapes, or dried. 
-@4 All the days of his separation shall he eat nothing that is made of the vine tree, from the kernels even to the husk.^b^ ^c^ 
-@5 All the days of the vow of his separation there shall no razor come upon his head: until the days be fulfilled, in the which he separateth himself unto the LORD, he shall be holy, and shall let the locks of the hair of his head grow. 
-@6 All the days that he separateth himself unto the LORD he shall come at no dead body. 
-@7 He shall not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die: because the consecration of his God is upon his head.^d^ 
-@8 All the days of his separation he is holy unto the LORD. 
-@9 And if any man die very suddenly by him, and he hath defiled the head of his consecration; then he shall shave his head in the day of his cleansing, on the seventh day shall he shave it. 
-@10 And on the eighth day he shall bring two turtles, or two young pigeons, to the priest, to the door of the tabernacle of the congregation: 
-@11 And the priest shall offer the one for a sin offering, and the other for a burnt offering, and make an atonement for him, for that he sinned by the dead, and shall hallow his head that same day. 
-@12 And he shall consecrate unto the LORD the days of his separation, and shall bring a lamb of the first year for a trespass offering: but the days that were before shall be lost, because his separation was defiled.^e^ 
+@1 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@2 [Speak]{strong="H1696" x-morph="strongMorph: TH8761"} unto_the_children_H1121 of_Israel_H3478, [and say]{strong="H559" x-morph="strongMorph: TH8804"} [unto them, When either man]{strong="H376"} or_woman_H802 [shall separate]{strong="H6381" x-morph="strongMorph: TH8686"} themselves [to vow]{strong="H5087" x-morph="strongMorph: TH8800"} a_vow_H5088 of_a_Nazarite_H5139, [to separate]{strong="H5144" x-morph="strongMorph: TH8687"} themselves unto the LORD:^a^ 
+@3 [He shall separate]{strong="H5144" x-morph="strongMorph: TH8686"} himself from_wine_H3196 and_strong_drink_H7941, [and shall drink]{strong="H8354" x-morph="strongMorph: TH8799"} no_vinegar_H2558 of_wine_H3196, or_vinegar_H2558 of_strong_drink_H7941, [neither shall he drink]{strong="H8354" x-morph="strongMorph: TH8799"} any_liquor_H4952 of_grapes_H6025, [nor eat]{strong="H398" x-morph="strongMorph: TH8799"} moist_H3892 grapes_H6025, or_dried_H3002. 
+@4 All_the_days_H3117 of_his_separation_H5145 [shall he eat]{strong="H398" x-morph="strongMorph: TH8799"} [nothing that is made]{strong="H6213" x-morph="strongMorph: TH8735"} of_the_vine_H3196 tree_H1612, from_the_kernels_H2785 even_to_the_husk_H2085.^b^ ^c^ 
+@5 All_the_days_H3117 of_the_vow_H5088 of_his_separation_H5145 there_shall_no_razor_H8593 [come]{strong="H5674" x-morph="strongMorph: TH8799"} upon_his_head_H7218: until_the_days_H3117 [be fulfilled]{strong="H4390" x-morph="strongMorph: TH8800"}, [in the which he separateth]{strong="H5144" x-morph="strongMorph: TH8686"} himself unto the LORD, he_shall_be_holy_H6918, and shall_let_the_locks_H6545 of_the_hair_H8181 of_his_head_H7218 [grow]{strong="H1431" x-morph="strongMorph: TH8763"}. 
+@6 All_the_days_H3117 [that he separateth]{strong="H5144" x-morph="strongMorph: TH8687"} himself unto the LORD [he shall come]{strong="H935" x-morph="strongMorph: TH8799"} [at no dead]{strong="H4191" x-morph="strongMorph: TH8801"} body_H5315. 
+@7 [He shall not make himself unclean]{strong="H2930" x-morph="strongMorph: TH8691"} for_his_father_H1, or_for_his_mother_H517, for_his_brother_H251, or_for_his_sister_H269, when_they_die_H4194: because_the_consecration_H5145 of_his_God_H430 is upon_his_head_H7218.^d^ 
+@8 All_the_days_H3117 of_his_separation_H5145 he is holy_H6918 unto the LORD. 
+@9 [And if any man]{strong="H4191" x-morph="strongMorph: TH8801"} [die]{strong="H4191" x-morph="strongMorph: TH8799"} very_H6621 suddenly_H6597 [by him, and he hath defiled]{strong="H2930" x-morph="strongMorph: TH8765"} the_head_H7218 of_his_consecration_H5145; [then he shall shave]{strong="H1548" x-morph="strongMorph: TH8765"} his_head_H7218 in_the_day_H3117 of_his_cleansing_H2893, on_the_seventh_H7637 day_H3117 [shall he shave]{strong="H1548" x-morph="strongMorph: TH8762"} it. 
+@10 And_on_the_eighth_H8066 day_H3117 [he shall bring]{strong="H935" x-morph="strongMorph: TH8686"} two_H8147 turtles_H8449, or_two_H8147 young_H1121 pigeons_H3123, to_the_priest_H3548, to_the_door_H6607 of_the_tabernacle_H168 of_the_congregation_H4150: 
+@11 And_the_priest_H3548 [shall offer]{strong="H6213" x-morph="strongMorph: TH8804"} the_one_H259 for_a_sin_offering_H2403, and_the_other_H259 for_a_burnt_offering_H5930, [and make an atonement]{strong="H3722" x-morph="strongMorph: TH8765"} [for him, for that]{strong="H834"} [he sinned]{strong="H2398" x-morph="strongMorph: TH8804"} by_the_dead_H5315, [and shall hallow]{strong="H6942" x-morph="strongMorph: TH8765"} his_head_H7218 that_same_day_H3117. 
+@12 [And he shall consecrate]{strong="H5144" x-morph="strongMorph: TH8689"} unto the LORD the_days_H3117 of_his_separation_H5145, [and shall bring]{strong="H935" x-morph="strongMorph: TH8689"} a_lamb_H3532 of_the_first_H1121 year_H8141 for_a_trespass_offering_H817: but_the_days_H3117 that_were_before_H7223 [shall be lost]{strong="H5307" x-morph="strongMorph: TH8799"}, because_his_separation_H5145 [was defiled]{strong="H2930" x-morph="strongMorph: TH8804"}.^e^ 
 ^a^[**6:2** to separate…: or, to make themselves Nazarites] ^b^[**6:4** separation: or, Nazariteship] ^c^[**6:4** vine…: Heb. vine of the wine] ^d^[**6:7** consecration: Heb. separation] ^e^[**6:12** be lost: Heb. fall]
 
-@13 And this is the law of the Nazarite, when the days of his separation are fulfilled: he shall be brought unto the door of the tabernacle of the congregation: 
-@14 And he shall offer his offering unto the LORD, one he lamb of the first year without blemish for a burnt offering, and one ewe lamb of the first year without blemish for a sin offering, and one ram without blemish for peace offerings, 
-@15 And a basket of unleavened bread, cakes of fine flour mingled with oil, and wafers of unleavened bread anointed with oil, and their meat offering, and their drink offerings. 
-@16 And the priest shall bring them before the LORD, and shall offer his sin offering, and his burnt offering: 
-@17 And he shall offer the ram for a sacrifice of peace offerings unto the LORD, with the basket of unleavened bread: the priest shall offer also his meat offering, and his drink offering. 
-@18 And the Nazarite shall shave the head of his separation at the door of the tabernacle of the congregation, and shall take the hair of the head of his separation, and put it in the fire which is under the sacrifice of the peace offerings. 
-@19 And the priest shall take the sodden shoulder of the ram, and one unleavened cake out of the basket, and one unleavened wafer, and shall put them upon the hands of the Nazarite, after the hair of his separation is shaven: 
-@20 And the priest shall wave them for a wave offering before the LORD: this is holy for the priest, with the wave breast and heave shoulder: and after that the Nazarite may drink wine. 
-@21 This is the law of the Nazarite who hath vowed, and of his offering unto the LORD for his separation, beside that that his hand shall get: according to the vow which he vowed, so he must do after the law of his separation. 
+@13 And this is the_law_H8451 of_the_Nazarite_H5139, when_H3117 the_days_H3117 of_his_separation_H5145 [are fulfilled]{strong="H4390" x-morph="strongMorph: TH8800"}: [he shall be brought]{strong="H935" x-morph="strongMorph: TH8686"} unto_the_door_H6607 of_the_tabernacle_H168 of_the_congregation_H4150: 
+@14 [And he shall offer]{strong="H7126" x-morph="strongMorph: TH8689"} his_offering_H7133 unto the LORD, one_H259 he_lamb_H3532 of_the_first_H1121 year_H8141 without_blemish_H8549 for_a_burnt_offering_H5930, and_one_H259 ewe_lamb_H3535 of_the_first_H1323 year_H8141 without_blemish_H8549 for_a_sin_offering_H2403, and_one_H259 ram_H352 without_blemish_H8549 for_peace_offerings_H8002, 
+@15 And_a_basket_H5536 of_unleavened_bread_H4682, cakes_H2471 of_fine_flour_H5560 [mingled]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081, and_wafers_H7550 of_unleavened_bread_H4682 [anointed]{strong="H4886" x-morph="strongMorph: TH8803"} with_oil_H8081, and_their_meat_offering_H4503, and_their_drink_offerings_H5262. 
+@16 And_the_priest_H3548 [shall bring]{strong="H7126" x-morph="strongMorph: TH8689"} them before_H6440 the LORD, [and shall offer]{strong="H6213" x-morph="strongMorph: TH8804"} his_sin_offering_H2403, and_his_burnt_offering_H5930: 
+@17 [And he shall offer]{strong="H6213" x-morph="strongMorph: TH8799"} the_ram_H352 for a_sacrifice_H2077 of_peace_offerings_H8002 unto the LORD, with_the_basket_H5536 of_unleavened_bread_H4682: the_priest_H3548 [shall offer]{strong="H6213" x-morph="strongMorph: TH8804"} also_his_meat_offering_H4503, and_his_drink_offering_H5262. 
+@18 And_the_Nazarite_H5139 [shall shave]{strong="H1548" x-morph="strongMorph: TH8765"} the_head_H7218 of_his_separation_H5145 at the_door_H6607 of_the_tabernacle_H168 of_the_congregation_H4150, [and shall take]{strong="H3947" x-morph="strongMorph: TH8804"} the_hair_H8181 of_the_head_H7218 of_his_separation_H5145, [and put]{strong="H5414" x-morph="strongMorph: TH8804"} it in_the_fire_H784 which is under_the_sacrifice_H2077 of_the_peace_offerings_H8002. 
+@19 And_the_priest_H3548 [shall take]{strong="H3947" x-morph="strongMorph: TH8804"} the_sodden_H1311 shoulder_H2220 of_the_ram_H352, and_one_H259 unleavened_H4682 cake_H2471 out_of_the_basket_H5536, and_one_H259 unleavened_H4682 wafer_H7550, [and shall put]{strong="H5414" x-morph="strongMorph: TH8804"} them upon_the_hands_H3709 of_the_Nazarite_H5139, after_H310 the hair of his_separation_H5145 [is shaven]{strong="H1548" x-morph="strongMorph: TH8692"}: 
+@20 And_the_priest_H3548 [shall wave]{strong="H5130" x-morph="strongMorph: TH8689"} them for a_wave_offering_H8573 before_H6440 the LORD: this is holy_H6944 for_the_priest_H3548, with_the_wave_H8573 breast_H2373 and_heave_H8641 shoulder_H7785: and_after_H310 that_the_Nazarite_H5139 [may drink]{strong="H8354" x-morph="strongMorph: TH8799"} wine_H3196. 
+@21 This is the_law_H8451 of_the_Nazarite_H5139 [who hath vowed]{strong="H5087" x-morph="strongMorph: TH8799"}, and of his_offering_H7133 unto the LORD for_his_separation_H5145, beside that that_his_hand_H3027 [shall get]{strong="H5381" x-morph="strongMorph: TH8686"}: according_H6310 to_the_vow_H5088 [which he vowed]{strong="H5087" x-morph="strongMorph: TH8799"}, [so he must do]{strong="H6213" x-morph="strongMorph: TH8799"} after_the_law_H8451 of_his_separation_H5145. 
 
-@22 And the LORD spake unto Moses, saying, 
-@23 Speak unto Aaron and unto his sons, saying, On this wise ye shall bless the children of Israel, saying unto them, 
-@24 The LORD bless thee, and keep thee: 
-@25 The LORD make his face shine upon thee, and be gracious unto thee: 
-@26 The LORD lift up his countenance upon thee, and give thee peace. 
-@27 And they shall put my name upon the children of Israel; and I will bless them. 
+@22 And the LORD [spake ]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@23 [Speak]{strong="H1696" x-morph="strongMorph: TH8761"} unto_Aaron_H175 and_unto_his_sons_H1121, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, On_this_wise_H3541 [ye shall bless]{strong="H1288" x-morph="strongMorph: TH8762"} the_children_H1121 of_Israel_H3478, [saying]{strong="H559" x-morph="strongMorph: TH8800"} unto them, 
+@24 The LORD [bless]{strong="H1288" x-morph="strongMorph: TH8762"} [thee, and keep]{strong="H8104" x-morph="strongMorph: TH8799"} thee: 
+@25 The LORD make_his_face_H6440 [shine]{strong="H215" x-morph="strongMorph: TH8686"} [upon thee, and be gracious]{strong="H2603" x-morph="strongMorph: TH8799"} unto thee: 
+@26 The LORD [lift up]{strong="H5375" x-morph="strongMorph: TH8799"} his_countenance_H6440 [upon thee, and give]{strong="H7760" x-morph="strongMorph: TH8799"} thee_peace_H7965. 
+@27 [And they shall put]{strong="H7760" x-morph="strongMorph: TH8804"} my_name_H8034 upon_the_children_H1121 of_Israel_H3478; [and I will bless]{strong="H1288" x-morph="strongMorph: TH8762"} them. 
 
 # 7 
-@1 And it came to pass on the day that Moses had fully set up the tabernacle, and had anointed it, and sanctified it, and all the instruments thereof, both the altar and all the vessels thereof, and had anointed them, and sanctified them; 
-@2 That the princes of Israel, heads of the house of their fathers, who were the princes of the tribes, and were over them that were numbered, offered:^a^ 
-@3 And they brought their offering before the LORD, six covered wagons, and twelve oxen; a wagon for two of the princes, and for each one an ox: and they brought them before the tabernacle. 
-@4 And the LORD spake unto Moses, saying, 
-@5 Take it of them, that they may be to do the service of the tabernacle of the congregation; and thou shalt give them unto the Levites, to every man according to his service. 
-@6 And Moses took the wagons and the oxen, and gave them unto the Levites. 
-@7 Two wagons and four oxen he gave unto the sons of Gershon, according to their service: 
-@8 And four wagons and eight oxen he gave unto the sons of Merari, according unto their service, under the hand of Ithamar the son of Aaron the priest. 
-@9 But unto the sons of Kohath he gave none: because the service of the sanctuary belonging unto them was that they should bear upon their shoulders. 
+@1 And_it_came_to_pass_on_the_day_H3117 that_Moses_H4872 [had fully]{strong="H3615" x-morph="strongMorph: TH8763"} [set up]{strong="H6965" x-morph="strongMorph: TH8687"} the_tabernacle_H4908, [and had anointed]{strong="H4886" x-morph="strongMorph: TH8799"} [it, and sanctified]{strong="H6942" x-morph="strongMorph: TH8762"} [it, and all the instruments]{strong="H3627"} [thereof, both the altar]{strong="H4196"} and_all_the_vessels_H3627 [thereof, and had anointed]{strong="H4886" x-morph="strongMorph: TH8799"} [them, and sanctified]{strong="H6942" x-morph="strongMorph: TH8762"} them; 
+@2 That_the_princes_H5387 of_Israel_H3478, heads_H7218 of_the_house_H1004 of_their_fathers_H1, who were the_princes_H5387 of_the_tribes_H4294, [and were over]{strong="H5975" x-morph="strongMorph: TH8802"} [them that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"}, [offered]{strong="H7126" x-morph="strongMorph: TH8686"}:^a^ 
+@3 [And they brought]{strong="H935" x-morph="strongMorph: TH8686"} their_offering_H7133 before_H6440 the LORD, six_H8337 covered_H6632 wagons_H5699, and_twelve_H6240 oxen_H1241; a_wagon_H5699 for_two_H8147 of_the_princes_H5387, and_for_each_one_H259 an_ox_H7794: [and they brought]{strong="H7126" x-morph="strongMorph: TH8686"} them_before_H6440 the_tabernacle_H4908. 
+@4 And the LORD [spake]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@5 [Take]{strong="H3947" x-morph="strongMorph: TH8798"} it [of them, that they may be to do]{strong="H5647" x-morph="strongMorph: TH8800"} the_service_H5656 of_the_tabernacle_H168 of_the_congregation_H4150; [and thou shalt give]{strong="H5414" x-morph="strongMorph: TH8804"} them_unto_the_Levites_H3881, to_every_man_H376 according_H6310 to_his_service_H5656. 
+@6 And_Moses_H4872 [took]{strong="H3947" x-morph="strongMorph: TH8799"} the_wagons_H5699 and_the_oxen_H1241, [and gave]{strong="H5414" x-morph="strongMorph: TH8799"} them_unto_the_Levites_H3881. 
+@7 Two_H8147 wagons_H5699 and_four_H702 oxen_H1241 [he gave]{strong="H5414" x-morph="strongMorph: TH8804"} unto_the_sons_H1121 of_Gershon_H1648, according_H6310 to_their_service_H5656: 
+@8 And_four_H702 wagons_H5699 and_eight_H8083 oxen_H1241 [he gave]{strong="H5414" x-morph="strongMorph: TH8804"} unto_the_sons_H1121 of_Merari_H4847, according_H6310 unto_their_service_H5656, under_the_hand_H3027 of_Ithamar_H385 the_son_H1121 of_Aaron_H175 the_priest_H3548. 
+@9 But_unto_the_sons_H1121 of_Kohath_H6955 [he gave]{strong="H5414" x-morph="strongMorph: TH8804"} none_H3808: because_the_service_H5656 of_the_sanctuary_H6944 belonging unto them was that [they should bear]{strong="H5375" x-morph="strongMorph: TH8799"} upon_their_shoulders_H3802. 
 ^a^[**7:2** and were: Heb. who stood]
 
-@10 And the princes offered for dedicating of the altar in the day that it was anointed, even the princes offered their offering before the altar. 
-@11 And the LORD said unto Moses, They shall offer their offering, each prince on his day, for the dedicating of the altar. 
+@10 And_the_princes_H5387 [offered]{strong="H7126" x-morph="strongMorph: TH8686"} for_dedicating_H2598 of_the_altar_H4196 in_the_day_H3117 [that it was anointed]{strong="H4886" x-morph="strongMorph: TH8736"}, even_the_princes_H5387 [offered]{strong="H7126" x-morph="strongMorph: TH8686"} their_offering_H7133 before_H6440 the_altar_H4196. 
+@11 And the LORD [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872, [They shall offer]{strong="H7126" x-morph="strongMorph: TH8686"} their_offering_H7133, each_H259 prince_H5387 on_his_day_H3117, for_the_dedicating_H2598 of_the_altar_H4196. 
 
-@12 And he that offered his offering the first day was Nahshon the son of Amminadab, of the tribe of Judah: 
-@13 And his offering was one silver charger, the weight thereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them were full of fine flour mingled with oil for a meat offering: 
-@14 One spoon of ten shekels of gold, full of incense: 
-@15 One young bullock, one ram, one lamb of the first year, for a burnt offering: 
-@16 One kid of the goats for a sin offering: 
-@17 And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Nahshon the son of Amminadab. 
+@12 [And he that offered]{strong="H7126" x-morph="strongMorph: TH8688"} his_offering_H7133 the_first_H7223 day_H3117 was_Nahshon_H5177 the_son_H1121 of_Amminadab_H5992, of_the_tribe_H4294 of_Judah_H3063: 
+@13 And_his_offering_H7133 was one_H259 silver_H3701 charger_H7086, the_weight_H4948 thereof was an_hundred_H3967 and_thirty_H7970 shekels, one_H259 silver_H3701 bowl_H4219 of_seventy_H7657 shekels_H8255, after_the_shekel_H8255 of_the_sanctuary_H6944; both_H8147 of them were full_H4392 of_fine_flour_H5560 [mingled]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081 for_a_meat_offering_H4503: 
+@14 One_H259 spoon_H3709 of_ten_H6235 shekels of_gold_H2091, full_H4392 of_incense_H7004: 
+@15 One_H259 young_H1241 bullock_H6499, one_H259 ram_H352, one_H259 lamb_H3532 of_the_first_H1121 year_H8141, for_a_burnt_offering_H5930: 
+@16 One_H259 kid_H8163 of_the_goats_H5795 for_a_sin_offering_H2403: 
+@17 And_for_a_sacrifice_H2077 of_peace_offerings_H8002, two_H8147 oxen_H1241, five_H2568 rams_H352, five_H2568 he_goats_H6260, five_H2568 lambs_H3532 of_the_first_H1121 year_H8141: this was the_offering_H7133 of_Nahshon_H5177 the_son_H1121 of_Amminadab_H5992. 
 
-@18 On the second day Nethaneel the son of Zuar, prince of Issachar, did offer: 
-@19 He offered for his offering one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering: 
-@20 One spoon of gold of ten shekels, full of incense: 
-@21 One young bullock, one ram, one lamb of the first year, for a burnt offering: 
-@22 One kid of the goats for a sin offering: 
-@23 And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Nethaneel the son of Zuar. 
+@18 On_the_second_H8145 day_H3117 Nethaneel_H5417 the_son_H1121 of_Zuar_H6686, prince_H5387 of_Issachar_H3485, [did offer]{strong="H7126" x-morph="strongMorph: TH8689"}: 
+@19 [He offered]{strong="H7126" x-morph="strongMorph: TH8689"} for his_offering_H7133 one_H259 silver_H3701 charger_H7086, the_weight_H4948 whereof was an_hundred_H3967 and_thirty_H7970 shekels, one_H259 silver_H3701 bowl_H4219 of_seventy_H7657 shekels_H8255, after_the_shekel_H8255 of_the_sanctuary_H6944; both_H8147 of_them_full_H4392 of_fine_flour_H5560 [mingled ]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081 for_a_meat_offering_H4503: 
+@20 One_H259 spoon_H3709 of_gold_H2091 of_ten_H6235 shekels, full_H4392 of_incense_H7004: 
+@21 One_H259 young_H1241 bullock_H6499, one_H259 ram_H352, one_H259 lamb_H3532 of_the_first_H1121 year_H8141, for_a_burnt_offering_H5930: 
+@22 One_H259 kid_H8163 of_the_goats_H5795 for_a_sin_offering_H2403: 
+@23 And_for_a_sacrifice_H2077 of_peace_offerings_H8002, two_H8147 oxen_H1241, five_H2568 rams_H352, five_H2568 he_goats_H6260, five_H2568 lambs_H3532 of_the_first_H1121 year_H8141: this was the_offering_H7133 of_Nethaneel_H5417 the_son_H1121 of_Zuar_H6686. 
 
-@24 On the third day Eliab the son of Helon, prince of the children of Zebulun, did offer: 
-@25 His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering: 
-@26 One golden spoon of ten shekels, full of incense: 
-@27 One young bullock, one ram, one lamb of the first year, for a burnt offering: 
-@28 One kid of the goats for a sin offering: 
-@29 And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Eliab the son of Helon. 
+@24 On_the_third_H7992 day_H3117 Eliab_H446 the_son_H1121 of_Helon_H2497, prince_H5387 of_the_children_H1121 of_Zebulun_H2074, did offer: 
+@25 His_offering_H7133 was one_H259 silver_H3701 charger_H7086, the_weight_H4948 whereof was an_hundred_H3967 and_thirty_H7970 shekels, one_H259 silver_H3701 bowl_H4219 of_seventy_H7657 shekels_H8255, after_the_shekel_H8255 of_the_sanctuary_H6944; both_H8147 of_them_full_H4392 of_fine_flour_H5560 [mingled ]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081 for_a_meat_offering_H4503: 
+@26 One_H259 golden_H2091 spoon_H3709 of_ten_H6235 shekels, full_H4392 of_incense_H7004: 
+@27 One_H259 young_H1241 bullock_H6499, one_H259 ram_H352, one_H259 lamb_H3532 of_the_first_H1121 year_H8141, for_a_burnt_offering_H5930: 
+@28 One_H259 kid_H8163 of_the_goats_H5795 for_a_sin_offering_H2403: 
+@29 And_for_a_sacrifice_H2077 of_peace_offerings_H8002, two_H8147 oxen_H1241, five_H2568 rams_H352, five_H2568 he_goats_H6260, five_H2568 lambs_H3532 of_the_first_H1121 year_H8141: this was the_offering_H7133 of_Eliab_H446 the_son_H1121 of_Helon_H2497. 
 
-@30 On the fourth day Elizur the son of Shedeur, prince of the children of Reuben, did offer: 
-@31 His offering was one silver charger of the weight of an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering: 
-@32 One golden spoon of ten shekels, full of incense: 
-@33 One young bullock, one ram, one lamb of the first year, for a burnt offering: 
-@34 One kid of the goats for a sin offering: 
-@35 And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Elizur the son of Shedeur. 
+@30 On_the_fourth_H7243 day_H3117 Elizur_H468 the_son_H1121 of_Shedeur_H7707, prince_H5387 of_the_children_H1121 of_Reuben_H7205, did offer: 
+@31 His_offering_H7133 was one_H259 silver_H3701 charger_H7086 of_the_weight_H4948 of_an_hundred_H3967 and_thirty_H7970 shekels, one_H259 silver_H3701 bowl_H4219 of_seventy_H7657 shekels_H8255, after_the_shekel_H8255 of_the_sanctuary_H6944; both_H8147 of_them_full_H4392 of_fine_flour_H5560 [mingled ]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081 for_a_meat_offering_H4503: 
+@32 One_H259 golden_H2091 spoon_H3709 of_ten_H6235 shekels, full_H4392 of_incense_H7004: 
+@33 One_H259 young_H1241 bullock_H6499, one_H259 ram_H352, one_H259 lamb_H3532 of_the_first_H1121 year_H8141, for_a_burnt_offering_H5930: 
+@34 One_H259 kid_H8163 of_the_goats_H5795 for_a_sin_offering_H2403: 
+@35 And_for_a_sacrifice_H2077 of_peace_offerings_H8002, two_H8147 oxen_H1241, five_H2568 rams_H352, five_H2568 he_goats_H6260, five_H2568 lambs_H3532 of_the_first_H1121 year_H8141: this was the_offering_H7133 of_Elizur_H468 the_son_H1121 of_Shedeur_H7707. 
 
-@36 On the fifth day Shelumiel the son of Zurishaddai, prince of the children of Simeon, did offer: 
-@37 His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering: 
-@38 One golden spoon of ten shekels, full of incense: 
-@39 One young bullock, one ram, one lamb of the first year, for a burnt offering: 
-@40 One kid of the goats for a sin offering: 
-@41 And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Shelumiel the son of Zurishaddai. 
+@36 On_the_fifth_H2549 day_H3117 Shelumiel_H8017 the_son_H1121 of_Zurishaddai_H6701, prince_H5387 of_the_children_H1121 of_Simeon_H8095, did offer: 
+@37 His_offering_H7133 was one_H259 silver_H3701 charger_H7086, the_weight_H4948 whereof was an_hundred_H3967 and_thirty_H7970 shekels, one_H259 silver_H3701 bowl_H4219 of_seventy_H7657 shekels_H8255, after_the_shekel_H8255 of_the_sanctuary_H6944; both_H8147 of_them_full_H4392 of_fine_flour_H5560 [mingled ]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081 for_a_meat_offering_H4503: 
+@38 One_H259 golden_H2091 spoon_H3709 of_ten_H6235 shekels, full_H4392 of_incense_H7004: 
+@39 One_H259 young_H1241 bullock_H6499, one_H259 ram_H352, one_H259 lamb_H3532 of_the_first_H1121 year_H8141, for_a_burnt_offering_H5930: 
+@40 One_H259 kid_H8163 of_the_goats_H5795 for_a_sin_offering_H2403: 
+@41 And_for_a_sacrifice_H2077 of_peace_offerings_H8002, two_H8147 oxen_H1241, five_H2568 rams_H352, five_H2568 he_goats_H6260, five_H2568 lambs_H3532 of_the_first_H1121 year_H8141: this was the_offering_H7133 of_Shelumiel_H8017 the_son_H1121 of_Zurishaddai_H6701. 
 
-@42 On the sixth day Eliasaph the son of Deuel, prince of the children of Gad, offered: 
-@43 His offering was one silver charger of the weight of an hundred and thirty shekels, a silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering: 
-@44 One golden spoon of ten shekels, full of incense: 
-@45 One young bullock, one ram, one lamb of the first year, for a burnt offering: 
-@46 One kid of the goats for a sin offering: 
-@47 And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Eliasaph the son of Deuel. 
+@42 On_the_sixth_H8345 day_H3117 Eliasaph_H460 the_son_H1121 of_Deuel_H1845, prince_H5387 of_the_children_H1121 of_Gad_H1410, offered: 
+@43 His_offering_H7133 was one_H259 silver_H3701 charger_H7086 of_the_weight_H4948 of_an_hundred_H3967 and_thirty_H7970 shekels, a_silver_H3701 bowl_H4219 of_seventy_H7657 shekels_H8255, after_the_shekel_H8255 of_the_sanctuary_H6944; both_H8147 of_them_full_H4392 of_fine_flour_H5560 [mingled ]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081 for_a_meat_offering_H4503: 
+@44 One_H259 golden_H2091 spoon_H3709 of_ten_H6235 shekels, full_H4392 of_incense_H7004: 
+@45 One_H259 young_H1241 bullock_H6499, one_H259 ram_H352, one_H259 lamb_H3532 of_the_first_H1121 year_H8141, for_a_burnt_offering_H5930: 
+@46 One_H259 kid_H8163 of_the_goats_H5795 for_a_sin_offering_H2403: 
+@47 And_for_a_sacrifice_H2077 of_peace_offerings_H8002, two_H8147 oxen_H1241, five_H2568 rams_H352, five_H2568 he_goats_H6260, five_H2568 lambs_H3532 of_the_first_H1121 year_H8141: this was the_offering_H7133 of_Eliasaph_H460 the_son_H1121 of_Deuel_H1845. 
 
-@48 On the seventh day Elishama the son of Ammihud, prince of the children of Ephraim, offered: 
-@49 His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering: 
-@50 One golden spoon of ten shekels, full of incense: 
-@51 One young bullock, one ram, one lamb of the first year, for a burnt offering: 
-@52 One kid of the goats for a sin offering: 
-@53 And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Elishama the son of Ammihud. 
+@48 On_the_seventh_H7637 day_H3117 Elishama_H476 the_son_H1121 of_Ammihud_H5989, prince_H5387 of_the_children_H1121 of_Ephraim_H669, offered: 
+@49 His_offering_H7133 was one_H259 silver_H3701 charger_H7086, the_weight_H4948 whereof was an_hundred_H3967 and_thirty_H7970 shekels, one_H259 silver_H3701 bowl_H4219 of_seventy_H7657 shekels_H8255, after_the_shekel_H8255 of_the_sanctuary_H6944; both_H8147 of_them_full_H4392 of_fine_flour_H5560 [mingled ]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081 for_a_meat_offering_H4503: 
+@50 One_H259 golden_H2091 spoon_H3709 of_ten_H6235 shekels, full_H4392 of_incense_H7004: 
+@51 One_H259 young_H1241 bullock_H6499, one_H259 ram_H352, one_H259 lamb_H3532 of_the_first_H1121 year_H8141, for_a_burnt_offering_H5930: 
+@52 One_H259 kid_H8163 of_the_goats_H5795 for_a_sin_offering_H2403: 
+@53 And_for_a_sacrifice_H2077 of_peace_offerings_H8002, two_H8147 oxen_H1241, five_H2568 rams_H352, five_H2568 he_goats_H6260, five_H2568 lambs_H3532 of_the_first_H1121 year_H8141: this was the_offering_H7133 of_Elishama_H476 the_son_H1121 of_Ammihud_H5989. 
 
-@54 On the eighth day offered Gamaliel the son of Pedahzur, prince of the children of Manasseh: 
-@55 His offering was one silver charger of the weight of an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering: 
-@56 One golden spoon of ten shekels, full of incense: 
-@57 One young bullock, one ram, one lamb of the first year, for a burnt offering: 
-@58 One kid of the goats for a sin offering: 
-@59 And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Gamaliel the son of Pedahzur. 
+@54 On_the_eighth_H8066 day_H3117 offered Gamaliel_H1583 the_son_H1121 of_Pedahzur_H6301, prince_H5387 of_the_children_H1121 of_Manasseh_H4519: 
+@55 His_offering_H7133 was one_H259 silver_H3701 charger_H7086 of_the_weight_H4948 of_an_hundred_H3967 and_thirty_H7970 shekels, one_H259 silver_H3701 bowl_H4219 of_seventy_H7657 shekels_H8255, after_the_shekel_H8255 of_the_sanctuary_H6944; both_H8147 of_them_full_H4392 of_fine_flour_H5560 [mingled ]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081 for_a_meat_offering_H4503: 
+@56 One_H259 golden_H2091 spoon_H3709 of_ten_H6235 shekels, full_H4392 of_incense_H7004: 
+@57 One_H259 young_H1241 bullock_H6499, one_H259 ram_H352, one_H259 lamb_H3532 of_the_first_H1121 year_H8141, for_a_burnt_offering_H5930: 
+@58 One_H259 kid_H8163 of_the_goats_H5795 for_a_sin_offering_H2403: 
+@59 And_for_a_sacrifice_H2077 of_peace_offerings_H8002, two_H8147 oxen_H1241, five_H2568 rams_H352, five_H2568 he_goats_H6260, five_H2568 lambs_H3532 of_the_first_H1121 year_H8141: this was the_offering_H7133 of_Gamaliel_H1583 the_son_H1121 of_Pedahzur_H6301. 
 
-@60 On the ninth day Abidan the son of Gideoni, prince of the children of Benjamin, offered: 
-@61 His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering: 
-@62 One golden spoon of ten shekels, full of incense: 
-@63 One young bullock, one ram, one lamb of the first year, for a burnt offering: 
-@64 One kid of the goats for a sin offering: 
-@65 And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Abidan the son of Gideoni. 
+@60 On_the_ninth_H8671 day_H3117 Abidan_H27 the_son_H1121 of_Gideoni_H1441, prince_H5387 of_the_children_H1121 of_Benjamin_H1144, offered: 
+@61 His_offering_H7133 was one_H259 silver_H3701 charger_H7086, the_weight_H4948 whereof was an_hundred_H3967 and_thirty_H7970 shekels, one_H259 silver_H3701 bowl_H4219 of_seventy_H7657 shekels_H8255, after_the_shekel_H8255 of_the_sanctuary_H6944; both_H8147 of_them_full_H4392 of_fine_flour_H5560 [mingled ]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081 for_a_meat_offering_H4503: 
+@62 One_H259 golden_H2091 spoon_H3709 of_ten_H6235 shekels, full_H4392 of_incense_H7004: 
+@63 One_H259 young_H1241 bullock_H6499, one_H259 ram_H352, one_H259 lamb_H3532 of_the_first_H1121 year_H8141, for_a_burnt_offering_H5930: 
+@64 One_H259 kid_H8163 of_the_goats_H5795 for_a_sin_offering_H2403: 
+@65 And_for_a_sacrifice_H2077 of_peace_offerings_H8002, two_H8147 oxen_H1241, five_H2568 rams_H352, five_H2568 he_goats_H6260, five_H2568 lambs_H3532 of_the_first_H1121 year_H8141: this was the_offering_H7133 of_Abidan_H27 the_son_H1121 of_Gideoni_H1441. 
 
-@66 On the tenth day Ahiezer the son of Ammishaddai, prince of the children of Dan, offered: 
-@67 His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering: 
-@68 One golden spoon of ten shekels, full of incense: 
-@69 One young bullock, one ram, one lamb of the first year, for a burnt offering: 
-@70 One kid of the goats for a sin offering: 
-@71 And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Ahiezer the son of Ammishaddai. 
+@66 On_the_tenth_H6224 day_H3117 Ahiezer_H295 the_son_H1121 of_Ammishaddai_H5996, prince_H5387 of_the_children_H1121 of_Dan_H1835, offered: 
+@67 His_offering_H7133 was one_H259 silver_H3701 charger_H7086, the_weight_H4948 whereof was an_hundred_H3967 and_thirty_H7970 shekels, one_H259 silver_H3701 bowl_H4219 of_seventy_H7657 shekels_H8255, after_the_shekel_H8255 of_the_sanctuary_H6944; both_H8147 of_them_full_H4392 of_fine_flour_H5560 [mingled ]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081 for_a_meat_offering_H4503: 
+@68 One_H259 golden_H2091 spoon_H3709 of_ten_H6235 shekels, full_H4392 of_incense_H7004: 
+@69 One_H259 young_H1241 bullock_H6499, one_H259 ram_H352, one_H259 lamb_H3532 of_the_first_H1121 year_H8141, for_a_burnt_offering_H5930: 
+@70 One_H259 kid_H8163 of_the_goats_H5795 for_a_sin_offering_H2403: 
+@71 And_for_a_sacrifice_H2077 of_peace_offerings_H8002, two_H8147 oxen_H1241, five_H2568 rams_H352, five_H2568 he_goats_H6260, five_H2568 lambs_H3532 of_the_first_H1121 year_H8141: this was the_offering_H7133 of_Ahiezer_H295 the_son_H1121 of_Ammishaddai_H5996. 
 
-@72 On the eleventh day Pagiel the son of Ocran, prince of the children of Asher, offered: 
-@73 His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering: 
-@74 One golden spoon of ten shekels, full of incense: 
-@75 One young bullock, one ram, one lamb of the first year, for a burnt offering: 
-@76 One kid of the goats for a sin offering: 
-@77 And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Pagiel the son of Ocran. 
+@72 [On the eleventh]{strong="H6240 H6249"} day_H3117 Pagiel_H6295 the_son_H1121 of_Ocran_H5918, prince_H5387 of_the_children_H1121 of_Asher_H836, offered: 
+@73 His_offering_H7133 was one_H259 silver_H3701 charger_H7086, the_weight_H4948 whereof was an_hundred_H3967 and_thirty_H7970 shekels, one_H259 silver_H3701 bowl_H4219 of_seventy_H7657 shekels_H8255, after_the_shekel_H8255 of_the_sanctuary_H6944; both_H8147 of_them_full_H4392 of_fine_flour_H5560 [mingled ]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081 for_a_meat_offering_H4503: 
+@74 One_H259 golden_H2091 spoon_H3709 of_ten_H6235 shekels, full_H4392 of_incense_H7004: 
+@75 One_H259 young_H1241 bullock_H6499, one_H259 ram_H352, one_H259 lamb_H3532 of_the_first_H1121 year_H8141, for_a_burnt_offering_H5930: 
+@76 One_H259 kid_H8163 of_the_goats_H5795 for_a_sin_offering_H2403: 
+@77 And_for_a_sacrifice_H2077 of_peace_offerings_H8002, two_H8147 oxen_H1241, five_H2568 rams_H352, five_H2568 he_goats_H6260, five_H2568 lambs_H3532 of_the_first_H1121 year_H8141: this was the_offering_H7133 of_Pagiel_H6295 the_son_H1121 of_Ocran_H5918. 
 
-@78 On the twelfth day Ahira the son of Enan, prince of the children of Naphtali, offered: 
-@79 His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering: 
-@80 One golden spoon of ten shekels, full of incense: 
-@81 One young bullock, one ram, one lamb of the first year, for a burnt offering: 
-@82 One kid of the goats for a sin offering: 
-@83 And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Ahira the son of Enan. 
-@84 This was the dedication of the altar, in the day when it was anointed, by the princes of Israel: twelve chargers of silver, twelve silver bowls, twelve spoons of gold: 
-@85 Each charger of silver weighing an hundred and thirty shekels, each bowl seventy: all the silver vessels weighed two thousand and four hundred shekels, after the shekel of the sanctuary: 
-@86 The golden spoons were twelve, full of incense, weighing ten shekels apiece, after the shekel of the sanctuary: all the gold of the spoons was an hundred and twenty shekels. 
-@87 All the oxen for the burnt offering were twelve bullocks, the rams twelve, the lambs of the first year twelve, with their meat offering: and the kids of the goats for sin offering twelve. 
-@88 And all the oxen for the sacrifice of the peace offerings were twenty and four bullocks, the rams sixty, the he goats sixty, the lambs of the first year sixty. This was the dedication of the altar, after that it was anointed. 
-@89 And when Moses was gone into the tabernacle of the congregation to speak with him, then he heard the voice of one speaking unto him from off the mercy seat that was upon the ark of testimony, from between the two cherubims: and he spake unto him.^a^
+@78 [On the twelfth]{strong="H8147 H6240"} day_H3117 Ahira_H299 the_son_H1121 of_Enan_H5881, prince_H5387 of_the_children_H1121 of_Naphtali_H5321, offered: 
+@79 His_offering_H7133 was one_H259 silver_H3701 charger_H7086, the_weight_H4948 whereof was an_hundred_H3967 and_thirty_H7970 shekels, one_H259 silver_H3701 bowl_H4219 of_seventy_H7657 shekels_H8255, after_the_shekel_H8255 of_the_sanctuary_H6944; both_H8147 of_them_full_H4392 of_fine_flour_H5560 [mingled ]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081 for_a_meat_offering_H4503: 
+@80 One_H259 golden_H2091 spoon_H3709 of_ten_H6235 shekels, full_H4392 of_incense_H7004: 
+@81 One_H259 young_H1241 bullock_H6499, one_H259 ram_H352, one_H259 lamb_H3532 of_the_first_H1121 year_H8141, for_a_burnt_offering_H5930: 
+@82 One_H259 kid_H8163 of_the_goats_H5795 for_a_sin_offering_H2403: 
+@83 And_for_a_sacrifice_H2077 of_peace_offerings_H8002, two_H8147 oxen_H1241, five_H2568 rams_H352, five_H2568 he_goats_H6260, five_H2568 lambs_H3532 of_the_first_H1121 year_H8141: this was the_offering_H7133 of_Ahira_H299 the_son_H1121 of_Enan_H5881. 
+@84 This was the_dedication_H2598 of_the_altar_H4196, in_the_day_H3117 [when it was anointed]{strong="H4886" x-morph="strongMorph: TH8736"}, by_the_princes_H5387 of_Israel_H3478: [twelve]{strong="H8147 H6240"} chargers_H7086 of_silver_H3701, twelve_silver_H3701 bowls_H4219, [twelve]{strong="H8147 H6240"} spoons_H3709 of_gold_H2091: 
+@85 Each_H259 charger_H7086 of_silver_H3701 weighing an_hundred_H3967 and_thirty_H7970 shekels, each_H259 bowl_H4219 seventy_H7657: all_the_silver_H3701 vessels_H3627 weighed two_thousand_H505 and_four_H702 hundred_H3967 shekels, after_the_shekel_H8255 of_the_sanctuary_H6944: 
+@86 The_golden_H2091 spoons_H3709 were [twelve]{strong="H8147 H6240"}, full_H4392 of_incense_H7004, weighing ten_H6235 shekels apiece_H3709, after_the_shekel_H8255 of_the_sanctuary_H6944: all_the_gold_H2091 of_the_spoons_H3709 was an_hundred_H3967 and_twenty_H6242 shekels. 
+@87 All_the_oxen_H1241 for_the_burnt_offering_H5930 were [twelve]{strong="H6240 H8147"} bullocks_H6499, the_rams_H352 [twelve]{strong="H6240 H8147"}, the_lambs_H3532 of_the_first_H1121 year_H8141 [twelve]{strong="H6240 H8147"}, with_their_meat_offering_H4503: and_the_kids_H8163 of_the_goats_H5795 for_sin_offering_H2403 [twelve]{strong="H6240 H8147"}. 
+@88 And_all_the_oxen_H1241 for_the_sacrifice_H2077 of_the_peace_offerings_H8002 were twenty_H6242 and_four_H702 bullocks_H6499, the_rams_H352 sixty_H8346, the_he_goats_H6260 sixty_H8346, the_lambs_H3532 of_the_first_H1121 year_H8141 sixty_H8346. This was the_dedication_H2598 of_the_altar_H4196, after_H310 [that it was anointed]{strong="H4886" x-morph="strongMorph: TH8736"}. 
+@89 And_when_Moses_H4872 [was gone]{strong="H935" x-morph="strongMorph: TH8800"} into_the_tabernacle_H168 of_the_congregation_H4150 [to speak]{strong="H1696" x-morph="strongMorph: TH8762"} [with him, then he heard]{strong="H8085" x-morph="strongMorph: TH8799"} the_voice_H6963 [of one speaking]{strong="H1696" x-morph="strongMorph: TH8763"} unto_him_from_off_the_mercy_seat_H3727 that was upon_the_ark_H727 of_testimony_H5715, from_between_the_two_H8147 cherubims_H3742: [and he spake]{strong="H1696" x-morph="strongMorph: TH8693"} unto him.^a^
 ^a^[**7:89** with him: that is, with God] 
 
 # 8 
-@1 And the LORD spake unto Moses, saying, 
-@2 Speak unto Aaron, and say unto him, When thou lightest the lamps, the seven lamps shall give light over against the candlestick. 
-@3 And Aaron did so; he lighted the lamps thereof over against the candlestick, as the LORD commanded Moses. 
-@4 And this work of the candlestick was of beaten gold, unto the shaft thereof, unto the flowers thereof, was beaten work: according unto the pattern which the LORD had shewed Moses, so he made the candlestick. 
+@1 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@2 [Speak]{strong="H1696" x-morph="strongMorph: TH8761"} unto_Aaron_H175, [and say]{strong="H559" x-morph="strongMorph: TH8804"} [unto him, When thou lightest]{strong="H5927" x-morph="strongMorph: TH8687"} the_lamps_H5216, the_seven_H7651 lamps_H5216 [shall give light]{strong="H215" x-morph="strongMorph: TH8686"} [over against]{strong="H4136 H6440"} the_candlestick_H4501. 
+@3 And_Aaron_H175 [did]{strong="H6213" x-morph="strongMorph: TH8799"} [so; he lighted]{strong="H5927" x-morph="strongMorph: TH8689"} the_lamps_H5216 [thereof over against]{strong="H6440 H4136"} the_candlestick_H4501, as the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} Moses_H4872. 
+@4 And_this_work_H4639 of_the_candlestick_H4501 was of beaten_H4749 gold_H2091, unto_the_shaft_H3409 [thereof, unto the flowers]{strong="H6525"} thereof, was beaten_work_H4749: according_unto_the_pattern_H4758 which the LORD [had shewed]{strong="H7200" x-morph="strongMorph: TH8689"} Moses_H4872, [so he made]{strong="H6213" x-morph="strongMorph: TH8804"} the_candlestick_H4501. 
 
-@5 And the LORD spake unto Moses, saying, 
-@6 Take the Levites from among the children of Israel, and cleanse them. 
-@7 And thus shalt thou do unto them, to cleanse them: Sprinkle water of purifying upon them, and let them shave all their flesh, and let them wash their clothes, and so make themselves clean.^a^ 
-@8 Then let them take a young bullock with his meat offering, even fine flour mingled with oil, and another young bullock shalt thou take for a sin offering. 
-@9 And thou shalt bring the Levites before the tabernacle of the congregation: and thou shalt gather the whole assembly of the children of Israel together: 
-@10 And thou shalt bring the Levites before the LORD: and the children of Israel shall put their hands upon the Levites: 
-@11 And Aaron shall offer the Levites before the LORD for an offering of the children of Israel, that they may execute the service of the LORD.^b^ ^c^ ^d^ 
-@12 And the Levites shall lay their hands upon the heads of the bullocks: and thou shalt offer the one for a sin offering, and the other for a burnt offering, unto the LORD, to make an atonement for the Levites. 
-@13 And thou shalt set the Levites before Aaron, and before his sons, and offer them for an offering unto the LORD. 
-@14 Thus shalt thou separate the Levites from among the children of Israel: and the Levites shall be mine. 
-@15 And after that shall the Levites go in to do the service of the tabernacle of the congregation: and thou shalt cleanse them, and offer them for an offering. 
-@16 For they are wholly given unto me from among the children of Israel; instead of such as open every womb, even instead of the firstborn of all the children of Israel, have I taken them unto me. 
-@17 For all the firstborn of the children of Israel are mine, both man and beast: on the day that I smote every firstborn in the land of Egypt I sanctified them for myself. 
-@18 And I have taken the Levites for all the firstborn of the children of Israel. 
-@19 And I have given the Levites as a gift to Aaron and to his sons from among the children of Israel, to do the service of the children of Israel in the tabernacle of the congregation, and to make an atonement for the children of Israel: that there be no plague among the children of Israel, when the children of Israel come nigh unto the sanctuary.^e^ 
-@20 And Moses, and Aaron, and all the congregation of the children of Israel, did to the Levites according unto all that the LORD commanded Moses concerning the Levites, so did the children of Israel unto them. 
-@21 And the Levites were purified, and they washed their clothes; and Aaron offered them as an offering before the LORD; and Aaron made an atonement for them to cleanse them. 
-@22 And after that went the Levites in to do their service in the tabernacle of the congregation before Aaron, and before his sons: as the LORD had commanded Moses concerning the Levites, so did they unto them. 
+@5 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@6 [Take]{strong="H3947" x-morph="strongMorph: TH8798"} the_Levites_H3881 from_among_H8432 the_children_H1121 of_Israel_H3478, [and cleanse]{strong="H2891" x-morph="strongMorph: TH8765"} them. 
+@7 [And thus shalt thou do]{strong="H6213" x-morph="strongMorph: TH8799"} [unto them, to cleanse]{strong="H2891" x-morph="strongMorph: TH8763"} [them: Sprinkle]{strong="H5137" x-morph="strongMorph: TH8685"} water_H4325 of_purifying_H2403 [upon them, and let them shave]{strong="H5674 H8593" x-morph="strongMorph: TH8689"} all_their_flesh_H1320, [and let them wash]{strong="H3526" x-morph="strongMorph: TH8765"} their_clothes_H899, and so [make themselves clean]{strong="H2891" x-morph="strongMorph: TH8694"}.^a^ 
+@8 [Then let them take]{strong="H3947" x-morph="strongMorph: TH8804"} [a young]{strong="H1241 H1121"} bullock_H6499 with_his_meat_offering_H4503, even fine_flour_H5560 [mingled]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081, and_another_H8145 [young]{strong="H1241 H1121"} bullock_H6499 [shalt thou take]{strong="H3947" x-morph="strongMorph: TH8799"} for_a_sin_offering_H2403. 
+@9 [And thou shalt bring]{strong="H7126" x-morph="strongMorph: TH8689"} the_Levites_H3881 before_H6440 the_tabernacle_H168 of_the_congregation_H4150: and_thou_shalt_gather_H6950 the_whole_assembly_H5712 of_the_children_H1121 of_Israel_H3478 [together]{strong="H6950" x-morph="strongMorph: TH8689"}: 
+@10 [And thou shalt bring]{strong="H7126" x-morph="strongMorph: TH8689"} the_Levites_H3881 before_H6440 the LORD: and_the_children_H1121 of_Israel_H3478 [shall put]{strong="H5564" x-morph="strongMorph: TH8804"} their_hands_H3027 upon_the_Levites_H3881: 
+@11 And_Aaron_H175 [shall offer]{strong="H5130" x-morph="strongMorph: TH8689"} the_Levites_H3881 before_H6440 the LORD for an_offering_H8573 of_the_children_H1121 of_Israel_H3478, [that they may execute]{strong="H5647" x-morph="strongMorph: TH8800"} the_service_H5656 of the LORD.^b^ ^c^ ^d^ 
+@12 And_the_Levites_H3881 [shall lay]{strong="H5564" x-morph="strongMorph: TH8799"} their_hands_H3027 upon_the_heads_H7218 of_the_bullocks_H6499: [and thou shalt offer]{strong="H6213" x-morph="strongMorph: TH8798"} the_one_H259 for a_sin_offering_H2403, and_the_other_H259 for a_burnt_offering_H5930, unto the LORD, [to make an atonement]{strong="H3722" x-morph="strongMorph: TH8763"} for_the_Levites_H3881. 
+@13 [And thou shalt set]{strong="H5975" x-morph="strongMorph: TH8689"} the_Levites_H3881 before_H6440 Aaron_H175, and_before_H6440 his_sons_H1121, [and offer]{strong="H5130" x-morph="strongMorph: TH8689"} them for an_offering_H8573 unto the LORD. 
+@14 [Thus shalt thou separate]{strong="H914" x-morph="strongMorph: TH8689"} the_Levites_H3881 from_among_H8432 the_children_H1121 of_Israel_H3478: and_the_Levites_H3881 shall be mine. 
+@15 And_after_H310 that_shall_the_Levites_H3881 [go in]{strong="H935" x-morph="strongMorph: TH8799"} [to do the service]{strong="H5647" x-morph="strongMorph: TH8800"} of_the_tabernacle_H168 of_the_congregation_H4150: [and thou shalt cleanse]{strong="H2891" x-morph="strongMorph: TH8765"} [them, and offer]{strong="H5130" x-morph="strongMorph: TH8689"} them for an_offering_H8573. 
+@16 For they are [wholly given]{strong="H5414" x-morph="strongMorph: TH8803"} unto_me_from_among_H8432 the_children_H1121 of_Israel_H3478; instead_of_such_as_open_H6363 every_womb_H7358, even instead of the_firstborn_H1060 of_all_the_children_H1121 of_Israel_H3478, [have I taken]{strong="H3947" x-morph="strongMorph: TH8804"} them unto me. 
+@17 For_all_the_firstborn_H1060 of_the_children_H1121 of_Israel_H3478 are mine, both man_H120 and_beast_H929: on_the_day_H3117 [that I smote]{strong="H5221" x-morph="strongMorph: TH8687"} every_firstborn_H1060 in_the_land_H776 of_Egypt_H4714 [I sanctified]{strong="H6942" x-morph="strongMorph: TH8689"} them for myself. 
+@18 [And I have taken]{strong="H3947" x-morph="strongMorph: TH8799"} the_Levites_H3881 for_all_the_firstborn_H1060 of_the_children_H1121 of_Israel_H3478. 
+@19 [And I have given]{strong="H5414" x-morph="strongMorph: TH8799"} the_Levites_H3881 as [a gift]{strong="H5414" x-morph="strongMorph: TH8803"} to_Aaron_H175 and_to_his_sons_H1121 from_among_H8432 the_children_H1121 of_Israel_H3478, [to do]{strong="H5647" x-morph="strongMorph: TH8800"} the_service_H5656 of_the_children_H1121 of_Israel_H3478 in_the_tabernacle_H168 of_the_congregation_H4150, [and to make an atonement]{strong="H3722" x-morph="strongMorph: TH8763"} for_the_children_H1121 of_Israel_H3478: that_there_be_no_plague_H5063 among_the_children_H1121 of_Israel_H3478, when_the_children_H1121 of_Israel_H3478 [come nigh]{strong="H5066" x-morph="strongMorph: TH8800"} unto_the_sanctuary_H6944.^e^ 
+@20 And_Moses_H4872, and_Aaron_H175, and_all_the_congregation_H5712 of_the_children_H1121 of_Israel_H3478, [did]{strong="H6213" x-morph="strongMorph: TH8799"} to_the_Levites_H3881 according unto all that the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} Moses_H4872 concerning_the_Levites_H3881, [so did]{strong="H6213" x-morph="strongMorph: TH8804"} the_children_H1121 of_Israel_H3478 unto them. 
+@21 And_the_Levites_H3881 [were purified]{strong="H2398" x-morph="strongMorph: TH8691"}, [and they washed]{strong="H3526" x-morph="strongMorph: TH8762"} their_clothes_H899; and_Aaron_H175 [offered]{strong="H5130" x-morph="strongMorph: TH8686"} them as an_offering_H8573 before_H6440 the LORD; and_Aaron_H175 [made an atonement]{strong="H3722" x-morph="strongMorph: TH8762"} [for them to cleanse]{strong="H2891" x-morph="strongMorph: TH8763"} them. 
+@22 And_after_H310 [that went]{strong="H935" x-morph="strongMorph: TH8804"} the_Levites_H3881 [in to do]{strong="H5647" x-morph="strongMorph: TH8800"} their_service_H5656 in_the_tabernacle_H168 of_the_congregation_H4150 before_H6440 Aaron_H175, and_before_H6440 his_sons_H1121: as the LORD [had commanded]{strong="H6680" x-morph="strongMorph: TH8765"} Moses_H4872 concerning_the_Levites_H3881, [so did]{strong="H6213" x-morph="strongMorph: TH8804"} they unto them. 
 ^a^[**8:7** let them shave…: Heb. let them cause a razor to pass over, etc] ^b^[**8:11** offer: Heb. wave] ^c^[**8:11** offering: Heb. wave offering] ^d^[**8:11** they…: Heb. they may be to execute, etc] ^e^[**8:19** a gift: Heb. given]
 
-@23 And the LORD spake unto Moses, saying, 
-@24 This is it that belongeth unto the Levites: from twenty and five years old and upward they shall go in to wait upon the service of the tabernacle of the congregation:^a^ 
-@25 And from the age of fifty years they shall cease waiting upon the service thereof, and shall serve no more:^b^ 
-@26 But shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service. Thus shalt thou do unto the Levites touching their charge.
+@23 And the LORD [spake ]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@24 This is it that belongeth unto_the_Levites_H3881: from_twenty_H6242 and_five_H2568 years_H8141 old_H1121 and_upward_H4605 [they shall go in]{strong="H935" x-morph="strongMorph: TH8799"} [to wait]{strong="H6635 H6633" x-morph="strongMorph: TH8800"} upon_the_service_H5656 of_the_tabernacle_H168 of_the_congregation_H4150:^a^ 
+@25 And_from_the_age_H1121 of_fifty_H2572 years_H8141 [they shall cease]{strong="H7725" x-morph="strongMorph: TH8799"} waiting_H6635 upon_the_service_H5656 thereof, [and shall serve]{strong="H5647" x-morph="strongMorph: TH8799"} no more:^b^ 
+@26 [But shall minister]{strong="H8334" x-morph="strongMorph: TH8765"} with_their_brethren_H251 in_the_tabernacle_H168 of_the_congregation_H4150, [to keep]{strong="H8104" x-morph="strongMorph: TH8800"} the_charge_H4931, [and shall do]{strong="H5647" x-morph="strongMorph: TH8799"} no_service_H5656. [Thus shalt thou do]{strong="H6213" x-morph="strongMorph: TH8799"} unto_the_Levites_H3881 touching_their_charge_H4931.
 ^a^[**8:24** to…: Heb. to war the warfare of, etc] ^b^[**8:25** cease…: Heb. return from the warfare of the service] 
 
 # 9 
-@1 And the LORD spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying, 
-@2 Let the children of Israel also keep the passover at his appointed season. 
-@3 In the fourteenth day of this month, at even, ye shall keep it in his appointed season: according to all the rites of it, and according to all the ceremonies thereof, shall ye keep it.^a^ 
-@4 And Moses spake unto the children of Israel, that they should keep the passover. 
-@5 And they kept the passover on the fourteenth day of the first month at even in the wilderness of Sinai: according to all that the LORD commanded Moses, so did the children of Israel. 
+@1 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872 in_the_wilderness_H4057 of_Sinai_H5514, in_the_first_H7223 month_H2320 of_the_second_H8145 year_H8141 [after they were come out]{strong="H3318" x-morph="strongMorph: TH8800"} of_the_land_H776 of_Egypt_H4714, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@2 Let_the_children_H1121 of_Israel_H3478 [also keep]{strong="H6213" x-morph="strongMorph: TH8799"} the_passover_H6453 at_his_appointed_season_H4150. 
+@3 [In the fourteenth]{strong="H6240 H702"} day_H3117 of_this_month_H2320, at_even_H6153, [ye shall keep]{strong="H6213" x-morph="strongMorph: TH8799"} it_in_his_appointed_season_H4150: according_to_all_the_rites_H2708 [of it, and according to all the ceremonies]{strong="H4941"} [thereof, shall ye keep]{strong="H6213" x-morph="strongMorph: TH8799"} it.^a^ 
+@4 And_Moses_H4872 [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_the_children_H1121 of_Israel_H3478, [that they should keep]{strong="H6213" x-morph="strongMorph: TH8800"} the_passover_H6453. 
+@5 [And they kept]{strong="H6213" x-morph="strongMorph: TH8799"} the_passover_H6453 [on the fourteenth]{strong="H6240 H702"} day_H3117 of_the_first_H7223 month_H2320 at_even_H6153 in_the_wilderness_H4057 of_Sinai_H5514: according to all that the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} Moses_H4872, [so did]{strong="H6213" x-morph="strongMorph: TH8804"} the_children_H1121 of_Israel_H3478. 
 ^a^[**9:3** at even: Heb. between the two evenings]
 
-@6 And there were certain men, who were defiled by the dead body of a man, that they could not keep the passover on that day: and they came before Moses and before Aaron on that day: 
-@7 And those men said unto him, We are defiled by the dead body of a man: wherefore are we kept back, that we may not offer an offering of the LORD in his appointed season among the children of Israel? 
-@8 And Moses said unto them, Stand still, and I will hear what the LORD will command concerning you. 
+@6 And_there_were_certain_men_H582, who_were_defiled_H2931 by_the_dead_body_H5315 of_a_man_H120, [that they could]{strong="H3201" x-morph="strongMorph: TH8804"} [not keep]{strong="H6213" x-morph="strongMorph: TH8800"} the_passover_H6453 on_that_day_H3117: [and they came]{strong="H7126" x-morph="strongMorph: TH8799"} before_H6440 Moses_H4872 and_before_H6440 Aaron_H175 on_that_day_H3117: 
+@7 And_those_H1992 men_H582 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto him, We are defiled_H2931 by_the_dead_body_H5315 of_a_man_H120: [wherefore are we kept back]{strong="H1639" x-morph="strongMorph: TH8735"}, [that we may not offer]{strong="H7126" x-morph="strongMorph: TH8687"} an_offering_H7133 of the LORD in_his_appointed_season_H4150 among_H8432 the_children_H1121 of_Israel_H3478? 
+@8 And_Moses_H4872 [said]{strong="H559" x-morph="strongMorph: TH8799"} [unto them, Stand still]{strong="H5975" x-morph="strongMorph: TH8798"}, [and I will hear]{strong="H8085" x-morph="strongMorph: TH8799"} what the LORD [will command]{strong="H6680" x-morph="strongMorph: TH8762"} concerning you. 
 
-@9 And the LORD spake unto Moses, saying, 
-@10 Speak unto the children of Israel, saying, If any man of you or of your posterity shall be unclean by reason of a dead body, or be in a journey afar off, yet he shall keep the passover unto the LORD. 
-@11 The fourteenth day of the second month at even they shall keep it, and eat it with unleavened bread and bitter herbs. 
-@12 They shall leave none of it unto the morning, nor break any bone of it: according to all the ordinances of the passover they shall keep it. 
-@13 But the man that is clean, and is not in a journey, and forbeareth to keep the passover, even the same soul shall be cut off from among his people: because he brought not the offering of the LORD in his appointed season, that man shall bear his sin. 
-@14 And if a stranger shall sojourn among you, and will keep the passover unto the LORD; according to the ordinance of the passover, and according to the manner thereof, so shall he do: ye shall have one ordinance, both for the stranger, and for him that was born in the land. 
+@9 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@10 [Speak]{strong="H1696" x-morph="strongMorph: TH8761"} unto_the_children_H1121 of_Israel_H3478, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, If_any_H376 man_H376 of_you_or_of_your_posterity_H1755 shall_be_unclean_H2931 by_reason_of_a_dead_body_H5315, or be in_a_journey_H1870 afar_off_H7350, [yet he shall keep]{strong="H6213" x-morph="strongMorph: TH8804"} the_passover_H6453 unto the LORD. 
+@11 [The fourteenth]{strong="H6240 H702"} day_H3117 of_the_second_H8145 month_H2320 at_even_H6153 [they shall keep]{strong="H6213" x-morph="strongMorph: TH8799"} it, and [eat]{strong="H398" x-morph="strongMorph: TH8799"} it_with_unleavened_bread_H4682 and_bitter_H4844 herbs. 
+@12 [They shall leave]{strong="H7604" x-morph="strongMorph: TH8686"} none_of_it_unto_the_morning_H1242, [nor break]{strong="H7665" x-morph="strongMorph: TH8799"} any_bone_H6106 [of it: according to all the ordinances]{strong="H2708"} of_the_passover_H6453 [they shall keep]{strong="H6213" x-morph="strongMorph: TH8799"} it. 
+@13 But_the_man_H376 that is clean_H2889, and_is_not_in_a_journey_H1870, [and forbeareth]{strong="H2308" x-morph="strongMorph: TH8804"} [to keep]{strong="H6213" x-morph="strongMorph: TH8800"} the_passover_H6453, even_the_same_soul_H5315 [shall be cut off]{strong="H3772" x-morph="strongMorph: TH8738"} from_among_his_people_H5971: [because he brought]{strong="H7126" x-morph="strongMorph: TH8689"} not_the_offering_H7133 of the LORD in_his_appointed_season_H4150, that_man_H376 [shall bear]{strong="H5375" x-morph="strongMorph: TH8799"} his_sin_H2399. 
+@14 And_if_a_stranger_H1616 [shall sojourn]{strong="H1481" x-morph="strongMorph: TH8799"} [among you, and will keep]{strong="H6213" x-morph="strongMorph: TH8804"} the_passover_H6453 unto the LORD; according_to_the_ordinance_H2708 of_the_passover_H6453, and_according_to_the_manner_H4941 [thereof, so shall he do]{strong="H6213" x-morph="strongMorph: TH8799"}: ye_shall_have_one_H259 ordinance_H2708, both_for_the_stranger_H1616, and_for_him_that_was_born_H249 in_the_land_H776. 
 
-@15 And on the day that the tabernacle was reared up the cloud covered the tabernacle, namely, the tent of the testimony: and at even there was upon the tabernacle as it were the appearance of fire, until the morning. 
-@16 So it was alway: the cloud covered it by day, and the appearance of fire by night. 
-@17 And when the cloud was taken up from the tabernacle, then after that the children of Israel journeyed: and in the place where the cloud abode, there the children of Israel pitched their tents. 
-@18 At the commandment of the LORD the children of Israel journeyed, and at the commandment of the LORD they pitched: as long as the cloud abode upon the tabernacle they rested in their tents. 
-@19 And when the cloud tarried long upon the tabernacle many days, then the children of Israel kept the charge of the LORD, and journeyed not.^a^ 
-@20 And so it was, when the cloud was a few days upon the tabernacle; according to the commandment of the LORD they abode in their tents, and according to the commandment of the LORD they journeyed. 
-@21 And so it was, when the cloud abode from even unto the morning, and that the cloud was taken up in the morning, then they journeyed: whether it was by day or by night that the cloud was taken up, they journeyed.^b^ 
-@22 Or whether it were two days, or a month, or a year, that the cloud tarried upon the tabernacle, remaining thereon, the children of Israel abode in their tents, and journeyed not: but when it was taken up, they journeyed. 
-@23 At the commandment of the LORD they rested in the tents, and at the commandment of the LORD they journeyed: they kept the charge of the LORD, at the commandment of the LORD by the hand of Moses.
+@15 And_on_the_day_H3117 that_the_tabernacle_H4908 [was reared up]{strong="H6965" x-morph="strongMorph: TH8687"} the_cloud_H6051 [covered]{strong="H3680" x-morph="strongMorph: TH8765"} the_tabernacle_H4908, namely, the_tent_H168 of_the_testimony_H5715: and_at_even_H6153 there_was_upon_the_tabernacle_H4908 as_it_were_the_appearance_H4758 of_fire_H784, until_the_morning_H1242. 
+@16 So_it_was_alway_H8548: the_cloud_H6051 [covered]{strong="H3680" x-morph="strongMorph: TH8762"} it by day, and_the_appearance_H4758 of_fire_H784 by_night_H3915. 
+@17 And_when_H6310 the_cloud_H6051 [was taken up]{strong="H5927" x-morph="strongMorph: TH8736"} from_the_tabernacle_H168, then_after_H310 that_the_children_H1121 of_Israel_H3478 [journeyed]{strong="H5265" x-morph="strongMorph: TH8799"}: and_in_the_place_H4725 where_the_cloud_H6051 [abode]{strong="H7931" x-morph="strongMorph: TH8799"}, there_the_children_H1121 of_Israel_H3478 [pitched their tents]{strong="H2583" x-morph="strongMorph: TH8799"}. 
+@18 At_the_commandment_H6310 of the LORD the_children_H1121 of_Israel_H3478 [journeyed]{strong="H5265" x-morph="strongMorph: TH8799"}, and_at_the_commandment_H6310 of the LORD [they pitched]{strong="H2583" x-morph="strongMorph: TH8799"}: as_long_as_H3117 the_cloud_H6051 [abode]{strong="H7931" x-morph="strongMorph: TH8799"} upon_the_tabernacle_H4908 [they rested]{strong="H2583" x-morph="strongMorph: TH8799"} in their tents. 
+@19 And_when_the_cloud_H6051 [tarried long]{strong="H748" x-morph="strongMorph: TH8687"} upon_the_tabernacle_H4908 many_H7227 days_H3117, then_the_children_H1121 of_Israel_H3478 [kept]{strong="H8104" x-morph="strongMorph: TH8804"} the_charge_H4931 of the LORD, [and journeyed]{strong="H5265" x-morph="strongMorph: TH8799"} not.^a^ 
+@20 And so it_was_H3426, when_the_cloud_H6051 was_a_few_H4557 days_H3117 upon_the_tabernacle_H4908; according_to_the_commandment_H6310 of the LORD [they abode]{strong="H2583" x-morph="strongMorph: TH8799"} [in their tents, and according to the commandment]{strong="H6310"} of the LORD [they journeyed]{strong="H5265" x-morph="strongMorph: TH8799"}. 
+@21 And so it_was_H3426, when_the_cloud_H6051 abode_from_even_H6153 unto_the_morning_H1242, and that the_cloud_H6051 [was taken up]{strong="H5927" x-morph="strongMorph: TH8738"} in_the_morning_H1242, [then they journeyed]{strong="H5265" x-morph="strongMorph: TH8804"}: whether it was by_day_H3119 or_by_night_H3915 that_the_cloud_H6051 [was taken up]{strong="H5927" x-morph="strongMorph: TH8738"}, [they journeyed]{strong="H5265" x-morph="strongMorph: TH8804"}.^b^ 
+@22 Or whether it were two_days_H3117, or_a_month_H2320, or_a_year_H3117, that_the_cloud_H6051 [tarried ]{strong="H748" x-morph="strongMorph: TH8687"} upon_the_tabernacle_H4908, [remaining]{strong="H7931" x-morph="strongMorph: TH8800"} [thereon, the children]{strong="H1121"} of_Israel_H3478 [abode]{strong="H2583" x-morph="strongMorph: TH8799"} [in their tents, and journeyed]{strong="H5265" x-morph="strongMorph: TH8799"} [not: but when it was taken up]{strong="H5927" x-morph="strongMorph: TH8736"}, [they journeyed]{strong="H5265" x-morph="strongMorph: TH8799"}. 
+@23 At_the_commandment_H6310 of the LORD [they rested]{strong="H2583" x-morph="strongMorph: TH8799"} [in the tents, and at the commandment]{strong="H6310"} of the LORD [they journeyed]{strong="H5265" x-morph="strongMorph: TH8799"}: [they kept]{strong="H8104" x-morph="strongMorph: TH8804"} the_charge_H4931 of the LORD, at_the_commandment_H6310 of the LORD by_the_hand_H3027 of_Moses_H4872.
 ^a^[**9:19** tarried…: Heb. prolonged] ^b^[**9:21** abode: Heb. was] 
 
 # 10 
-@1 And the LORD spake unto Moses, saying, 
-@2 Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly, and for the journeying of the camps. 
-@3 And when they shall blow with them, all the assembly shall assemble themselves to thee at the door of the tabernacle of the congregation. 
-@4 And if they blow but with one trumpet, then the princes, which are heads of the thousands of Israel, shall gather themselves unto thee. 
-@5 When ye blow an alarm, then the camps that lie on the east parts shall go forward. 
-@6 When ye blow an alarm the second time, then the camps that lie on the south side shall take their journey: they shall blow an alarm for their journeys. 
-@7 But when the congregation is to be gathered together, ye shall blow, but ye shall not sound an alarm. 
-@8 And the sons of Aaron, the priests, shall blow with the trumpets; and they shall be to you for an ordinance for ever throughout your generations. 
-@9 And if ye go to war in your land against the enemy that oppresseth you, then ye shall blow an alarm with the trumpets; and ye shall be remembered before the LORD your God, and ye shall be saved from your enemies. 
-@10 Also in the day of your gladness, and in your solemn days, and in the beginnings of your months, ye shall blow with the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; that they may be to you for a memorial before your God: I am the LORD your God. 
+@1 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@2 [Make]{strong="H6213" x-morph="strongMorph: TH8798"} thee_two_H8147 trumpets_H2689 of_silver_H3701; of_a_whole_piece_H4749 [shalt thou make]{strong="H6213" x-morph="strongMorph: TH8799"} [them: that thou mayest use]{strong="H1961" x-morph="strongMorph: TH8804"} them_for_the_calling_H4744 of_the_assembly_H5712, and_for_the_journeying_H4550 of_the_camps_H4264. 
+@3 [And when they shall blow]{strong="H8628" x-morph="strongMorph: TH8804"} with_them_H2004, all_the_assembly_H5712 [shall assemble]{strong="H3259" x-morph="strongMorph: TH8738"} themselves_to_thee_at_the_door_H6607 of_the_tabernacle_H168 of_the_congregation_H4150. 
+@4 [And if they blow]{strong="H8628" x-morph="strongMorph: TH8799"} but with_one_H259 trumpet, then_the_princes_H5387, which are heads_H7218 of_the_thousands_H505 of_Israel_H3478, [shall gather]{strong="H3259" x-morph="strongMorph: TH8738"} themselves unto thee. 
+@5 [When ye blow]{strong="H8628" x-morph="strongMorph: TH8804"} an_alarm_H8643, then_the_camps_H4264 [that lie]{strong="H2583" x-morph="strongMorph: TH8802"} on_the_east_parts_H6924 [shall go forward]{strong="H5265" x-morph="strongMorph: TH8804"}. 
+@6 [When ye blow]{strong="H8628" x-morph="strongMorph: TH8804"} an_alarm_H8643 the_second_time_H8145, then_the_camps_H4264 [that lie]{strong="H2583" x-morph="strongMorph: TH8802"} on_the_south_side_H8486 [shall take their journey]{strong="H5265" x-morph="strongMorph: TH8804"}: [they shall blow]{strong="H8628" x-morph="strongMorph: TH8799"} an_alarm_H8643 for_their_journeys_H4550. 
+@7 But_when_the_congregation_H6951 [is to be gathered together]{strong="H6950" x-morph="strongMorph: TH8687"}, [ye shall blow]{strong="H8628" x-morph="strongMorph: TH8799"}, [but ye shall not sound an alarm]{strong="H7321" x-morph="strongMorph: TH8686"}. 
+@8 And_the_sons_H1121 of_Aaron_H175, the_priests_H3548, [shall blow]{strong="H8628" x-morph="strongMorph: TH8799"} with_the_trumpets_H2689; and_they_shall_be_to_you_for_an_ordinance_H2708 for_ever_H5769 throughout_your_generations_H1755. 
+@9 [And if ye go]{strong="H935" x-morph="strongMorph: TH8799"} to_war_H4421 in_your_land_H776 against_H6862 [the enemy that oppresseth]{strong="H6887" x-morph="strongMorph: TH8802"} [you, then ye shall blow an alarm]{strong="H7321" x-morph="strongMorph: TH8689"} with_the_trumpets_H2689; [and ye shall be remembered]{strong="H2142" x-morph="strongMorph: TH8738"} before_H6440 the LORD your_God_H430, [and ye shall be saved]{strong="H3467" x-morph="strongMorph: TH8738"} [from your enemies]{strong="H341" x-morph="strongMorph: TH8802"}. 
+@10 Also_in_the_day_H3117 of_your_gladness_H8057, and_in_your_solemn_days_H4150, and_in_the_beginnings_H7218 of_your_months_H2320, [ye shall blow]{strong="H8628" x-morph="strongMorph: TH8804"} with_the_trumpets_H2689 over_your_burnt_offerings_H5930, and_over_the_sacrifices_H2077 of_your_peace_offerings_H8002; that_they_may_be_to_you_for_a_memorial_H2146 before_H6440 your_God_H430: I am the LORD your_God_H430. 
 
-@11 And it came to pass on the twentieth day of the second month, in the second year, that the cloud was taken up from off the tabernacle of the testimony. 
-@12 And the children of Israel took their journeys out of the wilderness of Sinai; and the cloud rested in the wilderness of Paran. 
-@13 And they first took their journey according to the commandment of the LORD by the hand of Moses. 
+@11 And_it_came_to_pass_on_the_twentieth_H6242 day of_the_second_H8145 month_H2320, in_the_second_H8145 year_H8141, that_the_cloud_H6051 [was taken up]{strong="H5927" x-morph="strongMorph: TH8738"} from_off_the_tabernacle_H4908 of_the_testimony_H5715. 
+@12 And_the_children_H1121 of_Israel_H3478 [took]{strong="H5265" x-morph="strongMorph: TH8799"} their_journeys_H4550 out_of_the_wilderness_H4057 of_Sinai_H5514; and_the_cloud_H6051 [rested]{strong="H7931" x-morph="strongMorph: TH8799"} in_the_wilderness_H4057 of_Paran_H6290. 
+@13 And_they_first_H7223 [took their journey]{strong="H5265" x-morph="strongMorph: TH8799"} according_to_the_commandment_H6310 of the LORD by_the_hand_H3027 of_Moses_H4872. 
 
-@14 In the first place went the standard of the camp of the children of Judah according to their armies: and over his host was Nahshon the son of Amminadab. 
-@15 And over the host of the tribe of the children of Issachar was Nethaneel the son of Zuar. 
-@16 And over the host of the tribe of the children of Zebulun was Eliab the son of Helon. 
-@17 And the tabernacle was taken down; and the sons of Gershon and the sons of Merari set forward, bearing the tabernacle. 
+@14 In_the_first_H7223 place [went]{strong="H5265" x-morph="strongMorph: TH8799"} the_standard_H1714 of_the_camp_H4264 of_the_children_H1121 of_Judah_H3063 according_to_their_armies_H6635: and over his host was Nahshon_H5177 the_son_H1121 of_Amminadab_H5992. 
+@15 And_over_the_host_H6635 of_the_tribe_H4294 of_the_children_H1121 of_Issachar_H3485 was Nethaneel_H5417 the_son_H1121 of_Zuar_H6686. 
+@16 And_over_the_host_H6635 of_the_tribe_H4294 of_the_children_H1121 of_Zebulun_H2074 was Eliab_H446 the_son_H1121 of_Helon_H2497. 
+@17 And_the_tabernacle_H4908 [was taken down]{strong="H3381" x-morph="strongMorph: TH8717"}; and_the_sons_H1121 of_Gershon_H1648 and_the_sons_H1121 of_Merari_H4847 [set forward]{strong="H5265" x-morph="strongMorph: TH8804"}, [bearing]{strong="H5375" x-morph="strongMorph: TH8802"} the_tabernacle_H4908. 
 
-@18 And the standard of the camp of Reuben set forward according to their armies: and over his host was Elizur the son of Shedeur. 
-@19 And over the host of the tribe of the children of Simeon was Shelumiel the son of Zurishaddai. 
-@20 And over the host of the tribe of the children of Gad was Eliasaph the son of Deuel. 
-@21 And the Kohathites set forward, bearing the sanctuary: and the other did set up the tabernacle against they came.^a^ 
+@18 And_the_standard_H1714 of_the_camp_H4264 of_Reuben_H7205 [set forward]{strong="H5265" x-morph="strongMorph: TH8804"} according_to_their_armies_H6635: and_over_his_host_H6635 was Elizur_H468 the_son_H1121 of_Shedeur_H7707. 
+@19 And_over_the_host_H6635 of_the_tribe_H4294 of_the_children_H1121 of_Simeon_H8095 was Shelumiel_H8017 the_son_H1121 of_Zurishaddai_H6701. 
+@20 And_over_the_host_H6635 of_the_tribe_H4294 of_the_children_H1121 of_Gad_H1410 was Eliasaph_H460 the_son_H1121 of_Deuel_H1845. 
+@21 And_the_Kohathites_H6956 [set forward]{strong="H5265" x-morph="strongMorph: TH8804"}, [bearing]{strong="H5375" x-morph="strongMorph: TH8802"} the_sanctuary_H4720: and the other [did set up]{strong="H6965" x-morph="strongMorph: TH8689"} the_tabernacle_H4908 [against they came]{strong="H935" x-morph="strongMorph: TH8800"}.^a^ 
 ^a^[**10:21** the other: that is, the Gershonites and the Merarites]
 
-@22 And the standard of the camp of the children of Ephraim set forward according to their armies: and over his host was Elishama the son of Ammihud. 
-@23 And over the host of the tribe of the children of Manasseh was Gamaliel the son of Pedahzur. 
-@24 And over the host of the tribe of the children of Benjamin was Abidan the son of Gideoni. 
+@22 And_the_standard_H1714 of_the_camp_H4264 of_the_children_H1121 of_Ephraim_H669 [set forward]{strong="H5265" x-morph="strongMorph: TH8804"} according_to_their_armies_H6635: and_over_his_host_H6635 was Elishama_H476 the_son_H1121 of_Ammihud_H5989. 
+@23 And_over_the_host_H6635 of_the_tribe_H4294 of_the_children_H1121 of_Manasseh_H4519 was Gamaliel_H1583 the_son_H1121 of_Pedahzur_H6301. 
+@24 And_over_the_host_H6635 of_the_tribe_H4294 of_the_children_H1121 of_Benjamin_H1144 was Abidan_H27 the_son_H1121 of_Gideoni_H1441. 
 
-@25 And the standard of the camp of the children of Dan set forward, which was the rereward of all the camps throughout their hosts: and over his host was Ahiezer the son of Ammishaddai. 
-@26 And over the host of the tribe of the children of Asher was Pagiel the son of Ocran. 
-@27 And over the host of the tribe of the children of Naphtali was Ahira the son of Enan. 
-@28 Thus were the journeyings of the children of Israel according to their armies, when they set forward.^a^ 
+@25 And_the_standard_H1714 of_the_camp_H4264 of_the_children_H1121 of_Dan_H1835 [set forward]{strong="H5265" x-morph="strongMorph: TH8804"}, which was [the rereward]{strong="H622" x-morph="strongMorph: TH8764"} of_all_the_camps_H4264 throughout_their_hosts_H6635: and_over_his_host_H6635 was Ahiezer_H295 the_son_H1121 of_Ammishaddai_H5996. 
+@26 And_over_the_host_H6635 of_the_tribe_H4294 of_the_children_H1121 of_Asher_H836 was Pagiel_H6295 the_son_H1121 of_Ocran_H5918. 
+@27 And_over_the_host_H6635 of_the_tribe_H4294 of_the_children_H1121 of_Naphtali_H5321 was Ahira_H299 the_son_H1121 of_Enan_H5881. 
+@28 Thus were the_journeyings_H4550 of_the_children_H1121 of_Israel_H3478 according_to_their_armies_H6635, [when they set forward]{strong="H5265" x-morph="strongMorph: TH8799"}.^a^ 
 ^a^[**10:28** Thus: Heb. These]
 
-@29 And Moses said unto Hobab, the son of Raguel the Midianite, Moses’ father in law, We are journeying unto the place of which the LORD said, I will give it you: come thou with us, and we will do thee good: for the LORD hath spoken good concerning Israel. 
-@30 And he said unto him, I will not go; but I will depart to mine own land, and to my kindred. 
-@31 And he said, Leave us not, I pray thee; forasmuch as thou knowest how we are to encamp in the wilderness, and thou mayest be to us instead of eyes. 
-@32 And it shall be, if thou go with us, yea, it shall be, that what goodness the LORD shall do unto us, the same will we do unto thee. 
+@29 And_Moses_H4872 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Hobab_H2246, the_son_H1121 of_Raguel_H7467 the_Midianite_H4084, [Moses’]{strong="H4872"} [father in law]{strong="H2859" x-morph="strongMorph: TH8802"}, [We are journeying]{strong="H5265" x-morph="strongMorph: TH8802"} unto_the_place_H4725 of which the LORD [said]{strong="H559" x-morph="strongMorph: TH8804"}, [I will give]{strong="H5414" x-morph="strongMorph: TH8799"} [it you: come]{strong="H3212" x-morph="strongMorph: TH8798"} [thou with us, and we will do thee good]{strong="H2895" x-morph="strongMorph: TH8689"}: for the LORD [hath spoken]{strong="H1696" x-morph="strongMorph: TH8765"} good_H2896 concerning_Israel_H3478. 
+@30 [And he said]{strong="H559" x-morph="strongMorph: TH8799"} [unto him, I will not go]{strong="H3212" x-morph="strongMorph: TH8799"}; [but I will depart]{strong="H3212" x-morph="strongMorph: TH8799"} to_mine_own_land_H776, and_to_my_kindred_H4138. 
+@31 [And he said]{strong="H559" x-morph="strongMorph: TH8799"}, [Leave]{strong="H5800" x-morph="strongMorph: TH8799"} [us not, I pray thee; forasmuch as thou knowest]{strong="H3045 H3651" x-morph="strongMorph: TH8804"} [how we are to encamp]{strong="H2583" x-morph="strongMorph: TH8800"} in_the_wilderness_H4057, and_thou_mayest_be_to_us_instead_of_eyes_H5869. 
+@32 [And it shall be, if thou go]{strong="H3212" x-morph="strongMorph: TH8799"} [with us, yea, it shall be, that what goodness]{strong="H2896"} the LORD [shall do]{strong="H3190" x-morph="strongMorph: TH8686"} [unto us, the same will we do]{strong="H2895" x-morph="strongMorph: TH8689"} unto thee. 
 
-@33 And they departed from the mount of the LORD three days’ journey: and the ark of the covenant of the LORD went before them in the three days’ journey, to search out a resting place for them. 
-@34 And the cloud of the LORD was upon them by day, when they went out of the camp. 
-@35 And it came to pass, when the ark set forward, that Moses said, Rise up, LORD, and let thine enemies be scattered; and let them that hate thee flee before thee. 
-@36 And when it rested, he said, Return, O LORD, unto the many thousands of Israel.^a^
+@33 [And they departed]{strong="H5265" x-morph="strongMorph: TH8799"} from_the_mount_H2022 of the LORD three_H7969 [days’]{strong="H3117"} journey_H1870: and_the_ark_H727 of_the_covenant_H1285 of the LORD [went]{strong="H5265" x-morph="strongMorph: TH8802"} before_H6440 them_in_the_three_H7969 [days’]{strong="H3117"} journey_H1870, [to search out]{strong="H8446" x-morph="strongMorph: TH8800"} a_resting_place_H4496 for them. 
+@34 And_the_cloud_H6051 of the LORD was upon_them_by_day_H3119, [when they went out]{strong="H5265" x-morph="strongMorph: TH8800"} of_the_camp_H4264. 
+@35 [And it came to pass, when the ark]{strong="H727"} [set forward]{strong="H5265" x-morph="strongMorph: TH8800"}, that_Moses_H4872 [said]{strong="H559" x-morph="strongMorph: TH8799"}, [Rise up]{strong="H6965" x-morph="strongMorph: TH8798"}, LORD, [and let thine enemies]{strong="H341" x-morph="strongMorph: TH8802"} [be scattered]{strong="H6327" x-morph="strongMorph: TH8799"}; [and let them that hate]{strong="H8130" x-morph="strongMorph: TH8764"} [thee flee]{strong="H5127" x-morph="strongMorph: TH8799"} before_H6440 thee. 
+@36 [And when it rested]{strong="H5117" x-morph="strongMorph: TH8800"}, [he said]{strong="H559" x-morph="strongMorph: TH8799"}, [Return]{strong="H7725" x-morph="strongMorph: TH8798"}, O LORD, unto_the_many_H7233 thousands_H505 of_Israel_H3478.^a^
 ^a^[**10:36** many thousands: Heb. ten thousand thousands] 
 
 # 11 
-@1 And when the people complained, it displeased the LORD: and the LORD heard it; and his anger was kindled; and the fire of the LORD burnt among them, and consumed them that were in the uttermost parts of the camp.^a^ ^b^ 
-@2 And the people cried unto Moses; and when Moses prayed unto the LORD, the fire was quenched.^c^ 
-@3 And he called the name of the place Taberah: because the fire of the LORD burnt among them.^d^ 
+@1 And when the_people_H5971 [complained]{strong="H596" x-morph="strongMorph: TH8693"}, [it displeased]{strong="H241 H7451"} the LORD: and the LORD [heard]{strong="H8085" x-morph="strongMorph: TH8799"} it; and_his_anger_H639 [was kindled]{strong="H2734" x-morph="strongMorph: TH8799"}; and_the_fire_H784 of the LORD [burnt]{strong="H1197" x-morph="strongMorph: TH8799"} [among them, and consumed]{strong="H398" x-morph="strongMorph: TH8799"} them that were in_the_uttermost_parts_H7097 of_the_camp_H4264.^a^ ^b^ 
+@2 And_the_people_H5971 [cried]{strong="H6817" x-morph="strongMorph: TH8799"} unto_Moses_H4872; and_when_Moses_H4872 [prayed]{strong="H6419" x-morph="strongMorph: TH8691"} unto the LORD, the_fire_H784 [was quenched]{strong="H8257" x-morph="strongMorph: TH8799"}.^c^ 
+@3 [And he called]{strong="H7121" x-morph="strongMorph: TH8799"} the_name_H8034 of_the_H1931 place_H4725 Taberah_H8404: because_the_fire_H784 of the LORD [burnt]{strong="H1197" x-morph="strongMorph: TH8804"} among them.^d^ 
 ^a^[**11:1** complained: or, were as it were complainers] ^b^[**11:1** it displeased: Heb. it was evil in the ears of] ^c^[**11:2** was…: Heb. sunk] ^d^[**11:3** Taberah: that is, A burning]
 
-@4 And the mixt multitude that was among them fell a lusting: and the children of Israel also wept again, and said, Who shall give us flesh to eat?^a^ ^b^ 
-@5 We remember the fish, which we did eat in Egypt freely; the cucumbers, and the melons, and the leeks, and the onions, and the garlick: 
-@6 But now our soul is dried away: there is nothing at all, beside this manna, before our eyes. 
-@7 And the manna was as coriander seed, and the colour thereof as the colour of bdellium.^c^ 
-@8 And the people went about, and gathered it, and ground it in mills, or beat it in a mortar, and baked it in pans, and made cakes of it: and the taste of it was as the taste of fresh oil. 
-@9 And when the dew fell upon the camp in the night, the manna fell upon it. 
+@4 And_the_mixt_multitude_H628 that was among_H7130 [them fell a lusting]{strong="H8378 H183" x-morph="strongMorph: TH8694"}: and_the_children_H1121 of_Israel_H3478 [also wept]{strong="H1058" x-morph="strongMorph: TH8799"} [again]{strong="H7725" x-morph="strongMorph: TH8799"}, [and said]{strong="H559" x-morph="strongMorph: TH8799"}, Who_shall_give_us_flesh_H1320 [to eat]{strong="H398" x-morph="strongMorph: TH8686"}?^a^ ^b^ 
+@5 [We remember]{strong="H2142" x-morph="strongMorph: TH8804"} the_fish_H1710, [which we did eat]{strong="H398" x-morph="strongMorph: TH8799"} in_Egypt_H4714 freely_H2600; the_cucumbers_H7180, and_the_melons_H20, and_the_leeks_H2682, and_the_onions_H1211, and_the_garlick_H7762: 
+@6 But_now_our_soul_H5315 is dried_away_H3002: there is [nothing at all, beside]{strong="H1115"} this_manna_H4478, before our_eyes_H5869. 
+@7 And_the_manna_H4478 was as_coriander_H1407 seed_H2233, and_the_colour_H5869 thereof_as_the_colour_H5869 of_bdellium_H916.^c^ 
+@8 And the_people_H5971 [went about]{strong="H7751" x-morph="strongMorph: TH8804"}, [and gathered]{strong="H3950" x-morph="strongMorph: TH8804"} it, [and ground]{strong="H2912" x-morph="strongMorph: TH8804"} it in_mills_H7347, [or beat]{strong="H1743" x-morph="strongMorph: TH8804"} it in_a_mortar_H4085, [and baked]{strong="H1310" x-morph="strongMorph: TH8765"} it in_pans_H6517, [and made]{strong="H6213" x-morph="strongMorph: TH8804"} cakes_H5692 [of it: and the taste]{strong="H2940"} of_it_was_as_the_taste_H2940 of_fresh_H3955 oil_H8081. 
+@9 And_when_the_dew_H2919 [fell]{strong="H3381" x-morph="strongMorph: TH8800"} upon_the_camp_H4264 in_the_night_H3915, the_manna_H4478 [fell]{strong="H3381" x-morph="strongMorph: TH8799"} upon it. 
 ^a^[**11:4** fell…: Heb. lusted a lust] ^b^[**11:4** wept…: Heb. returned and wept] ^c^[**11:7** colour thereof…: Heb. eye of it as the eye of]
 
-@10 Then Moses heard the people weep throughout their families, every man in the door of his tent: and the anger of the LORD was kindled greatly; Moses also was displeased. 
-@11 And Moses said unto the LORD, Wherefore hast thou afflicted thy servant? and wherefore have I not found favour in thy sight, that thou layest the burden of all this people upon me? 
-@12 Have I conceived all this people? have I begotten them, that thou shouldest say unto me, Carry them in thy bosom, as a nursing father beareth the sucking child, unto the land which thou swarest unto their fathers? 
-@13 Whence should I have flesh to give unto all this people? for they weep unto me, saying, Give us flesh, that we may eat. 
-@14 I am not able to bear all this people alone, because it is too heavy for me. 
-@15 And if thou deal thus with me, kill me, I pray thee, out of hand, if I have found favour in thy sight; and let me not see my wretchedness. 
+@10 Then_Moses_H4872 [heard]{strong="H8085" x-morph="strongMorph: TH8799"} the_people_H5971 [weep]{strong="H1058" x-morph="strongMorph: TH8802"} throughout_their_families_H4940, every_man_H376 in_the_door_H6607 of_his_tent_H168: and_the_anger_H639 of the LORD [was kindled]{strong="H2734" x-morph="strongMorph: TH8799"} greatly_H3966; Moses_H4872 [also was displeased]{strong="H5869 H7489" x-morph="strongMorph: TH8804"}. 
+@11 And_Moses_H4872 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto the LORD, [Wherefore hast thou afflicted]{strong="H7489" x-morph="strongMorph: TH8689"} thy_servant_H5650? [and wherefore have I not found]{strong="H4672" x-morph="strongMorph: TH8804"} favour_H2580 in_thy_sight_H5869, [that thou layest]{strong="H7760" x-morph="strongMorph: TH8800"} the_burden_H4853 of_all_this_people_H5971 upon me? 
+@12 [Have I conceived]{strong="H2029" x-morph="strongMorph: TH8804"} all_this_people_H5971? [have I begotten]{strong="H3205" x-morph="strongMorph: TH8804"} [them, that thou shouldest say]{strong="H559" x-morph="strongMorph: TH8799"} [unto me, Carry]{strong="H5375" x-morph="strongMorph: TH8798"} them_in_thy_bosom_H2436, [as a nursing father]{strong="H539" x-morph="strongMorph: TH8802"} [beareth]{strong="H5375" x-morph="strongMorph: TH8799"} [the sucking child]{strong="H3243" x-morph="strongMorph: TH8802"}, unto_the_land_H127 [which thou swarest]{strong="H7650" x-morph="strongMorph: TH8738"} unto_their_fathers_H1? 
+@13 Whence_H370 should_I_have_flesh_H1320 [to give]{strong="H5414" x-morph="strongMorph: TH8800"} unto_all_this_people_H5971? [for they weep]{strong="H1058" x-morph="strongMorph: TH8799"} [unto me, saying]{strong="H559" x-morph="strongMorph: TH8800"}, [Give]{strong="H5414" x-morph="strongMorph: TH8798"} us_flesh_H1320, [that we may eat]{strong="H398" x-morph="strongMorph: TH8799"}. 
+@14 [I am not able]{strong="H3201" x-morph="strongMorph: TH8799"} [to bear]{strong="H5375" x-morph="strongMorph: TH8800"} all_this_people_H5971 alone_H905, because it is too_heavy_H3515 for me. 
+@15 [And if thou deal]{strong="H6213" x-morph="strongMorph: TH8802"} [thus with me, kill]{strong="H2026" x-morph="strongMorph: TH8798"} [me, I pray thee, out of hand]{strong="H2026" x-morph="strongMorph: TH8800"}, [if I have found]{strong="H4672" x-morph="strongMorph: TH8804"} favour_H2580 in_thy_sight_H5869; [and let me not see]{strong="H7200" x-morph="strongMorph: TH8799"} my_wretchedness_H7451. 
 
-@16 And the LORD said unto Moses, Gather unto me seventy men of the elders of Israel, whom thou knowest to be the elders of the people, and officers over them; and bring them unto the tabernacle of the congregation, that they may stand there with thee. 
-@17 And I will come down and talk with thee there: and I will take of the spirit which is upon thee, and will put it upon them; and they shall bear the burden of the people with thee, that thou bear it not thyself alone. 
-@18 And say thou unto the people, Sanctify yourselves against to morrow, and ye shall eat flesh: for ye have wept in the ears of the LORD, saying, Who shall give us flesh to eat? for it was well with us in Egypt: therefore the LORD will give you flesh, and ye shall eat. 
-@19 Ye shall not eat one day, nor two days, nor five days, neither ten days, nor twenty days; 
-@20 But even a whole month, until it come out at your nostrils, and it be loathsome unto you: because that ye have despised the LORD which is among you, and have wept before him, saying, Why came we forth out of Egypt?^a^ 
-@21 And Moses said, The people, among whom I am, are six hundred thousand footmen; and thou hast said, I will give them flesh, that they may eat a whole month. 
-@22 Shall the flocks and the herds be slain for them, to suffice them? or shall all the fish of the sea be gathered together for them, to suffice them? 
-@23 And the LORD said unto Moses, Is the LORD’S hand waxed short? thou shalt see now whether my word shall come to pass unto thee or not. 
+@16 And the LORD [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872, [Gather]{strong="H622" x-morph="strongMorph: TH8798"} unto_me_seventy_H7657 men_H376 of_the_elders_H2205 of_Israel_H3478, [whom thou knowest]{strong="H3045" x-morph="strongMorph: TH8804"} to_be_the_elders_H2205 of_the_people_H5971, [and officers]{strong="H7860" x-morph="strongMorph: TH8802"} [over them; and bring]{strong="H3947" x-morph="strongMorph: TH8804"} them_unto_the_tabernacle_H168 of_the_congregation_H4150, [that they may stand]{strong="H3320" x-morph="strongMorph: TH8694"} there with thee. 
+@17 [And I will come down]{strong="H3381" x-morph="strongMorph: TH8804"} [and talk]{strong="H1696" x-morph="strongMorph: TH8765"} [with thee there: and I will take]{strong="H680" x-morph="strongMorph: TH8804"} of_the_spirit_H7307 which is [upon thee, and will put]{strong="H7760" x-morph="strongMorph: TH8804"} it [upon them; and they shall bear]{strong="H5375" x-morph="strongMorph: TH8804"} the_burden_H4853 of_the_people_H5971 [with thee, that thou bear]{strong="H5375" x-morph="strongMorph: TH8799"} it not thyself alone. 
+@18 [And say]{strong="H559" x-morph="strongMorph: TH8799"} thou_unto_the_people_H5971, [Sanctify]{strong="H6942" x-morph="strongMorph: TH8690"} yourselves_against_to_morrow_H4279, [and ye shall eat]{strong="H398" x-morph="strongMorph: TH8804"} flesh_H1320: [for ye have wept]{strong="H1058" x-morph="strongMorph: TH8804"} in_the_ears_H241 of the LORD, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, Who_shall_give_us_flesh_H1320 [to eat]{strong="H398" x-morph="strongMorph: TH8686"}? for it was [well]{strong="H2895" x-morph="strongMorph: TH8804"} with_us_in_Egypt_H4714: therefore the LORD [will give]{strong="H5414" x-morph="strongMorph: TH8804"} you_flesh_H1320, [and ye shall eat]{strong="H398" x-morph="strongMorph: TH8804"}. 
+@19 [Ye shall not eat]{strong="H398" x-morph="strongMorph: TH8799"} one_H259 day_H3117, nor_two_days_H3117, nor_five_H2568 days_H3117, neither_ten_H6235 days_H3117, nor_twenty_H6242 days_H3117; 
+@20 But [even a whole month]{strong="H3117 H2320"}, [until it come out]{strong="H3318" x-morph="strongMorph: TH8799"} at_your_nostrils_H639, and_it_be_loathsome_H2214 [unto you: because]{strong="H3282"} [that ye have despised]{strong="H3988" x-morph="strongMorph: TH8804"} the LORD which is among_H7130 [you, and have wept]{strong="H1058" x-morph="strongMorph: TH8799"} before_H6440 [him, saying]{strong="H559" x-morph="strongMorph: TH8800"}, [Why came we forth]{strong="H3318" x-morph="strongMorph: TH8804"} out_of_Egypt_H4714?^a^ 
+@21 And_Moses_H4872 [said]{strong="H559" x-morph="strongMorph: TH8799"}, The_people_H5971, among_H7130 whom I am, are six_H8337 hundred_H3967 thousand_H505 footmen_H7273; [and thou hast said]{strong="H559" x-morph="strongMorph: TH8804"}, [I will give]{strong="H5414" x-morph="strongMorph: TH8799"} them_flesh_H1320, [that they may eat]{strong="H398" x-morph="strongMorph: TH8804"} a_whole_H3117 month_H2320. 
+@22 Shall_the_flocks_H6629 and_the_herds_H1241 [be slain]{strong="H7819" x-morph="strongMorph: TH8735"} [for them, to suffice]{strong="H4672" x-morph="strongMorph: TH8804"} [them? or shall all the fish]{strong="H1709"} of_the_sea_H3220 [be gathered together]{strong="H622" x-morph="strongMorph: TH8735"} [for them, to suffice]{strong="H4672" x-morph="strongMorph: TH8804"} them? 
+@23 And the LORD [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872, Is the LORD’S hand_H3027 [waxed short]{strong="H7114" x-morph="strongMorph: TH8799"}? [thou shalt see]{strong="H7200" x-morph="strongMorph: TH8799"} now_whether_my_word_H1697 [shall come to pass]{strong="H7136" x-morph="strongMorph: TH8799"} unto thee or not. 
 ^a^[**11:20** whole…: Heb. month of days]
 
-@24 And Moses went out, and told the people the words of the LORD, and gathered the seventy men of the elders of the people, and set them round about the tabernacle. 
-@25 And the LORD came down in a cloud, and spake unto him, and took of the spirit that was upon him, and gave it unto the seventy elders: and it came to pass, that, when the spirit rested upon them, they prophesied, and did not cease. 
-@26 But there remained two of the men in the camp, the name of the one was Eldad, and the name of the other Medad: and the spirit rested upon them; and they were of them that were written, but went not out unto the tabernacle: and they prophesied in the camp. 
-@27 And there ran a young man, and told Moses, and said, Eldad and Medad do prophesy in the camp. 
-@28 And Joshua the son of Nun, the servant of Moses, one of his young men, answered and said, My lord Moses, forbid them. 
-@29 And Moses said unto him, Enviest thou for my sake? would God that all the LORD’S people were prophets, and that the LORD would put his spirit upon them! 
-@30 And Moses gat him into the camp, he and the elders of Israel. 
+@24 And_Moses_H4872 [went out]{strong="H3318" x-morph="strongMorph: TH8799"}, [and told]{strong="H1696" x-morph="strongMorph: TH8762"} the_people_H5971 the_words_H1697 of the LORD, [and gathered]{strong="H622" x-morph="strongMorph: TH8799"} the_seventy_H7657 men_H376 of_the_elders_H2205 of_the_people_H5971, [and set]{strong="H5975" x-morph="strongMorph: TH8686"} them_round_about_H5439 the_tabernacle_H168. 
+@25 And the LORD [came down]{strong="H3381" x-morph="strongMorph: TH8799"} in_a_cloud_H6051, [and spake]{strong="H1696" x-morph="strongMorph: TH8762"} [unto him, and took]{strong="H680" x-morph="strongMorph: TH8686"} of_the_spirit_H7307 that was [upon him, and gave]{strong="H5414" x-morph="strongMorph: TH8799"} it unto_the_seventy_H7657 [elders]{strong="H376 H2205"}: and it came to pass, that, when_the_spirit_H7307 [rested]{strong="H5117" x-morph="strongMorph: TH8800"} [upon them, they prophesied]{strong="H5012" x-morph="strongMorph: TH8691"}, [and did not cease]{strong="H3254" x-morph="strongMorph: TH8804"}. 
+@26 [But there remained]{strong="H7604" x-morph="strongMorph: TH8735"} two_H8147 of the men_H582 in_the_camp_H4264, the_name_H8034 of_the_one_H259 was Eldad_H419, and_the_name_H8034 of_the_other_H8145 Medad_H4312: and_the_spirit_H7307 [rested]{strong="H5117" x-morph="strongMorph: TH8799"} upon them; and they were [of them that were written]{strong="H3789" x-morph="strongMorph: TH8803"}, [but went not out]{strong="H3318" x-morph="strongMorph: TH8804"} unto_the_tabernacle_H168: [and they prophesied]{strong="H5012" x-morph="strongMorph: TH8691"} in_the_camp_H4264. 
+@27 [And there ran]{strong="H7323" x-morph="strongMorph: TH8799"} a_young_man_H5288, [and told]{strong="H5046" x-morph="strongMorph: TH8686"} Moses_H4872, [and said]{strong="H559" x-morph="strongMorph: TH8799"}, Eldad_H419 and_Medad_H4312 [do prophesy]{strong="H5012" x-morph="strongMorph: TH8693"} in_the_camp_H4264. 
+@28 And_Joshua_H3091 the_son_H1121 of_Nun_H5126, [the servant]{strong="H8334" x-morph="strongMorph: TH8764"} of_Moses_H4872, one of_his_young_men_H979, [answered]{strong="H6030" x-morph="strongMorph: TH8799"} [and said]{strong="H559" x-morph="strongMorph: TH8799"}, My_lord_H113 Moses_H4872, [forbid]{strong="H3607" x-morph="strongMorph: TH8798"} them. 
+@29 And_Moses_H4872 [said]{strong="H559" x-morph="strongMorph: TH8799"} [unto him, Enviest]{strong="H7065" x-morph="strongMorph: TH8764"} [thou for my sake? would God that all the]{strong="H5414" x-morph="strongMorph: TH8799"} LORD’S people_H5971 were_prophets_H5030, and that the LORD [would put]{strong="H5414" x-morph="strongMorph: TH8799"} his_spirit_H7307 upon them! 
+@30 And_Moses_H4872 [gat]{strong="H622" x-morph="strongMorph: TH8735"} him_into_the_camp_H4264, he_and_the_elders_H2205 of_Israel_H3478. 
 
-@31 And there went forth a wind from the LORD, and brought quails from the sea, and let them fall by the camp, as it were a day’s journey on this side, and as it were a day’s journey on the other side, round about the camp, and as it were two cubits high upon the face of the earth.^a^ 
-@32 And the people stood up all that day, and all that night, and all the next day, and they gathered the quails: he that gathered least gathered ten homers: and they spread them all abroad for themselves round about the camp. 
-@33 And while the flesh was yet between their teeth, ere it was chewed, the wrath of the LORD was kindled against the people, and the LORD smote the people with a very great plague. 
-@34 And he called the name of that place Kibroth-hattaavah: because there they buried the people that lusted.^b^ 
-@35 And the people journeyed from Kibroth-hattaavah unto Hazeroth; and abode at Hazeroth.^c^
+@31 [And there went forth]{strong="H5265" x-morph="strongMorph: TH8804"} a_wind_H7307 from the LORD, [and brought]{strong="H1468" x-morph="strongMorph: TH8799"} quails_H7958 from_the_sea_H3220, and let them [fall]{strong="H5203" x-morph="strongMorph: TH8799"} by_the_camp_H4264, [as it were a day’s]{strong="H3117"} journey_H1870 on_this_side_H3541, [and as it were a day’s]{strong="H3117"} journey_H1870 on_the_other_side_H3541, round_about_H5439 the_camp_H4264, and_as_it_were_two_cubits_H520 high upon_the_face_H6440 of_the_earth_H776.^a^ 
+@32 And_the_people_H5971 [stood up]{strong="H6965" x-morph="strongMorph: TH8799"} all_that_day_H3117, and all that night_H3915, and_all_the_next_H4283 day_H3117, [and they gathered]{strong="H622" x-morph="strongMorph: TH8799"} the_quails_H7958: [he that gathered least]{strong="H4591" x-morph="strongMorph: TH8688"} [gathered]{strong="H622" x-morph="strongMorph: TH8804"} ten_H6235 homers_H2563: [and they spread]{strong="H7849" x-morph="strongMorph: TH8799"} them [all abroad]{strong="H7849" x-morph="strongMorph: TH8800"} for_themselves_round_about_H5439 the_camp_H4264. 
+@33 And_while_the_flesh_H1320 was yet_H2962 between_their_teeth_H8127, [ere it was chewed]{strong="H3772" x-morph="strongMorph: TH8735"}, the_wrath_H639 of the LORD [was kindled]{strong="H2734" x-morph="strongMorph: TH8804"} against_the_people_H5971, and the LORD [smote]{strong="H5221" x-morph="strongMorph: TH8686"} the_people_H5971 with_a_very_H3966 great_H7227 plague_H4347. 
+@34 [And he called]{strong="H7121" x-morph="strongMorph: TH8799"} the_name_H8034 of_that_place_H4725 [Kibroth-hattaavah]{strong="H6914"}: [because there they buried]{strong="H6912" x-morph="strongMorph: TH8804"} the_people_H5971 [that lusted]{strong="H183" x-morph="strongMorph: TH8693"}.^b^ 
+@35 And the_people_H5971 [journeyed]{strong="H5265" x-morph="strongMorph: TH8804"} [from Kibroth-hattaavah]{strong="H6914"} unto_Hazeroth_H2698; and_abode_at_Hazeroth_H2698.^c^
 ^a^[**11:31** as it were a day’s…: Heb. as it were the way of a day] ^b^[**11:34** Kibroth-hattaavah: that is, The graves of lust] ^c^[**11:35** abode at: Heb. they were in] 
 
 # 12 
-@1 And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.^a^ ^b^ 
-@2 And they said, Hath the LORD indeed spoken only by Moses? hath he not spoken also by us? And the LORD heard it. 
-@3 (Now the man Moses was very meek, above all the men which were upon the face of the earth.) 
+@1 And_Miriam_H4813 and_Aaron_H175 [spake]{strong="H1696" x-morph="strongMorph: TH8762"} against_Moses_H4872 because_of_H182 the_Ethiopian_H3571 woman_H802 [whom he had married]{strong="H3947" x-morph="strongMorph: TH8804"}: [for he had married]{strong="H3947" x-morph="strongMorph: TH8804"} an_Ethiopian_H3571 woman_H802.^a^ ^b^ 
+@2 [And they said]{strong="H559" x-morph="strongMorph: TH8799"}, Hath the LORD [indeed spoken]{strong="H1696" x-morph="strongMorph: TH8765"} only_by_Moses_H4872? [hath he not spoken]{strong="H1696" x-morph="strongMorph: TH8765"} also by us? And the LORD [heard]{strong="H8085" x-morph="strongMorph: TH8799"} it. 
+@3 (Now_the_man_H376 Moses_H4872 was very_H3966 [meek]{strong="H6035 H6035" x-morph="strongMorph: TH8675"}, above_all_the_men_H120 which were upon_the_face_H6440 of_the_earth_H127.) 
 ^a^[**12:1** Ethiopian: or, Cushite] ^b^[**12:1** married: Heb. taken]
 
-@4 And the LORD spake suddenly unto Moses, and unto Aaron, and unto Miriam, Come out ye three unto the tabernacle of the congregation. And they three came out. 
-@5 And the LORD came down in the pillar of the cloud, and stood in the door of the tabernacle, and called Aaron and Miriam: and they both came forth. 
-@6 And he said, Hear now my words: If there be a prophet among you, I the LORD will make myself known unto him in a vision, and will speak unto him in a dream. 
-@7 My servant Moses is not so, who is faithful in all mine house. 
-@8 With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the LORD shall he behold: wherefore then were ye not afraid to speak against my servant Moses? 
-@9 And the anger of the LORD was kindled against them; and he departed. 
+@4 And the LORD [spake]{strong="H559" x-morph="strongMorph: TH8799"} suddenly_H6597 unto_Moses_H4872, and_unto_Aaron_H175, and_unto_Miriam_H4813, [Come out]{strong="H3318" x-morph="strongMorph: TH8798"} ye_three_H7969 unto_the_tabernacle_H168 of_the_congregation_H4150. And_they_three_H7969 [came out]{strong="H3318" x-morph="strongMorph: TH8799"}. 
+@5 And the LORD [came down]{strong="H3381" x-morph="strongMorph: TH8799"} in_the_pillar_H5982 of_the_cloud_H6051, [and stood]{strong="H5975" x-morph="strongMorph: TH8799"} in the_door_H6607 of_the_tabernacle_H168, [and called]{strong="H7121" x-morph="strongMorph: TH8799"} Aaron_H175 and_Miriam_H4813: and_they_both_H8147 [came forth]{strong="H3318" x-morph="strongMorph: TH8799"}. 
+@6 [And he said]{strong="H559" x-morph="strongMorph: TH8799"}, [Hear]{strong="H8085" x-morph="strongMorph: TH8798"} now_my_words_H1697: If_there_be_a_prophet_H5030 among you, I the LORD [will make myself known]{strong="H3045" x-morph="strongMorph: TH8691"} unto_him_in_a_vision_H4759, and [will speak]{strong="H1696" x-morph="strongMorph: TH8762"} unto_him_in_a_dream_H2472. 
+@7 My_servant_H5650 Moses_H4872 is not so, who is [faithful]{strong="H539" x-morph="strongMorph: TH8737"} in_all_mine_house_H1004. 
+@8 [With him will I speak]{strong="H1696" x-morph="strongMorph: TH8762"} mouth_H6310 to_mouth_H6310, even_apparently_H4758, and_not_in_dark_speeches_H2420; and_the_similitude_H8544 of the LORD [shall he behold]{strong="H5027" x-morph="strongMorph: TH8686"}: [wherefore then were ye not afraid]{strong="H3372" x-morph="strongMorph: TH8804"} [to speak]{strong="H1696" x-morph="strongMorph: TH8763"} against_my_servant_H5650 Moses_H4872? 
+@9 And_the_anger_H639 of the LORD [was kindled]{strong="H2734" x-morph="strongMorph: TH8799"} [against them; and he departed]{strong="H3212" x-morph="strongMorph: TH8799"}. 
 
-@10 And the cloud departed from off the tabernacle; and, behold, Miriam became leprous, white as snow: and Aaron looked upon Miriam, and, behold, she was leprous. 
-@11 And Aaron said unto Moses, Alas, my lord, I beseech thee, lay not the sin upon us, wherein we have done foolishly, and wherein we have sinned. 
-@12 Let her not be as one dead, of whom the flesh is half consumed when he cometh out of his mother’s womb. 
-@13 And Moses cried unto the LORD, saying, Heal her now, O God, I beseech thee. 
+@10 And_the_cloud_H6051 [departed]{strong="H5493" x-morph="strongMorph: TH8804"} from_off_the_tabernacle_H168; [and, behold, Miriam]{strong="H4813"} became [leprous]{strong="H6879" x-morph="strongMorph: TH8794"}, white as_snow_H7950: and_Aaron_H175 [looked]{strong="H6437" x-morph="strongMorph: TH8799"} upon_Miriam_H4813, and, behold, she was [leprous]{strong="H6879" x-morph="strongMorph: TH8794"}. 
+@11 And_Aaron_H175 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872, Alas_H994, my_lord_H113, [I beseech thee, lay]{strong="H7896" x-morph="strongMorph: TH8799"} not_the_sin_H2403 [upon us, wherein we have done foolishly]{strong="H2973" x-morph="strongMorph: TH8738"}, [and wherein we have sinned]{strong="H2398" x-morph="strongMorph: TH8804"}. 
+@12 [Let her not be as one dead]{strong="H4191 H4994" x-morph="strongMorph: TH8801"}, of_whom_the_flesh_H1320 is_half_H2677 [consumed]{strong="H398" x-morph="strongMorph: TH8735"} [when he cometh out]{strong="H3318" x-morph="strongMorph: TH8800"} [of his mother’s]{strong="H517"} womb_H7358. 
+@13 And_Moses_H4872 [cried]{strong="H6817" x-morph="strongMorph: TH8799"} unto the LORD, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, [Heal]{strong="H7495" x-morph="strongMorph: TH8798"} [her now, O God]{strong="H410"}, I beseech thee. 
 
-@14 And the LORD said unto Moses, If her father had but spit in her face, should she not be ashamed seven days? let her be shut out from the camp seven days, and after that let her be received in again. 
-@15 And Miriam was shut out from the camp seven days: and the people journeyed not till Miriam was brought in again. 
-@16 And afterward the people removed from Hazeroth, and pitched in the wilderness of Paran. 
+@14 And the LORD [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872, If_her_father_H1 [had but]{strong="H3417" x-morph="strongMorph: TH8800"} [spit]{strong="H3417" x-morph="strongMorph: TH8804"} in_her_face_H6440, [should she not be ashamed]{strong="H3637" x-morph="strongMorph: TH8735"} seven_H7651 days_H3117? [let her be shut]{strong="H5462" x-morph="strongMorph: TH8735"} out_H2351 from_the_camp_H4264 seven_H7651 days_H3117, and_after_H310 [that let her be received]{strong="H622" x-morph="strongMorph: TH8735"} in again. 
+@15 And_Miriam_H4813 [was shut]{strong="H5462" x-morph="strongMorph: TH8735"} out_H2351 from_the_camp_H4264 seven_H7651 days_H3117: and_the_people_H5971 [journeyed]{strong="H5265" x-morph="strongMorph: TH8804"} not_till_Miriam_H4813 [was brought]{strong="H622" x-morph="strongMorph: TH8736"} in again. 
+@16 And_afterward_H310 the_people_H5971 [removed]{strong="H5265" x-morph="strongMorph: TH8804"} from_Hazeroth_H2698, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_the_wilderness_H4057 of_Paran_H6290. 
 
 # 13 
-@1 And the LORD spake unto Moses, saying, 
-@2 Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them. 
-@3 And Moses by the commandment of the LORD sent them from the wilderness of Paran: all those men were heads of the children of Israel. 
-@4 And these were their names: of the tribe of Reuben, Shammua the son of Zaccur. 
-@5 Of the tribe of Simeon, Shaphat the son of Hori. 
-@6 Of the tribe of Judah, Caleb the son of Jephunneh. 
-@7 Of the tribe of Issachar, Igal the son of Joseph. 
-@8 Of the tribe of Ephraim, Oshea the son of Nun.^a^ 
-@9 Of the tribe of Benjamin, Palti the son of Raphu. 
-@10 Of the tribe of Zebulun, Gaddiel the son of Sodi. 
-@11 Of the tribe of Joseph, namely, of the tribe of Manasseh, Gaddi the son of Susi. 
-@12 Of the tribe of Dan, Ammiel the son of Gemalli. 
-@13 Of the tribe of Asher, Sethur the son of Michael. 
-@14 Of the tribe of Naphtali, Nahbi the son of Vophsi. 
-@15 Of the tribe of Gad, Geuel the son of Machi. 
-@16 These are the names of the men which Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua.^b^ ^c^ 
+@1 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@2 [Send]{strong="H7971" x-morph="strongMorph: TH8798"} thou_men_H582, [that they may search]{strong="H8446" x-morph="strongMorph: TH8799"} the_land_H776 of_Canaan_H3667, [which I give]{strong="H5414" x-morph="strongMorph: TH8802"} unto_the_children_H1121 of_Israel_H3478: of_every_H376 tribe_H4294 of_their_fathers_H1 [shall ye send]{strong="H7971" x-morph="strongMorph: TH8799"} a_man_H259, every_one_a_ruler_H5387 among them. 
+@3 And_Moses_H4872 by_the_commandment_H6310 of the LORD [sent]{strong="H7971" x-morph="strongMorph: TH8799"} them_from_the_wilderness_H4057 of_Paran_H6290: all_those_men_H582 were heads_H7218 of_the_children_H1121 of_Israel_H3478. 
+@4 And these were their_names_H8034: of_the_tribe_H4294 of_Reuben_H7205, Shammua_H8051 the_son_H1121 of_Zaccur_H2139. 
+@5 Of_the_tribe_H4294 of_Simeon_H8095, Shaphat_H8202 the_son_H1121 of_Hori_H2753. 
+@6 Of_the_tribe_H4294 of_Judah_H3063, Caleb_H3612 the_son_H1121 of_Jephunneh_H3312. 
+@7 Of_the_tribe_H4294 of_Issachar_H3485, Igal_H3008 the_son_H1121 of_Joseph_H3130. 
+@8 Of_the_tribe_H4294 of_Ephraim_H669, Oshea_H1954 the_son_H1121 of_Nun_H5126.^a^ 
+@9 Of_the_tribe_H4294 of_Benjamin_H1144, Palti_H6406 the_son_H1121 of_Raphu_H7505. 
+@10 Of_the_tribe_H4294 of_Zebulun_H2074, Gaddiel_H1427 the_son_H1121 of_Sodi_H5476. 
+@11 Of_the_tribe_H4294 of_Joseph_H3130, namely, of_the_tribe_H4294 of_Manasseh_H4519, Gaddi_H1426 the_son_H1121 of_Susi_H5485. 
+@12 Of_the_tribe_H4294 of_Dan_H1835, Ammiel_H5988 the_son_H1121 of_Gemalli_H1582. 
+@13 Of_the_tribe_H4294 of_Asher_H836, Sethur_H5639 the_son_H1121 of_Michael_H4317. 
+@14 Of_the_tribe_H4294 of_Naphtali_H5321, Nahbi_H5147 the_son_H1121 of_Vophsi_H2058. 
+@15 Of_the_tribe_H4294 of_Gad_H1410, Geuel_H1345 the_son_H1121 of_Machi_H4352. 
+@16 These are the_names_H8034 of_the_men_H582 which_Moses_H4872 [sent]{strong="H7971" x-morph="strongMorph: TH8804"} [to spy out]{strong="H8446" x-morph="strongMorph: TH8800"} the_land_H776. And_Moses_H4872 [called]{strong="H7121" x-morph="strongMorph: TH8799"} Oshea_H1954 the_son_H1121 of_Nun_H5126 Jehoshua_H3091.^b^ ^c^ 
 ^a^[**13:8** Oshea: also called, Joshua] ^b^[**13:16** Oshea: also called Joshua] ^c^[**13:16** Jehoshua: or, Joshua]
 
-@17 And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this way southward, and go up into the mountain: 
-@18 And see the land, what it is; and the people that dwelleth therein, whether they be strong or weak, few or many; 
-@19 And what the land is that they dwell in, whether it be good or bad; and what cities they be that they dwell in, whether in tents, or in strong holds; 
-@20 And what the land is, whether it be fat or lean, whether there be wood therein, or not. And be ye of good courage, and bring of the fruit of the land. Now the time was the time of the firstripe grapes. 
+@17 And_Moses_H4872 [sent]{strong="H7971" x-morph="strongMorph: TH8799"} [them to spy out]{strong="H8446" x-morph="strongMorph: TH8800"} the_land_H776 of_Canaan_H3667, [and said]{strong="H559" x-morph="strongMorph: TH8799"} [unto them, Get you up]{strong="H5927" x-morph="strongMorph: TH8798"} this way southward_H5045, [and go up]{strong="H5927" x-morph="strongMorph: TH8804"} into_the_mountain_H2022: 
+@18 [And see]{strong="H7200" x-morph="strongMorph: TH8804"} the_land_H776, what it is; and_the_people_H5971 [that dwelleth]{strong="H3427" x-morph="strongMorph: TH8802"} therein, whether they be strong_H2389 or_weak_H7504, few_H4592 or_many_H7227; 
+@19 And_what_the_land_H776 is [that they dwell in]{strong="H3427" x-morph="strongMorph: TH8802"}, whether it be good_H2896 or_bad_H7451; and_what_cities_H5892 they be [that they dwell]{strong="H3427" x-morph="strongMorph: TH8802"} in_H2007, whether_in_tents_H4264, or_in_strong_holds_H4013; 
+@20 And_what_the_land_H776 is, whether it be fat_H8082 or_lean_H7330, whether_there_be_H3426 wood_H6086 [therein, or not. And be ye of good courage]{strong="H2388" x-morph="strongMorph: TH8694"}, [and bring]{strong="H3947" x-morph="strongMorph: TH8804"} of_the_fruit_H6529 of_the_land_H776. Now_the_time_H3117 was the_time_H3117 of_the_firstripe_H1061 grapes_H6025. 
 
-@21 So they went up, and searched the land from the wilderness of Zin unto Rehob, as men come to Hamath. 
-@22 And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, were. (Now Hebron was built seven years before Zoan in Egypt.) 
-@23 And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and they brought of the pomegranates, and of the figs.^a^ 
-@24 The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence.^b^ ^c^ 
-@25 And they returned from searching of the land after forty days. 
+@21 [So they went up]{strong="H5927" x-morph="strongMorph: TH8799"}, [and searched]{strong="H8446" x-morph="strongMorph: TH8799"} the_land_H776 from_the_wilderness_H4057 of_Zin_H6790 unto_Rehob_H7340, [as men come]{strong="H935" x-morph="strongMorph: TH8800"} to_Hamath_H2574. 
+@22 [And they ascended]{strong="H5927" x-morph="strongMorph: TH8799"} by_the_south_H5045, [and came]{strong="H935" x-morph="strongMorph: TH8799"} unto_Hebron_H2275; where_Ahiman_H289, Sheshai_H8344, and_Talmai_H8526, the_children_H3211 of_Anak_H6061, were. (Now_Hebron_H2275 [was built]{strong="H1129" x-morph="strongMorph: TH8738"} seven_H7651 years_H8141 before_H6440 Zoan_H6814 in_Egypt_H4714.) 
+@23 [And they came]{strong="H935" x-morph="strongMorph: TH8799"} unto_the_brook_H5158 of_Eshcol_H812, [and cut down]{strong="H3772" x-morph="strongMorph: TH8799"} from_thence_a_branch_H2156 with_one_H259 cluster_H811 of_grapes_H6025, [and they bare]{strong="H5375" x-morph="strongMorph: TH8799"} it_between_two_H8147 upon_a_staff_H4132; and they brought of_the_pomegranates_H7416, and_of_the_figs_H8384.^a^ 
+@24 The_place_H4725 [was called]{strong="H7121" x-morph="strongMorph: TH8804"} the_brook_H5158 Eshcol_H812, because_of_H182 the_cluster_of_grapes_H811 which_the_children_H1121 of_Israel_H3478 [cut down]{strong="H3772" x-morph="strongMorph: TH8804"} from thence.^b^ ^c^ 
+@25 [And they returned]{strong="H7725" x-morph="strongMorph: TH8799"} [from searching]{strong="H8446" x-morph="strongMorph: TH8800"} of_the_land_H776 after_H7093 forty_H705 days_H3117. 
 ^a^[**13:23** brook: or, valley] ^b^[**13:24** brook: or, valley] ^c^[**13:24** Eshcol: that is, A cluster of grapes]
 
-@26 And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, unto the wilderness of Paran, to Kadesh; and brought back word unto them, and unto all the congregation, and shewed them the fruit of the land. 
-@27 And they told him, and said, We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this is the fruit of it. 
-@28 Nevertheless the people be strong that dwell in the land, and the cities are walled, and very great: and moreover we saw the children of Anak there. 
-@29 The Amalekites dwell in the land of the south: and the Hittites, and the Jebusites, and the Amorites, dwell in the mountains: and the Canaanites dwell by the sea, and by the coast of Jordan. 
-@30 And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it. 
-@31 But the men that went up with him said, We be not able to go up against the people; for they are stronger than we. 
-@32 And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it, is a land that eateth up the inhabitants thereof; and all the people that we saw in it are men of a great stature.^a^ 
-@33 And there we saw the giants, the sons of Anak, which come of the giants: and we were in our own sight as grasshoppers, and so we were in their sight.
+@26 [And they went]{strong="H3212" x-morph="strongMorph: TH8799"} [and came]{strong="H935" x-morph="strongMorph: TH8799"} to_Moses_H4872, and_to_Aaron_H175, and_to_all_the_congregation_H5712 of_the_children_H1121 of_Israel_H3478, unto_the_wilderness_H4057 of_Paran_H6290, to_Kadesh_H6946; [and brought back]{strong="H7725" x-morph="strongMorph: TH8686"} word_H1697 [unto them, and unto all the congregation]{strong="H5712"}, [and shewed]{strong="H7200" x-morph="strongMorph: TH8686"} them_the_fruit_H6529 of_the_land_H776. 
+@27 [And they told]{strong="H5608" x-morph="strongMorph: TH8762"} [him, and said]{strong="H559" x-morph="strongMorph: TH8799"}, [We came]{strong="H935" x-morph="strongMorph: TH8804"} unto_the_land_H776 [whither thou sentest]{strong="H7971" x-morph="strongMorph: TH8804"} [us, and surely it floweth]{strong="H2100" x-morph="strongMorph: TH8802"} with_milk_H2461 and_honey_H1706; and this is the_fruit_H6529 of it. 
+@28 Nevertheless_H657 the_people_H5971 be strong_H5794 [that dwell]{strong="H3427" x-morph="strongMorph: TH8802"} in_the_land_H776, and_the_cities_H5892 are [walled]{strong="H1219" x-morph="strongMorph: TH8803"}, and very_H3966 great_H1419: [and moreover we saw]{strong="H7200" x-morph="strongMorph: TH8804"} the_children_H3211 of_Anak_H6061 there. 
+@29 The_Amalekites_H6002 [dwell]{strong="H3427" x-morph="strongMorph: TH8802"} in_the_land_H776 of_the_south_H5045: and_the_Hittites_H2850, and_the_Jebusites_H2983, and_the_Amorites_H567, [dwell]{strong="H3427" x-morph="strongMorph: TH8802"} in_the_mountains_H2022: and_the_Canaanites_H3669 [dwell]{strong="H3427" x-morph="strongMorph: TH8802"} by_the_sea_H3220, and_by_the_coast_H3027 of_Jordan_H3383. 
+@30 And_Caleb_H3612 [stilled]{strong="H2013" x-morph="strongMorph: TH8686"} the_people_H5971 before_Moses_H4872, [and said]{strong="H559" x-morph="strongMorph: TH8799"}, [Let us go up]{strong="H5927" x-morph="strongMorph: TH8799"} [at once]{strong="H5927" x-morph="strongMorph: TH8800"}, [and possess]{strong="H3423" x-morph="strongMorph: TH8804"} [it; for we are well able]{strong="H3201" x-morph="strongMorph: TH8799"} [to overcome]{strong="H3201" x-morph="strongMorph: TH8800"} it. 
+@31 But_the_men_H582 [that went up]{strong="H5927" x-morph="strongMorph: TH8804"} [with him said]{strong="H559" x-morph="strongMorph: TH8804"}, [We be not able]{strong="H3201" x-morph="strongMorph: TH8799"} [to go up]{strong="H5927" x-morph="strongMorph: TH8800"} against_the_people_H5971; for they are stronger_H2389 than we. 
+@32 [And they brought up]{strong="H3318" x-morph="strongMorph: TH8686"} an_evil_report_H1681 of_the_land_H776 [which they had searched]{strong="H8446" x-morph="strongMorph: TH8804"} unto_the_children_H1121 of_Israel_H3478, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, The_land_H776, [through which we have gone]{strong="H5674" x-morph="strongMorph: TH8804"} [to search]{strong="H8446" x-morph="strongMorph: TH8800"} it, is a_land_H776 [that eateth up]{strong="H398" x-morph="strongMorph: TH8802"} [the inhabitants]{strong="H3427" x-morph="strongMorph: TH8802"} [thereof; and all the people]{strong="H5971"} [that we saw]{strong="H7200" x-morph="strongMorph: TH8804"} in_it_H8432 are men_H582 of_a_great_stature_H4060.^a^ 
+@33 [And there we saw]{strong="H7200" x-morph="strongMorph: TH8804"} the_giants_H5303, the_sons_H1121 of_Anak_H6061, which come of_the_giants_H5303: and_we_were_in_our_own_sight_H5869 as_grasshoppers_H2284, and_so_we_were_in_their_sight_H5869.
 ^a^[**13:32** men…: Heb. men of statures] 
 
 # 14 
-@1 And all the congregation lifted up their voice, and cried; and the people wept that night. 
-@2 And all the children of Israel murmured against Moses and against Aaron: and the whole congregation said unto them, Would God that we had died in the land of Egypt! or would God we had died in this wilderness! 
-@3 And wherefore hath the LORD brought us unto this land, to fall by the sword, that our wives and our children should be a prey? were it not better for us to return into Egypt? 
-@4 And they said one to another, Let us make a captain, and let us return into Egypt. 
+@1 And_all_the_congregation_H5712 [lifted up]{strong="H5375" x-morph="strongMorph: TH8799"} their_voice_H6963, [and cried]{strong="H5414" x-morph="strongMorph: TH8799"}; and_the_people_H5971 [wept]{strong="H1058" x-morph="strongMorph: TH8799"} that_night_H3915. 
+@2 And_all_the_children_H1121 of_Israel_H3478 [murmured]{strong="H3885" x-morph="strongMorph: TH8735"} against_Moses_H4872 and_against_Aaron_H175: and_the_whole_congregation_H5712 [said]{strong="H559" x-morph="strongMorph: TH8799"} [unto them, Would God]{strong="H3863"} [that we had died]{strong="H4191" x-morph="strongMorph: TH8804"} in_the_land_H776 of_Egypt_H4714! or_would_God_H3863 [we had died]{strong="H4191" x-morph="strongMorph: TH8804"} in_this_wilderness_H4057! 
+@3 And wherefore hath the LORD [brought]{strong="H935" x-morph="strongMorph: TH8688"} us_unto_this_land_H776, [to fall]{strong="H5307" x-morph="strongMorph: TH8800"} by_the_sword_H2719, that_our_wives_H802 and_our_children_H2945 should_be_a_prey_H957? were_it_not_better_H2896 [for us to return]{strong="H7725" x-morph="strongMorph: TH8800"} into_Egypt_H4714? 
+@4 [And they said]{strong="H559" x-morph="strongMorph: TH8799"} one_H376 to_another_H251, [Let us make]{strong="H5414" x-morph="strongMorph: TH8799"} a_captain_H7218, [and let us return]{strong="H7725" x-morph="strongMorph: TH8799"} into_Egypt_H4714. 
 
-@5 Then Moses and Aaron fell on their faces before all the assembly of the congregation of the children of Israel. 
+@5 Then_Moses_H4872 and_Aaron_H175 [fell]{strong="H5307" x-morph="strongMorph: TH8799"} on_their_faces_H6440 before_H6440 all_the_assembly_H6951 of_the_congregation_H5712 of_the_children_H1121 of_Israel_H3478. 
 
-@6 And Joshua the son of Nun, and Caleb the son of Jephunneh, which were of them that searched the land, rent their clothes: 
-@7 And they spake unto all the company of the children of Israel, saying, The land, which we passed through to search it, is an exceeding good land. 
-@8 If the LORD delight in us, then he will bring us into this land, and give it us; a land which floweth with milk and honey. 
-@9 Only rebel not ye against the LORD, neither fear ye the people of the land; for they are bread for us: their defence is departed from them, and the LORD is with us: fear them not.^a^ 
-@10 But all the congregation bade stone them with stones. And the glory of the LORD appeared in the tabernacle of the congregation before all the children of Israel. 
+@6 And_Joshua_H3091 the_son_H1121 of_Nun_H5126, and_Caleb_H3612 the_son_H1121 of_Jephunneh_H3312, which were [of them that searched]{strong="H8446" x-morph="strongMorph: TH8802"} the_land_H776, [rent]{strong="H7167" x-morph="strongMorph: TH8804"} their_clothes_H899: 
+@7 [And they spake]{strong="H559" x-morph="strongMorph: TH8799"} unto_all_the_company_H5712 of_the_children_H1121 of_Israel_H3478, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, The_land_H776, [which we passed]{strong="H5674" x-morph="strongMorph: TH8804"} [through to search]{strong="H8446" x-morph="strongMorph: TH8800"} it, is [an exceeding]{strong="H3966 H3966"} good_H2896 land_H776. 
+@8 If the LORD [delight]{strong="H2654" x-morph="strongMorph: TH8804"} [in us, then he will bring]{strong="H935" x-morph="strongMorph: TH8689"} us_into_this_land_H776, [and give]{strong="H5414" x-morph="strongMorph: TH8804"} [it us; a land]{strong="H776"} [which floweth]{strong="H2100" x-morph="strongMorph: TH8802"} with_milk_H2461 and_honey_H1706. 
+@9 [Only rebel]{strong="H4775" x-morph="strongMorph: TH8799"} not ye against the LORD, [neither fear]{strong="H3372" x-morph="strongMorph: TH8799"} ye_the_people_H5971 of_the_land_H776; for they are bread_H3899 [for us: their defence]{strong="H6738"} [is departed]{strong="H5493" x-morph="strongMorph: TH8804"} from them, and the LORD is [with us: fear]{strong="H3372" x-morph="strongMorph: TH8799"} them not.^a^ 
+@10 But_all_the_congregation_H5712 [bade]{strong="H559" x-morph="strongMorph: TH8799"} [stone]{strong="H7275" x-morph="strongMorph: TH8800"} them_with_stones_H68. And_the_glory_H3519 of the LORD [appeared]{strong="H7200" x-morph="strongMorph: TH8738"} in_the_tabernacle_H168 of_the_congregation_H4150 before_all_the_children_H1121 of_Israel_H3478. 
 ^a^[**14:9** defence: Heb. shadow]
 
-@11 And the LORD said unto Moses, How long will this people provoke me? and how long will it be ere they believe me, for all the signs which I have shewed among them? 
-@12 I will smite them with the pestilence, and disinherit them, and will make of thee a greater nation and mightier than they. 
+@11 And the LORD [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872, How_long_will_this_people_H5971 [provoke]{strong="H5006" x-morph="strongMorph: TH8762"} [me? and how long will it be ere]{strong="H3808"} [they believe]{strong="H539" x-morph="strongMorph: TH8686"} [me, for all the signs]{strong="H226"} [which I have shewed]{strong="H6213" x-morph="strongMorph: TH8804"} among_H7130 them? 
+@12 [I will smite]{strong="H5221" x-morph="strongMorph: TH8686"} them_with_the_pestilence_H1698, [and disinherit]{strong="H3423" x-morph="strongMorph: TH8686"} [them, and will make]{strong="H6213" x-morph="strongMorph: TH8799"} of_thee_a_greater_H1419 nation_H1471 and_mightier_H6099 than they. 
 
-@13 And Moses said unto the LORD, Then the Egyptians shall hear it, (for thou broughtest up this people in thy might from among them;) 
-@14 And they will tell it to the inhabitants of this land: for they have heard that thou LORD art among this people, that thou LORD art seen face to face, and that thy cloud standeth over them, and that thou goest before them, by day time in a pillar of a cloud, and in a pillar of fire by night. 
+@13 And_Moses_H4872 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto the LORD, Then_the_Egyptians_H4714 [shall hear]{strong="H8085" x-morph="strongMorph: TH8804"} it, ([for thou broughtest up]{strong="H5927" x-morph="strongMorph: TH8689"} this_people_H5971 in_thy_might_H3581 from_among_H7130 them;) 
+@14 [And they will tell]{strong="H559" x-morph="strongMorph: TH8804"} it [to the inhabitants]{strong="H3427" x-morph="strongMorph: TH8802"} of_this_land_H776: for [they have heard]{strong="H8085" x-morph="strongMorph: TH8804"} that thou LORD art among_H7130 this_people_H5971, that thou LORD [art seen]{strong="H7200" x-morph="strongMorph: TH8738"} face_H5869 to_face_H5869, and that thy_cloud_H6051 [standeth]{strong="H5975" x-morph="strongMorph: TH8802"} over them, and that [thou goest]{strong="H1980" x-morph="strongMorph: TH8802"} before_H6440 [them, by day time]{strong="H3119"} in_a_pillar_H5982 of_a_cloud_H6051, and_in_a_pillar_H5982 of_fire_H784 by_night_H3915. 
 
-@15 Now if thou shalt kill all this people as one man, then the nations which have heard the fame of thee will speak, saying, 
-@16 Because the LORD was not able to bring this people into the land which he sware unto them, therefore he hath slain them in the wilderness. 
-@17 And now, I beseech thee, let the power of my Lord be great, according as thou hast spoken, saying, 
-@18 The LORD is longsuffering, and of great mercy, forgiving iniquity and transgression, and by no means clearing the guilty, visiting the iniquity of the fathers upon the children unto the third and fourth generation. 
-@19 Pardon, I beseech thee, the iniquity of this people according unto the greatness of thy mercy, and as thou hast forgiven this people, from Egypt even until now.^a^ 
+@15 Now if [thou shalt kill]{strong="H4191" x-morph="strongMorph: TH8689"} all this_people_H5971 as_one_H259 man_H376, then_the_nations_H1471 [which have heard]{strong="H8085" x-morph="strongMorph: TH8804"} the_fame_H8088 [of thee will speak]{strong="H559" x-morph="strongMorph: TH8804"}, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@16 Because the LORD was_not_H1115 [able]{strong="H3201" x-morph="strongMorph: TH8800"} [to bring]{strong="H935" x-morph="strongMorph: TH8687"} this_people_H5971 into_the_land_H776 [which he sware]{strong="H7650" x-morph="strongMorph: TH8738"} [unto them, therefore he hath slain]{strong="H7819" x-morph="strongMorph: TH8799"} them_in_the_wilderness_H4057. 
+@17 [And now, I beseech thee, let the power]{strong="H3581"} of_my_Lord_H136 [be great]{strong="H1431" x-morph="strongMorph: TH8799"}, according_H834 [as thou hast spoken]{strong="H1696" x-morph="strongMorph: TH8765"}, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@18 The LORD is [longsuffering]{strong="H639 H750"}, and_of_great_H7227 mercy_H2617, [forgiving]{strong="H5375" x-morph="strongMorph: TH8802"} iniquity_H5771 and_transgression_H6588, [and by no means]{strong="H5352" x-morph="strongMorph: TH8763"} [clearing]{strong="H5352" x-morph="strongMorph: TH8762"} the guilty, [visiting]{strong="H6485" x-morph="strongMorph: TH8802"} the_iniquity_H5771 of_the_fathers_H1 upon_the_children_H1121 unto_the_third_H8029 and_fourth_H7256 generation. 
+@19 [Pardon]{strong="H5545" x-morph="strongMorph: TH8798"}, [I beseech thee, the iniquity]{strong="H5771"} of_this_people_H5971 according_unto_the_greatness_H1433 of_thy_mercy_H2617, [and as thou hast forgiven]{strong="H5375" x-morph="strongMorph: TH8804"} this_people_H5971, from_Egypt_H4714 even_until_now_H2008.^a^ 
 ^a^[**14:19** until…: or, hitherto]
 
-@20 And the LORD said, I have pardoned according to thy word: 
-@21 But as truly as I live, all the earth shall be filled with the glory of the LORD. 
-@22 Because all those men which have seen my glory, and my miracles, which I did in Egypt and in the wilderness, and have tempted me now these ten times, and have not hearkened to my voice; 
-@23 Surely they shall not see the land which I sware unto their fathers, neither shall any of them that provoked me see it:^a^ 
-@24 But my servant Caleb, because he had another spirit with him, and hath followed me fully, him will I bring into the land whereinto he went; and his seed shall possess it. 
-@25 (Now the Amalekites and the Canaanites dwelt in the valley.) To morrow turn you, and get you into the wilderness by the way of the Red sea. 
+@20 And the LORD [said]{strong="H559" x-morph="strongMorph: TH8799"}, [I have pardoned]{strong="H5545" x-morph="strongMorph: TH8804"} according_to_thy_word_H1697: 
+@21 But as truly_H199 as I_live_H2416, all_the_earth_H776 [shall be filled]{strong="H4390" x-morph="strongMorph: TH8735"} with_the_glory_H3519 of the LORD. 
+@22 Because_all_those_men_H582 [which have seen]{strong="H7200" x-morph="strongMorph: TH8802"} my_glory_H3519, and_my_miracles_H226, [which I did]{strong="H6213" x-morph="strongMorph: TH8804"} in_Egypt_H4714 and_in_the_wilderness_H4057, [and have tempted]{strong="H853 H5254" x-morph="strongMorph: TH8762"} me_now_these_ten_H6235 times_H6471, [and have not hearkened]{strong="H8085" x-morph="strongMorph: TH8804"} to_my_voice_H6963; 
+@23 Surely_they_shall_not_H518 [see]{strong="H7200" x-morph="strongMorph: TH8799"} the_land_H776 [which I sware]{strong="H7650" x-morph="strongMorph: TH8738"} unto_their_fathers_H1, [neither shall any of them that provoked]{strong="H5006" x-morph="strongMorph: TH8764"} [me see]{strong="H7200" x-morph="strongMorph: TH8799"} it:^a^ 
+@24 But_my_servant_H5650 Caleb_H3612, because_H6118 he_had_another_H312 spirit_H7307 [with him, and hath followed]{strong="H310"} [me fully]{strong="H4390" x-morph="strongMorph: TH8762"}, [him will I bring]{strong="H935" x-morph="strongMorph: TH8689"} into_the_land_H776 [whereinto he went]{strong="H935" x-morph="strongMorph: TH8804"}; and_his_seed_H2233 [shall possess]{strong="H3423" x-morph="strongMorph: TH8686"} it. 
+@25 (Now_the_Amalekites_H6003 and_the_Canaanites_H3669 [dwelt]{strong="H3427" x-morph="strongMorph: TH8802"} in_the_valley_H6010.) To_morrow_H4279 [turn]{strong="H6437" x-morph="strongMorph: TH8798"} [you, and get]{strong="H5265" x-morph="strongMorph: TH8798"} you_into_the_wilderness_H4057 by_the_way_H1870 of_the_Red_H5488 sea_H3220. 
 ^a^[**14:23** Surely…: Heb. If they see the land]
 
-@26 And the LORD spake unto Moses and unto Aaron, saying, 
-@27 How long shall I bear with this evil congregation, which murmur against me? I have heard the murmurings of the children of Israel, which they murmur against me. 
-@28 Say unto them, As truly as I live, saith the LORD, as ye have spoken in mine ears, so will I do to you: 
-@29 Your carcases shall fall in this wilderness; and all that were numbered of you, according to your whole number, from twenty years old and upward, which have murmured against me, 
-@30 Doubtless ye shall not come into the land, concerning which I sware to make you dwell therein, save Caleb the son of Jephunneh, and Joshua the son of Nun.^a^ 
-@31 But your little ones, which ye said should be a prey, them will I bring in, and they shall know the land which ye have despised. 
-@32 But as for you, your carcases, they shall fall in this wilderness. 
-@33 And your children shall wander in the wilderness forty years, and bear your whoredoms, until your carcases be wasted in the wilderness.^b^ 
-@34 After the number of the days in which ye searched the land, even forty days, each day for a year, shall ye bear your iniquities, even forty years, and ye shall know my breach of promise.^c^ 
-@35 I the LORD have said, I will surely do it unto all this evil congregation, that are gathered together against me: in this wilderness they shall be consumed, and there they shall die. 
+@26 And the LORD [spake ]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872 and_unto_Aaron_H175, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@27 How long shall I bear with this_evil_H7451 congregation_H5712, [which murmur]{strong="H3885" x-morph="strongMorph: TH8688"} [against me? I have heard]{strong="H8085" x-morph="strongMorph: TH8804"} the_murmurings_H8519 of_the_children_H1121 of_Israel_H3478, [which they murmur]{strong="H3885" x-morph="strongMorph: TH8688"} against me. 
+@28 [Say]{strong="H559" x-morph="strongMorph: TH8798"} unto them, As truly as I_live_H2416, [saith]{strong="H5002" x-morph="strongMorph: TH8803"} the LORD, [as ye have spoken]{strong="H1696" x-morph="strongMorph: TH8765"} in_mine_ears_H241, [so will I do]{strong="H6213" x-morph="strongMorph: TH8799"} to you: 
+@29 Your_carcases_H6297 [shall fall]{strong="H5307" x-morph="strongMorph: TH8799"} in_this_wilderness_H4057; [and all that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} [of you, according to your whole number]{strong="H4557"}, from_twenty_H6242 years_H8141 old_H1121 and_upward_H4605, [which have murmured]{strong="H3885" x-morph="strongMorph: TH8689"} against me, 
+@30 Doubtless_ye_shall_not_H518 [come]{strong="H935" x-morph="strongMorph: TH8799"} into_the_land_H776, concerning [which I sware]{strong="H5375 H3027" x-morph="strongMorph: TH8804"} [to make you dwell]{strong="H7931" x-morph="strongMorph: TH8763"} [therein, save Caleb]{strong="H3612"} the_son_H1121 of_Jephunneh_H3312, and_Joshua_H3091 the_son_H1121 of_Nun_H5126.^a^ 
+@31 But_your_little_ones_H2945, [which ye said]{strong="H559" x-morph="strongMorph: TH8804"} should_be_a_prey_H957, [them will I bring in]{strong="H935" x-morph="strongMorph: TH8689"}, [and they shall know]{strong="H3045" x-morph="strongMorph: TH8804"} the_land_H776 [which ye have despised]{strong="H3988" x-morph="strongMorph: TH8804"}. 
+@32 But as for [you, your carcases]{strong="H6297"}, [they shall fall]{strong="H5307" x-morph="strongMorph: TH8799"} in_this_wilderness_H4057. 
+@33 And_your_children_H1121 [shall wander]{strong="H7462" x-morph="strongMorph: TH8802"} in_the_wilderness_H4057 forty_H705 years_H8141, [and bear]{strong="H5375" x-morph="strongMorph: TH8804"} your_whoredoms_H2184, until_your_carcases_H6297 [be wasted]{strong="H8552" x-morph="strongMorph: TH8800"} in_the_wilderness_H4057.^b^ 
+@34 After_the_number_H4557 of_the_days_H3117 [in which ye searched]{strong="H8446" x-morph="strongMorph: TH8804"} the_land_H776, even forty_H705 days_H3117, each_day_H3117 [for a year]{strong="H8141 H3117 H8141"}, [shall ye bear]{strong="H5375" x-morph="strongMorph: TH8799"} your_iniquities_H5771, even forty_H705 years_H8141, [and ye shall know]{strong="H3045" x-morph="strongMorph: TH8804"} my_breach_of_promise_H8569.^c^ 
+@35 I the LORD [have said]{strong="H1696" x-morph="strongMorph: TH8765"}, [I will surely]{strong="H3808 H518"} [do]{strong="H6213" x-morph="strongMorph: TH8799"} it_H2063 unto_all_this_evil_H7451 congregation_H5712, [that are gathered together]{strong="H3259" x-morph="strongMorph: TH8737"} [against me: in this wilderness]{strong="H4057"} [they shall be consumed]{strong="H8552" x-morph="strongMorph: TH8735"}, [and there they shall die]{strong="H4191" x-morph="strongMorph: TH8799"}. 
 ^a^[**14:30** sware: Heb. lifted up my hand] ^b^[**14:33** wander: or, feed] ^c^[**14:34** breach…: or, altering of my purpose]
 
-@36 And the men, which Moses sent to search the land, who returned, and made all the congregation to murmur against him, by bringing up a slander upon the land, 
-@37 Even those men that did bring up the evil report upon the land, died by the plague before the LORD. 
-@38 But Joshua the son of Nun, and Caleb the son of Jephunneh, which were of the men that went to search the land, lived still. 
-@39 And Moses told these sayings unto all the children of Israel: and the people mourned greatly. 
+@36 And_the_men_H582, which_Moses_H4872 [sent]{strong="H7971" x-morph="strongMorph: TH8804"} [to search]{strong="H8446" x-morph="strongMorph: TH8800"} the_land_H776, [who returned]{strong="H7725" x-morph="strongMorph: TH8799"}, and_made_all_the_congregation_H5712 [to murmur]{strong="H3885 H3885" x-morph="strongMorph: TH8735 strongMorph: TH8675 strongMorph: TH8686"} [against him, by bringing up]{strong="H3318" x-morph="strongMorph: TH8687"} a_slander_H1681 upon_the_land_H776, 
+@37 Even_those_H582 men_H582 [that did bring up]{strong="H3318" x-morph="strongMorph: TH8688"} the_evil_H7451 report_H1681 upon_the_land_H776, [died]{strong="H4191" x-morph="strongMorph: TH8799"} by_the_plague_H4046 before_H6440 the LORD. 
+@38 But_Joshua_H3091 the_son_H1121 of_Nun_H5126, and_Caleb_H3612 the_son_H1121 of_Jephunneh_H3312, which were [of the men]{strong="H582 H1992"} [that went]{strong="H1980" x-morph="strongMorph: TH8802"} [to search]{strong="H8446" x-morph="strongMorph: TH8800"} the_land_H776, [lived]{strong="H2421" x-morph="strongMorph: TH8804"} still. 
+@39 And_Moses_H4872 [told]{strong="H1696" x-morph="strongMorph: TH8762"} these_sayings_H1697 unto_all_the_children_H1121 of_Israel_H3478: and_the_people_H5971 [mourned]{strong="H56" x-morph="strongMorph: TH8691"} greatly_H3966. 
 
-@40 And they rose up early in the morning, and gat them up into the top of the mountain, saying, Lo, we be here, and will go up unto the place which the LORD hath promised: for we have sinned. 
-@41 And Moses said, Wherefore now do ye transgress the commandment of the LORD? but it shall not prosper. 
-@42 Go not up, for the LORD is not among you; that ye be not smitten before your enemies. 
-@43 For the Amalekites and the Canaanites are there before you, and ye shall fall by the sword: because ye are turned away from the LORD, therefore the LORD will not be with you. 
-@44 But they presumed to go up unto the hill top: nevertheless the ark of the covenant of the LORD, and Moses, departed not out of the camp. 
-@45 Then the Amalekites came down, and the Canaanites which dwelt in that hill, and smote them, and discomfited them, even unto Hormah. 
+@40 [And they rose up early]{strong="H7925" x-morph="strongMorph: TH8686"} in_the_morning_H1242, [and gat them up]{strong="H5927" x-morph="strongMorph: TH8799"} into_the_top_H7218 of_the_mountain_H2022, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, Lo_H2009, we be here, [and will go up]{strong="H5927" x-morph="strongMorph: TH8804"} unto_the_place_H4725 which the LORD [hath promised]{strong="H559" x-morph="strongMorph: TH8804"}: [for we have sinned]{strong="H2398" x-morph="strongMorph: TH8804"}. 
+@41 And_Moses_H4872 [said]{strong="H559" x-morph="strongMorph: TH8799"}, [Wherefore now do ye transgress]{strong="H5674" x-morph="strongMorph: TH8802"} the_commandment_H6310 of the LORD? [but it shall not prosper]{strong="H6743" x-morph="strongMorph: TH8799"}. 
+@42 [Go not up]{strong="H5927" x-morph="strongMorph: TH8799"}, for the LORD is not_among_H7130 [you; that ye be not smitten]{strong="H5062" x-morph="strongMorph: TH8735"} before_H6440 [your enemies]{strong="H341" x-morph="strongMorph: TH8802"}. 
+@43 For_the_Amalekites_H6003 and_the_Canaanites_H3669 are there_before_H6440 [you, and ye shall fall]{strong="H5307" x-morph="strongMorph: TH8804"} by_the_sword_H2719: [because ye are turned]{strong="H7725" x-morph="strongMorph: TH8804"} away_H310 from the LORD, therefore the LORD will not be with you. 
+@44 [But they presumed]{strong="H6075" x-morph="strongMorph: TH8686"} [to go up]{strong="H5927" x-morph="strongMorph: TH8800"} unto_the_hill_H2022 top_H7218: nevertheless_the_ark_H727 of_the_covenant_H1285 of the LORD, and_Moses_H4872, [departed]{strong="H4185" x-morph="strongMorph: TH8804"} not_out_H7130 of_the_camp_H4264. 
+@45 Then_the_Amalekites_H6003 [came down]{strong="H3381" x-morph="strongMorph: TH8799"}, and_the_Canaanites_H3669 [which dwelt]{strong="H3427" x-morph="strongMorph: TH8802"} in_that_hill_H2022, [and smote]{strong="H5221" x-morph="strongMorph: TH8686"} [them, and discomfited]{strong="H3807" x-morph="strongMorph: TH8686"} them, even unto_Hormah_H2767. 
 
 # 15 
-@1 And the LORD spake unto Moses, saying, 
-@2 Speak unto the children of Israel, and say unto them, When ye be come into the land of your habitations, which I give unto you, 
-@3 And will make an offering by fire unto the LORD, a burnt offering, or a sacrifice in performing a vow, or in a freewill offering, or in your solemn feasts, to make a sweet savour unto the LORD, of the herd, or of the flock:^a^ 
-@4 Then shall he that offereth his offering unto the LORD bring a meat offering of a tenth deal of flour mingled with the fourth part of an hin of oil. 
-@5 And the fourth part of an hin of wine for a drink offering shalt thou prepare with the burnt offering or sacrifice, for one lamb. 
-@6 Or for a ram, thou shalt prepare for a meat offering two tenth deals of flour mingled with the third part of an hin of oil. 
-@7 And for a drink offering thou shalt offer the third part of an hin of wine, for a sweet savour unto the LORD. 
-@8 And when thou preparest a bullock for a burnt offering, or for a sacrifice in performing a vow, or peace offerings unto the LORD: 
-@9 Then shall he bring with a bullock a meat offering of three tenth deals of flour mingled with half an hin of oil. 
-@10 And thou shalt bring for a drink offering half an hin of wine, for an offering made by fire, of a sweet savour unto the LORD. 
-@11 Thus shall it be done for one bullock, or for one ram, or for a lamb, or a kid. 
-@12 According to the number that ye shall prepare, so shall ye do to every one according to their number. 
-@13 All that are born of the country shall do these things after this manner, in offering an offering made by fire, of a sweet savour unto the LORD. 
-@14 And if a stranger sojourn with you, or whosoever be among you in your generations, and will offer an offering made by fire, of a sweet savour unto the LORD; as ye do, so he shall do. 
-@15 One ordinance shall be both for you of the congregation, and also for the stranger that sojourneth with you, an ordinance for ever in your generations: as ye are, so shall the stranger be before the LORD. 
-@16 One law and one manner shall be for you, and for the stranger that sojourneth with you. 
+@1 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@2 [Speak]{strong="H1696" x-morph="strongMorph: TH8761"} unto_the_children_H1121 of_Israel_H3478, [and say]{strong="H559" x-morph="strongMorph: TH8804"} [unto them, When ye be come]{strong="H935" x-morph="strongMorph: TH8799"} into_the_land_H776 of_your_habitations_H4186, [which I give]{strong="H5414" x-morph="strongMorph: TH8802"} unto you, 
+@3 [And will make]{strong="H6213" x-morph="strongMorph: TH8804"} an_offering_by_fire_H801 unto the LORD, a_burnt_offering_H5930, or_a_sacrifice_H2077 [in performing]{strong="H6381" x-morph="strongMorph: TH8763"} a_vow_H5088, or_in_a_freewill_offering_H5071, or_in_your_solemn_feasts_H4150, [to make]{strong="H6213" x-morph="strongMorph: TH8800"} a_sweet_H5207 savour_H7381 unto the LORD, of_the_herd_H1241, or_of_the_flock_H6629:^a^ 
+@4 [Then shall he that offereth]{strong="H7126" x-morph="strongMorph: TH8688"} his_offering_H7133 unto the LORD [bring]{strong="H7126" x-morph="strongMorph: TH8689"} a_meat_offering_H4503 of_a_tenth_deal_H6241 of_flour_H5560 [mingled]{strong="H1101" x-morph="strongMorph: TH8803"} with_the_fourth_H7243 part of_an_hin_H1969 of_oil_H8081. 
+@5 And_the_fourth_H7243 part of_an_hin_H1969 of_wine_H3196 for_a_drink_offering_H5262 [shalt thou prepare]{strong="H6213" x-morph="strongMorph: TH8799"} with_the_burnt_offering_H5930 or_sacrifice_H2077, for_one_H259 lamb_H3532. 
+@6 Or_for_a_ram_H352, [thou shalt prepare]{strong="H6213" x-morph="strongMorph: TH8799"} for a_meat_offering_H4503 two_H8147 tenth_deals_H6241 of_flour_H5560 [mingled]{strong="H1101" x-morph="strongMorph: TH8803"} with_the_third_H7992 part of_an_hin_H1969 of_oil_H8081. 
+@7 And_for_a_drink_offering_H5262 [thou shalt offer]{strong="H7126" x-morph="strongMorph: TH8686"} the_third_H7992 part of_an_hin_H1969 of_wine_H3196, for a_sweet_H5207 savour_H7381 unto the LORD. 
+@8 [And when thou preparest]{strong="H6213" x-morph="strongMorph: TH8799"} [a bullock]{strong="H1241 H1121"} for a_burnt_offering_H5930, or for a_sacrifice_H2077 [in performing]{strong="H6381" x-morph="strongMorph: TH8763"} a_vow_H5088, or_peace_offerings_H8002 unto the LORD: 
+@9 [Then shall he bring]{strong="H7126" x-morph="strongMorph: TH8689"} [with a bullock]{strong="H1121 H1241"} a_meat_offering_H4503 of_three_H7969 tenth_deals_H6241 of_flour_H5560 [mingled]{strong="H1101" x-morph="strongMorph: TH8803"} with_half_H2677 an_hin_H1969 of_oil_H8081. 
+@10 [And thou shalt bring]{strong="H7126" x-morph="strongMorph: TH8686"} for_a_drink_offering_H5262 half_H2677 an_hin_H1969 of_wine_H3196, for an_offering_made_by_fire_H801, of_a_sweet_H5207 savour_H7381 unto the LORD. 
+@11 [Thus shall it be done]{strong="H6213" x-morph="strongMorph: TH8735"} for_one_H259 bullock_H7794, or_for_one_H259 ram_H352, [or for a lamb]{strong="H7716 H3532"}, or_a_kid_H5795. 
+@12 According_to_the_number_H4557 [that ye shall prepare]{strong="H6213" x-morph="strongMorph: TH8799"}, so_H3602 [shall ye do]{strong="H6213" x-morph="strongMorph: TH8799"} to_every_one_H259 according_to_their_number_H4557. 
+@13 All_that_are_born_of_the_country_H249 [shall do]{strong="H6213" x-morph="strongMorph: TH8799"} [these things after this manner, in offering]{strong="H7126" x-morph="strongMorph: TH8687"} an_offering_made_by_fire_H801, of_a_sweet_H5207 savour_H7381 unto the LORD. 
+@14 And_if_a_stranger_H1616 [sojourn]{strong="H1481" x-morph="strongMorph: TH8799"} with you, or whosoever be among_H8432 you_in_your_generations_H1755, [and will offer]{strong="H6213" x-morph="strongMorph: TH8804"} an_offering_made_by_fire_H801, of_a_sweet_H5207 savour_H7381 unto the LORD; [as ye do]{strong="H6213" x-morph="strongMorph: TH8799"}, [so he shall do]{strong="H6213" x-morph="strongMorph: TH8799"}. 
+@15 One_H259 ordinance_H2708 shall be both for_you_of_the_congregation_H6951, and_also_for_the_stranger_H1616 [that sojourneth]{strong="H1481" x-morph="strongMorph: TH8802"} with you, an_ordinance_H2708 for_ever_H5769 in_your_generations_H1755: as ye are, so_shall_the_stranger_H1616 be_before_H6440 the LORD. 
+@16 One_H259 law_H8451 and_one_H259 manner_H4941 [shall be for you, and for the stranger]{strong="H1616"} [that sojourneth]{strong="H1481" x-morph="strongMorph: TH8802"} with you. 
 ^a^[**15:3** performing: Heb. separating]
 
-@17 And the LORD spake unto Moses, saying, 
-@18 Speak unto the children of Israel, and say unto them, When ye come into the land whither I bring you, 
-@19 Then it shall be, that, when ye eat of the bread of the land, ye shall offer up an heave offering unto the LORD. 
-@20 Ye shall offer up a cake of the first of your dough for an heave offering: as ye do the heave offering of the threshingfloor, so shall ye heave it. 
-@21 Of the first of your dough ye shall give unto the LORD an heave offering in your generations. 
+@17 And the LORD [spake ]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@18 [Speak]{strong="H1696" x-morph="strongMorph: TH8761"} unto_the_children_H1121 of_Israel_H3478, [and say]{strong="H559" x-morph="strongMorph: TH8804"} [unto them, When ye come]{strong="H935" x-morph="strongMorph: TH8800"} into_the_land_H776 [whither I bring]{strong="H935" x-morph="strongMorph: TH8688"} you, 
+@19 [Then it shall be, that, when ye eat]{strong="H398" x-morph="strongMorph: TH8800"} of_the_bread_H3899 of_the_land_H776, [ye shall offer up]{strong="H7311" x-morph="strongMorph: TH8686"} an_heave_offering_H8641 unto the LORD. 
+@20 [Ye shall offer up]{strong="H7311" x-morph="strongMorph: TH8686"} a_cake_H2471 of_the_first_H7225 of_your_dough_H6182 for an_heave_offering_H8641: as ye do the_heave_offering_H8641 of_the_threshingfloor_H1637, [so shall ye heave]{strong="H7311" x-morph="strongMorph: TH8686"} it. 
+@21 Of_the_first_H7225 of_your_dough_H6182 [ye shall give]{strong="H5414" x-morph="strongMorph: TH8799"} unto the LORD an_heave_offering_H8641 in_your_generations_H1755. 
 
-@22 And if ye have erred, and not observed all these commandments, which the LORD hath spoken unto Moses, 
-@23 Even all that the LORD hath commanded you by the hand of Moses, from the day that the LORD commanded Moses, and henceforward among your generations; 
-@24 Then it shall be, if ought be committed by ignorance without the knowledge of the congregation, that all the congregation shall offer one young bullock for a burnt offering, for a sweet savour unto the LORD, with his meat offering, and his drink offering, according to the manner, and one kid of the goats for a sin offering.^a^ ^b^ 
-@25 And the priest shall make an atonement for all the congregation of the children of Israel, and it shall be forgiven them; for it is ignorance: and they shall bring their offering, a sacrifice made by fire unto the LORD, and their sin offering before the LORD, for their ignorance: 
-@26 And it shall be forgiven all the congregation of the children of Israel, and the stranger that sojourneth among them; seeing all the people were in ignorance. 
+@22 [And if ye have erred]{strong="H7686" x-morph="strongMorph: TH8799"}, [and not observed]{strong="H6213" x-morph="strongMorph: TH8799"} all_these_commandments_H4687, which the LORD [hath spoken]{strong="H1696" x-morph="strongMorph: TH8765"} unto_Moses_H4872, 
+@23 Even all that the LORD [hath commanded]{strong="H6680" x-morph="strongMorph: TH8765"} you_by_the_hand_H3027 of_Moses_H4872, from_the_day_H3117 that the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} Moses, and_henceforward_H1973 among_your_generations_H1755; 
+@24 Then it shall be, if ought [be committed]{strong="H6213" x-morph="strongMorph: TH8738"} by_ignorance_H7684 without_the_knowledge_H5869 of_the_congregation_H5712, that_all_the_congregation_H5712 [shall offer]{strong="H6213" x-morph="strongMorph: TH8804"} one_H259 [young]{strong="H1241 H1121"} bullock_H6499 for_a_burnt_offering_H5930, for_a_sweet_H5207 savour_H7381 unto the LORD, with_his_meat_offering_H4503, and_his_drink_offering_H5262, according_to_the_manner_H4941, and_one_H259 kid_H8163 of_the_goats_H5795 for_a_sin_offering_H2403.^a^ ^b^ 
+@25 And_the_priest_H3548 [shall make an atonement]{strong="H3722" x-morph="strongMorph: TH8765"} for_all_the_congregation_H5712 of_the_children_H1121 of_Israel_H3478, [and it shall be forgiven]{strong="H5545" x-morph="strongMorph: TH8738"} them; for it is ignorance_H7684: [and they shall bring]{strong="H935" x-morph="strongMorph: TH8689"} their_offering_H7133, a_sacrifice_made_by_fire_H801 unto the LORD, and_their_sin_offering_H2403 before_H6440 the LORD, for_their_ignorance_H7684: 
+@26 [And it shall be forgiven]{strong="H5545" x-morph="strongMorph: TH8738"} all_the_congregation_H5712 of_the_children_H1121 of_Israel_H3478, and_the_stranger_H1616 [that sojourneth]{strong="H1481" x-morph="strongMorph: TH8802"} among_H8432 [them; seeing all the people]{strong="H5971"} were in_ignorance_H7684. 
 ^a^[**15:24** without…: Heb. from the eyes] ^b^[**15:24** manner: or, ordinance]
 
-@27 And if any soul sin through ignorance, then he shall bring a she goat of the first year for a sin offering. 
-@28 And the priest shall make an atonement for the soul that sinneth ignorantly, when he sinneth by ignorance before the LORD, to make an atonement for him; and it shall be forgiven him. 
-@29 Ye shall have one law for him that sinneth through ignorance, both for him that is born among the children of Israel, and for the stranger that sojourneth among them.^a^ 
+@27 And_if_any_H259 soul_H5315 [sin]{strong="H2398" x-morph="strongMorph: TH8799"} through_ignorance_H7684, [then he shall bring]{strong="H7126" x-morph="strongMorph: TH8689"} a_she_goat_H5795 of_the_first_H1323 year_H8141 for_a_sin_offering_H2403. 
+@28 And_the_priest_H3548 [shall make an atonement]{strong="H3722" x-morph="strongMorph: TH8765"} for_the_soul_H5315 [that sinneth ignorantly]{strong="H7683" x-morph="strongMorph: TH8802"}, [when he sinneth]{strong="H2398" x-morph="strongMorph: TH8800"} by_ignorance_H7684 before_H6440 the LORD, [to make an atonement]{strong="H3722" x-morph="strongMorph: TH8763"} [for him; and it shall be forgiven]{strong="H5545" x-morph="strongMorph: TH8738"} him. 
+@29 Ye_shall_have_one_H259 law_H8451 [for him that sinneth]{strong="H6213" x-morph="strongMorph: TH8802"} through_ignorance_H7684, both for him_that_is_born_H249 among_the_children_H1121 of_Israel_H3478, and_for_the_stranger_H1616 [that sojourneth]{strong="H1481" x-morph="strongMorph: TH8802"} among_H8432 them.^a^ 
 ^a^[**15:29** sinneth: Heb. doth]
 
-@30 But the soul that doeth ought presumptuously, whether he be born in the land, or a stranger, the same reproacheth the LORD; and that soul shall be cut off from among his people.^a^ 
-@31 Because he hath despised the word of the LORD, and hath broken his commandment, that soul shall utterly be cut off; his iniquity shall be upon him. 
+@30 But_the_soul_H5315 [that doeth]{strong="H6213" x-morph="strongMorph: TH8799"} ought [presumptuously]{strong="H3027 H7311" x-morph="strongMorph: TH8802"}, whether he be born_in_the_land_H249, [or a stranger]{strong="H1616 H4480"}, [the same reproacheth]{strong="H1442" x-morph="strongMorph: TH8764"} the LORD; and_that_soul_H5315 [shall be cut off]{strong="H3772" x-morph="strongMorph: TH8738"} from_among_H7130 his_people_H5971.^a^ 
+@31 [Because he hath despised]{strong="H959" x-morph="strongMorph: TH8804"} the_word_H1697 of the LORD, [and hath broken]{strong="H6565" x-morph="strongMorph: TH8689"} his_commandment_H4687, that_soul_H5315 [shall utterly]{strong="H3772" x-morph="strongMorph: TH8736"} [be cut off]{strong="H3772" x-morph="strongMorph: TH8735"}; his_iniquity_H5771 shall be upon him. 
 ^a^[**15:30** presumptuously: Heb. with an high hand]
 
-@32 And while the children of Israel were in the wilderness, they found a man that gathered sticks upon the sabbath day. 
-@33 And they that found him gathering sticks brought him unto Moses and Aaron, and unto all the congregation. 
-@34 And they put him in ward, because it was not declared what should be done to him. 
-@35 And the LORD said unto Moses, The man shall be surely put to death: all the congregation shall stone him with stones without the camp. 
-@36 And all the congregation brought him without the camp, and stoned him with stones, and he died; as the LORD commanded Moses. 
+@32 And_while_the_children_H1121 of_Israel_H3478 were_in_the_wilderness_H4057, [they found]{strong="H4672" x-morph="strongMorph: TH8799"} a_man_H376 [that gathered]{strong="H7197" x-morph="strongMorph: TH8781"} sticks_H6086 upon_the_sabbath_H7676 day_H3117. 
+@33 [And they that found]{strong="H4672" x-morph="strongMorph: TH8802"} [him gathering]{strong="H7197" x-morph="strongMorph: TH8781"} sticks_H6086 [brought]{strong="H7126" x-morph="strongMorph: TH8686"} him_unto_Moses_H4872 and_Aaron_H175, and_unto_all_the_congregation_H5712. 
+@34 [And they put]{strong="H3240" x-morph="strongMorph: TH8686"} him_in_ward_H4929, [because it was not declared]{strong="H6567" x-morph="strongMorph: TH8795"} [what should be done]{strong="H6213" x-morph="strongMorph: TH8735"} to him. 
+@35 And the LORD [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872, The_man_H376 [shall be surely]{strong="H4191" x-morph="strongMorph: TH8800"} [put to death]{strong="H4191" x-morph="strongMorph: TH8714"}: all_the_congregation_H5712 [shall stone]{strong="H7275" x-morph="strongMorph: TH8800"} him_with_stones_H68 without_H2351 the_camp_H4264. 
+@36 And_all_the_congregation_H5712 [brought]{strong="H3318" x-morph="strongMorph: TH8686"} him_without_H2351 the_camp_H4264, [and stoned]{strong="H7275" x-morph="strongMorph: TH8799"} him_with_stones_H68, [and he died]{strong="H4191" x-morph="strongMorph: TH8799"}; as the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} Moses_H4872. 
 
-@37 And the LORD spake unto Moses, saying, 
-@38 Speak unto the children of Israel, and bid them that they make them fringes in the borders of their garments throughout their generations, and that they put upon the fringe of the borders a ribband of blue: 
-@39 And it shall be unto you for a fringe, that ye may look upon it, and remember all the commandments of the LORD, and do them; and that ye seek not after your own heart and your own eyes, after which ye use to go a whoring: 
-@40 That ye may remember, and do all my commandments, and be holy unto your God. 
-@41 I am the LORD your God, which brought you out of the land of Egypt, to be your God: I am the LORD your God. 
+@37 And the LORD [spake]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@38 [Speak]{strong="H1696" x-morph="strongMorph: TH8761"} unto_the_children_H1121 of_Israel_H3478, [and bid]{strong="H559" x-morph="strongMorph: TH8804"} [them that they make]{strong="H6213" x-morph="strongMorph: TH8804"} them_fringes_H6734 in_the_borders_H3671 of_their_garments_H899 throughout_their_generations_H1755, [and that they put]{strong="H5414" x-morph="strongMorph: TH8804"} upon_the_fringe_H6734 of_the_borders_H3671 a_ribband_H6616 of_blue_H8504: 
+@39 And_it_shall_be_unto_you_for_a_fringe_H6734, [that ye may look]{strong="H7200" x-morph="strongMorph: TH8804"} [upon it, and remember]{strong="H2142" x-morph="strongMorph: TH8804"} all_the_commandments_H4687 of the LORD, [and do]{strong="H6213" x-morph="strongMorph: TH8804"} [them; and that ye seek]{strong="H8446" x-morph="strongMorph: TH8799"} not_after_H310 your_own_heart_H3824 and_your_own_eyes_H5869, after_H310 [which ye use to go a whoring]{strong="H2181" x-morph="strongMorph: TH8802"}: 
+@40 [That ye may remember]{strong="H2142" x-morph="strongMorph: TH8799"}, [and do]{strong="H6213" x-morph="strongMorph: TH8804"} all_my_commandments_H4687, [and be]{strong="H1961" x-morph="strongMorph: TH8804"} holy_H6918 unto_your_God_H430. 
+@41 I am the LORD your_God_H430, [which brought you out]{strong="H3318" x-morph="strongMorph: TH8689"} of_the_land_H776 of_Egypt_H4714, to_be_your_God_H430: I am the LORD your_God_H430. 
 
 # 16 
-@1 Now Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took men: 
-@2 And they rose up before Moses, with certain of the children of Israel, two hundred and fifty princes of the assembly, famous in the congregation, men of renown: 
-@3 And they gathered themselves together against Moses and against Aaron, and said unto them, Ye take too much upon you, seeing all the congregation are holy, every one of them, and the LORD is among them: wherefore then lift ye up yourselves above the congregation of the LORD?^a^ 
-@4 And when Moses heard it, he fell upon his face: 
-@5 And he spake unto Korah and unto all his company, saying, Even to morrow the LORD will shew who are his, and who is holy; and will cause him to come near unto him: even him whom he hath chosen will he cause to come near unto him. 
-@6 This do; Take you censers, Korah, and all his company; 
-@7 And put fire therein, and put incense in them before the LORD to morrow: and it shall be that the man whom the LORD doth choose, he shall be holy: ye take too much upon you, ye sons of Levi. 
-@8 And Moses said unto Korah, Hear, I pray you, ye sons of Levi: 
-@9 Seemeth it but a small thing unto you, that the God of Israel hath separated you from the congregation of Israel, to bring you near to himself to do the service of the tabernacle of the LORD, and to stand before the congregation to minister unto them? 
-@10 And he hath brought thee near to him, and all thy brethren the sons of Levi with thee: and seek ye the priesthood also? 
-@11 For which cause both thou and all thy company are gathered together against the LORD: and what is Aaron, that ye murmur against him? 
+@1 Now_Korah_H7141, the_son_H1121 of_Izhar_H3324, the_son_H1121 of_Kohath_H6955, the_son_H1121 of_Levi_H3878, and_Dathan_H1885 and_Abiram_H48, the_sons_H1121 of_Eliab_H446, and_On_H203, the_son_H1121 of_Peleth_H6431, sons_H1121 of_Reuben_H7205, [took]{strong="H3947" x-morph="strongMorph: TH8799"} men: 
+@2 [And they rose up]{strong="H6965" x-morph="strongMorph: TH8799"} before_H6440 Moses_H4872, with_certain_H582 of_the_children_H1121 of_Israel_H3478, two_hundred_H3967 and_fifty_H2572 princes_H5387 of_the_assembly_H5712, famous_H7148 in_the_congregation_H4150, men_H582 of_renown_H8034: 
+@3 [And they gathered themselves together]{strong="H6950" x-morph="strongMorph: TH8735"} against_Moses_H4872 and_against_Aaron_H175, [and said]{strong="H559" x-morph="strongMorph: TH8799"} unto them, Ye take too_much_H7227 [upon you, seeing all the congregation]{strong="H5712"} are holy_H6918, every one of them, and the LORD is among_H8432 [them: wherefore then lift ye up]{strong="H5375" x-morph="strongMorph: TH8691"} yourselves_above_the_congregation_H6951 of the LORD?^a^ 
+@4 And_when_Moses_H4872 [heard]{strong="H8085" x-morph="strongMorph: TH8799"} it, [he fell]{strong="H5307" x-morph="strongMorph: TH8799"} upon_his_face_H6440: 
+@5 [And he spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Korah_H7141 and_unto_all_his_company_H5712, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, Even_to_morrow_H1242 the LORD [will shew]{strong="H3045" x-morph="strongMorph: TH8686"} who are his, and who is holy_H6918; and will cause him [to come near]{strong="H7126" x-morph="strongMorph: TH8689"} unto him: even him [whom he hath chosen]{strong="H977" x-morph="strongMorph: TH8799"} [will he cause to come near]{strong="H7126" x-morph="strongMorph: TH8686"} unto him. 
+@6 [This do]{strong="H6213" x-morph="strongMorph: TH8798"}; [Take]{strong="H3947" x-morph="strongMorph: TH8798"} you_censers_H4289, Korah_H7141, and_all_his_company_H5712; 
+@7 [And put]{strong="H5414" x-morph="strongMorph: TH8798"} fire_H784 therein_H2004, [and put]{strong="H7760" x-morph="strongMorph: TH8798"} incense_H7004 in_them_before_H6440 the LORD to_morrow_H4279: and it shall be that the_man_H376 whom the LORD [doth choose]{strong="H977" x-morph="strongMorph: TH8799"}, he shall be holy_H6918: ye take too_much_H7227 [upon you, ye sons]{strong="H1121"} of_Levi_H3878. 
+@8 And_Moses_H4872 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Korah_H7141, [Hear]{strong="H8085" x-morph="strongMorph: TH8798"}, [I pray you, ye sons]{strong="H1121"} of_Levi_H3878: 
+@9 Seemeth it but a_small_thing_H4592 [unto you, that the God]{strong="H430"} of_Israel_H3478 [hath separated]{strong="H914" x-morph="strongMorph: TH8689"} you_from_the_congregation_H5712 of_Israel_H3478, [to bring you near]{strong="H7126" x-morph="strongMorph: TH8687"} [to himself to do]{strong="H5647" x-morph="strongMorph: TH8800"} the_service_H5656 of_the_tabernacle_H4908 of the LORD, [and to stand]{strong="H5975" x-morph="strongMorph: TH8800"} before_H6440 the_congregation_H5712 [to minister]{strong="H8334" x-morph="strongMorph: TH8763"} unto them? 
+@10 [And he hath brought thee near]{strong="H7126" x-morph="strongMorph: TH8686"} to him, and_all_thy_brethren_H251 the_sons_H1121 of_Levi_H3878 [with thee: and seek]{strong="H1245" x-morph="strongMorph: TH8765"} ye_the_priesthood_H3550 also? 
+@11 For_which_cause_H3651 both thou_and_all_thy_company_H5712 are [gathered together]{strong="H3259" x-morph="strongMorph: TH8737"} against the LORD: and what is Aaron_H175, [that ye murmur]{strong="H3885 H3885" x-morph="strongMorph: TH8735 strongMorph: TH8675 strongMorph: TH8686"} against him? 
 ^a^[**16:3** Ye take…: Heb. It is much for you]
 
-@12 And Moses sent to call Dathan and Abiram, the sons of Eliab: which said, We will not come up: 
-@13 Is it a small thing that thou hast brought us up out of a land that floweth with milk and honey, to kill us in the wilderness, except thou make thyself altogether a prince over us? 
-@14 Moreover thou hast not brought us into a land that floweth with milk and honey, or given us inheritance of fields and vineyards: wilt thou put out the eyes of these men? we will not come up.^a^ 
-@15 And Moses was very wroth, and said unto the LORD, Respect not thou their offering: I have not taken one ass from them, neither have I hurt one of them. 
-@16 And Moses said unto Korah, Be thou and all thy company before the LORD, thou, and they, and Aaron, to morrow: 
-@17 And take every man his censer, and put incense in them, and bring ye before the LORD every man his censer, two hundred and fifty censers; thou also, and Aaron, each of you his censer. 
-@18 And they took every man his censer, and put fire in them, and laid incense thereon, and stood in the door of the tabernacle of the congregation with Moses and Aaron. 
-@19 And Korah gathered all the congregation against them unto the door of the tabernacle of the congregation: and the glory of the LORD appeared unto all the congregation. 
-@20 And the LORD spake unto Moses and unto Aaron, saying, 
-@21 Separate yourselves from among this congregation, that I may consume them in a moment. 
-@22 And they fell upon their faces, and said, O God, the God of the spirits of all flesh, shall one man sin, and wilt thou be wroth with all the congregation? 
+@12 And_Moses_H4872 [sent]{strong="H7971" x-morph="strongMorph: TH8799"} [to call]{strong="H7121" x-morph="strongMorph: TH8800"} Dathan_H1885 and_Abiram_H48, the_sons_H1121 of_Eliab_H446: [which said]{strong="H559" x-morph="strongMorph: TH8799"}, [We will not come up]{strong="H5927" x-morph="strongMorph: TH8799"}: 
+@13 Is it a_small_thing_H4592 that_H3588 [thou hast brought us up]{strong="H5927" x-morph="strongMorph: TH8689"} out_of_a_land_H776 [that floweth]{strong="H2100" x-morph="strongMorph: TH8802"} with_milk_H2461 and_honey_H1706, [to kill]{strong="H4191" x-morph="strongMorph: TH8687"} us_in_the_wilderness_H4057, except_thou_make_H8323 [thyself altogether]{strong="H8323" x-morph="strongMorph: TH8692"} [a prince]{strong="H8323" x-morph="strongMorph: TH8691"} over us? 
+@14 Moreover_H637 [thou hast not brought]{strong="H935" x-morph="strongMorph: TH8689"} us_into_a_land_H776 [that floweth]{strong="H2100" x-morph="strongMorph: TH8802"} with_milk_H2461 and_honey_H1706, [or given]{strong="H5414" x-morph="strongMorph: TH8799"} us_inheritance_H5159 of_fields_H7704 and_vineyards_H3754: [wilt thou put out]{strong="H5365" x-morph="strongMorph: TH8762"} the_eyes_H5869 of_these_men_H582? [we will not come up]{strong="H5927" x-morph="strongMorph: TH8799"}.^a^ 
+@15 And_Moses_H4872 was_very_H3966 [wroth]{strong="H2734" x-morph="strongMorph: TH8799"}, [and said]{strong="H559" x-morph="strongMorph: TH8799"} unto the LORD, [Respect]{strong="H6437" x-morph="strongMorph: TH8799"} not_thou_their_offering_H4503: [I have not taken]{strong="H5375" x-morph="strongMorph: TH8804"} one_H259 ass_H2543 [from them, neither have I hurt]{strong="H7489" x-morph="strongMorph: TH8689"} one_H259 of them. 
+@16 And_Moses_H4872 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Korah_H7141, Be_thou_and_all_thy_company_H5712 before_H6440 the LORD, [thou, and they, and Aaron]{strong="H175"}, to_morrow_H4279: 
+@17 [And take]{strong="H3947" x-morph="strongMorph: TH8798"} every_man_H376 his_censer_H4289, [and put]{strong="H5414" x-morph="strongMorph: TH8804"} incense_H7004 [in them, and bring]{strong="H7126" x-morph="strongMorph: TH8689"} ye_before_H6440 the LORD every_man_H376 his_censer_H4289, two_hundred_H3967 and_fifty_H2572 censers_H4289; [thou also, and Aaron]{strong="H175"}, each_H376 of you his_censer_H4289. 
+@18 [And they took]{strong="H3947" x-morph="strongMorph: TH8799"} every_man_H376 his_censer_H4289, [and put]{strong="H5414" x-morph="strongMorph: TH8799"} fire_H784 [in them, and laid]{strong="H7760" x-morph="strongMorph: TH8799"} incense_H7004 [thereon, and stood]{strong="H5975" x-morph="strongMorph: TH8799"} in_the_door_H6607 of_the_tabernacle_H168 of_the_congregation_H4150 with_Moses_H4872 and_Aaron_H175. 
+@19 And_Korah_H7141 [gathered]{strong="H6950" x-morph="strongMorph: TH8686"} all_the_congregation_H5712 against_them_unto_the_door_H6607 of_the_tabernacle_H168 of_the_congregation_H4150: and_the_glory_H3519 of the LORD [appeared]{strong="H7200" x-morph="strongMorph: TH8735"} unto_all_the_congregation_H5712. 
+@20 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872 and_unto_Aaron_H175, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@21 [Separate]{strong="H914" x-morph="strongMorph: TH8734"} yourselves_from_among_H8432 this_congregation_H5712, [that I may consume]{strong="H3615" x-morph="strongMorph: TH8762"} them_in_a_moment_H7281. 
+@22 [And they fell]{strong="H5307" x-morph="strongMorph: TH8799"} upon_their_faces_H6440, [and said]{strong="H559" x-morph="strongMorph: TH8799"}, O_God_H410, the_God_H430 of_the_spirits_H7307 of_all_flesh_H1320, shall_one_H259 man_H376 [sin]{strong="H2398" x-morph="strongMorph: TH8799"}, [and wilt thou be wroth]{strong="H7107" x-morph="strongMorph: TH8799"} with_all_the_congregation_H5712? 
 ^a^[**16:14** put…: Heb. bore out]
 
-@23 And the LORD spake unto Moses, saying, 
-@24 Speak unto the congregation, saying, Get you up from about the tabernacle of Korah, Dathan, and Abiram. 
-@25 And Moses rose up and went unto Dathan and Abiram; and the elders of Israel followed him. 
-@26 And he spake unto the congregation, saying, Depart, I pray you, from the tents of these wicked men, and touch nothing of theirs, lest ye be consumed in all their sins. 
-@27 So they gat up from the tabernacle of Korah, Dathan, and Abiram, on every side: and Dathan and Abiram came out, and stood in the door of their tents, and their wives, and their sons, and their little children. 
-@28 And Moses said, Hereby ye shall know that the LORD hath sent me to do all these works; for I have not done them of mine own mind. 
-@29 If these men die the common death of all men, or if they be visited after the visitation of all men; then the LORD hath not sent me.^a^ 
-@30 But if the LORD make a new thing, and the earth open her mouth, and swallow them up, with all that appertain unto them, and they go down quick into the pit; then ye shall understand that these men have provoked the LORD.^b^ 
+@23 And the LORD [spake ]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@24 [Speak]{strong="H1696" x-morph="strongMorph: TH8761"} unto_the_congregation_H5712, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, [Get you up]{strong="H5927" x-morph="strongMorph: TH8734"} from_about_H5439 the_tabernacle_H4908 of_Korah_H7141, Dathan_H1885, and_Abiram_H48. 
+@25 And_Moses_H4872 [rose up]{strong="H6965" x-morph="strongMorph: TH8799"} [and went]{strong="H3212" x-morph="strongMorph: TH8799"} unto_Dathan_H1885 and_Abiram_H48; and_the_elders_H2205 of_Israel_H3478 [followed]{strong="H3212" x-morph="strongMorph: TH8799"} him_H310. 
+@26 [And he spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_the_congregation_H5712, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, [Depart]{strong="H5493" x-morph="strongMorph: TH8798"}, [I pray you, from the tents]{strong="H168"} of_these_wicked_H7563 men_H582, [and touch]{strong="H5060" x-morph="strongMorph: TH8799"} [nothing of theirs, lest ye be consumed]{strong="H5595" x-morph="strongMorph: TH8735"} in_all_their_sins_H2403. 
+@27 [So they gat up]{strong="H5927" x-morph="strongMorph: TH8735"} from_the_tabernacle_H4908 of_Korah_H7141, Dathan_H1885, and_Abiram_H48, on_every_side_H5439: and_Dathan_H1885 and_Abiram_H48 [came out]{strong="H3318" x-morph="strongMorph: TH8804"}, [and stood]{strong="H5324" x-morph="strongMorph: TH8737"} in_the_door_H6607 of_their_tents_H168, and_their_wives_H802, and_their_sons_H1121, and_their_little_children_H2945. 
+@28 And_Moses_H4872 [said]{strong="H559" x-morph="strongMorph: TH8799"}, [Hereby ye shall know]{strong="H3045" x-morph="strongMorph: TH8799"} that the LORD [hath sent]{strong="H7971" x-morph="strongMorph: TH8804"} [me to do]{strong="H6213" x-morph="strongMorph: TH8800"} all_these_works_H4639; for I have not done them of_mine_own_mind_H3820. 
+@29 [If these men die]{strong="H4191" x-morph="strongMorph: TH8799"} the_common_death_H4194 of_all_men_H120, [or if they be visited]{strong="H6485" x-morph="strongMorph: TH8735"} after_the_visitation_H6486 of_all_men_H120; then the LORD [hath not sent]{strong="H7971" x-morph="strongMorph: TH8804"} me.^a^ 
+@30 But if the LORD [make]{strong="H1254" x-morph="strongMorph: TH8799"} a_new_thing_H1278, and_the_earth_H127 [open]{strong="H6475" x-morph="strongMorph: TH8804"} her_mouth_H6310, [and swallow them up]{strong="H1104" x-morph="strongMorph: TH8804"}, with all that appertain [unto them, and they go down]{strong="H3381" x-morph="strongMorph: TH8804"} quick_H2416 into_the_pit_H7585; [then ye shall understand]{strong="H3045" x-morph="strongMorph: TH8804"} that_these_men_H582 [have provoked]{strong="H5006" x-morph="strongMorph: TH8765"} the LORD.^b^ 
 ^a^[**16:29** the common…: Heb. as every man dieth] ^b^[**16:30** make…: Heb. create a creature]
 
-@31 And it came to pass, as he had made an end of speaking all these words, that the ground clave asunder that was under them: 
-@32 And the earth opened her mouth, and swallowed them up, and their houses, and all the men that appertained unto Korah, and all their goods. 
-@33 They, and all that appertained to them, went down alive into the pit, and the earth closed upon them: and they perished from among the congregation. 
-@34 And all Israel that were round about them fled at the cry of them: for they said, Lest the earth swallow us up also. 
+@31 [And it came to pass, as he had made an end]{strong="H3615" x-morph="strongMorph: TH8763"} [of speaking]{strong="H1696" x-morph="strongMorph: TH8763"} all_these_words_H1697, that_the_ground_H127 [clave asunder]{strong="H1234" x-morph="strongMorph: TH8735"} that was under them: 
+@32 And_the_earth_H776 [opened]{strong="H6605" x-morph="strongMorph: TH8799"} her_mouth_H6310, [and swallowed them up]{strong="H1104" x-morph="strongMorph: TH8799"}, and_their_houses_H1004, and_all_the_men_H120 that appertained unto_Korah_H7141, and all their goods_H7399. 
+@33 They, and all that appertained [to them, went down]{strong="H3381" x-morph="strongMorph: TH8799"} alive_H2416 into_the_pit_H7585, and_the_earth_H776 [closed]{strong="H3680" x-morph="strongMorph: TH8762"} [upon them: and they perished]{strong="H6" x-morph="strongMorph: TH8799"} from_among_H8432 the_congregation_H6951. 
+@34 And_all_Israel_H3478 that were round_about_H5439 [them fled]{strong="H5127" x-morph="strongMorph: TH8804"} at_the_cry_H6963 [of them: for they said]{strong="H559" x-morph="strongMorph: TH8804"}, Lest_the_earth_H776 [swallow us up]{strong="H1104" x-morph="strongMorph: TH8799"} also. 
 
-@35 And there came out a fire from the LORD, and consumed the two hundred and fifty men that offered incense. 
+@35 [And there came out]{strong="H3318" x-morph="strongMorph: TH8804"} a_fire_H784 from the LORD, [and consumed]{strong="H398" x-morph="strongMorph: TH8799"} the_two_hundred_H3967 and_fifty_H2572 men_H376 [that offered]{strong="H7126" x-morph="strongMorph: TH8688"} incense_H7004. 
 
-@36 And the LORD spake unto Moses, saying, 
-@37 Speak unto Eleazar the son of Aaron the priest, that he take up the censers out of the burning, and scatter thou the fire yonder; for they are hallowed. 
-@38 The censers of these sinners against their own souls, let them make them broad plates for a covering of the altar: for they offered them before the LORD, therefore they are hallowed: and they shall be a sign unto the children of Israel. 
-@39 And Eleazar the priest took the brasen censers, wherewith they that were burnt had offered; and they were made broad plates for a covering of the altar: 
-@40 To be a memorial unto the children of Israel, that no stranger, which is not of the seed of Aaron, come near to offer incense before the LORD; that he be not as Korah, and as his company: as the LORD said to him by the hand of Moses. 
+@36 And the LORD [spake ]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@37 [Speak]{strong="H559" x-morph="strongMorph: TH8798"} unto_Eleazar_H499 the_son_H1121 of_Aaron_H175 the_priest_H3548, [that he take up]{strong="H7311" x-morph="strongMorph: TH8686"} the_censers_H4289 out_H996 of_the_burning_H8316, [and scatter]{strong="H2219" x-morph="strongMorph: TH8798"} thou_the_fire_H784 yonder_H1973; [for they are hallowed]{strong="H6942" x-morph="strongMorph: TH8804"}. 
+@38 The_censers_H4289 of_these_sinners_H2400 against_their_own_souls_H5315, [let them make]{strong="H6213" x-morph="strongMorph: TH8804"} them_broad_H7555 plates_H6341 for a_covering_H6826 of_the_altar_H4196: [for they offered]{strong="H7126" x-morph="strongMorph: TH8689"} them_before_H6440 the LORD, [therefore they are hallowed]{strong="H6942" x-morph="strongMorph: TH8799"}: and_they_shall_be_a_sign_H226 unto_the_children_H1121 of_Israel_H3478. 
+@39 And_Eleazar_H499 the_priest_H3548 [took]{strong="H3947" x-morph="strongMorph: TH8799"} the_brasen_H5178 censers_H4289, [wherewith they that were burnt]{strong="H8313" x-morph="strongMorph: TH8803"} [had offered]{strong="H7126" x-morph="strongMorph: TH8689"}; [and they were made broad]{strong="H7554" x-morph="strongMorph: TH8762"} plates for a_covering_H6826 of_the_altar_H4196: 
+@40 To be a_memorial_H2146 unto_the_children_H1121 of_Israel_H3478, [that]{strong="H4616 H834"} [no stranger]{strong="H2114 H376" x-morph="strongMorph: TH8801"}, which is not_of_the_seed_H2233 of_Aaron_H175, [come near]{strong="H7126" x-morph="strongMorph: TH8799"} [to offer]{strong="H6999" x-morph="strongMorph: TH8687"} incense_H7004 before_H6440 the LORD; that_he_be_not_as_Korah_H7141, and_as_his_company_H5712: as the LORD [said]{strong="H1696" x-morph="strongMorph: TH8765"} to_him_by_the_hand_H3027 of_Moses_H4872. 
 
-@41 But on the morrow all the congregation of the children of Israel murmured against Moses and against Aaron, saying, Ye have killed the people of the LORD. 
-@42 And it came to pass, when the congregation was gathered against Moses and against Aaron, that they looked toward the tabernacle of the congregation: and, behold, the cloud covered it, and the glory of the LORD appeared. 
-@43 And Moses and Aaron came before the tabernacle of the congregation. 
+@41 But_on_the_morrow_H4283 all_the_congregation_H5712 of_the_children_H1121 of_Israel_H3478 [murmured]{strong="H3885" x-morph="strongMorph: TH8735"} against_Moses_H4872 and_against_Aaron_H175, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, [Ye have killed]{strong="H4191" x-morph="strongMorph: TH8689"} the_people_H5971 of the LORD. 
+@42 [And it came to pass, when the congregation]{strong="H5712"} [was gathered]{strong="H6950" x-morph="strongMorph: TH8736"} against_Moses_H4872 and_against_Aaron_H175, [that they looked]{strong="H6437" x-morph="strongMorph: TH8799"} toward_the_tabernacle_H168 of_the_congregation_H4150: [and, behold, the cloud]{strong="H6051"} [covered]{strong="H3680" x-morph="strongMorph: TH8765"} [it, and the glory]{strong="H3519"} of the LORD [appeared]{strong="H7200" x-morph="strongMorph: TH8735"}. 
+@43 And_Moses_H4872 and_Aaron_H175 [came]{strong="H935" x-morph="strongMorph: TH8799"} before_H6440 the_tabernacle_H168 of_the_congregation_H4150. 
 
-@44 And the LORD spake unto Moses, saying, 
-@45 Get you up from among this congregation, that I may consume them as in a moment. And they fell upon their faces. 
+@44 And the LORD [spake ]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@45 [Get you up]{strong="H7426" x-morph="strongMorph: TH8734"} from_among_H8432 this_congregation_H5712, [that I may consume]{strong="H3615" x-morph="strongMorph: TH8762"} them_as_in_a_moment_H7281. [And they fell]{strong="H5307" x-morph="strongMorph: TH8799"} upon_their_faces_H6440. 
 
-@46 And Moses said unto Aaron, Take a censer, and put fire therein from off the altar, and put on incense, and go quickly unto the congregation, and make an atonement for them: for there is wrath gone out from the LORD; the plague is begun. 
-@47 And Aaron took as Moses commanded, and ran into the midst of the congregation; and, behold, the plague was begun among the people: and he put on incense, and made an atonement for the people. 
-@48 And he stood between the dead and the living; and the plague was stayed. 
-@49 Now they that died in the plague were fourteen thousand and seven hundred, beside them that died about the matter of Korah. 
-@50 And Aaron returned unto Moses unto the door of the tabernacle of the congregation: and the plague was stayed. 
+@46 And_Moses_H4872 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Aaron_H175, [Take]{strong="H3947" x-morph="strongMorph: TH8798"} a_censer_H4289, [and put]{strong="H5414" x-morph="strongMorph: TH8798"} fire_H784 therein_from_off_H6440 the_altar_H4196, [and put]{strong="H7760" x-morph="strongMorph: TH8798"} on_incense_H7004, [and go]{strong="H3212" x-morph="strongMorph: TH8685"} quickly_H4120 unto_the_congregation_H5712, [and make an atonement]{strong="H3722" x-morph="strongMorph: TH8761"} [for them: for there is wrath]{strong="H7110"} [gone out]{strong="H3318" x-morph="strongMorph: TH8804"} from the LORD; the_plague_H5063 [is begun]{strong="H2490" x-morph="strongMorph: TH8689"}. 
+@47 And_Aaron_H175 [took]{strong="H3947" x-morph="strongMorph: TH8799"} as_Moses_H4872 [commanded]{strong="H1696" x-morph="strongMorph: TH8765"}, [and ran]{strong="H7323" x-morph="strongMorph: TH8799"} into_the_midst_H8432 of_the_congregation_H6951; [and, behold, the plague]{strong="H5063"} [was begun]{strong="H2490" x-morph="strongMorph: TH8689"} among_the_people_H5971: [and he put]{strong="H5414" x-morph="strongMorph: TH8799"} on_incense_H7004, [and made an atonement]{strong="H3722" x-morph="strongMorph: TH8762"} for_the_people_H5971. 
+@48 [And he stood]{strong="H5975" x-morph="strongMorph: TH8799"} [between the dead]{strong="H4191" x-morph="strongMorph: TH8801"} and_the_living_H2416; and_the_plague_H4046 [was stayed]{strong="H6113" x-morph="strongMorph: TH8735"}. 
+@49 [Now they that died]{strong="H4191" x-morph="strongMorph: TH8801"} in_the_plague_H4046 [were fourteen]{strong="H6240 H702"} thousand_H505 and_seven_H7651 hundred_H3967, [beside them that died]{strong="H4191" x-morph="strongMorph: TH8801"} about_the_matter_H1697 of_Korah_H7141. 
+@50 And_Aaron_H175 [returned]{strong="H7725" x-morph="strongMorph: TH8799"} unto_Moses_H4872 unto_the_door_H6607 of_the_tabernacle_H168 of_the_congregation_H4150: and_the_plague_H4046 [was stayed]{strong="H6113" x-morph="strongMorph: TH8738"}. 
 
 # 17 
-@1 And the LORD spake unto Moses, saying, 
-@2 Speak unto the children of Israel, and take of every one of them a rod according to the house of their fathers, of all their princes according to the house of their fathers twelve rods: write thou every man’s name upon his rod. 
-@3 And thou shalt write Aaron’s name upon the rod of Levi: for one rod shall be for the head of the house of their fathers. 
-@4 And thou shalt lay them up in the tabernacle of the congregation before the testimony, where I will meet with you. 
-@5 And it shall come to pass, that the man’s rod, whom I shall choose, shall blossom: and I will make to cease from me the murmurings of the children of Israel, whereby they murmur against you. 
+@1 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@2 [Speak]{strong="H1696" x-morph="strongMorph: TH8761"} unto_the_children_H1121 of_Israel_H3478, [and take]{strong="H3947" x-morph="strongMorph: TH8798"} [of every one of them a rod]{strong="H4294 H4294"} according_to_the_house_H1004 of their fathers_H1, of_all_their_princes_H5387 according_to_the_house_H1004 of_their_fathers_H1 [twelve]{strong="H6240 H8147"} rods_H4294: [write]{strong="H3789" x-morph="strongMorph: TH8799"} [thou every man’s]{strong="H376"} name_H8034 upon_his_rod_H4294. 
+@3 [And thou shalt write]{strong="H3789" x-morph="strongMorph: TH8799"} [Aaron’s]{strong="H175"} name_H8034 upon_the_rod_H4294 of_Levi_H3878: for_one_H259 rod_H4294 shall be for_the_head_H7218 of_the_house_H1004 of_their_fathers_H1. 
+@4 [And thou shalt lay them up]{strong="H3240" x-morph="strongMorph: TH8689"} in_the_tabernacle_H168 of_the_congregation_H4150 before_H6440 the_testimony_H5715, [where I will meet]{strong="H3259" x-morph="strongMorph: TH8735"} with you. 
+@5 And it shall come to pass, that [the man’s]{strong="H376"} rod_H4294, [whom I shall choose]{strong="H977" x-morph="strongMorph: TH8799"}, [shall blossom]{strong="H6524" x-morph="strongMorph: TH8799"}: [and I will make to cease]{strong="H7918" x-morph="strongMorph: TH8689"} from_me_the_murmurings_H8519 of_the_children_H1121 of_Israel_H3478, [whereby they murmur]{strong="H3885" x-morph="strongMorph: TH8688"} against you. 
 
-@6 And Moses spake unto the children of Israel, and every one of their princes gave him a rod apiece, for each prince one, according to their fathers’ houses, even twelve rods: and the rod of Aaron was among their rods.^a^ 
-@7 And Moses laid up the rods before the LORD in the tabernacle of witness. 
+@6 And_Moses_H4872 [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_the_children_H1121 of_Israel_H3478, and_every_one_of_their_princes_H5387 [gave]{strong="H5414" x-morph="strongMorph: TH8799"} [him a rod]{strong="H4294 H4294"} [apiece, for each prince]{strong="H5387 H5387"} [one]{strong="H259 H259"}, [according to their fathers’]{strong="H1"} houses_H1004, even [twelve]{strong="H8147 H6240"} rods_H4294: and_the_rod_H4294 of_Aaron_H175 was among_H8432 their_rods_H4294.^a^ 
+@7 And_Moses_H4872 [laid up]{strong="H3240" x-morph="strongMorph: TH8686"} the_rods_H4294 before_H6440 the LORD in_the_tabernacle_H168 of_witness_H5715. 
 ^a^[**17:6** a rod…: Heb. a rod for one prince, a rod for one prince]
 
-@8 And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds. 
-@9 And Moses brought out all the rods from before the LORD unto all the children of Israel: and they looked, and took every man his rod. 
+@8 [And it came to pass, that on the morrow]{strong="H4283"} Moses_H4872 [went]{strong="H935" x-morph="strongMorph: TH8799"} into_the_tabernacle_H168 of_witness_H5715; [and, behold, the rod]{strong="H4294"} of_Aaron_H175 for_the_house_H1004 of_Levi_H3878 [was budded]{strong="H6524" x-morph="strongMorph: TH8804"}, [and brought forth]{strong="H3318" x-morph="strongMorph: TH8686"} buds_H6525, [and bloomed]{strong="H6692" x-morph="strongMorph: TH8686"} blossoms_H6731, [and yielded]{strong="H1580" x-morph="strongMorph: TH8799"} almonds_H8247. 
+@9 And_Moses_H4872 [brought out]{strong="H3318" x-morph="strongMorph: TH8686"} all_the_rods_H4294 from_before_H6440 the LORD unto_all_the_children_H1121 of_Israel_H3478: [and they looked]{strong="H7200" x-morph="strongMorph: TH8799"}, [and took]{strong="H3947" x-morph="strongMorph: TH8799"} every_man_H376 his_rod_H4294. 
 
-@10 And the LORD said unto Moses, Bring Aaron’s rod again before the testimony, to be kept for a token against the rebels; and thou shalt quite take away their murmurings from me, that they die not.^a^ 
-@11 And Moses did so: as the LORD commanded him, so did he. 
-@12 And the children of Israel spake unto Moses, saying, Behold, we die, we perish, we all perish. 
-@13 Whosoever cometh any thing near unto the tabernacle of the LORD shall die: shall we be consumed with dying?
+@10 And the LORD [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872, Bring_H7725 [Aaron’s]{strong="H175"} rod_H4294 [again]{strong="H7725" x-morph="strongMorph: TH8685"} before_H6440 the_testimony_H5715, to_be_kept_H4931 for_a_token_H226 [against the rebels]{strong="H1121 H4805"}; [and thou shalt quite take away]{strong="H3615" x-morph="strongMorph: TH8762"} their_murmurings_H8519 [from me, that they die]{strong="H4191" x-morph="strongMorph: TH8799"} not.^a^ 
+@11 And_Moses_H4872 [did]{strong="H6213" x-morph="strongMorph: TH8799"} so: as the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} [him, so did]{strong="H6213" x-morph="strongMorph: TH8804"} he. 
+@12 And_the_children_H1121 of_Israel_H3478 [spake]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, [Behold, we die]{strong="H1478" x-morph="strongMorph: TH8804"}, [we perish]{strong="H6" x-morph="strongMorph: TH8804"}, [we all perish]{strong="H6" x-morph="strongMorph: TH8804"}. 
+@13 Whosoever_cometh_any_thing_near_H7131 unto_the_tabernacle_H4908 of the LORD [shall die]{strong="H4191" x-morph="strongMorph: TH8799"}: [shall we be consumed]{strong="H8552" x-morph="strongMorph: TH8804"} [with dying]{strong="H1478" x-morph="strongMorph: TH8800"}?
 ^a^[**17:10** rebels: Heb. children of rebellion] 
 
 # 18 
-@1 And the LORD said unto Aaron, Thou and thy sons and thy father’s house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the iniquity of your priesthood. 
-@2 And thy brethren also of the tribe of Levi, the tribe of thy father, bring thou with thee, that they may be joined unto thee, and minister unto thee: but thou and thy sons with thee shall minister before the tabernacle of witness. 
-@3 And they shall keep thy charge, and the charge of all the tabernacle: only they shall not come nigh the vessels of the sanctuary and the altar, that neither they, nor ye also, die. 
-@4 And they shall be joined unto thee, and keep the charge of the tabernacle of the congregation, for all the service of the tabernacle: and a stranger shall not come nigh unto you. 
-@5 And ye shall keep the charge of the sanctuary, and the charge of the altar: that there be no wrath any more upon the children of Israel. 
-@6 And I, behold, I have taken your brethren the Levites from among the children of Israel: to you they are given as a gift for the LORD, to do the service of the tabernacle of the congregation. 
-@7 Therefore thou and thy sons with thee shall keep your priest’s office for every thing of the altar, and within the vail; and ye shall serve: I have given your priest’s office unto you as a service of gift: and the stranger that cometh nigh shall be put to death. 
+@1 And the LORD [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Aaron_H175, Thou_and_thy_sons_H1121 [and thy father’s]{strong="H1"} house_H1004 [with thee shall bear]{strong="H5375" x-morph="strongMorph: TH8799"} the_iniquity_H5771 of_the_sanctuary_H4720: and_thou_and_thy_sons_H1121 [with thee shall bear]{strong="H5375" x-morph="strongMorph: TH8799"} the_iniquity_H5771 of_your_priesthood_H3550. 
+@2 And_thy_brethren_H251 also_of_the_tribe_H4294 of_Levi_H3878, the_tribe_H7626 of_thy_father_H1, [bring]{strong="H7126" x-morph="strongMorph: TH8685"} [thou with thee, that they may be joined]{strong="H3867" x-morph="strongMorph: TH8735"} [unto thee, and minister]{strong="H8334" x-morph="strongMorph: TH8762"} [unto thee: but thou and thy sons]{strong="H1121"} with thee shall minister before_H6440 the_tabernacle_H168 of_witness_H5715. 
+@3 [And they shall keep]{strong="H8104" x-morph="strongMorph: TH8804"} thy_charge_H4931, and_the_charge_H4931 of_all_the_tabernacle_H168: [only they shall not come nigh]{strong="H7126" x-morph="strongMorph: TH8799"} the_vessels_H3627 of_the_sanctuary_H6944 and_the_altar_H4196, [that neither they, nor ye also, die]{strong="H4191" x-morph="strongMorph: TH8799"}. 
+@4 [And they shall be joined]{strong="H3867" x-morph="strongMorph: TH8738"} [unto thee, and keep]{strong="H8104" x-morph="strongMorph: TH8804"} the_charge_H4931 of_the_tabernacle_H168 of_the_congregation_H4150, for_all_the_service_H5656 of_the_tabernacle_H168: [and a stranger]{strong="H2114" x-morph="strongMorph: TH8801"} [shall not come nigh]{strong="H7126" x-morph="strongMorph: TH8799"} unto you. 
+@5 [And ye shall keep]{strong="H8104" x-morph="strongMorph: TH8804"} the_charge_H4931 of_the_sanctuary_H6944, and_the_charge_H4931 of_the_altar_H4196: that_there_be_no_wrath_H7110 any_more_upon_the_children_H1121 of_Israel_H3478. 
+@6 [And I, behold, I have taken]{strong="H3947" x-morph="strongMorph: TH8804"} your_brethren_H251 the_Levites_H3881 from_among_H8432 the_children_H1121 of_Israel_H3478: to you they are [given]{strong="H5414" x-morph="strongMorph: TH8803"} as a_gift_H4979 for the LORD, [to do]{strong="H5647" x-morph="strongMorph: TH8800"} the_service_H5656 of_the_tabernacle_H168 of_the_congregation_H4150. 
+@7 Therefore_thou_and_thy_sons_H1121 [with thee shall keep]{strong="H8104" x-morph="strongMorph: TH8799"} [your priest’s office]{strong="H3550"} for_every_thing_H1697 of_the_altar_H4196, and_within_H1004 the_vail_H6532; [and ye shall serve]{strong="H5647" x-morph="strongMorph: TH8804"}: [I have given]{strong="H5414" x-morph="strongMorph: TH8799"} [your priest’s office]{strong="H3550"} unto you as_a_service_H5656 of_gift_H4979: [and the stranger]{strong="H2114" x-morph="strongMorph: TH8801"} that_cometh_nigh_H7131 [shall be put to death]{strong="H4191" x-morph="strongMorph: TH8714"}. 
 
-@8 And the LORD spake unto Aaron, Behold, I also have given thee the charge of mine heave offerings of all the hallowed things of the children of Israel; unto thee have I given them by reason of the anointing, and to thy sons, by an ordinance for ever. 
-@9 This shall be thine of the most holy things, reserved from the fire: every oblation of theirs, every meat offering of theirs, and every sin offering of theirs, and every trespass offering of theirs, which they shall render unto me, shall be most holy for thee and for thy sons. 
-@10 In the most holy place shalt thou eat it; every male shall eat it: it shall be holy unto thee. 
-@11 And this is thine; the heave offering of their gift, with all the wave offerings of the children of Israel: I have given them unto thee, and to thy sons and to thy daughters with thee, by a statute for ever: every one that is clean in thy house shall eat of it. 
-@12 All the best of the oil, and all the best of the wine, and of the wheat, the firstfruits of them which they shall offer unto the LORD, them have I given thee.^a^ 
-@13 And whatsoever is first ripe in the land, which they shall bring unto the LORD, shall be thine; every one that is clean in thine house shall eat of it. 
-@14 Every thing devoted in Israel shall be thine. 
-@15 Every thing that openeth the matrix in all flesh, which they bring unto the LORD, whether it be of men or beasts, shall be thine: nevertheless the firstborn of man shalt thou surely redeem, and the firstling of unclean beasts shalt thou redeem. 
-@16 And those that are to be redeemed from a month old shalt thou redeem, according to thine estimation, for the money of five shekels, after the shekel of the sanctuary, which is twenty gerahs. 
-@17 But the firstling of a cow, or the firstling of a sheep, or the firstling of a goat, thou shalt not redeem; they are holy: thou shalt sprinkle their blood upon the altar, and shalt burn their fat for an offering made by fire, for a sweet savour unto the LORD. 
-@18 And the flesh of them shall be thine, as the wave breast and as the right shoulder are thine. 
-@19 All the heave offerings of the holy things, which the children of Israel offer unto the LORD, have I given thee, and thy sons and thy daughters with thee, by a statute for ever: it is a covenant of salt for ever before the LORD unto thee and to thy seed with thee. 
+@8 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Aaron_H175, [Behold, I also have given]{strong="H5414" x-morph="strongMorph: TH8804"} thee_the_charge_H4931 of_mine_heave_offerings_H8641 of_all_the_hallowed_things_H6944 of_the_children_H1121 of_Israel_H3478; [unto thee have I given]{strong="H5414" x-morph="strongMorph: TH8804"} them_by_reason_of_the_anointing_H4888, and_to_thy_sons_H1121, by_an_ordinance_H2706 for_ever_H5769. 
+@9 This_shall_be_thine_of_the_most_H6944 holy_things_H6944, reserved from_the_fire_H784: every_oblation_H7133 [of theirs, every meat offering]{strong="H4503"} [of theirs, and every sin offering]{strong="H2403"} [of theirs, and every trespass offering]{strong="H817"} [of theirs, which they shall render]{strong="H7725" x-morph="strongMorph: TH8686"} unto me, shall be most_H6944 holy_H6944 for_thee_and_for_thy_sons_H1121. 
+@10 In_the_most_H6944 holy_H6944 place [shalt thou eat]{strong="H398" x-morph="strongMorph: TH8799"} [it; every male]{strong="H2145"} [shall eat]{strong="H398" x-morph="strongMorph: TH8799"} [it: it shall be holy]{strong="H6944"} unto thee. 
+@11 And this is [thine; the heave offering]{strong="H8641"} of_their_gift_H4976, with_all_the_wave_offerings_H8573 of_the_children_H1121 of_Israel_H3478: [I have given]{strong="H5414" x-morph="strongMorph: TH8804"} [them unto thee, and to thy sons]{strong="H1121"} and_to_thy_daughters_H1323 [with thee, by a statute]{strong="H2706"} for_ever_H5769: every_one_that_is_clean_H2889 in_thy_house_H1004 [shall eat]{strong="H398" x-morph="strongMorph: TH8799"} of it. 
+@12 All_the_best_H2459 of_the_oil_H3323, and_all_the_best_H2459 of_the_wine_H8492, and_of_the_wheat_H1715, the_firstfruits_H7225 [of them which they shall offer]{strong="H5414" x-morph="strongMorph: TH8799"} unto the LORD, [them have I given]{strong="H5414" x-morph="strongMorph: TH8804"} thee.^a^ 
+@13 And whatsoever_is_first_ripe_H1061 in_the_land_H776, [which they shall bring]{strong="H935" x-morph="strongMorph: TH8686"} unto the LORD, [shall be thine; every one that is clean]{strong="H2889"} in_thine_house_H1004 [shall eat]{strong="H398" x-morph="strongMorph: TH8799"} of it. 
+@14 Every_thing_devoted_H2764 in_Israel_H3478 shall be thine. 
+@15 Every_thing_that_openeth_H6363 the_matrix_H7358 in_all_flesh_H1320, [which they bring]{strong="H7126" x-morph="strongMorph: TH8686"} unto the LORD, whether it be of_men_H120 or_beasts_H929, [shall be thine: nevertheless the firstborn]{strong="H1060"} of_man_H120 [shalt thou surely]{strong="H6299" x-morph="strongMorph: TH8800"} [redeem]{strong="H6299" x-morph="strongMorph: TH8799"}, and_the_firstling_H1060 of_unclean_H2931 beasts_H929 [shalt thou redeem]{strong="H6299" x-morph="strongMorph: TH8799"}. 
+@16 [And those that are to be redeemed]{strong="H6299" x-morph="strongMorph: TH8803"} from_a_month_H2320 old_H1121 [shalt thou redeem]{strong="H6299" x-morph="strongMorph: TH8799"}, according_to_thine_estimation_H6187, for_the_money_H3701 of_five_H2568 shekels_H8255, after_the_shekel_H8255 of_the_sanctuary_H6944, which is twenty_H6242 gerahs_H1626. 
+@17 But_the_firstling_H1060 of_a_cow_H7794, or_the_firstling_H1060 of_a_sheep_H3775, or_the_firstling_H1060 of_a_goat_H5795, [thou shalt not redeem]{strong="H6299" x-morph="strongMorph: TH8799"}; they are holy_H6944: [thou shalt sprinkle]{strong="H2236" x-morph="strongMorph: TH8799"} their_blood_H1818 upon_the_altar_H4196, [and shalt burn]{strong="H6999" x-morph="strongMorph: TH8686"} their_fat_H2459 for an_offering_made_by_fire_H801, for_a_sweet_H5207 savour_H7381 unto the LORD. 
+@18 And_the_flesh_H1320 [of them shall be thine, as the wave]{strong="H8573"} breast_H2373 and_as_the_right_H3225 shoulder_H7785 are thine. 
+@19 All_the_heave_offerings_H8641 of_the_holy_things_H6944, which_the_children_H1121 of_Israel_H3478 [offer]{strong="H7311" x-morph="strongMorph: TH8686"} unto the LORD, [have I given]{strong="H5414" x-morph="strongMorph: TH8804"} [thee, and thy sons]{strong="H1121"} and_thy_daughters_H1323 [with thee, by a statute]{strong="H2706"} for_ever_H5769: it is a_covenant_H1285 of_salt_H4417 for_ever_H5769 before_H6440 the LORD unto_thee_and_to_thy_seed_H2233 with thee. 
 ^a^[**18:12** best: Heb. fat]
 
-@20 And the LORD spake unto Aaron, Thou shalt have no inheritance in their land, neither shalt thou have any part among them: I am thy part and thine inheritance among the children of Israel. 
-@21 And, behold, I have given the children of Levi all the tenth in Israel for an inheritance, for their service which they serve, even the service of the tabernacle of the congregation. 
-@22 Neither must the children of Israel henceforth come nigh the tabernacle of the congregation, lest they bear sin, and die.^a^ 
-@23 But the Levites shall do the service of the tabernacle of the congregation, and they shall bear their iniquity: it shall be a statute for ever throughout your generations, that among the children of Israel they have no inheritance. 
-@24 But the tithes of the children of Israel, which they offer as an heave offering unto the LORD, I have given to the Levites to inherit: therefore I have said unto them, Among the children of Israel they shall have no inheritance. 
+@20 And the LORD [spake]{strong="H559" x-morph="strongMorph: TH8799"} unto_Aaron_H175, [Thou shalt have no inheritance]{strong="H5157" x-morph="strongMorph: TH8799"} in_their_land_H776, neither_shalt_thou_have_any_part_H2506 among_H8432 them: I am thy_part_H2506 and_thine_inheritance_H5159 among_H8432 the_children_H1121 of_Israel_H3478. 
+@21 [And, behold, I have given]{strong="H5414" x-morph="strongMorph: TH8804"} the_children_H1121 of_Levi_H3878 all_the_tenth_H4643 in_Israel_H3478 for_an_inheritance_H5159, for_H2500 their_service_H5656 [which they serve]{strong="H5647" x-morph="strongMorph: TH8802"}, even the_service_H5656 of_the_tabernacle_H168 of_the_congregation_H4150. 
+@22 Neither_must_the_children_H1121 of_Israel_H3478 henceforth_H5750 [come nigh]{strong="H7126" x-morph="strongMorph: TH8799"} the_tabernacle_H168 of_the_congregation_H4150, [lest they bear]{strong="H5375" x-morph="strongMorph: TH8800"} sin_H2399, [and die]{strong="H4191" x-morph="strongMorph: TH8800"}.^a^ 
+@23 But_the_Levites_H3881 [shall do]{strong="H5647" x-morph="strongMorph: TH8804"} the_service_H5656 of_the_tabernacle_H168 of_the_congregation_H4150, [and they shall bear]{strong="H5375" x-morph="strongMorph: TH8799"} their_iniquity_H5771: it shall be a_statute_H2708 for_ever_H5769 throughout_your_generations_H1755, that_among_H8432 the_children_H1121 of_Israel_H3478 [they have]{strong="H5157" x-morph="strongMorph: TH8799"} no_inheritance_H5159. 
+@24 But_the_tithes_H4643 of_the_children_H1121 of_Israel_H3478, [which they offer]{strong="H7311" x-morph="strongMorph: TH8686"} as an_heave_offering_H8641 unto the LORD, [I have given]{strong="H5414" x-morph="strongMorph: TH8804"} to_the_Levites_H3881 to_inherit_H5159: [therefore I have said]{strong="H559" x-morph="strongMorph: TH8804"} [unto them, Among]{strong="H8432"} the_children_H1121 of_Israel_H3478 [they shall have]{strong="H5157" x-morph="strongMorph: TH8799"} no_inheritance_H5159. 
 ^a^[**18:22** and die: Heb. to die]
 
-@25 And the LORD spake unto Moses, saying, 
-@26 Thus speak unto the Levites, and say unto them, When ye take of the children of Israel the tithes which I have given you from them for your inheritance, then ye shall offer up an heave offering of it for the LORD, even a tenth part of the tithe. 
-@27 And this your heave offering shall be reckoned unto you, as though it were the corn of the threshingfloor, and as the fulness of the winepress. 
-@28 Thus ye also shall offer an heave offering unto the LORD of all your tithes, which ye receive of the children of Israel; and ye shall give thereof the LORD’S heave offering to Aaron the priest. 
-@29 Out of all your gifts ye shall offer every heave offering of the LORD, of all the best thereof, even the hallowed part thereof out of it.^a^ 
-@30 Therefore thou shalt say unto them, When ye have heaved the best thereof from it, then it shall be counted unto the Levites as the increase of the threshingfloor, and as the increase of the winepress.^b^ 
-@31 And ye shall eat it in every place, ye and your households: for it is your reward for your service in the tabernacle of the congregation. 
-@32 And ye shall bear no sin by reason of it, when ye have heaved from it the best of it: neither shall ye pollute the holy things of the children of Israel, lest ye die.
+@25 And the LORD [spake ]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@26 [Thus speak]{strong="H1696" x-morph="strongMorph: TH8762"} unto_the_Levites_H3881, [and say]{strong="H559" x-morph="strongMorph: TH8804"} [unto them, When ye take]{strong="H3947" x-morph="strongMorph: TH8799"} of_the_children_H1121 of_Israel_H3478 the_tithes_H4643 [which I have given]{strong="H5414" x-morph="strongMorph: TH8804"} you_from_them_for_your_inheritance_H5159, [then ye shall offer]{strong="H7311" x-morph="strongMorph: TH8689"} up_an_heave_offering_H8641 of it for the LORD, even a_tenth_H4643 part of_the_tithe_H4643. 
+@27 And this your_heave_offering_H8641 [shall be reckoned]{strong="H2803" x-morph="strongMorph: TH8738"} unto you, as though it were the_corn_H1715 of_the_threshingfloor_H1637, and_as_the_fulness_H4395 of_the_winepress_H3342. 
+@28 [Thus ye also shall offer]{strong="H7311" x-morph="strongMorph: TH8686"} an_heave_offering_H8641 unto the LORD of_all_your_tithes_H4643, [which ye receive]{strong="H3947" x-morph="strongMorph: TH8799"} of_the_children_H1121 of_Israel_H3478; [and ye shall give]{strong="H5414" x-morph="strongMorph: TH8804"} thereof the LORD’S heave_offering_H8641 to_Aaron_H175 the_priest_H3548. 
+@29 Out_of_all_your_gifts_H4979 [ye shall offer]{strong="H7311" x-morph="strongMorph: TH8686"} every_heave_offering_H8641 of the LORD, of_all_the_best_H2459 thereof, even the_hallowed_part_H4720 thereof out of it.^a^ 
+@30 [Therefore thou shalt say]{strong="H559" x-morph="strongMorph: TH8804"} [unto them, When ye have heaved]{strong="H7311" x-morph="strongMorph: TH8687"} the_best_H2459 [thereof from it, then it shall be counted]{strong="H2803" x-morph="strongMorph: TH8738"} unto_the_Levites_H3881 as_the_increase_H8393 of_the_threshingfloor_H1637, and_as_the_increase_H8393 of_the_winepress_H3342.^b^ 
+@31 [And ye shall eat]{strong="H398" x-morph="strongMorph: TH8804"} it_in_every_place_H4725, ye_and_your_households_H1004: for it is your_reward_H7939 for_H2500 your_service_H5656 in_the_tabernacle_H168 of_the_congregation_H4150. 
+@32 [And ye shall bear]{strong="H5375" x-morph="strongMorph: TH8799"} no_sin_H2399 [by reason of it, when ye have heaved]{strong="H7311" x-morph="strongMorph: TH8687"} from_it_the_best_H2459 [of it: neither shall ye pollute]{strong="H2490" x-morph="strongMorph: TH8762"} the_holy_things_H6944 of_the_children_H1121 of_Israel_H3478, [lest ye die]{strong="H4191" x-morph="strongMorph: TH8799"}.
 ^a^[**18:29** best: Heb. fat] ^b^[**18:30** best: Heb. fat] 
 
 # 19 
-@1 And the LORD spake unto Moses and unto Aaron, saying, 
-@2 This is the ordinance of the law which the LORD hath commanded, saying, Speak unto the children of Israel, that they bring thee a red heifer without spot, wherein is no blemish, and upon which never came yoke: 
-@3 And ye shall give her unto Eleazar the priest, that he may bring her forth without the camp, and one shall slay her before his face: 
-@4 And Eleazar the priest shall take of her blood with his finger, and sprinkle of her blood directly before the tabernacle of the congregation seven times: 
-@5 And one shall burn the heifer in his sight; her skin, and her flesh, and her blood, with her dung, shall he burn: 
-@6 And the priest shall take cedar wood, and hyssop, and scarlet, and cast it into the midst of the burning of the heifer. 
-@7 Then the priest shall wash his clothes, and he shall bathe his flesh in water, and afterward he shall come into the camp, and the priest shall be unclean until the even. 
-@8 And he that burneth her shall wash his clothes in water, and bathe his flesh in water, and shall be unclean until the even. 
-@9 And a man that is clean shall gather up the ashes of the heifer, and lay them up without the camp in a clean place, and it shall be kept for the congregation of the children of Israel for a water of separation: it is a purification for sin. 
-@10 And he that gathereth the ashes of the heifer shall wash his clothes, and be unclean until the even: and it shall be unto the children of Israel, and unto the stranger that sojourneth among them, for a statute for ever. 
+@1 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872 and_unto_Aaron_H175, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@2 This is the_ordinance_H2708 of_the_law_H8451 which the LORD [hath commanded]{strong="H6680" x-morph="strongMorph: TH8765"}, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, [Speak]{strong="H1696" x-morph="strongMorph: TH8761"} unto_the_children_H1121 of_Israel_H3478, [that they bring]{strong="H3947" x-morph="strongMorph: TH8799"} thee_a_red_H122 heifer_H6510 without_spot_H8549, wherein is no_blemish_H3971, and upon_which_never_H3808 [came]{strong="H5927" x-morph="strongMorph: TH8804"} yoke_H5923: 
+@3 [And ye shall give]{strong="H5414" x-morph="strongMorph: TH8804"} her_unto_Eleazar_H499 the_priest_H3548, [that he may bring her forth]{strong="H3318" x-morph="strongMorph: TH8689"} without_H2351 the_camp_H4264, and one [shall slay]{strong="H7819" x-morph="strongMorph: TH8804"} her_before_H6440 his face: 
+@4 And_Eleazar_H499 the_priest_H3548 [shall take]{strong="H3947" x-morph="strongMorph: TH8804"} of_her_blood_H1818 with_his_finger_H676, [and sprinkle]{strong="H5137" x-morph="strongMorph: TH8689"} of_her_blood_H1818 directly_H5227 before_H6440 the_tabernacle_H168 of_the_congregation_H4150 seven_H7651 times_H6471: 
+@5 And one [shall burn]{strong="H8313" x-morph="strongMorph: TH8804"} the_heifer_H6510 in_his_sight_H5869; her_skin_H5785, and_her_flesh_H1320, and_her_blood_H1818, with_her_dung_H6569, [shall he burn]{strong="H8313" x-morph="strongMorph: TH8799"}: 
+@6 And_the_priest_H3548 [shall take]{strong="H3947" x-morph="strongMorph: TH8804"} cedar_H730 wood_H6086, and_hyssop_H231, [and scarlet]{strong="H8144 H8438"}, [and cast]{strong="H7993" x-morph="strongMorph: TH8689"} it into_the_midst_H8432 of_the_burning_H8316 of_the_heifer_H6510. 
+@7 Then_the_priest_H3548 [shall wash]{strong="H3526" x-morph="strongMorph: TH8765"} his_clothes_H899, [and he shall bathe]{strong="H7364" x-morph="strongMorph: TH8804"} his_flesh_H1320 in_water_H4325, and_afterward_H310 [he shall come]{strong="H935" x-morph="strongMorph: TH8799"} into_the_camp_H4264, and_the_priest_H3548 [shall be unclean]{strong="H2930" x-morph="strongMorph: TH8804"} until_the_even_H6153. 
+@8 [And he that burneth]{strong="H8313" x-morph="strongMorph: TH8802"} [her shall wash]{strong="H3526" x-morph="strongMorph: TH8762"} his_clothes_H899 in_water_H4325, [and bathe]{strong="H7364" x-morph="strongMorph: TH8804"} his_flesh_H1320 in_water_H4325, [and shall be unclean]{strong="H2930" x-morph="strongMorph: TH8804"} until_the_even_H6153. 
+@9 And_a_man_H376 that is clean_H2889 [shall gather]{strong="H622" x-morph="strongMorph: TH8804"} up_the_ashes_H665 of_the_heifer_H6510, and lay them [up]{strong="H3240" x-morph="strongMorph: TH8689"} without_H2351 the_camp_H4264 in_a_clean_H2889 place_H4725, and_it_shall_be_kept_H4931 for_the_congregation_H5712 of_the_children_H1121 of_Israel_H3478 for_a_water_H4325 of_separation_H5079: it is a_purification_for_sin_H2403. 
+@10 [And he that gathereth]{strong="H622" x-morph="strongMorph: TH8802"} the_ashes_H665 of_the_heifer_H6510 [shall wash]{strong="H3526" x-morph="strongMorph: TH8765"} his_clothes_H899, [and be unclean]{strong="H2930" x-morph="strongMorph: TH8804"} until_the_even_H6153: and_it_shall_be_unto_the_children_H1121 of_Israel_H3478, and_unto_the_stranger_H1616 [that sojourneth]{strong="H1481" x-morph="strongMorph: TH8802"} among_H8432 [them, for a statute]{strong="H2708"} for_ever_H5769. 
 
-@11 He that toucheth the dead body of any man shall be unclean seven days.^a^ 
-@12 He shall purify himself with it on the third day, and on the seventh day he shall be clean: but if he purify not himself the third day, then the seventh day he shall not be clean. 
-@13 Whosoever toucheth the dead body of any man that is dead, and purifieth not himself, defileth the tabernacle of the LORD; and that soul shall be cut off from Israel: because the water of separation was not sprinkled upon him, he shall be unclean; his uncleanness is yet upon him. 
-@14 This is the law, when a man dieth in a tent: all that come into the tent, and all that is in the tent, shall be unclean seven days. 
-@15 And every open vessel, which hath no covering bound upon it, is unclean. 
-@16 And whosoever toucheth one that is slain with a sword in the open fields, or a dead body, or a bone of a man, or a grave, shall be unclean seven days. 
-@17 And for an unclean person they shall take of the ashes of the burnt heifer of purification for sin, and running water shall be put thereto in a vessel:^b^ ^c^ 
-@18 And a clean person shall take hyssop, and dip it in the water, and sprinkle it upon the tent, and upon all the vessels, and upon the persons that were there, and upon him that touched a bone, or one slain, or one dead, or a grave: 
-@19 And the clean person shall sprinkle upon the unclean on the third day, and on the seventh day: and on the seventh day he shall purify himself, and wash his clothes, and bathe himself in water, and shall be clean at even. 
-@20 But the man that shall be unclean, and shall not purify himself, that soul shall be cut off from among the congregation, because he hath defiled the sanctuary of the LORD: the water of separation hath not been sprinkled upon him; he is unclean. 
-@21 And it shall be a perpetual statute unto them, that he that sprinkleth the water of separation shall wash his clothes; and he that toucheth the water of separation shall be unclean until even. 
-@22 And whatsoever the unclean person toucheth shall be unclean; and the soul that toucheth it shall be unclean until even.
+@11 [He that toucheth]{strong="H5060" x-morph="strongMorph: TH8802"} [the dead]{strong="H4191" x-morph="strongMorph: TH8801"} body_H5315 of_any_man_H120 [shall be unclean]{strong="H2930" x-morph="strongMorph: TH8804"} seven_H7651 days_H3117.^a^ 
+@12 [He shall purify]{strong="H2398" x-morph="strongMorph: TH8691"} himself_with_it_on_the_third_H7992 day_H3117, and_on_the_seventh_H7637 day_H3117 [he shall be clean]{strong="H2891" x-morph="strongMorph: TH8799"}: [but if he purify]{strong="H2398" x-morph="strongMorph: TH8691"} not_himself_the_third_H7992 day_H3117, then_the_seventh_H7637 day_H3117 [he shall not be clean]{strong="H2891" x-morph="strongMorph: TH8799"}. 
+@13 [Whosoever toucheth]{strong="H5060" x-morph="strongMorph: TH8802"} [the dead]{strong="H4191" x-morph="strongMorph: TH8801"} body_H5315 of_any_man_H120 [that is dead]{strong="H4191" x-morph="strongMorph: TH8799"}, [and purifieth]{strong="H2398" x-morph="strongMorph: TH8691"} [not himself, defileth]{strong="H2930" x-morph="strongMorph: TH8765"} the_tabernacle_H4908 of the LORD; and_that_soul_H5315 [shall be cut off]{strong="H3772" x-morph="strongMorph: TH8738"} from_Israel_H3478: because_the_water_H4325 of_separation_H5079 [was not sprinkled]{strong="H2236" x-morph="strongMorph: TH8795"} [upon him, he shall be unclean]{strong="H2931"}; his_uncleanness_H2932 is yet upon him. 
+@14 This is the_law_H8451, when_a_man_H120 [dieth]{strong="H4191" x-morph="strongMorph: TH8799"} in_a_tent_H168: [all that come]{strong="H935" x-morph="strongMorph: TH8802"} into_the_tent_H168, and all that is in_the_tent_H168, [shall be unclean]{strong="H2930" x-morph="strongMorph: TH8799"} seven_H7651 days_H3117. 
+@15 [And every open]{strong="H6605" x-morph="strongMorph: TH8803"} vessel_H3627, which_hath_no_covering_H6781 bound_H6616 upon it, is unclean_H2931. 
+@16 [And whosoever toucheth]{strong="H5060" x-morph="strongMorph: TH8799"} one_that_is_slain_H2491 with_a_sword_H2719 in_the_open_H6440 fields_H7704, [or a dead body]{strong="H4191" x-morph="strongMorph: TH8801"}, or_a_bone_H6106 of_a_man_H120, or_a_grave_H6913, [shall be unclean]{strong="H2930" x-morph="strongMorph: TH8799"} seven_H7651 days_H3117. 
+@17 And_for_an_unclean_H2931 person [they shall take]{strong="H3947" x-morph="strongMorph: TH8804"} of_the_ashes_H6083 of_the_burnt_heifer_H8316 of_purification_for_sin_H2403, and_running_H2416 water_H4325 [shall be put]{strong="H5414" x-morph="strongMorph: TH8804"} thereto_in_a_vessel_H3627:^b^ ^c^ 
+@18 And_a_clean_H2889 person_H376 [shall take]{strong="H3947" x-morph="strongMorph: TH8804"} hyssop_H231, [and dip]{strong="H2881" x-morph="strongMorph: TH8804"} it in_the_water_H4325, [and sprinkle]{strong="H5137" x-morph="strongMorph: TH8689"} it upon_the_tent_H168, and_upon_all_the_vessels_H3627, and_upon_the_persons_H5315 [that were there, and upon him that touched]{strong="H5060" x-morph="strongMorph: TH8802"} a_bone_H6106, or_one_slain_H2491, [or one dead]{strong="H4191" x-morph="strongMorph: TH8801"}, or_a_grave_H6913: 
+@19 And_the_clean_H2889 person [shall sprinkle]{strong="H5137" x-morph="strongMorph: TH8689"} upon_the_unclean_H2931 on_the_third_H7992 day_H3117, and_on_the_seventh_H7637 day_H3117: and_on_the_seventh_H7637 day_H3117 [he shall purify]{strong="H2398" x-morph="strongMorph: TH8765"} [himself, and wash]{strong="H3526" x-morph="strongMorph: TH8765"} his_clothes_H899, [and bathe]{strong="H7364" x-morph="strongMorph: TH8804"} himself_in_water_H4325, [and shall be clean]{strong="H2891" x-morph="strongMorph: TH8804"} at_even_H6153. 
+@20 But_the_man_H376 [that shall be unclean]{strong="H2930" x-morph="strongMorph: TH8799"}, [and shall not purify]{strong="H2398" x-morph="strongMorph: TH8691"} [himself, that soul]{strong="H5315"} [shall be cut off]{strong="H3772" x-morph="strongMorph: TH8738"} from_among_H8432 the_congregation_H6951, [because he hath defiled]{strong="H2930" x-morph="strongMorph: TH8765"} the_sanctuary_H4720 of the LORD: the_water_H4325 of_separation_H5079 [hath not been sprinkled]{strong="H2236" x-morph="strongMorph: TH8795"} upon him; he is unclean_H2931. 
+@21 And_it_shall_be_a_perpetual_H5769 statute_H2708 [unto them, that he that sprinkleth]{strong="H5137" x-morph="strongMorph: TH8688"} the_water_H4325 of_separation_H5079 [shall wash]{strong="H3526" x-morph="strongMorph: TH8762"} his_clothes_H899; [and he that toucheth]{strong="H5060" x-morph="strongMorph: TH8802"} the_water_H4325 of_separation_H5079 [shall be unclean]{strong="H2930" x-morph="strongMorph: TH8799"} until_even_H6153. 
+@22 And_whatsoever_the_unclean_H2931 person [toucheth]{strong="H5060" x-morph="strongMorph: TH8799"} [shall be unclean]{strong="H2930" x-morph="strongMorph: TH8799"}; and_the_soul_H5315 [that toucheth]{strong="H5060" x-morph="strongMorph: TH8802"} it [shall be unclean]{strong="H2930" x-morph="strongMorph: TH8799"} until_even_H6153.
 ^a^[**19:11** man: Heb. soul of man] ^b^[**19:17** ashes: Heb. dust] ^c^[**19:17** running…: Heb. living waters shall be given] 
 
 # 20 
-@1 Then came the children of Israel, even the whole congregation, into the desert of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there. 
-@2 And there was no water for the congregation: and they gathered themselves together against Moses and against Aaron. 
-@3 And the people chode with Moses, and spake, saying, Would God that we had died when our brethren died before the LORD! 
-@4 And why have ye brought up the congregation of the LORD into this wilderness, that we and our cattle should die there? 
-@5 And wherefore have ye made us to come up out of Egypt, to bring us in unto this evil place? it is no place of seed, or of figs, or of vines, or of pomegranates; neither is there any water to drink. 
-@6 And Moses and Aaron went from the presence of the assembly unto the door of the tabernacle of the congregation, and they fell upon their faces: and the glory of the LORD appeared unto them. 
+@1 [Then came]{strong="H935" x-morph="strongMorph: TH8799"} the_children_H1121 of_Israel_H3478, even the_whole_congregation_H5712, into_the_desert_H4057 of_Zin_H6790 in_the_first_H7223 month_H2320: and_the_people_H5971 [abode]{strong="H3427" x-morph="strongMorph: TH8799"} in_Kadesh_H6946; and_Miriam_H4813 [died]{strong="H4191" x-morph="strongMorph: TH8799"} [there, and was buried]{strong="H6912" x-morph="strongMorph: TH8735"} there. 
+@2 And_there_was_no_water_H4325 for_the_congregation_H5712: [and they gathered]{strong="H6950" x-morph="strongMorph: TH8735"} themselves_together_against_Moses_H4872 and_against_Aaron_H175. 
+@3 And_the_people_H5971 [chode]{strong="H7378" x-morph="strongMorph: TH8799"} with_Moses_H4872, [and spake]{strong="H559" x-morph="strongMorph: TH8799"}, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, Would_God_that_H3863 [we had died]{strong="H1478" x-morph="strongMorph: TH8804"} when_our_brethren_H251 [died]{strong="H1478" x-morph="strongMorph: TH8800"} before_H6440 the LORD! 
+@4 [And why have ye brought up]{strong="H935" x-morph="strongMorph: TH8689"} the_congregation_H6951 of the LORD into_this_wilderness_H4057, that_we_and_our_cattle_H1165 [should die]{strong="H4191" x-morph="strongMorph: TH8800"} there? 
+@5 [And wherefore have ye made us to come up]{strong="H5927" x-morph="strongMorph: TH8689"} out_of_Egypt_H4714, [to bring]{strong="H935" x-morph="strongMorph: TH8687"} us_in_unto_this_evil_H7451 place_H4725? it is no_place_H4725 of_seed_H2233, or_of_figs_H8384, or_of_vines_H1612, or_of_pomegranates_H7416; neither is there_any_water_H4325 [to drink]{strong="H8354" x-morph="strongMorph: TH8800"}. 
+@6 And_Moses_H4872 and_Aaron_H175 [went]{strong="H935" x-morph="strongMorph: TH8799"} from_the_presence_H6440 of_the_assembly_H6951 unto_the_door_H6607 of_the_tabernacle_H168 of_the_congregation_H4150, [and they fell]{strong="H5307" x-morph="strongMorph: TH8799"} upon_their_faces_H6440: and_the_glory_H3519 of the LORD [appeared]{strong="H7200" x-morph="strongMorph: TH8735"} unto them. 
 
-@7 And the LORD spake unto Moses, saying, 
-@8 Take the rod, and gather thou the assembly together, thou, and Aaron thy brother, and speak ye unto the rock before their eyes; and it shall give forth his water, and thou shalt bring forth to them water out of the rock: so thou shalt give the congregation and their beasts drink. 
-@9 And Moses took the rod from before the LORD, as he commanded him. 
-@10 And Moses and Aaron gathered the congregation together before the rock, and he said unto them, Hear now, ye rebels; must we fetch you water out of this rock? 
-@11 And Moses lifted up his hand, and with his rod he smote the rock twice: and the water came out abundantly, and the congregation drank, and their beasts also. 
+@7 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@8 [Take]{strong="H3947" x-morph="strongMorph: TH8798"} the_rod_H4294, [and gather]{strong="H6950" x-morph="strongMorph: TH8685"} thou_the_assembly_H5712 [together, thou, and Aaron]{strong="H175"} thy_brother_H251, [and speak]{strong="H1696" x-morph="strongMorph: TH8765"} ye_unto_the_rock_H5553 before_their_eyes_H5869; [and it shall give forth]{strong="H5414" x-morph="strongMorph: TH8804"} his_water_H4325, [and thou shalt bring forth]{strong="H3318" x-morph="strongMorph: TH8689"} to_them_water_H4325 out_of_the_rock_H5553: so_thou_shalt_give_H8248 the_congregation_H5712 and_their_beasts_H1165 [drink]{strong="H8248" x-morph="strongMorph: TH8689"}. 
+@9 And_Moses_H4872 [took]{strong="H3947" x-morph="strongMorph: TH8799"} the_rod_H4294 from_before_H6440 the LORD, [as he commanded]{strong="H6680" x-morph="strongMorph: TH8765"} him. 
+@10 And_Moses_H4872 and_Aaron_H175 [gathered]{strong="H6950" x-morph="strongMorph: TH8686"} the_congregation_H6951 together_before_H6440 the_rock_H5553, [and he said]{strong="H559" x-morph="strongMorph: TH8799"} [unto them, Hear]{strong="H8085" x-morph="strongMorph: TH8798"} [now, ye rebels]{strong="H4784" x-morph="strongMorph: TH8802"}; [must we fetch]{strong="H3318" x-morph="strongMorph: TH8686"} you_water_H4325 out_of_this_rock_H5553? 
+@11 And_Moses_H4872 [lifted up]{strong="H7311" x-morph="strongMorph: TH8686"} his_hand_H3027, and_with_his_rod_H4294 [he smote]{strong="H5221" x-morph="strongMorph: TH8686"} the_rock_H5553 twice_H6471: and_the_water_H4325 [came out]{strong="H3318" x-morph="strongMorph: TH8799"} abundantly_H7227, and_the_congregation_H5712 [drank]{strong="H8354" x-morph="strongMorph: TH8799"}, and_their_beasts_H1165 also. 
 
-@12 And the LORD spake unto Moses and Aaron, Because ye believed me not, to sanctify me in the eyes of the children of Israel, therefore ye shall not bring this congregation into the land which I have given them. 
-@13 This is the water of Meribah; because the children of Israel strove with the LORD, and he was sanctified in them.^a^ 
+@12 And the LORD [spake]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872 and_Aaron_H175, [Because ye believed]{strong="H539" x-morph="strongMorph: TH8689"} [me not, to sanctify]{strong="H6942" x-morph="strongMorph: TH8687"} me_in_the_eyes_H5869 of_the_children_H1121 of_Israel_H3478, [therefore ye shall not bring]{strong="H935" x-morph="strongMorph: TH8686"} this_congregation_H6951 into_the_land_H776 [which I have given]{strong="H5414" x-morph="strongMorph: TH8804"} them. 
+@13 This is the_water_H4325 of_Meribah_H4809; because_the_children_H1121 of_Israel_H3478 [strove]{strong="H7378" x-morph="strongMorph: TH8804"} with the LORD, [and he was sanctified]{strong="H6942" x-morph="strongMorph: TH8735"} in them.^a^ 
 ^a^[**20:13** Meribah: that is, Strife]
 
-@14 And Moses sent messengers from Kadesh unto the king of Edom, Thus saith thy brother Israel, Thou knowest all the travail that hath befallen us:^a^ 
-@15 How our fathers went down into Egypt, and we have dwelt in Egypt a long time; and the Egyptians vexed us, and our fathers: 
-@16 And when we cried unto the LORD, he heard our voice, and sent an angel, and hath brought us forth out of Egypt: and, behold, we are in Kadesh, a city in the uttermost of thy border: 
-@17 Let us pass, I pray thee, through thy country: we will not pass through the fields, or through the vineyards, neither will we drink of the water of the wells: we will go by the king’s high way, we will not turn to the right hand nor to the left, until we have passed thy borders. 
-@18 And Edom said unto him, Thou shalt not pass by me, lest I come out against thee with the sword. 
-@19 And the children of Israel said unto him, We will go by the high way: and if I and my cattle drink of thy water, then I will pay for it: I will only, without doing any thing else, go through on my feet. 
-@20 And he said, Thou shalt not go through. And Edom came out against him with much people, and with a strong hand. 
-@21 Thus Edom refused to give Israel passage through his border: wherefore Israel turned away from him. 
+@14 And_Moses_H4872 [sent]{strong="H7971" x-morph="strongMorph: TH8799"} messengers_H4397 from_Kadesh_H6946 unto_the_king_H4428 of_Edom_H123, [Thus saith]{strong="H559" x-morph="strongMorph: TH8804"} thy_brother_H251 Israel_H3478, [Thou knowest]{strong="H3045" x-morph="strongMorph: TH8804"} all_the_travail_H8513 [that hath befallen]{strong="H4672" x-morph="strongMorph: TH8804"} us:^a^ 
+@15 How_our_fathers_H1 [went down]{strong="H3381" x-morph="strongMorph: TH8799"} into_Egypt_H4714, [and we have dwelt]{strong="H3427" x-morph="strongMorph: TH8799"} in_Egypt_H4714 a_long_H7227 time_H3117; and_the_Egyptians_H4714 [vexed]{strong="H7489" x-morph="strongMorph: TH8686"} [us, and our fathers]{strong="H1"}: 
+@16 [And when we cried]{strong="H6817" x-morph="strongMorph: TH8799"} unto the LORD, [he heard]{strong="H8085" x-morph="strongMorph: TH8799"} our_voice_H6963, [and sent]{strong="H7971" x-morph="strongMorph: TH8799"} an_angel_H4397, [and hath brought us forth]{strong="H3318" x-morph="strongMorph: TH8686"} out_of_Egypt_H4714: and, behold, we are in_Kadesh_H6946, a_city_H5892 in_the_uttermost_H7097 of_thy_border_H1366: 
+@17 [Let us pass]{strong="H5674" x-morph="strongMorph: TH8799"}, [I pray thee, through thy country]{strong="H776"}: [we will not pass]{strong="H5674" x-morph="strongMorph: TH8799"} through_the_fields_H7704, or_through_the_vineyards_H3754, [neither will we drink]{strong="H8354" x-morph="strongMorph: TH8799"} of the_water_H4325 of_the_wells_H875: [we will go]{strong="H3212" x-morph="strongMorph: TH8799"} [by the king’s]{strong="H4428"} high way_H1870, [we will not turn]{strong="H5186" x-morph="strongMorph: TH8799"} to_the_right_hand_H3225 nor_to_the_left_H8040, [until we have passed]{strong="H5674" x-morph="strongMorph: TH8799"} thy_borders_H1366. 
+@18 And_Edom_H123 [said]{strong="H559" x-morph="strongMorph: TH8799"} [unto him, Thou shalt not pass]{strong="H5674" x-morph="strongMorph: TH8799"} [by me, lest I come out]{strong="H3318" x-morph="strongMorph: TH8799"} [against]{strong="H7125" x-morph="strongMorph: TH8800"} thee_with_the_sword_H2719. 
+@19 And_the_children_H1121 of_Israel_H3478 [said]{strong="H559" x-morph="strongMorph: TH8799"} [unto him, We will go]{strong="H5927" x-morph="strongMorph: TH8799"} by_the_high_way_H4546: and_if_I_and_my_cattle_H4735 [drink]{strong="H8354" x-morph="strongMorph: TH8799"} of_thy_water_H4325, [then I will pay]{strong="H4377 H5414" x-morph="strongMorph: TH8804"} for it: I will only, without doing any_thing_H1697 else, [go through]{strong="H5674" x-morph="strongMorph: TH8799"} on_my_feet_H7272. 
+@20 [And he said]{strong="H559" x-morph="strongMorph: TH8799"}, [Thou shalt not go through]{strong="H5674" x-morph="strongMorph: TH8799"}. And_Edom_H123 [came out]{strong="H3318" x-morph="strongMorph: TH8799"} [against]{strong="H7125" x-morph="strongMorph: TH8800"} him_with_much_H3515 people_H5971, and_with_a_strong_H2389 hand_H3027. 
+@21 Thus_Edom_H123 [refused]{strong="H3985" x-morph="strongMorph: TH8762"} [to give]{strong="H5414" x-morph="strongMorph: TH8800"} Israel_H3478 [passage]{strong="H5674" x-morph="strongMorph: TH8800"} through_his_border_H1366: wherefore_Israel_H3478 [turned away]{strong="H5186" x-morph="strongMorph: TH8799"} from him. 
 ^a^[**20:14** befallen…: Heb. found us]
 
-@22 And the children of Israel, even the whole congregation, journeyed from Kadesh, and came unto mount Hor. 
-@23 And the LORD spake unto Moses and Aaron in mount Hor, by the coast of the land of Edom, saying, 
-@24 Aaron shall be gathered unto his people: for he shall not enter into the land which I have given unto the children of Israel, because ye rebelled against my word at the water of Meribah.^a^ 
-@25 Take Aaron and Eleazar his son, and bring them up unto mount Hor: 
-@26 And strip Aaron of his garments, and put them upon Eleazar his son: and Aaron shall be gathered unto his people, and shall die there. 
-@27 And Moses did as the LORD commanded: and they went up into mount Hor in the sight of all the congregation. 
-@28 And Moses stripped Aaron of his garments, and put them upon Eleazar his son; and Aaron died there in the top of the mount: and Moses and Eleazar came down from the mount. 
-@29 And when all the congregation saw that Aaron was dead, they mourned for Aaron thirty days, even all the house of Israel.
+@22 And_the_children_H1121 of_Israel_H3478, even the_whole_congregation_H5712, [journeyed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Kadesh_H6946, [and came]{strong="H935" x-morph="strongMorph: TH8799"} unto_mount_H2022 Hor_H2023. 
+@23 And the LORD [spake]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872 and_Aaron_H175 in_mount_H2022 Hor_H2023, by_the_coast_H1366 of_the_land_H776 of_Edom_H123, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@24 Aaron_H175 [shall be gathered]{strong="H622" x-morph="strongMorph: TH8735"} unto_his_people_H5971: [for he shall not enter]{strong="H935" x-morph="strongMorph: TH8799"} into_the_land_H776 [which I have given]{strong="H5414" x-morph="strongMorph: TH8804"} unto_the_children_H1121 of_Israel_H3478, [because ye rebelled against]{strong="H4784" x-morph="strongMorph: TH8804"} my_word_H6310 at_the_water_H4325 of_Meribah_H4809.^a^ 
+@25 [Take]{strong="H3947" x-morph="strongMorph: TH8798"} Aaron_H175 and_Eleazar_H499 his_son_H1121, [and bring them up]{strong="H5927" x-morph="strongMorph: TH8685"} unto_mount_H2022 Hor_H2023: 
+@26 [And strip]{strong="H6584" x-morph="strongMorph: TH8685"} Aaron_H175 of_his_garments_H899, [and put]{strong="H3847" x-morph="strongMorph: TH8689"} them_upon_Eleazar_H499 his_son_H1121: and_Aaron_H175 [shall be gathered]{strong="H622" x-morph="strongMorph: TH8735"} unto his people, [and shall die]{strong="H4191" x-morph="strongMorph: TH8804"} there. 
+@27 And_Moses_H4872 [did]{strong="H6213" x-morph="strongMorph: TH8799"} as the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"}: [and they went up]{strong="H5927" x-morph="strongMorph: TH8799"} into_mount_H2022 Hor_H2023 in_the_sight_H5869 of_all_the_congregation_H5712. 
+@28 And_Moses_H4872 [stripped]{strong="H6584" x-morph="strongMorph: TH8686"} Aaron_H175 of_his_garments_H899, [and put]{strong="H3847" x-morph="strongMorph: TH8686"} them_upon_Eleazar_H499 his_son_H1121; and_Aaron_H175 [died]{strong="H4191" x-morph="strongMorph: TH8799"} there_in_the_top_H7218 of_the_mount_H2022: and_Moses_H4872 and_Eleazar_H499 [came down]{strong="H3381" x-morph="strongMorph: TH8799"} from_the_mount_H2022. 
+@29 And_when_all_the_congregation_H5712 [saw]{strong="H7200" x-morph="strongMorph: TH8799"} that_Aaron_H175 [was dead]{strong="H1478" x-morph="strongMorph: TH8804"}, [they mourned]{strong="H1058" x-morph="strongMorph: TH8799"} for_Aaron_H175 thirty_H7970 days_H3117, even all_the_house_H1004 of_Israel_H3478.
 ^a^[**20:24** word: Heb. mouth] 
 
 # 21 
-@1 And when king Arad the Canaanite, which dwelt in the south, heard tell that Israel came by the way of the spies; then he fought against Israel, and took some of them prisoners. 
-@2 And Israel vowed a vow unto the LORD, and said, If thou wilt indeed deliver this people into my hand, then I will utterly destroy their cities. 
-@3 And the LORD hearkened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities: and he called the name of the place Hormah.^a^ 
+@1 And when king_H4428 Arad_H6166 the_Canaanite_H3669, [which dwelt]{strong="H3427" x-morph="strongMorph: TH8802"} in_the_south_H5045, [heard]{strong="H8085" x-morph="strongMorph: TH8799"} tell_that_Israel_H3478 [came]{strong="H935" x-morph="strongMorph: TH8802"} by_the_way_H1870 of_the_spies_H871; [then he fought]{strong="H3898" x-morph="strongMorph: TH8735"} against_Israel_H3478, [and took]{strong="H7617" x-morph="strongMorph: TH8799"} some of_them_prisoners_H7628. 
+@2 And_Israel_H3478 [vowed]{strong="H5087" x-morph="strongMorph: TH8799"} a_vow_H5088 unto the LORD, [and said]{strong="H559" x-morph="strongMorph: TH8799"}, [If thou wilt indeed]{strong="H5414" x-morph="strongMorph: TH8800"} [deliver]{strong="H5414" x-morph="strongMorph: TH8799"} this_people_H5971 into_my_hand_H3027, [then I will utterly destroy]{strong="H2763" x-morph="strongMorph: TH8689"} their_cities_H5892. 
+@3 And the LORD [hearkened ]{strong="H8085" x-morph="strongMorph: TH8799"} to_the_voice_H6963 of_Israel_H3478, [and delivered up]{strong="H5414" x-morph="strongMorph: TH8799"} the_Canaanites_H3669; [and they utterly destroyed]{strong="H2763" x-morph="strongMorph: TH8686"} them_and_their_cities_H5892: [and he called]{strong="H7121" x-morph="strongMorph: TH8799"} the_name_H8034 of_the_place_H4725 Hormah_H2767.^a^ 
 ^a^[**21:3** Hormah: that is, Utter destruction]
 
-@4 And they journeyed from mount Hor by the way of the Red sea, to compass the land of Edom: and the soul of the people was much discouraged because of the way.^a^ 
-@5 And the people spake against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness? for there is no bread, neither is there any water; and our soul loatheth this light bread. 
-@6 And the LORD sent fiery serpents among the people, and they bit the people; and much people of Israel died. 
+@4 [And they journeyed]{strong="H5265" x-morph="strongMorph: TH8799"} from_mount_H2022 Hor_H2023 by_the_way_H1870 of_the_Red_H5488 sea_H3220, [to compass]{strong="H5437" x-morph="strongMorph: TH8800"} the_land_H776 of_Edom_H123: and_the_soul_H5315 of_the_people_H5971 [was much discouraged]{strong="H7114" x-morph="strongMorph: TH8799"} because_of_the_way_H1870.^a^ 
+@5 And_the_people_H5971 [spake]{strong="H1696" x-morph="strongMorph: TH8762"} against_God_H430, and_against_Moses_H4872, [Wherefore have ye brought us up]{strong="H5927" x-morph="strongMorph: TH8689"} out_of_Egypt_H4714 [to die]{strong="H4191" x-morph="strongMorph: TH8800"} in_the_wilderness_H4057? for there is no_bread_H3899, neither is there any water_H4325; and_our_soul_H5315 [loatheth]{strong="H6973" x-morph="strongMorph: TH8804"} this_light_H7052 bread_H3899. 
+@6 And the LORD [sent]{strong="H7971" x-morph="strongMorph: TH8762"} fiery_H8314 serpents_H5175 among_the_people_H5971, [and they bit]{strong="H5391" x-morph="strongMorph: TH8762"} the_people_H5971; and_much_H7227 people_H5971 of_Israel_H3478 [died]{strong="H4191" x-morph="strongMorph: TH8799"}. 
 ^a^[**21:4** discouraged: or, grieved: Heb. shortened]
 
-@7 Therefore the people came to Moses, and said, We have sinned, for we have spoken against the LORD, and against thee; pray unto the LORD, that he take away the serpents from us. And Moses prayed for the people. 
-@8 And the LORD said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live. 
-@9 And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived. 
+@7 Therefore_the_people_H5971 [came]{strong="H935" x-morph="strongMorph: TH8799"} to_Moses_H4872, [and said]{strong="H559" x-morph="strongMorph: TH8799"}, [We have sinned]{strong="H2398" x-morph="strongMorph: TH8804"}, [for we have spoken]{strong="H1696" x-morph="strongMorph: TH8765"} against the LORD, [and against thee; pray]{strong="H6419" x-morph="strongMorph: TH8690"} unto the LORD, [that he take away]{strong="H5493" x-morph="strongMorph: TH8686"} the_serpents_H5175 [from us. And Moses]{strong="H4872"} [prayed]{strong="H6419" x-morph="strongMorph: TH8691"} for_the_people_H5971. 
+@8 And the LORD [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872, [Make]{strong="H6213" x-morph="strongMorph: TH8798"} thee_a_fiery_serpent_H8314, [and set]{strong="H7760" x-morph="strongMorph: TH8798"} it_upon_a_pole_H5251: [and it shall come to pass, that every one that is bitten]{strong="H5391" x-morph="strongMorph: TH8803"}, [when he looketh]{strong="H7200" x-morph="strongMorph: TH8804"} [upon it, shall live]{strong="H2425" x-morph="strongMorph: TH8804"}. 
+@9 And_Moses_H4872 [made]{strong="H6213" x-morph="strongMorph: TH8799"} a_serpent_H5175 of_brass_H5178, [and put]{strong="H7760" x-morph="strongMorph: TH8799"} it_upon_a_pole_H5251, [and it came to pass, that if a serpent]{strong="H5175"} [had bitten]{strong="H5391" x-morph="strongMorph: TH8804"} any_man_H376, [when he beheld]{strong="H5027" x-morph="strongMorph: TH8689"} the_serpent_H5175 of_brass_H5178, [he lived]{strong="H2425" x-morph="strongMorph: TH8804"}. 
 
-@10 And the children of Israel set forward, and pitched in Oboth. 
-@11 And they journeyed from Oboth, and pitched at Ije-abarim, in the wilderness which is before Moab, toward the sunrising.^a^ 
+@10 And_the_children_H1121 of_Israel_H3478 [set forward]{strong="H5265" x-morph="strongMorph: TH8799"}, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_Oboth_H88. 
+@11 [And they journeyed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Oboth_H88, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} [at Ije-abarim]{strong="H5863"}, in_the_wilderness_H4057 which is before_H6440 Moab_H4124, [toward the sunrising]{strong="H8121 H4217"}.^a^ 
 ^a^[**21:11** Ije-abarim: or, heaps of Abarim]
 
-@12 From thence they removed, and pitched in the valley of Zared. 
-@13 From thence they removed, and pitched on the other side of Arnon, which is in the wilderness that cometh out of the coasts of the Amorites: for Arnon is the border of Moab, between Moab and the Amorites. 
-@14 Wherefore it is said in the book of the wars of the LORD, What he did in the Red sea, and in the brooks of Arnon,^a^ 
-@15 And at the stream of the brooks that goeth down to the dwelling of Ar, and lieth upon the border of Moab.^b^ 
-@16 And from thence they went to Beer: that is the well whereof the LORD spake unto Moses, Gather the people together, and I will give them water. 
+@12 [From thence they removed]{strong="H5265" x-morph="strongMorph: TH8804"}, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_the_valley_H5158 of_Zared_H2218. 
+@13 [From thence they removed]{strong="H5265" x-morph="strongMorph: TH8804"}, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} on_the_other_side_H5676 of_Arnon_H769, which is in_the_wilderness_H4057 [that cometh out]{strong="H3318" x-morph="strongMorph: TH8802"} of_the_coasts_H1366 of_the_Amorites_H567: for_Arnon_H769 is the_border_H1366 of_Moab_H4124, between_Moab_H4124 and_the_Amorites_H567. 
+@14 [Wherefore it is said]{strong="H559" x-morph="strongMorph: TH8735"} in_the_book_H5612 of_the_wars_H4421 of the LORD, What_he_did_H2052 in_the_Red_sea_H5492, and_in_the_brooks_H5158 of_Arnon_H769,^a^ 
+@15 And_at_the_stream_H793 of_the_brooks_H5158 [that goeth down]{strong="H5186" x-morph="strongMorph: TH8804"} [to the dwelling]{strong="H3427" x-morph="strongMorph: TH8800"} of_Ar_H6144, [and lieth]{strong="H8172" x-morph="strongMorph: TH8738"} upon_the_border_H1366 of_Moab_H4124.^b^ 
+@16 And from thence they went to_Beer_H876: that is the_well_H875 whereof the LORD [spake]{strong="H559" x-morph="strongMorph: TH8804"} unto_Moses_H4872, Gather_H622 the_people_H5971 [together]{strong="H622" x-morph="strongMorph: TH8798"}, [and I will give]{strong="H5414" x-morph="strongMorph: TH8799"} them_water_H4325. 
 ^a^[**21:14** What…: or, Vaheb in Suphah] ^b^[**21:15** lieth: Heb. leaneth]
 
-@17 Then Israel sang this song, Spring up, O well; sing ye unto it:^a^ ^b^ 
-@18 The princes digged the well, the nobles of the people digged it, by the direction of the lawgiver, with their staves. And from the wilderness they went to Mattanah: 
-@19 And from Mattanah to Nahaliel: and from Nahaliel to Bamoth: 
-@20 And from Bamoth in the valley, that is in the country of Moab, to the top of Pisgah, which looketh toward Jeshimon.^c^ ^d^ ^e^ 
+@17 Then_Israel_H3478 [sang]{strong="H7891" x-morph="strongMorph: TH8799"} this_song_H7892, [Spring up]{strong="H5927" x-morph="strongMorph: TH8798"}, O_well_H875; [sing]{strong="H6030" x-morph="strongMorph: TH8798"} ye unto it:^a^ ^b^ 
+@18 The_princes_H8269 [digged]{strong="H2658" x-morph="strongMorph: TH8804"} the_well_H875, the_nobles_H5081 of_the_people_H5971 [digged ]{strong="H3738" x-morph="strongMorph: TH8804"} it, by the direction of [the lawgiver]{strong="H2710" x-morph="strongMorph: TH8781"}, with_their_staves_H4938. And_from_the_wilderness_H4057 they went to_Mattanah_H4980: 
+@19 And_from_Mattanah_H4980 to_Nahaliel_H5160: and_from_Nahaliel_H5160 to_Bamoth_H1120: 
+@20 And_from_Bamoth_H1120 in the_valley_H1516, that is in_the_country_H7704 of_Moab_H4124, to_the_top_H7218 of_Pisgah_H6449, [which looketh]{strong="H8259" x-morph="strongMorph: TH8738"} toward_H6440 Jeshimon_H3452.^c^ ^d^ ^e^ 
 ^a^[**21:17** Spring…: Heb. Ascend] ^b^[**21:17** sing: or, answer] ^c^[**21:20** country: Heb. field] ^d^[**21:20** Pisgah: or, the hill] ^e^[**21:20** Jeshimon: or, the wilderness]
 
-@21 And Israel sent messengers unto Sihon king of the Amorites, saying, 
-@22 Let me pass through thy land: we will not turn into the fields, or into the vineyards; we will not drink of the waters of the well: but we will go along by the king’s high way, until we be past thy borders. 
-@23 And Sihon would not suffer Israel to pass through his border: but Sihon gathered all his people together, and went out against Israel into the wilderness: and he came to Jahaz, and fought against Israel. 
-@24 And Israel smote him with the edge of the sword, and possessed his land from Arnon unto Jabbok, even unto the children of Ammon: for the border of the children of Ammon was strong. 
-@25 And Israel took all these cities: and Israel dwelt in all the cities of the Amorites, in Heshbon, and in all the villages thereof.^a^ 
-@26 For Heshbon was the city of Sihon the king of the Amorites, who had fought against the former king of Moab, and taken all his land out of his hand, even unto Arnon. 
-@27 Wherefore they that speak in proverbs say, Come into Heshbon, let the city of Sihon be built and prepared: 
-@28 For there is a fire gone out of Heshbon, a flame from the city of Sihon: it hath consumed Ar of Moab, and the lords of the high places of Arnon. 
-@29 Woe to thee, Moab! thou art undone, O people of Chemosh: he hath given his sons that escaped, and his daughters, into captivity unto Sihon king of the Amorites. 
-@30 We have shot at them; Heshbon is perished even unto Dibon, and we have laid them waste even unto Nophah, which reacheth unto Medeba. 
+@21 And_Israel_H3478 [sent]{strong="H7971" x-morph="strongMorph: TH8799"} messengers_H4397 unto_Sihon_H5511 king_H4428 of_the_Amorites_H567, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@22 [Let me pass]{strong="H5674" x-morph="strongMorph: TH8799"} through_thy_land_H776: [we will not turn]{strong="H5186" x-morph="strongMorph: TH8799"} into_the_fields_H7704, or_into_the_vineyards_H3754; [we will not drink]{strong="H8354" x-morph="strongMorph: TH8799"} of the_waters_H4325 of_the_well_H875: but [we will go along]{strong="H3212" x-morph="strongMorph: TH8799"} [by the king’s]{strong="H4428"} high way_H1870, [until we be past]{strong="H5674" x-morph="strongMorph: TH8799"} thy_borders_H1366. 
+@23 And_Sihon_H5511 [would not suffer]{strong="H5414" x-morph="strongMorph: TH8804"} Israel_H3478 [to pass]{strong="H5674" x-morph="strongMorph: TH8800"} through_his_border_H1366: but_Sihon_H5511 gathered_H622 all_his_people_H5971 [together]{strong="H622" x-morph="strongMorph: TH8799"}, [and went out]{strong="H3318" x-morph="strongMorph: TH8799"} [against]{strong="H7125" x-morph="strongMorph: TH8800"} Israel_H3478 into_the_wilderness_H4057: [and he came]{strong="H935" x-morph="strongMorph: TH8799"} to_Jahaz_H3096, [and fought]{strong="H3898" x-morph="strongMorph: TH8735"} against_Israel_H3478. 
+@24 And_Israel_H3478 [smote]{strong="H5221" x-morph="strongMorph: TH8686"} him_with_the_edge_H6310 of_the_sword_H2719, [and possessed]{strong="H3423" x-morph="strongMorph: TH8799"} his_land_H776 from_Arnon_H769 unto_Jabbok_H2999, even_unto_the_children_H1121 of_Ammon_H5983: for_the_border_H1366 of_the_children_H1121 of_Ammon_H5983 was strong_H5794. 
+@25 And_Israel_H3478 [took]{strong="H3947" x-morph="strongMorph: TH8799"} all_these_cities_H5892: and_Israel_H3478 [dwelt]{strong="H3427" x-morph="strongMorph: TH8799"} in_all_the_cities_H5892 of_the_Amorites_H567, in_Heshbon_H2809, and_in_all_the_villages_H1323 thereof.^a^ 
+@26 For_Heshbon_H2809 was the_city_H5892 of_Sihon_H5511 the_king_H4428 of_the_Amorites_H567, [who had fought]{strong="H3898" x-morph="strongMorph: TH8738"} against_the_former_H7223 king_H4428 of_Moab_H4124, [and taken]{strong="H3947" x-morph="strongMorph: TH8799"} all_his_land_H776 out_of_his_hand_H3027, even_unto_Arnon_H769. 
+@27 [Wherefore they that speak in proverbs]{strong="H4911" x-morph="strongMorph: TH8802"} [say]{strong="H559" x-morph="strongMorph: TH8799"}, [Come]{strong="H935" x-morph="strongMorph: TH8798"} into_Heshbon_H2809, let_the_city_H5892 of_Sihon_H5511 [be built]{strong="H1129" x-morph="strongMorph: TH8735"} [and prepared]{strong="H3559" x-morph="strongMorph: TH8709"}: 
+@28 For_there_is_a_fire_H784 [gone out]{strong="H3318" x-morph="strongMorph: TH8804"} of_Heshbon_H2809, a_flame_H3852 from_the_city_H7151 of_Sihon_H5511: [it hath consumed]{strong="H398" x-morph="strongMorph: TH8804"} Ar_H6144 of_Moab_H4124, and the_lords_of_the_high_places_H1181 of_Arnon_H769. 
+@29 Woe_H188 [to thee, Moab]{strong="H4124"}! [thou art undone]{strong="H6" x-morph="strongMorph: TH8804"}, O_people_H5971 of_Chemosh_H3645: [he hath given]{strong="H5414" x-morph="strongMorph: TH8804"} his_sons_H1121 that_escaped_H6412, and_his_daughters_H1323, into_captivity_H7622 unto_Sihon_H5511 king_H4428 of_the_Amorites_H567. 
+@30 [We have shot]{strong="H3384" x-morph="strongMorph: TH8799"} [at them; Heshbon]{strong="H2809"} [is perished]{strong="H6" x-morph="strongMorph: TH8804"} even_unto_Dibon_H1769, [and we have laid them waste]{strong="H8074" x-morph="strongMorph: TH8686"} even_unto_Nophah_H5302, which reacheth unto_Medeba_H4311. 
 ^a^[**21:25** villages: Heb. daughters]
 
-@31 Thus Israel dwelt in the land of the Amorites. 
-@32 And Moses sent to spy out Jaazer, and they took the villages thereof, and drove out the Amorites that were there. 
+@31 Thus_Israel_H3478 [dwelt]{strong="H3427" x-morph="strongMorph: TH8799"} in_the_land_H776 of_the_Amorites_H567. 
+@32 And_Moses_H4872 [sent]{strong="H7971" x-morph="strongMorph: TH8799"} [to spy out]{strong="H7270" x-morph="strongMorph: TH8763"} Jaazer_H3270, [and they took]{strong="H3920" x-morph="strongMorph: TH8799"} the_villages_H1323 [thereof, and drove out]{strong="H3423 H3423" x-morph="strongMorph: TH8799 strongMorph: TH8675 strongMorph: TH8686"} the_Amorites_H567 that were there. 
 
-@33 And they turned and went up by the way of Bashan: and Og the king of Bashan went out against them, he, and all his people, to the battle at Edrei. 
-@34 And the LORD said unto Moses, Fear him not: for I have delivered him into thy hand, and all his people, and his land; and thou shalt do to him as thou didst unto Sihon king of the Amorites, which dwelt at Heshbon. 
-@35 So they smote him, and his sons, and all his people, until there was none left him alive: and they possessed his land. 
+@33 [And they turned]{strong="H6437" x-morph="strongMorph: TH8799"} [and went up]{strong="H5927" x-morph="strongMorph: TH8799"} by_the_way_H1870 of_Bashan_H1316: and_Og_H5747 the_king_H4428 of_Bashan_H1316 [went out]{strong="H3318" x-morph="strongMorph: TH8799"} [against]{strong="H7125" x-morph="strongMorph: TH8800"} [them, he, and all his people]{strong="H5971"}, to_the_battle_H4421 at_Edrei_H154. 
+@34 And the LORD [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872, [Fear]{strong="H3372" x-morph="strongMorph: TH8799"} [him not: for I have delivered]{strong="H5414" x-morph="strongMorph: TH8804"} him_into_thy_hand_H3027, and_all_his_people_H5971, and_his_land_H776; [and thou shalt do]{strong="H6213" x-morph="strongMorph: TH8804"} [to him as thou didst]{strong="H6213" x-morph="strongMorph: TH8804"} unto_Sihon_H5511 king_H4428 of_the_Amorites_H567, [which dwelt]{strong="H3427" x-morph="strongMorph: TH8802"} at_Heshbon_H2809. 
+@35 [So they smote]{strong="H5221" x-morph="strongMorph: TH8686"} [him, and his sons]{strong="H1121"}, and_all_his_people_H5971, until_there_was_none_H1115 [left]{strong="H7604" x-morph="strongMorph: TH8689"} him_alive_H8300: [and they possessed]{strong="H3423" x-morph="strongMorph: TH8799"} his_land_H776. 
 
 # 22 
-@1 And the children of Israel set forward, and pitched in the plains of Moab on this side Jordan by Jericho. 
+@1 And_the_children_H1121 of_Israel_H3478 [set forward]{strong="H5265" x-morph="strongMorph: TH8799"}, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_the_plains_H6160 of_Moab_H4124 on_this_side_H5676 Jordan_H3383 by Jericho_H3405. 
 
-@2 And Balak the son of Zippor saw all that Israel had done to the Amorites. 
-@3 And Moab was sore afraid of the people, because they were many: and Moab was distressed because of the children of Israel. 
-@4 And Moab said unto the elders of Midian, Now shall this company lick up all that are round about us, as the ox licketh up the grass of the field. And Balak the son of Zippor was king of the Moabites at that time. 
-@5 He sent messengers therefore unto Balaam the son of Beor to Pethor, which is by the river of the land of the children of his people, to call him, saying, Behold, there is a people come out from Egypt: behold, they cover the face of the earth, and they abide over against me:^a^ 
-@6 Come now therefore, I pray thee, curse me this people; for they are too mighty for me: peradventure I shall prevail, that we may smite them, and that I may drive them out of the land: for I wot that he whom thou blessest is blessed, and he whom thou cursest is cursed. 
-@7 And the elders of Moab and the elders of Midian departed with the rewards of divination in their hand; and they came unto Balaam, and spake unto him the words of Balak. 
-@8 And he said unto them, Lodge here this night, and I will bring you word again, as the LORD shall speak unto me: and the princes of Moab abode with Balaam. 
-@9 And God came unto Balaam, and said, What men are these with thee? 
-@10 And Balaam said unto God, Balak the son of Zippor, king of Moab, hath sent unto me, saying, 
-@11 Behold, there is a people come out of Egypt, which covereth the face of the earth: come now, curse me them; peradventure I shall be able to overcome them, and drive them out.^b^ 
-@12 And God said unto Balaam, Thou shalt not go with them; thou shalt not curse the people: for they are blessed. 
-@13 And Balaam rose up in the morning, and said unto the princes of Balak, Get you into your land: for the LORD refuseth to give me leave to go with you. 
-@14 And the princes of Moab rose up, and they went unto Balak, and said, Balaam refuseth to come with us. 
+@2 And_Balak_H1111 the_son_H1121 of_Zippor_H6834 [saw]{strong="H7200" x-morph="strongMorph: TH8799"} all_that_Israel_H3478 [had done]{strong="H6213" x-morph="strongMorph: TH8804"} to_the_Amorites_H567. 
+@3 And_Moab_H4124 was_sore_H3966 [afraid]{strong="H1481" x-morph="strongMorph: TH8799"} of_H6440 the_people_H5971, because they were many_H7227: and_Moab_H4124 [was distressed]{strong="H6973" x-morph="strongMorph: TH8799"} because_of_H6440 the_children_H1121 of_Israel_H3478. 
+@4 And_Moab_H4124 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_the_elders_H2205 of_Midian_H4080, Now_shall_this_company_H6951 [lick up]{strong="H3897" x-morph="strongMorph: TH8762"} all that are round_about_H5439 [us, as the ox]{strong="H7794"} [licketh up]{strong="H3897" x-morph="strongMorph: TH8800"} the_grass_H3418 of_the_field_H7704. And_Balak_H1111 the_son_H1121 of_Zippor_H6834 was king_H4428 of_the_Moabites_H4124 at_that_time_H6256. 
+@5 [He sent]{strong="H7971" x-morph="strongMorph: TH8799"} messengers_H4397 therefore_unto_Balaam_H1109 the_son_H1121 of_Beor_H1160 to_Pethor_H6604, which is by_the_river_H5104 of_the_land_H776 of_the_children_H1121 of_his_people_H5971, [to call]{strong="H7121" x-morph="strongMorph: TH8800"} [him, saying]{strong="H559" x-morph="strongMorph: TH8800"}, [Behold, there is a people]{strong="H5971"} [come out]{strong="H3318" x-morph="strongMorph: TH8804"} from_Egypt_H4714: [behold, they cover]{strong="H3680" x-morph="strongMorph: TH8765"} the_face_H5869 of_the_earth_H776, [and they abide]{strong="H3427" x-morph="strongMorph: TH8802"} over_against_H4136 me:^a^ 
+@6 [Come]{strong="H3212" x-morph="strongMorph: TH8798"} [now therefore, I pray thee, curse]{strong="H779" x-morph="strongMorph: TH8798"} me_this_people_H5971; for they are too_mighty_H6099 [for me: peradventure I shall prevail]{strong="H3201" x-morph="strongMorph: TH8799"}, that [we may smite]{strong="H5221" x-morph="strongMorph: TH8686"} them, and that [I may drive them out]{strong="H1644" x-morph="strongMorph: TH8762"} of_the_land_H776: [for I wot]{strong="H3045" x-morph="strongMorph: TH8804"} [that he whom thou blessest]{strong="H1288" x-morph="strongMorph: TH8762"} is [blessed]{strong="H1288" x-morph="strongMorph: TH8794"}, [and he whom thou cursest]{strong="H779" x-morph="strongMorph: TH8799"} [is cursed]{strong="H779" x-morph="strongMorph: TH8714"}. 
+@7 And_the_elders_H2205 of_Moab_H4124 and_the_elders_H2205 of_Midian_H4080 [departed]{strong="H3212" x-morph="strongMorph: TH8799"} with_the_rewards_of_divination_H7081 in_their_hand_H3027; [and they came]{strong="H935" x-morph="strongMorph: TH8799"} unto_Balaam_H1109, [and spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_him_the_words_H1697 of_Balak_H1111. 
+@8 [And he said]{strong="H559" x-morph="strongMorph: TH8799"} [unto them, Lodge]{strong="H3885" x-morph="strongMorph: TH8798"} here_this_night_H3915, and_I_will_bring_H7725 you_word_H1697 [again]{strong="H7725" x-morph="strongMorph: TH8689"}, as the LORD [shall speak]{strong="H1696" x-morph="strongMorph: TH8762"} [unto me: and the princes]{strong="H8269"} of_Moab_H4124 [abode]{strong="H3427" x-morph="strongMorph: TH8799"} with_Balaam_H1109. 
+@9 And_God_H430 [came]{strong="H935" x-morph="strongMorph: TH8799"} unto_Balaam_H1109, [and said]{strong="H559" x-morph="strongMorph: TH8799"}, What_men_H582 are these with thee? 
+@10 And_Balaam_H1109 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_God_H430, Balak_H1111 the_son_H1121 of_Zippor_H6834, king_H4428 of_Moab_H4124, [hath sent]{strong="H7971" x-morph="strongMorph: TH8804"} unto me, saying, 
+@11 Behold, there is a_people_H5971 [come out]{strong="H3318" x-morph="strongMorph: TH8802"} of_Egypt_H4714, [which covereth]{strong="H3680" x-morph="strongMorph: TH8762"} the_face_H5869 of_the_earth_H776: [come]{strong="H3212" x-morph="strongMorph: TH8798"} [now, curse]{strong="H6895" x-morph="strongMorph: TH8798"} [me them; peradventure I shall be able]{strong="H3201" x-morph="strongMorph: TH8799"} [to overcome]{strong="H3898" x-morph="strongMorph: TH8736"} [them, and drive them out]{strong="H1644" x-morph="strongMorph: TH8765"}.^b^ 
+@12 And_God_H430 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Balaam_H1109, [Thou shalt not go]{strong="H3212" x-morph="strongMorph: TH8799"} [with them; thou shalt not curse]{strong="H779" x-morph="strongMorph: TH8799"} the_people_H5971: for they are [blessed]{strong="H1288" x-morph="strongMorph: TH8803"}. 
+@13 And_Balaam_H1109 [rose up]{strong="H6965" x-morph="strongMorph: TH8799"} in_the_morning_H1242, [and said]{strong="H559" x-morph="strongMorph: TH8799"} unto_the_princes_H8269 of_Balak_H1111, [Get]{strong="H3212" x-morph="strongMorph: TH8798"} you_into_your_land_H776: for the LORD [refuseth]{strong="H3985" x-morph="strongMorph: TH8765"} [to give me leave]{strong="H5414" x-morph="strongMorph: TH8800"} [to go]{strong="H1980" x-morph="strongMorph: TH8800"} with you. 
+@14 And_the_princes_H8269 of_Moab_H4124 [rose up]{strong="H6965" x-morph="strongMorph: TH8799"}, [and they went]{strong="H935" x-morph="strongMorph: TH8799"} unto_Balak_H1111, [and said]{strong="H559" x-morph="strongMorph: TH8799"}, Balaam_H1109 [refuseth]{strong="H3985" x-morph="strongMorph: TH8765"} [to come]{strong="H1980" x-morph="strongMorph: TH8800"} with us. 
 ^a^[**22:5** face: Heb. eye] ^b^[**22:11** I shall…: Heb. I shall prevail in fighting against him]
 
-@15 And Balak sent yet again princes, more, and more honourable than they. 
-@16 And they came to Balaam, and said to him, Thus saith Balak the son of Zippor, Let nothing, I pray thee, hinder thee from coming unto me:^a^ 
-@17 For I will promote thee unto very great honour, and I will do whatsoever thou sayest unto me: come therefore, I pray thee, curse me this people. 
-@18 And Balaam answered and said unto the servants of Balak, If Balak would give me his house full of silver and gold, I cannot go beyond the word of the LORD my God, to do less or more. 
-@19 Now therefore, I pray you, tarry ye also here this night, that I may know what the LORD will say unto me more. 
-@20 And God came unto Balaam at night, and said unto him, If the men come to call thee, rise up, and go with them; but yet the word which I shall say unto thee, that shalt thou do. 
-@21 And Balaam rose up in the morning, and saddled his ass, and went with the princes of Moab. 
+@15 And_Balak_H1111 [sent]{strong="H7971" x-morph="strongMorph: TH8800"} [yet again]{strong="H3254" x-morph="strongMorph: TH8686"} princes_H8269, more_H7227, [and more honourable]{strong="H3513" x-morph="strongMorph: TH8737"} than they. 
+@16 [And they came]{strong="H935" x-morph="strongMorph: TH8799"} to_Balaam_H1109, [and said]{strong="H559" x-morph="strongMorph: TH8799"} [to him, Thus saith]{strong="H559" x-morph="strongMorph: TH8804"} Balak_H1111 the_son_H1121 of_Zippor_H6834, [Let nothing, I pray thee, hinder]{strong="H4513" x-morph="strongMorph: TH8735"} [thee from coming]{strong="H1980" x-morph="strongMorph: TH8800"} unto me:^a^ 
+@17 For_I_will_promote_H3513 thee_unto_very_H3966 [great]{strong="H3513" x-morph="strongMorph: TH8763"} [honour]{strong="H3513" x-morph="strongMorph: TH8762"}, [and I will do]{strong="H6213" x-morph="strongMorph: TH8799"} [whatsoever thou sayest]{strong="H559" x-morph="strongMorph: TH8799"} [unto me: come]{strong="H3212" x-morph="strongMorph: TH8798"} [therefore, I pray thee, curse]{strong="H6895" x-morph="strongMorph: TH8798"} me_this_people_H5971. 
+@18 And_Balaam_H1109 [answered]{strong="H6030" x-morph="strongMorph: TH8799"} [and said]{strong="H559" x-morph="strongMorph: TH8799"} unto_the_servants_H5650 of_Balak_H1111, If_Balak_H1111 [would give]{strong="H5414" x-morph="strongMorph: TH8799"} me_his_house_H1004 full_H4393 of_silver_H3701 and_gold_H2091, [I cannot]{strong="H3201" x-morph="strongMorph: TH8799"} [go beyond]{strong="H5674" x-morph="strongMorph: TH8800"} the_word_H6310 of the LORD my_God_H430, [to do]{strong="H6213" x-morph="strongMorph: TH8800"} less_H6996 or_more_H1419. 
+@19 [Now therefore, I pray you, tarry]{strong="H3427" x-morph="strongMorph: TH8798"} ye_also_here_this_night_H3915, [that I may know]{strong="H3045" x-morph="strongMorph: TH8799"} what the LORD [will say]{strong="H1696" x-morph="strongMorph: TH8763"} [unto me more]{strong="H3254" x-morph="strongMorph: TH8686"}. 
+@20 And_God_H430 [came]{strong="H935" x-morph="strongMorph: TH8799"} unto_Balaam_H1109 at_night_H3915, [and said]{strong="H559" x-morph="strongMorph: TH8799"} [unto him, If the men]{strong="H582"} [come]{strong="H935" x-morph="strongMorph: TH8804"} [to call]{strong="H7121" x-morph="strongMorph: TH8800"} [thee, rise up]{strong="H6965" x-morph="strongMorph: TH8798"}, and [go]{strong="H3212" x-morph="strongMorph: TH8798"} [with them; but yet]{strong="H389"} the_word_H1697 [which I shall say]{strong="H1696" x-morph="strongMorph: TH8762"} [unto thee, that shalt thou do]{strong="H6213" x-morph="strongMorph: TH8799"}. 
+@21 And_Balaam_H1109 [rose up]{strong="H6965" x-morph="strongMorph: TH8799"} in_the_morning_H1242, [and saddled]{strong="H2280" x-morph="strongMorph: TH8799"} his_ass_H860, [and went]{strong="H3212" x-morph="strongMorph: TH8799"} with_the_princes_H8269 of_Moab_H4124. 
 ^a^[**22:16** Let…: Heb. Be not thou hindered from, etc]
 
-@22 And God’s anger was kindled because he went: and the angel of the LORD stood in the way for an adversary against him. Now he was riding upon his ass, and his two servants were with him. 
-@23 And the ass saw the angel of the LORD standing in the way, and his sword drawn in his hand: and the ass turned aside out of the way, and went into the field: and Balaam smote the ass, to turn her into the way. 
-@24 But the angel of the LORD stood in a path of the vineyards, a wall being on this side, and a wall on that side. 
-@25 And when the ass saw the angel of the LORD, she thrust herself unto the wall, and crushed Balaam’s foot against the wall: and he smote her again. 
-@26 And the angel of the LORD went further, and stood in a narrow place, where was no way to turn either to the right hand or to the left. 
-@27 And when the ass saw the angel of the LORD, she fell down under Balaam: and Balaam’s anger was kindled, and he smote the ass with a staff. 
-@28 And the LORD opened the mouth of the ass, and she said unto Balaam, What have I done unto thee, that thou hast smitten me these three times? 
-@29 And Balaam said unto the ass, Because thou hast mocked me: I would there were a sword in mine hand, for now would I kill thee. 
-@30 And the ass said unto Balaam, Am not I thine ass, upon which thou hast ridden ever since I was thine unto this day? was I ever wont to do so unto thee? And he said, Nay.^a^ ^b^ 
-@31 Then the LORD opened the eyes of Balaam, and he saw the angel of the LORD standing in the way, and his sword drawn in his hand: and he bowed down his head, and fell flat on his face.^c^ 
-@32 And the angel of the LORD said unto him, Wherefore hast thou smitten thine ass these three times? behold, I went out to withstand thee, because thy way is perverse before me:^d^ 
-@33 And the ass saw me, and turned from me these three times: unless she had turned from me, surely now also I had slain thee, and saved her alive. 
-@34 And Balaam said unto the angel of the LORD, I have sinned; for I knew not that thou stoodest in the way against me: now therefore, if it displease thee, I will get me back again.^e^ 
-@35 And the angel of the LORD said unto Balaam, Go with the men: but only the word that I shall speak unto thee, that thou shalt speak. So Balaam went with the princes of Balak. 
+@22 [And God’s]{strong="H430"} anger_H639 [was kindled]{strong="H2734" x-morph="strongMorph: TH8799"} [because he went]{strong="H1980" x-morph="strongMorph: TH8802"}: and_the_angel_H4397 of the LORD [stood]{strong="H3320" x-morph="strongMorph: TH8691"} in_the_way_H1870 for_an_adversary_H7854 [against him. Now he was riding]{strong="H7392" x-morph="strongMorph: TH8802"} upon_his_ass_H860, and_his_two_H8147 servants_H5288 were with him. 
+@23 And_the_ass_H860 [saw]{strong="H7200" x-morph="strongMorph: TH8799"} the_angel_H4397 of the LORD [standing]{strong="H5324" x-morph="strongMorph: TH8737"} in_the_way_H1870, and_his_sword_H2719 [drawn]{strong="H8025" x-morph="strongMorph: TH8803"} in_his_hand_H3027: and_the_ass_H860 [turned aside]{strong="H5186" x-morph="strongMorph: TH8799"} out_of_the_way_H1870, [and went]{strong="H3212" x-morph="strongMorph: TH8799"} into_the_field_H7704: and_Balaam_H1109 [smote]{strong="H5221" x-morph="strongMorph: TH8686"} the_ass_H860, [to turn]{strong="H5186" x-morph="strongMorph: TH8687"} her_into_the_way_H1870. 
+@24 But_the_angel_H4397 of the LORD [stood]{strong="H5975" x-morph="strongMorph: TH8799"} in_a_path_H4934 of_the_vineyards_H3754, a_wall_H1447 being [on this side, and a wall]{strong="H1447"} on that side. 
+@25 And_when_the_ass_H860 [saw]{strong="H7200" x-morph="strongMorph: TH8799"} the_angel_H4397 of the LORD, [she thrust]{strong="H3905" x-morph="strongMorph: TH8735"} herself_unto_the_wall_H7023, [and crushed]{strong="H3905" x-morph="strongMorph: TH8799"} [Balaam’s]{strong="H1109"} foot_H7272 against_the_wall_H7023: [and he smote]{strong="H5221" x-morph="strongMorph: TH8687"} [her again]{strong="H3254" x-morph="strongMorph: TH8686"}. 
+@26 And_the_angel_H4397 of the LORD [went]{strong="H5674" x-morph="strongMorph: TH8800"} [further]{strong="H3254" x-morph="strongMorph: TH8686"}, [and stood]{strong="H5975" x-morph="strongMorph: TH8799"} in_a_narrow_H6862 place_H4725, where was no_way_H1870 [to turn]{strong="H5186" x-morph="strongMorph: TH8800"} either_to_the_right_hand_H3225 or_to_the_left_H8040. 
+@27 And_when_the_ass_H860 [saw]{strong="H7200" x-morph="strongMorph: TH8799"} the_angel_H4397 of the LORD, [she fell down]{strong="H7257" x-morph="strongMorph: TH8799"} under_Balaam_H1109: [and Balaam’s]{strong="H1109"} anger_H639 [was kindled]{strong="H2734" x-morph="strongMorph: TH8799"}, [and he smote]{strong="H5221" x-morph="strongMorph: TH8686"} the_ass_H860 with_a_staff_H4731. 
+@28 And the LORD [opened]{strong="H6605" x-morph="strongMorph: TH8799"} the_mouth_H6310 of_the_ass_H860, [and she said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Balaam_H1109, [What have I done]{strong="H6213" x-morph="strongMorph: TH8804"} [unto thee, that thou hast smitten]{strong="H5221" x-morph="strongMorph: TH8689"} me_these_three_H7969 times_H7272? 
+@29 And_Balaam_H1109 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_the_ass_H860, [Because thou hast mocked]{strong="H5953" x-morph="strongMorph: TH8694"} [me: I would]{strong="H3863"} there_were_H3426 a_sword_H2719 in_mine_hand_H3027, [for now would I kill]{strong="H2026" x-morph="strongMorph: TH8804"} thee. 
+@30 And_the_ass_H860 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Balaam_H1109, Am not_I_thine_ass_H860, [upon which thou hast ridden]{strong="H7392" x-morph="strongMorph: TH8804"} ever since I was thine_unto_this_day_H3117? [was I ever]{strong="H5532" x-morph="strongMorph: TH8687"} [wont]{strong="H5532" x-morph="strongMorph: TH8689"} [to do so]{strong="H6213" x-morph="strongMorph: TH8800"} [unto thee? And he said]{strong="H559" x-morph="strongMorph: TH8799"}, Nay.^a^ ^b^ 
+@31 Then the LORD [opened ]{strong="H1540" x-morph="strongMorph: TH8762"} the_eyes_H5869 of_Balaam_H1109, [and he saw]{strong="H7200" x-morph="strongMorph: TH8799"} the_angel_H4397 of the LORD [standing]{strong="H5324" x-morph="strongMorph: TH8737"} in_the_way_H1870, and_his_sword_H2719 [drawn]{strong="H8025" x-morph="strongMorph: TH8803"} in_his_hand_H3027: [and he bowed down]{strong="H6915" x-morph="strongMorph: TH8799"} [his head, and fell flat]{strong="H7812" x-morph="strongMorph: TH8691"} on_his_face_H639.^c^ 
+@32 And_the_angel_H4397 of the LORD [said]{strong="H559" x-morph="strongMorph: TH8799"} [unto him, Wherefore hast thou smitten]{strong="H5221" x-morph="strongMorph: TH8689"} thine_ass_H860 these_three_H7969 times_H7272? [behold, I went out]{strong="H3318" x-morph="strongMorph: TH8804"} to_withstand_H7854 thee, because thy way_H1870 [is perverse]{strong="H3399" x-morph="strongMorph: TH8804"} before me:^d^ 
+@33 And_the_ass_H860 [saw]{strong="H7200" x-morph="strongMorph: TH8799"} [me, and turned]{strong="H5186" x-morph="strongMorph: TH8799"} from_me_H6440 these_three_H7969 times_H7272: unless_H194 [she had turned]{strong="H5186" x-morph="strongMorph: TH8804"} from_me_H6440, [surely now also I had slain]{strong="H2026" x-morph="strongMorph: TH8804"} [thee, and saved her alive]{strong="H2421" x-morph="strongMorph: TH8689"}. 
+@34 And_Balaam_H1109 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_the_angel_H4397 of the LORD, [I have sinned]{strong="H2398" x-morph="strongMorph: TH8804"}; [for I knew]{strong="H3045" x-morph="strongMorph: TH8804"} [not that thou stoodest]{strong="H5324" x-morph="strongMorph: TH8737"} in_the_way_H1870 [against ]{strong="H7125" x-morph="strongMorph: TH8800"} [me: now therefore, if it displease thee]{strong="H5869 H7489" x-morph="strongMorph: TH8804"}, [I will get me back again]{strong="H7725" x-morph="strongMorph: TH8799"}.^e^ 
+@35 And_the_angel_H4397 of the LORD [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Balaam_H1109, [Go]{strong="H3212" x-morph="strongMorph: TH8798"} with_the_men_H582: but_only_H657 the_word_H1697 [that I shall speak]{strong="H1696" x-morph="strongMorph: TH8762"} [unto thee, that thou shalt speak]{strong="H1696" x-morph="strongMorph: TH8762"}. So_Balaam_H1109 [went]{strong="H3212" x-morph="strongMorph: TH8799"} with_the_princes_H8269 of_Balak_H1111. 
 ^a^[**22:30** upon…: Heb. who hast ridden upon me] ^b^[**22:30** ever since…: or, ever since thou wast, etc] ^c^[**22:31** fell…: or, bowed himself] ^d^[**22:32** to…: Heb. to be an adversary unto thee] ^e^[**22:34** displease…: Heb. be evil in thine eyes]
 
-@36 And when Balak heard that Balaam was come, he went out to meet him unto a city of Moab, which is in the border of Arnon, which is in the utmost coast. 
-@37 And Balak said unto Balaam, Did I not earnestly send unto thee to call thee? wherefore camest thou not unto me? am I not able indeed to promote thee to honour? 
-@38 And Balaam said unto Balak, Lo, I am come unto thee: have I now any power at all to say any thing? the word that God putteth in my mouth, that shall I speak. 
-@39 And Balaam went with Balak, and they came unto Kirjath-huzoth.^a^ 
-@40 And Balak offered oxen and sheep, and sent to Balaam, and to the princes that were with him. 
-@41 And it came to pass on the morrow, that Balak took Balaam, and brought him up into the high places of Baal, that thence he might see the utmost part of the people.
+@36 And_when_Balak_H1111 [heard]{strong="H8085" x-morph="strongMorph: TH8799"} that_Balaam_H1109 [was come]{strong="H935" x-morph="strongMorph: TH8802"}, [he went out]{strong="H3318" x-morph="strongMorph: TH8799"} [to meet]{strong="H7125" x-morph="strongMorph: TH8800"} him_unto_a_city_H5892 of_Moab_H4124, which is in_the_border_H1366 of_Arnon_H769, which is in_the_utmost_H7097 coast_H1366. 
+@37 And_Balak_H1111 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Balaam_H1109, [Did I not earnestly]{strong="H7971" x-morph="strongMorph: TH8800"} [send]{strong="H7971" x-morph="strongMorph: TH8804"} [unto thee to call]{strong="H7121" x-morph="strongMorph: TH8800"} [thee? wherefore camest]{strong="H1980" x-morph="strongMorph: TH8804"} [thou not unto me? am I not able]{strong="H3201" x-morph="strongMorph: TH8799"} indeed_H552 [to promote thee to honour]{strong="H3513" x-morph="strongMorph: TH8763"}? 
+@38 And_Balaam_H1109 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Balak_H1111, [Lo, I am come]{strong="H935" x-morph="strongMorph: TH8804"} [unto thee: have I now any power]{strong="H3201" x-morph="strongMorph: TH8799"} [at all]{strong="H3201" x-morph="strongMorph: TH8800"} [to say]{strong="H1696" x-morph="strongMorph: TH8763"} any_thing_H3972? the_word_H1697 that_God_H430 [putteth]{strong="H7760" x-morph="strongMorph: TH8799"} in_my_mouth_H6310, [that shall I speak]{strong="H1696" x-morph="strongMorph: TH8762"}. 
+@39 And_Balaam_H1109 [went]{strong="H3212" x-morph="strongMorph: TH8799"} with_Balak_H1111, [and they came]{strong="H935" x-morph="strongMorph: TH8799"} [unto Kirjath-huzoth]{strong="H7155 H2351"}.^a^ 
+@40 And_Balak_H1111 [offered]{strong="H2076" x-morph="strongMorph: TH8799"} oxen_H1241 and_sheep_H6629, [and sent]{strong="H7971" x-morph="strongMorph: TH8762"} to_Balaam_H1109, and_to_the_princes_H8269 that were with him. 
+@41 And_it_came_to_pass_on_the_morrow_H1242, that_Balak_H1111 [took]{strong="H3947" x-morph="strongMorph: TH8799"} Balaam_H1109, [and brought him up]{strong="H5927" x-morph="strongMorph: TH8686"} into_the_high_places_H1116 of_Baal_H1120, [that thence he might see]{strong="H7200" x-morph="strongMorph: TH8799"} the_utmost_H7097 part of_the_people_H5971.
 ^a^[**22:39** Kirjath-huzoth: or, a city of streets] 
 
 # 23 
-@1 And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams. 
-@2 And Balak did as Balaam had spoken; and Balak and Balaam offered on every altar a bullock and a ram. 
-@3 And Balaam said unto Balak, Stand by thy burnt offering, and I will go: peradventure the LORD will come to meet me: and whatsoever he sheweth me I will tell thee. And he went to an high place.^a^ 
-@4 And God met Balaam: and he said unto him, I have prepared seven altars, and I have offered upon every altar a bullock and a ram. 
-@5 And the LORD put a word in Balaam’s mouth, and said, Return unto Balak, and thus thou shalt speak. 
-@6 And he returned unto him, and, lo, he stood by his burnt sacrifice, he, and all the princes of Moab. 
-@7 And he took up his parable, and said, Balak the king of Moab hath brought me from Aram, out of the mountains of the east, saying, Come, curse me Jacob, and come, defy Israel. 
-@8 How shall I curse, whom God hath not cursed? or how shall I defy, whom the LORD hath not defied? 
-@9 For from the top of the rocks I see him, and from the hills I behold him: lo, the people shall dwell alone, and shall not be reckoned among the nations. 
-@10 Who can count the dust of Jacob, and the number of the fourth part of Israel? Let me die the death of the righteous, and let my last end be like his!^b^ 
-@11 And Balak said unto Balaam, What hast thou done unto me? I took thee to curse mine enemies, and, behold, thou hast blessed them altogether. 
-@12 And he answered and said, Must I not take heed to speak that which the LORD hath put in my mouth? 
+@1 And_Balaam_H1109 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Balak_H1111, [Build]{strong="H1129" x-morph="strongMorph: TH8798"} me_here_seven_H7651 altars_H4196, [and prepare]{strong="H3559" x-morph="strongMorph: TH8685"} me_here_seven_H7651 oxen_H6499 and_seven_H7651 rams_H352. 
+@2 And_Balak_H1111 [did]{strong="H6213" x-morph="strongMorph: TH8799"} as_Balaam_H1109 [had spoken]{strong="H1696" x-morph="strongMorph: TH8765"}; and_Balak_H1111 and_Balaam_H1109 [offered]{strong="H5927" x-morph="strongMorph: TH8686"} on every altar_H4196 a_bullock_H6499 and_a_ram_H352. 
+@3 And_Balaam_H1109 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Balak_H1111, [Stand]{strong="H3320" x-morph="strongMorph: TH8690"} by_thy_burnt_offering_H5930, [and I will go]{strong="H3212" x-morph="strongMorph: TH8799"}: peradventure the LORD [will come]{strong="H7136" x-morph="strongMorph: TH8735"} [to meet]{strong="H7125" x-morph="strongMorph: TH8800"} [me: and whatsoever]{strong="H1697"} [he sheweth]{strong="H7200" x-morph="strongMorph: TH8686"} [me I will tell]{strong="H5046" x-morph="strongMorph: TH8689"} [thee. And he went]{strong="H3212" x-morph="strongMorph: TH8799"} to_an_high_place_H8205.^a^ 
+@4 And_God_H430 [met]{strong="H7136" x-morph="strongMorph: TH8735"} Balaam_H1109: [and he said]{strong="H559" x-morph="strongMorph: TH8799"} [unto him, I have prepared]{strong="H6186" x-morph="strongMorph: TH8804"} seven_H7651 altars_H4196, [and I have offered]{strong="H5927" x-morph="strongMorph: TH8686"} upon every altar_H4196 a_bullock_H6499 and_a_ram_H352. 
+@5 And the LORD [put]{strong="H7760" x-morph="strongMorph: TH8799"} a_word_H1697 [in Balaam’s]{strong="H1109"} mouth_H6310, [and said]{strong="H559" x-morph="strongMorph: TH8799"}, [Return]{strong="H7725" x-morph="strongMorph: TH8798"} unto_Balak_H1111, [and thus thou shalt speak]{strong="H1696" x-morph="strongMorph: TH8762"}. 
+@6 [And he returned]{strong="H7725" x-morph="strongMorph: TH8799"} [unto him, and, lo, he stood]{strong="H5324" x-morph="strongMorph: TH8737"} by_his_burnt_sacrifice_H5930, [he, and all the princes]{strong="H8269"} of_Moab_H4124. 
+@7 [And he took up]{strong="H5375" x-morph="strongMorph: TH8799"} his_parable_H4912, [and said]{strong="H559" x-morph="strongMorph: TH8799"}, Balak_H1111 the_king_H4428 of_Moab_H4124 [hath brought]{strong="H5148" x-morph="strongMorph: TH8686"} me_from_Aram_H758, out_of_the_mountains_H2042 of_the_east_H6924, saying, [Come]{strong="H3212" x-morph="strongMorph: TH8798"}, [curse]{strong="H779" x-morph="strongMorph: TH8798"} me_Jacob_H3290, [and come]{strong="H3212" x-morph="strongMorph: TH8798"}, [defy]{strong="H2194" x-morph="strongMorph: TH8798"} Israel_H3478. 
+@8 How_H4100 [shall I curse]{strong="H5344" x-morph="strongMorph: TH8799"}, whom_God_H410 [hath not cursed]{strong="H6895" x-morph="strongMorph: TH8804"}? [or how shall I defy]{strong="H2194" x-morph="strongMorph: TH8799"}, whom the LORD [hath not defied]{strong="H2194" x-morph="strongMorph: TH8804"}? 
+@9 For_from_the_top_H7218 of_the_rocks_H6697 [I see]{strong="H7200" x-morph="strongMorph: TH8799"} [him, and from the hills]{strong="H1389"} [I behold]{strong="H7789" x-morph="strongMorph: TH8799"} [him: lo, the people]{strong="H5971"} [shall dwell]{strong="H7931" x-morph="strongMorph: TH8799"} alone_H910, [and shall not be reckoned]{strong="H2803" x-morph="strongMorph: TH8691"} among_the_nations_H1471. 
+@10 [Who can count]{strong="H4487" x-morph="strongMorph: TH8804"} the_dust_H6083 of_Jacob_H3290, and_the_number_H4557 of_the_fourth_H7255 part of_Israel_H3478? [Let me die]{strong="H5315 H4191" x-morph="strongMorph: TH8799"} the_death_H4194 of_the_righteous_H3477, and_let_my_last_H319 end be like his!^b^ 
+@11 And_Balak_H1111 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Balaam_H1109, [What hast thou done]{strong="H6213" x-morph="strongMorph: TH8804"} [unto me? I took]{strong="H3947" x-morph="strongMorph: TH8804"} [thee to curse]{strong="H6895" x-morph="strongMorph: TH8800"} [mine enemies]{strong="H341" x-morph="strongMorph: TH8802"}, [and, behold, thou hast blessed]{strong="H1288" x-morph="strongMorph: TH8765"} them [altogether]{strong="H1288" x-morph="strongMorph: TH8763"}. 
+@12 [And he answered]{strong="H6030" x-morph="strongMorph: TH8799"} [and said]{strong="H559" x-morph="strongMorph: TH8799"}, [Must I not take heed]{strong="H8104" x-morph="strongMorph: TH8799"} [to speak]{strong="H1696" x-morph="strongMorph: TH8763"} that which the LORD [hath put]{strong="H7760" x-morph="strongMorph: TH8799"} in_my_mouth_H6310? 
 ^a^[**23:3** to an…: or, solitary] ^b^[**23:10** me: Heb. my soul, or, my life]
 
-@13 And Balak said unto him, Come, I pray thee, with me unto another place, from whence thou mayest see them: thou shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence. 
+@13 And_Balak_H1111 [said]{strong="H559" x-morph="strongMorph: TH8799"} [unto him, Come]{strong="H3212" x-morph="strongMorph: TH8798"}, [I pray thee, with me unto another]{strong="H312"} place_H4725, [from whence thou mayest see]{strong="H7200" x-morph="strongMorph: TH8799"} [them: thou shalt see]{strong="H7200" x-morph="strongMorph: TH8799"} but_H657 the_utmost_H7097 [part of them, and shalt not see]{strong="H7200" x-morph="strongMorph: TH8799"} [them all: and curse]{strong="H6895" x-morph="strongMorph: TH8798"} me them from thence. 
 
-@14 And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on every altar.^a^ 
-@15 And he said unto Balak, Stand here by thy burnt offering, while I meet the Lord yonder. 
-@16 And the LORD met Balaam, and put a word in his mouth, and said, Go again unto Balak, and say thus. 
-@17 And when he came to him, behold, he stood by his burnt offering, and the princes of Moab with him. And Balak said unto him, What hath the LORD spoken? 
-@18 And he took up his parable, and said, Rise up, Balak, and hear; hearken unto me, thou son of Zippor: 
-@19 God is not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do it? or hath he spoken, and shall he not make it good? 
-@20 Behold, I have received commandment to bless: and he hath blessed; and I cannot reverse it. 
-@21 He hath not beheld iniquity in Jacob, neither hath he seen perverseness in Israel: the LORD his God is with him, and the shout of a king is among them. 
-@22 God brought them out of Egypt; he hath as it were the strength of an unicorn. 
-@23 Surely there is no enchantment against Jacob, neither is there any divination against Israel: according to this time it shall be said of Jacob and of Israel, What hath God wrought!^b^ 
-@24 Behold, the people shall rise up as a great lion, and lift up himself as a young lion: he shall not lie down until he eat of the prey, and drink the blood of the slain. 
+@14 [And he brought]{strong="H3947" x-morph="strongMorph: TH8799"} him_into_the_field_H7704 [of Zophim]{strong="H6822 H6839" x-morph="strongMorph: TH8802 strongMorph: TH8677"}, to_the_top_H7218 of_Pisgah_H6449, [and built]{strong="H1129" x-morph="strongMorph: TH8799"} seven_H7651 altars_H4196, [and offered]{strong="H5927" x-morph="strongMorph: TH8686"} a_bullock_H6499 and_a_ram_H352 on every altar_H4196.^a^ 
+@15 [And he said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Balak_H1111, [Stand]{strong="H3320" x-morph="strongMorph: TH8690"} here_H3541 by_thy_burnt_offering_H5930, [while I meet]{strong="H7136" x-morph="strongMorph: TH8735"} the Lord yonder_H3541. 
+@16 And the LORD [met]{strong="H7136" x-morph="strongMorph: TH8735"} Balaam_H1109, [and put]{strong="H7760" x-morph="strongMorph: TH8799"} a_word_H1697 in_his_mouth_H6310, [and said]{strong="H559" x-morph="strongMorph: TH8799"}, [Go again]{strong="H7725" x-morph="strongMorph: TH8798"} unto_Balak_H1111, [and say]{strong="H1696" x-morph="strongMorph: TH8762"} thus. 
+@17 [And when he came]{strong="H935" x-morph="strongMorph: TH8799"} [to him, behold, he stood]{strong="H5324" x-morph="strongMorph: TH8737"} by_his_burnt_offering_H5930, and_the_princes_H8269 of_Moab_H4124 [with him. And Balak]{strong="H1111"} [said]{strong="H559" x-morph="strongMorph: TH8799"} unto him, What hath the LORD [spoken]{strong="H1696" x-morph="strongMorph: TH8765"}? 
+@18 [And he took up]{strong="H5375" x-morph="strongMorph: TH8799"} his_parable_H4912, [and said]{strong="H559" x-morph="strongMorph: TH8799"}, [Rise up]{strong="H6965" x-morph="strongMorph: TH8798"}, Balak_H1111, [and hear]{strong="H8085" x-morph="strongMorph: TH8798"}; [hearken]{strong="H238" x-morph="strongMorph: TH8685"} [unto me, thou son]{strong="H1121"} of_Zippor_H6834: 
+@19 God_H410 is not_a_man_H376, [that he should lie]{strong="H3576" x-morph="strongMorph: TH8762"}; neither_the_son_H1121 of_man_H120, [that he should repent]{strong="H5162" x-morph="strongMorph: TH8691"}: [hath he said]{strong="H559" x-morph="strongMorph: TH8804"}, [and shall he not do]{strong="H6213" x-morph="strongMorph: TH8799"} it? [or hath he spoken]{strong="H1696" x-morph="strongMorph: TH8765"}, [and shall he not make it good]{strong="H6965" x-morph="strongMorph: TH8686"}? 
+@20 [Behold, I have received]{strong="H3947" x-morph="strongMorph: TH8804"} commandment [to bless]{strong="H1288" x-morph="strongMorph: TH8763"}: [and he hath blessed]{strong="H1288" x-morph="strongMorph: TH8765"}; [and I cannot reverse]{strong="H7725" x-morph="strongMorph: TH8686"} it. 
+@21 [He hath not beheld]{strong="H5027" x-morph="strongMorph: TH8689"} iniquity_H205 in_Jacob_H3290, [neither hath he seen]{strong="H7200" x-morph="strongMorph: TH8804"} perverseness_H5999 in_Israel_H3478: the LORD his_God_H430 is [with him, and the shout]{strong="H8643"} of_a_king_H4428 is among them. 
+@22 God_H410 [brought them out]{strong="H3318" x-morph="strongMorph: TH8688"} of_Egypt_H4714; he_hath_as_it_were_the_strength_H8443 of_an_unicorn_H7214. 
+@23 Surely there is no_enchantment_H5173 against_Jacob_H3290, neither is there any_divination_H7081 against_Israel_H3478: according_to_this_time_H6256 [it shall be said]{strong="H559" x-morph="strongMorph: TH8735"} of_Jacob_H3290 and_of_Israel_H3478, What_hath_God_H410 [wrought]{strong="H6466" x-morph="strongMorph: TH8804"}!^b^ 
+@24 [Behold, the people]{strong="H5971"} [shall rise up]{strong="H6965" x-morph="strongMorph: TH8799"} as_a_great_lion_H3833, [and lift up]{strong="H5375" x-morph="strongMorph: TH8691"} himself_as_a_young_lion_H738: [he shall not lie down]{strong="H7901" x-morph="strongMorph: TH8799"} [until he eat]{strong="H398" x-morph="strongMorph: TH8799"} of the_prey_H2964, [and drink]{strong="H8354" x-morph="strongMorph: TH8799"} the_blood_H1818 of_the_slain_H2491. 
 ^a^[**23:14** Pisgah: or, the hill] ^b^[**23:23** against: or, in]
 
-@25 And Balak said unto Balaam, Neither curse them at all, nor bless them at all. 
-@26 But Balaam answered and said unto Balak, Told not I thee, saying, All that the LORD speaketh, that I must do? 
+@25 And_Balak_H1111 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Balaam_H1109, [Neither curse]{strong="H5344" x-morph="strongMorph: TH8799"} [them at all]{strong="H6895" x-morph="strongMorph: TH8800"}, [nor bless]{strong="H1288" x-morph="strongMorph: TH8762"} [them at all]{strong="H1288" x-morph="strongMorph: TH8763"}. 
+@26 But_Balaam_H1109 [answered]{strong="H6030" x-morph="strongMorph: TH8799"} [and said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Balak_H1111, [Told]{strong="H1696" x-morph="strongMorph: TH8765"} [not I thee, saying]{strong="H559" x-morph="strongMorph: TH8800"}, All that the LORD [speaketh]{strong="H1696" x-morph="strongMorph: TH8762"}, [that I must do]{strong="H6213" x-morph="strongMorph: TH8799"}? 
 
-@27 And Balak said unto Balaam, Come, I pray thee, I will bring thee unto another place; peradventure it will please God that thou mayest curse me them from thence. 
-@28 And Balak brought Balaam unto the top of Peor, that looketh toward Jeshimon. 
-@29 And Balaam said unto Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams. 
-@30 And Balak did as Balaam had said, and offered a bullock and a ram on every altar. 
+@27 And_Balak_H1111 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Balaam_H1109, [Come]{strong="H3212" x-morph="strongMorph: TH8798"}, [I pray thee, I will bring]{strong="H3947" x-morph="strongMorph: TH8799"} thee_unto_another_H312 place_H4725; [peradventure it will please]{strong="H5869 H3474" x-morph="strongMorph: TH8799"} God_H430 [that thou mayest curse]{strong="H6895" x-morph="strongMorph: TH8804"} me them from thence. 
+@28 And_Balak_H1111 [brought]{strong="H3947" x-morph="strongMorph: TH8799"} Balaam_H1109 unto_the_top_H7218 of_Peor_H6465, [that looketh]{strong="H8259" x-morph="strongMorph: TH8737"} toward_H6440 Jeshimon_H3452. 
+@29 And_Balaam_H1109 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Balak_H1111, [Build]{strong="H1129" x-morph="strongMorph: TH8798"} me_here_seven_H7651 altars_H4196, [and prepare]{strong="H3559" x-morph="strongMorph: TH8685"} me_here_seven_H7651 bullocks_H6499 and_seven_H7651 rams_H352. 
+@30 And_Balak_H1111 [did]{strong="H6213" x-morph="strongMorph: TH8799"} as_Balaam_H1109 [had said]{strong="H559" x-morph="strongMorph: TH8804"}, [and offered]{strong="H5927" x-morph="strongMorph: TH8686"} a_bullock_H6499 and_a_ram_H352 on every altar_H4196. 
 
 # 24 
-@1 And when Balaam saw that it pleased the LORD to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.^a^ 
-@2 And Balaam lifted up his eyes, and he saw Israel abiding in his tents according to their tribes; and the spirit of God came upon him. 
-@3 And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:^b^ 
-@4 He hath said, which heard the words of God, which saw the vision of the Almighty, falling into a trance, but having his eyes open: 
-@5 How goodly are thy tents, O Jacob, and thy tabernacles, O Israel! 
-@6 As the valleys are they spread forth, as gardens by the river’s side, as the trees of lign aloes which the LORD hath planted, and as cedar trees beside the waters. 
-@7 He shall pour the water out of his buckets, and his seed shall be in many waters, and his king shall be higher than Agag, and his kingdom shall be exalted. 
-@8 God brought him forth out of Egypt; he hath as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce them through with his arrows. 
-@9 He couched, he lay down as a lion, and as a great lion: who shall stir him up? Blessed is he that blesseth thee, and cursed is he that curseth thee. 
+@1 And_when_Balaam_H1109 [saw]{strong="H7200" x-morph="strongMorph: TH8799"} [that it pleased]{strong="H2895 H5869" x-morph="strongMorph: TH8804"} the LORD [to bless]{strong="H1288" x-morph="strongMorph: TH8763"} Israel_H3478, [he went]{strong="H1980" x-morph="strongMorph: TH8804"} [not, as at other times]{strong="H6471"}, [to seek]{strong="H7125" x-morph="strongMorph: TH8800"} for_enchantments_H5173, [but he set]{strong="H7896" x-morph="strongMorph: TH8799"} his_face_H6440 toward_the_wilderness_H4057.^a^ 
+@2 And_Balaam_H1109 [lifted up]{strong="H5375" x-morph="strongMorph: TH8799"} his_eyes_H5869, [and he saw]{strong="H7200" x-morph="strongMorph: TH8799"} Israel_H3478 [abiding]{strong="H7931" x-morph="strongMorph: TH8802"} in his tents according_to_their_tribes_H7626; and_the_spirit_H7307 of_God_H430 came upon him. 
+@3 [And he took up]{strong="H5375" x-morph="strongMorph: TH8799"} his_parable_H4912, [and said]{strong="H559" x-morph="strongMorph: TH8799"}, Balaam_H1109 the_son_H1121 of_Beor_H1160 [hath said]{strong="H5002" x-morph="strongMorph: TH8803"}, and_the_man_H1397 whose_eyes_H5869 [are open]{strong="H8365" x-morph="strongMorph: TH8803"} [hath said]{strong="H5002" x-morph="strongMorph: TH8803"}:^b^ 
+@4 [He hath said]{strong="H5002" x-morph="strongMorph: TH8803"}, [which heard]{strong="H8085" x-morph="strongMorph: TH8802"} the_words_H561 of_God_H410, [which saw]{strong="H2372" x-morph="strongMorph: TH8799"} the_vision_H4236 of_the_Almighty_H7706, [falling]{strong="H5307" x-morph="strongMorph: TH8802"} into a trance, but_having_his_eyes_H5869 [open]{strong="H1540" x-morph="strongMorph: TH8803"}: 
+@5 [How goodly]{strong="H2895" x-morph="strongMorph: TH8804"} are_thy_tents_H168, O_Jacob_H3290, and thy_tabernacles_H4908, O_Israel_H3478! 
+@6 As_the_valleys_H5158 [are they spread forth]{strong="H5186" x-morph="strongMorph: TH8738"}, as_gardens_H1593 [by the river’s side]{strong="H5104"}, as_the_trees_of_lign_aloes_H174 which the LORD [hath planted]{strong="H5193" x-morph="strongMorph: TH8804"}, and as_cedar_trees_H730 beside_the_waters_H4325. 
+@7 He_shall_pour_H5140 the_water_H4325 [out]{strong="H5140" x-morph="strongMorph: TH8799"} of_his_buckets_H1805, and_his_seed_H2233 shall be in_many_H7227 waters_H4325, and_his_king_H4428 [shall be higher]{strong="H7311" x-morph="strongMorph: TH8799"} than_Agag_H90, and_his_kingdom_H4438 [shall be exalted]{strong="H5375" x-morph="strongMorph: TH8691"}. 
+@8 God_H410 [brought him forth]{strong="H3318" x-morph="strongMorph: TH8688"} out_of_Egypt_H4714; he_hath_as_it_were_the_strength_H8443 of_an_unicorn_H7214: [he shall eat up]{strong="H398" x-morph="strongMorph: TH8799"} the_nations_H1471 his_enemies_H6862, [and shall break]{strong="H1633" x-morph="strongMorph: TH8762"} their_bones_H6106, [and pierce]{strong="H4272" x-morph="strongMorph: TH8799"} them through_with_his_arrows_H2671. 
+@9 [He couched]{strong="H3766" x-morph="strongMorph: TH8804"}, [he lay down]{strong="H7901" x-morph="strongMorph: TH8804"} as_a_lion_H738, and_as_a_great_lion_H3833: [who shall stir him up]{strong="H6965" x-morph="strongMorph: TH8686"}? [Blessed]{strong="H1288" x-morph="strongMorph: TH8803"} is [he that blesseth]{strong="H1288" x-morph="strongMorph: TH8764"} [thee, and cursed]{strong="H779" x-morph="strongMorph: TH8803"} is [he that curseth]{strong="H779" x-morph="strongMorph: TH8802"} thee. 
 ^a^[**24:1** to seek…: Heb. to the meeting of] ^b^[**24:3** whose…: Heb. who had his eyes shut, but now opened]
 
-@10 And Balak’s anger was kindled against Balaam, and he smote his hands together: and Balak said unto Balaam, I called thee to curse mine enemies, and, behold, thou hast altogether blessed them these three times. 
-@11 Therefore now flee thou to thy place: I thought to promote thee unto great honour; but, lo, the LORD hath kept thee back from honour. 
-@12 And Balaam said unto Balak, Spake I not also to thy messengers which thou sentest unto me, saying, 
-@13 If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the LORD, to do either good or bad of mine own mind; but what the LORD saith, that will I speak? 
-@14 And now, behold, I go unto my people: come therefore, and I will advertise thee what this people shall do to thy people in the latter days. 
+@10 [And Balak’s]{strong="H1111"} anger_H639 [was kindled]{strong="H2734" x-morph="strongMorph: TH8799"} against_Balaam_H1109, and_he_smote_H5606 his_hands_H3709 [together]{strong="H5606" x-morph="strongMorph: TH8799"}: and_Balak_H1111 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Balaam_H1109, [I called]{strong="H7121" x-morph="strongMorph: TH8804"} [thee to curse]{strong="H6895" x-morph="strongMorph: TH8800"} [mine enemies]{strong="H341" x-morph="strongMorph: TH8802"}, [and, behold, thou hast altogether]{strong="H1288" x-morph="strongMorph: TH8763"} [blessed]{strong="H1288" x-morph="strongMorph: TH8765"} them these_three_H7969 times_H6471. 
+@11 [Therefore now flee]{strong="H1272" x-morph="strongMorph: TH8798"} thou_to_thy_place_H4725: [I thought]{strong="H559" x-morph="strongMorph: TH8804"} to_promote_H3513 [thee unto great]{strong="H3513" x-morph="strongMorph: TH8763"} [honour]{strong="H3513" x-morph="strongMorph: TH8762"}; but, lo, the LORD [hath kept thee back]{strong="H4513" x-morph="strongMorph: TH8804"} from_honour_H3519. 
+@12 And_Balaam_H1109 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Balak_H1111, [Spake]{strong="H1696" x-morph="strongMorph: TH8765"} I_not_also_to_thy_messengers_H4397 [which thou sentest]{strong="H7971" x-morph="strongMorph: TH8804"} [unto me, saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@13 If_Balak_H1111 [would give]{strong="H5414" x-morph="strongMorph: TH8799"} me_his_house_H1004 full_H4393 of_silver_H3701 and_gold_H2091, [I cannot]{strong="H3201" x-morph="strongMorph: TH8799"} [go beyond]{strong="H5674" x-morph="strongMorph: TH8800"} the_commandment_H6310 of the LORD, [to do]{strong="H6213" x-morph="strongMorph: TH8800"} either good_H2896 or_bad_H7451 of_mine_own_mind_H3820; but what the LORD [saith]{strong="H1696" x-morph="strongMorph: TH8762"}, [that will I speak]{strong="H1696" x-morph="strongMorph: TH8762"}? 
+@14 [And now, behold, I go]{strong="H1980" x-morph="strongMorph: TH8802"} unto_my_people_H5971: [come]{strong="H3212" x-morph="strongMorph: TH8798"} therefore, and [I will advertise]{strong="H3289" x-morph="strongMorph: TH8799"} thee_what_this_people_H5971 [shall do]{strong="H6213" x-morph="strongMorph: TH8799"} to_thy_people_H5971 in_the_latter_H319 days_H3117. 
 
-@15 And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said: 
-@16 He hath said, which heard the words of God, and knew the knowledge of the most High, which saw the vision of the Almighty, falling into a trance, but having his eyes open: 
-@17 I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth.^a^ 
-@18 And Edom shall be a possession, Seir also shall be a possession for his enemies; and Israel shall do valiantly. 
-@19 Out of Jacob shall come he that shall have dominion, and shall destroy him that remaineth of the city. 
+@15 [And he took up]{strong="H5375" x-morph="strongMorph: TH8799"} his_parable_H4912, [and said]{strong="H559" x-morph="strongMorph: TH8799"}, Balaam_H1109 the_son_H1121 of_Beor_H1160 [hath said]{strong="H5002" x-morph="strongMorph: TH8803"}, and_the_man_H1397 whose_eyes_H5869 [are open]{strong="H8365" x-morph="strongMorph: TH8803"} [hath said]{strong="H5002" x-morph="strongMorph: TH8803"}: 
+@16 [He hath said]{strong="H5002" x-morph="strongMorph: TH8803"}, [which heard]{strong="H8085" x-morph="strongMorph: TH8802"} the_words_H561 of_God_H410, [and knew]{strong="H3045" x-morph="strongMorph: TH8802"} the_knowledge_H1847 of_the_most_High_H5945, which [saw]{strong="H2372" x-morph="strongMorph: TH8799"} the_vision_H4236 of_the_Almighty_H7706, [falling]{strong="H5307" x-morph="strongMorph: TH8802"} into a trance, but_having_his_eyes_H5869 [open]{strong="H1540" x-morph="strongMorph: TH8803"}: 
+@17 [I shall see]{strong="H7200" x-morph="strongMorph: TH8799"} [him, but not now: I shall behold]{strong="H7789" x-morph="strongMorph: TH8799"} [him, but not nigh]{strong="H7138"}: [there shall come]{strong="H1869" x-morph="strongMorph: TH8804"} a_Star_H3556 out_of_Jacob_H3290, and_a_Sceptre_H7626 [shall rise]{strong="H6965" x-morph="strongMorph: TH8804"} out_of_Israel_H3478, [and shall smite]{strong="H4272" x-morph="strongMorph: TH8804"} the_corners_H6285 of_Moab_H4124, [and destroy]{strong="H6979" x-morph="strongMorph: TH8773"} all_the_children_H1121 [of Sheth]{strong="H8351 H8352" x-morph="strongMorph: TH8676"}.^a^ 
+@18 And_Edom_H123 shall_be_a_possession_H3424, Seir_H8165 also_shall_be_a_possession_H3424 [for his enemies]{strong="H341" x-morph="strongMorph: TH8802"}; and_Israel_H3478 [shall do]{strong="H6213" x-morph="strongMorph: TH8802"} valiantly_H2428. 
+@19 Out_of_Jacob_H3290 [shall come he that shall have dominion]{strong="H7287" x-morph="strongMorph: TH8799"}, [and shall destroy]{strong="H6" x-morph="strongMorph: TH8689"} him_that_remaineth_H8300 of_the_city_H5892. 
 ^a^[**24:17** smite…: or, smite through the princes of]
 
-@20 And when he looked on Amalek, he took up his parable, and said, Amalek was the first of the nations; but his latter end shall be that he perish for ever.^a^ ^b^ 
-@21 And he looked on the Kenites, and took up his parable, and said, Strong is thy dwellingplace, and thou puttest thy nest in a rock. 
-@22 Nevertheless the Kenite shall be wasted, until Asshur shall carry thee away captive.^c^ ^d^ 
-@23 And he took up his parable, and said, Alas, who shall live when God doeth this! 
-@24 And ships shall come from the coast of Chittim, and shall afflict Asshur, and shall afflict Eber, and he also shall perish for ever. 
-@25 And Balaam rose up, and went and returned to his place: and Balak also went his way.
+@20 [And when he looked]{strong="H7200" x-morph="strongMorph: TH8799"} on_Amalek_H6002, [he took up]{strong="H5375" x-morph="strongMorph: TH8799"} his_parable_H4912, [and said]{strong="H559" x-morph="strongMorph: TH8799"}, Amalek_H6002 was the_first_H7225 of_the_nations_H1471; but_his_latter_H319 end shall be that_he_perish_H8 for_ever_H5703.^a^ ^b^ 
+@21 [And he looked]{strong="H7200" x-morph="strongMorph: TH8799"} on_the_Kenites_H7017, [and took up]{strong="H5375" x-morph="strongMorph: TH8799"} his_parable_H4912, [and said]{strong="H559" x-morph="strongMorph: TH8799"}, Strong_H386 is_thy_dwellingplace_H4186, [and thou puttest]{strong="H7760" x-morph="strongMorph: TH8798"} thy_nest_H7064 in_a_rock_H5553. 
+@22 Nevertheless_the_Kenite_H7014 shall_H518 [be wasted]{strong="H1197" x-morph="strongMorph: TH8763"}, until_Asshur_H804 [shall carry thee away captive]{strong="H7617" x-morph="strongMorph: TH8799"}.^c^ ^d^ 
+@23 [And he took up]{strong="H5375" x-morph="strongMorph: TH8799"} his_parable_H4912, [and said]{strong="H559" x-morph="strongMorph: TH8799"}, Alas_H188, [who shall live]{strong="H2421" x-morph="strongMorph: TH8799"} when_God_H410 [doeth]{strong="H7760" x-morph="strongMorph: TH8800"} this! 
+@24 And_ships_H6716 shall come from_the_coast_H3027 of_Chittim_H3794, [and shall afflict]{strong="H6031" x-morph="strongMorph: TH8765"} Asshur_H804, [and shall afflict]{strong="H6031" x-morph="strongMorph: TH8765"} Eber_H5677, and_he_also_shall_perish_H8 for_ever_H5703. 
+@25 And_Balaam_H1109 [rose up]{strong="H6965" x-morph="strongMorph: TH8799"}, [and went]{strong="H3212" x-morph="strongMorph: TH8799"} [and returned]{strong="H7725" x-morph="strongMorph: TH8799"} to_his_place_H4725: and_Balak_H1111 [also went]{strong="H1980" x-morph="strongMorph: TH8804"} his_way_H1870.
 ^a^[**24:20** the nations: the nations that warred against Israel] ^b^[**24:20** that…: or, even to destruction] ^c^[**24:22** the Kenite: Heb. Kain] ^d^[**24:22** until…: or, how long shall it be ere Asshur carry thee away captive] 
 
 # 25 
-@1 And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab. 
-@2 And they called the people unto the sacrifices of their gods: and the people did eat, and bowed down to their gods. 
-@3 And Israel joined himself unto Baal-peor: and the anger of the LORD was kindled against Israel. 
-@4 And the LORD said unto Moses, Take all the heads of the people, and hang them up before the LORD against the sun, that the fierce anger of the LORD may be turned away from Israel. 
-@5 And Moses said unto the judges of Israel, Slay ye every one his men that were joined unto Baal-peor. 
+@1 And_Israel_H3478 [abode]{strong="H3427" x-morph="strongMorph: TH8799"} in_Shittim_H7851, and_the_people_H5971 [began]{strong="H2490" x-morph="strongMorph: TH8686"} [to commit whoredom]{strong="H2181" x-morph="strongMorph: TH8800"} with_the_daughters_H1323 of_Moab_H4124. 
+@2 [And they called]{strong="H7121" x-morph="strongMorph: TH8799"} the_people_H5971 unto_the_sacrifices_H2077 of_their_gods_H430: and_the_people_H5971 [did eat]{strong="H398" x-morph="strongMorph: TH8799"}, [and bowed down]{strong="H7812" x-morph="strongMorph: TH8691"} to_their_gods_H430. 
+@3 And_Israel_H3478 [joined]{strong="H6775" x-morph="strongMorph: TH8735"} [himself unto Baal-peor]{strong="H1187"}: and_the_anger_H639 of the LORD [was kindled]{strong="H2734" x-morph="strongMorph: TH8799"} against_Israel_H3478. 
+@4 And the LORD [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872, [Take]{strong="H3947" x-morph="strongMorph: TH8798"} all_the_heads_H7218 of_the_people_H5971, [and hang them up]{strong="H3363" x-morph="strongMorph: TH8685"} before_H5048 the LORD against_the_sun_H8121, that_the_fierce_H2740 anger_H639 of the LORD [may be turned away]{strong="H7725" x-morph="strongMorph: TH8799"} from_Israel_H3478. 
+@5 And_Moses_H4872 [said]{strong="H559" x-morph="strongMorph: TH8799"} [unto the judges]{strong="H8199" x-morph="strongMorph: TH8802"} of_Israel_H3478, [Slay]{strong="H2026" x-morph="strongMorph: TH8798"} ye_every_H376 one_H376 his_men_H582 [that were joined]{strong="H6775" x-morph="strongMorph: TH8737"} [unto Baal-peor]{strong="H1187"}. 
 
-@6 And, behold, one of the children of Israel came and brought unto his brethren a Midianitish woman in the sight of Moses, and in the sight of all the congregation of the children of Israel, who were weeping before the door of the tabernacle of the congregation. 
-@7 And when Phinehas, the son of Eleazar, the son of Aaron the priest, saw it, he rose up from among the congregation, and took a javelin in his hand; 
-@8 And he went after the man of Israel into the tent, and thrust both of them through, the man of Israel, and the woman through her belly. So the plague was stayed from the children of Israel. 
-@9 And those that died in the plague were twenty and four thousand. 
+@6 [And, behold, one]{strong="H376"} of_the_children_H1121 of_Israel_H3478 [came]{strong="H935" x-morph="strongMorph: TH8802"} [and brought]{strong="H7126" x-morph="strongMorph: TH8686"} unto_his_brethren_H251 a_Midianitish_woman_H4084 in_the_sight_H5869 of_Moses_H4872, and_in_the_sight_H5869 of_all_the_congregation_H5712 of_the_children_H1121 of_Israel_H3478, who were [weeping]{strong="H1058" x-morph="strongMorph: TH8802"} before the_door_H6607 of_the_tabernacle_H168 of_the_congregation_H4150. 
+@7 And_when_Phinehas_H6372, the_son_H1121 of_Eleazar_H499, the_son_H1121 of_Aaron_H175 the_priest_H3548, [saw]{strong="H7200" x-morph="strongMorph: TH8799"} it, [he rose up]{strong="H6965" x-morph="strongMorph: TH8799"} from_among_H8432 the_congregation_H5712, [and took]{strong="H3947" x-morph="strongMorph: TH8799"} a_javelin_H7420 in_his_hand_H3027; 
+@8 [And he went]{strong="H935" x-morph="strongMorph: TH8799"} after_H310 the_man_H376 of_Israel_H3478 into_the_tent_H6898, [and thrust]{strong="H1856" x-morph="strongMorph: TH8799"} both_H8147 [of them through, the man]{strong="H376"} of_Israel_H3478, and_the_woman_H802 through_H413 her_belly_H6897. So_the_plague_H4046 [was stayed]{strong="H6113" x-morph="strongMorph: TH8735"} from_the_children_H1121 of_Israel_H3478. 
+@9 [And those that died]{strong="H4191" x-morph="strongMorph: TH8801"} in_the_plague_H4046 were_twenty_H6242 and_four_H702 thousand_H505. 
 
-@10 And the LORD spake unto Moses, saying, 
-@11 Phinehas, the son of Eleazar, the son of Aaron the priest, hath turned my wrath away from the children of Israel, while he was zealous for my sake among them, that I consumed not the children of Israel in my jealousy.^a^ 
-@12 Wherefore say, Behold, I give unto him my covenant of peace: 
-@13 And he shall have it, and his seed after him, even the covenant of an everlasting priesthood; because he was zealous for his God, and made an atonement for the children of Israel. 
-@14 Now the name of the Israelite that was slain, even that was slain with the Midianitish woman, was Zimri, the son of Salu, a prince of a chief house among the Simeonites.^b^ 
-@15 And the name of the Midianitish woman that was slain was Cozbi, the daughter of Zur; he was head over a people, and of a chief house in Midian. 
+@10 And the LORD [spake ]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@11 Phinehas_H6372, the_son_H1121 of_Eleazar_H499, the_son_H1121 of_Aaron_H175 the_priest_H3548, hath_turned_H7725 my_wrath_H2534 [away]{strong="H7725" x-morph="strongMorph: TH8689"} from_the_children_H1121 of_Israel_H3478, [while he was zealous]{strong="H7065" x-morph="strongMorph: TH8763"} for_my_sake_H7068 among_H8432 [them, that I consumed]{strong="H3615" x-morph="strongMorph: TH8765"} not_the_children_H1121 of_Israel_H3478 in_my_jealousy_H7068.^a^ 
+@12 [Wherefore say]{strong="H559" x-morph="strongMorph: TH8798"}, [Behold, I give]{strong="H5414" x-morph="strongMorph: TH8802"} unto_him_my_covenant_H1285 of_peace_H7965: 
+@13 [And he shall have it, and his seed]{strong="H2233"} after_H310 him, even the_covenant_H1285 of_an_everlasting_H5769 priesthood_H3550; because_H834 [he was zealous]{strong="H7065" x-morph="strongMorph: TH8765"} for_his_God_H430, [and made an atonement]{strong="H3722" x-morph="strongMorph: TH8762"} for_the_children_H1121 of_Israel_H3478. 
+@14 Now_the_name_H8034 of_the_Israelite_H376 [that was slain]{strong="H5221" x-morph="strongMorph: TH8716"}, even [that was slain]{strong="H5221" x-morph="strongMorph: TH8717"} with_the_Midianitish_woman_H4084, was Zimri_H2174, the_son_H1121 of_Salu_H5543, a_prince_H5387 of_a_chief_H1 house_H1004 among_the_Simeonites_H8099.^b^ 
+@15 And_the_name_H8034 of_the_Midianitish_H4084 woman_H802 [that was slain]{strong="H5221" x-morph="strongMorph: TH8716"} was Cozbi_H3579, the_daughter_H1323 of_Zur_H6698; he was head_H7218 over_a_people_H523, and of_a_chief_H1 house_H1004 in_Midian_H4080. 
 ^a^[**25:11** for…: Heb. with my zeal] ^b^[**25:14** chief…: Heb. house of a father]
 
-@16 And the LORD spake unto Moses, saying, 
-@17 Vex the Midianites, and smite them: 
-@18 For they vex you with their wiles, wherewith they have beguiled you in the matter of Peor, and in the matter of Cozbi, the daughter of a prince of Midian, their sister, which was slain in the day of the plague for Peor’s sake. 
+@16 And the LORD [spake ]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@17 [Vex]{strong="H6887" x-morph="strongMorph: TH8800"} the_Midianites_H4084, [and smite]{strong="H5221" x-morph="strongMorph: TH8689"} them: 
+@18 [For they vex]{strong="H6887" x-morph="strongMorph: TH8802"} you_with_their_wiles_H5231, [wherewith they have beguiled]{strong="H5230" x-morph="strongMorph: TH8765"} you_in_the_matter_H1697 of_Peor_H6465, and_in_the_matter_H1697 of_Cozbi_H3579, the_daughter_H1323 of_a_prince_H5387 of_Midian_H4080, their_sister_H269, [which was slain]{strong="H5221" x-morph="strongMorph: TH8716"} in_the_day_H3117 of_the_plague_H4046 [for Peor’s]{strong="H6465"} sake_H1697. 
 
 # 26 
-@1 And it came to pass after the plague, that the LORD spake unto Moses and unto Eleazar the son of Aaron the priest, saying, 
-@2 Take the sum of all the congregation of the children of Israel, from twenty years old and upward, throughout their fathers’ house, all that are able to go to war in Israel. 
-@3 And Moses and Eleazar the priest spake with them in the plains of Moab by Jordan near Jericho, saying, 
-@4 Take the sum of the people, from twenty years old and upward; as the LORD commanded Moses and the children of Israel, which went forth out of the land of Egypt. 
+@1 And_it_came_to_pass_after_H310 the_plague_H4046, that the LORD [spake]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872 and_unto_Eleazar_H499 the_son_H1121 of_Aaron_H175 the_priest_H3548, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@2 [Take]{strong="H5375" x-morph="strongMorph: TH8798"} the_sum_H7218 of_all_the_congregation_H5712 of_the_children_H1121 of_Israel_H3478, from_twenty_H6242 years_H8141 old_H1121 and_upward_H4605, [throughout their fathers’]{strong="H1"} house_H1004, [all that are able to go]{strong="H3318" x-morph="strongMorph: TH8802"} to_war_H6635 in_Israel_H3478. 
+@3 And_Moses_H4872 and_Eleazar_H499 the_priest_H3548 [spake]{strong="H1696" x-morph="strongMorph: TH8762"} with_them_in_the_plains_H6160 of_Moab_H4124 by_Jordan_H3383 near Jericho_H3405, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@4 Take the sum of the people, from_twenty_H6242 years_H8141 old_H1121 and_upward_H4605; as the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} Moses_H4872 and_the_children_H1121 of_Israel_H3478, [which went forth]{strong="H3318" x-morph="strongMorph: TH8802"} out_of_the_land_H776 of_Egypt_H4714. 
 
-@5 Reuben, the eldest son of Israel: the children of Reuben; Hanoch, of whom cometh the family of the Hanochites: of Pallu, the family of the Palluites: 
-@6 Of Hezron, the family of the Hezronites: of Carmi, the family of the Carmites. 
-@7 These are the families of the Reubenites: and they that were numbered of them were forty and three thousand and seven hundred and thirty. 
-@8 And the sons of Pallu; Eliab. 
-@9 And the sons of Eliab; Nemuel, and Dathan, and Abiram. This is that Dathan and Abiram, which were famous in the congregation, who strove against Moses and against Aaron in the company of Korah, when they strove against the LORD: 
-@10 And the earth opened her mouth, and swallowed them up together with Korah, when that company died, what time the fire devoured two hundred and fifty men: and they became a sign. 
-@11 Notwithstanding the children of Korah died not. 
+@5 Reuben_H7205, the_eldest_H1060 son_of_Israel_H3478: the_children_H1121 of_Reuben_H7205; Hanoch_H2585, of whom cometh the_family_H4940 of_the_Hanochites_H2599: of_Pallu_H6396, the_family_H4940 of_the_Palluites_H6384: 
+@6 Of_Hezron_H2696, the_family_H4940 of_the_Hezronites_H2697: of_Carmi_H3756, the_family_H4940 of_the_Carmites_H3757. 
+@7 These are the_families_H4940 of_the_Reubenites_H7206: [and they that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of_them_were_forty_H705 and_three_H7969 thousand_H505 and_seven_H7651 hundred_H3967 and_thirty_H7970. 
+@8 And_the_sons_H1121 of_Pallu_H6396; Eliab_H446. 
+@9 And_the_sons_H1121 of_Eliab_H446; Nemuel_H5241, and_Dathan_H1885, and_Abiram_H48. This is that Dathan_H1885 and_Abiram_H48, which were [famous]{strong="H7121 H7148" x-morph="strongMorph: TH8803"} in_the_congregation_H5712, [who strove]{strong="H5327" x-morph="strongMorph: TH8689"} against_Moses_H4872 and_against_Aaron_H175 in_the_company_H5712 of_Korah_H7141, [when they strove]{strong="H5327" x-morph="strongMorph: TH8687"} against the LORD: 
+@10 And_the_earth_H776 [opened]{strong="H6605" x-morph="strongMorph: TH8799"} her_mouth_H6310, [and swallowed them up]{strong="H1104" x-morph="strongMorph: TH8799"} together_with_Korah_H7141, when_that_company_H5712 died_H4194, what_time_the_fire_H784 [devoured]{strong="H398" x-morph="strongMorph: TH8800"} two_hundred_H3967 and_fifty_H2572 men_H376: and_they_became_a_sign_H5251. 
+@11 Notwithstanding_the_children_H1121 of_Korah_H7141 [died]{strong="H4191" x-morph="strongMorph: TH8804"} not. 
 
-@12 The sons of Simeon after their families: of Nemuel, the family of the Nemuelites: of Jamin, the family of the Jaminites: of Jachin, the family of the Jachinites:^a^ ^b^ 
-@13 Of Zerah, the family of the Zarhites: of Shaul, the family of the Shaulites.^c^ 
-@14 These are the families of the Simeonites, twenty and two thousand and two hundred. 
+@12 The_sons_H1121 of_Simeon_H8095 after_their_families_H4940: of_Nemuel_H5241, the_family_H4940 of_the_Nemuelites_H5242: of_Jamin_H3226, the_family_H4940 of_the_Jaminites_H3228: of_Jachin_H3199, the_family_H4940 of_the_Jachinites_H3200:^a^ ^b^ 
+@13 Of_Zerah_H2226, the_family_H4940 of_the_Zarhites_H2227: of_Shaul_H7586, the_family_H4940 of_the_Shaulites_H7587.^c^ 
+@14 These are the_families_H4940 of_the_Simeonites_H8099, twenty_H6242 and_two_H8147 thousand_H505 and_two_hundred_H3967. 
 ^a^[**26:12** Nemuel: also called, Jemuel] ^b^[**26:12** Jachin: also called, Jarib] ^c^[**26:13** Zerah: also called, Zohar]
 
-@15 The children of Gad after their families: of Zephon, the family of the Zephonites: of Haggi, the family of the Haggites: of Shuni, the family of the Shunites:^a^ 
-@16 Of Ozni, the family of the Oznites: of Eri, the family of the Erites:^b^ 
-@17 Of Arod, the family of the Arodites: of Areli, the family of the Arelites.^c^ 
-@18 These are the families of the children of Gad according to those that were numbered of them, forty thousand and five hundred. 
+@15 The_children_H1121 of_Gad_H1410 after_their_families_H4940: of_Zephon_H6827, the_family_H4940 of_the_Zephonites_H6831: of_Haggi_H2291, the_family_H4940 of_the_Haggites_H2291: of_Shuni_H7764, the_family_H4940 of_the_Shunites_H7765:^a^ 
+@16 Of_Ozni_H244, the_family_H4940 of_the_Oznites_H244: of_Eri_H6179, the_family_H4940 of_the_Erites_H6180:^b^ 
+@17 Of_Arod_H720, the_family_H4940 of_the_Arodites_H722: of_Areli_H692, the_family_H4940 of_the_Arelites_H692.^c^ 
+@18 These are the_families_H4940 of_the_children_H1121 of_Gad_H1410 [according to those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} [of them, forty]{strong="H705"} thousand_H505 and_five_H2568 hundred_H3967. 
 ^a^[**26:15** Zephon: also called, Ziphion] ^b^[**26:16** Ozni: also called, Ezbon] ^c^[**26:17** Arod: also called, Arodi]
 
-@19 The sons of Judah were Er and Onan: and Er and Onan died in the land of Canaan. 
-@20 And the sons of Judah after their families were; of Shelah, the family of the Shelanites: of Pharez, the family of the Pharzites: of Zerah, the family of the Zarhites. 
-@21 And the sons of Pharez were; of Hezron, the family of the Hezronites: of Hamul, the family of the Hamulites. 
-@22 These are the families of Judah according to those that were numbered of them, threescore and sixteen thousand and five hundred. 
+@19 The_sons_H1121 of_Judah_H3063 were Er_H6147 and_Onan_H209: and_Er_H6147 and_Onan_H209 [died]{strong="H4191" x-morph="strongMorph: TH8799"} in_the_land_H776 of_Canaan_H3667. 
+@20 And_the_sons_H1121 of_Judah_H3063 after_their_families_H4940 [were; of Shelah]{strong="H7956"}, the_family_H4940 of_the_Shelanites_H8024: of_Pharez_H6557, the_family_H4940 of_the_Pharzites_H6558: of_Zerah_H2226, the_family_H4940 of_the_Zarhites_H2227. 
+@21 And_the_sons_H1121 of_Pharez_H6557 [were; of Hezron]{strong="H2696"}, the_family_H4940 of_the_Hezronites_H2697: of_Hamul_H2538, the_family_H4940 of_the_Hamulites_H2539. 
+@22 These are the_families_H4940 of_Judah_H3063 [according to those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} [of them, threescore and sixteen]{strong="H8337 H7657"} thousand_H505 and_five_H2568 hundred_H3967. 
 
-@23 Of the sons of Issachar after their families: of Tola, the family of the Tolaites: of Pua, the family of the Punites:^a^ 
-@24 Of Jashub, the family of the Jashubites: of Shimron, the family of the Shimronites.^b^ 
-@25 These are the families of Issachar according to those that were numbered of them, threescore and four thousand and three hundred. 
+@23 Of the_sons_H1121 of_Issachar_H3485 after_their_families_H4940: of Tola_H8439, the_family_H4940 of_the_Tolaites_H8440: of_Pua_H6312, the_family_H4940 of_the_Punites_H6324:^a^ 
+@24 Of_Jashub_H3437, the_family_H4940 of_the_Jashubites_H3432: of_Shimron_H8110, the_family_H4940 of_the_Shimronites_H8117.^b^ 
+@25 These are the_families_H4940 of_Issachar_H3485 [according to those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} [of them, threescore]{strong="H8346"} and_four_H702 thousand_H505 and_three_H7969 hundred_H3967. 
 ^a^[**26:23** Pua: or, Phuvah] ^b^[**26:24** Jashub: or, Job]
 
-@26 Of the sons of Zebulun after their families: of Sered, the family of the Sardites: of Elon, the family of the Elonites: of Jahleel, the family of the Jahleelites. 
-@27 These are the families of the Zebulunites according to those that were numbered of them, threescore thousand and five hundred. 
+@26 Of the_sons_H1121 of_Zebulun_H2074 after_their_families_H4940: of_Sered_H5624, the_family_H4940 of_the_Sardites_H5625: of_Elon_H356, the_family_H4940 of_the_Elonites_H440: of_Jahleel_H3177, the_family_H4940 of_the_Jahleelites_H3178. 
+@27 These are the_families_H4940 of_the_Zebulunites_H2075 [according to those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} [of them, threescore]{strong="H8346"} thousand_H505 and_five_H2568 hundred_H3967. 
 
-@28 The sons of Joseph after their families were Manasseh and Ephraim. 
-@29 Of the sons of Manasseh: of Machir, the family of the Machirites: and Machir begat Gilead: of Gilead come the family of the Gileadites. 
-@30 These are the sons of Gilead: of Jeezer, the family of the Jeezerites: of Helek, the family of the Helekites:^a^ 
-@31 And of Asriel, the family of the Asrielites: and of Shechem, the family of the Shechemites: 
-@32 And of Shemida, the family of the Shemidaites: and of Hepher, the family of the Hepherites. 
+@28 The_sons_H1121 of_Joseph_H3130 after_their_families_H4940 were Manasseh_H4519 and_Ephraim_H669. 
+@29 Of_the_sons_H1121 of_Manasseh_H4519: of_Machir_H4353, the_family_H4940 of_the_Machirites_H4354: and_Machir_H4353 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Gilead_H1568: of_Gilead_H1568 come the_family_H4940 of_the_Gileadites_H1569. 
+@30 These are the_sons_H1121 of_Gilead_H1568: of Jeezer_H372, the_family_H4940 of_the_Jeezerites_H373: of_Helek_H2507, the_family_H4940 of_the_Helekites_H2516:^a^ 
+@31 And of Asriel_H844, the_family_H4940 of_the_Asrielites_H845: and of Shechem_H7928, the_family_H4940 of_the_Shechemites_H7930: 
+@32 And of Shemida_H8061, the_family_H4940 of_the_Shemidaites_H8062: and of Hepher_H2660, the_family_H4940 of_the_Hepherites_H2662. 
 ^a^[**26:30** Jeezer: also called Abiezer]
 
-@33 And Zelophehad the son of Hepher had no sons, but daughters: and the names of the daughters of Zelophehad were Mahlah, and Noah, Hoglah, Milcah, and Tirzah. 
-@34 These are the families of Manasseh, and those that were numbered of them, fifty and two thousand and seven hundred. 
+@33 And_Zelophehad_H6765 the_son_H1121 of_Hepher_H2660 had_no_sons_H1121, but_daughters_H1323: and_the_names_H8034 of_the_daughters_H1323 of_Zelophehad_H6765 were Mahlah_H4244, and_Noah_H5270, Hoglah_H2295, Milcah_H4435, and_Tirzah_H8656. 
+@34 These are the_families_H4940 of_Manasseh_H4519, [and those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} [of them, fifty]{strong="H2572"} and_two_H8147 thousand_H505 and_seven_H7651 hundred_H3967. 
 
-@35 These are the sons of Ephraim after their families: of Shuthelah, the family of the Shuthalhites: of Becher, the family of the Bachrites: of Tahan, the family of the Tahanites.^a^ 
-@36 And these are the sons of Shuthelah: of Eran, the family of the Eranites. 
-@37 These are the families of the sons of Ephraim according to those that were numbered of them, thirty and two thousand and five hundred. These are the sons of Joseph after their families. 
+@35 These are the_sons_H1121 of_Ephraim_H669 after_their_families_H4940: of_Shuthelah_H7803, the_family_H4940 of_the_Shuthalhites_H8364: of_Becher_H1071, the_family_H4940 of_the_Bachrites_H1076: of_Tahan_H8465, the_family_H4940 of_the_Tahanites_H8470.^a^ 
+@36 And these are the_sons_H1121 of_Shuthelah_H7803: of_Eran_H6197, the_family_H4940 of_the_Eranites_H6198. 
+@37 These are the_families_H4940 of_the_sons_H1121 of_Ephraim_H669 [according to those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} [of them, thirty]{strong="H7970"} and_two_H8147 thousand_H505 and_five_H2568 hundred_H3967. These are the_sons_H1121 of_Joseph_H3130 after_their_families_H4940. 
 ^a^[**26:35** Becher: also called, Bered]
 
-@38 The sons of Benjamin after their families: of Bela, the family of the Belaites: of Ashbel, the family of the Ashbelites: of Ahiram, the family of the Ahiramites:^a^ 
-@39 Of Shupham, the family of the Shuphamites: of Hupham, the family of the Huphamites.^b^ 
-@40 And the sons of Bela were Ard and Naaman: of Ard, the family of the Ardites: and of Naaman, the family of the Naamites.^c^ 
-@41 These are the sons of Benjamin after their families: and they that were numbered of them were forty and five thousand and six hundred. 
+@38 The_sons_H1121 of_Benjamin_H1144 after_their_families_H4940: of_Bela_H1106, the_family_H4940 of_the_Belaites_H1108: of_Ashbel_H788, the_family_H4940 of_the_Ashbelites_H789: of_Ahiram_H297, the_family_H4940 of_the_Ahiramites_H298:^a^ 
+@39 Of_Shupham_H8197, the_family_H4940 of_the_Shuphamites_H7781: of_Hupham_H2349, the_family_H4940 of_the_Huphamites_H2350.^b^ 
+@40 And_the_sons_H1121 of_Bela_H1106 were_Ard_H714 and_Naaman_H5283: of Ard, the_family_H4940 of_the_Ardites_H716: and of_Naaman_H5283, the_family_H4940 of_the_Naamites_H5280.^c^ 
+@41 These are the_sons_H1121 of_Benjamin_H1144 after_their_families_H4940: [and they that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them were forty_H705 and_five_H2568 thousand_H505 and_six_H8337 hundred_H3967. 
 ^a^[**26:38** Ahiram: also called, Ehi, or, Aharah] ^b^[**26:39** Shupham…Hupham: also called, Muppim and Huppim] ^c^[**26:40** Ard: also called, Addar]
 
-@42 These are the sons of Dan after their families: of Shuham, the family of the Shuhamites. These are the families of Dan after their families.^a^ 
-@43 All the families of the Shuhamites, according to those that were numbered of them, were threescore and four thousand and four hundred. 
+@42 These are the_sons_H1121 of_Dan_H1835 after_their_families_H4940: of_Shuham_H7748, the_family_H4940 of_the_Shuhamites_H7749. These are the_families_H4940 of_Dan_H1835 after_their_families_H4940.^a^ 
+@43 All_the_families_H4940 of_the_Shuhamites_H7749, [according to those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them, were threescore_H8346 and_four_H702 thousand_H505 and_four_H702 hundred_H3967. 
 ^a^[**26:42** Shuham: or, Hushim]
 
-@44 Of the children of Asher after their families: of Jimna, the family of the Jimnites: of Jesui, the family of the Jesuites: of Beriah, the family of the Beriites. 
-@45 Of the sons of Beriah: of Heber, the family of the Heberites: of Malchiel, the family of the Malchielites. 
-@46 And the name of the daughter of Asher was Sarah. 
-@47 These are the families of the sons of Asher according to those that were numbered of them; who were fifty and three thousand and four hundred. 
+@44 Of the_children_H1121 of_Asher_H836 after_their_families_H4940: of_Jimna_H3232, the_family_H4940 of_the_Jimnites_H3232: of_Jesui_H3440, the_family_H4940 of_the_Jesuites_H3441: of_Beriah_H1283, the_family_H4940 of_the_Beriites_H1284. 
+@45 Of_the_sons_H1121 of_Beriah_H1283: of_Heber_H2268, the_family_H4940 of_the_Heberites_H2277: of_Malchiel_H4439, the_family_H4940 of_the_Malchielites_H4440. 
+@46 And_the_name_H8034 of_the_daughter_H1323 of_Asher_H836 was Sarah_H8294. 
+@47 These are the_families_H4940 of_the_sons_H1121 of_Asher_H836 [according to those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them; who were fifty_H2572 and_three_H7969 thousand_H505 and_four_H702 hundred_H3967. 
 
-@48 Of the sons of Naphtali after their families: of Jahzeel, the family of the Jahzeelites: of Guni, the family of the Gunites: 
-@49 Of Jezer, the family of the Jezerites: of Shillem, the family of the Shillemites.^a^ 
-@50 These are the families of Naphtali according to their families: and they that were numbered of them were forty and five thousand and four hundred. 
-@51 These were the numbered of the children of Israel, six hundred thousand and a thousand seven hundred and thirty. 
+@48 Of the_sons_H1121 of_Naphtali_H5321 after_their_families_H4940: of_Jahzeel_H3183, the_family_H4940 of_the_Jahzeelites_H3184: of_Guni_H1476, the_family_H4940 of_the_Gunites_H1477: 
+@49 Of_Jezer_H3337, the_family_H4940 of_the_Jezerites_H3340: of_Shillem_H8006, the_family_H4940 of_the_Shillemites_H8016.^a^ 
+@50 These are the_families_H4940 of_Naphtali_H5321 according_to_their_families_H4940: [and they that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of them were forty_H705 and_five_H2568 thousand_H505 and_four_H702 hundred_H3967. 
+@51 These were [the numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of_the_children_H1121 of_Israel_H3478, six_H8337 hundred_H3967 thousand_H505 and_a_thousand_H505 seven_H7651 hundred_H3967 and_thirty_H7970. 
 ^a^[**26:49** Shillem: also called, Shallum]
 
-@52 And the LORD spake unto Moses, saying, 
-@53 Unto these the land shall be divided for an inheritance according to the number of names. 
-@54 To many thou shalt give the more inheritance, and to few thou shalt give the less inheritance: to every one shall his inheritance be given according to those that were numbered of him.^a^ ^b^ 
-@55 Notwithstanding the land shall be divided by lot: according to the names of the tribes of their fathers they shall inherit. 
-@56 According to the lot shall the possession thereof be divided between many and few. 
+@52 And the LORD [spake ]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@53 Unto_these_the_land_H776 [shall be divided]{strong="H2505" x-morph="strongMorph: TH8735"} for_an_inheritance_H5159 according_to_the_number_H4557 of_names_H8034. 
+@54 To_many_H7227 [thou shalt give the more]{strong="H7235" x-morph="strongMorph: TH8686"} inheritance_H5159, and_to_few_H4592 [thou shalt give the less]{strong="H4591" x-morph="strongMorph: TH8686"} inheritance_H5159: to_every_one_H376 shall_his_inheritance_H5159 [be given]{strong="H5414" x-morph="strongMorph: TH8714"} according_H6310 [to those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of him.^a^ ^b^ 
+@55 Notwithstanding_the_land_H776 [shall be divided]{strong="H2505" x-morph="strongMorph: TH8735"} by_lot_H1486: according_to_the_names_H8034 of_the_tribes_H4294 of_their_fathers_H1 [they shall inherit]{strong="H5157" x-morph="strongMorph: TH8799"}. 
+@56 According_H6310 to_the_lot_H1486 shall_the_possession_H5159 [thereof be divided]{strong="H2505" x-morph="strongMorph: TH8735"} between_many_H7227 and_few_H4592. 
 ^a^[**26:54** give the more…: Heb. multiply his inheritance] ^b^[**26:54** give the less…: Heb. diminish his inheritance]
 
-@57 And these are they that were numbered of the Levites after their families: of Gershon, the family of the Gershonites: of Kohath, the family of the Kohathites: of Merari, the family of the Merarites. 
-@58 These are the families of the Levites: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, the family of the Korathites. And Kohath begat Amram. 
-@59 And the name of Amram’s wife was Jochebed, the daughter of Levi, whom her mother bare to Levi in Egypt: and she bare unto Amram Aaron and Moses, and Miriam their sister. 
-@60 And unto Aaron was born Nadab, and Abihu, Eleazar, and Ithamar. 
-@61 And Nadab and Abihu died, when they offered strange fire before the LORD. 
-@62 And those that were numbered of them were twenty and three thousand, all males from a month old and upward: for they were not numbered among the children of Israel, because there was no inheritance given them among the children of Israel. 
+@57 And these are [they that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of_the_Levites_H3881 after_their_families_H4940: of_Gershon_H1648, the_family_H4940 of_the_Gershonites_H1649: of_Kohath_H6955, the_family_H4940 of_the_Kohathites_H6956: of_Merari_H4847, the_family_H4940 of_the_Merarites_H4848. 
+@58 These are the_families_H4940 of_the_Levites_H3881: the_family_H4940 of_the_Libnites_H3846, the_family_H4940 of_the_Hebronites_H2276, the_family_H4940 of_the_Mahlites_H4250, the_family_H4940 of_the_Mushites_H4188, the_family_H4940 of_the_Korathites_H7145. And_Kohath_H6955 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Amram_H6019. 
+@59 And_the_name_H8034 [of Amram’s]{strong="H6019"} wife_H802 was Jochebed_H3115, the_daughter_H1323 of_Levi_H3878, whom her mother [bare]{strong="H3205" x-morph="strongMorph: TH8804"} to_Levi_H3878 in_Egypt_H4714: [and she bare]{strong="H3205" x-morph="strongMorph: TH8799"} unto_Amram_H6019 Aaron_H175 and_Moses_H4872, and_Miriam_H4813 their_sister_H269. 
+@60 And_unto_Aaron_H175 [was born]{strong="H3205" x-morph="strongMorph: TH8735"} Nadab_H5070, and_Abihu_H30, Eleazar_H499, and_Ithamar_H385. 
+@61 And_Nadab_H5070 and_Abihu_H30 [died]{strong="H4191" x-morph="strongMorph: TH8799"}, [when they offered]{strong="H7126" x-morph="strongMorph: TH8687"} [strange]{strong="H2114" x-morph="strongMorph: TH8801"} fire_H784 before_H6440 the LORD. 
+@62 [And those that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} of_them_were_twenty_H6242 and_three_H7969 thousand_H505, all_males_H2145 from_a_month_H2320 old_H1121 and_upward_H4605: [for they were not numbered]{strong="H6485" x-morph="strongMorph: TH8719"} among_H8432 the_children_H1121 of_Israel_H3478, because_there_was_no_inheritance_H5159 [given]{strong="H5414" x-morph="strongMorph: TH8738"} them_among_H8432 the_children_H1121 of_Israel_H3478. 
 
-@63 These are they that were numbered by Moses and Eleazar the priest, who numbered the children of Israel in the plains of Moab by Jordan near Jericho. 
-@64 But among these there was not a man of them whom Moses and Aaron the priest numbered, when they numbered the children of Israel in the wilderness of Sinai. 
-@65 For the LORD had said of them, They shall surely die in the wilderness. And there was not left a man of them, save Caleb the son of Jephunneh, and Joshua the son of Nun. 
+@63 These are [they that were numbered]{strong="H6485" x-morph="strongMorph: TH8803"} by_Moses_H4872 and_Eleazar_H499 the_priest_H3548, [who numbered]{strong="H6485" x-morph="strongMorph: TH8804"} the_children_H1121 of_Israel_H3478 in_the_plains_H6160 of_Moab_H4124 by_Jordan_H3383 near Jericho_H3405. 
+@64 But_among_these_there_was_not_a_man_H376 of_them_whom_Moses_H4872 and_Aaron_H175 the_priest_H3548 [numbered]{strong="H6485" x-morph="strongMorph: TH8803"}, [when they numbered]{strong="H6485" x-morph="strongMorph: TH8804"} the_children_H1121 of_Israel_H3478 in_the_wilderness_H4057 of_Sinai_H5514. 
+@65 For the LORD [had said]{strong="H559" x-morph="strongMorph: TH8804"} [of them, They shall surely]{strong="H4191" x-morph="strongMorph: TH8800"} [die]{strong="H4191" x-morph="strongMorph: TH8799"} in_the_wilderness_H4057. [And there was not left]{strong="H3498" x-morph="strongMorph: TH8738"} a_man_H376 [of them, save Caleb]{strong="H3612"} the_son_H1121 of_Jephunneh_H3312, and_Joshua_H3091 the_son_H1121 of_Nun_H5126. 
 
 # 27 
-@1 Then came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph: and these are the names of his daughters; Mahlah, Noah, and Hoglah, and Milcah, and Tirzah. 
-@2 And they stood before Moses, and before Eleazar the priest, and before the princes and all the congregation, by the door of the tabernacle of the congregation, saying, 
-@3 Our father died in the wilderness, and he was not in the company of them that gathered themselves together against the LORD in the company of Korah; but died in his own sin, and had no sons. 
-@4 Why should the name of our father be done away from among his family, because he hath no son? Give unto us therefore a possession among the brethren of our father.^a^ 
-@5 And Moses brought their cause before the LORD. 
+@1 [Then came]{strong="H7126" x-morph="strongMorph: TH8799"} the_daughters_H1323 of_Zelophehad_H6765, the_son_H1121 of_Hepher_H2660, the_son_H1121 of_Gilead_H1568, the_son_H1121 of_Machir_H4353, the_son_H1121 of_Manasseh_H4519, of_the_families_H4940 of_Manasseh_H4519 the_son_H1121 of_Joseph_H3130: and these are the_names_H8034 of_his_daughters_H1323; Mahlah_H4244, Noah_H5270, and_Hoglah_H2295, and_Milcah_H4435, and_Tirzah_H8656. 
+@2 [And they stood]{strong="H5975" x-morph="strongMorph: TH8799"} before_H6440 Moses_H4872, and_before_H6440 Eleazar_H499 the_priest_H3548, and_before_H6440 the_princes_H5387 and_all_the_congregation_H5712, by the_door_H6607 of_the_tabernacle_H168 of_the_congregation_H4150, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@3 Our_father_H1 [died]{strong="H4191" x-morph="strongMorph: TH8804"} in_the_wilderness_H4057, and_he_was_not_in_H8432 the_company_H5712 [of them that gathered themselves together]{strong="H3259" x-morph="strongMorph: TH8737"} against the LORD in_the_company_H5712 of_Korah_H7141; [but died]{strong="H4191" x-morph="strongMorph: TH8804"} in_his_own_sin_H2399, and_had_no_sons_H1121. 
+@4 Why_should_the_name_H8034 of_our_father_H1 [be done away]{strong="H1639" x-morph="strongMorph: TH8735"} from_among_H8432 his_family_H4940, because_he_hath_no_son_H1121? [Give]{strong="H5414" x-morph="strongMorph: TH8798"} unto us therefore a_possession_H272 among_H8432 the_brethren_H251 of_our_father_H1.^a^ 
+@5 And_Moses_H4872 [brought]{strong="H7126" x-morph="strongMorph: TH8686"} their_cause_H4941 before_H6440 the LORD. 
 ^a^[**27:4** done…: Heb. diminished]
 
-@6 And the LORD spake unto Moses, saying, 
-@7 The daughters of Zelophehad speak right: thou shalt surely give them a possession of an inheritance among their father’s brethren; and thou shalt cause the inheritance of their father to pass unto them. 
-@8 And thou shalt speak unto the children of Israel, saying, If a man die, and have no son, then ye shall cause his inheritance to pass unto his daughter. 
-@9 And if he have no daughter, then ye shall give his inheritance unto his brethren. 
-@10 And if he have no brethren, then ye shall give his inheritance unto his father’s brethren. 
-@11 And if his father have no brethren, then ye shall give his inheritance unto his kinsman that is next to him of his family, and he shall possess it: and it shall be unto the children of Israel a statute of judgment, as the LORD commanded Moses. 
+@6 And the LORD [spake]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@7 The_daughters_H1323 of_Zelophehad_H6765 [speak]{strong="H1696" x-morph="strongMorph: TH8802"} right_H3651: [thou shalt surely]{strong="H5414" x-morph="strongMorph: TH8800"} [give]{strong="H5414" x-morph="strongMorph: TH8799"} them_a_possession_H272 of_an_inheritance_H5159 among_H8432 [their father’s]{strong="H1"} brethren_H251; and_thou_shalt_cause_the_inheritance_H5159 of_their_father_H1 [to pass]{strong="H5674" x-morph="strongMorph: TH8689"} unto them. 
+@8 [And thou shalt speak]{strong="H1696" x-morph="strongMorph: TH8762"} unto_the_children_H1121 of_Israel_H3478, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, If_a_man_H376 [die]{strong="H4191" x-morph="strongMorph: TH8799"}, and_have_no_son_H1121, then_ye_shall_cause_his_inheritance_H5159 [to pass]{strong="H5674" x-morph="strongMorph: TH8689"} unto_his_daughter_H1323. 
+@9 And_if_he_have_no_daughter_H1323, [then ye shall give]{strong="H5414" x-morph="strongMorph: TH8804"} his_inheritance_H5159 unto_his_brethren_H251. 
+@10 And_if_he_have_no_brethren_H251, [then ye shall give]{strong="H5414" x-morph="strongMorph: TH8804"} his_inheritance_H5159 [unto his father’s]{strong="H1"} brethren_H251. 
+@11 And_if_his_father_H1 have_no_brethren_H251, [then ye shall give]{strong="H5414" x-morph="strongMorph: TH8804"} his_inheritance_H5159 unto_his_kinsman_H7607 that_is_next_H7138 to_him_of_his_family_H4940, [and he shall possess]{strong="H3423" x-morph="strongMorph: TH8804"} [it: and it shall be unto the children]{strong="H1121"} of_Israel_H3478 a_statute_H2708 of_judgment_H4941, as the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} Moses_H4872. 
 
-@12 And the LORD said unto Moses, Get thee up into this mount Abarim, and see the land which I have given unto the children of Israel. 
-@13 And when thou hast seen it, thou also shalt be gathered unto thy people, as Aaron thy brother was gathered. 
-@14 For ye rebelled against my commandment in the desert of Zin, in the strife of the congregation, to sanctify me at the water before their eyes: that is the water of Meribah in Kadesh in the wilderness of Zin. 
+@12 And the LORD [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872, [Get thee up]{strong="H5927" x-morph="strongMorph: TH8798"} into_this_mount_H2022 Abarim_H5682, [and see]{strong="H7200" x-morph="strongMorph: TH8798"} the_land_H776 [which I have given]{strong="H5414" x-morph="strongMorph: TH8804"} unto_the_children_H1121 of_Israel_H3478. 
+@13 [And when thou hast seen]{strong="H7200" x-morph="strongMorph: TH8804"} [it, thou also shalt be gathered]{strong="H622" x-morph="strongMorph: TH8738"} unto_thy_people_H5971, as_Aaron_H175 thy_brother_H251 [was gathered]{strong="H622" x-morph="strongMorph: TH8738"}. 
+@14 [For ye rebelled]{strong="H4784" x-morph="strongMorph: TH8804"} against_my_commandment_H6310 in_the_desert_H4057 of_Zin_H6790, in_the_strife_H4808 of_the_congregation_H5712, [to sanctify]{strong="H6942" x-morph="strongMorph: TH8687"} me_at_the_water_H4325 before_their_eyes_H5869: that is the_water_H4325 of_Meribah_H4809 in_Kadesh_H6946 in_the_wilderness_H4057 of_Zin_H6790. 
 
-@15 And Moses spake unto the LORD, saying, 
-@16 Let the LORD, the God of the spirits of all flesh, set a man over the congregation, 
-@17 Which may go out before them, and which may go in before them, and which may lead them out, and which may bring them in; that the congregation of the LORD be not as sheep which have no shepherd. 
+@15 And_Moses_H4872 [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto the LORD, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@16 Let the LORD, the_God_H430 of_the_spirits_H7307 of_all_flesh_H1320, [set]{strong="H6485" x-morph="strongMorph: TH8799"} a_man_H376 over_the_congregation_H5712, 
+@17 [Which may go out]{strong="H3318" x-morph="strongMorph: TH8799"} before_H6440 [them, and which may go in]{strong="H935" x-morph="strongMorph: TH8799"} before_H6440 [them, and which may lead them out]{strong="H3318" x-morph="strongMorph: TH8686"}, [and which may bring them in]{strong="H935" x-morph="strongMorph: TH8686"}; that_the_congregation_H5712 of the LORD be_not_as_sheep_H6629 [which have no shepherd]{strong="H7462" x-morph="strongMorph: TH8802"}. 
 
-@18 And the LORD said unto Moses, Take thee Joshua the son of Nun, a man in whom is the spirit, and lay thine hand upon him; 
-@19 And set him before Eleazar the priest, and before all the congregation; and give him a charge in their sight. 
-@20 And thou shalt put some of thine honour upon him, that all the congregation of the children of Israel may be obedient. 
-@21 And he shall stand before Eleazar the priest, who shall ask counsel for him after the judgment of Urim before the LORD: at his word shall they go out, and at his word they shall come in, both he, and all the children of Israel with him, even all the congregation. 
-@22 And Moses did as the LORD commanded him: and he took Joshua, and set him before Eleazar the priest, and before all the congregation: 
-@23 And he laid his hands upon him, and gave him a charge, as the LORD commanded by the hand of Moses. 
+@18 And the LORD [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872, [Take]{strong="H3947" x-morph="strongMorph: TH8798"} thee_Joshua_H3091 the_son_H1121 of_Nun_H5126, a_man_H376 in whom is the_spirit_H7307, [and lay]{strong="H5564" x-morph="strongMorph: TH8804"} thine_hand_H3027 upon him; 
+@19 [And set]{strong="H5975" x-morph="strongMorph: TH8689"} him_before_H6440 Eleazar_H499 the_priest_H3548, and_before_H6440 all_the_congregation_H5712; [and give him a charge]{strong="H6680" x-morph="strongMorph: TH8765"} in_their_sight_H5869. 
+@20 [And thou shalt put]{strong="H5414" x-morph="strongMorph: TH8804"} some of_thine_honour_H1935 [upon him, that all the congregation]{strong="H5712"} of_the_children_H1121 of_Israel_H3478 [may be obedient]{strong="H8085" x-morph="strongMorph: TH8799"}. 
+@21 [And he shall stand]{strong="H5975" x-morph="strongMorph: TH8799"} before_H6440 Eleazar_H499 the_priest_H3548, [who shall ask]{strong="H7592" x-morph="strongMorph: TH8804"} counsel for_him_after_the_judgment_H4941 of_Urim_H224 before_H6440 the LORD: at_his_word_H6310 [shall they go out]{strong="H3318" x-morph="strongMorph: TH8799"}, and_at_his_word_H6310 [they shall come in]{strong="H935" x-morph="strongMorph: TH8799"}, both [he, and all the children]{strong="H1121"} of_Israel_H3478 [with him, even all the congregation]{strong="H5712"}. 
+@22 And_Moses_H4872 [did]{strong="H6213" x-morph="strongMorph: TH8799"} as the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} [him: and he took]{strong="H3947" x-morph="strongMorph: TH8799"} Joshua_H3091, [and set]{strong="H5975" x-morph="strongMorph: TH8686"} him_before_H6440 Eleazar_H499 the_priest_H3548, and_before_H6440 all_the_congregation_H5712: 
+@23 [And he laid]{strong="H5564" x-morph="strongMorph: TH8799"} his_hands_H3027 [upon him, and gave him a charge]{strong="H6680" x-morph="strongMorph: TH8762"}, as the LORD [commanded]{strong="H1696" x-morph="strongMorph: TH8765"} by_the_hand_H3027 of_Moses_H4872. 
 
 # 28 
-@1 And the LORD spake unto Moses, saying, 
-@2 Command the children of Israel, and say unto them, My offering, and my bread for my sacrifices made by fire, for a sweet savour unto me, shall ye observe to offer unto me in their due season.^a^ 
-@3 And thou shalt say unto them, This is the offering made by fire which ye shall offer unto the LORD; two lambs of the first year without spot day by day, for a continual burnt offering.^b^ 
-@4 The one lamb shalt thou offer in the morning, and the other lamb shalt thou offer at even;^c^ 
-@5 And a tenth part of an ephah of flour for a meat offering, mingled with the fourth part of an hin of beaten oil. 
-@6 It is a continual burnt offering, which was ordained in mount Sinai for a sweet savour, a sacrifice made by fire unto the LORD. 
-@7 And the drink offering thereof shall be the fourth part of an hin for the one lamb: in the holy place shalt thou cause the strong wine to be poured unto the LORD for a drink offering. 
-@8 And the other lamb shalt thou offer at even: as the meat offering of the morning, and as the drink offering thereof, thou shalt offer it, a sacrifice made by fire, of a sweet savour unto the LORD. 
+@1 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@2 [Command]{strong="H6680" x-morph="strongMorph: TH8761"} the_children_H1121 of_Israel_H3478, [and say]{strong="H559" x-morph="strongMorph: TH8804"} [unto them, My offering]{strong="H7133"}, and my_bread_H3899 for_my_sacrifices_made_by_fire_H801, for a_sweet_H5207 savour_H7381 [unto me, shall ye observe]{strong="H8104" x-morph="strongMorph: TH8799"} [to offer]{strong="H7126" x-morph="strongMorph: TH8687"} unto_me_in_their_due_season_H4150.^a^ 
+@3 [And thou shalt say]{strong="H559" x-morph="strongMorph: TH8804"} unto them, This is the_offering_made_by_fire_H801 [which ye shall offer]{strong="H7126" x-morph="strongMorph: TH8686"} unto the LORD; two_H8147 lambs_H3532 of_the_first_H1121 year_H8141 without_spot_H8549 day_by_day_H3117, for a_continual_H8548 burnt_offering_H5930.^b^ 
+@4 The_one_H259 lamb_H3532 [shalt thou offer]{strong="H6213" x-morph="strongMorph: TH8799"} in_the_morning_H1242, and_the_other_H8145 lamb_H3532 [shalt thou offer]{strong="H6213" x-morph="strongMorph: TH8799"} at_even_H6153;^c^ 
+@5 And_a_tenth_H6224 part of_an_ephah_H374 of_flour_H5560 for_a_meat_offering_H4503, [mingled]{strong="H1101" x-morph="strongMorph: TH8803"} with_the_fourth_H7243 part of_an_hin_H1969 of_beaten_H3795 oil_H8081. 
+@6 It is a_continual_H8548 burnt_offering_H5930, [which was ordained]{strong="H6213" x-morph="strongMorph: TH8803"} in_mount_H2022 Sinai_H5514 for_a_sweet_H5207 savour_H7381, a_sacrifice_made_by_fire_H801 unto the LORD. 
+@7 And_the_drink_offering_H5262 thereof shall be the_fourth_H7243 part of_an_hin_H1969 for_the_one_H259 lamb_H3532: in_the_holy_H6944 place shalt_thou_cause_the_strong_wine_H7941 [to be poured]{strong="H5258" x-morph="strongMorph: TH8685"} unto the LORD for a_drink_offering_H5262. 
+@8 And_the_other_H8145 lamb_H3532 [shalt thou offer]{strong="H6213" x-morph="strongMorph: TH8799"} at_even_H6153: as_the_meat_offering_H4503 of_the_morning_H1242, and_as_the_drink_offering_H5262 [thereof, thou shalt offer]{strong="H6213" x-morph="strongMorph: TH8799"} it, a_sacrifice_made_by_fire_H801, of_a_sweet_H5207 savour_H7381 unto the LORD. 
 ^a^[**28:2** a sweet…: Heb. a savour of my rest] ^b^[**28:3** day by day: Heb. in a day] ^c^[**28:4** at even: Heb. between the two evenings]
 
-@9 And on the sabbath day two lambs of the first year without spot, and two tenth deals of flour for a meat offering, mingled with oil, and the drink offering thereof: 
-@10 This is the burnt offering of every sabbath, beside the continual burnt offering, and his drink offering. 
+@9 And_on_the_sabbath_H7676 day_H3117 two_H8147 lambs_H3532 of_the_first_H1121 year_H8141 without_spot_H8549, and_two_H8147 tenth_H6241 deals_of_flour_H5560 for a_meat_offering_H4503, [mingled]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081, and_the_drink_offering_H5262 thereof: 
+@10 This is the_burnt_offering_H5930 of_every_sabbath_H7676, beside_the_continual_H8548 burnt_offering_H5930, and_his_drink_offering_H5262. 
 
-@11 And in the beginnings of your months ye shall offer a burnt offering unto the LORD; two young bullocks, and one ram, seven lambs of the first year without spot; 
-@12 And three tenth deals of flour for a meat offering, mingled with oil, for one bullock; and two tenth deals of flour for a meat offering, mingled with oil, for one ram; 
-@13 And a several tenth deal of flour mingled with oil for a meat offering unto one lamb; for a burnt offering of a sweet savour, a sacrifice made by fire unto the LORD. 
-@14 And their drink offerings shall be half an hin of wine unto a bullock, and the third part of an hin unto a ram, and a fourth part of an hin unto a lamb: this is the burnt offering of every month throughout the months of the year. 
-@15 And one kid of the goats for a sin offering unto the LORD shall be offered, beside the continual burnt offering, and his drink offering. 
+@11 And_in_the_beginnings_H7218 of_your_months_H2320 [ye shall offer]{strong="H7126" x-morph="strongMorph: TH8686"} a_burnt_offering_H5930 unto the LORD; two_H8147 young_H1241 bullocks_H6499, and_one_H259 ram_H352, seven_H7651 lambs_H3532 of_the_first_H1121 year_H8141 without_spot_H8549; 
+@12 And_three_H7969 tenth_deals_H6241 of_flour_H5560 for a_meat_offering_H4503, [mingled]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081, for_one_H259 bullock_H6499; and_two_H8147 tenth_H6241 deals_of_flour_H5560 for a_meat_offering_H4503, [mingled]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081, for_one_H259 ram_H352; 
+@13 And_a_several_tenth_deal_H6241 of_flour_H5560 [mingled]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081 for a_meat_offering_H4503 unto_one_H259 lamb_H3532; for a_burnt_offering_H5930 of_a_sweet_H5207 savour_H7381, a_sacrifice_made_by_fire_H801 unto the LORD. 
+@14 And_their_drink_offerings_H5262 shall_be_half_H2677 an_hin_H1969 of_wine_H3196 unto_a_bullock_H6499, and_the_third_H7992 part of_an_hin_H1969 unto_a_ram_H352, and_a_fourth_H7243 part of_an_hin_H1969 unto_a_lamb_H3532: this is the_burnt_offering_H5930 of_every_month_H2320 throughout_the_months_H2320 of_the_year_H8141. 
+@15 And_one_H259 kid_H8163 of_the_goats_H5795 for_a_sin_offering_H2403 unto the LORD [shall be offered]{strong="H6213" x-morph="strongMorph: TH8735"}, beside_the_continual_H8548 burnt_offering_H5930, and_his_drink_offering_H5262. 
 
-@16 And in the fourteenth day of the first month is the passover of the LORD. 
-@17 And in the fifteenth day of this month is the feast: seven days shall unleavened bread be eaten. 
-@18 In the first day shall be an holy convocation; ye shall do no manner of servile work therein: 
-@19 But ye shall offer a sacrifice made by fire for a burnt offering unto the LORD; two young bullocks, and one ram, and seven lambs of the first year: they shall be unto you without blemish: 
-@20 And their meat offering shall be of flour mingled with oil: three tenth deals shall ye offer for a bullock, and two tenth deals for a ram; 
-@21 A several tenth deal shalt thou offer for every lamb, throughout the seven lambs: 
-@22 And one goat for a sin offering, to make an atonement for you. 
-@23 Ye shall offer these beside the burnt offering in the morning, which is for a continual burnt offering. 
-@24 After this manner ye shall offer daily, throughout the seven days, the meat of the sacrifice made by fire, of a sweet savour unto the LORD: it shall be offered beside the continual burnt offering, and his drink offering. 
-@25 And on the seventh day ye shall have an holy convocation; ye shall do no servile work. 
+@16 [And in the fourteenth]{strong="H6240 H702"} day_H3117 of_the_first_H7223 month_H2320 is the_passover_H6453 of the LORD. 
+@17 [And in the fifteenth]{strong="H6240 H2568"} day_H3117 of_this_month_H2320 is the_feast_H2282: seven_H7651 days_H3117 shall_unleavened_bread_H4682 [be eaten]{strong="H398" x-morph="strongMorph: TH8735"}. 
+@18 In_the_first_H7223 day_H3117 shall be an_holy_H6944 convocation_H4744; [ye shall do]{strong="H6213" x-morph="strongMorph: TH8799"} no_manner_of_servile_H5656 work_H4399 therein: 
+@19 [But ye shall offer]{strong="H7126" x-morph="strongMorph: TH8689"} a_sacrifice_made_by_fire_H801 for a_burnt_offering_H5930 unto the LORD; two_H8147 young_H1241 bullocks_H6499, and_one_H259 ram_H352, and_seven_H7651 lambs_H3532 of_the_first_H1121 year_H8141: they_shall_be_unto_you_without_blemish_H8549: 
+@20 And_their_meat_offering_H4503 shall be of flour_H5560 [mingled ]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081: three_H7969 tenth_deals_H6241 [shall ye offer]{strong="H6213" x-morph="strongMorph: TH8799"} for_a_bullock_H6499, and_two_H8147 tenth_deals_H6241 for_a_ram_H352; 
+@21 A_several_tenth_deal_H6241 [shalt thou offer]{strong="H6213" x-morph="strongMorph: TH8799"} for_every_H259 lamb_H3532, throughout_the_seven_H7651 lambs_H3532: 
+@22 And_one_H259 goat_H8163 for a_sin_offering_H2403, [to make an atonement]{strong="H3722" x-morph="strongMorph: TH8763"} for you. 
+@23 [Ye shall offer]{strong="H6213" x-morph="strongMorph: TH8799"} these_beside_the_burnt_offering_H5930 in_the_morning_H1242, which is for_a_continual_H8548 burnt_offering_H5930. 
+@24 [After this manner ye shall offer]{strong="H6213" x-morph="strongMorph: TH8799"} daily_H3117, throughout_the_seven_H7651 days_H3117, the_meat_H3899 of_the_sacrifice_made_by_fire_H801, of_a_sweet_H5207 savour_H7381 unto the LORD: [it shall be offered]{strong="H6213" x-morph="strongMorph: TH8735"} beside_the_continual_H8548 burnt_offering_H5930, and_his_drink_offering_H5262. 
+@25 And_on_the_seventh_H7637 day_H3117 ye_shall_have_an_holy_H6944 convocation_H4744; [ye shall do]{strong="H6213" x-morph="strongMorph: TH8799"} no_servile_H5656 work_H4399. 
 
-@26 Also in the day of the firstfruits, when ye bring a new meat offering unto the LORD, after your weeks be out, ye shall have an holy convocation; ye shall do no servile work: 
-@27 But ye shall offer the burnt offering for a sweet savour unto the LORD; two young bullocks, one ram, seven lambs of the first year; 
-@28 And their meat offering of flour mingled with oil, three tenth deals unto one bullock, two tenth deals unto one ram, 
-@29 A several tenth deal unto one lamb, throughout the seven lambs; 
-@30 And one kid of the goats, to make an atonement for you. 
-@31 Ye shall offer them beside the continual burnt offering, and his meat offering, (they shall be unto you without blemish) and their drink offerings. 
+@26 Also_in_the_day_H3117 of_the_firstfruits_H1061, [when ye bring]{strong="H7126" x-morph="strongMorph: TH8687"} a_new_H2319 meat_offering_H4503 unto the LORD, after_your_weeks_H7620 be out, ye_shall_have_an_holy_H6944 convocation_H4744; [ye shall do]{strong="H6213" x-morph="strongMorph: TH8799"} no_servile_H5656 work_H4399: 
+@27 [But ye shall offer]{strong="H7126" x-morph="strongMorph: TH8689"} the_burnt_offering_H5930 for_a_sweet_H5207 savour_H7381 unto the LORD; two_H8147 young_H1241 bullocks_H6499, one_H259 ram_H352, seven_H7651 lambs_H3532 of_the_first_H1121 year_H8141; 
+@28 And_their_meat_offering_H4503 of_flour_H5560 [mingled]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081, three_H7969 tenth_deals_H6241 unto_one_H259 bullock_H6499, two_H8147 tenth_deals_H6241 unto_one_H259 ram_H352, 
+@29 A_several_tenth_deal_H6241 unto_one_H259 lamb_H3532, throughout_the_seven_H7651 lambs_H3532; 
+@30 And one_H259 kid_H8163 of_the_goats_H5795, [to make an atonement]{strong="H3722" x-morph="strongMorph: TH8763"} for you. 
+@31 [Ye shall offer]{strong="H6213" x-morph="strongMorph: TH8799"} them beside_the_continual_H8548 burnt_offering_H5930, and_his_meat_offering_H4503, (they_shall_be_unto_you_without_blemish_H8549) and_their_drink_offerings_H5262. 
 
 # 29 
-@1 And in the seventh month, on the first day of the month, ye shall have an holy convocation; ye shall do no servile work: it is a day of blowing the trumpets unto you. 
-@2 And ye shall offer a burnt offering for a sweet savour unto the LORD; one young bullock, one ram, and seven lambs of the first year without blemish: 
-@3 And their meat offering shall be of flour mingled with oil, three tenth deals for a bullock, and two tenth deals for a ram, 
-@4 And one tenth deal for one lamb, throughout the seven lambs: 
-@5 And one kid of the goats for a sin offering, to make an atonement for you: 
-@6 Beside the burnt offering of the month, and his meat offering, and the daily burnt offering, and his meat offering, and their drink offerings, according unto their manner, for a sweet savour, a sacrifice made by fire unto the LORD. 
+@1 And_in_the_seventh_H7637 month_H2320, on_the_first_H259 day of_the_month_H2320, ye_shall_have_an_holy_H6944 convocation_H4744; [ye shall do]{strong="H6213" x-morph="strongMorph: TH8799"} no_servile_H5656 work_H4399: it_is_a_day_H3117 of_blowing_H8643 the trumpets unto you. 
+@2 [And ye shall offer]{strong="H6213" x-morph="strongMorph: TH8804"} a_burnt_offering_H5930 for_a_sweet_H5207 savour_H7381 unto the LORD; one_H259 young_H1241 bullock_H6499, one_H259 ram_H352, and seven_H7651 lambs_H3532 of_the_first_H1121 year_H8141 without_blemish_H8549: 
+@3 And_their_meat_offering_H4503 shall be of flour_H5560 [mingled]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081, three_H7969 tenth_deals_H6241 for_a_bullock_H6499, and two_H8147 tenth_deals_H6241 for_a_ram_H352, 
+@4 And_one_H259 tenth_deal_H6241 for_one_H259 lamb_H3532, throughout_the_seven_H7651 lambs_H3532: 
+@5 And_one_H259 kid_H8163 of_the_goats_H5795 for a_sin_offering_H2403, [to make an atonement]{strong="H3722" x-morph="strongMorph: TH8763"} for you: 
+@6 Beside_the_burnt_offering_H5930 of_the_month_H2320, and_his_meat_offering_H4503, and_the_daily_H8548 burnt_offering_H5930, and_his_meat_offering_H4503, and_their_drink_offerings_H5262, according_unto_their_manner_H4941, for_a_sweet_H5207 savour_H7381, a_sacrifice_made_by_fire_H801 unto the LORD. 
 
-@7 And ye shall have on the tenth day of this seventh month an holy convocation; and ye shall afflict your souls: ye shall not do any work therein: 
-@8 But ye shall offer a burnt offering unto the LORD for a sweet savour; one young bullock, one ram, and seven lambs of the first year; they shall be unto you without blemish: 
-@9 And their meat offering shall be of flour mingled with oil, three tenth deals to a bullock, and two tenth deals to one ram, 
-@10 A several tenth deal for one lamb, throughout the seven lambs: 
-@11 One kid of the goats for a sin offering; beside the sin offering of atonement, and the continual burnt offering, and the meat offering of it, and their drink offerings. 
+@7 And_ye_shall_have_on_the_tenth_H6218 day of_this_seventh_H7637 month_H2320 an_holy_H6944 convocation_H4744; [and ye shall afflict]{strong="H6031" x-morph="strongMorph: TH8765"} your_souls_H5315: [ye shall not do]{strong="H6213" x-morph="strongMorph: TH8799"} any_work_H4399 therein: 
+@8 [But ye shall offer]{strong="H7126" x-morph="strongMorph: TH8689"} a_burnt_offering_H5930 unto the LORD for a_sweet_H5207 savour_H7381; one_H259 young_H1241 bullock_H6499, one_H259 ram_H352, and seven_H7651 lambs_H3532 of_the_first_H1121 year_H8141; they_shall_be_unto_you_without_blemish_H8549: 
+@9 And_their_meat_offering_H4503 shall be of flour_H5560 [mingled]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081, three_H7969 tenth_deals_H6241 to_a_bullock_H6499, and two_H8147 tenth_deals_H6241 to_one_H259 ram_H352, 
+@10 A_several_tenth_deal_H6241 for_one_H259 lamb_H3532, throughout_the_seven_H7651 lambs_H3532: 
+@11 One_H259 kid_H8163 of_the_goats_H5795 for a_sin_offering_H2403; beside_the_sin_offering_H2403 of_atonement_H3725, and_the_continual_H8548 burnt_offering_H5930, and_the_meat_offering_H4503 [of it, and their drink offerings]{strong="H5262"}. 
 
-@12 And on the fifteenth day of the seventh month ye shall have an holy convocation; ye shall do no servile work, and ye shall keep a feast unto the LORD seven days: 
-@13 And ye shall offer a burnt offering, a sacrifice made by fire, of a sweet savour unto the LORD; thirteen young bullocks, two rams, and fourteen lambs of the first year; they shall be without blemish: 
-@14 And their meat offering shall be of flour mingled with oil, three tenth deals unto every bullock of the thirteen bullocks, two tenth deals to each ram of the two rams, 
-@15 And a several tenth deal to each lamb of the fourteen lambs: 
-@16 And one kid of the goats for a sin offering; beside the continual burnt offering, his meat offering, and his drink offering. 
+@12 [And on the fifteenth]{strong="H6240 H2568"} day_H3117 of_the_seventh_H7637 month_H2320 ye_shall_have_an_holy_H6944 convocation_H4744; [ye shall do]{strong="H6213" x-morph="strongMorph: TH8799"} no_servile_H5656 work_H4399, [and ye shall keep]{strong="H2287" x-morph="strongMorph: TH8804"} a_feast_H2282 unto the LORD seven_H7651 days_H3117: 
+@13 [And ye shall offer]{strong="H7126" x-morph="strongMorph: TH8689"} a_burnt_offering_H5930, a_sacrifice_made_by_fire_H801, of_a_sweet_H5207 savour_H7381 unto the LORD; [thirteen]{strong="H6240 H7969"} [young]{strong="H1121 H1241"} bullocks_H6499, two_H8147 rams_H352, and [fourteen]{strong="H6240 H702"} lambs_H3532 of_the_first_H1121 year_H8141; they_shall_be_without_blemish_H8549: 
+@14 And_their_meat_offering_H4503 shall be of flour_H5560 [mingled ]{strong="H1101" x-morph="strongMorph: TH8803"} with_oil_H8081, three_H7969 tenth_deals_H6241 unto_every_H259 bullock_H6499 [of the thirteen]{strong="H6240 H7969"} bullocks_H6499, two_H8147 tenth_deals_H6241 to_each_H259 ram_H352 of_the_two_H8147 rams_H352, 
+@15 And_a_several_tenth_deal_H6241 to_each_H259 lamb_H3532 [of the fourteen]{strong="H6240 H702"} lambs_H3532: 
+@16 And_one_H259 kid_H8163 of_the_goats_H5795 for a_sin_offering_H2403; beside_the_continual_H8548 burnt_offering_H5930, his_meat_offering_H4503, and_his_drink_offering_H5262. 
 
-@17 And on the second day ye shall offer twelve young bullocks, two rams, fourteen lambs of the first year without spot: 
-@18 And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, shall be according to their number, after the manner: 
-@19 And one kid of the goats for a sin offering; beside the continual burnt offering, and the meat offering thereof, and their drink offerings. 
+@17 And_on_the_second_H8145 day_H3117 ye shall offer [twelve]{strong="H6240 H8147"} [young]{strong="H1241 H1121"} bullocks_H6499, two_H8147 rams_H352, [fourteen]{strong="H6240 H702"} lambs_H3532 of_the_first_H1121 year_H8141 without_spot_H8549: 
+@18 And_their_meat_offering_H4503 and_their_drink_offerings_H5262 for_the_bullocks_H6499, for_the_rams_H352, and_for_the_lambs_H3532, shall be according_to_their_number_H4557, after_the_manner_H4941: 
+@19 And_one_H259 kid_H8163 of_the_goats_H5795 for a_sin_offering_H2403; beside_the_continual_H8548 burnt_offering_H5930, and_the_meat_offering_H4503 [thereof, and their drink offerings]{strong="H5262"}. 
 
-@20 And on the third day eleven bullocks, two rams, fourteen lambs of the first year without blemish; 
-@21 And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, shall be according to their number, after the manner: 
-@22 And one goat for a sin offering; beside the continual burnt offering, and his meat offering, and his drink offering. 
+@20 And_on_the_third_H7992 day_H3117 [eleven]{strong="H6240 H6249"} bullocks_H6499, two_H8147 rams_H352, [fourteen]{strong="H6240 H702"} lambs_H3532 of_the_first_H1121 year_H8141 without_blemish_H8549; 
+@21 And_their_meat_offering_H4503 and_their_drink_offerings_H5262 for_the_bullocks_H6499, for_the_rams_H352, and_for_the_lambs_H3532, shall be according_to_their_number_H4557, after_the_manner_H4941: 
+@22 And_one_H259 goat_H8163 for a_sin_offering_H2403; beside_the_continual_H8548 burnt_offering_H5930, and_his_meat_offering_H4503, and_his_drink_offering_H5262. 
 
-@23 And on the fourth day ten bullocks, two rams, and fourteen lambs of the first year without blemish: 
-@24 Their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, shall be according to their number, after the manner: 
-@25 And one kid of the goats for a sin offering; beside the continual burnt offering, his meat offering, and his drink offering. 
+@23 And_on_the_fourth_H7243 day_H3117 ten_H6235 bullocks_H6499, two_H8147 rams_H352, and [fourteen]{strong="H6240 H702"} lambs_H3532 of_the_first_H1121 year_H8141 without_blemish_H8549: 
+@24 Their_meat_offering_H4503 and_their_drink_offerings_H5262 for_the_bullocks_H6499, for_the_rams_H352, and_for_the_lambs_H3532, shall be according_to_their_number_H4557, after_the_manner_H4941: 
+@25 And_one_H259 kid_H8163 of_the_goats_H5795 for a_sin_offering_H2403; beside_the_continual_H8548 burnt_offering_H5930, his_meat_offering_H4503, and_his_drink_offering_H5262. 
 
-@26 And on the fifth day nine bullocks, two rams, and fourteen lambs of the first year without spot: 
-@27 And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, shall be according to their number, after the manner: 
-@28 And one goat for a sin offering; beside the continual burnt offering, and his meat offering, and his drink offering. 
+@26 And_on_the_fifth_H2549 day_H3117 nine_H8672 bullocks_H6499, two_H8147 rams_H352, and [fourteen]{strong="H6240 H702"} lambs_H3532 of_the_first_H1121 year_H8141 without_spot_H8549: 
+@27 And_their_meat_offering_H4503 and_their_drink_offerings_H5262 for_the_bullocks_H6499, for_the_rams_H352, and_for_the_lambs_H3532, shall be according_to_their_number_H4557, after_the_manner_H4941: 
+@28 And_one_H259 goat_H8163 for a_sin_offering_H2403; beside_the_continual_H8548 burnt_offering_H5930, and_his_meat_offering_H4503, and_his_drink_offering_H5262. 
 
-@29 And on the sixth day eight bullocks, two rams, and fourteen lambs of the first year without blemish: 
-@30 And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, shall be according to their number, after the manner: 
-@31 And one goat for a sin offering; beside the continual burnt offering, his meat offering, and his drink offering. 
+@29 And_on_the_sixth_H8345 day_H3117 eight_H8083 bullocks_H6499, two_H8147 rams_H352, and [fourteen]{strong="H6240 H702"} lambs_H3532 of_the_first_H1121 year_H8141 without_blemish_H8549: 
+@30 And_their_meat_offering_H4503 and_their_drink_offerings_H5262 for_the_bullocks_H6499, for_the_rams_H352, and_for_the_lambs_H3532, shall be according_to_their_number_H4557, after_the_manner_H4941: 
+@31 And_one_H259 goat_H8163 for a_sin_offering_H2403; beside_the_continual_H8548 burnt_offering_H5930, his_meat_offering_H4503, and_his_drink_offering_H5262. 
 
-@32 And on the seventh day seven bullocks, two rams, and fourteen lambs of the first year without blemish: 
-@33 And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, shall be according to their number, after the manner: 
-@34 And one goat for a sin offering; beside the continual burnt offering, his meat offering, and his drink offering. 
+@32 And_on_the_seventh_H7637 day_H3117 seven_H7651 bullocks_H6499, two_H8147 rams_H352, and [fourteen]{strong="H6240 H702"} lambs_H3532 of_the_first_H1121 year_H8141 without_blemish_H8549: 
+@33 And_their_meat_offering_H4503 and_their_drink_offerings_H5262 for_the_bullocks_H6499, for_the_rams_H352, and_for_the_lambs_H3532, shall be according_to_their_number_H4557, after_the_manner_H4941: 
+@34 And_one_H259 goat_H8163 for a_sin_offering_H2403; beside_the_continual_H8548 burnt_offering_H5930, his_meat_offering_H4503, and_his_drink_offering_H5262. 
 
-@35 On the eighth day ye shall have a solemn assembly: ye shall do no servile work therein: 
-@36 But ye shall offer a burnt offering, a sacrifice made by fire, of a sweet savour unto the LORD: one bullock, one ram, seven lambs of the first year without blemish: 
-@37 Their meat offering and their drink offerings for the bullock, for the ram, and for the lambs, shall be according to their number, after the manner: 
-@38 And one goat for a sin offering; beside the continual burnt offering, and his meat offering, and his drink offering. 
-@39 These things ye shall do unto the LORD in your set feasts, beside your vows, and your freewill offerings, for your burnt offerings, and for your meat offerings, and for your drink offerings, and for your peace offerings.^a^ 
-@40 And Moses told the children of Israel according to all that the LORD commanded Moses.
+@35 On_the_eighth_H8066 day_H3117 ye_shall_have_a_solemn_assembly_H6116: [ye shall do]{strong="H6213" x-morph="strongMorph: TH8799"} no_servile_H5656 work_H4399 therein: 
+@36 [But ye shall offer]{strong="H7126" x-morph="strongMorph: TH8689"} a_burnt_offering_H5930, a_sacrifice_made_by_fire_H801, of_a_sweet_H5207 savour_H7381 unto the LORD: one_H259 bullock_H6499, one_H259 ram_H352, seven_H7651 lambs_H3532 of_the_first_H1121 year_H8141 without_blemish_H8549: 
+@37 Their_meat_offering_H4503 and_their_drink_offerings_H5262 for_the_bullock_H6499, for_the_ram_H352, and_for_the_lambs_H3532, shall be according_to_their_number_H4557, after_the_manner_H4941: 
+@38 And_one_H259 goat_H8163 for a_sin_offering_H2403; beside_the_continual_H8548 burnt_offering_H5930, and_his_meat_offering_H4503, and_his_drink_offering_H5262. 
+@39 These things [ye shall do]{strong="H6213" x-morph="strongMorph: TH8799"} unto the LORD in_your_set_feasts_H4150, beside_your_vows_H5088, and_your_freewill_offerings_H5071, for_your_burnt_offerings_H5930, and_for_your_meat_offerings_H4503, and_for_your_drink_offerings_H5262, and_for_your_peace_offerings_H8002.^a^ 
+@40 And_Moses_H4872 [told]{strong="H559" x-morph="strongMorph: TH8799"} the_children_H1121 of_Israel_H3478 according to all that the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} Moses_H4872.
 ^a^[**29:39** do: or, offer] 
 
 # 30 
-@1 And Moses spake unto the heads of the tribes concerning the children of Israel, saying, This is the thing which the LORD hath commanded. 
-@2 If a man vow a vow unto the LORD, or swear an oath to bind his soul with a bond; he shall not break his word, he shall do according to all that proceedeth out of his mouth.^a^ 
+@1 And_Moses_H4872 [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_the_heads_H7218 of_the_tribes_H4294 concerning_the_children_H1121 of_Israel_H3478, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, This is the_thing_H1697 which the LORD [hath commanded]{strong="H6680" x-morph="strongMorph: TH8765"}. 
+@2 If_a_man_H376 [vow]{strong="H5087" x-morph="strongMorph: TH8799"} a_vow_H5088 unto the LORD, [or swear]{strong="H7650" x-morph="strongMorph: TH8736"} an_oath_H7621 [to bind]{strong="H631" x-morph="strongMorph: TH8800"} his_soul_H5315 with_a_bond_H632; [he shall not break]{strong="H2490" x-morph="strongMorph: TH8686"} his_word_H1697, [he shall do]{strong="H6213" x-morph="strongMorph: TH8799"} [according to all that proceedeth]{strong="H3318" x-morph="strongMorph: TH8802"} out_of_his_mouth_H6310.^a^ 
 ^a^[**30:2** break: Heb. profane]
 
-@3 If a woman also vow a vow unto the LORD, and bind herself by a bond, being in her father’s house in her youth; 
-@4 And her father hear her vow, and her bond wherewith she hath bound her soul, and her father shall hold his peace at her: then all her vows shall stand, and every bond wherewith she hath bound her soul shall stand. 
-@5 But if her father disallow her in the day that he heareth; not any of her vows, or of her bonds wherewith she hath bound her soul, shall stand: and the LORD shall forgive her, because her father disallowed her. 
-@6 And if she had at all an husband, when she vowed, or uttered ought out of her lips, wherewith she bound her soul;^a^ 
-@7 And her husband heard it, and held his peace at her in the day that he heard it: then her vows shall stand, and her bonds wherewith she bound her soul shall stand. 
-@8 But if her husband disallowed her on the day that he heard it; then he shall make her vow which she vowed, and that which she uttered with her lips, wherewith she bound her soul, of none effect: and the LORD shall forgive her. 
-@9 But every vow of a widow, and of her that is divorced, wherewith they have bound their souls, shall stand against her. 
-@10 And if she vowed in her husband’s house, or bound her soul by a bond with an oath; 
-@11 And her husband heard it, and held his peace at her, and disallowed her not: then all her vows shall stand, and every bond wherewith she bound her soul shall stand. 
-@12 But if her husband hath utterly made them void on the day he heard them; then whatsoever proceeded out of her lips concerning her vows, or concerning the bond of her soul, shall not stand: her husband hath made them void; and the LORD shall forgive her. 
-@13 Every vow, and every binding oath to afflict the soul, her husband may establish it, or her husband may make it void. 
-@14 But if her husband altogether hold his peace at her from day to day; then he establisheth all her vows, or all her bonds, which are upon her: he confirmeth them, because he held his peace at her in the day that he heard them. 
-@15 But if he shall any ways make them void after that he hath heard them; then he shall bear her iniquity. 
-@16 These are the statutes, which the LORD commanded Moses, between a man and his wife, between the father and his daughter, being yet in her youth in her father’s house.
+@3 If_a_woman_H802 [also vow]{strong="H5087" x-morph="strongMorph: TH8799"} a_vow_H5088 unto the LORD, [and bind]{strong="H631" x-morph="strongMorph: TH8804"} herself_by_a_bond_H632, being [in her father’s]{strong="H1"} house_H1004 in_her_youth_H5271; 
+@4 And_her_father_H1 [hear]{strong="H8085" x-morph="strongMorph: TH8804"} her_vow_H5088, and_her_bond_H632 [wherewith she hath bound]{strong="H631" x-morph="strongMorph: TH8804"} her_soul_H5315, and_her_father_H1 [shall hold his peace]{strong="H2790" x-morph="strongMorph: TH8689"} [at her: then all her vows]{strong="H5088"} [shall stand]{strong="H6965" x-morph="strongMorph: TH8804"}, and_every_bond_H632 [wherewith she hath bound]{strong="H631" x-morph="strongMorph: TH8804"} her_soul_H5315 [shall stand]{strong="H6965" x-morph="strongMorph: TH8799"}. 
+@5 But_if_her_father_H1 [disallow]{strong="H5106" x-morph="strongMorph: TH8689"} her_in_the_day_H3117 [that he heareth]{strong="H8085" x-morph="strongMorph: TH8800"}; not_any_of_her_vows_H5088, or_of_her_bonds_H632 [wherewith she hath bound]{strong="H631" x-morph="strongMorph: TH8804"} her_soul_H5315, [shall stand]{strong="H6965" x-morph="strongMorph: TH8799"}: and the LORD [shall forgive]{strong="H5545" x-morph="strongMorph: TH8799"} [her, because her father]{strong="H1"} [disallowed]{strong="H5106" x-morph="strongMorph: TH8689"} her. 
+@6 And_if_she_had_at_all_an_husband_H376, when_she_vowed_H5088, or_uttered_H4008 ought_out_of_her_lips_H8193, [wherewith she bound]{strong="H631" x-morph="strongMorph: TH8804"} her_soul_H5315;^a^ 
+@7 And_her_husband_H376 [heard]{strong="H8085" x-morph="strongMorph: TH8804"} it, [and held his peace]{strong="H2790" x-morph="strongMorph: TH8689"} at_her_in_the_day_H3117 [that he heard]{strong="H8085" x-morph="strongMorph: TH8800"} it: then_her_vows_H5088 [shall stand]{strong="H6965" x-morph="strongMorph: TH8804"}, and_her_bonds_H632 [wherewith she bound]{strong="H631" x-morph="strongMorph: TH8804"} her_soul_H5315 [shall stand]{strong="H6965" x-morph="strongMorph: TH8799"}. 
+@8 But_if_her_husband_H376 [disallowed]{strong="H5106" x-morph="strongMorph: TH8686"} her_on_the_day_H3117 [that he heard]{strong="H8085" x-morph="strongMorph: TH8800"} it; then_he_shall_make_her_vow_which_she_vowed_H5088, and_that_which_she_uttered_H4008 with_her_lips_H8193, [wherewith she bound]{strong="H631" x-morph="strongMorph: TH8804"} her_soul_H5315, [of none effect]{strong="H6565" x-morph="strongMorph: TH8689"}: and the LORD [shall forgive]{strong="H5545" x-morph="strongMorph: TH8799"} her. 
+@9 But_every_vow_H5088 of_a_widow_H490, [and of her that is divorced]{strong="H1644" x-morph="strongMorph: TH8803"}, [wherewith they have bound]{strong="H631" x-morph="strongMorph: TH8804"} their_souls_H5315, [shall stand]{strong="H6965" x-morph="strongMorph: TH8799"} against her. 
+@10 [And if she vowed]{strong="H5087" x-morph="strongMorph: TH8804"} [in her husband’s]{strong="H376"} house_H1004, [or bound]{strong="H631" x-morph="strongMorph: TH8804"} her_soul_H5315 by_a_bond_H632 with_an_oath_H7621; 
+@11 And_her_husband_H376 [heard]{strong="H8085" x-morph="strongMorph: TH8804"} it, [and held his peace]{strong="H2790" x-morph="strongMorph: TH8689"} at her, and [disallowed]{strong="H5106" x-morph="strongMorph: TH8689"} [her not: then all her vows]{strong="H5088"} [shall stand]{strong="H6965" x-morph="strongMorph: TH8799"}, and_every_bond_H632 [wherewith she bound]{strong="H631" x-morph="strongMorph: TH8804"} her_soul_H5315 [shall stand]{strong="H6965" x-morph="strongMorph: TH8804"}. 
+@12 But_if_her_husband_H376 [hath utterly]{strong="H6565" x-morph="strongMorph: TH8687"} [made them void]{strong="H6565" x-morph="strongMorph: TH8686"} on_the_day_H3117 [he heard]{strong="H8085" x-morph="strongMorph: TH8800"} them; then whatsoever_proceeded_H4161 out_of_her_lips_H8193 concerning_her_vows_H5088, or_concerning_the_bond_H632 of_her_soul_H5315, [shall not stand]{strong="H6965" x-morph="strongMorph: TH8799"}: her_husband_H376 [hath made them void]{strong="H6565" x-morph="strongMorph: TH8689"}; and the LORD [shall forgive]{strong="H5545" x-morph="strongMorph: TH8799"} her. 
+@13 Every_vow_H5088, and_every_binding_H632 oath_H7621 [to afflict]{strong="H6031" x-morph="strongMorph: TH8763"} the_soul_H5315, her_husband_H376 [may establish]{strong="H6965" x-morph="strongMorph: TH8686"} [it, or her husband]{strong="H376"} [may make it void]{strong="H6565" x-morph="strongMorph: TH8686"}. 
+@14 But_if_her_husband_H376 [altogether ]{strong="H2790" x-morph="strongMorph: TH8687"} [hold his peace]{strong="H2790" x-morph="strongMorph: TH8686"} at_her_from_day_H3117 to_day_H3117; [then he establisheth]{strong="H6965" x-morph="strongMorph: TH8689"} all_her_vows_H5088, or_all_her_bonds_H632, which are [upon her: he confirmeth]{strong="H6965" x-morph="strongMorph: TH8689"} [them, because he held his peace]{strong="H2790" x-morph="strongMorph: TH8689"} at_her_in_the_day_H3117 [that he heard]{strong="H8085" x-morph="strongMorph: TH8800"} them. 
+@15 [But if he shall any ways]{strong="H6565" x-morph="strongMorph: TH8687"} [make them void]{strong="H6565" x-morph="strongMorph: TH8686"} after_H310 [that he hath heard]{strong="H8085" x-morph="strongMorph: TH8800"} them; [then he shall bear]{strong="H5375" x-morph="strongMorph: TH8804"} her_iniquity_H5771. 
+@16 These are the_statutes_H2706, which the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} Moses_H4872, between_a_man_H376 and_his_wife_H802, between_the_father_H1 and_his_daughter_H1323, being yet in_her_youth_H5271 [in her father’s]{strong="H1"} house_H1004.
 ^a^[**30:6** she vowed: Heb. her vows were upon her] 
 
 # 31 
-@1 And the LORD spake unto Moses, saying, 
-@2 Avenge the children of Israel of the Midianites: afterward shalt thou be gathered unto thy people. 
-@3 And Moses spake unto the people, saying, Arm some of yourselves unto the war, and let them go against the Midianites, and avenge the LORD of Midian. 
-@4 Of every tribe a thousand, throughout all the tribes of Israel, shall ye send to the war.^a^ 
-@5 So there were delivered out of the thousands of Israel, a thousand of every tribe, twelve thousand armed for war. 
-@6 And Moses sent them to the war, a thousand of every tribe, them and Phinehas the son of Eleazar the priest, to the war, with the holy instruments, and the trumpets to blow in his hand. 
+@1 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@2 [Avenge]{strong="H5360 H5358" x-morph="strongMorph: TH8798"} the_children_H1121 of_Israel_H3478 of_the_Midianites_H4084: afterward_H310 [shalt thou be gathered]{strong="H622" x-morph="strongMorph: TH8735"} unto_thy_people_H5971. 
+@3 And_Moses_H4872 [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_the_people_H5971, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, [Arm]{strong="H2502" x-morph="strongMorph: TH8734"} some_H582 of_yourselves_unto_the_war_H6635, and_let_them_go_against_the_Midianites_H4080, [and avenge]{strong="H5360 H5414" x-morph="strongMorph: TH8800"} the LORD of_Midian_H4080. 
+@4 [Of every tribe]{strong="H4294 H4294"} [a thousand]{strong="H505 H505"}, throughout_all_the_tribes_H4294 of_Israel_H3478, [shall ye send]{strong="H7971" x-morph="strongMorph: TH8799"} to_the_war_H6635.^a^ 
+@5 [So there were delivered]{strong="H4560" x-morph="strongMorph: TH8735"} out_of_the_thousands_H505 of_Israel_H3478, a_thousand_H505 of every tribe_H4294, [twelve]{strong="H6240 H8147"} thousand_H505 [armed]{strong="H2502" x-morph="strongMorph: TH8803"} for_war_H6635. 
+@6 And_Moses_H4872 [sent]{strong="H7971" x-morph="strongMorph: TH8799"} them_to_the_war_H6635, a_thousand_H505 of every tribe_H4294, them_and_Phinehas_H6372 the_son_H1121 of_Eleazar_H499 the_priest_H3548, to_the_war_H6635, with_the_holy_H6944 instruments_H3627, and_the_trumpets_H2689 to_blow_H8643 in_his_hand_H3027. 
 ^a^[**31:4** Of…: Heb. A thousand of a tribe, a thousand of a tribe]
 
-@7 And they warred against the Midianites, as the LORD commanded Moses; and they slew all the males. 
-@8 And they slew the kings of Midian, beside the rest of them that were slain; namely, Evi, and Rekem, and Zur, and Hur, and Reba, five kings of Midian: Balaam also the son of Beor they slew with the sword. 
-@9 And the children of Israel took all the women of Midian captives, and their little ones, and took the spoil of all their cattle, and all their flocks, and all their goods. 
-@10 And they burnt all their cities wherein they dwelt, and all their goodly castles, with fire. 
-@11 And they took all the spoil, and all the prey, both of men and of beasts. 
-@12 And they brought the captives, and the prey, and the spoil, unto Moses, and Eleazar the priest, and unto the congregation of the children of Israel, unto the camp at the plains of Moab, which are by Jordan near Jericho. 
+@7 [And they warred]{strong="H6633" x-morph="strongMorph: TH8799"} against_the_Midianites_H4080, as the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} Moses_H4872; [and they slew]{strong="H2026" x-morph="strongMorph: TH8799"} all_the_males_H2145. 
+@8 [And they slew]{strong="H2026" x-morph="strongMorph: TH8804"} the_kings_H4428 of_Midian_H4080, beside_H5921 the_rest_of_them_that_were_slain_H2491; namely, Evi_H189, and_Rekem_H7552, and_Zur_H6698, and_Hur_H2354, and_Reba_H7254, five_H2568 kings_H4428 of_Midian_H4080: Balaam_H1109 also_the_son_H1121 of_Beor_H1160 [they slew]{strong="H2026" x-morph="strongMorph: TH8804"} with_the_sword_H2719. 
+@9 And_the_children_H1121 of_Israel_H3478 took all the_women_H802 of_Midian_H4080 [captives]{strong="H7617" x-morph="strongMorph: TH8799"}, and_their_little_ones_H2945, [and took the spoil]{strong="H962" x-morph="strongMorph: TH8804"} of_all_their_cattle_H929, and_all_their_flocks_H4735, and_all_their_goods_H2428. 
+@10 [And they burnt]{strong="H8313" x-morph="strongMorph: TH8804"} all_their_cities_H5892 wherein_they_dwelt_H4186, and_all_their_goodly_castles_H2918, with_fire_H784. 
+@11 [And they took]{strong="H3947" x-morph="strongMorph: TH8799"} all_the_spoil_H7998, and_all_the_prey_H4455, both of_men_H120 and_of_beasts_H929. 
+@12 [And they brought]{strong="H935" x-morph="strongMorph: TH8686"} the_captives_H7628, and_the_prey_H4455, and_the_spoil_H7998, unto_Moses_H4872, and_Eleazar_H499 the_priest_H3548, and_unto_the_congregation_H5712 of_the_children_H1121 of_Israel_H3478, unto_the_camp_H4264 at_the_plains_H6160 of_Moab_H4124, which are by_Jordan_H3383 near Jericho_H3405. 
 
-@13 And Moses, and Eleazar the priest, and all the princes of the congregation, went forth to meet them without the camp. 
-@14 And Moses was wroth with the officers of the host, with the captains over thousands, and captains over hundreds, which came from the battle.^a^ 
-@15 And Moses said unto them, Have ye saved all the women alive? 
-@16 Behold, these caused the children of Israel, through the counsel of Balaam, to commit trespass against the LORD in the matter of Peor, and there was a plague among the congregation of the LORD. 
-@17 Now therefore kill every male among the little ones, and kill every woman that hath known man by lying with him.^b^ 
-@18 But all the women children, that have not known a man by lying with him, keep alive for yourselves. 
-@19 And do ye abide without the camp seven days: whosoever hath killed any person, and whosoever hath touched any slain, purify both yourselves and your captives on the third day, and on the seventh day. 
-@20 And purify all your raiment, and all that is made of skins, and all work of goats’ hair, and all things made of wood.^c^ 
+@13 And_Moses_H4872, and_Eleazar_H499 the_priest_H3548, and_all_the_princes_H5387 of_the_congregation_H5712, [went forth]{strong="H3318" x-morph="strongMorph: TH8799"} [to meet]{strong="H7125" x-morph="strongMorph: TH8800"} them_without_H2351 the_camp_H4264. 
+@14 And_Moses_H4872 [was wroth]{strong="H7107" x-morph="strongMorph: TH8799"} [with the officers]{strong="H6485" x-morph="strongMorph: TH8803"} of_the_host_H2428, with the_captains_H8269 over_thousands_H505, and_captains_H8269 over_hundreds_H3967, [which came]{strong="H935" x-morph="strongMorph: TH8802"} from_H6635 the_battle_H4421.^a^ 
+@15 And_Moses_H4872 [said]{strong="H559" x-morph="strongMorph: TH8799"} [unto them, Have ye saved]{strong="H2421" x-morph="strongMorph: TH8765"} all_the_women_H5347 [alive]{strong="H2421" x-morph="strongMorph: TH8765"}? 
+@16 [Behold, these]{strong="H2007"} [caused]{strong="H1961" x-morph="strongMorph: TH8804"} the_children_H1121 of_Israel_H3478, through_the_counsel_H1697 of_Balaam_H1109, [to commit]{strong="H4560" x-morph="strongMorph: TH8800"} trespass_H4604 against the LORD in_the_matter_H1697 of_Peor_H6465, and_there_was_a_plague_H4046 among_the_congregation_H5712 of the LORD. 
+@17 [Now therefore kill]{strong="H2026" x-morph="strongMorph: TH8798"} every_male_H2145 among_the_little_ones_H2945, [and kill]{strong="H2026" x-morph="strongMorph: TH8798"} every_woman_H802 [that hath known]{strong="H3045" x-morph="strongMorph: TH8802"} man_H376 by_lying_H4904 with_him_H2145.^b^ 
+@18 But_all_the_women_H802 children_H2945, [that have not known]{strong="H3045" x-morph="strongMorph: TH8804"} a_man_H2145 by_lying_H4904 [with him, keep alive]{strong="H2421" x-morph="strongMorph: TH8685"} for yourselves. 
+@19 [And do ye abide]{strong="H2583" x-morph="strongMorph: TH8798"} without_H2351 the_camp_H4264 seven_H7651 days_H3117: [whosoever hath killed]{strong="H2026" x-morph="strongMorph: TH8802"} any_person_H5315, [and whosoever hath touched]{strong="H5060" x-morph="strongMorph: TH8802"} any_slain_H2491, [purify]{strong="H2398" x-morph="strongMorph: TH8691"} both yourselves_and_your_captives_H7628 on_the_third_H7992 day_H3117, and_on_the_seventh_H7637 day_H3117. 
+@20 [And purify]{strong="H2398" x-morph="strongMorph: TH8691"} all your raiment_H899, and_all_that_is_made_H3627 of_skins_H5785, and_all_work_H4639 [of goats’]{strong="H5795"} hair, and_all_things_made_H3627 of_wood_H6086.^c^ 
 ^a^[**31:14** battle: Heb. host of war] ^b^[**31:17** him: Heb. a male] ^c^[**31:20** that…: Heb. instrument, or, vessel of skins]
 
-@21 And Eleazar the priest said unto the men of war which went to the battle, This is the ordinance of the law which the LORD commanded Moses; 
-@22 Only the gold, and the silver, the brass, the iron, the tin, and the lead, 
-@23 Every thing that may abide the fire, ye shall make it go through the fire, and it shall be clean: nevertheless it shall be purified with the water of separation: and all that abideth not the fire ye shall make go through the water. 
-@24 And ye shall wash your clothes on the seventh day, and ye shall be clean, and afterward ye shall come into the camp. 
+@21 And_Eleazar_H499 the_priest_H3548 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_the_men_H582 of_war_H6635 [which went]{strong="H935" x-morph="strongMorph: TH8802"} to_the_battle_H4421, This is the_ordinance_H2708 of_the_law_H8451 which the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} Moses_H4872; 
+@22 Only_the_gold_H2091, and_the_silver_H3701, the_brass_H5178, the_iron_H1270, the_tin_H913, and_the_lead_H5777, 
+@23 Every_thing_H1697 [that may abide]{strong="H935" x-morph="strongMorph: TH8799"} the_fire_H784, ye shall make it [go through]{strong="H5674" x-morph="strongMorph: TH8686"} the_fire_H784, [and it shall be clean]{strong="H2891" x-morph="strongMorph: TH8804"}: [nevertheless it shall be purified]{strong="H2398" x-morph="strongMorph: TH8691"} with_the_water_H4325 of_separation_H5079: [and all that abideth]{strong="H935" x-morph="strongMorph: TH8799"} not_the_fire_H784 [ye shall make go through]{strong="H5674" x-morph="strongMorph: TH8686"} the_water_H4325. 
+@24 [And ye shall wash]{strong="H3526" x-morph="strongMorph: TH8765"} your_clothes_H899 on_the_seventh_H7637 day_H3117, [and ye shall be clean]{strong="H2891" x-morph="strongMorph: TH8804"}, and_afterward_H310 [ye shall come]{strong="H935" x-morph="strongMorph: TH8799"} into_the_camp_H4264. 
 
-@25 And the LORD spake unto Moses, saying, 
-@26 Take the sum of the prey that was taken, both of man and of beast, thou, and Eleazar the priest, and the chief fathers of the congregation:^a^ 
-@27 And divide the prey into two parts; between them that took the war upon them, who went out to battle, and between all the congregation: 
-@28 And levy a tribute unto the LORD of the men of war which went out to battle: one soul of five hundred, both of the persons, and of the beeves, and of the asses, and of the sheep: 
-@29 Take it of their half, and give it unto Eleazar the priest, for an heave offering of the LORD. 
-@30 And of the children of Israel’s half, thou shalt take one portion of fifty, of the persons, of the beeves, of the asses, and of the flocks, of all manner of beasts, and give them unto the Levites, which keep the charge of the tabernacle of the LORD.^b^ 
-@31 And Moses and Eleazar the priest did as the LORD commanded Moses. 
-@32 And the booty, being the rest of the prey which the men of war had caught, was six hundred thousand and seventy thousand and five thousand sheep, 
-@33 And threescore and twelve thousand beeves, 
-@34 And threescore and one thousand asses, 
-@35 And thirty and two thousand persons in all, of women that had not known man by lying with him. 
-@36 And the half, which was the portion of them that went out to war, was in number three hundred thousand and seven and thirty thousand and five hundred sheep: 
-@37 And the LORD’S tribute of the sheep was six hundred and threescore and fifteen. 
-@38 And the beeves were thirty and six thousand; of which the LORD’S tribute was threescore and twelve. 
-@39 And the asses were thirty thousand and five hundred; of which the LORD’S tribute was threescore and one. 
-@40 And the persons were sixteen thousand; of which the LORD’S tribute was thirty and two persons. 
-@41 And Moses gave the tribute, which was the LORD’S heave offering, unto Eleazar the priest, as the LORD commanded Moses. 
-@42 And of the children of Israel’s half, which Moses divided from the men that warred, 
-@43 (Now the half that pertained unto the congregation was three hundred thousand and thirty thousand and seven thousand and five hundred sheep, 
-@44 And thirty and six thousand beeves, 
-@45 And thirty thousand asses and five hundred, 
-@46 And sixteen thousand persons;) 
-@47 Even of the children of Israel’s half, Moses took one portion of fifty, both of man and of beast, and gave them unto the Levites, which kept the charge of the tabernacle of the LORD; as the LORD commanded Moses. 
+@25 And the LORD [spake]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@26 [Take]{strong="H5375" x-morph="strongMorph: TH8798"} the_sum_H7218 of_the_prey_H4455 that_was_taken_H7628, both of_man_H120 and_of_beast_H929, [thou, and Eleazar]{strong="H499"} the_priest_H3548, and_the_chief_H7218 fathers_H1 of_the_congregation_H5712:^a^ 
+@27 And_divide_H2673 the_prey_H4455 [into two parts]{strong="H2673" x-morph="strongMorph: TH8804"}; [between them that took]{strong="H8610" x-morph="strongMorph: TH8802"} the_war_H4421 [upon them, who went out]{strong="H3318" x-morph="strongMorph: TH8802"} to_battle_H6635, and_between_all_the_congregation_H5712: 
+@28 [And levy]{strong="H7311" x-morph="strongMorph: TH8689"} a_tribute_H4371 unto the LORD of_the_men_H582 of_war_H4421 [which went out]{strong="H3318" x-morph="strongMorph: TH8802"} to_battle_H6635: one_H259 soul_H5315 of_five_H2568 hundred_H3967, both of_the_persons_H120, and_of_the_beeves_H1241, and_of_the_asses_H2543, and_of_the_sheep_H6629: 
+@29 [Take]{strong="H3947" x-morph="strongMorph: TH8799"} it of_their_half_H4276, [and give]{strong="H5414" x-morph="strongMorph: TH8804"} it_unto_Eleazar_H499 the_priest_H3548, for an_heave_offering_H8641 of the LORD. 
+@30 And_of_the_children_H1121 [of Israel’s]{strong="H3478"} half_H4276, [thou shalt take]{strong="H3947" x-morph="strongMorph: TH8799"} one_H259 [portion]{strong="H270" x-morph="strongMorph: TH8803"} of_fifty_H2572, of_the_persons_H120, of_the_beeves_H1241, of_the_asses_H2543, and_of_the_flocks_H6629, of_all_manner_of_beasts_H929, [and give]{strong="H5414" x-morph="strongMorph: TH8804"} them_unto_the_Levites_H3881, [which keep]{strong="H8104" x-morph="strongMorph: TH8802"} the_charge_H4931 of_the_tabernacle_H4908 of the LORD.^b^ 
+@31 And_Moses_H4872 and_Eleazar_H499 the_priest_H3548 [did]{strong="H6213" x-morph="strongMorph: TH8799"} as the LORD [commanded ]{strong="H6680" x-morph="strongMorph: TH8765"} Moses_H4872. 
+@32 And_the_booty_H4455, being the_rest_H3499 of_the_prey_H957 which_the_men_of_H5971 war_H6635 [had caught]{strong="H962" x-morph="strongMorph: TH8804"}, was_six_H8337 hundred_H3967 thousand_H505 and_seventy_H7657 thousand_H505 and_five_H2568 thousand_H505 sheep_H6629, 
+@33 [And threescore and twelve]{strong="H8147 H7657"} thousand_H505 beeves_H1241, 
+@34 And_threescore_H8346 and_one_H259 thousand_H505 asses_H2543, 
+@35 And_thirty_H7970 and_two_H8147 thousand_H505 [persons]{strong="H120 H5315"} in_all_H3605, of_women_H802 [that had not known]{strong="H3045" x-morph="strongMorph: TH8804"} man_H2145 by_lying_H4904 with him. 
+@36 And_the_half_H4275, which was the_portion_H2506 [of them that went out]{strong="H3318" x-morph="strongMorph: TH8802"} to_war_H6635, was_in_number_H4557 three_H7969 hundred_H3967 thousand_H505 and_seven_H7651 and_thirty_H7970 thousand_H505 and_five_H2568 hundred_H3967 sheep_H6629: 
+@37 And the LORD’S tribute_H4371 of_the_sheep_H6629 was_six_H8337 hundred_H3967 [and threescore and fifteen]{strong="H2568 H7657"}. 
+@38 And_the_beeves_H1241 were thirty_H7970 and_six_H8337 thousand_H505; of which the LORD’S tribute_H4371 was [threescore and twelve]{strong="H8147 H7657"}. 
+@39 And_the_asses_H2543 were thirty_H7970 thousand_H505 and_five_H2568 hundred_H3967; of which the LORD’S tribute_H4371 was threescore_H8346 and_one_H259. 
+@40 [And the persons]{strong="H5315 H120"} were [sixteen]{strong="H6240 H8337"} thousand_H505; of which the LORD’S tribute_H4371 was thirty_H7970 and_two_H8147 persons_H5315. 
+@41 And_Moses_H4872 [gave]{strong="H5414" x-morph="strongMorph: TH8799"} the_tribute_H4371, which was the LORD’S heave_offering_H8641, unto_Eleazar_H499 the_priest_H3548, as the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} Moses_H4872. 
+@42 And_of_the_children_H1121 [of Israel’s]{strong="H3478"} half_H4276, which_Moses_H4872 [divided]{strong="H2673" x-morph="strongMorph: TH8804"} from_the_men_H582 [that warred]{strong="H6633" x-morph="strongMorph: TH8802"}, 
+@43 (Now_the_half_H4275 that pertained unto the_congregation_H5712 was_three_H7969 hundred_H3967 thousand_H505 and_thirty_H7970 thousand_H505 and seven_H7651 thousand_H505 and_five_H2568 hundred_H3967 [sheep]{strong="H6629 H4480"}, 
+@44 And_thirty_H7970 and_six_H8337 thousand_H505 beeves_H1241, 
+@45 And_thirty_H7970 thousand_H505 asses_H2543 and_five_H2568 hundred_H3967, 
+@46 [And sixteen]{strong="H6240 H8337"} thousand_H505 [persons]{strong="H120 H5315"};) 
+@47 Even_of_the_children_H1121 [of Israel’s]{strong="H3478"} half_H4276, Moses_H4872 [took]{strong="H3947" x-morph="strongMorph: TH8799"} one_H259 [portion]{strong="H270" x-morph="strongMorph: TH8803"} of_fifty_H2572, both of_man_H120 and_of_beast_H929, [and gave]{strong="H5414" x-morph="strongMorph: TH8799"} them_unto_the_Levites_H3881, [which kept]{strong="H8104" x-morph="strongMorph: TH8802"} the_charge_H4931 of_the_tabernacle_H4908 of the LORD; as the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} Moses_H4872. 
 ^a^[**31:26** that…: Heb. of the captivity] ^b^[**31:30** flocks: or, goats]
 
-@48 And the officers which were over thousands of the host, the captains of thousands, and captains of hundreds, came near unto Moses: 
-@49 And they said unto Moses, Thy servants have taken the sum of the men of war which are under our charge, and there lacketh not one man of us.^a^ 
-@50 We have therefore brought an oblation for the LORD, what every man hath gotten, of jewels of gold, chains, and bracelets, rings, earrings, and tablets, to make an atonement for our souls before the LORD.^b^ 
-@51 And Moses and Eleazar the priest took the gold of them, even all wrought jewels. 
-@52 And all the gold of the offering that they offered up to the LORD, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred and fifty shekels.^c^ 
-@53 (For the men of war had taken spoil, every man for himself.) 
-@54 And Moses and Eleazar the priest took the gold of the captains of thousands and of hundreds, and brought it into the tabernacle of the congregation, for a memorial for the children of Israel before the LORD.
+@48 [And the officers]{strong="H6485" x-morph="strongMorph: TH8803"} which were over_thousands_H505 of_the_host_H6635, the_captains_H8269 of_thousands_H505, and_captains_H8269 of_hundreds_H3967, [came near]{strong="H7126" x-morph="strongMorph: TH8799"} unto_Moses_H4872: 
+@49 [And they said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872, Thy_servants_H5650 [have taken]{strong="H5375" x-morph="strongMorph: TH8804"} the_sum_H7218 of_the_men_H582 of_war_H4421 which are under_our_charge_H3027, [and there lacketh]{strong="H6485" x-morph="strongMorph: TH8738"} not_one_man_H376 of us.^a^ 
+@50 [We have therefore brought]{strong="H7126" x-morph="strongMorph: TH8686"} an_oblation_H7133 for the LORD, what_every_man_H376 [hath gotten]{strong="H4672" x-morph="strongMorph: TH8804"}, of_jewels_H3627 of_gold_H2091, chains_H685, and_bracelets_H6781, rings_H2885, earrings_H5694, and_tablets_H3558, [to make an atonement]{strong="H3722" x-morph="strongMorph: TH8763"} for_our_souls_H5315 before_H6440 the LORD.^b^ 
+@51 And_Moses_H4872 and_Eleazar_H499 the_priest_H3548 [took]{strong="H3947" x-morph="strongMorph: TH8799"} the_gold_H2091 of them, even all_wrought_H4639 jewels_H3627. 
+@52 And_all_the_gold_H2091 of_the_offering_H8641 [that they offered up]{strong="H7311" x-morph="strongMorph: TH8689"} to the LORD, of_the_captains_H8269 of_thousands_H505, and_of_the_captains_H8269 of_hundreds_H3967, [was sixteen]{strong="H6240 H8337"} thousand_H505 seven_H7651 hundred_H3967 and_fifty_H2572 shekels_H8255.^c^ 
+@53 (For the_men_H582 of_war_H6635 [had taken spoil]{strong="H962" x-morph="strongMorph: TH8804"}, every_man_H376 for himself.) 
+@54 And_Moses_H4872 and_Eleazar_H499 the_priest_H3548 [took]{strong="H3947" x-morph="strongMorph: TH8799"} the_gold_H2091 of_the_captains_H8269 of_thousands_H505 and_of_hundreds_H3967, [and brought]{strong="H935" x-morph="strongMorph: TH8686"} it_into_the_tabernacle_H168 of_the_congregation_H4150, for a_memorial_H2146 for_the_children_H1121 of_Israel_H3478 before_H6440 the LORD.
 ^a^[**31:49** charge: Heb. hand] ^b^[**31:50** gotten: Heb. found] ^c^[**31:52** offering: Heb. heave offering] 
 
 # 32 
-@1 Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place was a place for cattle; 
-@2 The children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying, 
-@3 Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon,^a^ ^b^ ^c^ 
-@4 Even the country which the LORD smote before the congregation of Israel, is a land for cattle, and thy servants have cattle: 
-@5 Wherefore, said they, if we have found grace in thy sight, let this land be given unto thy servants for a possession, and bring us not over Jordan. 
+@1 Now_the_children_H1121 of_Reuben_H7205 and_the_children_H1121 of_Gad_H1410 had_a_very_H3966 great_H6099 multitude_H7227 of_cattle_H4735: [and when they saw]{strong="H7200" x-morph="strongMorph: TH8799"} the_land_H776 of_Jazer_H3270, and_the_land_H776 of_Gilead_H1568, [that, behold, the place]{strong="H4725"} was a_place_H4725 for_cattle_H4735; 
+@2 The_children_H1121 of_Gad_H1410 and_the_children_H1121 of_Reuben_H7205 [came]{strong="H935" x-morph="strongMorph: TH8799"} [and spake]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872, and_to_Eleazar_H499 the_priest_H3548, and_unto_the_princes_H5387 of_the_congregation_H5712, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@3 Ataroth_H5852, and_Dibon_H1769, and_Jazer_H3270, and_Nimrah_H5247, and_Heshbon_H2809, and_Elealeh_H500, and_Shebam_H7643, and_Nebo_H5015, and_Beon_H1194,^a^ ^b^ ^c^ 
+@4 Even the_country_H776 which the LORD [smote]{strong="H5221" x-morph="strongMorph: TH8689"} before_H6440 the_congregation_H5712 of_Israel_H3478, is a_land_H776 for_cattle_H4735, and_thy_servants_H5650 have_cattle_H4735: 
+@5 [Wherefore, said]{strong="H559" x-morph="strongMorph: TH8799"} [they, if we have found]{strong="H4672" x-morph="strongMorph: TH8804"} grace_H2580 in_thy_sight_H5869, let_this_land_H776 [be given]{strong="H5414" x-morph="strongMorph: TH8714"} unto_thy_servants_H5650 for_a_possession_H272, and [bring us not over]{strong="H5674" x-morph="strongMorph: TH8686"} Jordan_H3383. 
 ^a^[**32:3** Nimrah: also called, Beth-nimrah] ^b^[**32:3** Shebam: also called, Shibmah] ^c^[**32:3** Beon: also called, Baal-meon]
 
-@6 And Moses said unto the children of Gad and to the children of Reuben, Shall your brethren go to war, and shall ye sit here? 
-@7 And wherefore discourage ye the heart of the children of Israel from going over into the land which the LORD hath given them?^a^ 
-@8 Thus did your fathers, when I sent them from Kadesh-barnea to see the land. 
-@9 For when they went up unto the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which the LORD had given them. 
-@10 And the LORD’S anger was kindled the same time, and he sware, saying, 
-@11 Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me:^b^ 
-@12 Save Caleb the son of Jephunneh the Kenezite, and Joshua the son of Nun: for they have wholly followed the LORD. 
-@13 And the LORD’S anger was kindled against Israel, and he made them wander in the wilderness forty years, until all the generation, that had done evil in the sight of the LORD, was consumed. 
-@14 And, behold, ye are risen up in your fathers’ stead, an increase of sinful men, to augment yet the fierce anger of the LORD toward Israel. 
-@15 For if ye turn away from after him, he will yet again leave them in the wilderness; and ye shall destroy all this people. 
+@6 And_Moses_H4872 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_the_children_H1121 of_Gad_H1410 and_to_the_children_H1121 of_Reuben_H7205, Shall_your_brethren_H251 [go]{strong="H935" x-morph="strongMorph: TH8799"} to_war_H4421, [and shall ye sit]{strong="H3427" x-morph="strongMorph: TH8799"} here? 
+@7 [And wherefore discourage ye]{strong="H5106 H5106" x-morph="strongMorph: TH8799 strongMorph: TH8675 strongMorph: TH8686"} the_heart_H3820 of_the_children_H1121 of_Israel_H3478 [from going over]{strong="H5674" x-morph="strongMorph: TH8800"} into_the_land_H776 which the LORD [hath given]{strong="H5414" x-morph="strongMorph: TH8804"} them?^a^ 
+@8 [Thus did]{strong="H6213" x-morph="strongMorph: TH8804"} your_fathers_H1, [when I sent]{strong="H7971" x-morph="strongMorph: TH8800"} [them from Kadesh-barnea]{strong="H6947"} [to see]{strong="H7200" x-morph="strongMorph: TH8800"} the_land_H776. 
+@9 [For when they went up]{strong="H5927" x-morph="strongMorph: TH8799"} unto_the_valley_H5158 of_Eshcol_H812, [and saw]{strong="H7200" x-morph="strongMorph: TH8799"} the_land_H776, [they discouraged]{strong="H5106" x-morph="strongMorph: TH8686"} the_heart_H3820 of_the_children_H1121 of_Israel_H3478, [that they should not go]{strong="H935" x-morph="strongMorph: TH8800"} into_the_land_H776 which the LORD [had given]{strong="H5414" x-morph="strongMorph: TH8804"} them. 
+@10 And the LORD’S anger_H639 [was kindled]{strong="H2734" x-morph="strongMorph: TH8799"} the_same_time_H3117, [and he sware]{strong="H7650" x-morph="strongMorph: TH8735"}, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@11 Surely_H518 none_of_the_men_H582 [that came up]{strong="H5927" x-morph="strongMorph: TH8802"} out_of_Egypt_H4714, from_twenty_H6242 years_H8141 old_H1121 and_upward_H4605, [shall see]{strong="H7200" x-morph="strongMorph: TH8799"} the_land_H127 [which I sware]{strong="H7650" x-morph="strongMorph: TH8738"} unto_Abraham_H85, unto_Isaac_H3327, and_unto_Jacob_H3290; [because they have not wholly]{strong="H4390" x-morph="strongMorph: TH8765"} followed_H310 me:^b^ 
+@12 Save_Caleb_H3612 the_son_H1121 of_Jephunneh_H3312 the_Kenezite_H7074, and_Joshua_H3091 the_son_H1121 of_Nun_H5126: [for they have wholly]{strong="H4390" x-morph="strongMorph: TH8765"} followed_H310 the LORD. 
+@13 And the LORD’S anger_H639 [was kindled]{strong="H2734" x-morph="strongMorph: TH8799"} against_Israel_H3478, [and he made them wander]{strong="H5128" x-morph="strongMorph: TH8686"} in_the_wilderness_H4057 forty_H705 years_H8141, until_all_the_generation_H1755, [that had done]{strong="H6213" x-morph="strongMorph: TH8802"} evil_H7451 in_the_sight_H5869 of the LORD, [was consumed]{strong="H8552" x-morph="strongMorph: TH8800"}. 
+@14 [And, behold, ye are risen up]{strong="H6965" x-morph="strongMorph: TH8804"} [in your fathers’]{strong="H1"} [stead, an increase]{strong="H8635"} of_sinful_H2400 men_H582, [to augment]{strong="H5595" x-morph="strongMorph: TH8800"} yet_the_fierce_H2740 anger_H639 of the LORD toward_Israel_H3478. 
+@15 [For if ye turn away]{strong="H7725" x-morph="strongMorph: TH8799"} from_after_H310 [him, he will yet again]{strong="H3254" x-morph="strongMorph: TH8804"} [leave]{strong="H3240" x-morph="strongMorph: TH8687"} them_in_the_wilderness_H4057; [and ye shall destroy]{strong="H7843" x-morph="strongMorph: TH8765"} all_this_people_H5971. 
 ^a^[**32:7** discourage: Heb. break] ^b^[**32:11** wholly…: Heb. fulfilled after me]
 
-@16 And they came near unto him, and said, We will build sheepfolds here for our cattle, and cities for our little ones: 
-@17 But we ourselves will go ready armed before the children of Israel, until we have brought them unto their place: and our little ones shall dwell in the fenced cities because of the inhabitants of the land. 
-@18 We will not return unto our houses, until the children of Israel have inherited every man his inheritance. 
-@19 For we will not inherit with them on yonder side Jordan, or forward; because our inheritance is fallen to us on this side Jordan eastward. 
+@16 [And they came near]{strong="H5066" x-morph="strongMorph: TH8799"} [unto him, and said]{strong="H559" x-morph="strongMorph: TH8799"}, [We will build]{strong="H1129" x-morph="strongMorph: TH8799"} [sheepfolds]{strong="H6629 H1448"} here_for_our_cattle_H4735, and_cities_H5892 for_our_little_ones_H2945: 
+@17 But_we_ourselves_H587 [will go ready]{strong="H2363" x-morph="strongMorph: TH8803"} [armed]{strong="H2502" x-morph="strongMorph: TH8735"} before_H6440 the_children_H1121 of_Israel_H3478, [until we have brought]{strong="H935" x-morph="strongMorph: TH8689"} them_unto_their_place_H4725: and_our_little_ones_H2945 [shall dwell]{strong="H3427" x-morph="strongMorph: TH8804"} in_the_fenced_H4013 cities_H5892 because_H6440 [of the inhabitants]{strong="H3427" x-morph="strongMorph: TH8802"} of_the_land_H776. 
+@18 [We will not return]{strong="H7725" x-morph="strongMorph: TH8799"} unto_our_houses_H1004, until_the_children_H1121 of_Israel_H3478 [have inherited]{strong="H5157" x-morph="strongMorph: TH8692"} every_man_H376 his_inheritance_H5159. 
+@19 [For we will not inherit]{strong="H5157" x-morph="strongMorph: TH8799"} with_them_on_yonder_side_H5676 Jordan_H3383, or_forward_H1973; because_our_inheritance_H5159 [is fallen]{strong="H935" x-morph="strongMorph: TH8804"} to_us_on_this_side_H5676 Jordan_H3383 eastward_H4217. 
 
-@20 And Moses said unto them, If ye will do this thing, if ye will go armed before the LORD to war, 
-@21 And will go all of you armed over Jordan before the LORD, until he hath driven out his enemies from before him, 
-@22 And the land be subdued before the LORD: then afterward ye shall return, and be guiltless before the LORD, and before Israel; and this land shall be your possession before the LORD. 
-@23 But if ye will not do so, behold, ye have sinned against the LORD: and be sure your sin will find you out. 
-@24 Build you cities for your little ones, and folds for your sheep; and do that which hath proceeded out of your mouth. 
-@25 And the children of Gad and the children of Reuben spake unto Moses, saying, Thy servants will do as my lord commandeth. 
-@26 Our little ones, our wives, our flocks, and all our cattle, shall be there in the cities of Gilead: 
-@27 But thy servants will pass over, every man armed for war, before the LORD to battle, as my lord saith. 
+@20 And_Moses_H4872 [said]{strong="H559" x-morph="strongMorph: TH8799"} [unto them, If ye will do]{strong="H6213" x-morph="strongMorph: TH8799"} this_thing_H1697, [if ye will go armed]{strong="H2502" x-morph="strongMorph: TH8735"} before_H6440 the LORD to_war_H4421, 
+@21 And_will_go_H5674 [all of you armed]{strong="H2502" x-morph="strongMorph: TH8803"} [over]{strong="H5674" x-morph="strongMorph: TH8804"} Jordan_H3383 before_H6440 the LORD, [until he hath driven out]{strong="H3423" x-morph="strongMorph: TH8687"} [his enemies]{strong="H341" x-morph="strongMorph: TH8802"} from_before_H6440 him, 
+@22 And_the_land_H776 [be subdued]{strong="H3533" x-morph="strongMorph: TH8738"} before_H6440 the LORD: then_afterward_H310 [ye shall return]{strong="H7725" x-morph="strongMorph: TH8799"}, and_be_guiltless_H5355 before the LORD, and_before_Israel_H3478; and_this_land_H776 shall_be_your_possession_H272 before_H6440 the LORD. 
+@23 [But if ye will not do so]{strong="H6213" x-morph="strongMorph: TH8799"}, [behold, ye have sinned]{strong="H2398" x-morph="strongMorph: TH8804"} against the LORD: [and be sure]{strong="H3045" x-morph="strongMorph: TH8798"} your_sin_H2403 [will find you out]{strong="H4672" x-morph="strongMorph: TH8799"}. 
+@24 [Build]{strong="H1129" x-morph="strongMorph: TH8798"} you_cities_H5892 for_your_little_ones_H2945, and_folds_H1448 for_your_sheep_H6792; [and do]{strong="H6213" x-morph="strongMorph: TH8799"} [that which hath proceeded]{strong="H3318" x-morph="strongMorph: TH8802"} out_of_your_mouth_H6310. 
+@25 And_the_children_H1121 of_Gad_H1410 and_the_children_H1121 of_Reuben_H7205 [spake]{strong="H559" x-morph="strongMorph: TH8799"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, Thy_servants_H5650 [will do]{strong="H6213" x-morph="strongMorph: TH8799"} as_my_lord_H113 [commandeth]{strong="H6680" x-morph="strongMorph: TH8764"}. 
+@26 Our_little_ones_H2945, our_wives_H802, our_flocks_H4735, and_all_our_cattle_H929, shall_be_there_in_the_cities_H5892 of_Gilead_H1568: 
+@27 But_thy_servants_H5650 [will pass over]{strong="H5674" x-morph="strongMorph: TH8799"}, [every man armed]{strong="H2502" x-morph="strongMorph: TH8803"} for_war_H6635, before_H6440 the LORD to_battle_H4421, as_my_lord_H113 [saith]{strong="H1696" x-morph="strongMorph: TH8802"}. 
 
-@28 So concerning them Moses commanded Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel: 
-@29 And Moses said unto them, If the children of Gad and the children of Reuben will pass with you over Jordan, every man armed to battle, before the LORD, and the land shall be subdued before you; then ye shall give them the land of Gilead for a possession: 
-@30 But if they will not pass over with you armed, they shall have possessions among you in the land of Canaan. 
-@31 And the children of Gad and the children of Reuben answered, saying, As the LORD hath said unto thy servants, so will we do. 
-@32 We will pass over armed before the LORD into the land of Canaan, that the possession of our inheritance on this side Jordan may be ours. 
-@33 And Moses gave unto them, even to the children of Gad, and to the children of Reuben, and unto half the tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan, the land, with the cities thereof in the coasts, even the cities of the country round about. 
+@28 So_concerning_them_Moses_H4872 [commanded]{strong="H6680" x-morph="strongMorph: TH8762"} Eleazar_H499 the_priest_H3548, and_Joshua_H3091 the_son_H1121 of_Nun_H5126, and_the_chief_H7218 fathers_H1 of_the_tribes_H4294 of_the_children_H1121 of_Israel_H3478: 
+@29 And_Moses_H4872 [said]{strong="H559" x-morph="strongMorph: TH8799"} [unto them, If the children]{strong="H1121"} of_Gad_H1410 and_the_children_H1121 of_Reuben_H7205 [will pass with you over]{strong="H5674" x-morph="strongMorph: TH8799"} Jordan_H3383, [every man armed]{strong="H2502" x-morph="strongMorph: TH8803"} to_battle_H4421, before_H6440 the LORD, and_the_land_H776 [shall be subdued]{strong="H3533" x-morph="strongMorph: TH8738"} before_H6440 [you; then ye shall give]{strong="H5414" x-morph="strongMorph: TH8804"} them_the_land_H776 of_Gilead_H1568 for_a_possession_H272: 
+@30 [But if they will not pass over]{strong="H5674" x-morph="strongMorph: TH8799"} [with you armed]{strong="H2502" x-morph="strongMorph: TH8803"}, [they shall have possessions]{strong="H270" x-morph="strongMorph: TH8738"} among_H8432 you_in_the_land_H776 of_Canaan_H3667. 
+@31 And_the_children_H1121 of_Gad_H1410 and_the_children_H1121 of_Reuben_H7205 [answered]{strong="H6030" x-morph="strongMorph: TH8799"}, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, As the LORD [hath said]{strong="H1696" x-morph="strongMorph: TH8765"} unto_thy_servants_H5650, [so will we do]{strong="H6213" x-morph="strongMorph: TH8799"}. 
+@32 We_will_H5168 [pass over]{strong="H5674" x-morph="strongMorph: TH8799"} [armed]{strong="H2502" x-morph="strongMorph: TH8803"} before_H6440 the LORD into_the_land_H776 of_Canaan_H3667, that_the_possession_H272 of_our_inheritance_H5159 on_this_side_H5676 Jordan_H3383 may be ours. 
+@33 And_Moses_H4872 [gave]{strong="H5414" x-morph="strongMorph: TH8799"} unto them, even to_the_children_H1121 of_Gad_H1410, and_to_the_children_H1121 of_Reuben_H7205, and_unto_half_H2677 the_tribe_H7626 of_Manasseh_H4519 the_son_H1121 of_Joseph_H3130, the_kingdom_H4467 of_Sihon_H5511 king_H4428 of_the_Amorites_H567, and_the_kingdom_H4467 of_Og_H5747 king_H4428 of_Bashan_H1316, the_land_H776, with_the_cities_H5892 thereof_in_the_coasts_H1367, even the_cities_H5892 of_the_country_H776 round_about_H5439. 
 
-@34 And the children of Gad built Dibon, and Ataroth, and Aroer, 
-@35 And Atroth, Shophan, and Jaazer, and Jogbehah,^a^ 
-@36 And Beth-nimrah, and Beth-haran, fenced cities: and folds for sheep.^b^ 
-@37 And the children of Reuben built Heshbon, and Elealeh, and Kirjathaim, 
-@38 And Nebo, and Baal-meon, (their names being changed,) and Shibmah: and gave other names unto the cities which they builded.^c^ 
-@39 And the children of Machir the son of Manasseh went to Gilead, and took it, and dispossessed the Amorite which was in it. 
-@40 And Moses gave Gilead unto Machir the son of Manasseh; and he dwelt therein. 
-@41 And Jair the son of Manasseh went and took the small towns thereof, and called them Havoth-jair. 
-@42 And Nobah went and took Kenath, and the villages thereof, and called it Nobah, after his own name.
+@34 And_the_children_H1121 of_Gad_H1410 [built]{strong="H1129" x-morph="strongMorph: TH8799"} Dibon_H1769, and_Ataroth_H5852, and_Aroer_H6177, 
+@35 [And Atroth, Shophan]{strong="H5855"}, and_Jaazer_H3270, and_Jogbehah_H3011,^a^ 
+@36 [And Beth-nimrah]{strong="H1039"}, [and Beth-haran]{strong="H1028"}, fenced_H4013 cities_H5892: and_folds_H1448 for_sheep_H6629.^b^ 
+@37 And_the_children_H1121 of_Reuben_H7205 [built]{strong="H1129" x-morph="strongMorph: TH8804"} Heshbon_H2809, and_Elealeh_H500, and_Kirjathaim_H7156, 
+@38 And_Nebo_H5015, [and Baal-meon]{strong="H1186"}, (their_names_H8034 [being changed]{strong="H4142" x-morph="strongMorph: TH8716"},) and_Shibmah_H7643: [and gave]{strong="H7121" x-morph="strongMorph: TH8799"} [other names]{strong="H8034 H8034"} unto_the_cities_H5892 [which they builded]{strong="H1129" x-morph="strongMorph: TH8804"}.^c^ 
+@39 And_the_children_H1121 of_Machir_H4353 the_son_H1121 of_Manasseh_H4519 [went]{strong="H3212" x-morph="strongMorph: TH8799"} to_Gilead_H1568, [and took]{strong="H3920" x-morph="strongMorph: TH8799"} [it, and dispossessed]{strong="H3423" x-morph="strongMorph: TH8686"} the_Amorite_H567 which was in it. 
+@40 And_Moses_H4872 [gave]{strong="H5414" x-morph="strongMorph: TH8799"} Gilead_H1568 unto_Machir_H4353 the_son_H1121 of_Manasseh_H4519; [and he dwelt]{strong="H3427" x-morph="strongMorph: TH8799"} therein. 
+@41 And_Jair_H2971 the_son_H1121 of_Manasseh_H4519 [went]{strong="H1980" x-morph="strongMorph: TH8804"} [and took]{strong="H3920" x-morph="strongMorph: TH8799"} the_small_towns_H2333 [thereof, and called]{strong="H7121" x-morph="strongMorph: TH8799"} [them Havoth-jair]{strong="H2334"}. 
+@42 And_Nobah_H5025 [went]{strong="H1980" x-morph="strongMorph: TH8804"} [and took]{strong="H3920" x-morph="strongMorph: TH8799"} Kenath_H7079, and_the_villages_H1323 [thereof, and called]{strong="H7121" x-morph="strongMorph: TH8799"} it_Nobah_H5025, after_his_own_name_H8034.
 ^a^[**32:35** Jaazer: also called, Jazer] ^b^[**32:36** Beth-nimrah: also called, Nimrah] ^c^[**32:38** gave…: Heb. they called by names the names of the cities] 
 
 # 33 
-@1 These are the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron. 
-@2 And Moses wrote their goings out according to their journeys by the commandment of the LORD: and these are their journeys according to their goings out. 
-@3 And they departed from Rameses in the first month, on the fifteenth day of the first month; on the morrow after the passover the children of Israel went out with an high hand in the sight of all the Egyptians. 
-@4 For the Egyptians buried all their firstborn, which the LORD had smitten among them: upon their gods also the LORD executed judgments. 
-@5 And the children of Israel removed from Rameses, and pitched in Succoth. 
-@6 And they departed from Succoth, and pitched in Etham, which is in the edge of the wilderness. 
-@7 And they removed from Etham, and turned again unto Pi-hahiroth, which is before Baal-zephon: and they pitched before Migdol. 
-@8 And they departed from before Pi-hahiroth, and passed through the midst of the sea into the wilderness, and went three days’ journey in the wilderness of Etham, and pitched in Marah. 
-@9 And they removed from Marah, and came unto Elim: and in Elim were twelve fountains of water, and threescore and ten palm trees; and they pitched there. 
-@10 And they removed from Elim, and encamped by the Red sea. 
-@11 And they removed from the Red sea, and encamped in the wilderness of Sin. 
-@12 And they took their journey out of the wilderness of Sin, and encamped in Dophkah. 
-@13 And they departed from Dophkah, and encamped in Alush. 
-@14 And they removed from Alush, and encamped at Rephidim, where was no water for the people to drink. 
-@15 And they departed from Rephidim, and pitched in the wilderness of Sinai. 
-@16 And they removed from the desert of Sinai, and pitched at Kibroth-hattaavah.^a^ 
-@17 And they departed from Kibroth-hattaavah, and encamped at Hazeroth. 
-@18 And they departed from Hazeroth, and pitched in Rithmah. 
-@19 And they departed from Rithmah, and pitched at Rimmon-parez. 
-@20 And they departed from Rimmon-parez, and pitched in Libnah. 
-@21 And they removed from Libnah, and pitched at Rissah. 
-@22 And they journeyed from Rissah, and pitched in Kehelathah. 
-@23 And they went from Kehelathah, and pitched in mount Shapher. 
-@24 And they removed from mount Shapher, and encamped in Haradah. 
-@25 And they removed from Haradah, and pitched in Makheloth. 
-@26 And they removed from Makheloth, and encamped at Tahath. 
-@27 And they departed from Tahath, and pitched at Tarah. 
-@28 And they removed from Tarah, and pitched in Mithcah. 
-@29 And they went from Mithcah, and pitched in Hashmonah. 
-@30 And they departed from Hashmonah, and encamped at Moseroth. 
-@31 And they departed from Moseroth, and pitched in Bene-jaakan. 
-@32 And they removed from Bene-jaakan, and encamped at Hor-hagidgad. 
-@33 And they went from Hor-hagidgad, and pitched in Jotbathah. 
-@34 And they removed from Jotbathah, and encamped at Ebronah. 
-@35 And they departed from Ebronah, and encamped at Ezion-gaber. 
-@36 And they removed from Ezion-gaber, and pitched in the wilderness of Zin, which is Kadesh. 
-@37 And they removed from Kadesh, and pitched in mount Hor, in the edge of the land of Edom. 
-@38 And Aaron the priest went up into mount Hor at the commandment of the LORD, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first day of the fifth month. 
-@39 And Aaron was an hundred and twenty and three years old when he died in mount Hor. 
-@40 And king Arad the Canaanite, which dwelt in the south in the land of Canaan, heard of the coming of the children of Israel. 
-@41 And they departed from mount Hor, and pitched in Zalmonah. 
-@42 And they departed from Zalmonah, and pitched in Punon. 
-@43 And they departed from Punon, and pitched in Oboth. 
-@44 And they departed from Oboth, and pitched in Ije-abarim, in the border of Moab.^b^ 
-@45 And they departed from Iim, and pitched in Dibon-gad. 
-@46 And they removed from Dibon-gad, and encamped in Almon-diblathaim. 
-@47 And they removed from Almon-diblathaim, and pitched in the mountains of Abarim, before Nebo. 
-@48 And they departed from the mountains of Abarim, and pitched in the plains of Moab by Jordan near Jericho. 
-@49 And they pitched by Jordan, from Beth-jesimoth even unto Abel-shittim in the plains of Moab.^c^ 
+@1 These are the_journeys_H4550 of_the_children_H1121 of_Israel_H3478, [which went forth]{strong="H3318" x-morph="strongMorph: TH8804"} out_of_the_land_H776 of_Egypt_H4714 with_their_armies_H6635 under_the_hand_H3027 of_Moses_H4872 and_Aaron_H175. 
+@2 And_Moses_H4872 [wrote]{strong="H3789" x-morph="strongMorph: TH8799"} their_goings_out_H4161 according_to_their_journeys_H4550 by_the_commandment_H6310 of the LORD: and these are their_journeys_H4550 according_to_their_goings_out_H4161. 
+@3 [And they departed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Rameses_H7486 in_the_first_H7223 month_H2320, [on the fifteenth]{strong="H2568 H6240"} day_H3117 of_the_first_H7223 month_H2320; on_the_morrow_H4283 after_the_passover_H6453 the_children_H1121 of_Israel_H3478 [went out]{strong="H3318" x-morph="strongMorph: TH8804"} [with an high]{strong="H7311" x-morph="strongMorph: TH8802"} hand_H3027 in_the_sight_H5869 of_all_the_Egyptians_H4714. 
+@4 For_the_Egyptians_H4714 [buried]{strong="H6912" x-morph="strongMorph: TH8764"} all their firstborn_H1060, which the LORD [had smitten]{strong="H5221" x-morph="strongMorph: TH8689"} [among them: upon their gods]{strong="H430"} also the LORD [executed]{strong="H6213" x-morph="strongMorph: TH8804"} judgments_H8201. 
+@5 And_the_children_H1121 of_Israel_H3478 [removed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Rameses_H7486, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_Succoth_H5523. 
+@6 [And they departed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Succoth_H5523, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_Etham_H864, which is in_the_edge_H7097 of_the_wilderness_H4057. 
+@7 [And they removed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Etham_H864, [and turned again]{strong="H7725" x-morph="strongMorph: TH8799"} [unto Pi-hahiroth]{strong="H6367"}, which is [before Baal-zephon]{strong="H1189"}: [and they pitched]{strong="H2583" x-morph="strongMorph: TH8799"} before_H6440 Migdol_H4024. 
+@8 [And they departed]{strong="H5265" x-morph="strongMorph: TH8799"} from_before_H6440 [Pi-hahiroth]{strong="H6367"}, [and passed through]{strong="H5674" x-morph="strongMorph: TH8799"} the_midst_H8432 of_the_sea_H3220 into_the_wilderness_H4057, [and went]{strong="H3212" x-morph="strongMorph: TH8799"} three_H7969 [days’]{strong="H3117"} journey_H1870 in_the_wilderness_H4057 of_Etham_H864, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_Marah_H4785. 
+@9 [And they removed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Marah_H4785, [and came]{strong="H935" x-morph="strongMorph: TH8799"} unto_Elim_H362: and_in_Elim_H362 were [twelve]{strong="H6240 H8147"} fountains_H5869 of_water_H4325, and_threescore_and_ten_H7657 palm_trees_H8558; [and they pitched]{strong="H2583" x-morph="strongMorph: TH8799"} there. 
+@10 [And they removed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Elim_H362, [and encamped]{strong="H2583" x-morph="strongMorph: TH8799"} by_the_Red_H5488 sea_H3220. 
+@11 [And they removed]{strong="H5265" x-morph="strongMorph: TH8799"} from_the_Red_H5488 sea_H3220, [and encamped]{strong="H2583" x-morph="strongMorph: TH8799"} in_the_wilderness_H4057 of_Sin_H5512. 
+@12 [And they took their journey]{strong="H5265" x-morph="strongMorph: TH8799"} out_of_the_wilderness_H4057 of_Sin_H5512, [and encamped]{strong="H2583" x-morph="strongMorph: TH8799"} in_Dophkah_H1850. 
+@13 [And they departed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Dophkah_H1850, [and encamped]{strong="H2583" x-morph="strongMorph: TH8799"} in_Alush_H442. 
+@14 [And they removed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Alush_H442, [and encamped]{strong="H2583" x-morph="strongMorph: TH8799"} at_Rephidim_H7508, where_was_no_water_H4325 for_the_people_H5971 [to drink]{strong="H8354" x-morph="strongMorph: TH8800"}. 
+@15 [And they departed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Rephidim_H7508, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_the_wilderness_H4057 of_Sinai_H5514. 
+@16 [And they removed]{strong="H5265" x-morph="strongMorph: TH8799"} from_the_desert_H4057 of_Sinai_H5514, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} [at Kibroth-hattaavah]{strong="H6914"}.^a^ 
+@17 [And they departed]{strong="H5265" x-morph="strongMorph: TH8799"} [from Kibroth-hattaavah]{strong="H6914"}, [and encamped]{strong="H2583" x-morph="strongMorph: TH8799"} at_Hazeroth_H2698. 
+@18 [And they departed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Hazeroth_H2698, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_Rithmah_H7575. 
+@19 [And they departed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Rithmah_H7575, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} [at Rimmon-parez]{strong="H7428"}. 
+@20 [And they departed]{strong="H5265" x-morph="strongMorph: TH8799"} [from Rimmon-parez]{strong="H7428"}, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_Libnah_H3841. 
+@21 [And they removed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Libnah_H3841, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} at_Rissah_H7446. 
+@22 [And they journeyed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Rissah_H7446, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_Kehelathah_H6954. 
+@23 [And they went]{strong="H5265" x-morph="strongMorph: TH8799"} from_Kehelathah_H6954, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_mount_H2022 Shapher_H8234. 
+@24 [And they removed]{strong="H5265" x-morph="strongMorph: TH8799"} from_mount_H2022 Shapher_H8234, [and encamped]{strong="H2583" x-morph="strongMorph: TH8799"} in_Haradah_H2732. 
+@25 [And they removed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Haradah_H2732, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_Makheloth_H4722. 
+@26 [And they removed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Makheloth_H4722, [and encamped]{strong="H2583" x-morph="strongMorph: TH8799"} at_Tahath_H8480. 
+@27 [And they departed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Tahath_H8480, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} at_Tarah_H8646. 
+@28 [And they removed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Tarah_H8646, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_Mithcah_H4989. 
+@29 [And they went]{strong="H5265" x-morph="strongMorph: TH8799"} from_Mithcah_H4989, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_Hashmonah_H2832. 
+@30 [And they departed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Hashmonah_H2832, [and encamped]{strong="H2583" x-morph="strongMorph: TH8799"} at_Moseroth_H4149. 
+@31 [And they departed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Moseroth_H4149, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} [in Bene-jaakan]{strong="H1142"}. 
+@32 [And they removed]{strong="H5265" x-morph="strongMorph: TH8799"} [from Bene-jaakan]{strong="H1142"}, [and encamped]{strong="H2583" x-morph="strongMorph: TH8799"} [at Hor-hagidgad]{strong="H2735"}. 
+@33 [And they went]{strong="H5265" x-morph="strongMorph: TH8799"} [from Hor-hagidgad]{strong="H2735"}, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_Jotbathah_H3193. 
+@34 [And they removed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Jotbathah_H3193, [and encamped]{strong="H2583" x-morph="strongMorph: TH8799"} at_Ebronah_H5684. 
+@35 [And they departed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Ebronah_H5684, [and encamped]{strong="H2583" x-morph="strongMorph: TH8799"} [at Ezion-gaber]{strong="H6100"}. 
+@36 [And they removed]{strong="H5265" x-morph="strongMorph: TH8799"} [from Ezion-gaber]{strong="H6100"}, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_the_wilderness_H4057 of_Zin_H6790, which is Kadesh_H6946. 
+@37 [And they removed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Kadesh_H6946, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_mount_H2022 Hor_H2023, in_the_edge_H7097 of_the_land_H776 of_Edom_H123. 
+@38 And_Aaron_H175 the_priest_H3548 [went up]{strong="H5927" x-morph="strongMorph: TH8799"} into_mount_H2022 Hor_H2023 at_the_commandment_H6310 of the LORD, [and died]{strong="H4191" x-morph="strongMorph: TH8799"} [there, in the fortieth]{strong="H705"} year_H8141 after_the_children_H1121 of_Israel_H3478 [were come out]{strong="H3318" x-morph="strongMorph: TH8800"} of_the_land_H776 of_Egypt_H4714, in_the_first_H259 day of_the_fifth_H2549 month_H2320. 
+@39 And_Aaron_H175 was an_hundred_H3967 and_twenty_H6242 and_three_H7969 years_H8141 old_H1121 when_he_died_H4194 in_mount_H2022 Hor_H2023. 
+@40 And_king_H4428 Arad_H6166 the_Canaanite_H3669, [which dwelt]{strong="H3427" x-morph="strongMorph: TH8802"} in_the_south_H5045 in_the_land_H776 of_Canaan_H3667, [heard]{strong="H8085" x-morph="strongMorph: TH8799"} [of the coming]{strong="H935" x-morph="strongMorph: TH8800"} of_the_children_H1121 of_Israel_H3478. 
+@41 [And they departed]{strong="H5265" x-morph="strongMorph: TH8799"} from_mount_H2022 Hor_H2023, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_Zalmonah_H6758. 
+@42 [And they departed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Zalmonah_H6758, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_Punon_H6325. 
+@43 [And they departed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Punon_H6325, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_Oboth_H88. 
+@44 [And they departed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Oboth_H88, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} [in Ije-abarim]{strong="H5863"}, in_the_border_H1366 of_Moab_H4124.^b^ 
+@45 [And they departed]{strong="H5265" x-morph="strongMorph: TH8799"} from_Iim_H5864, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} [in Dibon-gad]{strong="H1769"}. 
+@46 [And they removed]{strong="H5265" x-morph="strongMorph: TH8799"} [from Dibon-gad]{strong="H1769"}, [and encamped]{strong="H2583" x-morph="strongMorph: TH8799"} [in Almon-diblathaim]{strong="H5963"}. 
+@47 [And they removed]{strong="H5265" x-morph="strongMorph: TH8799"} [from Almon-diblathaim]{strong="H5963"}, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_the_mountains_H2022 of_Abarim_H5682, before_H6440 Nebo_H5015. 
+@48 [And they departed]{strong="H5265" x-morph="strongMorph: TH8799"} from_the_mountains_H2022 of_Abarim_H5682, [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} in_the_plains_H6160 of_Moab_H4124 by_Jordan_H3383 near Jericho_H3405. 
+@49 [And they pitched]{strong="H2583" x-morph="strongMorph: TH8799"} by_Jordan_H3383, [from Beth-jesimoth]{strong="H1020"} even [unto Abel-shittim]{strong="H63"} in_the_plains_H6160 of_Moab_H4124.^c^ 
 ^a^[**33:16** Kibroth-hattaavah: that is, the graves of lust] ^b^[**33:44** Ije-abarim: or, heaps of Abarim] ^c^[**33:49** Abel-shittim: or, the plains of Shittim]
 
-@50 And the LORD spake unto Moses in the plains of Moab by Jordan near Jericho, saying, 
-@51 Speak unto the children of Israel, and say unto them, When ye are passed over Jordan into the land of Canaan; 
-@52 Then ye shall drive out all the inhabitants of the land from before you, and destroy all their pictures, and destroy all their molten images, and quite pluck down all their high places: 
-@53 And ye shall dispossess the inhabitants of the land, and dwell therein: for I have given you the land to possess it. 
-@54 And ye shall divide the land by lot for an inheritance among your families: and to the more ye shall give the more inheritance, and to the fewer ye shall give the less inheritance: every man’s inheritance shall be in the place where his lot falleth; according to the tribes of your fathers ye shall inherit.^a^ ^b^ 
-@55 But if ye will not drive out the inhabitants of the land from before you; then it shall come to pass, that those which ye let remain of them shall be pricks in your eyes, and thorns in your sides, and shall vex you in the land wherein ye dwell. 
-@56 Moreover it shall come to pass, that I shall do unto you, as I thought to do unto them.
+@50 And the LORD [spake ]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872 in_the_plains_H6160 of_Moab_H4124 by_Jordan_H3383 near Jericho_H3405, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@51 [Speak]{strong="H1696" x-morph="strongMorph: TH8761"} unto_the_children_H1121 of_Israel_H3478, [and say]{strong="H559" x-morph="strongMorph: TH8804"} [unto them, When ye are passed over]{strong="H5674" x-morph="strongMorph: TH8802"} Jordan_H3383 into_the_land_H776 of_Canaan_H3667; 
+@52 [Then ye shall drive out]{strong="H3423" x-morph="strongMorph: TH8689"} [all the inhabitants]{strong="H3427" x-morph="strongMorph: TH8802"} of_the_land_H776 from_before_H6440 [you, and destroy]{strong="H6" x-morph="strongMorph: TH8765"} all_their_pictures_H4906, [and destroy]{strong="H6" x-morph="strongMorph: TH8762"} all_their_molten_H4541 images_H6754, [and quite pluck down]{strong="H8045" x-morph="strongMorph: TH8686"} all_their_high_places_H1116: 
+@53 [And ye shall dispossess]{strong="H3423" x-morph="strongMorph: TH8689"} the inhabitants of_the_land_H776, [and dwell]{strong="H3427" x-morph="strongMorph: TH8804"} [therein: for I have given]{strong="H5414" x-morph="strongMorph: TH8804"} you_the_land_H776 [to possess]{strong="H3423" x-morph="strongMorph: TH8800"} it. 
+@54 And_ye_shall_divide_H5157 the_land_H776 by_lot_H1486 [for an inheritance]{strong="H5157" x-morph="strongMorph: TH8694"} among_your_families_H4940: and to_the_more_H7227 [ye shall give the more]{strong="H7235" x-morph="strongMorph: TH8686"} inheritance_H5159, and_to_the_fewer_H4592 [ye shall give the less]{strong="H4591" x-morph="strongMorph: TH8686"} inheritance_H5159: every man’s inheritance shall_be_in_the_place_where_his_lot_H1486 [falleth]{strong="H3318" x-morph="strongMorph: TH8799"}; according_to_the_tribes_H4294 of_your_fathers_H1 [ye shall inherit]{strong="H5157" x-morph="strongMorph: TH8691"}.^a^ ^b^ 
+@55 [But if ye will not drive out]{strong="H3423" x-morph="strongMorph: TH8686"} [the inhabitants]{strong="H3427" x-morph="strongMorph: TH8802"} of_the_land_H776 from_before_H6440 [you; then it shall come to pass, that those which ye let remain]{strong="H3498" x-morph="strongMorph: TH8686"} of them shall be pricks_H7899 in_your_eyes_H5869, and_thorns_H6796 in_your_sides_H6654, [and shall vex]{strong="H6887" x-morph="strongMorph: TH8804"} you_in_the_land_H776 [wherein ye dwell]{strong="H3427" x-morph="strongMorph: TH8802"}. 
+@56 Moreover it shall come to pass, that [I shall do]{strong="H6213" x-morph="strongMorph: TH8799"} [unto you, as I thought]{strong="H1819" x-morph="strongMorph: TH8765"} [to do]{strong="H6213" x-morph="strongMorph: TH8800"} unto them.
 ^a^[**33:54** give the more…: Heb. multiply his inheritance] ^b^[**33:54** give the less…: Heb. diminish his inheritance] 
 
 # 34 
-@1 And the LORD spake unto Moses, saying, 
-@2 Command the children of Israel, and say unto them, When ye come into the land of Canaan; (this is the land that shall fall unto you for an inheritance, even the land of Canaan with the coasts thereof:) 
-@3 Then your south quarter shall be from the wilderness of Zin along by the coast of Edom, and your south border shall be the outmost coast of the salt sea eastward: 
-@4 And your border shall turn from the south to the ascent of Akrabbim, and pass on to Zin: and the going forth thereof shall be from the south to Kadesh-barnea, and shall go on to Hazar-addar, and pass on to Azmon: 
-@5 And the border shall fetch a compass from Azmon unto the river of Egypt, and the goings out of it shall be at the sea. 
-@6 And as for the western border, ye shall even have the great sea for a border: this shall be your west border. 
-@7 And this shall be your north border: from the great sea ye shall point out for you mount Hor: 
-@8 From mount Hor ye shall point out your border unto the entrance of Hamath; and the goings forth of the border shall be to Zedad: 
+@1 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@2 [Command]{strong="H6680" x-morph="strongMorph: TH8761"} the_children_H1121 of_Israel_H3478, [and say]{strong="H559" x-morph="strongMorph: TH8804"} [unto them, When ye come]{strong="H935" x-morph="strongMorph: TH8802"} into_the_land_H776 of_Canaan_H3667; (this is the_land_H776 [that shall fall]{strong="H5307" x-morph="strongMorph: TH8799"} unto_you_for_an_inheritance_H5159, even the_land_H776 of_Canaan_H3667 with_the_coasts_H1367 thereof:) 
+@3 Then_your_south_H5045 quarter_H6285 shall_be_from_the_wilderness_H4057 of_Zin_H6790 along_by_the_coast_H3027 of_Edom_H123, and_your_south_H5045 border_H1366 shall_be_the_outmost_coast_H7097 of_the_salt_H4417 sea_H3220 eastward_H6924: 
+@4 And_your_border_H1366 [shall turn]{strong="H5437" x-morph="strongMorph: TH8738"} from_the_south_H5045 to_the_ascent_H4608 of_Akrabbim_H4610, [and pass on]{strong="H5674" x-morph="strongMorph: TH8804"} to_Zin_H6790: and_the_going_forth_H8444 thereof_shall_be_from_the_south_H5045 [to Kadesh-barnea]{strong="H6947"}, [and shall go on]{strong="H3318" x-morph="strongMorph: TH8804"} [to Hazar-addar]{strong="H2692"}, [and pass on]{strong="H5674" x-morph="strongMorph: TH8804"} to_Azmon_H6111: 
+@5 And_the_border_H1366 [shall fetch a compass]{strong="H5437" x-morph="strongMorph: TH8738"} from_Azmon_H6111 unto_the_river_H5158 of_Egypt_H4714, and_the_goings_out_H8444 of_it_shall_be_at_the_sea_H3220. 
+@6 And as for the_western_H3220 border_H1366, ye_shall_even_have_the_great_H1419 sea_H3220 for_a_border_H1366: this_shall_be_your_west_H3220 border_H1366. 
+@7 And_this_shall_be_your_north_H6828 border_H1366: from_the_great_H1419 sea_H3220 [ye shall point out]{strong="H8376" x-morph="strongMorph: TH8762"} for_you_mount_H2022 Hor_H2023: 
+@8 From_mount_H2022 Hor_H2023 [ye shall point out]{strong="H8376" x-morph="strongMorph: TH8762"} your border [unto the entrance]{strong="H935" x-morph="strongMorph: TH8800"} of_Hamath_H2574; and_the_goings_forth_H8444 of_the_border_H1366 shall_be_to_Zedad_H6657: 
 
-@9 And the border shall go on to Ziphron, and the goings out of it shall be at Hazar-enan: this shall be your north border. 
-@10 And ye shall point out your east border from Hazar-enan to Shepham: 
-@11 And the coast shall go down from Shepham to Riblah, on the east side of Ain; and the border shall descend, and shall reach unto the side of the sea of Chinnereth eastward:^a^ 
-@12 And the border shall go down to Jordan, and the goings out of it shall be at the salt sea: this shall be your land with the coasts thereof round about. 
-@13 And Moses commanded the children of Israel, saying, This is the land which ye shall inherit by lot, which the LORD commanded to give unto the nine tribes, and to the half tribe: 
-@14 For the tribe of the children of Reuben according to the house of their fathers, and the tribe of the children of Gad according to the house of their fathers, have received their inheritance; and half the tribe of Manasseh have received their inheritance: 
-@15 The two tribes and the half tribe have received their inheritance on this side Jordan near Jericho eastward, toward the sunrising. 
+@9 And_the_border_H1366 [shall go on]{strong="H3318" x-morph="strongMorph: TH8804"} to_Ziphron_H2202, and_the_goings_out_H8444 [of it shall be at Hazar-enan]{strong="H2704"}: this_shall_be_your_north_H6828 border_H1366. 
+@10 [And ye shall point out]{strong="H184" x-morph="strongMorph: TH8694"} your_east_H6924 border_H1366 [from Hazar-enan]{strong="H2704"} to_Shepham_H8221: 
+@11 And_the_coast_H1366 [shall go down]{strong="H3381" x-morph="strongMorph: TH8804"} from_Shepham_H8221 to_Riblah_H7247, on_the_east_side_H6924 of_Ain_H5871; and_the_border_H1366 [shall descend]{strong="H3381" x-morph="strongMorph: TH8804"}, [and shall reach]{strong="H4229" x-morph="strongMorph: TH8804"} unto_the_side_H3802 of_the_sea_H3220 of_Chinnereth_H3672 eastward_H6924:^a^ 
+@12 And_the_border_H1366 [shall go down]{strong="H3381" x-morph="strongMorph: TH8804"} to_Jordan_H3383, and_the_goings_out_H8444 of_it_shall_be_at_the_salt_H4417 sea_H3220: this_shall_be_your_land_H776 with_the_coasts_H1367 thereof_round_about_H5439. 
+@13 And_Moses_H4872 [commanded]{strong="H6680" x-morph="strongMorph: TH8762"} the_children_H1121 of_Israel_H3478, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, This is the_land_H776 [which ye shall inherit]{strong="H5157" x-morph="strongMorph: TH8691"} by_lot_H1486, which the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} [to give]{strong="H5414" x-morph="strongMorph: TH8800"} unto_the_nine_H8672 tribes_H4294, and_to_the_half_H2677 tribe_H4294: 
+@14 For_the_tribe_H4294 of_the_children_H1121 of_Reuben_H7206 according_to_the_house_H1004 of_their_fathers_H1, and_the_tribe_H4294 of_the_children_H1121 of_Gad_H1425 according_to_the_house_H1004 of_their_fathers_H1, [have received]{strong="H3947" x-morph="strongMorph: TH8804"} their inheritance; and_half_H2677 the_tribe_H4294 of_Manasseh_H4519 [have received]{strong="H3947" x-morph="strongMorph: TH8804"} their_inheritance_H5159: 
+@15 The_two_H8147 tribes_H4294 and_the_half_H2677 tribe_H4294 [have received]{strong="H3947" x-morph="strongMorph: TH8804"} their_inheritance_H5159 on_this_side_H5676 Jordan_H3383 near Jericho_H3405 eastward_H6924, toward_the_sunrising_H4217. 
 ^a^[**34:11** side of the sea: Heb. shoulder of the sea]
 
-@16 And the LORD spake unto Moses, saying, 
-@17 These are the names of the men which shall divide the land unto you: Eleazar the priest, and Joshua the son of Nun. 
-@18 And ye shall take one prince of every tribe, to divide the land by inheritance. 
-@19 And the names of the men are these: Of the tribe of Judah, Caleb the son of Jephunneh. 
-@20 And of the tribe of the children of Simeon, Shemuel the son of Ammihud. 
-@21 Of the tribe of Benjamin, Elidad the son of Chislon. 
-@22 And the prince of the tribe of the children of Dan, Bukki the son of Jogli. 
-@23 The prince of the children of Joseph, for the tribe of the children of Manasseh, Hanniel the son of Ephod. 
-@24 And the prince of the tribe of the children of Ephraim, Kemuel the son of Shiphtan. 
-@25 And the prince of the tribe of the children of Zebulun, Elizaphan the son of Parnach. 
-@26 And the prince of the tribe of the children of Issachar, Paltiel the son of Azzan. 
-@27 And the prince of the tribe of the children of Asher, Ahihud the son of Shelomi. 
-@28 And the prince of the tribe of the children of Naphtali, Pedahel the son of Ammihud. 
-@29 These are they whom the LORD commanded to divide the inheritance unto the children of Israel in the land of Canaan. 
+@16 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@17 These are the_names_H8034 of_the_men_H582 [which shall divide]{strong="H5157" x-morph="strongMorph: TH8799"} the_land_H776 [unto you: Eleazar]{strong="H499"} the_priest_H3548, and_Joshua_H3091 the_son_H1121 of_Nun_H5126. 
+@18 [And ye shall take]{strong="H3947" x-morph="strongMorph: TH8799"} one_H259 prince_H5387 of_every_tribe_H4294, to_divide_H5157 the_land_H776 [by inheritance]{strong="H5157" x-morph="strongMorph: TH8800"}. 
+@19 And_the_names_H8034 of_the_men_H582 are [these: Of the tribe]{strong="H4294"} of_Judah_H3063, Caleb_H3612 the_son_H1121 of_Jephunneh_H3312. 
+@20 And_of_the_tribe_H4294 of_the_children_H1121 of_Simeon_H8095, Shemuel_H8050 the_son_H1121 of_Ammihud_H5989. 
+@21 Of_the_tribe_H4294 of_Benjamin_H1144, Elidad_H449 the_son_H1121 of_Chislon_H3692. 
+@22 And_the_prince_H5387 of_the_tribe_H4294 of_the_children_H1121 of_Dan_H1835, Bukki_H1231 the_son_H1121 of_Jogli_H3020. 
+@23 The_prince_H5387 of_the_children_H1121 of_Joseph_H3130, for_the_tribe_H4294 of_the_children_H1121 of_Manasseh_H4519, Hanniel_H2592 the_son_H1121 of_Ephod_H641. 
+@24 And_the_prince_H5387 of_the_tribe_H4294 of_the_children_H1121 of_Ephraim_H669, Kemuel_H7055 the_son_H1121 of_Shiphtan_H8204. 
+@25 And_the_prince_H5387 of_the_tribe_H4294 of_the_children_H1121 of_Zebulun_H2074, Elizaphan_H469 the_son_H1121 of_Parnach_H6535. 
+@26 And_the_prince_H5387 of_the_tribe_H4294 of_the_children_H1121 of_Issachar_H3485, Paltiel_H6409 the_son_H1121 of_Azzan_H5821. 
+@27 And_the_prince_H5387 of_the_tribe_H4294 of_the_children_H1121 of_Asher_H836, Ahihud_H282 the_son_H1121 of_Shelomi_H8015. 
+@28 And_the_prince_H5387 of_the_tribe_H4294 of_the_children_H1121 of_Naphtali_H5321, Pedahel_H6300 the_son_H1121 of_Ammihud_H5989. 
+@29 These are they whom the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} [to divide the inheritance]{strong="H5157" x-morph="strongMorph: TH8763"} unto_the_children_H1121 of_Israel_H3478 in_the_land_H776 of_Canaan_H3667. 
 
 # 35 
-@1 And the LORD spake unto Moses in the plains of Moab by Jordan near Jericho, saying, 
-@2 Command the children of Israel, that they give unto the Levites of the inheritance of their possession cities to dwell in; and ye shall give also unto the Levites suburbs for the cities round about them. 
-@3 And the cities shall they have to dwell in; and the suburbs of them shall be for their cattle, and for their goods, and for all their beasts. 
-@4 And the suburbs of the cities, which ye shall give unto the Levites, shall reach from the wall of the city and outward a thousand cubits round about. 
-@5 And ye shall measure from without the city on the east side two thousand cubits, and on the south side two thousand cubits, and on the west side two thousand cubits, and on the north side two thousand cubits; and the city shall be in the midst: this shall be to them the suburbs of the cities. 
-@6 And among the cities which ye shall give unto the Levites there shall be six cities for refuge, which ye shall appoint for the manslayer, that he may flee thither: and to them ye shall add forty and two cities.^a^ 
-@7 So all the cities which ye shall give to the Levites shall be forty and eight cities: them shall ye give with their suburbs. 
-@8 And the cities which ye shall give shall be of the possession of the children of Israel: from them that have many ye shall give many; but from them that have few ye shall give few: every one shall give of his cities unto the Levites according to his inheritance which he inheriteth.^b^ 
+@1 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872 in_the_plains_H6160 of_Moab_H4124 by_Jordan_H3383 near Jericho_H3405, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@2 [Command]{strong="H6680" x-morph="strongMorph: TH8761"} the_children_H1121 of_Israel_H3478, [that they give]{strong="H5414" x-morph="strongMorph: TH8804"} unto_the_Levites_H3881 of_the_inheritance_H5159 of_their_possession_H272 cities_H5892 [to dwell in]{strong="H3427" x-morph="strongMorph: TH8800"}; [and ye shall give]{strong="H5414" x-morph="strongMorph: TH8799"} also unto_the_Levites_H3881 suburbs_H4054 for_the_cities_H5892 round_about_H5439 them. 
+@3 And_the_cities_H5892 [shall they have to dwell in]{strong="H3427" x-morph="strongMorph: TH8800"}; and_the_suburbs_H4054 of_them_shall_be_for_their_cattle_H929, and_for_their_goods_H7399, and_for_all_their_beasts_H2416. 
+@4 And_the_suburbs_H4054 of_the_cities_H5892, [which ye shall give]{strong="H5414" x-morph="strongMorph: TH8799"} unto_the_Levites_H3881, shall reach from_the_wall_H7023 of_the_city_H5892 and_outward_H2351 a_thousand_H505 cubits_H520 round_about_H5439. 
+@5 [And ye shall measure]{strong="H4058" x-morph="strongMorph: TH8804"} from_without_H2351 the_city_H5892 on_the_east_H6924 side_H6285 two_thousand_H505 cubits_H520, and_on_the_south_H5045 side_H6285 two_thousand_H505 cubits_H520, and_on_the_west_H3220 side_H6285 two_thousand_H505 cubits_H520, and_on_the_north_H6828 side_H6285 two_thousand_H505 cubits_H520; and_the_city_H5892 shall be in_the_midst_H8432: this_shall_be_to_them_the_suburbs_H4054 of_the_cities_H5892. 
+@6 And_among_the_cities_H5892 [which ye shall give]{strong="H5414" x-morph="strongMorph: TH8799"} unto_the_Levites_H3881 there shall be six_H8337 cities_H5892 for_refuge_H4733, [which ye shall appoint]{strong="H5414" x-morph="strongMorph: TH8799"} [for the manslayer]{strong="H7523" x-morph="strongMorph: TH8802"}, [that he may flee]{strong="H5127" x-morph="strongMorph: TH8800"} [thither: and to them ye shall add]{strong="H5414" x-morph="strongMorph: TH8799"} forty_H705 and_two_H8147 cities_H5892.^a^ 
+@7 So all_the_cities_H5892 [which ye shall give]{strong="H5414" x-morph="strongMorph: TH8799"} to_the_Levites_H3881 shall be forty_H705 and_eight_H8083 cities_H5892: them shall ye give with_their_suburbs_H4054. 
+@8 And_the_cities_H5892 [which ye shall give]{strong="H5414" x-morph="strongMorph: TH8799"} shall be of_the_possession_H272 of_the_children_H1121 of_Israel_H3478: from them that have many_H7227 [ye shall give many]{strong="H7235" x-morph="strongMorph: TH8686"}; but from them that have few_H4592 [ye shall give few]{strong="H4591" x-morph="strongMorph: TH8686"}: every_one_H376 [shall give]{strong="H5414" x-morph="strongMorph: TH8799"} of_his_cities_H5892 unto_the_Levites_H3881 according_H6310 to_his_inheritance_H5159 [which he inheriteth]{strong="H5157" x-morph="strongMorph: TH8799"}.^b^ 
 ^a^[**35:6** to them…: Heb. above them ye shall give] ^b^[**35:8** he…: Heb. they inherit]
 
-@9 And the LORD spake unto Moses, saying, 
-@10 Speak unto the children of Israel, and say unto them, When ye be come over Jordan into the land of Canaan; 
-@11 Then ye shall appoint you cities to be cities of refuge for you; that the slayer may flee thither, which killeth any person at unawares.^a^ 
-@12 And they shall be unto you cities for refuge from the avenger; that the manslayer die not, until he stand before the congregation in judgment. 
-@13 And of these cities which ye shall give six cities shall ye have for refuge. 
-@14 Ye shall give three cities on this side Jordan, and three cities shall ye give in the land of Canaan, which shall be cities of refuge. 
-@15 These six cities shall be a refuge, both for the children of Israel, and for the stranger, and for the sojourner among them: that every one that killeth any person unawares may flee thither. 
-@16 And if he smite him with an instrument of iron, so that he die, he is a murderer: the murderer shall surely be put to death. 
-@17 And if he smite him with throwing a stone, wherewith he may die, and he die, he is a murderer: the murderer shall surely be put to death.^b^ 
-@18 Or if he smite him with an hand weapon of wood, wherewith he may die, and he die, he is a murderer: the murderer shall surely be put to death. 
-@19 The revenger of blood himself shall slay the murderer: when he meeteth him, he shall slay him. 
-@20 But if he thrust him of hatred, or hurl at him by laying of wait, that he die; 
-@21 Or in enmity smite him with his hand, that he die: he that smote him shall surely be put to death; for he is a murderer: the revenger of blood shall slay the murderer, when he meeteth him. 
-@22 But if he thrust him suddenly without enmity, or have cast upon him any thing without laying of wait, 
-@23 Or with any stone, wherewith a man may die, seeing him not, and cast it upon him, that he die, and was not his enemy, neither sought his harm: 
-@24 Then the congregation shall judge between the slayer and the revenger of blood according to these judgments: 
-@25 And the congregation shall deliver the slayer out of the hand of the revenger of blood, and the congregation shall restore him to the city of his refuge, whither he was fled: and he shall abide in it unto the death of the high priest, which was anointed with the holy oil. 
-@26 But if the slayer shall at any time come without the border of the city of his refuge, whither he was fled; 
-@27 And the revenger of blood find him without the borders of the city of his refuge, and the revenger of blood kill the slayer; he shall not be guilty of blood:^c^ 
-@28 Because he should have remained in the city of his refuge until the death of the high priest: but after the death of the high priest the slayer shall return into the land of his possession. 
-@29 So these things shall be for a statute of judgment unto you throughout your generations in all your dwellings. 
-@30 Whoso killeth any person, the murderer shall be put to death by the mouth of witnesses: but one witness shall not testify against any person to cause him to die. 
-@31 Moreover ye shall take no satisfaction for the life of a murderer, which is guilty of death: but he shall be surely put to death.^d^ 
-@32 And ye shall take no satisfaction for him that is fled to the city of his refuge, that he should come again to dwell in the land, until the death of the priest. 
-@33 So ye shall not pollute the land wherein ye are: for blood it defileth the land: and the land cannot be cleansed of the blood that is shed therein, but by the blood of him that shed it.^e^ 
-@34 Defile not therefore the land which ye shall inhabit, wherein I dwell: for I the LORD dwell among the children of Israel.
+@9 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Moses_H4872, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@10 [Speak]{strong="H1696" x-morph="strongMorph: TH8761"} unto_the_children_H1121 of_Israel_H3478, [and say]{strong="H559" x-morph="strongMorph: TH8804"} [unto them, When ye be come over]{strong="H5674" x-morph="strongMorph: TH8802"} Jordan_H3383 into_the_land_H776 of_Canaan_H3667; 
+@11 [Then ye shall appoint]{strong="H7136" x-morph="strongMorph: TH8689"} you_cities_H5892 to_be_cities_H5892 of_refuge_H4733 [for you; that the slayer]{strong="H7523" x-morph="strongMorph: TH8802"} [may flee]{strong="H5127" x-morph="strongMorph: TH8804"} [thither, which killeth]{strong="H5221" x-morph="strongMorph: TH8688"} any_person_H5315 at_unawares_H7684.^a^ 
+@12 And_they_shall_be_unto_you_cities_H5892 for_refuge_H4733 [from the avenger]{strong="H1350" x-morph="strongMorph: TH8802"}; [that the manslayer]{strong="H7523" x-morph="strongMorph: TH8802"} [die]{strong="H4191" x-morph="strongMorph: TH8799"} [not, until he stand]{strong="H5975" x-morph="strongMorph: TH8800"} before_H6440 the_congregation_H5712 in_judgment_H4941. 
+@13 And_of_these_cities_H5892 [which ye shall give]{strong="H5414" x-morph="strongMorph: TH8799"} six_H8337 cities_H5892 shall_ye_have_for_refuge_H4733. 
+@14 [Ye shall give]{strong="H5414" x-morph="strongMorph: TH8799"} three_H7969 cities_H5892 on_this_side_H5676 Jordan_H3383, and_three_H7969 cities_H5892 [shall ye give]{strong="H5414" x-morph="strongMorph: TH8799"} in_the_land_H776 of_Canaan_H3667, which shall_be_cities_H5892 of_refuge_H4733. 
+@15 These_six_H8337 cities_H5892 shall_be_a_refuge_H4733, both for_the_children_H1121 of_Israel_H3478, and_for_the_stranger_H1616, and_for_the_sojourner_H8453 among_H8432 [them: that every one that killeth]{strong="H5221" x-morph="strongMorph: TH8688"} any_person_H5315 unawares_H7684 [may flee]{strong="H5127" x-morph="strongMorph: TH8800"} thither. 
+@16 [And if he smite]{strong="H5221" x-morph="strongMorph: TH8689"} him_with_an_instrument_H3627 of_iron_H1270, [so that he die]{strong="H4191" x-morph="strongMorph: TH8799"}, he is [a murderer]{strong="H7523" x-morph="strongMorph: TH8802"}: [the murderer]{strong="H7523" x-morph="strongMorph: TH8802"} [shall surely]{strong="H4191" x-morph="strongMorph: TH8800"} [be put to death]{strong="H4191" x-morph="strongMorph: TH8714"}. 
+@17 [And if he smite]{strong="H5221" x-morph="strongMorph: TH8689"} him_with_throwing_H3027 a_stone_H68, [wherewith he may die]{strong="H4191" x-morph="strongMorph: TH8799"}, [and he die]{strong="H4191" x-morph="strongMorph: TH8799"}, he is [a murderer]{strong="H7523" x-morph="strongMorph: TH8802"}: [the murderer]{strong="H7523" x-morph="strongMorph: TH8802"} [shall surely]{strong="H4191" x-morph="strongMorph: TH8800"} [be put to death]{strong="H4191" x-morph="strongMorph: TH8714"}.^b^ 
+@18 Or if [he smite]{strong="H5221" x-morph="strongMorph: TH8689"} him_with_an_hand_H3027 weapon_H3627 of_wood_H6086, [wherewith he may die]{strong="H4191" x-morph="strongMorph: TH8799"}, [and he die]{strong="H4191" x-morph="strongMorph: TH8799"}, he is [a murderer]{strong="H7523" x-morph="strongMorph: TH8802"}: [the murderer]{strong="H7523" x-morph="strongMorph: TH8802"} [shall surely]{strong="H4191" x-morph="strongMorph: TH8800"} [be put to death]{strong="H4191" x-morph="strongMorph: TH8714"}. 
+@19 [The revenger]{strong="H1350" x-morph="strongMorph: TH8802"} of_blood_H1818 [himself shall slay]{strong="H4191" x-morph="strongMorph: TH8686"} [the murderer]{strong="H7523" x-morph="strongMorph: TH8802"}: [when he meeteth]{strong="H6293" x-morph="strongMorph: TH8800"} [him, he]{strong="H1931"} [shall slay]{strong="H4191" x-morph="strongMorph: TH8686"} him. 
+@20 [But if he thrust]{strong="H1920" x-morph="strongMorph: TH8799"} him_of_hatred_H8135, [or hurl]{strong="H7993" x-morph="strongMorph: TH8689"} at_him_by_laying_of_wait_H6660, [that he die]{strong="H4191" x-morph="strongMorph: TH8799"}; 
+@21 Or_in_enmity_H342 [smite]{strong="H5221" x-morph="strongMorph: TH8689"} him_with_his_hand_H3027, [that he die]{strong="H4191" x-morph="strongMorph: TH8799"}: [he that smote]{strong="H5221" x-morph="strongMorph: TH8688"} him [shall surely]{strong="H4191" x-morph="strongMorph: TH8800"} [be put to death]{strong="H4191" x-morph="strongMorph: TH8714"}; for he is [a murderer]{strong="H7523" x-morph="strongMorph: TH8802"}: [the revenger]{strong="H1350" x-morph="strongMorph: TH8802"} of_blood_H1818 [shall slay]{strong="H4191" x-morph="strongMorph: TH8686"} [the murderer]{strong="H7523" x-morph="strongMorph: TH8802"}, [when he meeteth]{strong="H6293" x-morph="strongMorph: TH8800"} him. 
+@22 [But if he thrust]{strong="H1920" x-morph="strongMorph: TH8804"} him_suddenly_H6621 without_H3808 enmity_H342, [or have cast]{strong="H7993" x-morph="strongMorph: TH8689"} upon_him_any_thing_H3627 without_laying_of_wait_H6660, 
+@23 Or_with_any_stone_H68, [wherewith a man may die]{strong="H4191" x-morph="strongMorph: TH8799"}, [seeing]{strong="H7200" x-morph="strongMorph: TH8800"} him not_H3808, [and cast]{strong="H5307" x-morph="strongMorph: TH8686"} it [upon him, that he die]{strong="H4191" x-morph="strongMorph: TH8799"}, and was [not his enemy]{strong="H341" x-morph="strongMorph: TH8802"}, [neither sought]{strong="H1245" x-morph="strongMorph: TH8764"} his_harm_H7451: 
+@24 Then_the_congregation_H5712 [shall judge]{strong="H8199" x-morph="strongMorph: TH8804"} [between the slayer]{strong="H5221" x-morph="strongMorph: TH8688"} [and the revenger]{strong="H1350" x-morph="strongMorph: TH8802"} of_blood_H1818 according_to_these_judgments_H4941: 
+@25 And_the_congregation_H5712 [shall deliver]{strong="H5337" x-morph="strongMorph: TH8689"} [the slayer]{strong="H7523" x-morph="strongMorph: TH8802"} out_of_the_hand_H3027 [of the revenger]{strong="H1350" x-morph="strongMorph: TH8802"} of_blood_H1818, and_the_congregation_H5712 [shall restore]{strong="H7725" x-morph="strongMorph: TH8689"} him_to_the_city_H5892 of_his_refuge_H4733, [whither he was fled]{strong="H5127" x-morph="strongMorph: TH8804"}: [and he shall abide]{strong="H3427" x-morph="strongMorph: TH8804"} in_it_unto_the_death_H4194 of_the_high_H1419 priest_H3548, [which was anointed]{strong="H4886" x-morph="strongMorph: TH8804"} with_the_holy_H6944 oil_H8081. 
+@26 [But if the slayer]{strong="H7523" x-morph="strongMorph: TH8802"} [shall at any time]{strong="H3318" x-morph="strongMorph: TH8800"} [come]{strong="H3318" x-morph="strongMorph: TH8799"} without_the_border_H1366 of_the_city_H5892 of_his_refuge_H4733, [whither he was fled]{strong="H5127" x-morph="strongMorph: TH8799"}; 
+@27 [And the revenger]{strong="H1350" x-morph="strongMorph: TH8802"} of_blood_H1818 [find]{strong="H4672" x-morph="strongMorph: TH8804"} him_without_H2351 the_borders_H1366 of_the_city_H5892 of_his_refuge_H4733, [and the revenger]{strong="H1350" x-morph="strongMorph: TH8802"} of_blood_H1818 [kill]{strong="H7523" x-morph="strongMorph: TH8804"} [the slayer]{strong="H7523" x-morph="strongMorph: TH8802"}; he_shall_not_be_guilty_of_blood_H1818:^c^ 
+@28 [Because he should have remained]{strong="H3427" x-morph="strongMorph: TH8799"} in_the_city_H5892 of_his_refuge_H4733 until_the_death_H4194 of_the_high_H1419 priest_H3548: but_after_H310 the_death_H4194 of_the_high_H1419 priest_H3548 [the slayer]{strong="H7523" x-morph="strongMorph: TH8802"} [shall return]{strong="H7725" x-morph="strongMorph: TH8799"} into_the_land_H776 of_his_possession_H272. 
+@29 So these things shall_be_for_a_statute_H2708 of_judgment_H4941 unto_you_throughout_your_generations_H1755 in_all_your_dwellings_H4186. 
+@30 [Whoso killeth]{strong="H5221" x-morph="strongMorph: TH8688"} any_person_H5315, [the murderer]{strong="H7523" x-morph="strongMorph: TH8802"} [shall be put to death]{strong="H7523" x-morph="strongMorph: TH8799"} by_the_mouth_H6310 of_witnesses_H5707: but_one_H259 witness_H5707 [shall not testify]{strong="H6030" x-morph="strongMorph: TH8799"} against_any_person_H5315 to cause him [to die]{strong="H4191" x-morph="strongMorph: TH8800"}. 
+@31 [Moreover ye shall take]{strong="H3947" x-morph="strongMorph: TH8799"} no_satisfaction_H3724 for_the_life_H5315 [of a murderer]{strong="H7523" x-morph="strongMorph: TH8802"}, which is guilty_H7563 [of death]{strong="H4191" x-morph="strongMorph: TH8800"}: [but he shall be surely]{strong="H4191" x-morph="strongMorph: TH8800"} [put to death]{strong="H4191" x-morph="strongMorph: TH8714"}.^d^ 
+@32 [And ye shall take]{strong="H3947" x-morph="strongMorph: TH8799"} no_satisfaction_H3724 [for him that is fled]{strong="H5127" x-morph="strongMorph: TH8800"} to_the_city_H5892 of_his_refuge_H4733, [that he should come again]{strong="H7725" x-morph="strongMorph: TH8800"} [to dwell]{strong="H3427" x-morph="strongMorph: TH8800"} in_the_land_H776, until_the_death_H4194 of_the_priest_H3548. 
+@33 [So ye shall not pollute]{strong="H2610" x-morph="strongMorph: TH8686"} the_land_H776 wherein ye are: for_blood_H1818 [it defileth]{strong="H2610" x-morph="strongMorph: TH8686"} the_land_H776: and_the_land_H776 [cannot be cleansed]{strong="H3722" x-morph="strongMorph: TH8792"} of_the_blood_H1818 [that is shed]{strong="H8210" x-morph="strongMorph: TH8795"} [therein, but by the blood]{strong="H1818"} [of him that shed]{strong="H8210" x-morph="strongMorph: TH8802"} it.^e^ 
+@34 [Defile]{strong="H2930" x-morph="strongMorph: TH8762"} not_therefore_the_land_H776 [which ye shall inhabit]{strong="H3427" x-morph="strongMorph: TH8802"}, wherein_H8432 [I dwell]{strong="H7931" x-morph="strongMorph: TH8802"}: for I the LORD [dwell]{strong="H7931" x-morph="strongMorph: TH8802"} among_H8432 the_children_H1121 of_Israel_H3478.
 ^a^[**35:11** at…: Heb. by error] ^b^[**35:17** with…: Heb. with a stone of the hand] ^c^[**35:27** he…: Heb. no blood shall be to him] ^d^[**35:31** guilty…: Heb. faulty to die] ^e^[**35:33** the land cannot…: Heb. there can be no expiation for the land] 
 
 # 36 
-@1 And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel: 
-@2 And they said, The LORD commanded my lord to give the land for an inheritance by lot to the children of Israel: and my lord was commanded by the LORD to give the inheritance of Zelophehad our brother unto his daughters. 
-@3 And if they be married to any of the sons of the other tribes of the children of Israel, then shall their inheritance be taken from the inheritance of our fathers, and shall be put to the inheritance of the tribe whereunto they are received: so shall it be taken from the lot of our inheritance.^a^ 
-@4 And when the jubile of the children of Israel shall be, then shall their inheritance be put unto the inheritance of the tribe whereunto they are received: so shall their inheritance be taken away from the inheritance of the tribe of our fathers.^b^ 
+@1 And_the_chief_H7218 fathers_H1 of_the_families_H4940 of_the_children_H1121 of_Gilead_H1568, the_son_H1121 of_Machir_H4353, the_son_H1121 of_Manasseh_H4519, of_the_families_H4940 of_the_sons_H1121 of_Joseph_H3130, [came near]{strong="H7126" x-morph="strongMorph: TH8799"}, [and spake]{strong="H1696" x-morph="strongMorph: TH8762"} before_H6440 Moses_H4872, and_before_H6440 the_princes_H5387, the_chief_H7218 fathers_H1 of_the_children_H1121 of_Israel_H3478: 
+@2 [And they said]{strong="H559" x-morph="strongMorph: TH8799"}, The LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} my_lord_H113 [to give]{strong="H5414" x-morph="strongMorph: TH8800"} the_land_H776 for_an_inheritance_H5159 by_lot_H1486 to_the_children_H1121 of_Israel_H3478: and_my_lord_H113 [was commanded]{strong="H6680" x-morph="strongMorph: TH8795"} by the LORD [to give]{strong="H5414" x-morph="strongMorph: TH8800"} the_inheritance_H5159 of_Zelophehad_H6765 our_brother_H251 unto_his_daughters_H1323. 
+@3 And_if_they_be_married_H802 to_any_H259 of_the_sons_H1121 of the other tribes_H7626 of_the_children_H1121 of_Israel_H3478, then_shall_their_inheritance_H5159 [be taken]{strong="H1639" x-morph="strongMorph: TH8738"} from_the_inheritance_H5159 of_our_fathers_H1, [and shall be put]{strong="H3254" x-morph="strongMorph: TH8738"} to_the_inheritance_H5159 of_the_tribe_H4294 [whereunto they are received: so shall it be taken]{strong="H1639" x-morph="strongMorph: TH8735"} from_the_lot_H1486 of_our_inheritance_H5159.^a^ 
+@4 And_when_the_jubile_H3104 of_the_children_H1121 of_Israel_H3478 [shall be, then shall their inheritance]{strong="H5159"} [be put]{strong="H3254" x-morph="strongMorph: TH8738"} unto_the_inheritance_H5159 of_the_tribe_H4294 [whereunto they are received: so shall their inheritance]{strong="H5159"} [be taken away]{strong="H1639" x-morph="strongMorph: TH8735"} from_the_inheritance_H5159 of_the_tribe_H4294 of_our_fathers_H1.^b^ 
 ^a^[**36:3** whereunto…: Heb. unto whom they shall be] ^b^[**36:4** whereunto…: Heb. unto whom they shall be]
 
-@5 And Moses commanded the children of Israel according to the word of the LORD, saying, The tribe of the sons of Joseph hath said well. 
-@6 This is the thing which the LORD doth command concerning the daughters of Zelophehad, saying, Let them marry to whom they think best; only to the family of the tribe of their father shall they marry.^a^ 
-@7 So shall not the inheritance of the children of Israel remove from tribe to tribe: for every one of the children of Israel shall keep himself to the inheritance of the tribe of his fathers.^b^ 
-@8 And every daughter, that possesseth an inheritance in any tribe of the children of Israel, shall be wife unto one of the family of the tribe of her father, that the children of Israel may enjoy every man the inheritance of his fathers. 
-@9 Neither shall the inheritance remove from one tribe to another tribe; but every one of the tribes of the children of Israel shall keep himself to his own inheritance. 
-@10 Even as the LORD commanded Moses, so did the daughters of Zelophehad: 
-@11 For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their father’s brothers’ sons: 
-@12 And they were married into the families of the sons of Manasseh the son of Joseph, and their inheritance remained in the tribe of the family of their father.^c^ 
-@13 These are the commandments and the judgments, which the LORD commanded by the hand of Moses unto the children of Israel in the plains of Moab by Jordan near Jericho. 
+@5 And_Moses_H4872 [commanded]{strong="H6680" x-morph="strongMorph: TH8762"} the_children_H1121 of_Israel_H3478 according_to_the_word_H6310 of the LORD, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, The_tribe_H4294 of_the_sons_H1121 of_Joseph_H3130 [hath said]{strong="H1696" x-morph="strongMorph: TH8802"} well. 
+@6 This is the_thing_H1697 which the LORD [doth command]{strong="H6680" x-morph="strongMorph: TH8765"} concerning_the_daughters_H1323 of_Zelophehad_H6765, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, Let_them_marry_H802 to_whom_they_think_H5869 best_H2896; only_to_the_family_H4940 of_the_tribe_H4294 of_their_father_H1 shall_they_marry_H802.^a^ 
+@7 So_shall_not_the_inheritance_H5159 of_the_children_H1121 of_Israel_H3478 [remove]{strong="H5437" x-morph="strongMorph: TH8735"} from_tribe_H4294 to_tribe_H4294: for_every_one_H376 of_the_children_H1121 of_Israel_H3478 [shall keep]{strong="H1692" x-morph="strongMorph: TH8799"} himself_to_the_inheritance_H5159 of_the_tribe_H4294 of_his_fathers_H1.^b^ 
+@8 And_every_daughter_H1323, [that possesseth]{strong="H3423" x-morph="strongMorph: TH8802"} an_inheritance_H5159 in_any_tribe_H4294 of_the_children_H1121 of_Israel_H3478, shall_be_wife_H802 unto_one_H259 of_the_family_H4940 of_the_tribe_H4294 of_her_father_H1, that_the_children_H1121 of_Israel_H3478 [may enjoy]{strong="H3423" x-morph="strongMorph: TH8799"} every_man_H376 the_inheritance_H5159 of_his_fathers_H1. 
+@9 Neither_shall_the_inheritance_H5159 [remove]{strong="H5437" x-morph="strongMorph: TH8735"} from one tribe_H4294 to_another_H312 tribe_H4294; but_every_one_H376 of_the_tribes_H4294 of_the_children_H1121 of_Israel_H3478 [shall keep]{strong="H1692" x-morph="strongMorph: TH8799"} himself_to_his_own_inheritance_H5159. 
+@10 Even as the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} Moses_H4872, [so did]{strong="H6213" x-morph="strongMorph: TH8804"} the_daughters_H1323 of_Zelophehad_H6765: 
+@11 For_Mahlah_H4244, Tirzah_H8656, and_Hoglah_H2295, and_Milcah_H4435, and_Noah_H5270, the_daughters_H1323 of_Zelophehad_H6765, were_married_H802 [unto their father’s]{strong="H1730"} [brothers’ sons]{strong="H1121"}: 
+@12 And they_were_married_H802 into_the_families_H4940 of_the_sons_H1121 of_Manasseh_H4519 the_son_H1121 of_Joseph_H3130, and_their_inheritance_H5159 remained_in_the_tribe_H4294 of_the_family_H4940 of_their_father_H1.^c^ 
+@13 These are the_commandments_H4687 and_the_judgments_H4941, which the LORD [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} by_the_hand_H3027 of_Moses_H4872 unto_the_children_H1121 of_Israel_H3478 in_the_plains_H6160 of_Moab_H4124 by_Jordan_H3383 near Jericho_H3405. 
 ^a^[**36:6** marry: Heb. be wives] ^b^[**36:7** keep…: Heb. cleave to the, etc] ^c^[**36:12** into…: Heb. to some that were of the families]

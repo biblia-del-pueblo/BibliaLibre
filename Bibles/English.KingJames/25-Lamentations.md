@@ -1,194 +1,194 @@
 # 1 
-@1 How doth the city sit solitary, that was full of people! how is she become as a widow! she that was great among the nations, and princess among the provinces, how is she become tributary! 
-@2 She weepeth sore in the night, and her tears are on her cheeks: among all her lovers she hath none to comfort her: all her friends have dealt treacherously with her, they are become her enemies. 
-@3 Judah is gone into captivity because of affliction, and because of great servitude: she dwelleth among the heathen, she findeth no rest: all her persecutors overtook her between the straits.^a^ 
-@4 The ways of Zion do mourn, because none come to the solemn feasts: all her gates are desolate: her priests sigh, her virgins are afflicted, and she is in bitterness. 
-@5 Her adversaries are the chief, her enemies prosper; for the LORD hath afflicted her for the multitude of her transgressions: her children are gone into captivity before the enemy. 
-@6 And from the daughter of Zion all her beauty is departed: her princes are become like harts that find no pasture, and they are gone without strength before the pursuer. 
-@7 Jerusalem remembered in the days of her affliction and of her miseries all her pleasant things that she had in the days of old, when her people fell into the hand of the enemy, and none did help her: the adversaries saw her, and did mock at her sabbaths.^b^ 
-@8 Jerusalem hath grievously sinned; therefore she is removed: all that honoured her despise her, because they have seen her nakedness: yea, she sigheth, and turneth backward.^c^ 
-@9 Her filthiness is in her skirts; she remembereth not her last end; therefore she came down wonderfully: she had no comforter. O LORD, behold my affliction: for the enemy hath magnified himself. 
-@10 The adversary hath spread out his hand upon all her pleasant things: for she hath seen that the heathen entered into her sanctuary, whom thou didst command that they should not enter into thy congregation.^d^ 
-@11 All her people sigh, they seek bread; they have given their pleasant things for meat to relieve the soul: see, O LORD, and consider; for I am become vile.^e^ 
+@1 How_doth_the_city_H5892 [sit]{strong="H3427" x-morph="strongMorph: TH8804"} solitary_H910, that was full_H7227 of_people_H5971! how is_she_become_as_a_widow_H490! she that was great_H7227 among_the_nations_H1471, and princess_H8282 among_the_provinces_H4082, how is_she_become_tributary_H4522! 
+@2 [She weepeth]{strong="H1058" x-morph="strongMorph: TH8799"} [sore]{strong="H1058" x-morph="strongMorph: TH8800"} in_the_night_H3915, and_her_tears_H1832 are on_her_cheeks_H3895: [among all her lovers]{strong="H157" x-morph="strongMorph: TH8802"} [she hath none to comfort]{strong="H5162" x-morph="strongMorph: TH8764"} her: all_her_friends_H7453 [have dealt treacherously]{strong="H898" x-morph="strongMorph: TH8804"} [with her, they are become her enemies]{strong="H341" x-morph="strongMorph: TH8802"}. 
+@3 Judah_H3063 [is gone into captivity]{strong="H1540" x-morph="strongMorph: TH8804"} because_of_affliction_H6040, and_because_of_great_H7230 servitude_H5656: [she dwelleth]{strong="H3427" x-morph="strongMorph: TH8804"} among_the_heathen_H1471, [she findeth]{strong="H4672" x-morph="strongMorph: TH8804"} no_rest_H4494: [all her persecutors]{strong="H7291" x-morph="strongMorph: TH8802"} [overtook]{strong="H5381" x-morph="strongMorph: TH8689"} her_between_the_straits_H4712.^a^ 
+@4 The_ways_H1870 of_Zion_H6726 do_mourn_H57, [because none come]{strong="H935" x-morph="strongMorph: TH8802"} to_the_solemn_feasts_H4150: all_her_gates_H8179 [are desolate]{strong="H8074" x-morph="strongMorph: TH8802"}: her_priests_H3548 [sigh]{strong="H584" x-morph="strongMorph: TH8737"}, her_virgins_H1330 [are afflicted]{strong="H3013" x-morph="strongMorph: TH8737"}, and she is [in bitterness]{strong="H4843" x-morph="strongMorph: TH8804"}. 
+@5 Her_adversaries_H6862 are_the_chief_H7218, [her enemies]{strong="H341" x-morph="strongMorph: TH8802"} [prosper]{strong="H7951" x-morph="strongMorph: TH8804"}; for the LORD [hath afflicted]{strong="H3013" x-morph="strongMorph: TH8689"} her_for_the_multitude_H7230 of_her_transgressions_H6588: her_children_H5768 [are gone]{strong="H1980" x-morph="strongMorph: TH8804"} into_captivity_H7628 before_H6440 the_enemy_H6862. 
+@6 And_from_the_daughter_H1323 of_Zion_H6726 all_her_beauty_H1926 [is departed]{strong="H3318" x-morph="strongMorph: TH8799"}: her_princes_H8269 are_become_like_harts_H354 that [find]{strong="H4672" x-morph="strongMorph: TH8804"} no_pasture_H4829, [and they are gone]{strong="H3212" x-morph="strongMorph: TH8799"} without_strength_H3581 before_H6440 [the pursuer]{strong="H7291" x-morph="strongMorph: TH8802"}. 
+@7 Jerusalem_H3389 [remembered]{strong="H2142" x-morph="strongMorph: TH8804"} in_the_days_H3117 of_her_affliction_H6040 and_of_her_miseries_H4788 all_her_pleasant_things_H4262 that_she_had_in_the_days_H3117 of_old_H6924, when_her_people_H5971 [fell]{strong="H5307" x-morph="strongMorph: TH8800"} into_the_hand_H3027 of_the_enemy_H6862, [and none did help]{strong="H5826" x-morph="strongMorph: TH8802"} [her: the adversaries]{strong="H6862"} [saw]{strong="H7200" x-morph="strongMorph: TH8804"} her, and [did mock]{strong="H7832" x-morph="strongMorph: TH8804"} at_her_sabbaths_H4868.^b^ 
+@8 Jerusalem_H3389 hath_grievously_H2399 [sinned]{strong="H2398" x-morph="strongMorph: TH8804"}; therefore_she_is_removed_H5206: [all that honoured]{strong="H3513" x-morph="strongMorph: TH8764"} [her despise]{strong="H2107" x-morph="strongMorph: TH8689"} [her, because they have seen]{strong="H7200" x-morph="strongMorph: TH8804"} her_nakedness_H6172: [yea, she sigheth]{strong="H584" x-morph="strongMorph: TH8738"}, [and turneth]{strong="H7725" x-morph="strongMorph: TH8799"} backward_H268.^c^ 
+@9 Her_filthiness_H2932 is in_her_skirts_H7757; [she remembereth]{strong="H2142" x-morph="strongMorph: TH8804"} not_her_last_end_H319; [therefore she came down]{strong="H3381" x-morph="strongMorph: TH8799"} wonderfully_H6382: [she had no comforter]{strong="H5162" x-morph="strongMorph: TH8764"}. O LORD, [behold]{strong="H7200" x-morph="strongMorph: TH8798"} my_affliction_H6040: [for the enemy]{strong="H341" x-morph="strongMorph: TH8802"} [hath magnified]{strong="H1431" x-morph="strongMorph: TH8689"} himself. 
+@10 The_adversary_H6862 [hath spread out]{strong="H6566" x-morph="strongMorph: TH8804"} his_hand_H3027 upon_all_her_pleasant_things_H4261: [for she hath seen]{strong="H7200" x-morph="strongMorph: TH8804"} that the_heathen_H1471 [entered]{strong="H935" x-morph="strongMorph: TH8804"} into_her_sanctuary_H4720, [whom thou didst command]{strong="H6680" x-morph="strongMorph: TH8765"} that [they should not enter]{strong="H935" x-morph="strongMorph: TH8799"} into_thy_congregation_H6951.^d^ 
+@11 All_her_people_H5971 [sigh]{strong="H584" x-morph="strongMorph: TH8737"}, [they seek]{strong="H1245" x-morph="strongMorph: TH8764"} bread_H3899; [they have given]{strong="H5414" x-morph="strongMorph: TH8804"} [their pleasant things]{strong="H4262 H4261" x-morph="strongMorph: TH8675"} for_meat_H400 [to relieve]{strong="H7725" x-morph="strongMorph: TH8687"} the_soul_H5315: [see]{strong="H7200" x-morph="strongMorph: TH8798"}, O LORD, [and consider]{strong="H5027" x-morph="strongMorph: TH8685"}; [for I am become vile]{strong="H2151" x-morph="strongMorph: TH8802"}.^e^ 
 ^a^[**1:3** because of great…: Heb. for the greatness of servitude] ^b^[**1:7** pleasant: or, desirable] ^c^[**1:8** is…: Heb. is become a removing, or, wandering] ^d^[**1:10** pleasant: or, desirable] ^e^[**1:11** to…: or, to make the soul to come again]
 
-@12 Is it nothing to you, all ye that pass by? behold, and see if there be any sorrow like unto my sorrow, which is done unto me, wherewith the LORD hath afflicted me in the day of his fierce anger.^a^ ^b^ 
-@13 From above hath he sent fire into my bones, and it prevaileth against them: he hath spread a net for my feet, he hath turned me back: he hath made me desolate and faint all the day. 
-@14 The yoke of my transgressions is bound by his hand: they are wreathed, and come up upon my neck: he hath made my strength to fall, the Lord hath delivered me into their hands, from whom I am not able to rise up. 
-@15 The Lord hath trodden under foot all my mighty men in the midst of me: he hath called an assembly against me to crush my young men: the Lord hath trodden the virgin, the daughter of Judah, as in a winepress.^c^ 
-@16 For these things I weep; mine eye, mine eye runneth down with water, because the comforter that should relieve my soul is far from me: my children are desolate, because the enemy prevailed.^d^ 
-@17 Zion spreadeth forth her hands, and there is none to comfort her: the LORD hath commanded concerning Jacob, that his adversaries should be round about him: Jerusalem is as a menstruous woman among them. 
+@12 Is it [nothing to you, all ye that pass]{strong="H5674" x-morph="strongMorph: TH8802"} by_H1870? [behold]{strong="H5027" x-morph="strongMorph: TH8685"}, [and see]{strong="H7200" x-morph="strongMorph: TH8798"} if_there_be_H3426 any_sorrow_H4341 like_unto_my_sorrow_H4341, [which is done]{strong="H5953" x-morph="strongMorph: TH8776"} unto me, wherewith the LORD [hath afflicted]{strong="H3013" x-morph="strongMorph: TH8689"} me in_the_day_H3117 of_his_fierce_H2740 anger_H639.^a^ ^b^ 
+@13 From_above_H4791 [hath he sent]{strong="H7971" x-morph="strongMorph: TH8804"} fire_H784 into_my_bones_H6106, [and it prevaileth]{strong="H7287" x-morph="strongMorph: TH8799"} [against them: he hath spread]{strong="H6566" x-morph="strongMorph: TH8804"} a_net_H7568 for_my_feet_H7272, [he hath turned]{strong="H7725" x-morph="strongMorph: TH8689"} me_back_H268: [he hath made]{strong="H5414" x-morph="strongMorph: TH8804"} [me desolate]{strong="H8074" x-morph="strongMorph: TH8802"} and faint_H1739 all_the_day_H3117. 
+@14 The_yoke_H5923 of_my_transgressions_H6588 [is bound]{strong="H8244" x-morph="strongMorph: TH8738"} by_his_hand_H3027: [they are wreathed]{strong="H8276" x-morph="strongMorph: TH8691"}, and [come up]{strong="H5927" x-morph="strongMorph: TH8804"} upon_my_neck_H6677: he_hath_made_my_strength_H3581 [to fall]{strong="H3782" x-morph="strongMorph: TH8689"}, the_Lord_H136 [hath delivered]{strong="H5414" x-morph="strongMorph: TH8804"} me into their hands_H3027, from whom [I am not able]{strong="H3201" x-morph="strongMorph: TH8799"} [to rise up]{strong="H6965" x-morph="strongMorph: TH8800"}. 
+@15 The_Lord_H136 [hath trodden under foot]{strong="H5541" x-morph="strongMorph: TH8765"} all_my_mighty_H47 men in_the_midst_H7130 [of me: he hath called]{strong="H7121" x-morph="strongMorph: TH8804"} an_assembly_H4150 [against me to crush]{strong="H7665" x-morph="strongMorph: TH8800"} my_young_men_H970: the_Lord_H136 [hath trodden]{strong="H1869" x-morph="strongMorph: TH8804"} the_virgin_H1330, the_daughter_H1323 of_Judah_H3063, as in_a_winepress_H1660.^c^ 
+@16 For these things [I weep]{strong="H1058" x-morph="strongMorph: TH8802"}; mine_eye_H5869, mine_eye_H5869 [runneth down]{strong="H3381" x-morph="strongMorph: TH8802"} with_water_H4325, [because the comforter]{strong="H5162" x-morph="strongMorph: TH8764"} [that should relieve]{strong="H7725" x-morph="strongMorph: TH8688"} my_soul_H5315 [is far]{strong="H7368" x-morph="strongMorph: TH8804"} [from me: my children]{strong="H1121"} [are desolate]{strong="H8074" x-morph="strongMorph: TH8802"}, [because the enemy]{strong="H341" x-morph="strongMorph: TH8802"} [prevailed]{strong="H1396" x-morph="strongMorph: TH8804"}.^d^ 
+@17 Zion_H6726 [spreadeth forth]{strong="H6566" x-morph="strongMorph: TH8765"} her_hands_H3027, and there is [none to comfort]{strong="H5162" x-morph="strongMorph: TH8764"} her: the LORD [hath commanded]{strong="H6680" x-morph="strongMorph: TH8765"} concerning_Jacob_H3290, that his_adversaries_H6862 should be round_about_H5439 [him: Jerusalem]{strong="H3389"} is_as_a_menstruous_woman_H5079 among them. 
 ^a^[**1:12** Is it…: or, It is nothing] ^b^[**1:12** pass by: Heb. pass by the way?] ^c^[**1:15** the virgin…: or, the winepress of the virgin, etc] ^d^[**1:16** relieve: Heb. bring back]
 
-@18 The LORD is righteous; for I have rebelled against his commandment: hear, I pray you, all people, and behold my sorrow: my virgins and my young men are gone into captivity.^a^ 
-@19 I called for my lovers, but they deceived me: my priests and mine elders gave up the ghost in the city, while they sought their meat to relieve their souls. 
-@20 Behold, O LORD; for I am in distress: my bowels are troubled; mine heart is turned within me; for I have grievously rebelled: abroad the sword bereaveth, at home there is as death. 
-@21 They have heard that I sigh: there is none to comfort me: all mine enemies have heard of my trouble; they are glad that thou hast done it: thou wilt bring the day that thou hast called, and they shall be like unto me.^b^ 
-@22 Let all their wickedness come before thee; and do unto them, as thou hast done unto me for all my transgressions: for my sighs are many, and my heart is faint.
+@18 The LORD is_righteous_H6662; [for I have rebelled]{strong="H4784" x-morph="strongMorph: TH8804"} against_his_commandment_H6310: [hear]{strong="H8085" x-morph="strongMorph: TH8798"}, [I pray you, all people]{strong="H5971"}, [and behold]{strong="H7200" x-morph="strongMorph: TH8798"} my_sorrow_H4341: my_virgins_H1330 and_my_young_men_H970 [are gone]{strong="H1980" x-morph="strongMorph: TH8804"} into_captivity_H7628.^a^ 
+@19 [I called]{strong="H7121" x-morph="strongMorph: TH8804"} [for my lovers]{strong="H157" x-morph="strongMorph: TH8764"}, but [they deceived]{strong="H7411" x-morph="strongMorph: TH8765"} [me: my priests]{strong="H3548"} and_mine_elders_H2205 [gave up the ghost]{strong="H1478" x-morph="strongMorph: TH8804"} in_the_city_H5892, [while they sought]{strong="H1245" x-morph="strongMorph: TH8765"} their_meat_H400 [to relieve]{strong="H7725" x-morph="strongMorph: TH8686"} their_souls_H5315. 
+@20 [Behold]{strong="H7200" x-morph="strongMorph: TH8798"}, O LORD; for I am [in distress]{strong="H6887" x-morph="strongMorph: TH8804"}: my_bowels_H4578 [are troubled]{strong="H2560" x-morph="strongMorph: TH8777"}; mine_heart_H3820 [is turned]{strong="H2015" x-morph="strongMorph: TH8738"} within_H7130 [me; for I have grievously]{strong="H4784" x-morph="strongMorph: TH8800"} [rebelled]{strong="H4784" x-morph="strongMorph: TH8804"}: abroad_H2351 the_sword_H2719 [bereaveth]{strong="H7921" x-morph="strongMorph: TH8765"}, at_home_H1004 there is as_death_H4194. 
+@21 [They have heard]{strong="H8085" x-morph="strongMorph: TH8804"} [that I sigh]{strong="H584" x-morph="strongMorph: TH8737"}: there is [none to comfort]{strong="H5162" x-morph="strongMorph: TH8764"} [me: all mine enemies]{strong="H341" x-morph="strongMorph: TH8802"} [have heard]{strong="H8085" x-morph="strongMorph: TH8804"} of_my_trouble_H7451; [they are glad]{strong="H7797" x-morph="strongMorph: TH8804"} [that thou hast done]{strong="H6213" x-morph="strongMorph: TH8804"} it: [thou wilt bring]{strong="H935" x-morph="strongMorph: TH8689"} the_day_H3117 that [thou hast called]{strong="H7121" x-morph="strongMorph: TH8804"}, and_they_shall_be_like_H3644 unto me.^b^ 
+@22 Let_all_their_wickedness_H7451 [come]{strong="H935" x-morph="strongMorph: TH8799"} before_H6440 [thee; and do]{strong="H5953" x-morph="strongMorph: TH8778"} [unto them, as thou hast done]{strong="H5953" x-morph="strongMorph: TH8782"} unto_me_for_all_my_transgressions_H6588: for_my_sighs_H585 are many_H7227, and_my_heart_H3820 is faint_H1742.
 ^a^[**1:18** commandment: Heb. mouth] ^b^[**1:21** called: or, proclaimed] 
 
 # 2 
-@1 How hath the Lord covered the daughter of Zion with a cloud in his anger, and cast down from heaven unto the earth the beauty of Israel, and remembered not his footstool in the day of his anger! 
-@2 The Lord hath swallowed up all the habitations of Jacob, and hath not pitied: he hath thrown down in his wrath the strong holds of the daughter of Judah; he hath brought them down to the ground: he hath polluted the kingdom and the princes thereof.^a^ 
-@3 He hath cut off in his fierce anger all the horn of Israel: he hath drawn back his right hand from before the enemy, and he burned against Jacob like a flaming fire, which devoureth round about. 
-@4 He hath bent his bow like an enemy: he stood with his right hand as an adversary, and slew all that were pleasant to the eye in the tabernacle of the daughter of Zion: he poured out his fury like fire.^b^ 
-@5 The Lord was as an enemy: he hath swallowed up Israel, he hath swallowed up all her palaces: he hath destroyed his strong holds, and hath increased in the daughter of Judah mourning and lamentation. 
-@6 And he hath violently taken away his tabernacle, as if it were of a garden: he hath destroyed his places of the assembly: the LORD hath caused the solemn feasts and sabbaths to be forgotten in Zion, and hath despised in the indignation of his anger the king and the priest.^c^ 
-@7 The Lord hath cast off his altar, he hath abhorred his sanctuary, he hath given up into the hand of the enemy the walls of her palaces; they have made a noise in the house of the LORD, as in the day of a solemn feast.^d^ 
-@8 The LORD hath purposed to destroy the wall of the daughter of Zion: he hath stretched out a line, he hath not withdrawn his hand from destroying: therefore he made the rampart and the wall to lament; they languished together.^e^ 
-@9 Her gates are sunk into the ground; he hath destroyed and broken her bars: her king and her princes are among the Gentiles: the law is no more; her prophets also find no vision from the LORD. 
+@1 How_hath_the_Lord_H136 covered_H5743 the_daughter_H1323 of_Zion_H6726 [with a cloud]{strong="H5743" x-morph="strongMorph: TH8686"} in_his_anger_H639, and [cast down]{strong="H7993" x-morph="strongMorph: TH8689"} from_heaven_H8064 unto_the_earth_H776 the_beauty_H8597 of_Israel_H3478, [and remembered]{strong="H2142" x-morph="strongMorph: TH8804"} [not his footstool]{strong="H7272 H1916"} in_the_day_H3117 of_his_anger_H639! 
+@2 The_Lord_H136 [hath swallowed up]{strong="H1104" x-morph="strongMorph: TH8765"} all_the_habitations_H4999 of_Jacob_H3290, [and hath not pitied]{strong="H2550" x-morph="strongMorph: TH8804"}: [he hath thrown down]{strong="H2040" x-morph="strongMorph: TH8804"} in_his_wrath_H5678 the_strong_holds_H4013 of_the_daughter_H1323 of_Judah_H3063; he hath brought them [down]{strong="H5060" x-morph="strongMorph: TH8689"} to_the_ground_H776: [he hath polluted]{strong="H2490" x-morph="strongMorph: TH8765"} the_kingdom_H4467 and_the_princes_H8269 thereof.^a^ 
+@3 [He hath cut off]{strong="H1438" x-morph="strongMorph: TH8804"} in his fierce_H2750 anger_H639 all_the_horn_H7161 of_Israel_H3478: [he hath drawn]{strong="H7725" x-morph="strongMorph: TH8689"} back_H268 his_right_hand_H3225 from_before_H6440 [the enemy]{strong="H341" x-morph="strongMorph: TH8802"}, [and he burned]{strong="H1197" x-morph="strongMorph: TH8799"} against_Jacob_H3290 like_a_flaming_H3852 fire_H784, which [devoureth]{strong="H398" x-morph="strongMorph: TH8804"} round_about_H5439. 
+@4 [He hath bent]{strong="H1869" x-morph="strongMorph: TH8804"} his_bow_H7198 [like an enemy]{strong="H341" x-morph="strongMorph: TH8802"}: [he stood]{strong="H5324" x-morph="strongMorph: TH8737"} with_his_right_hand_H3225 as_an_adversary_H6862, [and slew]{strong="H2026" x-morph="strongMorph: TH8799"} all that were pleasant_H4261 to_the_eye_H5869 in_the_tabernacle_H168 of_the_daughter_H1323 of_Zion_H6726: [he poured out]{strong="H8210" x-morph="strongMorph: TH8804"} his_fury_H2534 like_fire_H784.^b^ 
+@5 The_Lord_H136 [was as an enemy]{strong="H341" x-morph="strongMorph: TH8802"}: [he hath swallowed up]{strong="H1104" x-morph="strongMorph: TH8765"} Israel_H3478, [he hath swallowed up]{strong="H1104" x-morph="strongMorph: TH8765"} all_her_palaces_H759: [he hath destroyed]{strong="H7843" x-morph="strongMorph: TH8765"} his_strong_holds_H4013, [and hath increased]{strong="H7235" x-morph="strongMorph: TH8686"} in_the_daughter_H1323 of_Judah_H3063 mourning_H8386 and_lamentation_H592. 
+@6 [And he hath violently taken away]{strong="H2554" x-morph="strongMorph: TH8799"} his_tabernacle_H7900, as if it were of a_garden_H1588: [he hath destroyed]{strong="H7843" x-morph="strongMorph: TH8765"} his_places_of_the_assembly_H4150: the LORD hath_caused_the_solemn_feasts_H4150 and_sabbaths_H7676 [to be forgotten]{strong="H7911" x-morph="strongMorph: TH8765"} in_Zion_H6726, [and hath despised]{strong="H5006" x-morph="strongMorph: TH8799"} in_the_indignation_H2195 of_his_anger_H639 the_king_H4428 and_the_priest_H3548.^c^ 
+@7 The_Lord_H136 [hath cast off]{strong="H2186" x-morph="strongMorph: TH8804"} his_altar_H4196, [he hath abhorred]{strong="H5010" x-morph="strongMorph: TH8765"} his_sanctuary_H4720, [he hath given up]{strong="H5462" x-morph="strongMorph: TH8689"} into_the_hand_H3027 [of the enemy]{strong="H341" x-morph="strongMorph: TH8802"} the_walls_H2346 of_her_palaces_H759; [they have made]{strong="H5414" x-morph="strongMorph: TH8804"} a_noise_H6963 in_the_house_H1004 of the LORD, as_in_the_day_H3117 of_a_solemn_feast_H4150.^d^ 
+@8 The LORD [hath purposed]{strong="H2803" x-morph="strongMorph: TH8804"} [to destroy]{strong="H7843" x-morph="strongMorph: TH8687"} the_wall_H2346 of_the_daughter_H1323 of_Zion_H6726: [he hath stretched out]{strong="H5186" x-morph="strongMorph: TH8804"} a_line_H6957, [he hath not withdrawn]{strong="H7725" x-morph="strongMorph: TH8689"} his_hand_H3027 [from destroying]{strong="H1104" x-morph="strongMorph: TH8763"}: therefore_he_made_the_rampart_H2426 and_the_wall_H2346 [to lament]{strong="H56" x-morph="strongMorph: TH8686"}; [they languished]{strong="H535" x-morph="strongMorph: TH8797"} together_H3162.^e^ 
+@9 Her_gates_H8179 [are sunk]{strong="H2883" x-morph="strongMorph: TH8804"} into_the_ground_H776; [he hath destroyed]{strong="H6" x-morph="strongMorph: TH8765"} [and broken]{strong="H7665" x-morph="strongMorph: TH8765"} her_bars_H1280: her_king_H4428 and_her_princes_H8269 are among_the_Gentiles_H1471: the_law_H8451 is no more; her_prophets_H5030 [also find]{strong="H4672" x-morph="strongMorph: TH8804"} no_vision_H2377 from the LORD. 
 ^a^[**2:2** brought…: Heb. made to touch] ^b^[**2:4** all…: Heb. all the desirable of the eye] ^c^[**2:6** tabernacle: or, hedge] ^d^[**2:7** given up: Heb. shut up] ^e^[**2:8** destroying: Heb. swallowing up]
 
-@10 The elders of the daughter of Zion sit upon the ground, and keep silence: they have cast up dust upon their heads; they have girded themselves with sackcloth: the virgins of Jerusalem hang down their heads to the ground. 
-@11 Mine eyes do fail with tears, my bowels are troubled, my liver is poured upon the earth, for the destruction of the daughter of my people; because the children and the sucklings swoon in the streets of the city.^a^ 
-@12 They say to their mothers, Where is corn and wine? when they swooned as the wounded in the streets of the city, when their soul was poured out into their mothers’ bosom. 
-@13 What thing shall I take to witness for thee? what thing shall I liken to thee, O daughter of Jerusalem? what shall I equal to thee, that I may comfort thee, O virgin daughter of Zion? for thy breach is great like the sea: who can heal thee? 
-@14 Thy prophets have seen vain and foolish things for thee: and they have not discovered thine iniquity, to turn away thy captivity; but have seen for thee false burdens and causes of banishment. 
-@15 All that pass by clap their hands at thee; they hiss and wag their head at the daughter of Jerusalem, saying, Is this the city that men call The perfection of beauty, The joy of the whole earth?^b^ 
-@16 All thine enemies have opened their mouth against thee: they hiss and gnash the teeth: they say, We have swallowed her up: certainly this is the day that we looked for; we have found, we have seen it. 
-@17 The LORD hath done that which he had devised; he hath fulfilled his word that he had commanded in the days of old: he hath thrown down, and hath not pitied: and he hath caused thine enemy to rejoice over thee, he hath set up the horn of thine adversaries. 
-@18 Their heart cried unto the Lord, O wall of the daughter of Zion, let tears run down like a river day and night: give thyself no rest; let not the apple of thine eye cease. 
-@19 Arise, cry out in the night: in the beginning of the watches pour out thine heart like water before the face of the Lord: lift up thy hands toward him for the life of thy young children, that faint for hunger in the top of every street. 
+@10 The_elders_H2205 of_the_daughter_H1323 of_Zion_H6726 [sit]{strong="H3427" x-morph="strongMorph: TH8799"} upon_the_ground_H776, and [keep silence]{strong="H1826" x-morph="strongMorph: TH8799"}: [they have cast up]{strong="H5927" x-morph="strongMorph: TH8689"} dust_H6083 upon_their_heads_H7218; [they have girded]{strong="H2296" x-morph="strongMorph: TH8804"} themselves_with_sackcloth_H8242: the_virgins_H1330 of_Jerusalem_H3389 [hang down]{strong="H3381" x-morph="strongMorph: TH8689"} their_heads_H7218 to_the_ground_H776. 
+@11 Mine_eyes_H5869 [do fail]{strong="H3615" x-morph="strongMorph: TH8804"} with_tears_H1832, my_bowels_H4578 [are troubled]{strong="H2560" x-morph="strongMorph: TH8777"}, my_liver_H3516 [is poured]{strong="H8210" x-morph="strongMorph: TH8738"} upon_the_earth_H776, for_the_destruction_H7667 of_the_daughter_H1323 of_my_people_H5971; because_the_children_H5768 [and the sucklings]{strong="H3243" x-morph="strongMorph: TH8802"} [swoon]{strong="H5848" x-morph="strongMorph: TH8736"} in_the_streets_H7339 of_the_city_H7151.^a^ 
+@12 [They say]{strong="H559" x-morph="strongMorph: TH8799"} to_their_mothers_H517, Where is corn_H1715 and_wine_H3196? [when they swooned]{strong="H5848" x-morph="strongMorph: TH8692"} as_the_wounded_H2491 in_the_streets_H7339 of_the_city_H5892, when_their_soul_H5315 [was poured out]{strong="H8210" x-morph="strongMorph: TH8692"} [into their mothers’]{strong="H517"} bosom_H2436. 
+@13 [What thing shall I take to witness]{strong="H5749 H5749" x-morph="strongMorph: TH8799 strongMorph: TH8675 strongMorph: TH8686"} [for thee? what thing]{strong="H4100"} [shall I liken]{strong="H1819" x-morph="strongMorph: TH8762"} [to thee, O daughter]{strong="H1323"} of_Jerusalem_H3389? [what shall I equal]{strong="H7737" x-morph="strongMorph: TH8686"} [to thee, that I may comfort]{strong="H5162" x-morph="strongMorph: TH8762"} [thee, O virgin]{strong="H1330"} daughter_H1323 of_Zion_H6726? for_thy_breach_H7667 is great_H1419 like_the_sea_H3220: [who can heal]{strong="H7495" x-morph="strongMorph: TH8799"} thee? 
+@14 Thy_prophets_H5030 [have seen]{strong="H2372" x-morph="strongMorph: TH8804"} vain_H7723 and_foolish_things_H8602 [for thee: and they have not discovered]{strong="H1540" x-morph="strongMorph: TH8765"} thine_iniquity_H5771, [to turn away]{strong="H7725" x-morph="strongMorph: TH8687"} [thy captivity]{strong="H7622 H7622" x-morph="strongMorph: TH8675"}; [but have seen]{strong="H2372" x-morph="strongMorph: TH8799"} for_thee_false_H7723 burdens_H4864 and_causes_of_banishment_H4065. 
+@15 [All that pass]{strong="H5674" x-morph="strongMorph: TH8802"} [by clap]{strong="H5606" x-morph="strongMorph: TH8804"} their hands_H3709 at_thee_H1870; [they hiss]{strong="H8319" x-morph="strongMorph: TH8804"} [and wag]{strong="H5128" x-morph="strongMorph: TH8686"} their_head_H7218 at_the_daughter_H1323 of_Jerusalem_H3389, saying, Is this_the_city_H5892 that men [call]{strong="H559" x-morph="strongMorph: TH8799"} The_perfection_H3632 of_beauty_H3308, The_joy_H4885 of_the_whole_earth_H776?^b^ 
+@16 [All thine enemies]{strong="H341" x-morph="strongMorph: TH8802"} [have opened]{strong="H6475" x-morph="strongMorph: TH8804"} their_mouth_H6310 [against thee: they hiss]{strong="H8319" x-morph="strongMorph: TH8804"} [and gnash]{strong="H2786" x-morph="strongMorph: TH8799"} the_teeth_H8127: [they say]{strong="H559" x-morph="strongMorph: TH8804"}, We have swallowed her [up]{strong="H1104" x-morph="strongMorph: TH8765"}: certainly_H389 this is the_day_H3117 [that we looked for]{strong="H6960" x-morph="strongMorph: TH8765"}; [we have found]{strong="H4672" x-morph="strongMorph: TH8804"}, [we have seen]{strong="H7200" x-morph="strongMorph: TH8804"} it. 
+@17 The LORD [hath done]{strong="H6213" x-morph="strongMorph: TH8804"} that [which he had devised]{strong="H2161" x-morph="strongMorph: TH8804"}; [he hath fulfilled]{strong="H1214" x-morph="strongMorph: TH8765"} his_word_H565 [that he had commanded]{strong="H6680" x-morph="strongMorph: TH8765"} in_the_days_H3117 of_old_H6924: [he hath thrown down]{strong="H2040" x-morph="strongMorph: TH8804"}, [and hath not pitied]{strong="H2550" x-morph="strongMorph: TH8804"}: and he hath caused thine [enemy]{strong="H341" x-morph="strongMorph: TH8802"} [to rejoice]{strong="H8055" x-morph="strongMorph: TH8762"} [over thee, he hath set up]{strong="H7311" x-morph="strongMorph: TH8689"} the_horn_H7161 of_thine_adversaries_H6862. 
+@18 Their_heart_H3820 [cried]{strong="H6817" x-morph="strongMorph: TH8804"} unto_the_Lord_H136, O_wall_H2346 of_the_daughter_H1323 of_Zion_H6726, let_tears_H1832 [run down]{strong="H3381" x-morph="strongMorph: TH8685"} like_a_river_H5158 day_H3119 and_night_H3915: [give]{strong="H5414" x-morph="strongMorph: TH8799"} thyself_no_rest_H6314; let_not_the_apple_H1323 of_thine_eye_H5869 [cease]{strong="H1826" x-morph="strongMorph: TH8799"}. 
+@19 [Arise]{strong="H6965" x-morph="strongMorph: TH8798"}, [cry out]{strong="H7442" x-morph="strongMorph: TH8798"} in_the_night_H3915: in_the_beginning_H7218 of_the_watches_H821 [pour out]{strong="H8210" x-morph="strongMorph: TH8798"} thine_heart_H3820 like_water_H4325 before_H5227 the_face_H6440 of_the_Lord_H136: [lift up]{strong="H5375" x-morph="strongMorph: TH8798"} thy_hands_H3709 toward_him_for_the_life_H5315 of_thy_young_children_H5768, [that faint]{strong="H5848" x-morph="strongMorph: TH8803"} for_hunger_H7458 in_the_top_H7218 of_every_street_H2351. 
 ^a^[**2:11** swoon: or, faint] ^b^[**2:15** by: Heb. by the way]
 
-@20 Behold, O LORD, and consider to whom thou hast done this. Shall the women eat their fruit, and children of a span long? shall the priest and the prophet be slain in the sanctuary of the Lord?^a^ 
-@21 The young and the old lie on the ground in the streets: my virgins and my young men are fallen by the sword; thou hast slain them in the day of thine anger; thou hast killed, and not pitied. 
-@22 Thou hast called as in a solemn day my terrors round about, so that in the day of the LORD’S anger none escaped nor remained: those that I have swaddled and brought up hath mine enemy consumed.
+@20 [Behold]{strong="H7200" x-morph="strongMorph: TH8798"}, O LORD, [and consider]{strong="H5027" x-morph="strongMorph: TH8685"} [to whom thou hast done]{strong="H5953" x-morph="strongMorph: TH8782"} this_H3541. Shall_the_women_H802 [eat]{strong="H398" x-morph="strongMorph: TH8799"} their_fruit_H6529, and children_H5768 of_a_span_long_H2949? shall_the_priest_H3548 and_the_prophet_H5030 [be slain]{strong="H2026" x-morph="strongMorph: TH8735"} in_the_sanctuary_H4720 of_the_Lord_H136?^a^ 
+@21 The_young_H5288 and_the_old_H2205 [lie]{strong="H7901" x-morph="strongMorph: TH8804"} on_the_ground_H776 in_the_streets_H2351: my_virgins_H1330 and_my_young_men_H970 [are fallen]{strong="H5307" x-morph="strongMorph: TH8804"} by_the_sword_H2719; [thou hast slain]{strong="H2026" x-morph="strongMorph: TH8804"} them in_the_day_H3117 of_thine_anger_H639; [thou hast killed]{strong="H2873" x-morph="strongMorph: TH8804"}, and [not pitied]{strong="H2550" x-morph="strongMorph: TH8804"}. 
+@22 [Thou hast called]{strong="H7121" x-morph="strongMorph: TH8799"} as_in_a_solemn_H4150 day_H3117 my_terrors_H4032 round_about_H5439, so_that_in_the_day_H3117 of the LORD’S anger_H639 none_escaped_H6412 nor_remained_H8300: [those that I have swaddled]{strong="H2946" x-morph="strongMorph: TH8765"} [and brought up]{strong="H7235" x-morph="strongMorph: TH8765"} [hath mine enemy]{strong="H341" x-morph="strongMorph: TH8802"} [consumed]{strong="H3615" x-morph="strongMorph: TH8765"}.
 ^a^[**2:20** of a span…: or, swaddled with their hands?] 
 
 # 3 
-@1 I am the man that hath seen affliction by the rod of his wrath. 
-@2 He hath led me, and brought me into darkness, but not into light. 
-@3 Surely against me is he turned; he turneth his hand against me all the day. 
-@4 My flesh and my skin hath he made old; he hath broken my bones. 
-@5 He hath builded against me, and compassed me with gall and travail. 
-@6 He hath set me in dark places, as they that be dead of old. 
-@7 He hath hedged me about, that I cannot get out: he hath made my chain heavy. 
-@8 Also when I cry and shout, he shutteth out my prayer. 
-@9 He hath inclosed my ways with hewn stone, he hath made my paths crooked. 
-@10 He was unto me as a bear lying in wait, and as a lion in secret places. 
-@11 He hath turned aside my ways, and pulled me in pieces: he hath made me desolate. 
-@12 He hath bent his bow, and set me as a mark for the arrow. 
-@13 He hath caused the arrows of his quiver to enter into my reins.^a^ 
-@14 I was a derision to all my people; and their song all the day. 
-@15 He hath filled me with bitterness, he hath made me drunken with wormwood.^b^ 
-@16 He hath also broken my teeth with gravel stones, he hath covered me with ashes.^c^ 
-@17 And thou hast removed my soul far off from peace: I forgat prosperity.^d^ 
-@18 And I said, My strength and my hope is perished from the LORD: 
-@19 Remembering mine affliction and my misery, the wormwood and the gall.^e^ 
-@20 My soul hath them still in remembrance, and is humbled in me.^f^ 
+@1 I am the_man_H1397 that [hath seen]{strong="H7200" x-morph="strongMorph: TH8804"} affliction_H6040 by_the_rod_H7626 of_his_wrath_H5678. 
+@2 [He hath led]{strong="H5090" x-morph="strongMorph: TH8804"} [me, and brought]{strong="H3212" x-morph="strongMorph: TH8686"} me into darkness_H2822, but not into light_H216. 
+@3 [Surely against me is he turned]{strong="H7725" x-morph="strongMorph: TH8799"}; [he turneth]{strong="H2015" x-morph="strongMorph: TH8799"} his_hand_H3027 against me all_the_day_H3117. 
+@4 My_flesh_H1320 and_my_skin_H5785 [hath he made old]{strong="H1086" x-morph="strongMorph: TH8765"}; [he hath broken]{strong="H7665" x-morph="strongMorph: TH8765"} my_bones_H6106. 
+@5 [He hath builded against]{strong="H1129" x-morph="strongMorph: TH8804"} [me, and compassed]{strong="H5362" x-morph="strongMorph: TH8686"} me with_gall_H7219 and_travail_H8513. 
+@6 [He hath set]{strong="H3427" x-morph="strongMorph: TH8689"} me_in_dark_places_H4285, as they that be [dead]{strong="H4191" x-morph="strongMorph: TH8801"} of_old_H5769. 
+@7 [He hath hedged]{strong="H1443" x-morph="strongMorph: TH8804"} [me about, that I cannot get out]{strong="H3318" x-morph="strongMorph: TH8799"}: he_hath_made_my_chain_H5178 [heavy]{strong="H3513" x-morph="strongMorph: TH8689"}. 
+@8 [Also when I cry]{strong="H2199" x-morph="strongMorph: TH8799"} [and shout]{strong="H7768" x-morph="strongMorph: TH8762"}, [he shutteth out]{strong="H5640" x-morph="strongMorph: TH8804"} my_prayer_H8605. 
+@9 [He hath inclosed]{strong="H1443" x-morph="strongMorph: TH8804"} my_ways_H1870 with_hewn_stone_H1496, he_hath_made_my_paths_H5410 [crooked]{strong="H5753" x-morph="strongMorph: TH8765"}. 
+@10 He was unto me as a_bear_H1677 [lying in wait]{strong="H693" x-morph="strongMorph: TH8802"}, and as a_lion_H738 in_secret_places_H4565. 
+@11 [He hath turned aside]{strong="H5493" x-morph="strongMorph: TH8790"} my_ways_H1870, [and pulled me in pieces]{strong="H6582" x-morph="strongMorph: TH8762"}: [he hath made]{strong="H7760" x-morph="strongMorph: TH8804"} [me desolate]{strong="H8074" x-morph="strongMorph: TH8802"}. 
+@12 [He hath bent]{strong="H1869" x-morph="strongMorph: TH8804"} his_bow_H7198, [and set]{strong="H5324" x-morph="strongMorph: TH8686"} me_as_a_mark_H4307 for_the_arrow_H2671. 
+@13 He_hath_caused_the_arrows_H1121 of_his_quiver_H827 [to enter]{strong="H935" x-morph="strongMorph: TH8689"} into_my_reins_H3629.^a^ 
+@14 I_was_a_derision_H7814 to_all_my_people_H5971; and their_song_H5058 all_the_day_H3117. 
+@15 [He hath filled]{strong="H7646" x-morph="strongMorph: TH8689"} me_with_bitterness_H4844, [he hath made me drunken]{strong="H7301" x-morph="strongMorph: TH8689"} with_wormwood_H3939.^b^ 
+@16 [He hath also broken]{strong="H1638" x-morph="strongMorph: TH8686"} my_teeth_H8127 with_gravel_stones_H2687, [he hath covered]{strong="H3728" x-morph="strongMorph: TH8689"} me_with_ashes_H665.^c^ 
+@17 And_thou_hast_removed_H2186 my_soul_H5315 [far off]{strong="H2186" x-morph="strongMorph: TH8799"} from_peace_H7965: [I forgat]{strong="H5382" x-morph="strongMorph: TH8804"} prosperity_H2896.^d^ 
+@18 [And I said]{strong="H559" x-morph="strongMorph: TH8799"}, My_strength_H5331 and_my_hope_H8431 [is perished]{strong="H6" x-morph="strongMorph: TH8804"} from the LORD: 
+@19 [Remembering]{strong="H2142" x-morph="strongMorph: TH8798"} mine_affliction_H6040 and_my_misery_H4788, the_wormwood_H3939 and_the_gall_H7219.^e^ 
+@20 My_soul_H5315 hath them [still]{strong="H2142" x-morph="strongMorph: TH8800"} [in remembrance]{strong="H2142" x-morph="strongMorph: TH8799"}, [and is humbled]{strong="H7743" x-morph="strongMorph: TH8686"} in me.^f^ 
 ^a^[**3:13** arrows: Heb. sons] ^b^[**3:15** bitterness: Heb. bitternesses] ^c^[**3:16** covered…: or, rolled me in the ashes] ^d^[**3:17** prosperity: Heb. good] ^e^[**3:19** Remembering: or, Remember] ^f^[**3:20** humbled: Heb. bowed]
 
-@21 This I recall to my mind, therefore have I hope.^a^ 
+@21 [This I recall]{strong="H7725" x-morph="strongMorph: TH8686"} to_my_mind_H3820, [therefore have I hope]{strong="H3176" x-morph="strongMorph: TH8686"}.^a^ 
 ^a^[**3:21** recall…: Heb. make to return to my heart]
 
-@22 It is of the LORD’S mercies that we are not consumed, because his compassions fail not. 
-@23 They are new every morning: great is thy faithfulness. 
-@24 The LORD is my portion, saith my soul; therefore will I hope in him. 
-@25 The LORD is good unto them that wait for him, to the soul that seeketh him. 
-@26 It is good that a man should both hope and quietly wait for the salvation of the LORD. 
-@27 It is good for a man that he bear the yoke in his youth. 
-@28 He sitteth alone and keepeth silence, because he hath borne it upon him. 
-@29 He putteth his mouth in the dust; if so be there may be hope. 
-@30 He giveth his cheek to him that smiteth him: he is filled full with reproach. 
-@31 For the Lord will not cast off for ever: 
-@32 But though he cause grief, yet will he have compassion according to the multitude of his mercies. 
-@33 For he doth not afflict willingly nor grieve the children of men.^a^ 
-@34 To crush under his feet all the prisoners of the earth, 
-@35 To turn aside the right of a man before the face of the most High,^b^ 
-@36 To subvert a man in his cause, the Lord approveth not.^c^ 
+@22 It is of the LORD’S mercies_H2617 [that we are not consumed]{strong="H8552" x-morph="strongMorph: TH8804"}, because_his_compassions_H7356 [fail]{strong="H3615" x-morph="strongMorph: TH8804"} not. 
+@23 They are new_H2319 every_morning_H1242: great_H7227 is thy_faithfulness_H530. 
+@24 The LORD is my_portion_H2506, [saith]{strong="H559" x-morph="strongMorph: TH8804"} my_soul_H5315; [therefore will I hope]{strong="H3176" x-morph="strongMorph: TH8686"} in him. 
+@25 The LORD is good_H2896 [unto them that wait]{strong="H6960" x-morph="strongMorph: TH8802"} [for him, to the soul]{strong="H5315"} that [seeketh]{strong="H1875" x-morph="strongMorph: TH8799"} him. 
+@26 It is good_H2896 that a man [should both hope]{strong="H2342 H3175" x-morph="strongMorph: TH8799 strongMorph: TH8675"} and_quietly_wait_H1748 for_the_salvation_H8668 of the LORD. 
+@27 It is good_H2896 for_a_man_H1397 [that he bear]{strong="H5375" x-morph="strongMorph: TH8799"} the_yoke_H5923 in_his_youth_H5271. 
+@28 [He sitteth]{strong="H3427" x-morph="strongMorph: TH8799"} alone_H910 [and keepeth silence]{strong="H1826" x-morph="strongMorph: TH8799"}, [because he hath borne]{strong="H5190" x-morph="strongMorph: TH8804"} it upon him. 
+@29 [He putteth]{strong="H5414" x-morph="strongMorph: TH8799"} his_mouth_H6310 in_the_dust_H6083; if_so_be_there_may_be_H3426 hope_H8615. 
+@30 [He giveth]{strong="H5414" x-morph="strongMorph: TH8799"} his cheek_H3895 [to him that smiteth]{strong="H5221" x-morph="strongMorph: TH8688"} [him: he is filled full]{strong="H7646" x-morph="strongMorph: TH8799"} with_reproach_H2781. 
+@31 For_the_Lord_H136 [will not cast off]{strong="H2186" x-morph="strongMorph: TH8799"} for_ever_H5769: 
+@32 [But though he cause grief]{strong="H3013" x-morph="strongMorph: TH8689"}, [yet will he have compassion]{strong="H7355" x-morph="strongMorph: TH8765"} according_to_the_multitude_H7230 of_his_mercies_H2617. 
+@33 [For he doth not afflict]{strong="H6031" x-morph="strongMorph: TH8765"} willingly_H3820 [nor grieve]{strong="H3013" x-morph="strongMorph: TH8762"} the_children_H1121 of_men_H376.^a^ 
+@34 [To crush]{strong="H1792" x-morph="strongMorph: TH8763"} under_his_feet_H7272 all_the_prisoners_H615 of_the_earth_H776, 
+@35 [To turn aside]{strong="H5186" x-morph="strongMorph: TH8687"} the_right_H4941 of_a_man_H1397 before_the_face_H6440 of_the_most_High_H5945,^b^ 
+@36 [To subvert]{strong="H5791" x-morph="strongMorph: TH8763"} a_man_H120 in_his_cause_H7379, the_Lord_H136 [approveth]{strong="H7200" x-morph="strongMorph: TH8804"} not.^c^ 
 ^a^[**3:33** willingly: Heb. from his heart] ^b^[**3:35** the most High: or, a superior] ^c^[**3:36** approveth not: or, seeth not]
 
-@37 Who is he that saith, and it cometh to pass, when the Lord commandeth it not? 
-@38 Out of the mouth of the most High proceedeth not evil and good? 
-@39 Wherefore doth a living man complain, a man for the punishment of his sins?^a^ 
-@40 Let us search and try our ways, and turn again to the LORD. 
-@41 Let us lift up our heart with our hands unto God in the heavens. 
+@37 Who is he that [saith]{strong="H559" x-morph="strongMorph: TH8804"}, and it cometh to pass, when the_Lord_H136 [commandeth]{strong="H6680" x-morph="strongMorph: TH8765"} it not? 
+@38 Out_of_the_mouth_H6310 of_the_most_High_H5945 [proceedeth]{strong="H3318" x-morph="strongMorph: TH8799"} not_evil_H7451 and_good_H2896? 
+@39 Wherefore_doth_a_living_H2416 man_H120 [complain]{strong="H596" x-morph="strongMorph: TH8691"}, a_man_H1397 for_the_punishment_of_his_sins_H2399?^a^ 
+@40 [Let us search]{strong="H2664" x-morph="strongMorph: TH8799"} [and try]{strong="H2713" x-morph="strongMorph: TH8799"} our_ways_H1870, [and turn again]{strong="H7725" x-morph="strongMorph: TH8799"} to the LORD. 
+@41 [Let us lift up]{strong="H5375" x-morph="strongMorph: TH8799"} our_heart_H3824 with our hands_H3709 unto_God_H410 in_the_heavens_H8064. 
 ^a^[**3:39** complain: or, murmur]
 
-@42 We have transgressed and have rebelled: thou hast not pardoned. 
-@43 Thou hast covered with anger, and persecuted us: thou hast slain, thou hast not pitied. 
-@44 Thou hast covered thyself with a cloud, that our prayer should not pass through. 
-@45 Thou hast made us as the offscouring and refuse in the midst of the people. 
-@46 All our enemies have opened their mouths against us. 
-@47 Fear and a snare is come upon us, desolation and destruction. 
-@48 Mine eye runneth down with rivers of water for the destruction of the daughter of my people. 
-@49 Mine eye trickleth down, and ceaseth not, without any intermission, 
-@50 Till the LORD look down, and behold from heaven. 
-@51 Mine eye affecteth mine heart because of all the daughters of my city.^a^ ^b^ 
-@52 Mine enemies chased me sore, like a bird, without cause. 
-@53 They have cut off my life in the dungeon, and cast a stone upon me. 
-@54 Waters flowed over mine head; then I said, I am cut off. 
+@42 We_H5168 [have transgressed]{strong="H6586" x-morph="strongMorph: TH8804"} [and have rebelled]{strong="H4784" x-morph="strongMorph: TH8804"}: [thou hast not pardoned]{strong="H5545" x-morph="strongMorph: TH8804"}. 
+@43 [Thou hast covered]{strong="H5526" x-morph="strongMorph: TH8804"} with_anger_H639, [and persecuted]{strong="H7291" x-morph="strongMorph: TH8799"} [us: thou hast slain]{strong="H2026" x-morph="strongMorph: TH8804"}, [thou hast not pitied]{strong="H2550" x-morph="strongMorph: TH8804"}. 
+@44 [Thou hast covered]{strong="H5526" x-morph="strongMorph: TH8804"} thyself_with_a_cloud_H6051, that our prayer_H8605 [should not pass through]{strong="H5674" x-morph="strongMorph: TH8800"}. 
+@45 [Thou hast made]{strong="H7760" x-morph="strongMorph: TH8799"} us as the_offscouring_H5501 and_refuse_H3973 in_the_midst_H7130 of_the_people_H5971. 
+@46 [All our enemies]{strong="H341" x-morph="strongMorph: TH8802"} [have opened]{strong="H6475" x-morph="strongMorph: TH8804"} their_mouths_H6310 against us. 
+@47 Fear_H6343 and_a_snare_H6354 [is come upon us, desolation]{strong="H7612"} and_destruction_H7667. 
+@48 Mine_eye_H5869 [runneth down]{strong="H3381" x-morph="strongMorph: TH8799"} with_rivers_H6388 of_water_H4325 for_the_destruction_H7667 of_the_daughter_H1323 of_my_people_H5971. 
+@49 Mine_eye_H5869 [trickleth down]{strong="H5064" x-morph="strongMorph: TH8738"}, [and ceaseth]{strong="H1820" x-morph="strongMorph: TH8799"} [not, without any intermission]{strong="H2014"}, 
+@50 Till the LORD [look down]{strong="H8259" x-morph="strongMorph: TH8686"}, [and behold]{strong="H7200" x-morph="strongMorph: TH8799"} from_heaven_H8064. 
+@51 Mine_eye_H5869 [affecteth]{strong="H5953" x-morph="strongMorph: TH8782"} mine_heart_H5315 because_of_all_the_daughters_H1323 of_my_city_H5892.^a^ ^b^ 
+@52 [Mine enemies]{strong="H341" x-morph="strongMorph: TH8802"} [chased]{strong="H6679" x-morph="strongMorph: TH8804"} [me sore]{strong="H6679" x-morph="strongMorph: TH8800"}, like_a_bird_H6833, without_cause_H2600. 
+@53 [They have cut off]{strong="H6789" x-morph="strongMorph: TH8804"} my_life_H2416 in_the_dungeon_H953, [and cast]{strong="H3034" x-morph="strongMorph: TH8762"} a_stone_H68 upon me. 
+@54 Waters_H4325 [flowed over]{strong="H6687" x-morph="strongMorph: TH8804"} mine_head_H7218; then [I said]{strong="H559" x-morph="strongMorph: TH8804"}, [I am cut off]{strong="H1504" x-morph="strongMorph: TH8738"}. 
 ^a^[**3:51** mine heart: Heb. my soul] ^b^[**3:51** because…: or, more than all]
 
-@55 I called upon thy name, O LORD, out of the low dungeon. 
-@56 Thou hast heard my voice: hide not thine ear at my breathing, at my cry. 
-@57 Thou drewest near in the day that I called upon thee: thou saidst, Fear not. 
-@58 O Lord, thou hast pleaded the causes of my soul; thou hast redeemed my life. 
-@59 O LORD, thou hast seen my wrong: judge thou my cause. 
-@60 Thou hast seen all their vengeance and all their imaginations against me. 
-@61 Thou hast heard their reproach, O LORD, and all their imaginations against me; 
-@62 The lips of those that rose up against me, and their device against me all the day. 
-@63 Behold their sitting down, and their rising up; I am their musick. 
+@55 [I called]{strong="H7121" x-morph="strongMorph: TH8804"} upon_thy_name_H8034, O LORD, out_of_the_low_H8482 dungeon_H953. 
+@56 [Thou hast heard]{strong="H8085" x-morph="strongMorph: TH8804"} my_voice_H6963: [hide]{strong="H5956" x-morph="strongMorph: TH8686"} not_thine_ear_H241 at_my_breathing_H7309, at_my_cry_H7775. 
+@57 [Thou drewest near]{strong="H7126" x-morph="strongMorph: TH8804"} in_the_day_H3117 that [I called]{strong="H7121" x-morph="strongMorph: TH8799"} [upon thee: thou saidst]{strong="H559" x-morph="strongMorph: TH8804"}, [Fear]{strong="H3372" x-morph="strongMorph: TH8799"} not. 
+@58 O_Lord_H136, [thou hast pleaded]{strong="H7378" x-morph="strongMorph: TH8804"} the_causes_H7379 of_my_soul_H5315; [thou hast redeemed]{strong="H1350" x-morph="strongMorph: TH8804"} my_life_H2416. 
+@59 O LORD, [thou hast seen]{strong="H7200" x-morph="strongMorph: TH8804"} my_wrong_H5792: [judge]{strong="H8199" x-morph="strongMorph: TH8798"} thou_my_cause_H4941. 
+@60 [Thou hast seen]{strong="H7200" x-morph="strongMorph: TH8804"} all_their_vengeance_H5360 and all_their_imaginations_H4284 against me. 
+@61 [Thou hast heard]{strong="H8085" x-morph="strongMorph: TH8804"} their_reproach_H2781, O LORD, and all_their_imaginations_H4284 against me; 
+@62 The_lips_H8193 [of those that rose up]{strong="H6965" x-morph="strongMorph: TH8801"} [against me, and their device]{strong="H1902"} against_me_all_the_day_H3117. 
+@63 [Behold]{strong="H5027" x-morph="strongMorph: TH8685"} [their sitting down]{strong="H3427" x-morph="strongMorph: TH8800"}, and_their_rising_up_H7012; I am their_musick_H4485. 
 
-@64 Render unto them a recompence, O LORD, according to the work of their hands. 
-@65 Give them sorrow of heart, thy curse unto them.^a^ 
-@66 Persecute and destroy them in anger from under the heavens of the LORD.
+@64 [Render]{strong="H7725" x-morph="strongMorph: TH8686"} unto_them_a_recompence_H1576, O LORD, according_to_the_work_H4639 of_their_hands_H3027. 
+@65 [Give]{strong="H5414" x-morph="strongMorph: TH8799"} them_sorrow_H4044 of_heart_H3820, thy_curse_H8381 unto them.^a^ 
+@66 [Persecute]{strong="H7291" x-morph="strongMorph: TH8799"} [and destroy]{strong="H8045" x-morph="strongMorph: TH8686"} them_in_anger_H639 from_under_the_heavens_H8064 of the LORD.
 ^a^[**3:65** sorrow…: or, obstinacy of heart] 
 
 # 4 
-@1 How is the gold become dim! how is the most fine gold changed! the stones of the sanctuary are poured out in the top of every street. 
-@2 The precious sons of Zion, comparable to fine gold, how are they esteemed as earthen pitchers, the work of the hands of the potter! 
-@3 Even the sea monsters draw out the breast, they give suck to their young ones: the daughter of my people is become cruel, like the ostriches in the wilderness.^a^ 
-@4 The tongue of the sucking child cleaveth to the roof of his mouth for thirst: the young children ask bread, and no man breaketh it unto them. 
-@5 They that did feed delicately are desolate in the streets: they that were brought up in scarlet embrace dunghills. 
-@6 For the punishment of the iniquity of the daughter of my people is greater than the punishment of the sin of Sodom, that was overthrown as in a moment, and no hands stayed on her.^b^ 
-@7 Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing was of sapphire: 
-@8 Their visage is blacker than a coal; they are not known in the streets: their skin cleaveth to their bones; it is withered, it is become like a stick.^c^ 
-@9 They that be slain with the sword are better than they that be slain with hunger: for these pine away, stricken through for want of the fruits of the field.^d^ 
-@10 The hands of the pitiful women have sodden their own children: they were their meat in the destruction of the daughter of my people. 
-@11 The LORD hath accomplished his fury; he hath poured out his fierce anger, and hath kindled a fire in Zion, and it hath devoured the foundations thereof. 
-@12 The kings of the earth, and all the inhabitants of the world, would not have believed that the adversary and the enemy should have entered into the gates of Jerusalem. 
+@1 How_is_the_gold_H2091 [become dim]{strong="H6004" x-morph="strongMorph: TH8714"}! how is_the_most_H2896 fine_gold_H3800 [changed]{strong="H8132" x-morph="strongMorph: TH8799"}! the_stones_H68 of_the_sanctuary_H6944 [are poured out]{strong="H8210" x-morph="strongMorph: TH8691"} in_the_top_H7218 of_every_street_H2351. 
+@2 The_precious_H3368 sons_H1121 of_Zion_H6726, [comparable]{strong="H5537" x-morph="strongMorph: TH8794"} to_fine_gold_H6337, [how are they esteemed]{strong="H2803" x-morph="strongMorph: TH8738"} as_earthen_H2789 pitchers_H5035, the_work_H4639 of_the_hands_H3027 [of the potter]{strong="H3335" x-morph="strongMorph: TH8802"}! 
+@3 Even_the_sea_monsters_H8577 [draw out]{strong="H2502" x-morph="strongMorph: TH8804"} the_breast_H7699, [they give suck]{strong="H3243" x-morph="strongMorph: TH8689"} to_their_young_ones_H1482: the_daughter_H1323 of_my_people_H5971 is become cruel_H393, like_the_ostriches_H3283 in_the_wilderness_H4057.^a^ 
+@4 The_tongue_H3956 [of the sucking child]{strong="H3243" x-morph="strongMorph: TH8802"} [cleaveth]{strong="H1692" x-morph="strongMorph: TH8804"} to_the_roof_of_his_mouth_H2441 for_thirst_H6772: the_young_children_H5768 [ask]{strong="H7592" x-morph="strongMorph: TH8804"} bread_H3899, and [no man breaketh]{strong="H6566" x-morph="strongMorph: TH8802"} it unto them. 
+@5 [They that did feed]{strong="H398" x-morph="strongMorph: TH8802"} delicately_H4574 [are desolate]{strong="H8074" x-morph="strongMorph: TH8738"} in_the_streets_H2351: [they that were brought up]{strong="H539" x-morph="strongMorph: TH8803"} in_scarlet_H8438 [embrace]{strong="H2263" x-morph="strongMorph: TH8765"} dunghills_H830. 
+@6 For_the_punishment_of_the_iniquity_H5771 of_the_daughter_H1323 of_my_people_H5971 [is greater]{strong="H1431" x-morph="strongMorph: TH8799"} than_the_punishment_H2403 of_the_sin_of_Sodom_H5467, [that was overthrown]{strong="H2015" x-morph="strongMorph: TH8803"} as_in_a_moment_H7281, and_no_hands_H3027 [stayed]{strong="H2342" x-morph="strongMorph: TH8804"} on her.^b^ 
+@7 Her_Nazarites_H5139 [were purer]{strong="H2141" x-morph="strongMorph: TH8804"} than_snow_H7950, [they were whiter]{strong="H6705" x-morph="strongMorph: TH8804"} than_milk_H2461, [they were more ruddy]{strong="H119" x-morph="strongMorph: TH8804"} in_body_H6106 than_rubies_H6443, their_polishing_H1508 was of_sapphire_H5601: 
+@8 Their_visage_H8389 [is blacker]{strong="H2821" x-morph="strongMorph: TH8804"} than_a_coal_H7815; [they are not known]{strong="H5234" x-morph="strongMorph: TH8738"} in_the_streets_H2351: their_skin_H5785 [cleaveth]{strong="H6821" x-morph="strongMorph: TH8804"} to_their_bones_H6106; [it is withered]{strong="H3001" x-morph="strongMorph: TH8804"}, it_is_become_like_a_stick_H6086.^c^ 
+@9 They that be slain_H2491 with_the_sword_H2719 are_better_H2896 than they that be slain_H2491 with_hunger_H7458: for_these_H1992 [pine away]{strong="H2100" x-morph="strongMorph: TH8799"}, [stricken]{strong="H1856" x-morph="strongMorph: TH8794"} through for want of the_fruits_H8570 of_the_field_H7704.^d^ 
+@10 The_hands_H3027 of_the_pitiful_H7362 women_H802 [have sodden]{strong="H1310" x-morph="strongMorph: TH8765"} their_own_children_H3206: [they were their meat]{strong="H1262" x-morph="strongMorph: TH8763"} in_the_destruction_H7667 of_the_daughter_H1323 of_my_people_H5971. 
+@11 The LORD [hath accomplished]{strong="H3615" x-morph="strongMorph: TH8765"} his_fury_H2534; [he hath poured out]{strong="H8210" x-morph="strongMorph: TH8804"} his_fierce_H2740 anger_H639, [and hath kindled]{strong="H3341" x-morph="strongMorph: TH8686"} a_fire_H784 in_Zion_H6726, [and it hath devoured]{strong="H398" x-morph="strongMorph: TH8799"} the_foundations_H3247 thereof. 
+@12 The_kings_H4428 of_the_earth_H776, [and all the inhabitants]{strong="H3427" x-morph="strongMorph: TH8802"} of_the_world_H8398, [would not have believed]{strong="H539" x-morph="strongMorph: TH8689"} that_the_adversary_H6862 [and the enemy]{strong="H341" x-morph="strongMorph: TH8802"} [should have entered]{strong="H935" x-morph="strongMorph: TH8799"} into_the_gates_H8179 of_Jerusalem_H3389. 
 ^a^[**4:3** sea…: or, sea calves] ^b^[**4:6** punishment of the iniquity: or, iniquity] ^c^[**4:8** blacker…: Heb. darker than blackness] ^d^[**4:9** pine…: Heb. flow out]
 
-@13 For the sins of her prophets, and the iniquities of her priests, that have shed the blood of the just in the midst of her, 
-@14 They have wandered as blind men in the streets, they have polluted themselves with blood, so that men could not touch their garments.^a^ 
-@15 They cried unto them, Depart ye; it is unclean; depart, depart, touch not: when they fled away and wandered, they said among the heathen, They shall no more sojourn there.^b^ 
-@16 The anger of the LORD hath divided them; he will no more regard them: they respected not the persons of the priests, they favoured not the elders.^c^ 
-@17 As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation that could not save us. 
-@18 They hunt our steps, that we cannot go in our streets: our end is near, our days are fulfilled; for our end is come. 
-@19 Our persecutors are swifter than the eagles of the heaven: they pursued us upon the mountains, they laid wait for us in the wilderness. 
-@20 The breath of our nostrils, the anointed of the LORD, was taken in their pits, of whom we said, Under his shadow we shall live among the heathen. 
+@13 For_the_sins_H2403 of_her_prophets_H5030, and the_iniquities_H5771 of_her_priests_H3548, [that have shed]{strong="H8210" x-morph="strongMorph: TH8802"} the_blood_H1818 of_the_just_H6662 in_the_midst_H7130 of her, 
+@14 [They have wandered]{strong="H5128" x-morph="strongMorph: TH8804"} as blind_H5787 men in_the_streets_H2351, [they have polluted]{strong="H1351" x-morph="strongMorph: TH8738"} themselves_with_blood_H1818, [so that men could]{strong="H3201" x-morph="strongMorph: TH8799"} not_H3808 [touch]{strong="H5060" x-morph="strongMorph: TH8799"} their_garments_H3830.^a^ 
+@15 [They cried]{strong="H7121" x-morph="strongMorph: TH8804"} [unto them, Depart]{strong="H5493" x-morph="strongMorph: TH8798"} ye; it is unclean_H2931; [depart]{strong="H5493" x-morph="strongMorph: TH8798"}, [depart]{strong="H5493" x-morph="strongMorph: TH8798"}, [touch]{strong="H5060" x-morph="strongMorph: TH8799"} [not: when they fled away]{strong="H5132" x-morph="strongMorph: TH8804"} [and wandered]{strong="H5128" x-morph="strongMorph: TH8804"}, [they said]{strong="H559" x-morph="strongMorph: TH8804"} among_the_heathen_H1471, [They shall no more]{strong="H3254" x-morph="strongMorph: TH8686"} [sojourn]{strong="H1481" x-morph="strongMorph: TH8800"} there.^b^ 
+@16 The_anger_H6440 of the LORD [hath divided]{strong="H2505" x-morph="strongMorph: TH8765"} [them; he will no more]{strong="H3254" x-morph="strongMorph: TH8686"} [regard]{strong="H5027" x-morph="strongMorph: TH8687"} [them: they respected]{strong="H5375" x-morph="strongMorph: TH8804"} not_the_persons_H6440 of_the_priests_H3548, [they favoured]{strong="H2603" x-morph="strongMorph: TH8804"} not_the_elders_H2205.^c^ 
+@17 [As for us, our eyes]{strong="H5869"} [as yet failed]{strong="H3615" x-morph="strongMorph: TH8799"} for_our_vain_H1892 help_H5833: in_our_watching_H6836 [we have watched]{strong="H6822" x-morph="strongMorph: TH8765"} for_a_nation_H1471 that [could not save]{strong="H3467" x-morph="strongMorph: TH8686"} us. 
+@18 [They hunt]{strong="H6679" x-morph="strongMorph: TH8804"} our_steps_H6806, [that we cannot go]{strong="H3212" x-morph="strongMorph: TH8800"} in_our_streets_H7339: our_end_H7093 [is near]{strong="H7126" x-morph="strongMorph: TH8804"}, our_days_H3117 [are fulfilled]{strong="H4390" x-morph="strongMorph: TH8804"}; for_our_end_H7093 [is come]{strong="H935" x-morph="strongMorph: TH8804"}. 
+@19 [Our persecutors]{strong="H7291" x-morph="strongMorph: TH8802"} are_swifter_H7031 than_the_eagles_H5404 of_the_heaven_H8064: [they pursued]{strong="H1814" x-morph="strongMorph: TH8804"} us_upon_the_mountains_H2022, [they laid wait]{strong="H693" x-morph="strongMorph: TH8804"} for_us_in_the_wilderness_H4057. 
+@20 The_breath_H7307 of_our_nostrils_H639, the_anointed_H4899 of the LORD, [was taken]{strong="H3920" x-morph="strongMorph: TH8738"} in_their_pits_H7825, [of whom we said]{strong="H559" x-morph="strongMorph: TH8804"}, Under_his_shadow_H6738 [we shall live]{strong="H2421" x-morph="strongMorph: TH8799"} among_the_heathen_H1471. 
 ^a^[**4:14** so…: or, in that they could not but touch] ^b^[**4:15** it…: or, ye polluted] ^c^[**4:16** anger: or, face]
 
-@21 Rejoice and be glad, O daughter of Edom, that dwellest in the land of Uz; the cup also shall pass through unto thee: thou shalt be drunken, and shalt make thyself naked. 
+@21 [Rejoice]{strong="H7797" x-morph="strongMorph: TH8798"} [and be glad]{strong="H8055" x-morph="strongMorph: TH8798"}, O_daughter_H1323 of_Edom_H123, [that dwellest]{strong="H3427" x-morph="strongMorph: TH8802"} in_the_land_H776 of_Uz_H5780; the_cup_H3563 [also shall pass]{strong="H5674" x-morph="strongMorph: TH8799"} [through unto thee: thou shalt be drunken]{strong="H7937" x-morph="strongMorph: TH8799"}, [and shalt make thyself naked]{strong="H6168" x-morph="strongMorph: TH8691"}. 
 
-@22 The punishment of thine iniquity is accomplished, O daughter of Zion; he will no more carry thee away into captivity: he will visit thine iniquity, O daughter of Edom; he will discover thy sins.^a^ ^b^
+@22 The_punishment_of_thine_iniquity_H5771 [is accomplished]{strong="H8552" x-morph="strongMorph: TH8804"}, O_daughter_H1323 of_Zion_H6726; [he will no more]{strong="H3254" x-morph="strongMorph: TH8686"} [carry thee away into captivity]{strong="H1540" x-morph="strongMorph: TH8687"}: [he will visit]{strong="H6485" x-morph="strongMorph: TH8804"} thine_iniquity_H5771, O_daughter_H1323 of_Edom_H123; [he will discover]{strong="H1540" x-morph="strongMorph: TH8765"} thy_sins_H2403.^a^ ^b^
 ^a^[**4:22** The…: or, Thine iniquity] ^b^[**4:22** discover…: or, carry thee captive for thy sins] 
 
 # 5 
-@1 Remember, O LORD, what is come upon us: consider, and behold our reproach. 
-@2 Our inheritance is turned to strangers, our houses to aliens. 
-@3 We are orphans and fatherless, our mothers are as widows. 
-@4 We have drunken our water for money; our wood is sold unto us.^a^ 
-@5 Our necks are under persecution: we labour, and have no rest.^b^ 
-@6 We have given the hand to the Egyptians, and to the Assyrians, to be satisfied with bread. 
-@7 Our fathers have sinned, and are not; and we have borne their iniquities. 
-@8 Servants have ruled over us: there is none that doth deliver us out of their hand. 
-@9 We gat our bread with the peril of our lives because of the sword of the wilderness. 
-@10 Our skin was black like an oven because of the terrible famine.^c^ 
-@11 They ravished the women in Zion, and the maids in the cities of Judah. 
-@12 Princes are hanged up by their hand: the faces of elders were not honoured. 
-@13 They took the young men to grind, and the children fell under the wood. 
-@14 The elders have ceased from the gate, the young men from their musick. 
-@15 The joy of our heart is ceased; our dance is turned into mourning. 
-@16 The crown is fallen from our head: woe unto us, that we have sinned!^d^ 
+@1 [Remember]{strong="H2142" x-morph="strongMorph: TH8798"}, O LORD, [what is come upon us: consider]{strong="H5027" x-morph="strongMorph: TH8685"}, [and behold]{strong="H7200" x-morph="strongMorph: TH8798"} our_reproach_H2781. 
+@2 Our_inheritance_H5159 [is turned]{strong="H2015" x-morph="strongMorph: TH8738"} [to strangers]{strong="H2114" x-morph="strongMorph: TH8801"}, our_houses_H1004 to_aliens_H5237. 
+@3 We_are_orphans_H3490 [and fatherless]{strong="H1 H369"}, our_mothers_H517 are as_widows_H490. 
+@4 [We have drunken]{strong="H8354" x-morph="strongMorph: TH8804"} our_water_H4325 for_money_H3701; our_wood_H6086 [is sold]{strong="H4242 H935" x-morph="strongMorph: TH8799"} unto us.^a^ 
+@5 Our_necks_H6677 are [under persecution]{strong="H7291" x-morph="strongMorph: TH8738"}: [we labour]{strong="H3021" x-morph="strongMorph: TH8804"}, and [have no rest]{strong="H5117" x-morph="strongMorph: TH8717"}.^b^ 
+@6 [We have given]{strong="H5414" x-morph="strongMorph: TH8804"} the_hand_H3027 to the_Egyptians_H4714, and to the_Assyrians_H804, [to be satisfied]{strong="H7646" x-morph="strongMorph: TH8800"} with_bread_H3899. 
+@7 Our_fathers_H1 [have sinned]{strong="H2398" x-morph="strongMorph: TH8804"}, and are not_H369; [and we have borne]{strong="H5445" x-morph="strongMorph: TH8804"} their_iniquities_H5771. 
+@8 Servants_H5650 [have ruled]{strong="H4910" x-morph="strongMorph: TH8804"} over us: there is [none that doth deliver]{strong="H6561" x-morph="strongMorph: TH8802"} us out_of_their_hand_H3027. 
+@9 [We gat]{strong="H935" x-morph="strongMorph: TH8686"} our_bread_H3899 with the peril of our_lives_H5315 because_H6440 of_the_sword_H2719 of_the_wilderness_H4057. 
+@10 Our_skin_H5785 [was black]{strong="H3648" x-morph="strongMorph: TH8738"} like_an_oven_H8574 because_H6440 of_the_terrible_H2152 famine_H7458.^c^ 
+@11 [They ravished]{strong="H6031" x-morph="strongMorph: TH8765"} the_women_H802 in_Zion_H6726, and the_maids_H1330 in_the_cities_H5892 of_Judah_H3063. 
+@12 Princes_H8269 [are hanged up]{strong="H8518" x-morph="strongMorph: TH8738"} by_their_hand_H3027: the_faces_H6440 of_elders_H2205 [were not honoured]{strong="H1921" x-morph="strongMorph: TH8738"}. 
+@13 [They took]{strong="H5375" x-morph="strongMorph: TH8804"} the_young_men_H970 to_grind_H2911, and_the_children_H5288 [fell]{strong="H3782" x-morph="strongMorph: TH8804"} under_the_wood_H6086. 
+@14 The_elders_H2205 [have ceased]{strong="H7673" x-morph="strongMorph: TH8804"} from_the_gate_H8179, the_young_men_H970 from_their_musick_H5058. 
+@15 The_joy_H4885 of_our_heart_H3820 [is ceased]{strong="H7673" x-morph="strongMorph: TH8804"}; our_dance_H4234 [is turned]{strong="H2015" x-morph="strongMorph: TH8738"} into_mourning_H60. 
+@16 The_crown_H5850 [is fallen]{strong="H5307" x-morph="strongMorph: TH8804"} from our_head_H7218: woe_H188 [unto us, that we have sinned]{strong="H2398" x-morph="strongMorph: TH8804"}!^d^ 
 ^a^[**5:4** is…: Heb. cometh for price] ^b^[**5:5** Our…: Heb. On our necks are we persecuted] ^c^[**5:10** terrible: or, terrors, or, storms] ^d^[**5:16** The…: Heb. The crown of our head is fallen]
 
-@17 For this our heart is faint; for these things our eyes are dim. 
-@18 Because of the mountain of Zion, which is desolate, the foxes walk upon it. 
-@19 Thou, O LORD, remainest for ever; thy throne from generation to generation. 
-@20 Wherefore dost thou forget us for ever, and forsake us so long time?^a^ 
-@21 Turn thou us unto thee, O LORD, and we shall be turned; renew our days as of old. 
-@22 But thou hast utterly rejected us; thou art very wroth against us.^b^ 
+@17 For_this_our_heart_H3820 is_faint_H1739; for these things our_eyes_H5869 [are dim]{strong="H2821" x-morph="strongMorph: TH8804"}. 
+@18 Because_of_the_mountain_H2022 of_Zion_H6726, [which is desolate]{strong="H8074" x-morph="strongMorph: TH8804"}, the_foxes_H7776 [walk]{strong="H1980" x-morph="strongMorph: TH8765"} upon it. 
+@19 Thou, O LORD, [remainest ]{strong="H3427" x-morph="strongMorph: TH8799"} for_ever_H5769; thy_throne_H3678 from_generation_H1755 to_generation_H1755. 
+@20 [Wherefore dost thou forget]{strong="H7911" x-morph="strongMorph: TH8799"} us_for_ever_H5331, and [forsake]{strong="H5800" x-morph="strongMorph: TH8799"} us_so_long_H753 time_H3117?^a^ 
+@21 [Turn]{strong="H7725" x-morph="strongMorph: TH8685"} thou us unto thee, O LORD, [and we shall be turned]{strong="H7725" x-morph="strongMorph: TH8799"}; [renew]{strong="H2318" x-morph="strongMorph: TH8761"} our_days_H3117 as_of_old_H6924. 
+@22 [But thou hast utterly]{strong="H3988" x-morph="strongMorph: TH8800"} [rejected]{strong="H3988" x-morph="strongMorph: TH8804"} [us; thou art very]{strong="H3966"} [wroth]{strong="H7107" x-morph="strongMorph: TH8804"} against us.^b^ 
 ^a^[**5:20** so…: Heb. for length of days?] ^b^[**5:22** But…: or, For wilt thou utterly reject us?]

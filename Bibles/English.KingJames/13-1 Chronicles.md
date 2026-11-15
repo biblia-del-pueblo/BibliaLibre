@@ -1,1196 +1,1196 @@
 # 1 
-@1 Adam, Sheth, Enosh, 
-@2 Kenan, Mahalaleel, Jered, 
-@3 Henoch, Methuselah, Lamech, 
-@4 Noah, Shem, Ham, and Japheth. 
+@1 Adam_H121, Sheth_H8352, Enosh_H583, 
+@2 Kenan_H7018, Mahalaleel_H4111, Jered_H3382, 
+@3 Henoch_H2585, Methuselah_H4968, Lamech_H3929, 
+@4 Noah_H5146, Shem_H8035, Ham_H2526, and_Japheth_H3315. 
 
-@5 The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras. 
-@6 And the sons of Gomer; Ashchenaz, and Riphath, and Togarmah.^a^ 
-@7 And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.^b^ 
+@5 The_sons_H1121 of_Japheth_H3315; Gomer_H1586, and_Magog_H4031, and_Madai_H4074, and_Javan_H3120, and_Tubal_H8422, and_Meshech_H4902, and_Tiras_H8494. 
+@6 And_the_sons_H1121 of_Gomer_H1586; Ashchenaz_H813, and_Riphath_H7384, and_Togarmah_H8425.^a^ 
+@7 And_the_sons_H1121 of_Javan_H3120; Elishah_H473, and_Tarshish_H8659, Kittim_H3794, and_Dodanim_H1721.^b^ 
 ^a^[**1:6** Riphath: or, Diphath as it is in some copies] ^b^[**1:7** Dodanim: or, Rodanim, according to some copies]
 
-@8 The sons of Ham; Cush, and Mizraim, Put, and Canaan. 
-@9 And the sons of Cush; Seba, and Havilah, and Sabta, and Raamah, and Sabtecha. And the sons of Raamah; Sheba, and Dedan. 
-@10 And Cush begat Nimrod: he began to be mighty upon the earth. 
-@11 And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim, 
-@12 And Pathrusim, and Casluhim, (of whom came the Philistines,) and Caphthorim. 
-@13 And Canaan begat Zidon his firstborn, and Heth, 
-@14 The Jebusite also, and the Amorite, and the Girgashite, 
-@15 And the Hivite, and the Arkite, and the Sinite, 
-@16 And the Arvadite, and the Zemarite, and the Hamathite. 
+@8 The_sons_H1121 of_Ham_H2526; Cush_H3568, and_Mizraim_H4714, Put_H6316, and_Canaan_H3667. 
+@9 And_the_sons_H1121 of_Cush_H3568; Seba_H5434, and_Havilah_H2341, and_Sabta_H5454, and_Raamah_H7484, and_Sabtecha_H5455. And_the_sons_H1121 of_Raamah_H7484; Sheba_H7614, and_Dedan_H1719. 
+@10 And_Cush_H3568 [begat]{strong="H3205" x-morph="strongMorph: TH8804"} Nimrod_H5248: [he began]{strong="H2490" x-morph="strongMorph: TH8689"} to_be_mighty_H1368 upon_the_earth_H776. 
+@11 And_Mizraim_H4714 [begat]{strong="H3205" x-morph="strongMorph: TH8804"} Ludim_H3866, and_Anamim_H6047, and_Lehabim_H3853, and_Naphtuhim_H5320, 
+@12 And_Pathrusim_H6625, and_Casluhim_H3695, ([of whom came]{strong="H3318" x-morph="strongMorph: TH8804"} the_Philistines_H6430,) and_Caphthorim_H3732. 
+@13 And_Canaan_H3667 [begat]{strong="H3205" x-morph="strongMorph: TH8804"} Zidon_H6721 his_firstborn_H1060, and_Heth_H2845, 
+@14 The_Jebusite_H2983 [also, and the Amorite]{strong="H567"}, and_the_Girgashite_H1622, 
+@15 And_the_Hivite_H2340, and_the_Arkite_H6208, and_the_Sinite_H5513, 
+@16 And_the_Arvadite_H721, and_the_Zemarite_H6786, and_the_Hamathite_H2577. 
 
-@17 The sons of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram, and Uz, and Hul, and Gether, and Meshech.^a^ 
-@18 And Arphaxad begat Shelah, and Shelah begat Eber. 
-@19 And unto Eber were born two sons: the name of the one was Peleg; because in his days the earth was divided: and his brother’s name was Joktan.^b^ 
-@20 And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah, 
-@21 Hadoram also, and Uzal, and Diklah, 
-@22 And Ebal, and Abimael, and Sheba, 
-@23 And Ophir, and Havilah, and Jobab. All these were the sons of Joktan. 
+@17 The_sons_H1121 of_Shem_H8035; Elam_H5867, and_Asshur_H804, and_Arphaxad_H775, and_Lud_H3865, and_Aram_H758, and_Uz_H5780, and_Hul_H2343, and_Gether_H1666, and_Meshech_H4902.^a^ 
+@18 And_Arphaxad_H775 [begat]{strong="H3205" x-morph="strongMorph: TH8804"} Shelah_H7974, and_Shelah_H7974 [begat]{strong="H3205" x-morph="strongMorph: TH8804"} Eber_H5677. 
+@19 And_unto_Eber_H5677 [were born]{strong="H3205" x-morph="strongMorph: TH8795"} two_H8147 sons_H1121: the_name_H8034 of_the_one_H259 was Peleg_H6389; because_in_his_days_H3117 the_earth_H776 [was divided]{strong="H6385" x-morph="strongMorph: TH8738"}: [and his brother’s]{strong="H251"} name_H8034 was Joktan_H3355.^b^ 
+@20 And_Joktan_H3355 [begat]{strong="H3205" x-morph="strongMorph: TH8804"} Almodad_H486, and_Sheleph_H8026, and_Hazarmaveth_H2700, and_Jerah_H3392, 
+@21 Hadoram_H1913 [also, and Uzal]{strong="H187"}, and_Diklah_H1853, 
+@22 And_Ebal_H5858, and_Abimael_H39, and_Sheba_H7614, 
+@23 And_Ophir_H211, and_Havilah_H2341, and_Jobab_H3103. All these were the_sons_H1121 of_Joktan_H3355. 
 ^a^[**1:17** Meshech: or, Mash] ^b^[**1:19** Peleg: that is, division]
 
-@24 Shem, Arphaxad, Shelah, 
-@25 Eber, Peleg, Reu, 
-@26 Serug, Nahor, Terah, 
-@27 Abram; the same is Abraham. 
+@24 Shem_H8035, Arphaxad_H775, Shelah_H7974, 
+@25 Eber_H5677, Peleg_H6389, Reu_H7466, 
+@26 Serug_H8286, Nahor_H5152, Terah_H8646, 
+@27 Abram_H87; the same is Abraham_H85. 
 
-@28 The sons of Abraham; Isaac, and Ishmael. 
+@28 The_sons_H1121 of_Abraham_H85; Isaac_H3327, and_Ishmael_H3458. 
 
-@29 These are their generations: The firstborn of Ishmael, Nebaioth; then Kedar, and Adbeel, and Mibsam, 
-@30 Mishma, and Dumah, Massa, Hadad, and Tema,^a^ 
-@31 Jetur, Naphish, and Kedemah. These are the sons of Ishmael. 
+@29 These are their_generations_H8435: The_firstborn_H1060 of_Ishmael_H3458, Nebaioth_H5032; then_Kedar_H6938, and_Adbeel_H110, and_Mibsam_H4017, 
+@30 Mishma_H4927, and_Dumah_H1746, Massa_H4854, Hadad_H2301, and_Tema_H8485,^a^ 
+@31 Jetur_H3195, Naphish_H5305, and_Kedemah_H6929. These_are_the_sons_H1121 of_Ishmael_H3458. 
 ^a^[**1:30** Hadad: also called, Hadar]
 
-@32 Now the sons of Keturah, Abraham’s concubine: she bare Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And the sons of Jokshan; Sheba, and Dedan. 
-@33 And the sons of Midian; Ephah, and Epher, and Henoch, and Abida, and Eldaah. All these are the sons of Keturah. 
-@34 And Abraham begat Isaac. The sons of Isaac; Esau and Israel. 
+@32 Now_the_sons_H1121 of_Keturah_H6989, [Abraham’s]{strong="H85"} concubine_H6370: [she bare]{strong="H3205" x-morph="strongMorph: TH8804"} Zimran_H2175, and_Jokshan_H3370, and_Medan_H4091, and_Midian_H4080, and_Ishbak_H3435, and_Shuah_H7744. And_the_sons_H1121 of_Jokshan_H3370; Sheba_H7614, and_Dedan_H1719. 
+@33 And_the_sons_H1121 of_Midian_H4080; Ephah_H5891, and_Epher_H6081, and_Henoch_H2585, and_Abida_H28, and_Eldaah_H420. All these are the_sons_H1121 of_Keturah_H6989. 
+@34 And_Abraham_H85 [begat]{strong="H3205" x-morph="strongMorph: TH8686"} Isaac_H3327. The_sons_H1121 of_Isaac_H3327; Esau_H6215 and_Israel_H3478. 
 
-@35 The sons of Esau; Eliphaz, Reuel, and Jeush, and Jaalam, and Korah. 
-@36 The sons of Eliphaz; Teman, and Omar, Zephi, and Gatam, Kenaz, and Timna, and Amalek.^a^ 
-@37 The sons of Reuel; Nahath, Zerah, Shammah, and Mizzah. 
-@38 And the sons of Seir; Lotan, and Shobal, and Zibeon, and Anah, and Dishon, and Ezer, and Dishan. 
-@39 And the sons of Lotan; Hori, and Homam: and Timna was Lotan’s sister.^b^ 
-@40 The sons of Shobal; Alian, and Manahath, and Ebal, Shephi, and Onam. And the sons of Zibeon; Aiah, and Anah.^c^ ^d^ 
-@41 The sons of Anah; Dishon. And the sons of Dishon; Amram, and Eshban, and Ithran, and Cheran.^e^ 
-@42 The sons of Ezer; Bilhan, and Zavan, and Jakan. The sons of Dishan; Uz, and Aran.^f^ 
+@35 The_sons_H1121 of_Esau_H6215; Eliphaz_H464, Reuel_H7467, and_Jeush_H3266, and_Jaalam_H3281, and_Korah_H7141. 
+@36 The_sons_H1121 of_Eliphaz_H464; Teman_H8487, and_Omar_H201, Zephi_H6825, and_Gatam_H1609, Kenaz_H7073, and_Timna_H8555, and_Amalek_H6002.^a^ 
+@37 The_sons_H1121 of_Reuel_H7467; Nahath_H5184, Zerah_H2226, Shammah_H8048, and_Mizzah_H4199. 
+@38 And_the_sons_H1121 of_Seir_H8165; Lotan_H3877, and_Shobal_H7732, and_Zibeon_H6649, and_Anah_H6034, and_Dishon_H1787, and_Ezer_H687, and_Dishan_H1789. 
+@39 And_the_sons_H1121 of_Lotan_H3877; Hori_H2753, and_Homam_H1950: and_Timna_H8555 was [Lotan’s]{strong="H3877"} sister_H269.^b^ 
+@40 The_sons_H1121 of_Shobal_H7732; Alian_H5935, and_Manahath_H4506, and_Ebal_H5858, Shephi_H8195, and_Onam_H208. And_the_sons_H1121 of_Zibeon_H6649; Aiah_H345, and_Anah_H6034.^c^ ^d^ 
+@41 The_sons_H1121 of_Anah_H6034; Dishon_H1787. And_the_sons_H1121 of_Dishon_H1787; Amram_H2566, and_Eshban_H790, and_Ithran_H3506, and_Cheran_H3763.^e^ 
+@42 The_sons_H1121 of_Ezer_H687; Bilhan_H1092, and_Zavan_H2190, and Jakan_H3292. The_sons_H1121 of_Dishan_H1789; Uz_H5780, and_Aran_H765.^f^ 
 ^a^[**1:36** Zephi: or, Zepho] ^b^[**1:39** Homam: or, Hemam] ^c^[**1:40** Alian: also called, Alvan] ^d^[**1:40** Shephi: also called, Shepho] ^e^[**1:41** Amram: or, Hemdan] ^f^[**1:42** Jakan: or, Akan]
 
-@43 Now these are the kings that reigned in the land of Edom before any king reigned over the children of Israel; Bela the son of Beor: and the name of his city was Dinhabah. 
-@44 And when Bela was dead, Jobab the son of Zerah of Bozrah reigned in his stead. 
-@45 And when Jobab was dead, Husham of the land of the Temanites reigned in his stead. 
-@46 And when Husham was dead, Hadad the son of Bedad, which smote Midian in the field of Moab, reigned in his stead: and the name of his city was Avith. 
-@47 And when Hadad was dead, Samlah of Masrekah reigned in his stead. 
-@48 And when Samlah was dead, Shaul of Rehoboth by the river reigned in his stead. 
-@49 And when Shaul was dead, Baal-hanan the son of Achbor reigned in his stead. 
-@50 And when Baal-hanan was dead, Hadad reigned in his stead: and the name of his city was Pai; and his wife’s name was Mehetabel, the daughter of Matred, the daughter of Mezahab.^a^ ^b^ 
+@43 Now these are the_kings_H4428 [that reigned]{strong="H4427" x-morph="strongMorph: TH8804"} in_the_land_H776 of_Edom_H123 before_H6440 any king_H4428 [reigned]{strong="H4427" x-morph="strongMorph: TH8800"} over_the_children_H1121 of_Israel_H3478; Bela_H1106 the_son_H1121 of_Beor_H1160: and_the_name_H8034 of_his_city_H5892 was Dinhabah_H1838. 
+@44 And_when_Bela_H1106 [was dead]{strong="H4191" x-morph="strongMorph: TH8799"}, Jobab_H3103 the_son_H1121 of_Zerah_H2226 of_Bozrah_H1224 [reigned]{strong="H4427" x-morph="strongMorph: TH8799"} in his stead. 
+@45 And_when_Jobab_H3103 [was dead]{strong="H4191" x-morph="strongMorph: TH8799"}, Husham_H2367 of_the_land_H776 of_the_Temanites_H8489 [reigned]{strong="H4427" x-morph="strongMorph: TH8799"} in his stead. 
+@46 And_when_Husham_H2367 [was dead]{strong="H4191" x-morph="strongMorph: TH8799"}, Hadad_H1908 the_son_H1121 of_Bedad_H911, [which smote]{strong="H5221" x-morph="strongMorph: TH8688"} Midian_H4080 in_the_field_H7704 of_Moab_H4124, [reigned]{strong="H4427" x-morph="strongMorph: TH8799"} [in his stead: and the name]{strong="H8034"} of_his_city_H5892 was Avith_H5762. 
+@47 And_when_Hadad_H1908 [was dead]{strong="H4191" x-morph="strongMorph: TH8799"}, Samlah_H8072 of_Masrekah_H4957 [reigned]{strong="H4427" x-morph="strongMorph: TH8799"} in his stead. 
+@48 And_when_Samlah_H8072 [was dead]{strong="H4191" x-morph="strongMorph: TH8799"}, Shaul_H7586 of_Rehoboth_H7344 by_the_river_H5104 [reigned]{strong="H4427" x-morph="strongMorph: TH8799"} in his stead. 
+@49 And_when_Shaul_H7586 [was dead]{strong="H4191" x-morph="strongMorph: TH8799"}, [Baal-hanan]{strong="H1177"} the_son_H1121 of_Achbor_H5907 [reigned]{strong="H4427" x-morph="strongMorph: TH8799"} in his stead. 
+@50 [And when Baal-hanan]{strong="H1177"} [was dead]{strong="H4191" x-morph="strongMorph: TH8799"}, Hadad_H1908 [reigned]{strong="H4427" x-morph="strongMorph: TH8799"} [in his stead: and the name]{strong="H8034"} of_his_city_H5892 was Pai_H6464; [and his wife’s]{strong="H802"} name_H8034 was Mehetabel_H4105, the_daughter_H1323 of_Matred_H4308, the_daughter_H1323 of_Mezahab_H4314.^a^ ^b^ 
 ^a^[**1:50** Hadad: or, Hadar] ^b^[**1:50** Pai: or, Pau]
 
-@51 Hadad died also. And the dukes of Edom were; duke Timnah, duke Aliah, duke Jetheth, 
-@52 Duke Aholibamah, duke Elah, duke Pinon, 
-@53 Duke Kenaz, duke Teman, duke Mibzar, 
-@54 Duke Magdiel, duke Iram. These are the dukes of Edom. 
+@51 Hadad_H1908 [died]{strong="H4191" x-morph="strongMorph: TH8799"} [also. And the dukes]{strong="H441"} of_Edom_H123 [were; duke]{strong="H441"} Timnah_H8555, duke_H441 Aliah_H5933, duke_H441 Jetheth_H3509, 
+@52 Duke_H441 Aholibamah_H173, duke_H441 Elah_H425, duke_H441 Pinon_H6373, 
+@53 Duke_H441 Kenaz_H7073, duke_H441 Teman_H8487, duke_H441 Mibzar_H4014, 
+@54 Duke_H441 Magdiel_H4025, duke_H441 Iram_H5902. These are the_dukes_H441 of_Edom_H123. 
 
 # 2 
-@1 These are the sons of Israel; Reuben, Simeon, Levi, and Judah, Issachar, and Zebulun,^a^ 
-@2 Dan, Joseph, and Benjamin, Naphtali, Gad, and Asher. 
+@1 These are the_sons_H1121 of_Israel_H3478; Reuben_H7205, Simeon_H8095, Levi_H3878, and_Judah_H3063, Issachar_H3485, and_Zebulun_H2074,^a^ 
+@2 Dan_H1835, Joseph_H3130, and_Benjamin_H1144, Naphtali_H5321, Gad_H1410, and_Asher_H836. 
 ^a^[**2:1** Israel: or, Jacob]
 
-@3 The sons of Judah; Er, and Onan, and Shelah: which three were born unto him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the LORD; and he slew him. 
-@4 And Tamar his daughter in law bare him Pharez and Zerah. All the sons of Judah were five. 
-@5 The sons of Pharez; Hezron, and Hamul. 
-@6 And the sons of Zerah; Zimri, and Ethan, and Heman, and Calcol, and Dara: five of them in all.^a^ ^b^ 
-@7 And the sons of Carmi; Achar, the troubler of Israel, who transgressed in the thing accursed.^c^ 
-@8 And the sons of Ethan; Azariah. 
-@9 The sons also of Hezron, that were born unto him; Jerahmeel, and Ram, and Chelubai.^d^ ^e^ 
-@10 And Ram begat Amminadab; and Amminadab begat Nahshon, prince of the children of Judah; 
-@11 And Nahshon begat Salma, and Salma begat Boaz,^f^ 
-@12 And Boaz begat Obed, and Obed begat Jesse, 
+@3 The_sons_H1121 of_Judah_H3063; Er_H6147, and_Onan_H209, and_Shelah_H7956: which three_H7969 [were born]{strong="H3205" x-morph="strongMorph: TH8738"} unto_him_of_the_daughter_H1323 [of Shua]{strong="H1340 H7774" x-morph="strongMorph: TH8677"} the_Canaanitess_H3669. And_Er_H6147, the_firstborn_H1060 of_Judah_H3063, was_evil_H7451 in_the_sight_H5869 of the LORD; [and he slew]{strong="H4191" x-morph="strongMorph: TH8686"} him. 
+@4 And_Tamar_H8559 his_daughter_in_law_H3618 [bare]{strong="H3205" x-morph="strongMorph: TH8804"} him_Pharez_H6557 and_Zerah_H2226. All_the_sons_H1121 of_Judah_H3063 were five_H2568. 
+@5 The_sons_H1121 of_Pharez_H6557; Hezron_H2696, and_Hamul_H2538. 
+@6 And_the_sons_H1121 of_Zerah_H2226; Zimri_H2174, and_Ethan_H387, and_Heman_H1968, and_Calcol_H3633, and_Dara_H1873: five_H2568 of them in all.^a^ ^b^ 
+@7 And_the_sons_H1121 of_Carmi_H3756; Achar_H5917, [the troubler]{strong="H5916" x-morph="strongMorph: TH8802"} of_Israel_H3478, [who transgressed]{strong="H4603" x-morph="strongMorph: TH8804"} in_the_thing_accursed_H2764.^c^ 
+@8 And_the_sons_H1121 of_Ethan_H387; Azariah_H5838. 
+@9 The_sons_H1121 also_of_Hezron_H2696, [that were born]{strong="H3205" x-morph="strongMorph: TH8738"} [unto him; Jerahmeel]{strong="H3396"}, and_Ram_H7410, and_Chelubai_H3621.^d^ ^e^ 
+@10 And_Ram_H7410 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Amminadab_H5992; and_Amminadab_H5992 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Nahshon_H5177, prince_H5387 of_the_children_H1121 of_Judah_H3063; 
+@11 And_Nahshon_H5177 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Salma_H8007, and_Salma_H8007 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Boaz_H1162,^f^ 
+@12 And_Boaz_H1162 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Obed_H5744, and_Obed_H5744 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Jesse_H3448, 
 ^a^[**2:6** Zimri: or, Zabdi] ^b^[**2:6** Dara: or, Darda] ^c^[**2:7** Achar: or, Achan] ^d^[**2:9** Ram: Gr. Aram] ^e^[**2:9** Chelubai: or, Caleb] ^f^[**2:11** Salma: also called, Salmon]
 
-@13 And Jesse begat his firstborn Eliab, and Abinadab the second, and Shimma the third,^a^ 
-@14 Nethaneel the fourth, Raddai the fifth, 
-@15 Ozem the sixth, David the seventh: 
-@16 Whose sisters were Zeruiah, and Abigail. And the sons of Zeruiah; Abishai, and Joab, and Asahel, three. 
-@17 And Abigail bare Amasa: and the father of Amasa was Jether the Ishmeelite.^b^ 
+@13 And_Jesse_H3448 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} his_firstborn_H1060 Eliab_H446, and_Abinadab_H41 the_second_H8145, and_Shimma_H8092 the_third_H7992,^a^ 
+@14 Nethaneel_H5417 the_fourth_H7243, Raddai_H7288 the_fifth_H2549, 
+@15 Ozem_H684 the_sixth_H8345, David_H1732 the_seventh_H7637: 
+@16 Whose_sisters_H269 were Zeruiah_H6870, and_Abigail_H26. And_the_sons_H1121 of_Zeruiah_H6870; Abishai_H52, and_Joab_H3097, and_Asahel_H6214, three_H7969. 
+@17 And_Abigail_H26 [bare]{strong="H3205" x-morph="strongMorph: TH8804"} Amasa_H6021: and_the_father_H1 of_Amasa_H6021 was Jether_H3500 the_Ishmeelite_H3459.^b^ 
 ^a^[**2:13** Shimma: or, Shammah] ^b^[**2:17** Jether…: also called, Ithra an Israelite]
 
-@18 And Caleb the son of Hezron begat children of Azubah his wife, and of Jerioth: her sons are these; Jesher, and Shobab, and Ardon. 
-@19 And when Azubah was dead, Caleb took unto him Ephrath, which bare him Hur. 
-@20 And Hur begat Uri, and Uri begat Bezaleel. 
+@18 And_Caleb_H3612 the_son_H1121 of_Hezron_H2696 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} children of_H854 Azubah_H5806 his wife_H802, and_of_Jerioth_H3408: her_sons_H1121 are [these; Jesher]{strong="H3475"}, and_Shobab_H7727, and_Ardon_H715. 
+@19 And_when_Azubah_H5806 [was dead]{strong="H4191" x-morph="strongMorph: TH8799"}, Caleb_H3612 [took]{strong="H3947" x-morph="strongMorph: TH8799"} unto_him_Ephrath_H672, [which bare]{strong="H3205" x-morph="strongMorph: TH8799"} him_Hur_H2354. 
+@20 And_Hur_H2354 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Uri_H221, and_Uri_H221 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Bezaleel_H1212. 
 
-@21 And afterward Hezron went in to the daughter of Machir the father of Gilead, whom he married when he was threescore years old; and she bare him Segub.^a^ 
-@22 And Segub begat Jair, who had three and twenty cities in the land of Gilead. 
-@23 And he took Geshur, and Aram, with the towns of Jair, from them, with Kenath, and the towns thereof, even threescore cities. All these belonged to the sons of Machir the father of Gilead. 
-@24 And after that Hezron was dead in Caleb-ephratah, then Abiah Hezron’s wife bare him Ashur the father of Tekoa. 
+@21 And_afterward_H310 Hezron_H2696 [went in]{strong="H935" x-morph="strongMorph: TH8804"} to_the_daughter_H1323 of_Machir_H4353 the_father_H1 of_Gilead_H1568, [whom he married]{strong="H3947" x-morph="strongMorph: TH8804"} when he was threescore_H8346 years_H8141 old_H1121; [and she bare]{strong="H3205" x-morph="strongMorph: TH8799"} him_Segub_H7687.^a^ 
+@22 And_Segub_H7687 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Jair_H2971, who_had_three_H7969 and_twenty_H6242 cities_H5892 in_the_land_H776 of_Gilead_H1568. 
+@23 [And he took]{strong="H3947" x-morph="strongMorph: TH8799"} Geshur_H1650, and_Aram_H758, with_the_towns_H2333 of_Jair_H2971, [from them, with Kenath]{strong="H7079"}, and_the_towns_H1323 thereof, even threescore_H8346 cities_H5892. All these belonged to the_sons_H1121 of_Machir_H4353 the_father_H1 of_Gilead_H1568. 
+@24 And_after_H310 that_Hezron_H2696 was_dead_H4194 [in Caleb-ephratah]{strong="H3613"}, then_Abiah_H29 [Hezron’s]{strong="H2696"} wife_H802 [bare]{strong="H3205" x-morph="strongMorph: TH8799"} him_Ashur_H806 the_father_H1 of_Tekoa_H8620. 
 ^a^[**2:21** married: Heb. took]
 
-@25 And the sons of Jerahmeel the firstborn of Hezron were, Ram the firstborn, and Bunah, and Oren, and Ozem, and Ahijah. 
-@26 Jerahmeel had also another wife, whose name was Atarah; she was the mother of Onam. 
-@27 And the sons of Ram the firstborn of Jerahmeel were, Maaz, and Jamin, and Eker. 
-@28 And the sons of Onam were, Shammai, and Jada. And the sons of Shammai; Nadab, and Abishur. 
-@29 And the name of the wife of Abishur was Abihail, and she bare him Ahban, and Molid. 
-@30 And the sons of Nadab; Seled, and Appaim: but Seled died without children. 
-@31 And the sons of Appaim; Ishi. And the sons of Ishi; Sheshan. And the children of Sheshan; Ahlai. 
-@32 And the sons of Jada the brother of Shammai; Jether, and Jonathan: and Jether died without children. 
-@33 And the sons of Jonathan; Peleth, and Zaza. These were the sons of Jerahmeel. 
+@25 And_the_sons_H1121 of_Jerahmeel_H3396 the_firstborn_H1060 of_Hezron_H2696 [were, Ram]{strong="H7410"} the_firstborn_H1060, and_Bunah_H946, and_Oren_H767, and_Ozem_H684, and Ahijah_H281. 
+@26 Jerahmeel_H3396 had_also_another_H312 wife_H802, whose_name_H8034 was Atarah_H5851; she was the_mother_H517 of_Onam_H208. 
+@27 And_the_sons_H1121 of_Ram_H7410 the_firstborn_H1060 of_Jerahmeel_H3396 [were, Maaz]{strong="H4619"}, and_Jamin_H3226, and_Eker_H6134. 
+@28 And_the_sons_H1121 of_Onam_H208 [were, Shammai]{strong="H8060"}, and_Jada_H3047. And_the_sons_H1121 of_Shammai_H8060; Nadab_H5070, and_Abishur_H51. 
+@29 And_the_name_H8034 of_the_wife_H802 of_Abishur_H51 was Abihail_H32, [and she bare]{strong="H3205" x-morph="strongMorph: TH8799"} him_Ahban_H257, and_Molid_H4140. 
+@30 And_the_sons_H1121 of_Nadab_H5070; Seled_H5540, and_Appaim_H649: but_Seled_H5540 [died]{strong="H4191" x-morph="strongMorph: TH8799"} without_children_H1121. 
+@31 And_the_sons_H1121 of_Appaim_H649; Ishi_H3469. And_the_sons_H1121 of_Ishi_H3469; Sheshan_H8348. And_the_children_H1121 of_Sheshan_H8348; Ahlai_H304. 
+@32 And_the_sons_H1121 of_Jada_H3047 the_brother_H251 of_Shammai_H8060; Jether_H3500, and_Jonathan_H3129: and_Jether_H3500 [died]{strong="H4191" x-morph="strongMorph: TH8799"} without_children_H1121. 
+@33 And_the_sons_H1121 of_Jonathan_H3129; Peleth_H6431, and_Zaza_H2117. These_were_the_sons_H1121 of_Jerahmeel_H3396. 
 
-@34 Now Sheshan had no sons, but daughters. And Sheshan had a servant, an Egyptian, whose name was Jarha. 
-@35 And Sheshan gave his daughter to Jarha his servant to wife; and she bare him Attai. 
-@36 And Attai begat Nathan, and Nathan begat Zabad, 
-@37 And Zabad begat Ephlal, and Ephlal begat Obed, 
-@38 And Obed begat Jehu, and Jehu begat Azariah, 
-@39 And Azariah begat Helez, and Helez begat Eleasah, 
-@40 And Eleasah begat Sisamai, and Sisamai begat Shallum, 
-@41 And Shallum begat Jekamiah, and Jekamiah begat Elishama. 
+@34 Now_Sheshan_H8348 had_no_sons_H1121, but_daughters_H1323. And_Sheshan_H8348 had_a_servant_H5650, an_Egyptian_H4713, whose_name_H8034 was Jarha_H3398. 
+@35 And_Sheshan_H8348 [gave]{strong="H5414" x-morph="strongMorph: TH8799"} his_daughter_H1323 to_Jarha_H3398 his_servant_H5650 to_wife_H802; [and she bare]{strong="H3205" x-morph="strongMorph: TH8799"} him_Attai_H6262. 
+@36 And_Attai_H6262 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Nathan_H5416, and_Nathan_H5416 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Zabad_H2066, 
+@37 And_Zabad_H2066 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Ephlal_H654, and_Ephlal_H654 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Obed_H5744, 
+@38 And_Obed_H5744 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Jehu_H3058, and_Jehu_H3058 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Azariah_H5838, 
+@39 And_Azariah_H5838 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Helez_H2503, and_Helez_H2503 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Eleasah_H501, 
+@40 And_Eleasah_H501 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Sisamai_H5581, and_Sisamai_H5581 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Shallum_H7967, 
+@41 And_Shallum_H7967 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Jekamiah_H3359, and_Jekamiah_H3359 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Elishama_H476. 
 
-@42 Now the sons of Caleb the brother of Jerahmeel were, Mesha his firstborn, which was the father of Ziph; and the sons of Mareshah the father of Hebron. 
-@43 And the sons of Hebron; Korah, and Tappuah, and Rekem, and Shema. 
-@44 And Shema begat Raham, the father of Jorkoam: and Rekem begat Shammai. 
-@45 And the son of Shammai was Maon: and Maon was the father of Beth-zur. 
-@46 And Ephah, Caleb’s concubine, bare Haran, and Moza, and Gazez: and Haran begat Gazez. 
-@47 And the sons of Jahdai; Regem, and Jotham, and Geshan, and Pelet, and Ephah, and Shaaph. 
-@48 Maachah, Caleb’s concubine, bare Sheber, and Tirhanah. 
-@49 She bare also Shaaph the father of Madmannah, Sheva the father of Machbenah, and the father of Gibea: and the daughter of Caleb was Achsah. 
+@42 Now_the_sons_H1121 of_Caleb_H3612 the_brother_H251 of_Jerahmeel_H3396 were, Mesha_H4337 his_firstborn_H1060, which_was_the_father_H1 of_Ziph_H2128; and_the_sons_H1121 of_Mareshah_H4762 the_father_H1 of_Hebron_H2275. 
+@43 And_the_sons_H1121 of_Hebron_H2275; Korah_H7141, and_Tappuah_H8599, and_Rekem_H7552, and_Shema_H8087. 
+@44 And_Shema_H8087 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Raham_H7357, the_father_H1 of_Jorkoam_H3421: and_Rekem_H7552 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Shammai_H8060. 
+@45 And_the_son_H1121 of_Shammai_H8060 was Maon_H4584: and_Maon_H4584 was the_father_H1 [of Beth-zur]{strong="H1049"}. 
+@46 And_Ephah_H5891, [Caleb’s]{strong="H3612"} concubine_H6370, [bare]{strong="H3205" x-morph="strongMorph: TH8804"} Haran_H2771, and_Moza_H4162, and_Gazez_H1495: and_Haran_H2771 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Gazez_H1495. 
+@47 And_the_sons_H1121 of_Jahdai_H3056; Regem_H7276, and_Jotham_H3147, and_Geshan_H1529, and_Pelet_H6404, and_Ephah_H5891, and_Shaaph_H8174. 
+@48 Maachah_H4601, [Caleb’s]{strong="H3612"} concubine_H6370, [bare]{strong="H3205" x-morph="strongMorph: TH8804"} Sheber_H7669, and_Tirhanah_H8647. 
+@49 [She bare]{strong="H3205" x-morph="strongMorph: TH8799"} also_Shaaph_H8174 the_father_H1 of_Madmannah_H4089, Sheva_H7724 the_father_H1 of_Machbenah_H4343, and_the_father_H1 of_Gibea_H1388: and_the_daughter_H1323 of_Caleb_H3612 was Achsah_H5915. 
 
-@50 These were the sons of Caleb the son of Hur, the firstborn of Ephratah; Shobal the father of Kirjath-jearim,^a^ 
-@51 Salma the father of Beth-lehem, Hareph the father of Beth-gader. 
-@52 And Shobal the father of Kirjath-jearim had sons; Haroeh, and half of the Manahethites.^b^ ^c^ 
-@53 And the families of Kirjath-jearim; the Ithrites, and the Puhites, and the Shumathites, and the Mishraites; of them came the Zareathites, and the Eshtaulites. 
-@54 The sons of Salma; Beth-lehem, and the Netophathites, Ataroth, the house of Joab, and half of the Manahethites, the Zorites.^d^ 
-@55 And the families of the scribes which dwelt at Jabez; the Tirathites, the Shimeathites, and Suchathites. These are the Kenites that came of Hemath, the father of the house of Rechab.
+@50 These_were_the_sons_H1121 of_Caleb_H3612 the_son_H1121 of_Hur_H2354, the_firstborn_H1060 of_Ephratah_H672; Shobal_H7732 the_father_H1 [of Kirjath-jearim]{strong="H7157"},^a^ 
+@51 Salma_H8007 the_father_H1 [of Beth-lehem]{strong="H1035"}, Hareph_H2780 the_father_H1 [of Beth-gader]{strong="H1013"}. 
+@52 And_Shobal_H7732 the_father_H1 [of Kirjath-jearim]{strong="H7157"} had_sons_H1121; Haroeh_H7204, and half_H2677 of_the_Manahethites_H2679.^b^ ^c^ 
+@53 And_the_families_H4940 [of Kirjath-jearim]{strong="H7157"}; the_Ithrites_H3505, and_the_Puhites_H6336, and_the_Shumathites_H8126, and_the_Mishraites_H4954; [of them came]{strong="H3318" x-morph="strongMorph: TH8804"} the_Zareathites_H6882, and_the_Eshtaulites_H848. 
+@54 The_sons_H1121 of_Salma_H8007; [Beth-lehem]{strong="H1035"}, and_the_Netophathites_H5200, Ataroth_H5852, the_house_of_Joab_H5854, and_half_H2677 of_the_Manahethites_H2680, the_Zorites_H6882.^d^ 
+@55 And_the_families_H4940 [of the scribes]{strong="H5608" x-morph="strongMorph: TH8802"} [which dwelt]{strong="H3427 H3427" x-morph="strongMorph: TH8804 strongMorph: TH8675 strongMorph: TH8802"} at_Jabez_H3258; the_Tirathites_H8654, the_Shimeathites_H8101, and Suchathites_H7756. These_H1992 are the_Kenites_H7017 [that came]{strong="H935" x-morph="strongMorph: TH8802"} of_Hemath_H2574, the_father_H1 of_the_house_H1004 of_Rechab_H7394.
 ^a^[**2:50** Ephratah: also called, Ephreth] ^b^[**2:52** Haroeh: or, Reaiah] ^c^[**2:52** half…: or, half of the Menuchites, or, Hatsi-ham-menuchoth] ^d^[**2:54** Ataroth…: or, Atarites, or, crowns of the house of Joab] 
 
 # 3 
-@1 Now these were the sons of David, which were born unto him in Hebron; the firstborn Amnon, of Ahinoam the Jezreelitess; the second Daniel, of Abigail the Carmelitess:^a^ 
-@2 The third, Absalom the son of Maachah the daughter of Talmai king of Geshur: the fourth, Adonijah the son of Haggith: 
-@3 The fifth, Shephatiah of Abital: the sixth, Ithream by Eglah his wife. 
-@4 These six were born unto him in Hebron; and there he reigned seven years and six months: and in Jerusalem he reigned thirty and three years. 
-@5 And these were born unto him in Jerusalem; Shimea, and Shobab, and Nathan, and Solomon, four, of Bath-shua the daughter of Ammiel:^b^ ^c^ ^d^ 
-@6 Ibhar also, and Elishama, and Eliphelet,^e^ 
-@7 And Nogah, and Nepheg, and Japhia, 
-@8 And Elishama, and Eliada, and Eliphelet, nine.^f^ 
-@9 These were all the sons of David, beside the sons of the concubines, and Tamar their sister. 
+@1 Now_these_were_the_sons_H1121 of_David_H1732, [which were born]{strong="H3205" x-morph="strongMorph: TH8738"} unto_him_in_Hebron_H2275; the_firstborn_H1060 Amnon_H550, of_Ahinoam_H293 the_Jezreelitess_H3159; the_second_H8145 Daniel_H1840, of_Abigail_H26 the_Carmelitess_H3762:^a^ 
+@2 The_third_H7992, Absalom_H53 the_son_H1121 of_Maachah_H4601 the_daughter_H1323 of_Talmai_H8526 king_H4428 of_Geshur_H1650: the_fourth_H7243, Adonijah_H138 the_son_H1121 of_Haggith_H2294: 
+@3 The_fifth_H2549, Shephatiah_H8203 of_Abital_H37: the_sixth_H8345, Ithream_H3507 by_Eglah_H5698 his_wife_H802. 
+@4 These six_H8337 [were born]{strong="H3205" x-morph="strongMorph: TH8738"} unto_him_in_Hebron_H2275; [and there he reigned]{strong="H4427" x-morph="strongMorph: TH8799"} seven_H7651 years_H8141 and_six_H8337 months_H2320: and_in_Jerusalem_H3389 [he reigned]{strong="H4427" x-morph="strongMorph: TH8804"} thirty_H7970 and_three_H7969 years_H8141. 
+@5 [And these were born]{strong="H3205" x-morph="strongMorph: TH8738"} unto_him_in_Jerusalem_H3389; Shimea_H8092, and_Shobab_H7727, and_Nathan_H5416, and_Solomon_H8010, four_H702, [of Bath-shua]{strong="H1340"} the_daughter_H1323 of_Ammiel_H5988:^b^ ^c^ ^d^ 
+@6 Ibhar_H2984 [also, and Elishama]{strong="H476"}, and_Eliphelet_H467,^e^ 
+@7 And_Nogah_H5052, and_Nepheg_H5298, and_Japhia_H3309, 
+@8 And_Elishama_H476, and_Eliada_H450, and_Eliphelet_H467, nine_H8672.^f^ 
+@9 These were all_the_sons_H1121 of_David_H1732, beside_the_sons_H1121 of_the_concubines_H6370, and_Tamar_H8559 their_sister_H269. 
 ^a^[**3:1** Daniel: or, Chileab] ^b^[**3:5** Shimea: or, Shammua] ^c^[**3:5** Bath-shua: or, Bath-sheba] ^d^[**3:5** Ammiel: or, Eliam] ^e^[**3:6** Elishama: also called, Elishua] ^f^[**3:8** Eliada: or, Beeliada]
 
-@10 And Solomon’s son was Rehoboam, Abia his son, Asa his son, Jehoshaphat his son,^a^ 
-@11 Joram his son, Ahaziah his son, Joash his son,^b^ 
-@12 Amaziah his son, Azariah his son, Jotham his son,^c^ 
-@13 Ahaz his son, Hezekiah his son, Manasseh his son, 
-@14 Amon his son, Josiah his son. 
-@15 And the sons of Josiah were, the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum.^d^ ^e^ ^f^ 
-@16 And the sons of Jehoiakim: Jeconiah his son, Zedekiah his son.^g^ 
+@10 [And Solomon’s]{strong="H8010"} son_H1121 was Rehoboam_H7346, Abia_H29 his_son_H1121, Asa_H609 his_son_H1121, Jehoshaphat_H3092 his_son_H1121,^a^ 
+@11 Joram_H3141 his_son_H1121, Ahaziah_H274 his_son_H1121, Joash_H3101 his_son_H1121,^b^ 
+@12 Amaziah_H558 his_son_H1121, Azariah_H5838 his_son_H1121, Jotham_H3147 his_son_H1121,^c^ 
+@13 Ahaz_H271 his_son_H1121, Hezekiah_H2396 his_son_H1121, Manasseh_H4519 his_son_H1121, 
+@14 Amon_H526 his_son_H1121, Josiah_H2977 his_son_H1121. 
+@15 And_the_sons_H1121 of_Josiah_H2977 were, the_firstborn_H1060 Johanan_H3110, the_second_H8145 Jehoiakim_H3079, the_third_H7992 Zedekiah_H6667, the_fourth_H7243 Shallum_H7967.^d^ ^e^ ^f^ 
+@16 And_the_sons_H1121 of_Jehoiakim_H3079: Jeconiah_H3204 his_son_H1121, Zedekiah_H6667 his_son_H1121.^g^ 
 ^a^[**3:10** Abia: or, Abijam] ^b^[**3:11** Ahaziah: or, Azariah] ^c^[**3:12** Azariah: or, Uzziah] ^d^[**3:15** Johanan: or, Jehoahaz] ^e^[**3:15** Jehoiakim: or, Eliakim] ^f^[**3:15** Zedekiah: or, Mattaniah] ^g^[**3:16** Jeconiah: also called, Jehoiachin or Coniah]
 
-@17 And the sons of Jeconiah; Assir, Salathiel his son,^a^ 
-@18 Malchiram also, and Pedaiah, and Shenazar, Jecamiah, Hoshama, and Nedabiah. 
-@19 And the sons of Pedaiah were, Zerubbabel, and Shimei: and the sons of Zerubbabel; Meshullam, and Hananiah, and Shelomith their sister: 
-@20 And Hashubah, and Ohel, and Berechiah, and Hasadiah, Jushab-hesed, five. 
-@21 And the sons of Hananiah; Pelatiah, and Jesaiah: the sons of Rephaiah, the sons of Arnan, the sons of Obadiah, the sons of Shechaniah. 
-@22 And the sons of Shechaniah; Shemaiah: and the sons of Shemaiah; Hattush, and Igeal, and Bariah, and Neariah, and Shaphat, six. 
-@23 And the sons of Neariah; Elioenai, and Hezekiah, and Azrikam, three.^b^ 
-@24 And the sons of Elioenai were, Hodaiah, and Eliashib, and Pelaiah, and Akkub, and Johanan, and Dalaiah, and Anani, seven.
+@17 And_the_sons_H1121 of_Jeconiah_H3204; Assir_H617, Salathiel_H7597 his_son_H1121,^a^ 
+@18 Malchiram_H4443 [also, and Pedaiah]{strong="H6305"}, and_Shenazar_H8137, Jecamiah_H3359, Hoshama_H1953, and_Nedabiah_H5072. 
+@19 And_the_sons_H1121 of_Pedaiah_H6305 were, Zerubbabel_H2216, and_Shimei_H8096: and_the_sons_H1121 of_Zerubbabel_H2216; Meshullam_H4918, and_Hananiah_H2608, and_Shelomith_H8019 their_sister_H269: 
+@20 And_Hashubah_H2807, and_Ohel_H169, and_Berechiah_H1296, and_Hasadiah_H2619, [Jushab-hesed]{strong="H3142"}, five_H2568. 
+@21 And_the_sons_H1121 of_Hananiah_H2608; Pelatiah_H6410, and_Jesaiah_H3470: the_sons_H1121 of_Rephaiah_H7509, the_sons_H1121 of_Arnan_H770, the_sons_H1121 of_Obadiah_H5662, the_sons_H1121 of_Shechaniah_H7935. 
+@22 And_the_sons_H1121 of_Shechaniah_H7935; Shemaiah_H8098: and_the_sons_H1121 of_Shemaiah_H8098; Hattush_H2407, and_Igeal_H3008, and_Bariah_H1282, and_Neariah_H5294, and_Shaphat_H8202, six_H8337. 
+@23 And_the_sons_H1121 of_Neariah_H5294; Elioenai_H454, and_Hezekiah_H2396, and_Azrikam_H5840, three_H7969.^b^ 
+@24 And_the_sons_H1121 of_Elioenai_H454 were, Hodaiah_H1939, and_Eliashib_H475, and_Pelaiah_H6411, and_Akkub_H6126, and_Johanan_H3110, and_Dalaiah_H1806, and_Anani_H6054, seven_H7651.
 ^a^[**3:17** Salathiel: Heb. Shealtiel] ^b^[**3:23** Hezekiah: Heb. Hiskijah] 
 
 # 4 
-@1 The sons of Judah; Pharez, Hezron, and Carmi, and Hur, and Shobal.^a^ 
-@2 And Reaiah the son of Shobal begat Jahath; and Jahath begat Ahumai, and Lahad. These are the families of the Zorathites.^b^ 
-@3 And these were of the father of Etam; Jezreel, and Ishma, and Idbash: and the name of their sister was Hazelelponi: 
-@4 And Penuel the father of Gedor, and Ezer the father of Hushah. These are the sons of Hur, the firstborn of Ephratah, the father of Beth-lehem. 
+@1 The_sons_H1121 of_Judah_H3063; Pharez_H6557, Hezron_H2696, and_Carmi_H3756, and_Hur_H2354, and_Shobal_H7732.^a^ 
+@2 And_Reaiah_H7211 the_son_H1121 of_Shobal_H7732 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Jahath_H3189; and_Jahath_H3189 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Ahumai_H267, and_Lahad_H3855. These are the_families_H4940 of_the_Zorathites_H6882.^b^ 
+@3 And these were of the_father_H1 of_Etam_H5862; Jezreel_H3157, and_Ishma_H3457, and_Idbash_H3031: and_the_name_H8034 of_their_sister_H269 was Hazelelponi_H6753: 
+@4 And_Penuel_H6439 the_father_H1 of_Gedor_H1446, and_Ezer_H5829 the_father_H1 of_Hushah_H2364. These are the_sons_H1121 of_Hur_H2354, the_firstborn_H1060 of_Ephratah_H672, the_father_H1 [of Beth-lehem]{strong="H1035"}. 
 ^a^[**4:1** Carmi: also called, Chelubai or Caleb] ^b^[**4:2** Reaiah: or, Haroeh]
 
-@5 And Ashur the father of Tekoa had two wives, Helah and Naarah. 
-@6 And Naarah bare him Ahuzam, and Hepher, and Temeni, and Haahashtari. These were the sons of Naarah. 
-@7 And the sons of Helah were, Zereth, and Jezoar, and Ethnan. 
-@8 And Coz begat Anub, and Zobebah, and the families of Aharhel the son of Harum. 
+@5 And_Ashur_H806 the_father_H1 of_Tekoa_H8620 had_two_H8147 wives_H802, Helah_H2458 and_Naarah_H5292. 
+@6 And_Naarah_H5292 [bare]{strong="H3205" x-morph="strongMorph: TH8799"} him_Ahuzam_H275, and_Hepher_H2660, and_Temeni_H8488, and_Haahashtari_H326. These were the_sons_H1121 of_Naarah_H5292. 
+@7 And_the_sons_H1121 of_Helah_H2458 were, Zereth_H6889, [and Jezoar]{strong="H3328 H6714" x-morph="strongMorph: TH8676"}, and_Ethnan_H869. 
+@8 And_Coz_H6976 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Anub_H6036, and_Zobebah_H6637, and_the_families_H4940 of_Aharhel_H316 the_son_H1121 of_Harum_H2037. 
 
-@9 And Jabez was more honourable than his brethren: and his mother called his name Jabez, saying, Because I bare him with sorrow.^a^ 
-@10 And Jabez called on the God of Israel, saying, Oh that thou wouldest bless me indeed, and enlarge my coast, and that thine hand might be with me, and that thou wouldest keep me from evil, that it may not grieve me! And God granted him that which he requested.^b^ ^c^ 
+@9 And_Jabez_H3258 [was more honourable]{strong="H3513" x-morph="strongMorph: TH8737"} than_his_brethren_H251: and_his_mother_H517 [called]{strong="H7121" x-morph="strongMorph: TH8804"} his_name_H8034 Jabez_H3258, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, [Because I bare]{strong="H3205" x-morph="strongMorph: TH8804"} him_with_sorrow_H6090.^a^ 
+@10 And_Jabez_H3258 [called]{strong="H7121" x-morph="strongMorph: TH8799"} on_the_God_H430 of_Israel_H3478, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, Oh_that_H518 [thou wouldest bless]{strong="H1288" x-morph="strongMorph: TH8762"} [me indeed]{strong="H1288" x-morph="strongMorph: TH8763"}, [and enlarge]{strong="H7235" x-morph="strongMorph: TH8689"} my_coast_H1366, and_that_thine_hand_H3027 [might be with me, and that thou wouldest keep]{strong="H6213" x-morph="strongMorph: TH8804"} me from_evil_H7451, [that it may not grieve]{strong="H6087" x-morph="strongMorph: TH8800"} [me! And God]{strong="H430"} [granted]{strong="H935" x-morph="strongMorph: TH8686"} [him that which he requested]{strong="H7592" x-morph="strongMorph: TH8804"}.^b^ ^c^ 
 ^a^[**4:9** Jabez: that is, Sorrowful] ^b^[**4:10** Oh…: Heb. If thou wilt, etc] ^c^[**4:10** keep…: Heb. do me]
 
-@11 And Chelub the brother of Shuah begat Mehir, which was the father of Eshton. 
-@12 And Eshton begat Beth-rapha, and Paseah, and Tehinnah the father of Ir-nahash. These are the men of Rechah.^a^ 
-@13 And the sons of Kenaz; Othniel, and Seraiah: and the sons of Othniel; Hathath.^b^ 
-@14 And Meonothai begat Ophrah: and Seraiah begat Joab, the father of the valley of Charashim; for they were craftsmen.^c^ ^d^ ^e^ 
-@15 And the sons of Caleb the son of Jephunneh; Iru, Elah, and Naam: and the sons of Elah, even Kenaz.^f^ 
-@16 And the sons of Jehaleleel; Ziph, and Ziphah, Tiria, and Asareel. 
-@17 And the sons of Ezra were, Jether, and Mered, and Epher, and Jalon: and she bare Miriam, and Shammai, and Ishbah the father of Eshtemoa. 
-@18 And his wife Jehudijah bare Jered the father of Gedor, and Heber the father of Socho, and Jekuthiel the father of Zanoah. And these are the sons of Bithiah the daughter of Pharaoh, which Mered took.^g^ 
-@19 And the sons of his wife Hodiah the sister of Naham, the father of Keilah the Garmite, and Eshtemoa the Maachathite.^h^ 
-@20 And the sons of Shimon were, Amnon, and Rinnah, Ben-hanan, and Tilon. And the sons of Ishi were, Zoheth, and Ben-zoheth. 
+@11 And_Chelub_H3620 the_brother_H251 of_Shuah_H7746 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Mehir_H4243, which was the_father_H1 of_Eshton_H850. 
+@12 And_Eshton_H850 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} [Beth-rapha]{strong="H1051"}, and_Paseah_H6454, and_Tehinnah_H8468 the_father_H1 [of Ir-nahash]{strong="H5904"}. These are the_men_H582 of_Rechah_H7397.^a^ 
+@13 And_the_sons_H1121 of_Kenaz_H7073; Othniel_H6274, and_Seraiah_H8304: and_the_sons_H1121 of_Othniel_H6274; Hathath_H2867.^b^ 
+@14 And_Meonothai_H4587 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Ophrah_H6084: and_Seraiah_H8304 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Joab_H3097, the_father_H1 of_the_valley_H1516 of_Charashim_H2798; for_they_were_craftsmen_H2791.^c^ ^d^ ^e^ 
+@15 And_the_sons_H1121 of_Caleb_H3612 the_son_H1121 of_Jephunneh_H3312; Iru_H5900, Elah_H425, and_Naam_H5277: and_the_sons_H1121 of_Elah_H425, even_Kenaz_H7073.^f^ 
+@16 And_the_sons_H1121 of_Jehaleleel_H3094; Ziph_H2128, and_Ziphah_H2129, Tiria_H8493, and_Asareel_H840. 
+@17 And_the_sons_H1121 of_Ezra_H5834 were, Jether_H3500, and_Mered_H4778, and_Epher_H6081, and_Jalon_H3210: [and she bare]{strong="H2029" x-morph="strongMorph: TH8799"} Miriam_H4813, and_Shammai_H8060, and_Ishbah_H3431 the_father_H1 of_Eshtemoa_H851. 
+@18 And_his_wife_H802 Jehudijah_H3057 [bare]{strong="H3205" x-morph="strongMorph: TH8804"} Jered_H3382 the_father_H1 of_Gedor_H1446, and_Heber_H2268 the_father_H1 of_Socho_H7755, and_Jekuthiel_H3354 the_father_H1 of_Zanoah_H2182. And these are the_sons_H1121 of_Bithiah_H1332 the_daughter_H1323 of_Pharaoh_H6547, which_Mered_H4778 [took]{strong="H3947" x-morph="strongMorph: TH8804"}.^g^ 
+@19 And_the_sons_H1121 of his wife_H802 Hodiah_H1940 the_sister_H269 of_Naham_H5163, the_father_H1 of_Keilah_H7084 the_Garmite_H1636, and_Eshtemoa_H851 the_Maachathite_H4602.^h^ 
+@20 And_the_sons_H1121 of_Shimon_H7889 were, Amnon_H550, and_Rinnah_H7441, [Ben-hanan]{strong="H1135"}, and_Tilon_H8436. And_the_sons_H1121 of_Ishi_H3469 were, Zoheth_H2105, [and Ben-zoheth]{strong="H1132"}. 
 ^a^[**4:12** Ir-nahash: or, the city of Nahash] ^b^[**4:13** Hathath…: or, Hathath, and Meonothai, who begat, etc] ^c^[**4:14** valley: or, inhabitants of the valley] ^d^[**4:14** Charashim: that is, craftsmen] ^e^[**4:14** Hathath…: or, Hathath, and Meonothai, who begat, etc] ^f^[**4:15** even Kenaz: or, Uknaz] ^g^[**4:18** Jehudijah: or, the Jewess] ^h^[**4:19** Hodiah: or, Jehudijah, mentioned before]
 
-@21 The sons of Shelah the son of Judah were, Er the father of Lecah, and Laadah the father of Mareshah, and the families of the house of them that wrought fine linen, of the house of Ashbea, 
-@22 And Jokim, and the men of Chozeba, and Joash, and Saraph, who had the dominion in Moab, and Jashubi-lehem. And these are ancient things. 
-@23 These were the potters, and those that dwelt among plants and hedges: there they dwelt with the king for his work. 
+@21 The_sons_H1121 of_Shelah_H7956 the_son_H1121 of_Judah_H3063 were, Er_H6147 the_father_H1 of_Lecah_H3922, and_Laadah_H3935 the_father_H1 of_Mareshah_H4762, and_the_families_H4940 of_the_house_H1004 of_them_that_wrought_H5656 fine_linen_H948, of_the_house_H1004 of_Ashbea_H791, 
+@22 And_Jokim_H3137, and_the_men_H582 of_Chozeba_H3578, and_Joash_H3101, and_Saraph_H8315, [who had the dominion]{strong="H1166" x-morph="strongMorph: TH8804"} in_Moab_H4124, [and Jashubi-lehem]{strong="H3433"}. And these are ancient_H6267 things_H1697. 
+@23 These were [the potters]{strong="H3335" x-morph="strongMorph: TH8802"}, [and those that dwelt]{strong="H3427" x-morph="strongMorph: TH8802"} among_plants_H5196 and_hedges_H1448: [there they dwelt]{strong="H3427" x-morph="strongMorph: TH8804"} with_the_king_H4428 for_his_work_H4399. 
 
-@24 The sons of Simeon were, Nemuel, and Jamin, Jarib, Zerah, and Shaul:^a^ ^b^ 
-@25 Shallum his son, Mibsam his son, Mishma his son. 
-@26 And the sons of Mishma; Hamuel his son, Zacchur his son, Shimei his son. 
-@27 And Shimei had sixteen sons and six daughters; but his brethren had not many children, neither did all their family multiply, like to the children of Judah.^c^ 
-@28 And they dwelt at Beer-sheba, and Moladah, and Hazar-shual, 
-@29 And at Bilhah, and at Ezem, and at Tolad,^d^ ^e^ 
-@30 And at Bethuel, and at Hormah, and at Ziklag, 
-@31 And at Beth-marcaboth, and Hazar-susim, and at Beth-birei, and at Shaaraim. These were their cities unto the reign of David.^f^ 
-@32 And their villages were, Etam, and Ain, Rimmon, and Tochen, and Ashan, five cities:^g^ 
-@33 And all their villages that were round about the same cities, unto Baal. These were their habitations, and their genealogy.^h^ ^i^ 
-@34 And Meshobab, and Jamlech, and Joshah the son of Amaziah, 
-@35 And Joel, and Jehu the son of Josibiah, the son of Seraiah, the son of Asiel, 
-@36 And Elioenai, and Jaakobah, and Jeshohaiah, and Asaiah, and Adiel, and Jesimiel, and Benaiah, 
-@37 And Ziza the son of Shiphi, the son of Allon, the son of Jedaiah, the son of Shimri, the son of Shemaiah; 
-@38 These mentioned by their names were princes in their families: and the house of their fathers increased greatly.^j^ 
+@24 The_sons_H1121 of_Simeon_H8095 were, Nemuel_H5241, and_Jamin_H3226, Jarib_H3402, Zerah_H2226, and Shaul_H7586:^a^ ^b^ 
+@25 Shallum_H7967 his_son_H1121, Mibsam_H4017 his_son_H1121, Mishma_H4927 his_son_H1121. 
+@26 And_the_sons_H1121 of_Mishma_H4927; Hamuel_H2536 his_son_H1121, Zacchur_H2139 his_son_H1121, Shimei_H8096 his_son_H1121. 
+@27 And_Shimei_H8096 [had sixteen]{strong="H6240 H8337"} sons_H1121 and_six_H8337 daughters_H1323; but_his_brethren_H251 had_not_many_H7227 children_H1121, neither_did_all_their_family_H4940 [multiply]{strong="H7235" x-morph="strongMorph: TH8689"}, like_to_the_children_H1121 of_Judah_H3063.^c^ 
+@28 [And they dwelt]{strong="H3427" x-morph="strongMorph: TH8799"} [at Beer-sheba]{strong="H884"}, and_Moladah_H4137, [and Hazar-shual]{strong="H2705"}, 
+@29 And_at_Bilhah_H1090, and_at_Ezem_H6107, and_at_Tolad_H8434,^d^ ^e^ 
+@30 And_at_Bethuel_H1328, and_at_Hormah_H2767, and_at_Ziklag_H6860, 
+@31 [And at Beth-marcaboth]{strong="H1024"}, [and Hazar-susim]{strong="H2702"}, [and at Beth-birei]{strong="H1011"}, and_at_Shaaraim_H8189. These were their_cities_H5892 [unto the reign]{strong="H4427" x-morph="strongMorph: TH8800"} of_David_H1732.^f^ 
+@32 And_their_villages_H2691 were, Etam_H5862, and_Ain_H5871, Rimmon_H7417, and_Tochen_H8507, and_Ashan_H6228, five_H2568 cities_H5892:^g^ 
+@33 And_all_their_villages_H2691 that were round_about_H5439 the_same_cities_H5892, unto_Baal_H1168. These were their_habitations_H4186, [and their genealogy]{strong="H3187" x-morph="strongMorph: TH8692"}.^h^ ^i^ 
+@34 And_Meshobab_H4877, and_Jamlech_H3230, and_Joshah_H3144 the_son_H1121 of_Amaziah_H558, 
+@35 And_Joel_H3100, and_Jehu_H3058 the_son_H1121 of_Josibiah_H3143, the_son_H1121 of_Seraiah_H8304, the_son_H1121 of_Asiel_H6221, 
+@36 And_Elioenai_H454, and_Jaakobah_H3291, and_Jeshohaiah_H3439, and_Asaiah_H6222, and_Adiel_H5717, and_Jesimiel_H3450, and_Benaiah_H1141, 
+@37 And_Ziza_H2124 the_son_H1121 of_Shiphi_H8230, the_son_H1121 of_Allon_H438, the_son_H1121 of_Jedaiah_H3042, the_son_H1121 of_Shimri_H8113, the_son_H1121 of_Shemaiah_H8098; 
+@38 [These mentioned]{strong="H935" x-morph="strongMorph: TH8802"} by their names_H8034 were princes_H5387 in_their_families_H4940: and_the_house_H1004 of_their_fathers_H1 [increased]{strong="H6555" x-morph="strongMorph: TH8804"} greatly_H7230.^j^ 
 ^a^[**4:24** Nemuel: or, Jemuel] ^b^[**4:24** Jarib, Zerah: or, Jachin Zohar] ^c^[**4:27** like…: Heb. unto] ^d^[**4:29** Bilhah: or, Balah] ^e^[**4:29** Tolad: or, Eltolad] ^f^[**4:31** Hazar-susim: or, Hazar-susah] ^g^[**4:32** Etam: or, Ether] ^h^[**4:33** Baal: or, Baalath-beer] ^i^[**4:33** their genealogy: or, as they divided themselves by nations among them] ^j^[**4:38** mentioned: Heb. coming]
 
-@39 And they went to the entrance of Gedor, even unto the east side of the valley, to seek pasture for their flocks. 
-@40 And they found fat pasture and good, and the land was wide, and quiet, and peaceable; for they of Ham had dwelt there of old. 
-@41 And these written by name came in the days of Hezekiah king of Judah, and smote their tents, and the habitations that were found there, and destroyed them utterly unto this day, and dwelt in their rooms: because there was pasture there for their flocks. 
-@42 And some of them, even of the sons of Simeon, five hundred men, went to mount Seir, having for their captains Pelatiah, and Neariah, and Rephaiah, and Uzziel, the sons of Ishi. 
-@43 And they smote the rest of the Amalekites that were escaped, and dwelt there unto this day. 
+@39 [And they went]{strong="H3212" x-morph="strongMorph: TH8799"} to_the_entrance_H3996 of_Gedor_H1446, even unto_the_east_side_H4217 of_the_valley_H1516, [to seek]{strong="H1245" x-morph="strongMorph: TH8763"} pasture_H4829 for_their_flocks_H6629. 
+@40 [And they found]{strong="H4672" x-morph="strongMorph: TH8799"} fat_H8082 pasture_H4829 and_good_H2896, and_the_land_H776 was [wide]{strong="H3027 H7342"}, [and quiet]{strong="H8252" x-morph="strongMorph: TH8802"}, and_peaceable_H7961; for they of_Ham_H2526 [had dwelt]{strong="H3427" x-morph="strongMorph: TH8802"} there_of_old_H6440. 
+@41 [And these written]{strong="H3789" x-morph="strongMorph: TH8803"} by_name_H8034 [came]{strong="H935" x-morph="strongMorph: TH8799"} in_the_days_H3117 of_Hezekiah_H3169 king_H4428 of_Judah_H3063, [and smote]{strong="H5221" x-morph="strongMorph: TH8686"} their_tents_H168, and_the_habitations_H4583 [that were found]{strong="H4672" x-morph="strongMorph: TH8738"} [there, and destroyed]{strong="H2763" x-morph="strongMorph: TH8686"} them_utterly_unto_this_day_H3117, [and dwelt]{strong="H3427" x-morph="strongMorph: TH8799"} in their rooms: because there was pasture_H4829 there_for_their_flocks_H6629. 
+@42 And some of them, even of_the_sons_H1121 of_Simeon_H8095, five_H2568 hundred_H3967 men_H582, [went]{strong="H1980" x-morph="strongMorph: TH8804"} to_mount_H2022 Seir_H8165, having_for_their_captains_H7218 Pelatiah_H6410, and_Neariah_H5294, and_Rephaiah_H7509, and_Uzziel_H5816, the_sons_H1121 of_Ishi_H3469. 
+@43 [And they smote]{strong="H5221" x-morph="strongMorph: TH8686"} the_rest_H7611 of_the_Amalekites_H6002 that_were_escaped_H6413, [and dwelt]{strong="H3427" x-morph="strongMorph: TH8799"} there_unto_this_day_H3117. 
 
 # 5 
-@1 Now the sons of Reuben the firstborn of Israel, (for he was the firstborn; but, forasmuch as he defiled his father’s bed, his birthright was given unto the sons of Joseph the son of Israel: and the genealogy is not to be reckoned after the birthright. 
-@2 For Judah prevailed above his brethren, and of him came the chief ruler; but the birthright was Joseph’s:)^a^ 
-@3 The sons, I say, of Reuben the firstborn of Israel were, Hanoch, and Pallu, Hezron, and Carmi. 
-@4 The sons of Joel; Shemaiah his son, Gog his son, Shimei his son, 
-@5 Micah his son, Reaia his son, Baal his son, 
-@6 Beerah his son, whom Tilgath-pilneser king of Assyria carried away captive: he was prince of the Reubenites.^b^ 
-@7 And his brethren by their families, when the genealogy of their generations was reckoned, were the chief, Jeiel, and Zechariah, 
-@8 And Bela the son of Azaz, the son of Shema, the son of Joel, who dwelt in Aroer, even unto Nebo and Baal-meon:^c^ 
-@9 And eastward he inhabited unto the entering in of the wilderness from the river Euphrates: because their cattle were multiplied in the land of Gilead. 
-@10 And in the days of Saul they made war with the Hagarites, who fell by their hand: and they dwelt in their tents throughout all the east land of Gilead.^d^ 
+@1 Now_the_sons_H1121 of_Reuben_H7205 the_firstborn_H1060 of_Israel_H3478, (for he was the_firstborn_H1060; [but, forasmuch as he defiled]{strong="H2490" x-morph="strongMorph: TH8763"} [his father’s]{strong="H1"} bed_H3326, his_birthright_H1062 [was given]{strong="H5414" x-morph="strongMorph: TH8738"} unto_the_sons_H1121 of_Joseph_H3130 the_son_H1121 of_Israel_H3478: [and the genealogy is not to be reckoned]{strong="H3187" x-morph="strongMorph: TH8692"} after_the_birthright_H1062. 
+@2 For_Judah_H3063 [prevailed]{strong="H1396" x-morph="strongMorph: TH8804"} above_his_brethren_H251, and of him came the_chief_ruler_H5057; but_the_birthright_H1062 was [Joseph’s]{strong="H3130"}:)^a^ 
+@3 The_sons_H1121, I say, of_Reuben_H7205 the_firstborn_H1060 of_Israel_H3478 were, Hanoch_H2585, and_Pallu_H6396, Hezron_H2696, and_Carmi_H3756. 
+@4 The_sons_H1121 of_Joel_H3100; Shemaiah_H8098 his_son_H1121, Gog_H1463 his_son_H1121, Shimei_H8096 his_son_H1121, 
+@5 Micah_H4318 his_son_H1121, Reaia_H7211 his_son_H1121, Baal_H1168 his_son_H1121, 
+@6 Beerah_H880 his_son_H1121, [whom Tilgath-pilneser]{strong="H8407"} king_H4428 of_Assyria_H804 [carried away]{strong="H1540" x-morph="strongMorph: TH8689"} captive: he was prince_H5387 of_the_Reubenites_H7206.^b^ 
+@7 And_his_brethren_H251 by_their_families_H4940, when_the_genealogy_H3187 of_their_generations_H8435 [was reckoned]{strong="H3187" x-morph="strongMorph: TH8692"}, were the_chief_H7218, Jeiel_H3273, and_Zechariah_H2148, 
+@8 And_Bela_H1106 the_son_H1121 of_Azaz_H5811, the_son_H1121 of_Shema_H8087, the_son_H1121 of_Joel_H3100, [who dwelt]{strong="H3427" x-morph="strongMorph: TH8802"} in_Aroer_H6177, even_unto_Nebo_H5015 [and Baal-meon]{strong="H1186"}:^c^ 
+@9 And_eastward_H4217 [he inhabited]{strong="H3427" x-morph="strongMorph: TH8804"} [unto the entering]{strong="H935" x-morph="strongMorph: TH8800"} in_of_the_wilderness_H4057 from_the_river_H5104 Euphrates_H6578: because_their_cattle_H4735 [were multiplied]{strong="H7235" x-morph="strongMorph: TH8804"} in_the_land_H776 of_Gilead_H1568. 
+@10 And_in_the_days_H3117 of_Saul_H7586 [they made]{strong="H6213" x-morph="strongMorph: TH8804"} war_H4421 with_the_Hagarites_H1905, [who fell]{strong="H5307" x-morph="strongMorph: TH8799"} by_their_hand_H3027: [and they dwelt]{strong="H3427" x-morph="strongMorph: TH8799"} in_their_tents_H168 throughout_H6440 all_the_east_H4217 land of_Gilead_H1568.^d^ 
 ^a^[**5:2** chief…: or, prince] ^b^[**5:6** Tilgath-pilneser: also called, Tiglath-pileser] ^c^[**5:8** Shema: or, Shemaiah] ^d^[**5:10** throughout…: Heb. upon all the face of the east]
 
-@11 And the children of Gad dwelt over against them, in the land of Bashan unto Salchah: 
-@12 Joel the chief, and Shapham the next, and Jaanai, and Shaphat in Bashan. 
-@13 And their brethren of the house of their fathers were, Michael, and Meshullam, and Sheba, and Jorai, and Jachan, and Zia, and Heber, seven. 
-@14 These are the children of Abihail the son of Huri, the son of Jaroah, the son of Gilead, the son of Michael, the son of Jeshishai, the son of Jahdo, the son of Buz; 
-@15 Ahi the son of Abdiel, the son of Guni, chief of the house of their fathers. 
-@16 And they dwelt in Gilead in Bashan, and in her towns, and in all the suburbs of Sharon, upon their borders.^a^ 
-@17 All these were reckoned by genealogies in the days of Jotham king of Judah, and in the days of Jeroboam king of Israel. 
+@11 And_the_children_H1121 of_Gad_H1410 [dwelt]{strong="H3427" x-morph="strongMorph: TH8804"} [over against them, in the land]{strong="H776"} of_Bashan_H1316 unto_Salchah_H5548: 
+@12 Joel_H3100 the_chief_H7218, and_Shapham_H8223 the_next_H4932, and_Jaanai_H3285, and_Shaphat_H8202 in_Bashan_H1316. 
+@13 And_their_brethren_H251 of_the_house_H1004 of_their_fathers_H1 were, Michael_H4317, and_Meshullam_H4918, and_Sheba_H7652, and_Jorai_H3140, and_Jachan_H3275, and_Zia_H2127, and_Heber_H5677, seven_H7651. 
+@14 These are the_children_H1121 of_Abihail_H32 the_son_H1121 of_Huri_H2359, the_son_H1121 of_Jaroah_H3386, the_son_H1121 of_Gilead_H1568, the_son_H1121 of_Michael_H4317, the_son_H1121 of_Jeshishai_H3454, the_son_H1121 of_Jahdo_H3163, the_son_H1121 of_Buz_H938; 
+@15 Ahi_H277 the_son_H1121 of_Abdiel_H5661, the_son_H1121 of_Guni_H1476, chief_H7218 of_the_house_H1004 of_their_fathers_H1. 
+@16 [And they dwelt]{strong="H3427" x-morph="strongMorph: TH8799"} in_Gilead_H1568 in_Bashan_H1316, and_in_her_towns_H1323, and_in_all_the_suburbs_H4054 of_Sharon_H8289, upon_their_borders_H8444.^a^ 
+@17 [All these were reckoned by genealogies]{strong="H3187" x-morph="strongMorph: TH8694"} in_the_days_H3117 of_Jotham_H3147 king_H4428 of_Judah_H3063, and_in_the_days_H3117 of_Jeroboam_H3379 king_H4428 of_Israel_H3478. 
 ^a^[**5:16** their…: Heb. their goings forth]
 
-@18 The sons of Reuben, and the Gadites, and half the tribe of Manasseh, of valiant men, men able to bear buckler and sword, and to shoot with bow, and skilful in war, were four and forty thousand seven hundred and threescore, that went out to the war.^a^ 
-@19 And they made war with the Hagarites, with Jetur, and Nephish, and Nodab. 
-@20 And they were helped against them, and the Hagarites were delivered into their hand, and all that were with them: for they cried to God in the battle, and he was intreated of them; because they put their trust in him. 
-@21 And they took away their cattle; of their camels fifty thousand, and of sheep two hundred and fifty thousand, and of asses two thousand, and of men an hundred thousand.^b^ ^c^ 
-@22 For there fell down many slain, because the war was of God. And they dwelt in their steads until the captivity. 
+@18 The_sons_H1121 of_Reuben_H7205, and_the_Gadites_H1425, and_half_H2677 the_tribe_H7626 of_Manasseh_H4519, of_valiant_men_H2428, men_H582 [able to bear]{strong="H5375" x-morph="strongMorph: TH8802"} buckler_H4043 and_sword_H2719, [and to shoot]{strong="H1869" x-morph="strongMorph: TH8802"} with_bow_H7198, [and skilful]{strong="H3925" x-morph="strongMorph: TH8803"} in_war_H4421, were four_H702 and_forty_H705 thousand_H505 seven_H7651 hundred_H3967 and_threescore_H8346, [that went out]{strong="H3318" x-morph="strongMorph: TH8802"} to_the_war_H6635.^a^ 
+@19 [And they made]{strong="H6213" x-morph="strongMorph: TH8799"} war_H4421 with_the_Hagarites_H1905, with_Jetur_H3195, and_Nephish_H5305, and_Nodab_H5114. 
+@20 [And they were helped]{strong="H5826" x-morph="strongMorph: TH8735"} [against them, and the Hagarites]{strong="H1905"} [were delivered]{strong="H5414" x-morph="strongMorph: TH8735"} into_their_hand_H3027, and all that were [with them: for they cried]{strong="H2199" x-morph="strongMorph: TH8804"} to_God_H430 in_the_battle_H4421, [and he was intreated]{strong="H6279" x-morph="strongMorph: TH8736"} [of them; because they put their trust]{strong="H982" x-morph="strongMorph: TH8804"} in him. 
+@21 [And they took away]{strong="H7617" x-morph="strongMorph: TH8799"} their_cattle_H4735; of_their_camels_H1581 fifty_H2572 thousand_H505, and_of_sheep_H6629 two_hundred_H3967 and_fifty_H2572 thousand_H505, and_of_asses_H2543 two_thousand_H505, [and of men]{strong="H5315 H120"} an_hundred_H3967 thousand_H505.^b^ ^c^ 
+@22 [For there fell]{strong="H5307" x-morph="strongMorph: TH8804"} down_many_H7227 slain_H2491, because_the_war_H4421 was of_God_H430. [And they dwelt]{strong="H3427" x-morph="strongMorph: TH8799"} in_their_steads_until_the_captivity_H1473. 
 ^a^[**5:18** valiant…: Heb. sons of valour] ^b^[**5:21** took…: Heb. led captive] ^c^[**5:21** men: Heb. souls of men]
 
-@23 And the children of the half tribe of Manasseh dwelt in the land: they increased from Bashan unto Baal-hermon and Senir, and unto mount Hermon. 
-@24 And these were the heads of the house of their fathers, even Epher, and Ishi, and Eliel, and Azriel, and Jeremiah, and Hodaviah, and Jahdiel, mighty men of valour, famous men, and heads of the house of their fathers.^a^ 
+@23 And_the_children_H1121 of_the_half_H2677 tribe_H7626 of_Manasseh_H4519 [dwelt]{strong="H3427" x-morph="strongMorph: TH8804"} in_the_land_H776: [they increased]{strong="H7235" x-morph="strongMorph: TH8804"} from_Bashan_H1316 [unto Baal-hermon]{strong="H1179"} and_Senir_H8149, and_unto_mount_H2022 Hermon_H2768. 
+@24 And these were the_heads_H7218 of_the_house_H1004 of_their_fathers_H1, even_Epher_H6081, and_Ishi_H3469, and_Eliel_H447, and_Azriel_H5837, and_Jeremiah_H3414, and_Hodaviah_H1938, and_Jahdiel_H3164, mighty_H1368 men_H582 of_valour_H2428, famous_H8034 men_H582, and heads_H7218 of_the_house_H1004 of_their_fathers_H1.^a^ 
 ^a^[**5:24** famous…: Heb. men of names]
 
-@25 And they transgressed against the God of their fathers, and went a whoring after the gods of the people of the land, whom God destroyed before them. 
-@26 And the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgath-pilneser king of Assyria, and he carried them away, even the Reubenites, and the Gadites, and the half tribe of Manasseh, and brought them unto Halah, and Habor, and Hara, and to the river Gozan, unto this day. 
+@25 [And they transgressed]{strong="H4603" x-morph="strongMorph: TH8799"} against_the_God_H430 of_their_fathers_H1, [and went a whoring]{strong="H2181" x-morph="strongMorph: TH8799"} after_H310 the_gods_H430 of_the_people_H5971 of_the_land_H776, whom_God_H430 [destroyed]{strong="H8045" x-morph="strongMorph: TH8689"} before_H6440 them. 
+@26 And_the_God_H430 of_Israel_H3478 [stirred up]{strong="H5782" x-morph="strongMorph: TH8686"} the_spirit_H7307 of_Pul_H6322 king_H4428 of_Assyria_H804, and_the_spirit_H7307 [of Tilgath-pilneser]{strong="H8407"} king_H4428 of_Assyria_H804, [and he carried them away]{strong="H1540" x-morph="strongMorph: TH8686"}, even_the_Reubenites_H7206, and_the_Gadites_H1425, and_the_half_H2677 tribe_H7626 of_Manasseh_H4519, [and brought]{strong="H935" x-morph="strongMorph: TH8686"} them_unto_Halah_H2477, and_Habor_H2249, and_Hara_H2024, and_to_the_river_H5104 Gozan_H1470, unto_this_day_H3117. 
 
 # 6 
-@1 The sons of Levi; Gershon, Kohath, and Merari.^a^ 
-@2 And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel. 
-@3 And the children of Amram; Aaron, and Moses, and Miriam. The sons also of Aaron; Nadab, and Abihu, Eleazar, and Ithamar. 
+@1 The_sons_H1121 of_Levi_H3878; Gershon_H1648, Kohath_H6955, and_Merari_H4847.^a^ 
+@2 And_the_sons_H1121 of_Kohath_H6955; Amram_H6019, Izhar_H3324, and_Hebron_H2275, and_Uzziel_H5816. 
+@3 And_the_children_H1121 of_Amram_H6019; Aaron_H175, and_Moses_H4872, and_Miriam_H4813. The_sons_H1121 also_of_Aaron_H175; Nadab_H5070, and_Abihu_H30, Eleazar_H499, and_Ithamar_H385. 
 ^a^[**6:1** Gershon: or, Gershom]
 
-@4 Eleazar begat Phinehas, Phinehas begat Abishua, 
-@5 And Abishua begat Bukki, and Bukki begat Uzzi, 
-@6 And Uzzi begat Zerahiah, and Zerahiah begat Meraioth, 
-@7 Meraioth begat Amariah, and Amariah begat Ahitub, 
-@8 And Ahitub begat Zadok, and Zadok begat Ahimaaz, 
-@9 And Ahimaaz begat Azariah, and Azariah begat Johanan, 
-@10 And Johanan begat Azariah, (he it is that executed the priest’s office in the temple that Solomon built in Jerusalem:)^a^ 
-@11 And Azariah begat Amariah, and Amariah begat Ahitub, 
-@12 And Ahitub begat Zadok, and Zadok begat Shallum,^b^ 
-@13 And Shallum begat Hilkiah, and Hilkiah begat Azariah, 
-@14 And Azariah begat Seraiah, and Seraiah begat Jehozadak, 
-@15 And Jehozadak went into captivity, when the LORD carried away Judah and Jerusalem by the hand of Nebuchadnezzar. 
+@4 Eleazar_H499 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Phinehas_H6372, Phinehas_H6372 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Abishua_H50, 
+@5 And_Abishua_H50 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Bukki_H1231, and_Bukki_H1231 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Uzzi_H5813, 
+@6 And_Uzzi_H5813 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Zerahiah_H2228, and_Zerahiah_H2228 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Meraioth_H4812, 
+@7 Meraioth_H4812 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Amariah_H568, and_Amariah_H568 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Ahitub_H285, 
+@8 And_Ahitub_H285 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Zadok_H6659, and_Zadok_H6659 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Ahimaaz_H290, 
+@9 And_Ahimaaz_H290 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Azariah_H5838, and_Azariah_H5838 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Johanan_H3110, 
+@10 And_Johanan_H3110 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Azariah_H5838, (he it is [that executed the priest’s office]{strong="H3547" x-morph="strongMorph: TH8765"} in_the_temple_H1004 that_Solomon_H8010 [built]{strong="H1129" x-morph="strongMorph: TH8804"} in_Jerusalem_H3389:)^a^ 
+@11 And_Azariah_H5838 [begat]{strong="H3205" x-morph="strongMorph: TH8686"} Amariah_H568, and_Amariah_H568 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Ahitub_H285, 
+@12 And_Ahitub_H285 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Zadok_H6659, and_Zadok_H6659 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Shallum_H7967,^b^ 
+@13 And_Shallum_H7967 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Hilkiah_H2518, and_Hilkiah_H2518 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Azariah_H5838, 
+@14 And_Azariah_H5838 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Seraiah_H8304, and_Seraiah_H8304 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Jehozadak_H3087, 
+@15 And_Jehozadak_H3087 [went]{strong="H1980" x-morph="strongMorph: TH8804"} into captivity, when the LORD [carried away]{strong="H1540" x-morph="strongMorph: TH8687"} Judah_H3063 and_Jerusalem_H3389 by_the_hand_H3027 of_Nebuchadnezzar_H5019. 
 ^a^[**6:10** in the temple: Heb. in the house] ^b^[**6:12** Shallum: or, Meshullam]
 
-@16 The sons of Levi; Gershom, Kohath, and Merari.^a^ 
-@17 And these be the names of the sons of Gershom; Libni, and Shimei. 
-@18 And the sons of Kohath were, Amram, and Izhar, and Hebron, and Uzziel. 
-@19 The sons of Merari; Mahli, and Mushi. And these are the families of the Levites according to their fathers. 
-@20 Of Gershom; Libni his son, Jahath his son, Zimmah his son, 
-@21 Joah his son, Iddo his son, Zerah his son, Jeaterai his son.^b^ ^c^ ^d^ 
-@22 The sons of Kohath; Amminadab his son, Korah his son, Assir his son,^e^ 
-@23 Elkanah his son, and Ebiasaph his son, and Assir his son, 
-@24 Tahath his son, Uriel his son, Uzziah his son, and Shaul his son. 
-@25 And the sons of Elkanah; Amasai, and Ahimoth. 
-@26 As for Elkanah: the sons of Elkanah; Zophai his son, and Nahath his son,^f^ 
-@27 Eliab his son, Jeroham his son, Elkanah his son. 
-@28 And the sons of Samuel; the firstborn Vashni, and Abiah.^g^ 
-@29 The sons of Merari; Mahli, Libni his son, Shimei his son, Uzza his son, 
-@30 Shimea his son, Haggiah his son, Asaiah his son. 
+@16 The_sons_H1121 of_Levi_H3878; Gershom_H1647, Kohath_H6955, and_Merari_H4847.^a^ 
+@17 And these be the_names_H8034 of_the_sons_H1121 of_Gershom_H1647; Libni_H3845, and_Shimei_H8096. 
+@18 And_the_sons_H1121 of_Kohath_H6955 were, Amram_H6019, and_Izhar_H3324, and_Hebron_H2275, and_Uzziel_H5816. 
+@19 The_sons_H1121 of_Merari_H4847; Mahli_H4249, and_Mushi_H4187. And these are the_families_H4940 of_the_Levites_H3881 according_to_their_fathers_H1. 
+@20 Of_Gershom_H1647; Libni_H3845 his_son_H1121, Jahath_H3189 his_son_H1121, Zimmah_H2155 his_son_H1121, 
+@21 Joah_H3098 his_son_H1121, Iddo_H5714 his_son_H1121, Zerah_H2226 his_son_H1121, Jeaterai_H2979 his_son_H1121.^b^ ^c^ ^d^ 
+@22 The_sons_H1121 of_Kohath_H6955; Amminadab_H5992 his_son_H1121, Korah_H7141 his_son_H1121, Assir_H617 his_son_H1121,^e^ 
+@23 Elkanah_H511 his_son_H1121, and_Ebiasaph_H43 his_son_H1121, and_Assir_H617 his_son_H1121, 
+@24 Tahath_H8480 his_son_H1121, Uriel_H222 his_son_H1121, Uzziah_H5818 his_son_H1121, and_Shaul_H7586 his_son_H1121. 
+@25 And_the_sons_H1121 of_Elkanah_H511; Amasai_H6022, and_Ahimoth_H287. 
+@26 As for Elkanah_H511: the_sons_H1121 of_Elkanah_H511; Zophai_H6689 his_son_H1121, and_Nahath_H5184 his_son_H1121,^f^ 
+@27 Eliab_H446 his_son_H1121, Jeroham_H3395 his_son_H1121, Elkanah_H511 his_son_H1121. 
+@28 And_the_sons_H1121 of_Samuel_H8050; the_firstborn_H1060 Vashni_H2059, and_Abiah_H29.^g^ 
+@29 The_sons_H1121 of_Merari_H4847; Mahli_H4249, Libni_H3845 his_son_H1121, Shimei_H8096 his_son_H1121, Uzza_H5798 his_son_H1121, 
+@30 Shimea_H8092 his_son_H1121, Haggiah_H2293 his_son_H1121, Asaiah_H6222 his_son_H1121. 
 ^a^[**6:16** Gershom: or, Gershon] ^b^[**6:21** Joah: or, Ethan] ^c^[**6:21** Iddo: or, Adaiah] ^d^[**6:21** Jeaterai: also called, Ethni] ^e^[**6:22** Amminadab: or, Izhar] ^f^[**6:26** Zophai: or, Zuph] ^g^[**6:28** Vashni: called also Joel]
 
-@31 And these are they whom David set over the service of song in the house of the LORD, after that the ark had rest. 
-@32 And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of the LORD in Jerusalem: and then they waited on their office according to their order. 
-@33 And these are they that waited with their children. Of the sons of the Kohathites: Heman a singer, the son of Joel, the son of Shemuel,^a^ 
-@34 The son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah, 
-@35 The son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai, 
-@36 The son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah, 
-@37 The son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah, 
-@38 The son of Izhar, the son of Kohath, the son of Levi, the son of Israel. 
-@39 And his brother Asaph, who stood on his right hand, even Asaph the son of Berachiah, the son of Shimea, 
-@40 The son of Michael, the son of Baaseiah, the son of Malchiah, 
-@41 The son of Ethni, the son of Zerah, the son of Adaiah, 
-@42 The son of Ethan, the son of Zimmah, the son of Shimei, 
-@43 The son of Jahath, the son of Gershom, the son of Levi. 
-@44 And their brethren the sons of Merari stood on the left hand: Ethan the son of Kishi, the son of Abdi, the son of Malluch,^b^ 
-@45 The son of Hashabiah, the son of Amaziah, the son of Hilkiah, 
-@46 The son of Amzi, the son of Bani, the son of Shamer, 
-@47 The son of Mahli, the son of Mushi, the son of Merari, the son of Levi. 
-@48 Their brethren also the Levites were appointed unto all manner of service of the tabernacle of the house of God. 
+@31 And these are they whom_David_H1732 [set]{strong="H5975" x-morph="strongMorph: TH8689"} over_the_service_H3027 of_song_H7892 in_the_house_H1004 of the LORD, after_that_the_ark_H727 had_rest_H4494. 
+@32 [And they ministered]{strong="H8334" x-morph="strongMorph: TH8764"} before_H6440 the_dwelling_H4908 place_of_the_tabernacle_H168 of_the_congregation_H4150 with_singing_H7892, until_Solomon_H8010 [had built]{strong="H1129" x-morph="strongMorph: TH8800"} the_house_H1004 of the LORD in_Jerusalem_H3389: and then [they waited]{strong="H5975" x-morph="strongMorph: TH8799"} on_their_office_H5656 according_to_their_order_H4941. 
+@33 And these are [they that waited]{strong="H5975" x-morph="strongMorph: TH8802"} with_their_children_H1121. Of_the_sons_H1121 of_the_Kohathites_H6956: Heman_H1968 [a singer]{strong="H7891" x-morph="strongMorph: TH8789"}, the_son_H1121 of_Joel_H3100, the_son_H1121 of_Shemuel_H8050,^a^ 
+@34 The_son_H1121 of_Elkanah_H511, the_son_H1121 of_Jeroham_H3395, the_son_H1121 of_Eliel_H447, the_son_H1121 of_Toah_H8430, 
+@35 The_son_H1121 of_Zuph_H6689, the_son_H1121 of_Elkanah_H511, the_son_H1121 of_Mahath_H4287, the_son_H1121 of_Amasai_H6022, 
+@36 The_son_H1121 of_Elkanah_H511, the_son_H1121 of_Joel_H3100, the_son_H1121 of_Azariah_H5838, the_son_H1121 of_Zephaniah_H6846, 
+@37 The_son_H1121 of_Tahath_H8480, the_son_H1121 of_Assir_H617, the_son_H1121 of_Ebiasaph_H43, the_son_H1121 of_Korah_H7141, 
+@38 The_son_H1121 of_Izhar_H3324, the_son_H1121 of_Kohath_H6955, the_son_H1121 of_Levi_H3878, the_son_H1121 of_Israel_H3478. 
+@39 And_his_brother_H251 Asaph_H623, [who stood]{strong="H5975" x-morph="strongMorph: TH8802"} on_his_right_hand_H3225, even Asaph_H623 the_son_H1121 of_Berachiah_H1296, the_son_H1121 of_Shimea_H8092, 
+@40 The_son_H1121 of_Michael_H4317, the_son_H1121 of_Baaseiah_H1202, the_son_H1121 of_Malchiah_H4441, 
+@41 The_son_H1121 of_Ethni_H867, the_son_H1121 of_Zerah_H2226, the_son_H1121 of_Adaiah_H5718, 
+@42 The_son_H1121 of_Ethan_H387, the_son_H1121 of_Zimmah_H2155, the_son_H1121 of_Shimei_H8096, 
+@43 The_son_H1121 of_Jahath_H3189, the_son_H1121 of_Gershom_H1647, the_son_H1121 of_Levi_H3878. 
+@44 And_their_brethren_H251 the_sons_H1121 of_Merari_H4847 stood on_the_left_hand_H8040: Ethan_H387 the_son_H1121 of_Kishi_H7029, the_son_H1121 of_Abdi_H5660, the_son_H1121 of_Malluch_H4409,^b^ 
+@45 The_son_H1121 of_Hashabiah_H2811, the_son_H1121 of_Amaziah_H558, the_son_H1121 of_Hilkiah_H2518, 
+@46 The_son_H1121 of_Amzi_H557, the_son_H1121 of_Bani_H1137, the_son_H1121 of_Shamer_H8106, 
+@47 The_son_H1121 of_Mahli_H4249, the_son_H1121 of_Mushi_H4187, the_son_H1121 of_Merari_H4847, the_son_H1121 of_Levi_H3878. 
+@48 Their_brethren_H251 also_the_Levites_H3881 were [appointed]{strong="H5414" x-morph="strongMorph: TH8803"} unto_all_manner_of_service_H5656 of_the_tabernacle_H4908 of_the_house_H1004 of_God_H430. 
 ^a^[**6:33** waited: Heb. stood] ^b^[**6:44** Kishi: or, Kushaiah]
 
-@49 But Aaron and his sons offered upon the altar of the burnt offering, and on the altar of incense, and were appointed for all the work of the place most holy, and to make an atonement for Israel, according to all that Moses the servant of God had commanded. 
-@50 And these are the sons of Aaron; Eleazar his son, Phinehas his son, Abishua his son, 
-@51 Bukki his son, Uzzi his son, Zerahiah his son, 
-@52 Meraioth his son, Amariah his son, Ahitub his son, 
-@53 Zadok his son, Ahimaaz his son. 
+@49 But_Aaron_H175 and_his_sons_H1121 [offered]{strong="H6999" x-morph="strongMorph: TH8688"} upon_the_altar_H4196 of_the_burnt_offering_H5930, and_on_the_altar_H4196 of_incense_H7004, and were appointed for_all_the_work_H4399 of the place most_H6944 holy_H6944, [and to make an atonement]{strong="H3722" x-morph="strongMorph: TH8763"} for_Israel_H3478, according_to_all_that_Moses_H4872 the_servant_H5650 of_God_H430 [had commanded]{strong="H6680" x-morph="strongMorph: TH8765"}. 
+@50 And these are the_sons_H1121 of_Aaron_H175; Eleazar_H499 his_son_H1121, Phinehas_H6372 his_son_H1121, Abishua_H50 his_son_H1121, 
+@51 Bukki_H1231 his_son_H1121, Uzzi_H5813 his_son_H1121, Zerahiah_H2228 his_son_H1121, 
+@52 Meraioth_H4812 his_son_H1121, Amariah_H568 his_son_H1121, Ahitub_H285 his_son_H1121, 
+@53 Zadok_H6659 his_son_H1121, Ahimaaz_H290 his_son_H1121. 
 
-@54 Now these are their dwelling places throughout their castles in their coasts, of the sons of Aaron, of the families of the Kohathites: for theirs was the lot. 
-@55 And they gave them Hebron in the land of Judah, and the suburbs thereof round about it. 
-@56 But the fields of the city, and the villages thereof, they gave to Caleb the son of Jephunneh. 
-@57 And to the sons of Aaron they gave the cities of Judah, namely, Hebron, the city of refuge, and Libnah with her suburbs, and Jattir, and Eshtemoa, with their suburbs, 
-@58 And Hilen with her suburbs, Debir with her suburbs,^a^ 
-@59 And Ashan with her suburbs, and Beth-shemesh with her suburbs:^b^ 
-@60 And out of the tribe of Benjamin; Geba with her suburbs, and Alemeth with her suburbs, and Anathoth with her suburbs. All their cities throughout their families were thirteen cities.^c^ 
-@61 And unto the sons of Kohath, which were left of the family of that tribe, were cities given out of the half tribe, namely, out of the half tribe of Manasseh, by lot, ten cities. 
-@62 And to the sons of Gershom throughout their families out of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the tribe of Manasseh in Bashan, thirteen cities. 
-@63 Unto the sons of Merari were given by lot, throughout their families, out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities. 
-@64 And the children of Israel gave to the Levites these cities with their suburbs. 
-@65 And they gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities, which are called by their names. 
-@66 And the residue of the families of the sons of Kohath had cities of their coasts out of the tribe of Ephraim. 
-@67 And they gave unto them, of the cities of refuge, Shechem in mount Ephraim with her suburbs; they gave also Gezer with her suburbs, 
-@68 And Jokmeam with her suburbs, and Beth-horon with her suburbs, 
-@69 And Aijalon with her suburbs, and Gath-rimmon with her suburbs: 
-@70 And out of the half tribe of Manasseh; Aner with her suburbs, and Bileam with her suburbs, for the family of the remnant of the sons of Kohath. 
-@71 Unto the sons of Gershom were given out of the family of the half tribe of Manasseh, Golan in Bashan with her suburbs, and Ashtaroth with her suburbs: 
-@72 And out of the tribe of Issachar; Kedesh with her suburbs, Daberath with her suburbs, 
-@73 And Ramoth with her suburbs, and Anem with her suburbs: 
-@74 And out of the tribe of Asher; Mashal with her suburbs, and Abdon with her suburbs, 
-@75 And Hukok with her suburbs, and Rehob with her suburbs: 
-@76 And out of the tribe of Naphtali; Kedesh in Galilee with her suburbs, and Hammon with her suburbs, and Kirjathaim with her suburbs. 
-@77 Unto the rest of the children of Merari were given out of the tribe of Zebulun, Rimmon with her suburbs, Tabor with her suburbs: 
-@78 And on the other side Jordan by Jericho, on the east side of Jordan, were given them out of the tribe of Reuben, Bezer in the wilderness with her suburbs, and Jahzah with her suburbs, 
-@79 Kedemoth also with her suburbs, and Mephaath with her suburbs: 
-@80 And out of the tribe of Gad; Ramoth in Gilead with her suburbs, and Mahanaim with her suburbs, 
-@81 And Heshbon with her suburbs, and Jazer with her suburbs.
+@54 Now these are their_dwelling_places_H4186 throughout_their_castles_H2918 in_their_coasts_H1366, of_the_sons_H1121 of_Aaron_H175, of_the_families_H4940 of_the_Kohathites_H6956: for_theirs_was_the_lot_H1486. 
+@55 [And they gave]{strong="H5414" x-morph="strongMorph: TH8799"} them_Hebron_H2275 in_the_land_H776 of_Judah_H3063, and_the_suburbs_H4054 thereof_round_about_H5439 it. 
+@56 But_the_fields_H7704 of_the_city_H5892, and_the_villages_H2691 [thereof, they gave]{strong="H5414" x-morph="strongMorph: TH8804"} to_Caleb_H3612 the_son_H1121 of_Jephunneh_H3312. 
+@57 And_to_the_sons_H1121 of_Aaron_H175 [they gave]{strong="H5414" x-morph="strongMorph: TH8804"} the_cities_H5892 of Judah, namely, Hebron_H2275, the city of_refuge_H4733, and_Libnah_H3841 with_her_suburbs_H4054, and_Jattir_H3492, and_Eshtemoa_H851, with_their_suburbs_H4054, 
+@58 And_Hilen_H2432 with_her_suburbs_H4054, Debir_H1688 with_her_suburbs_H4054,^a^ 
+@59 And_Ashan_H6228 with_her_suburbs_H4054, [and Beth-shemesh]{strong="H1053"} with_her_suburbs_H4054:^b^ 
+@60 And_out_of_the_tribe_H4294 of_Benjamin_H1144; Geba_H1387 with_her_suburbs_H4054, and_Alemeth_H5964 with_her_suburbs_H4054, and_Anathoth_H6068 with_her_suburbs_H4054. All_their_cities_H5892 throughout_their_families_H4940 were [thirteen]{strong="H6240 H7969"} cities_H5892.^c^ 
+@61 And_unto_the_sons_H1121 of_Kohath_H6955, which were [left]{strong="H3498" x-morph="strongMorph: TH8737"} of_the_family_H4940 of_that_tribe_H4294, were cities given out_of_the_half_H2677 tribe_H4294, namely, out of the_half_H4276 tribe of_Manasseh_H4519, by_lot_H1486, ten_H6235 cities_H5892. 
+@62 And_to_the_sons_H1121 of_Gershom_H1647 throughout_their_families_H4940 out_of_the_tribe_H4294 of_Issachar_H3485, and_out_of_the_tribe_H4294 of_Asher_H836, and_out_of_the_tribe_H4294 of_Naphtali_H5321, and_out_of_the_tribe_H4294 of_Manasseh_H4519 in_Bashan_H1316, [thirteen]{strong="H6240 H7969"} cities_H5892. 
+@63 Unto_the_sons_H1121 of_Merari_H4847 were given by_lot_H1486, throughout_their_families_H4940, out_of_the_tribe_H4294 of_Reuben_H7205, and_out_of_the_tribe_H4294 of_Gad_H1410, and_out_of_the_tribe_H4294 of_Zebulun_H2074, [twelve]{strong="H6240 H8147"} cities_H5892. 
+@64 And_the_children_H1121 of_Israel_H3478 [gave]{strong="H5414" x-morph="strongMorph: TH8799"} to_the_Levites_H3881 these cities_H5892 with_their_suburbs_H4054. 
+@65 [And they gave]{strong="H5414" x-morph="strongMorph: TH8799"} by_lot_H1486 out_of_the_tribe_H4294 of_the_children_H1121 of_Judah_H3063, and_out_of_the_tribe_H4294 of_the_children_H1121 of_Simeon_H8095, and_out_of_the_tribe_H4294 of_the_children_H1121 of_Benjamin_H1144, these_cities_H5892, [which are called]{strong="H7121" x-morph="strongMorph: TH8799"} by their names_H8034. 
+@66 And the residue of_the_families_H4940 of_the_sons_H1121 of_Kohath_H6955 had_cities_H5892 of_their_coasts_H1366 out_of_the_tribe_H4294 of_Ephraim_H669. 
+@67 [And they gave]{strong="H5414" x-morph="strongMorph: TH8799"} unto them, of the_cities_H5892 of_refuge_H4733, Shechem_H7927 in_mount_H2022 Ephraim_H669 with_her_suburbs_H4054; they gave also_Gezer_H1507 with_her_suburbs_H4054, 
+@68 And_Jokmeam_H3361 with_her_suburbs_H4054, [and Beth-horon]{strong="H1032"} with_her_suburbs_H4054, 
+@69 And_Aijalon_H357 with_her_suburbs_H4054, [and Gath-rimmon]{strong="H1667"} with_her_suburbs_H4054: 
+@70 And_out_of_the_half_H4276 tribe_H4294 of_Manasseh_H4519; Aner_H6063 with_her_suburbs_H4054, and_Bileam_H1109 with_her_suburbs_H4054, for_the_family_H4940 [of the remnant]{strong="H3498" x-morph="strongMorph: TH8737"} of_the_sons_H1121 of_Kohath_H6955. 
+@71 Unto_the_sons_H1121 of_Gershom_H1647 were given out_of_the_family_H4940 of_the_half_H2677 tribe_H4294 of_Manasseh_H4519, Golan_H1474 in_Bashan_H1316 with_her_suburbs_H4054, and_Ashtaroth_H6252 with_her_suburbs_H4054: 
+@72 And_out_of_the_tribe_H4294 of_Issachar_H3485; Kedesh_H6943 with_her_suburbs_H4054, Daberath_H1705 with_her_suburbs_H4054, 
+@73 And_Ramoth_H7216 with_her_suburbs_H4054, and_Anem_H6046 with_her_suburbs_H4054: 
+@74 And_out_of_the_tribe_H4294 of_Asher_H836; Mashal_H4913 with_her_suburbs_H4054, and_Abdon_H5658 with_her_suburbs_H4054, 
+@75 And_Hukok_H2712 with_her_suburbs_H4054, and_Rehob_H7340 with_her_suburbs_H4054: 
+@76 And_out_of_the_tribe_H4294 of_Naphtali_H5321; Kedesh_H6943 in_Galilee_H1551 with_her_suburbs_H4054, and_Hammon_H2540 with_her_suburbs_H4054, and_Kirjathaim_H7156 with_her_suburbs_H4054. 
+@77 [Unto the rest]{strong="H3498" x-morph="strongMorph: TH8737"} of_the_children_H1121 of_Merari_H4847 were given out_of_the_tribe_H4294 of_Zebulun_H2074, Rimmon_H7417 with_her_suburbs_H4054, Tabor_H8396 with_her_suburbs_H4054: 
+@78 And_on_the_other_side_H5676 Jordan_H3383 by_Jericho_H3405, on_the_east_side_H4217 of_Jordan_H3383, were given them out_of_the_tribe_H4294 of_Reuben_H7205, Bezer_H1221 in_the_wilderness_H4057 with_her_suburbs_H4054, and_Jahzah_H3096 with_her_suburbs_H4054, 
+@79 Kedemoth_H6932 also_with_her_suburbs_H4054, and_Mephaath_H4158 with_her_suburbs_H4054: 
+@80 And_out_of_the_tribe_H4294 of_Gad_H1410; Ramoth_H7216 in_Gilead_H1568 with_her_suburbs_H4054, and_Mahanaim_H4266 with_her_suburbs_H4054, 
+@81 And_Heshbon_H2809 with_her_suburbs_H4054, and_Jazer_H3270 with_her_suburbs_H4054.
 ^a^[**6:58** Hilen: or, Holon] ^b^[**6:59** Ashan: or, Ain] ^c^[**6:60** Alemeth: or, Almon] 
 
 # 7 
-@1 Now the sons of Issachar were, Tola, and Puah, Jashub, and Shimron, four. 
-@2 And the sons of Tola; Uzzi, and Rephaiah, and Jeriel, and Jahmai, and Jibsam, and Shemuel, heads of their father’s house, to wit, of Tola: they were valiant men of might in their generations; whose number was in the days of David two and twenty thousand and six hundred. 
-@3 And the sons of Uzzi; Izrahiah: and the sons of Izrahiah; Michael, and Obadiah, and Joel, Ishiah, five: all of them chief men. 
-@4 And with them, by their generations, after the house of their fathers, were bands of soldiers for war, six and thirty thousand men: for they had many wives and sons. 
-@5 And their brethren among all the families of Issachar were valiant men of might, reckoned in all by their genealogies fourscore and seven thousand. 
+@1 Now_the_sons_H1121 of_Issachar_H3485 were, Tola_H8439, and_Puah_H6312, Jashub_H3437, and_Shimron_H8110, four_H702. 
+@2 And_the_sons_H1121 of_Tola_H8439; Uzzi_H5813, and_Rephaiah_H7509, and_Jeriel_H3400, and_Jahmai_H3181, and_Jibsam_H3005, and_Shemuel_H8050, heads_H7218 [of their father’s]{strong="H1"} house_H1004, to wit, of_Tola_H8439: they were valiant_men_H1368 of_might_H2428 in_their_generations_H8435; whose_number_H4557 was in_the_days_H3117 of_David_H1732 two_H8147 and_twenty_H6242 thousand_H505 and_six_H8337 hundred_H3967. 
+@3 And_the_sons_H1121 of_Uzzi_H5813; Izrahiah_H3156: and_the_sons_H1121 of_Izrahiah_H3156; Michael_H4317, and_Obadiah_H5662, and_Joel_H3100, Ishiah_H3449, five_H2568: all_of_them_chief_men_H7218. 
+@4 [And with them, by their generations]{strong="H8435"}, after_the_house_H1004 of_their_fathers_H1, were bands_H1416 of_soldiers_H6635 for_war_H4421, six_H8337 and_thirty_H7970 thousand_H505 men: [for they had many]{strong="H7235" x-morph="strongMorph: TH8689"} wives_H802 and_sons_H1121. 
+@5 And_their_brethren_H251 among_all_the_families_H4940 of_Issachar_H3485 were valiant_H1368 men_of_might_H2428, [reckoned in all by their genealogies]{strong="H3187" x-morph="strongMorph: TH8692"} fourscore_H8084 and_seven_H7651 thousand_H505. 
 
-@6 The sons of Benjamin; Bela, and Becher, and Jediael, three. 
-@7 And the sons of Bela; Ezbon, and Uzzi, and Uzziel, and Jerimoth, and Iri, five; heads of the house of their fathers, mighty men of valour; and were reckoned by their genealogies twenty and two thousand and thirty and four. 
-@8 And the sons of Becher; Zemira, and Joash, and Eliezer, and Elioenai, and Omri, and Jerimoth, and Abiah, and Anathoth, and Alameth. All these are the sons of Becher. 
-@9 And the number of them, after their genealogy by their generations, heads of the house of their fathers, mighty men of valour, was twenty thousand and two hundred. 
-@10 The sons also of Jediael; Bilhan: and the sons of Bilhan; Jeush, and Benjamin, and Ehud, and Chenaanah, and Zethan, and Tharshish, and Ahishahar. 
-@11 All these the sons of Jediael, by the heads of their fathers, mighty men of valour, were seventeen thousand and two hundred soldiers, fit to go out for war and battle. 
-@12 Shuppim also, and Huppim, the children of Ir, and Hushim, the sons of Aher.^a^ ^b^ 
+@6 The sons of_Benjamin_H1144; Bela_H1106, and_Becher_H1071, and_Jediael_H3043, three_H7969. 
+@7 And_the_sons_H1121 of_Bela_H1106; Ezbon_H675, and_Uzzi_H5813, and_Uzziel_H5816, and_Jerimoth_H3406, and_Iri_H5901, five_H2568; heads_H7218 of_the_house_H1004 of their fathers_H1, mighty_H1368 men_of_valour_H2428; [and were reckoned by their genealogies]{strong="H3187" x-morph="strongMorph: TH8692"} twenty_H6242 and_two_H8147 thousand_H505 and_thirty_H7970 and_four_H702. 
+@8 And_the_sons_H1121 of_Becher_H1071; Zemira_H2160, and_Joash_H3135, and_Eliezer_H461, and_Elioenai_H454, and_Omri_H6018, and_Jerimoth_H3406, and_Abiah_H29, and_Anathoth_H6068, and_Alameth_H5964. All these are the_sons_H1121 of_Becher_H1071. 
+@9 [And the number]{strong="H3187" x-morph="strongMorph: TH8692"} [of them, after their genealogy by their generations]{strong="H8435"}, heads_H7218 of_the_house_H1004 of_their_fathers_H1, mighty_men_H1368 of_valour_H2428, was twenty_H6242 thousand_H505 and_two_hundred_H3967. 
+@10 The_sons_H1121 also_of_Jediael_H3043; Bilhan_H1092: and_the_sons_H1121 of_Bilhan_H1092; Jeush_H3274, and_Benjamin_H1144, and_Ehud_H164, and_Chenaanah_H3668, and_Zethan_H2133, and_Tharshish_H8659, and_Ahishahar_H300. 
+@11 All_these_the_sons_H1121 of_Jediael_H3043, by_the_heads_H7218 of_their_fathers_H1, mighty_H1368 men_of_valour_H2428, were [seventeen]{strong="H6240 H7651"} thousand_H505 and_two_hundred_H3967 soldiers, [fit to go out]{strong="H3318" x-morph="strongMorph: TH8802"} for_war_H6635 and battle_H4421. 
+@12 Shuppim_H8206 [also, and Huppim]{strong="H2650"}, the_children_H1121 of_Ir_H5893, and Hushim_H2366, the_sons_H1121 of_Aher_H313.^a^ ^b^ 
 ^a^[**7:12** Ir: or, Iri] ^b^[**7:12** Aher: or, Ahiram]
 
-@13 The sons of Naphtali; Jahziel, and Guni, and Jezer, and Shallum, the sons of Bilhah. 
+@13 The_sons_H1121 of_Naphtali_H5321; Jahziel_H3185, and_Guni_H1476, and_Jezer_H3337, and_Shallum_H7967, the_sons_H1121 of_Bilhah_H1090. 
 
-@14 The sons of Manasseh; Ashriel, whom she bare: (but his concubine the Aramitess bare Machir the father of Gilead: 
-@15 And Machir took to wife the sister of Huppim and Shuppim, whose sister’s name was Maachah;) and the name of the second was Zelophehad: and Zelophehad had daughters. 
-@16 And Maachah the wife of Machir bare a son, and she called his name Peresh; and the name of his brother was Sheresh; and his sons were Ulam and Rakem. 
-@17 And the sons of Ulam; Bedan. These were the sons of Gilead, the son of Machir, the son of Manasseh. 
-@18 And his sister Hammoleketh bare Ishod, and Abiezer, and Mahalah. 
-@19 And the sons of Shemida were, Ahian, and Shechem, and Likhi, and Aniam. 
+@14 The_sons_H1121 of_Manasseh_H4519; Ashriel_H844, [whom she bare]{strong="H3205" x-morph="strongMorph: TH8804"}: (but his_concubine_H6370 the_Aramitess_H761 [bare]{strong="H3205" x-morph="strongMorph: TH8804"} Machir_H4353 the_father_H1 of_Gilead_H1568: 
+@15 And_Machir_H4353 [took]{strong="H3947" x-morph="strongMorph: TH8804"} to_wife_H802 the sister of_Huppim_H2650 and_Shuppim_H8206, [whose sister’s]{strong="H269"} name_H8034 was Maachah_H4601;) and_the_name_H8034 of_the_second_H8145 was Zelophehad_H6765: and_Zelophehad_H6765 had_daughters_H1323. 
+@16 And_Maachah_H4601 the_wife_H802 of_Machir_H4353 [bare]{strong="H3205" x-morph="strongMorph: TH8799"} a_son_H1121, [and she called]{strong="H7121" x-morph="strongMorph: TH8799"} his_name_H8034 Peresh_H6570; and_the_name_H8034 of_his_brother_H251 was Sheresh_H8329; and_his_sons_H1121 were Ulam_H198 and_Rakem_H7552. 
+@17 And_the_sons_H1121 of_Ulam_H198; Bedan_H917. These were the_sons_H1121 of_Gilead_H1568, the_son_H1121 of_Machir_H4353, the_son_H1121 of_Manasseh_H4519. 
+@18 And_his_sister_H269 Hammoleketh_H4447 [bare]{strong="H3205" x-morph="strongMorph: TH8804"} Ishod_H379, and_Abiezer_H44, and_Mahalah_H4244. 
+@19 And_the_sons_H1121 of_Shemida_H8061 [were, Ahian]{strong="H291"}, and_Shechem_H7928, and_Likhi_H3949, and_Aniam_H593. 
 
-@20 And the sons of Ephraim; Shuthelah, and Bered his son, and Tahath his son, and Eladah his son, and Tahath his son, 
+@20 And_the_sons_H1121 of_Ephraim_H669; Shuthelah_H7803, and_Bered_H1260 his_son_H1121, and_Tahath_H8480 his_son_H1121, and_Eladah_H497 his_son_H1121, and_Tahath_H8480 his_son_H1121, 
 
-@21 And Zabad his son, and Shuthelah his son, and Ezer, and Elead, whom the men of Gath that were born in that land slew, because they came down to take away their cattle. 
-@22 And Ephraim their father mourned many days, and his brethren came to comfort him. 
+@21 And_Zabad_H2066 his_son_H1121, and_Shuthelah_H7803 his_son_H1121, and_Ezer_H5827, and_Elead_H496, whom_the_men_H582 of_Gath_H1661 that were [born]{strong="H3205" x-morph="strongMorph: TH8737"} in that land_H776 [slew]{strong="H2026" x-morph="strongMorph: TH8804"}, [because they came down]{strong="H3381" x-morph="strongMorph: TH8804"} [to take away]{strong="H3947" x-morph="strongMorph: TH8800"} their_cattle_H4735. 
+@22 And_Ephraim_H669 their_father_H1 [mourned]{strong="H56" x-morph="strongMorph: TH8691"} many_H7227 days_H3117, and_his_brethren_H251 [came]{strong="H935" x-morph="strongMorph: TH8799"} [to comfort]{strong="H5162" x-morph="strongMorph: TH8763"} him. 
 
-@23 And when he went in to his wife, she conceived, and bare a son, and he called his name Beriah, because it went evil with his house. 
-@24 (And his daughter was Sherah, who built Beth-horon the nether, and the upper, and Uzzen-sherah.) 
-@25 And Rephah was his son, also Resheph, and Telah his son, and Tahan his son, 
-@26 Laadan his son, Ammihud his son, Elishama his son, 
-@27 Non his son, Jehoshua his son.^a^ ^b^ 
+@23 [And when he went in]{strong="H935" x-morph="strongMorph: TH8799"} to_his_wife_H802, [she conceived]{strong="H2029" x-morph="strongMorph: TH8799"}, [and bare]{strong="H3205" x-morph="strongMorph: TH8799"} a_son_H1121, [and he called]{strong="H7121" x-morph="strongMorph: TH8799"} his_name_H8034 Beriah_H1283, because_it_went_evil_H7451 with_his_house_H1004. 
+@24 (And_his_daughter_H1323 was Sherah_H7609, [who built]{strong="H1129" x-morph="strongMorph: TH8799"} [Beth-horon]{strong="H1032"} the_nether_H8481, and_the_upper_H5945, [and Uzzen-sherah]{strong="H242"}.) 
+@25 And_Rephah_H7506 was his_son_H1121, also_Resheph_H7566, and_Telah_H8520 his_son_H1121, and_Tahan_H8465 his_son_H1121, 
+@26 Laadan_H3936 his_son_H1121, Ammihud_H5989 his_son_H1121, Elishama_H476 his_son_H1121, 
+@27 Non_H5126 his_son_H1121, Jehoshua_H3091 his_son_H1121.^a^ ^b^ 
 ^a^[**7:27** Non: or, Nun] ^b^[**7:27** Jehoshua: or, Joshua]
 
-@28 And their possessions and habitations were, Beth-el and the towns thereof, and eastward Naaran, and westward Gezer, with the towns thereof; Shechem also and the towns thereof, unto Gaza and the towns thereof:^a^ ^b^ 
-@29 And by the borders of the children of Manasseh, Beth-shean and her towns, Taanach and her towns, Megiddo and her towns, Dor and her towns. In these dwelt the children of Joseph the son of Israel.^c^ 
+@28 And_their_possessions_H272 and_habitations_H4186 were, [Beth-el]{strong="H1008"} and_the_towns_H1323 [thereof, and eastward]{strong="H4217"} Naaran_H5295, and_westward_H4628 Gezer_H1507, with_the_towns_H1323 [thereof; Shechem]{strong="H7927"} also_and_the_towns_H1323 [thereof, unto Gaza]{strong="H5804"} and_the_towns_H1323 thereof:^a^ ^b^ 
+@29 And_by_the_borders_H3027 of_the_children_H1121 of_Manasseh_H4519, [Beth-shean]{strong="H1052"} and_her_towns_H1323, Taanach_H8590 and_her_towns_H1323, Megiddo_H4023 and_her_towns_H1323, Dor_H1756 and_her_towns_H1323. [In these dwelt]{strong="H3427" x-morph="strongMorph: TH8804"} the_children_H1121 of_Joseph_H3130 the_son_H1121 of_Israel_H3478.^c^ 
 ^a^[**7:28** towns: Heb. daughters] ^b^[**7:28** unto Gaza: or, Adassa] ^c^[**7:29** towns: Heb. daughters]
 
-@30 The sons of Asher; Imnah, and Isuah, and Ishuai, and Beriah, and Serah their sister. 
-@31 And the sons of Beriah; Heber, and Malchiel, who is the father of Birzavith. 
-@32 And Heber begat Japhlet, and Shomer, and Hotham, and Shua their sister. 
-@33 And the sons of Japhlet; Pasach, and Bimhal, and Ashvath. These are the children of Japhlet. 
-@34 And the sons of Shamer; Ahi, and Rohgah, Jehubbah, and Aram. 
-@35 And the sons of his brother Helem; Zophah, and Imna, and Shelesh, and Amal. 
-@36 The sons of Zophah; Suah, and Harnepher, and Shual, and Beri, and Imrah, 
-@37 Bezer, and Hod, and Shamma, and Shilshah, and Ithran, and Beera. 
-@38 And the sons of Jether; Jephunneh, and Pispah, and Ara. 
-@39 And the sons of Ulla; Arah, and Haniel, and Rezia. 
-@40 All these were the children of Asher, heads of their father’s house, choice and mighty men of valour, chief of the princes. And the number throughout the genealogy of them that were apt to the war and to battle was twenty and six thousand men. 
+@30 The_sons_H1121 of_Asher_H836; Imnah_H3232, and_Isuah_H3438, and_Ishuai_H3440, and_Beriah_H1283, and_Serah_H8294 their_sister_H269. 
+@31 And_the_sons_H1121 of_Beriah_H1283; Heber_H2268, and_Malchiel_H4439, who is the_father_H1 of_Birzavith_H1269. 
+@32 And_Heber_H2268 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Japhlet_H3310, and_Shomer_H7763, and_Hotham_H2369, and_Shua_H7774 their_sister_H269. 
+@33 And_the_sons_H1121 of_Japhlet_H3310; Pasach_H6457, and_Bimhal_H1118, and_Ashvath_H6220. These are the_children_H1121 of_Japhlet_H3310. 
+@34 And_the_sons_H1121 of_Shamer_H8106; Ahi_H277, and_Rohgah_H7303, Jehubbah_H3160, and_Aram_H758. 
+@35 And_the_sons_H1121 of_his_brother_H251 Helem_H1987; Zophah_H6690, and_Imna_H3234, and_Shelesh_H8028, and_Amal_H6000. 
+@36 The_sons_H1121 of_Zophah_H6690; Suah_H5477, and_Harnepher_H2774, and_Shual_H7777, and_Beri_H1275, and_Imrah_H3236, 
+@37 Bezer_H1221, and_Hod_H1936, and_Shamma_H8037, and_Shilshah_H8030, and_Ithran_H3506, and_Beera_H878. 
+@38 And_the_sons_H1121 of_Jether_H3500; Jephunneh_H3312, and_Pispah_H6462, and_Ara_H690. 
+@39 And_the_sons_H1121 of_Ulla_H5925; Arah_H733, and_Haniel_H2592, and_Rezia_H7525. 
+@40 All these were the_children_H1121 of_Asher_H836, heads_H7218 of their [father’s]{strong="H1"} house_H1004, [choice]{strong="H1305" x-morph="strongMorph: TH8803"} and mighty_men_H1368 of_valour_H2428, chief_H7218 of_the_princes_H5387. And_the_number_H4557 [throughout the genealogy]{strong="H3187" x-morph="strongMorph: TH8692"} of_them_that_were_apt_to_the_war_H6635 and to_battle_H4421 was twenty_H6242 and_six_H8337 thousand_H505 men_H582. 
 
 # 8 
-@1 Now Benjamin begat Bela his firstborn, Ashbel the second, and Aharah the third, 
-@2 Nohah the fourth, and Rapha the fifth. 
-@3 And the sons of Bela were, Addar, and Gera, and Abihud,^a^ 
-@4 And Abishua, and Naaman, and Ahoah, 
-@5 And Gera, and Shephuphan, and Huram.^b^ 
-@6 And these are the sons of Ehud: these are the heads of the fathers of the inhabitants of Geba, and they removed them to Manahath: 
-@7 And Naaman, and Ahiah, and Gera, he removed them, and begat Uzza, and Ahihud. 
-@8 And Shaharaim begat children in the country of Moab, after he had sent them away; Hushim and Baara were his wives. 
-@9 And he begat of Hodesh his wife, Jobab, and Zibia, and Mesha, and Malcham, 
-@10 And Jeuz, and Shachia, and Mirma. These were his sons, heads of the fathers. 
-@11 And of Hushim he begat Abitub, and Elpaal. 
-@12 The sons of Elpaal; Eber, and Misham, and Shamed, who built Ono, and Lod, with the towns thereof: 
-@13 Beriah also, and Shema, who were heads of the fathers of the inhabitants of Aijalon, who drove away the inhabitants of Gath: 
-@14 And Ahio, Shashak, and Jeremoth, 
-@15 And Zebadiah, and Arad, and Ader, 
-@16 And Michael, and Ispah, and Joha, the sons of Beriah; 
-@17 And Zebadiah, and Meshullam, and Hezeki, and Heber, 
-@18 Ishmerai also, and Jezliah, and Jobab, the sons of Elpaal; 
-@19 And Jakim, and Zichri, and Zabdi, 
-@20 And Elienai, and Zilthai, and Eliel, 
-@21 And Adaiah, and Beraiah, and Shimrath, the sons of Shimhi;^c^ 
-@22 And Ishpan, and Heber, and Eliel, 
-@23 And Abdon, and Zichri, and Hanan, 
-@24 And Hananiah, and Elam, and Antothijah, 
-@25 And Iphedeiah, and Penuel, the sons of Shashak; 
-@26 And Shamsherai, and Shehariah, and Athaliah, 
-@27 And Jaresiah, and Eliah, and Zichri, the sons of Jeroham. 
-@28 These were heads of the fathers, by their generations, chief men. These dwelt in Jerusalem. 
-@29 And at Gibeon dwelt the father of Gibeon; whose wife’s name was Maachah:^d^ 
-@30 And his firstborn son Abdon, and Zur, and Kish, and Baal, and Nadab, 
-@31 And Gedor, and Ahio, and Zacher.^e^ 
-@32 And Mikloth begat Shimeah. And these also dwelt with their brethren in Jerusalem, over against them.^f^ 
+@1 Now_Benjamin_H1144 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Bela_H1106 his_firstborn_H1060, Ashbel_H788 the_second_H8145, and_Aharah_H315 the_third_H7992, 
+@2 Nohah_H5119 the_fourth_H7243, and_Rapha_H7498 the_fifth_H2549. 
+@3 And_the_sons_H1121 of_Bela_H1106 [were, Addar]{strong="H146"}, and_Gera_H1617, and_Abihud_H31,^a^ 
+@4 And_Abishua_H50, and_Naaman_H5283, and_Ahoah_H265, 
+@5 And_Gera_H1617, and_Shephuphan_H8197, and_Huram_H2361.^b^ 
+@6 And these are the_sons_H1121 of_Ehud_H261: these_are_the_heads_H7218 of_the_fathers_H1 [of the inhabitants]{strong="H3427" x-morph="strongMorph: TH8802"} of_Geba_H1387, [and they removed]{strong="H1540" x-morph="strongMorph: TH8686"} them_to_Manahath_H4506: 
+@7 And_Naaman_H5283, and_Ahiah_H281, and_Gera_H1617, [he removed]{strong="H1540" x-morph="strongMorph: TH8689"} [them, and begat]{strong="H3205" x-morph="strongMorph: TH8689"} Uzza_H5798, and_Ahihud_H284. 
+@8 And_Shaharaim_H7842 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} children in_the_country_H7704 of_Moab_H4124, after_H4480 [he had sent them away]{strong="H7971" x-morph="strongMorph: TH8765"}; Hushim_H2366 and_Baara_H1199 were his_wives_H802. 
+@9 [And he begat]{strong="H3205" x-morph="strongMorph: TH8686"} of_Hodesh_H2321 his_wife_H802, Jobab_H3103, and_Zibia_H6644, and_Mesha_H4331, and_Malcham_H4445, 
+@10 And_Jeuz_H3263, and_Shachia_H7634, and_Mirma_H4821. These were his_sons_H1121, heads_H7218 of_the_fathers_H1. 
+@11 And_of_Hushim_H2366 [he begat]{strong="H3205" x-morph="strongMorph: TH8689"} Abitub_H36, and_Elpaal_H508. 
+@12 The_sons_H1121 of_Elpaal_H508; Eber_H5677, and_Misham_H4936, and_Shamed_H8106, [who built]{strong="H1129" x-morph="strongMorph: TH8804"} Ono_H207, and_Lod_H3850, with_the_towns_H1323 thereof: 
+@13 Beriah_H1283 [also, and Shema]{strong="H8087"}, who_H1992 were heads_H7218 of_the_fathers_H1 [of the inhabitants]{strong="H3427" x-morph="strongMorph: TH8802"} of_Aijalon_H357, [who drove away]{strong="H1272" x-morph="strongMorph: TH8689"} [the inhabitants]{strong="H3427" x-morph="strongMorph: TH8802"} of_Gath_H1661: 
+@14 And_Ahio_H283, Shashak_H8349, and_Jeremoth_H3406, 
+@15 And_Zebadiah_H2069, and_Arad_H6166, and_Ader_H5738, 
+@16 And_Michael_H4317, and_Ispah_H3472, and_Joha_H3109, the_sons_H1121 of_Beriah_H1283; 
+@17 And_Zebadiah_H2069, and_Meshullam_H4918, and_Hezeki_H2395, and_Heber_H2268, 
+@18 Ishmerai_H3461 [also, and Jezliah]{strong="H3152"}, and_Jobab_H3103, the_sons_H1121 of_Elpaal_H508; 
+@19 And_Jakim_H3356, and_Zichri_H2147, and_Zabdi_H2067, 
+@20 And_Elienai_H462, and_Zilthai_H6769, and_Eliel_H447, 
+@21 And_Adaiah_H5718, and_Beraiah_H1256, and_Shimrath_H8119, the_sons_H1121 of_Shimhi_H8096;^c^ 
+@22 And_Ishpan_H3473, and_Heber_H5677, and_Eliel_H447, 
+@23 And_Abdon_H5658, and_Zichri_H2147, and_Hanan_H2605, 
+@24 And_Hananiah_H2608, and_Elam_H5867, and_Antothijah_H6070, 
+@25 And_Iphedeiah_H3301, and_Penuel_H6439, the_sons_H1121 of_Shashak_H8349; 
+@26 And_Shamsherai_H8125, and_Shehariah_H7841, and_Athaliah_H6271, 
+@27 And_Jaresiah_H3298, and_Eliah_H452, and_Zichri_H2147, the_sons_H1121 of_Jeroham_H3395. 
+@28 These were heads_H7218 of_the_fathers_H1, by_their_generations_H8435, chief_H7218 men. [These dwelt]{strong="H3427" x-morph="strongMorph: TH8804"} in_Jerusalem_H3389. 
+@29 And_at_Gibeon_H1391 [dwelt]{strong="H3427" x-morph="strongMorph: TH8804"} the_father_H1 [of Gibeon]{strong="H25 H1391" x-morph="strongMorph: TH8677"}; [whose wife’s]{strong="H802"} name_H8034 was Maachah_H4601:^d^ 
+@30 And_his_firstborn_H1060 son_H1121 Abdon_H5658, and_Zur_H6698, and_Kish_H7027, and_Baal_H1168, and_Nadab_H5070, 
+@31 And_Gedor_H1446, and_Ahio_H283, and_Zacher_H2144.^e^ 
+@32 And_Mikloth_H4732 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Shimeah_H8039. And_these_also_H637 [dwelt]{strong="H3427" x-morph="strongMorph: TH8804"} with_their_brethren_H251 in_Jerusalem_H3389, over_against_them_H5048.^f^ 
 ^a^[**8:3** Addar: or, Ard] ^b^[**8:5** Shephuphan: or, Shupham] ^c^[**8:21** Shimhi: or, Shema] ^d^[**8:29** father…: also called Jehiel] ^e^[**8:31** Zacher: or, Zechariah] ^f^[**8:32** Shimeah: or, Shimeam]
 
-@33 And Ner begat Kish, and Kish begat Saul, and Saul begat Jonathan, and Malchi-shua, and Abinadab, and Esh-baal.^a^ ^b^ 
-@34 And the son of Jonathan was Merib-baal; and Merib-baal begat Micah.^c^ 
-@35 And the sons of Micah were, Pithon, and Melech, and Tarea, and Ahaz.^d^ 
-@36 And Ahaz begat Jehoadah; and Jehoadah begat Alemeth, and Azmaveth, and Zimri; and Zimri begat Moza,^e^ 
-@37 And Moza begat Binea: Rapha was his son, Eleasah his son, Azel his son:^f^ 
-@38 And Azel had six sons, whose names are these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan. All these were the sons of Azel. 
-@39 And the sons of Eshek his brother were, Ulam his firstborn, Jehush the second, and Eliphelet the third. 
-@40 And the sons of Ulam were mighty men of valour, archers, and had many sons, and sons’ sons, an hundred and fifty. All these are of the sons of Benjamin.
+@33 And_Ner_H5369 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Kish_H7027, and_Kish_H7027 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Saul_H7586, and_Saul_H7586 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Jonathan_H3083, [and Malchi-shua]{strong="H4444"}, and_Abinadab_H41, [and Esh-baal]{strong="H792"}.^a^ ^b^ 
+@34 And_the_son_H1121 of_Jonathan_H3083 was [Merib-baal]{strong="H4807"}; [and Merib-baal]{strong="H4807"} [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Micah_H4318.^c^ 
+@35 And_the_sons_H1121 of_Micah_H4318 were, Pithon_H6377, and_Melech_H4429, and_Tarea_H8390, and_Ahaz_H271.^d^ 
+@36 And_Ahaz_H271 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Jehoadah_H3085; and_Jehoadah_H3085 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Alemeth_H5964, and_Azmaveth_H5820, and_Zimri_H2174; and_Zimri_H2174 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Moza_H4162,^e^ 
+@37 And_Moza_H4162 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Binea_H1150: Rapha_H7498 was his_son_H1121, Eleasah_H501 his_son_H1121, Azel_H682 his_son_H1121:^f^ 
+@38 And_Azel_H682 had_six_H8337 sons_H1121, whose_names_H8034 are [these, Azrikam]{strong="H5840"}, Bocheru_H1074, and_Ishmael_H3458, and_Sheariah_H8187, and_Obadiah_H5662, and_Hanan_H2605. All these were the_sons_H1121 of_Azel_H682. 
+@39 And_the_sons_H1121 of_Eshek_H6232 his_brother_H251 were, Ulam_H198 his_firstborn_H1060, Jehush_H3266 the_second_H8145, and_Eliphelet_H467 the_third_H7992. 
+@40 And_the_sons_H1121 of_Ulam_H198 were_mighty_H1368 men_H582 of_valour_H2428, [archers]{strong="H7198 H1869" x-morph="strongMorph: TH8802"}, [and had many]{strong="H7235" x-morph="strongMorph: TH8688"} sons_H1121, [and sons’]{strong="H1121"} sons_H1121, an_hundred_H3967 and_fifty_H2572. All these are of_the_sons_H1121 of_Benjamin_H1144.
 ^a^[**8:33** Abinadab: also called, Ishui] ^b^[**8:33** Esh-baal: or, Ish-bosheth] ^c^[**8:34** Merib-baal: or, Mephibosheth] ^d^[**8:35** Tarea: or, Tahrea] ^e^[**8:36** Jehoadah: also called, Jarah] ^f^[**8:37** Rapha: also called, Rephaiah] 
 
 # 9 
-@1 So all Israel were reckoned by genealogies; and, behold, they were written in the book of the kings of Israel and Judah, who were carried away to Babylon for their transgression. 
+@1 So_all_Israel_H3478 [were reckoned by genealogies]{strong="H3187" x-morph="strongMorph: TH8694"}; and, behold, they were [written]{strong="H3789" x-morph="strongMorph: TH8803"} in_the_book_H5612 of_the_kings_H4428 of_Israel_H3478 and_Judah_H3063, who [were carried away]{strong="H1540" x-morph="strongMorph: TH8717"} to_Babylon_H894 for_their_transgression_H4604. 
 
-@2 Now the first inhabitants that dwelt in their possessions in their cities were, the Israelites, the priests, Levites, and the Nethinims. 
-@3 And in Jerusalem dwelt of the children of Judah, and of the children of Benjamin, and of the children of Ephraim, and Manasseh; 
-@4 Uthai the son of Ammihud, the son of Omri, the son of Imri, the son of Bani, of the children of Pharez the son of Judah. 
-@5 And of the Shilonites; Asaiah the firstborn, and his sons. 
-@6 And of the sons of Zerah; Jeuel, and their brethren, six hundred and ninety. 
-@7 And of the sons of Benjamin; Sallu the son of Meshullam, the son of Hodaviah, the son of Hasenuah, 
-@8 And Ibneiah the son of Jeroham, and Elah the son of Uzzi, the son of Michri, and Meshullam the son of Shephathiah, the son of Reuel, the son of Ibnijah; 
-@9 And their brethren, according to their generations, nine hundred and fifty and six. All these men were chief of the fathers in the house of their fathers. 
+@2 Now_the_first_H7223 [inhabitants]{strong="H3427" x-morph="strongMorph: TH8802"} that dwelt in_their_possessions_H272 in_their_cities_H5892 were, the_Israelites_H3478, the_priests_H3548, Levites_H3881, and_the_Nethinims_H5411. 
+@3 And_in_Jerusalem_H3389 [dwelt]{strong="H3427" x-morph="strongMorph: TH8804"} of_the_children_H1121 of_Judah_H3063, and_of_the_children_H1121 of_Benjamin_H1144, and_of_the_children_H1121 of_Ephraim_H669, and_Manasseh_H4519; 
+@4 Uthai_H5793 the_son_H1121 of_Ammihud_H5989, the_son_H1121 of_Omri_H6018, the_son_H1121 of_Imri_H566, the_son_H1121 of_Bani_H1137, of_the_children_H1121 of_Pharez_H6557 the_son_H1121 of_Judah_H3063. 
+@5 And_of_the_Shilonites_H7888; Asaiah_H6222 the_firstborn_H1060, and_his_sons_H1121. 
+@6 And_of_the_sons_H1121 of_Zerah_H2226; Jeuel_H3262, and_their_brethren_H251, six_H8337 hundred_H3967 and_ninety_H8673. 
+@7 And_of_the_sons_H1121 of_Benjamin_H1144; Sallu_H5543 the_son_H1121 of_Meshullam_H4918, the_son_H1121 of_Hodaviah_H1938, the_son_H1121 of_Hasenuah_H5574, 
+@8 And_Ibneiah_H2997 the_son_H1121 of_Jeroham_H3395, and_Elah_H425 the_son_H1121 of_Uzzi_H5813, the_son_H1121 of_Michri_H4381, and_Meshullam_H4918 the_son_H1121 of_Shephathiah_H8203, the_son_H1121 of_Reuel_H7467, the_son_H1121 of_Ibnijah_H2998; 
+@9 And_their_brethren_H251, according_to_their_generations_H8435, nine_H8672 hundred_H3967 and_fifty_H2572 and_six_H8337. All_these_men_H582 were chief_H7218 of_the_fathers_H1 in_the_house_H1004 of_their_fathers_H1. 
 
-@10 And of the priests; Jedaiah, and Jehoiarib, and Jachin, 
-@11 And Azariah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, the ruler of the house of God;^a^ 
-@12 And Adaiah the son of Jeroham, the son of Pashur, the son of Malchijah, and Maasiai the son of Adiel, the son of Jahzerah, the son of Meshullam, the son of Meshillemith, the son of Immer; 
-@13 And their brethren, heads of the house of their fathers, a thousand and seven hundred and threescore; very able men for the work of the service of the house of God.^b^ 
+@10 And_of_the_priests_H3548; Jedaiah_H3048, and_Jehoiarib_H3080, and_Jachin_H3199, 
+@11 And_Azariah_H5838 the_son_H1121 of_Hilkiah_H2518, the_son_H1121 of_Meshullam_H4918, the_son_H1121 of_Zadok_H6659, the_son_H1121 of_Meraioth_H4812, the_son_H1121 of_Ahitub_H285, the_ruler_H5057 of_the_house_H1004 of_God_H430;^a^ 
+@12 And_Adaiah_H5718 the_son_H1121 of_Jeroham_H3395, the_son_H1121 of_Pashur_H6583, the_son_H1121 of_Malchijah_H4441, and_Maasiai_H4640 the_son_H1121 of_Adiel_H5717, the_son_H1121 of_Jahzerah_H3170, the_son_H1121 of_Meshullam_H4918, the_son_H1121 of_Meshillemith_H4921, the_son_H1121 of_Immer_H564; 
+@13 And_their_brethren_H251, heads_H7218 of_the_house_H1004 of_their_fathers_H1, a_thousand_H505 and_seven_H7651 hundred_H3967 and_threescore_H8346; very_able_H2428 men_H1368 for_the_work_H4399 of_the_service_H5656 of_the_house_H1004 of_God_H430.^b^ 
 ^a^[**9:11** Azariah: also called, Seraiah] ^b^[**9:13** very…: Heb. mighty men of valour]
 
-@14 And of the Levites; Shemaiah the son of Hasshub, the son of Azrikam, the son of Hashabiah, of the sons of Merari; 
-@15 And Bakbakkar, Heresh, and Galal, and Mattaniah the son of Micah, the son of Zichri, the son of Asaph; 
-@16 And Obadiah the son of Shemaiah, the son of Galal, the son of Jeduthun, and Berechiah the son of Asa, the son of Elkanah, that dwelt in the villages of the Netophathites. 
-@17 And the porters were, Shallum, and Akkub, and Talmon, and Ahiman, and their brethren: Shallum was the chief; 
-@18 Who hitherto waited in the king’s gate eastward: they were porters in the companies of the children of Levi. 
-@19 And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of the house of his father, the Korahites, were over the work of the service, keepers of the gates of the tabernacle: and their fathers, being over the host of the LORD, were keepers of the entry.^a^ 
-@20 And Phinehas the son of Eleazar was the ruler over them in time past, and the LORD was with him. 
-@21 And Zechariah the son of Meshelemiah was porter of the door of the tabernacle of the congregation. 
-@22 All these which were chosen to be porters in the gates were two hundred and twelve. These were reckoned by their genealogy in their villages, whom David and Samuel the seer did ordain in their set office.^b^ ^c^ 
-@23 So they and their children had the oversight of the gates of the house of the LORD, namely, the house of the tabernacle, by wards. 
-@24 In four quarters were the porters, toward the east, west, north, and south. 
-@25 And their brethren, which were in their villages, were to come after seven days from time to time with them. 
-@26 For these Levites, the four chief porters, were in their set office, and were over the chambers and treasuries of the house of God.^d^ ^e^ 
+@14 And_of_the_Levites_H3881; Shemaiah_H8098 the_son_H1121 of_Hasshub_H2815, the_son_H1121 of_Azrikam_H5840, the_son_H1121 of_Hashabiah_H2811, of_the_sons_H1121 of_Merari_H4847; 
+@15 And_Bakbakkar_H1230, Heresh_H2792, and_Galal_H1559, and_Mattaniah_H4983 the_son_H1121 of_Micah_H4316, the_son_H1121 of_Zichri_H2147, the_son_H1121 of_Asaph_H623; 
+@16 And_Obadiah_H5662 the_son_H1121 of_Shemaiah_H8098, the_son_H1121 of_Galal_H1559, the_son_H1121 of_Jeduthun_H3038, and_Berechiah_H1296 the_son_H1121 of_Asa_H609, the_son_H1121 of_Elkanah_H511, [that dwelt]{strong="H3427" x-morph="strongMorph: TH8802"} in_the_villages_H2691 of_the_Netophathites_H5200. 
+@17 And_the_porters_H7778 were, Shallum_H7967, and_Akkub_H6126, and_Talmon_H2929, and_Ahiman_H289, and_their_brethren_H251: Shallum_H7967 was the_chief_H7218; 
+@18 Who hitherto waited [in the king’s]{strong="H4428"} gate_H8179 eastward_H4217: they were porters_H7778 in_the_companies_H4264 of_the_children_H1121 of_Levi_H3878. 
+@19 And_Shallum_H7967 the_son_H1121 of_Kore_H6981, the_son_H1121 of_Ebiasaph_H43, the_son_H1121 of_Korah_H7141, and_his_brethren_H251, of_the_house_H1004 of_his_father_H1, the_Korahites_H7145, were over_the_work_H4399 of_the_service_H5656, [keepers ]{strong="H8104" x-morph="strongMorph: TH8802"} of_the_gates_H5592 of_the_tabernacle_H168: and_their_fathers_H1, being over_the_host_H4264 of the LORD, were [keepers]{strong="H8104" x-morph="strongMorph: TH8802"} of_the_entry_H3996.^a^ 
+@20 And_Phinehas_H6372 the_son_H1121 of_Eleazar_H499 was_the_ruler_H5057 over_them_in_time_past_H6440, and the LORD was with him. 
+@21 And Zechariah_H2148 the_son_H1121 of_Meshelemiah_H4920 was porter_H7778 of_the_door_H6607 of_the_tabernacle_H168 of_the_congregation_H4150. 
+@22 All these which were [chosen]{strong="H1305" x-morph="strongMorph: TH8803"} to_be_porters_H7778 in_the_gates_H5592 were two_hundred_H3967 [and twelve]{strong="H6240 H8147"}. [These were reckoned by their genealogy]{strong="H3187" x-morph="strongMorph: TH8692"} in_their_villages_H2691, whom_H1992 David_H1732 and_Samuel_H8050 [the seer]{strong="H7200" x-morph="strongMorph: TH8802"} [did ordain]{strong="H3245" x-morph="strongMorph: TH8765"} in_their_set_office_H530.^b^ ^c^ 
+@23 So_they_and_their_children_H1121 had the_oversight_of_the_gates_H8179 of_the_house_H1004 of the LORD, namely, the_house_H1004 of_the_tabernacle_H168, by_wards_H4931. 
+@24 In_four_H702 quarters_H7307 were_the_porters_H7778, toward_the_east_H4217, west_H3220, north_H6828, and_south_H5045. 
+@25 And_their_brethren_H251, which were in_their_villages_H2691, were [to come]{strong="H935" x-morph="strongMorph: TH8800"} after_seven_H7651 days_H3117 from_time_H6256 to_time_H6256 with them. 
+@26 For_these_Levites_H3881, the_four_H702 chief_H1368 porters_H7778, were in their set_office_H530, and_were_over_the_chambers_H3957 and_treasuries_H214 of_the_house_H1004 of_God_H430.^d^ ^e^ 
 ^a^[**9:19** gates: Heb. thresholds] ^b^[**9:22** did…: Heb. founded] ^c^[**9:22** set…: or, trust] ^d^[**9:26** set…: or, trust] ^e^[**9:26** chambers: or, storehouses]
 
-@27 And they lodged round about the house of God, because the charge was upon them, and the opening thereof every morning pertained to them. 
-@28 And certain of them had the charge of the ministering vessels, that they should bring them in and out by tale.^a^ 
-@29 Some of them also were appointed to oversee the vessels, and all the instruments of the sanctuary, and the fine flour, and the wine, and the oil, and the frankincense, and the spices.^b^ 
-@30 And some of the sons of the priests made the ointment of the spices. 
-@31 And Mattithiah, one of the Levites, who was the firstborn of Shallum the Korahite, had the set office over the things that were made in the pans.^c^ ^d^ 
-@32 And other of their brethren, of the sons of the Kohathites, were over the shewbread, to prepare it every sabbath.^e^ 
-@33 And these are the singers, chief of the fathers of the Levites, who remaining in the chambers were free: for they were employed in that work day and night.^f^ 
-@34 These chief fathers of the Levites were chief throughout their generations; these dwelt at Jerusalem. 
+@27 [And they lodged]{strong="H3885" x-morph="strongMorph: TH8799"} round_about_H5439 the_house_H1004 of_God_H430, because_the_charge_H4931 was [upon them, and the opening]{strong="H4668"} thereof_every_morning_H1242 pertained to them. 
+@28 And certain of_them_had_the_charge_of_H5921 the_ministering_H5656 vessels_H3627, [that they should bring them in]{strong="H935" x-morph="strongMorph: TH8686"} [and out]{strong="H3318" x-morph="strongMorph: TH8686"} [by tale]{strong="H4557 H4557"}.^a^ 
+@29 Some of them also were [appointed]{strong="H4487" x-morph="strongMorph: TH8794"} to_oversee_the_vessels_H3627, and_all_the_instruments_H3627 of_the_sanctuary_H6944, and_the_fine_flour_H5560, and_the_wine_H3196, and_the_oil_H8081, and_the_frankincense_H3828, and_the_spices_H1314.^b^ 
+@30 And some of_the_sons_H1121 of_the_priests_H3548 [made]{strong="H7543" x-morph="strongMorph: TH8802"} the_ointment_H4842 of_the_spices_H1314. 
+@31 And_Mattithiah_H4993, one of_the_Levites_H3881, who was the_firstborn_H1060 of_Shallum_H7967 the_Korahite_H7145, had_the_set_office_H530 over_the_things_that_were_made_H4639 in_the_pans_H2281.^c^ ^d^ 
+@32 And other of_their_brethren_H251, of_the_sons_H1121 of_the_Kohathites_H6956, were [over the shewbread]{strong="H4635 H3899"}, [to prepare]{strong="H3559" x-morph="strongMorph: TH8687"} it every_sabbath_H7676.^e^ 
+@33 And these are [the singers]{strong="H7891" x-morph="strongMorph: TH8789"}, chief_H7218 of_the_fathers_H1 of_the_Levites_H3881, who remaining in_the_chambers_H3957 were [free]{strong="H6359 H6362" x-morph="strongMorph: TH8675 strongMorph: TH8803"}: for they were employed in that work_H4399 day_H3119 and_night_H3915.^f^ 
+@34 These_chief_H7218 fathers_H1 of_the_Levites_H3881 were chief_H7218 throughout_their_generations_H8435; [these dwelt]{strong="H3427" x-morph="strongMorph: TH8804"} at_Jerusalem_H3389. 
 ^a^[**9:28** bring…: Heb. bring them in by tale, and carry them out by tale] ^b^[**9:29** instruments: or, vessels] ^c^[**9:31** set…: or, trust] ^d^[**9:31** in…: or, on flat plates, or, slices] ^e^[**9:32** shewbread: Heb. bread of ordering] ^f^[**9:33** they…: Heb. upon them]
 
-@35 And in Gibeon dwelt the father of Gibeon, Jehiel, whose wife’s name was Maachah: 
-@36 And his firstborn son Abdon, then Zur, and Kish, and Baal, and Ner, and Nadab, 
-@37 And Gedor, and Ahio, and Zechariah, and Mikloth. 
-@38 And Mikloth begat Shimeam. And they also dwelt with their brethren at Jerusalem, over against their brethren. 
-@39 And Ner begat Kish; and Kish begat Saul; and Saul begat Jonathan, and Malchi-shua, and Abinadab, and Esh-baal. 
-@40 And the son of Jonathan was Merib-baal: and Merib-baal begat Micah. 
-@41 And the sons of Micah were, Pithon, and Melech, and Tahrea, and Ahaz. 
-@42 And Ahaz begat Jarah; and Jarah begat Alemeth, and Azmaveth, and Zimri; and Zimri begat Moza; 
-@43 And Moza begat Binea; and Rephaiah his son, Eleasah his son, Azel his son. 
-@44 And Azel had six sons, whose names are these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan: these were the sons of Azel. 
+@35 And_in_Gibeon_H1391 [dwelt]{strong="H3427" x-morph="strongMorph: TH8804"} the_father_H1 [of Gibeon]{strong="H25 H1391" x-morph="strongMorph: TH8677"}, Jehiel_H3273, [whose wife’s]{strong="H802"} name_H8034 was Maachah_H4601: 
+@36 And_his_firstborn_H1060 son_H1121 Abdon_H5658, then_Zur_H6698, and_Kish_H7027, and_Baal_H1168, and_Ner_H5369, and_Nadab_H5070, 
+@37 And_Gedor_H1446, and_Ahio_H283, and_Zechariah_H2148, and_Mikloth_H4732. 
+@38 And_Mikloth_H4732 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Shimeam_H8043. [And they also dwelt]{strong="H3427" x-morph="strongMorph: TH8804"} with_their_brethren_H251 at_Jerusalem_H3389, over_against_their_brethren_H251. 
+@39 And_Ner_H5369 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Kish_H7027; and_Kish_H7027 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Saul_H7586; and_Saul_H7586 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Jonathan_H3083, [and Malchi-shua]{strong="H4444"}, and_Abinadab_H41, [and Esh-baal]{strong="H792"}. 
+@40 And_the_son_H1121 of_Jonathan_H3083 was [Merib-baal]{strong="H4807"}: [and Merib-baal]{strong="H4810"} [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Micah_H4318. 
+@41 And_the_sons_H1121 of_Micah_H4318 were, Pithon_H6377, and_Melech_H4429, and_Tahrea_H8475, and Ahaz. 
+@42 And_Ahaz_H271 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Jarah_H3294; and_Jarah_H3294 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Alemeth_H5964, and_Azmaveth_H5820, and_Zimri_H2174; and_Zimri_H2174 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Moza_H4162; 
+@43 And_Moza_H4162 [begat]{strong="H3205" x-morph="strongMorph: TH8689"} Binea_H1150; and_Rephaiah_H7509 his_son_H1121, Eleasah_H501 his_son_H1121, Azel_H682 his_son_H1121. 
+@44 And_Azel_H682 had_six_H8337 sons_H1121, whose_names_H8034 are [these, Azrikam]{strong="H5840"}, Bocheru_H1074, and_Ishmael_H3458, and_Sheariah_H8187, and_Obadiah_H5662, and_Hanan_H2605: these were the_sons_H1121 of_Azel_H682. 
 
 # 10 
-@1 Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa.^a^ 
-@2 And the Philistines followed hard after Saul, and after his sons; and the Philistines slew Jonathan, and Abinadab, and Malchi-shua, the sons of Saul.^b^ 
-@3 And the battle went sore against Saul, and the archers hit him, and he was wounded of the archers.^c^ ^d^ 
-@4 Then said Saul to his armourbearer, Draw thy sword, and thrust me through therewith; lest these uncircumcised come and abuse me. But his armourbearer would not; for he was sore afraid. So Saul took a sword, and fell upon it.^e^ 
-@5 And when his armourbearer saw that Saul was dead, he fell likewise on the sword, and died. 
-@6 So Saul died, and his three sons, and all his house died together. 
-@7 And when all the men of Israel that were in the valley saw that they fled, and that Saul and his sons were dead, then they forsook their cities, and fled: and the Philistines came and dwelt in them. 
+@1 Now_the_Philistines_H6430 [fought]{strong="H3898" x-morph="strongMorph: TH8738"} against_Israel_H3478; and_the_men_H376 of_Israel_H3478 [fled]{strong="H5127" x-morph="strongMorph: TH8799"} from_before_H6440 the_Philistines_H6430, [and fell down]{strong="H5307" x-morph="strongMorph: TH8799"} slain_H2491 in_mount_H2022 Gilboa_H1533.^a^ 
+@2 And_the_Philistines_H6430 [followed hard]{strong="H1692" x-morph="strongMorph: TH8686"} after_H310 Saul_H7586, and_after_H310 his_sons_H1121; and_the_Philistines_H6430 [slew]{strong="H5221" x-morph="strongMorph: TH8686"} Jonathan_H3129, and_Abinadab_H41, [and Malchi-shua]{strong="H4444"}, the_sons_H1121 of_Saul_H7586.^b^ 
+@3 And_the_battle_H4421 [went sore]{strong="H3513" x-morph="strongMorph: TH8799"} against_Saul_H7586, [and the archers]{strong="H7198 H3384" x-morph="strongMorph: TH8688"} [hit]{strong="H4672" x-morph="strongMorph: TH8799"} [him, and he was wounded]{strong="H2342" x-morph="strongMorph: TH8799"} [of the archers]{strong="H3384" x-morph="strongMorph: TH8802"}.^c^ ^d^ 
+@4 [Then said]{strong="H559" x-morph="strongMorph: TH8799"} Saul_H7586 [to his armourbearer]{strong="H3627 H5375" x-morph="strongMorph: TH8802"}, [Draw]{strong="H8025" x-morph="strongMorph: TH8798"} thy_sword_H2719, [and thrust]{strong="H1856" x-morph="strongMorph: TH8798"} [me through therewith; lest these uncircumcised]{strong="H6189"} [come]{strong="H935" x-morph="strongMorph: TH8799"} [and abuse]{strong="H5953" x-morph="strongMorph: TH8694"} [me. But his armourbearer]{strong="H3627 H5375" x-morph="strongMorph: TH8802"} [would]{strong="H14" x-morph="strongMorph: TH8804"} [not; for he was sore]{strong="H3966"} [afraid]{strong="H3372" x-morph="strongMorph: TH8804"}. So_Saul_H7586 [took]{strong="H3947" x-morph="strongMorph: TH8799"} a_sword_H2719, [and fell]{strong="H5307" x-morph="strongMorph: TH8799"} upon it.^e^ 
+@5 [And when his armourbearer]{strong="H3627 H5375" x-morph="strongMorph: TH8802"} [saw]{strong="H7200" x-morph="strongMorph: TH8799"} that_Saul_H7586 [was dead]{strong="H4191" x-morph="strongMorph: TH8804"}, [he fell]{strong="H5307" x-morph="strongMorph: TH8799"} likewise_on_the_sword_H2719, [and died]{strong="H4191" x-morph="strongMorph: TH8799"}. 
+@6 So_Saul_H7586 [died]{strong="H4191" x-morph="strongMorph: TH8799"}, and_his_three_H7969 sons_H1121, and_all_his_house_H1004 [died]{strong="H4191" x-morph="strongMorph: TH8804"} together_H3162. 
+@7 And_when_all_the_men_H376 of_Israel_H3478 that were in_the_valley_H6010 [saw]{strong="H7200" x-morph="strongMorph: TH8799"} [that they fled]{strong="H5127" x-morph="strongMorph: TH8804"}, and_that_Saul_H7586 and_his_sons_H1121 [were dead]{strong="H4191" x-morph="strongMorph: TH8804"}, [then they forsook]{strong="H5800" x-morph="strongMorph: TH8799"} their_cities_H5892, [and fled]{strong="H5127" x-morph="strongMorph: TH8799"}: and_the_Philistines_H6430 [came]{strong="H935" x-morph="strongMorph: TH8799"} [and dwelt]{strong="H3427" x-morph="strongMorph: TH8799"} in them. 
 ^a^[**10:1** slain: or, wounded] ^b^[**10:2** Abinadab: also called, Ishui] ^c^[**10:3** and the archers: Heb. and the shooters with bows] ^d^[**10:3** hit: Heb. found] ^e^[**10:4** abuse me: or, mock me]
 
-@8 And it came to pass on the morrow, when the Philistines came to strip the slain, that they found Saul and his sons fallen in mount Gilboa. 
-@9 And when they had stripped him, they took his head, and his armour, and sent into the land of the Philistines round about, to carry tidings unto their idols, and to the people. 
-@10 And they put his armour in the house of their gods, and fastened his head in the temple of Dagon. 
+@8 And_it_came_to_pass_on_the_morrow_H4283, when_the_Philistines_H6430 [came]{strong="H935" x-morph="strongMorph: TH8799"} [to strip]{strong="H6584" x-morph="strongMorph: TH8763"} the_slain_H2491, [that they found]{strong="H4672" x-morph="strongMorph: TH8799"} Saul_H7586 and_his_sons_H1121 [fallen]{strong="H5307" x-morph="strongMorph: TH8802"} in_mount_H2022 Gilboa_H1533. 
+@9 [And when they had stripped]{strong="H6584" x-morph="strongMorph: TH8686"} [him, they took]{strong="H5375" x-morph="strongMorph: TH8799"} his_head_H7218, and_his_armour_H3627, [and sent]{strong="H7971" x-morph="strongMorph: TH8762"} into_the_land_H776 of_the_Philistines_H6430 round_about_H5439, [to carry tidings]{strong="H1319" x-morph="strongMorph: TH8763"} unto_their_idols_H6091, and_to_the_people_H5971. 
+@10 [And they put]{strong="H7760" x-morph="strongMorph: TH8799"} his_armour_H3627 in_the_house_H1004 of_their_gods_H430, [and fastened]{strong="H8628" x-morph="strongMorph: TH8804"} his_head_H1538 in_the_temple_H1004 of_Dagon_H1712. 
 
-@11 And when all Jabesh-gilead heard all that the Philistines had done to Saul, 
-@12 They arose, all the valiant men, and took away the body of Saul, and the bodies of his sons, and brought them to Jabesh, and buried their bones under the oak in Jabesh, and fasted seven days. 
+@11 [And when all Jabesh-gilead]{strong="H1568 H3003"} [heard]{strong="H8085" x-morph="strongMorph: TH8799"} all_that_the_Philistines_H6430 [had done]{strong="H6213" x-morph="strongMorph: TH8804"} to_Saul_H7586, 
+@12 [They arose]{strong="H6965" x-morph="strongMorph: TH8799"}, all_the_valiant_H2428 men_H376, [and took away]{strong="H5375" x-morph="strongMorph: TH8799"} the_body_H1480 of_Saul_H7586, and_the_bodies_H1480 of_his_sons_H1121, [and brought]{strong="H935" x-morph="strongMorph: TH8686"} them_to_Jabesh_H3003, [and buried]{strong="H6912" x-morph="strongMorph: TH8799"} their_bones_H6106 under_the_oak_H424 in_Jabesh_H3003, [and fasted]{strong="H6684" x-morph="strongMorph: TH8799"} seven_H7651 days_H3117. 
 
-@13 So Saul died for his transgression which he committed against the LORD, even against the word of the LORD, which he kept not, and also for asking counsel of one that had a familiar spirit, to enquire of it;^a^ 
-@14 And enquired not of the LORD: therefore he slew him, and turned the kingdom unto David the son of Jesse.^b^
+@13 So_Saul_H7586 [died]{strong="H4191" x-morph="strongMorph: TH8799"} for_his_transgression_H4604 [which he committed]{strong="H4603" x-morph="strongMorph: TH8804"} against the LORD, even against_the_word_H1697 of the LORD, [which he kept]{strong="H8104" x-morph="strongMorph: TH8804"} [not, and also for asking]{strong="H7592" x-morph="strongMorph: TH8800"} counsel of one that had a_familiar_spirit_H178, [to enquire]{strong="H1875" x-morph="strongMorph: TH8800"} of it;^a^ 
+@14 [And enquired]{strong="H1875" x-morph="strongMorph: TH8804"} not of the LORD: [therefore he slew]{strong="H4191" x-morph="strongMorph: TH8686"} [him, and turned]{strong="H5437" x-morph="strongMorph: TH8686"} the_kingdom_H4410 unto_David_H1732 the_son_H1121 of_Jesse_H3448.^b^
 ^a^[**10:13** committed: Heb. transgressed] ^b^[**10:14** Jesse: Heb. Isai] 
 
 # 11 
-@1 Then all Israel gathered themselves to David unto Hebron, saying, Behold, we are thy bone and thy flesh. 
-@2 And moreover in time past, even when Saul was king, thou wast he that leddest out and broughtest in Israel: and the LORD thy God said unto thee, Thou shalt feed my people Israel, and thou shalt be ruler over my people Israel.^a^ ^b^ 
-@3 Therefore came all the elders of Israel to the king to Hebron; and David made a covenant with them in Hebron before the LORD; and they anointed David king over Israel, according to the word of the LORD by Samuel.^c^ 
+@1 Then_all_Israel_H3478 [gathered]{strong="H6908" x-morph="strongMorph: TH8735"} themselves_to_David_H1732 unto_Hebron_H2275, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, Behold, we are thy_bone_H6106 and_thy_flesh_H1320. 
+@2 And_moreover_in_time_H8543 past_H8032, even_when_Saul_H7586 was_king_H4428, thou wast [he that leddest out]{strong="H3318" x-morph="strongMorph: TH8688"} [and broughtest in]{strong="H935" x-morph="strongMorph: TH8688"} Israel_H3478: and the LORD thy_God_H430 [said]{strong="H559" x-morph="strongMorph: TH8799"} [unto thee, Thou shalt feed]{strong="H7462" x-morph="strongMorph: TH8799"} my_people_H5971 Israel_H3478, and_thou_shalt_be_ruler_H5057 over_my_people_H1571 Israel_H3478.^a^ ^b^ 
+@3 [Therefore came]{strong="H935" x-morph="strongMorph: TH8799"} all_the_elders_H2205 of_Israel_H3478 to_the_king_H4428 to_Hebron_H2275; and_David_H1732 [made]{strong="H3772" x-morph="strongMorph: TH8799"} a_covenant_H1285 with_them_in_Hebron_H2275 before_H6440 the LORD; [and they anointed]{strong="H4886" x-morph="strongMorph: TH8799"} David_H1732 king_H4428 over_Israel_H3478, according_to_the_word_H1697 of the LORD by_H3027 Samuel_H8050.^c^ 
 ^a^[**11:2** in time…: Heb. both yesterday and the third day] ^b^[**11:2** feed: or, rule] ^c^[**11:3** by: Heb. by the hand of]
 
-@4 And David and all Israel went to Jerusalem, which is Jebus; where the Jebusites were, the inhabitants of the land. 
-@5 And the inhabitants of Jebus said to David, Thou shalt not come hither. Nevertheless David took the castle of Zion, which is the city of David. 
-@6 And David said, Whosoever smiteth the Jebusites first shall be chief and captain. So Joab the son of Zeruiah went first up, and was chief.^a^ 
-@7 And David dwelt in the castle; therefore they called it the city of David.^b^ 
-@8 And he built the city round about, even from Millo round about: and Joab repaired the rest of the city.^c^ 
-@9 So David waxed greater and greater: for the LORD of hosts was with him.^d^ 
+@4 And_David_H1732 and_all_Israel_H3478 [went]{strong="H3212" x-morph="strongMorph: TH8799"} to_Jerusalem_H3389, which is Jebus_H2982; where_the_Jebusites_H2983 were, [the inhabitants]{strong="H3427" x-morph="strongMorph: TH8802"} of_the_land_H776. 
+@5 [And the inhabitants]{strong="H3427" x-morph="strongMorph: TH8802"} of_Jebus_H2982 [said]{strong="H559" x-morph="strongMorph: TH8799"} to_David_H1732, [Thou shalt not come]{strong="H935" x-morph="strongMorph: TH8799"} [hither. Nevertheless David]{strong="H1732"} [took]{strong="H3920" x-morph="strongMorph: TH8799"} the_castle_H4686 of_Zion_H6726, which is the_city_H5892 of_David_H1732. 
+@6 And_David_H1732 [said]{strong="H559" x-morph="strongMorph: TH8799"}, [Whosoever smiteth]{strong="H5221" x-morph="strongMorph: TH8688"} the_Jebusites_H2983 first_H7223 shall_be_chief_H7218 and_captain_H8269. So_Joab_H3097 the_son_H1121 of_Zeruiah_H6870 went_H5927 first_H7223 [up]{strong="H5927" x-morph="strongMorph: TH8799"}, and_was_chief_H7218.^a^ 
+@7 And_David_H1732 [dwelt]{strong="H3427" x-morph="strongMorph: TH8799"} in_the_castle_H4679; [therefore they called]{strong="H7121" x-morph="strongMorph: TH8804"} it_the_city_H5892 of_David_H1732.^b^ 
+@8 [And he built]{strong="H1129" x-morph="strongMorph: TH8799"} the_city_H5892 round_about_H5439, even_from_Millo_H4407 round_about_H5439: and_Joab_H3097 [repaired]{strong="H2421" x-morph="strongMorph: TH8762"} the_rest_H7605 of_the_city_H5892.^c^ 
+@9 So_David_H1732 [waxed]{strong="H3212" x-morph="strongMorph: TH8799"} [greater]{strong="H1980" x-morph="strongMorph: TH8800"} and_greater_H1419: for the LORD of_hosts_H6635 was with him.^d^ 
 ^a^[**11:6** chief: Heb. head] ^b^[**11:7** it: that is, Zion] ^c^[**11:8** repaired: Heb. revived] ^d^[**11:9** waxed…: Heb. went in going and increasing]
 
-@10 These also are the chief of the mighty men whom David had, who strengthened themselves with him in his kingdom, and with all Israel, to make him king, according to the word of the LORD concerning Israel.^a^ 
-@11 And this is the number of the mighty men whom David had; Jashobeam, an Hachmonite, the chief of the captains: he lifted up his spear against three hundred slain by him at one time.^b^ 
-@12 And after him was Eleazar the son of Dodo, the Ahohite, who was one of the three mighties. 
-@13 He was with David at Pas-dammim, and there the Philistines were gathered together to battle, where was a parcel of ground full of barley; and the people fled from before the Philistines.^c^ 
-@14 And they set themselves in the midst of that parcel, and delivered it, and slew the Philistines; and the LORD saved them by a great deliverance.^d^ ^e^ 
+@10 These also are the_chief_H7218 of_the_mighty_men_H1368 whom_David_H1732 [had, who strengthened]{strong="H2388" x-morph="strongMorph: TH8693"} themselves_with_him_in_his_kingdom_H4438, and with_all_Israel_H3478, [to make him king]{strong="H4427" x-morph="strongMorph: TH8687"}, according_to_the_word_H1697 of the LORD concerning_Israel_H3478.^a^ 
+@11 And this is the_number_H4557 of_the_mighty_men_H1368 whom_David_H1732 [had; Jashobeam]{strong="H3434"}, an_Hachmonite_H2453, the_chief_H7218 [of the captains]{strong="H7970 H7991" x-morph="strongMorph: TH8675"}: [he lifted up]{strong="H5782" x-morph="strongMorph: TH8790"} his_spear_H2595 against_three_H7969 hundred_H3967 slain_H2491 by him at_one_H259 time_H6471.^b^ 
+@12 And_after_H310 him was Eleazar_H499 the_son_H1121 of_Dodo_H1734, the_Ahohite_H266, who was one of_the_three_H7969 mighties_H1368. 
+@13 He_was_with_David_H1732 [at Pas-dammim]{strong="H6450"}, and_there_the_Philistines_H6430 [were gathered together]{strong="H622" x-morph="strongMorph: TH8738"} to_battle_H4421, where_was_a_parcel_H2513 of_ground_H7704 full_H4392 of_barley_H8184; and_the_people_H5971 [fled]{strong="H5127" x-morph="strongMorph: TH8804"} from_before_H6440 the_Philistines_H6430.^c^ 
+@14 [And they set]{strong="H3320" x-morph="strongMorph: TH8691"} themselves_in_the_midst_H8432 of that parcel_H2513, [and delivered]{strong="H5337" x-morph="strongMorph: TH8686"} [it, and slew]{strong="H5221" x-morph="strongMorph: TH8686"} the_Philistines_H6430; and the LORD [saved]{strong="H3467" x-morph="strongMorph: TH8686"} them by_a_great_H1419 deliverance_H8668.^d^ ^e^ 
 ^a^[**11:10** strengthened…: or, held strongly with him] ^b^[**11:11** an Hachmonite: or, son of Hachmoni] ^c^[**11:13** Pas-dammim: also called, Ephes-dammim] ^d^[**11:14** set…: or, stood] ^e^[**11:14** deliverance: or, salvation]
 
-@15 Now three of the thirty captains went down to the rock to David, into the cave of Adullam; and the host of the Philistines encamped in the valley of Rephaim.^a^ 
-@16 And David was then in the hold, and the Philistines’ garrison was then at Beth-lehem. 
-@17 And David longed, and said, Oh that one would give me drink of the water of the well of Beth-lehem, that is at the gate! 
-@18 And the three brake through the host of the Philistines, and drew water out of the well of Beth-lehem, that was by the gate, and took it, and brought it to David: but David would not drink of it, but poured it out to the LORD, 
-@19 And said, My God forbid it me, that I should do this thing: shall I drink the blood of these men that have put their lives in jeopardy? for with the jeopardy of their lives they brought it. Therefore he would not drink it. These things did these three mightiest.^b^ 
+@15 Now_three_H7969 of_the_thirty_H7970 captains_H7218 [went down]{strong="H3381" x-morph="strongMorph: TH8799"} to_the_rock_H6697 to_David_H1732, into_the_cave_H4631 of_Adullam_H5725; and_the_host_H4264 of_the_Philistines_H6430 [encamped]{strong="H2583" x-morph="strongMorph: TH8802"} in_the_valley_H6010 of_Rephaim_H7497.^a^ 
+@16 And_David_H1732 was then_in_the_hold_H4686, [and the Philistines’]{strong="H6430"} garrison_H5333 was [then at Beth-lehem]{strong="H1035"}. 
+@17 And_David_H1732 [longed]{strong="H183" x-morph="strongMorph: TH8691"}, [and said]{strong="H559" x-morph="strongMorph: TH8799"}, [Oh that one would give me drink]{strong="H8248" x-morph="strongMorph: TH8686"} of_the_water_H4325 of_the_well_H953 [of Beth-lehem]{strong="H1035"}, that is at_the_gate_H8179! 
+@18 And_the_three_H7969 [brake through]{strong="H1234" x-morph="strongMorph: TH8799"} the_host_H4264 of_the_Philistines_H6430, [and drew]{strong="H7579" x-morph="strongMorph: TH8799"} water_H4325 out_of_the_well_H953 [of Beth-lehem]{strong="H1035"}, that was by_the_gate_H8179, [and took]{strong="H5375" x-morph="strongMorph: TH8799"} it, [and brought]{strong="H935" x-morph="strongMorph: TH8686"} it to_David_H1732: but_David_H1732 [would]{strong="H14" x-morph="strongMorph: TH8804"} [not drink]{strong="H8354" x-morph="strongMorph: TH8800"} of [it, but poured it out]{strong="H5258" x-morph="strongMorph: TH8762"} to the LORD, 
+@19 [And said]{strong="H559" x-morph="strongMorph: TH8799"}, My_God_H430 forbid_H2486 [it me, that I should do]{strong="H6213" x-morph="strongMorph: TH8800"} this_thing_H2063: [shall I drink]{strong="H8354" x-morph="strongMorph: TH8799"} the_blood_H1818 of_these_men_H582 that_have_put_their_lives_in_jeopardy_H5315? for with the jeopardy of their_lives_H5315 [they brought]{strong="H935" x-morph="strongMorph: TH8689"} [it. Therefore he would]{strong="H14" x-morph="strongMorph: TH8804"} [not drink]{strong="H8354" x-morph="strongMorph: TH8800"} [it. These things did]{strong="H6213" x-morph="strongMorph: TH8804"} these_three_H7969 mightiest_H1368.^b^ 
 ^a^[**11:15** three…: or, three captains over the thirty] ^b^[**11:19** that have…: Heb. with their lives?]
 
-@20 And Abishai the brother of Joab, he was chief of the three: for lifting up his spear against three hundred, he slew them, and had a name among the three. 
-@21 Of the three, he was more honourable than the two; for he was their captain: howbeit he attained not to the first three. 
-@22 Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done many acts; he slew two lionlike men of Moab: also he went down and slew a lion in a pit in a snowy day.^a^ 
-@23 And he slew an Egyptian, a man of great stature, five cubits high; and in the Egyptian’s hand was a spear like a weaver’s beam; and he went down to him with a staff, and plucked the spear out of the Egyptian’s hand, and slew him with his own spear.^b^ 
-@24 These things did Benaiah the son of Jehoiada, and had the name among the three mighties. 
-@25 Behold, he was honourable among the thirty, but attained not to the first three: and David set him over his guard. 
+@20 And_Abishai_H52 the_brother_H251 of_Joab_H3097, he_was_chief_H7218 of_the_three_H7969: [for lifting up]{strong="H5782" x-morph="strongMorph: TH8790"} his_spear_H2595 against_three_H7969 hundred_H3967, he_slew_H2491 them, and_had_a_name_H8034 among_the_three_H7969. 
+@21 Of_the_three_H7969, [he was more honourable]{strong="H3513" x-morph="strongMorph: TH8737"} than_the_two_H8147; for_he_was_their_captain_H8269: [howbeit he attained]{strong="H935" x-morph="strongMorph: TH8804"} not to the first three_H7969. 
+@22 Benaiah_H1141 the_son_H1121 of_Jehoiada_H3077, the_son_H1121 of_a_valiant_H2428 man_H376 of_Kabzeel_H6909, who_had_done_many_H7227 acts_H6467; [he slew]{strong="H5221" x-morph="strongMorph: TH8689"} two_H8147 lionlike_men_H739 of_Moab_H4124: [also he went down]{strong="H3381" x-morph="strongMorph: TH8804"} [and slew]{strong="H5221" x-morph="strongMorph: TH8689"} a_lion_H738 in_H8432 a_pit_H953 in_a_snowy_H7950 day_H3117.^a^ 
+@23 [And he slew]{strong="H5221" x-morph="strongMorph: TH8689"} an_Egyptian_H4713, a_man_H376 of great stature_H4060, five_H2568 cubits_H520 [high; and in the Egyptian’s]{strong="H4713"} hand_H3027 was a_spear_H2595 [like a weaver’s]{strong="H707" x-morph="strongMorph: TH8802"} beam_H4500; [and he went down]{strong="H3381" x-morph="strongMorph: TH8799"} to_him_with_a_staff_H7626, [and plucked]{strong="H1497" x-morph="strongMorph: TH8799"} the_spear_H2595 [out of the Egyptian’s]{strong="H4713"} hand_H3027, [and slew]{strong="H2026" x-morph="strongMorph: TH8799"} him_with_his_own_spear_H2595.^b^ 
+@24 These things [did]{strong="H6213" x-morph="strongMorph: TH8804"} Benaiah_H1141 the_son_H1121 of_Jehoiada_H3077, and_had_the_name_H8034 among_the_three_H7969 mighties_H1368. 
+@25 Behold_H2009, [he was honourable]{strong="H3513" x-morph="strongMorph: TH8737"} among_the_thirty_H7970, [but attained]{strong="H935" x-morph="strongMorph: TH8804"} not to the first three_H7969: and_David_H1732 [set]{strong="H7760" x-morph="strongMorph: TH8799"} him_over_his_guard_H4928. 
 ^a^[**11:22** who had…: Heb. great of deeds] ^b^[**11:23** great…: Heb. measure]
 
-@26 Also the valiant men of the armies were, Asahel the brother of Joab, Elhanan the son of Dodo of Beth-lehem, 
-@27 Shammoth the Harorite, Helez the Pelonite,^a^ ^b^ ^c^ 
-@28 Ira the son of Ikkesh the Tekoite, Abi-ezer the Antothite, 
-@29 Sibbecai the Hushathite, Ilai the Ahohite,^d^ ^e^ 
-@30 Maharai the Netophathite, Heled the son of Baanah the Netophathite,^f^ 
-@31 Ithai the son of Ribai of Gibeah, that pertained to the children of Benjamin, Benaiah the Pirathonite, 
-@32 Hurai of the brooks of Gaash, Abiel the Arbathite,^g^ ^h^ 
-@33 Azmaveth the Baharumite, Eliahba the Shaalbonite, 
-@34 The sons of Hashem the Gizonite, Jonathan the son of Shage the Hararite,^i^ 
-@35 Ahiam the son of Sacar the Hararite, Eliphal the son of Ur,^j^ ^k^ ^l^ 
-@36 Hepher the Mecherathite, Ahijah the Pelonite, 
-@37 Hezro the Carmelite, Naarai the son of Ezbai,^m^ ^n^ 
-@38 Joel the brother of Nathan, Mibhar the son of Haggeri,^o^ 
-@39 Zelek the Ammonite, Naharai the Berothite, the armourbearer of Joab the son of Zeruiah, 
-@40 Ira the Ithrite, Gareb the Ithrite, 
-@41 Uriah the Hittite, Zabad the son of Ahlai, 
-@42 Adina the son of Shiza the Reubenite, a captain of the Reubenites, and thirty with him, 
-@43 Hanan the son of Maachah, and Joshaphat the Mithnite, 
-@44 Uzzia the Ashterathite, Shama and Jehiel the sons of Hothan the Aroerite, 
-@45 Jediael the son of Shimri, and Joha his brother, the Tizite,^p^ 
-@46 Eliel the Mahavite, and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah the Moabite, 
-@47 Eliel, and Obed, and Jasiel the Mesobaite.
+@26 Also_the_valiant_men_H1368 of_the_armies_H2428 were, Asahel_H6214 the_brother_H251 of_Joab_H3097, Elhanan_H445 the_son_H1121 of_Dodo_H1734 [of Beth-lehem]{strong="H1035"}, 
+@27 Shammoth_H8054 the_Harorite_H2033, Helez_H2503 the_Pelonite_H6397,^a^ ^b^ ^c^ 
+@28 Ira_H5896 the_son_H1121 of_Ikkesh_H6142 the_Tekoite_H8621, [Abi-ezer]{strong="H44"} the_Antothite_H6069, 
+@29 Sibbecai_H5444 the_Hushathite_H2843, Ilai_H5866 the_Ahohite_H266,^d^ ^e^ 
+@30 Maharai_H4121 the_Netophathite_H5200, Heled_H2466 the_son_H1121 of_Baanah_H1196 the_Netophathite_H5200,^f^ 
+@31 Ithai_H863 the_son_H1121 of_Ribai_H7380 of_Gibeah_H1390, that pertained to_the_children_H1121 of_Benjamin_H1144, Benaiah_H1141 the_Pirathonite_H6553, 
+@32 Hurai_H2360 of_the_brooks_H5158 of_Gaash_H1608, Abiel_H22 the_Arbathite_H6164,^g^ ^h^ 
+@33 Azmaveth_H5820 the_Baharumite_H978, Eliahba_H455 the_Shaalbonite_H8170, 
+@34 The_sons_H1121 of_Hashem_H2044 the_Gizonite_H1493, Jonathan_H3129 the_son_H1121 of_Shage_H7681 the_Hararite_H2043,^i^ 
+@35 Ahiam_H279 the_son_H1121 of_Sacar_H7940 the_Hararite_H2043, Eliphal_H465 the_son_H1121 of_Ur_H218,^j^ ^k^ ^l^ 
+@36 Hepher_H2660 the_Mecherathite_H4382, Ahijah_H281 the_Pelonite_H6397, 
+@37 Hezro_H2695 the_Carmelite_H3761, Naarai_H5293 the_son_H1121 of_Ezbai_H229,^m^ ^n^ 
+@38 Joel_H3100 the_brother_H251 of_Nathan_H5416, Mibhar_H4006 the_son_H1121 of_Haggeri_H1905,^o^ 
+@39 Zelek_H6768 the_Ammonite_H5984, Naharai_H5171 the_Berothite_H1307, [the armourbearer]{strong="H3627 H5375" x-morph="strongMorph: TH8802"} of_Joab_H3097 the_son_H1121 of_Zeruiah_H6870, 
+@40 Ira_H5896 the_Ithrite_H3505, Gareb_H1619 the_Ithrite_H3505, 
+@41 Uriah_H223 the_Hittite_H2850, Zabad_H2066 the_son_H1121 of_Ahlai_H304, 
+@42 Adina_H5721 the_son_H1121 of_Shiza_H7877 the_Reubenite_H7206, a_captain_H7218 of_the_Reubenites_H7206, and_thirty_H7970 with him, 
+@43 Hanan_H2605 the_son_H1121 of_Maachah_H4601, and_Joshaphat_H3146 the_Mithnite_H4981, 
+@44 Uzzia_H5814 the_Ashterathite_H6254, Shama_H8091 and_Jehiel_H3273 the_sons_H1121 of_Hothan_H2369 the_Aroerite_H6200, 
+@45 Jediael_H3043 the_son_H1121 of_Shimri_H8113, and_Joha_H3109 his_brother_H251, the_Tizite_H8491,^p^ 
+@46 Eliel_H447 the_Mahavite_H4233, and_Jeribai_H3403, and_Joshaviah_H3145, the_sons_H1121 of_Elnaam_H493, and_Ithmah_H3495 the_Moabite_H4125, 
+@47 Eliel_H447, and_Obed_H5744, and_Jasiel_H3300 the_Mesobaite_H4677.
 ^a^[**11:27** Shammoth: or, Shammah] ^b^[**11:27** Harorite: or, Harodite] ^c^[**11:27** Pelonite: or, Paltite] ^d^[**11:29** Sibbecai: or, Mebunnai] ^e^[**11:29** Ilai: or, Zalmon] ^f^[**11:30** Heled: or, Heleb] ^g^[**11:32** Hurai: or, Hiddai] ^h^[**11:32** Abiel: or, Abi-albon] ^i^[**11:34** Hashem: or, Jashen] ^j^[**11:35** Sacar: or, Sharar] ^k^[**11:35** Eliphal: or, Eliphelet] ^l^[**11:35** Ur: or, Ahasbai] ^m^[**11:37** Hezro: or Hezrai] ^n^[**11:37** Naarai: or Paarai the Arbite] ^o^[**11:38** the son…: or, the Haggerite] ^p^[**11:45** son…: or, Shimrite] 
 
 # 12 
-@1 Now these are they that came to David to Ziklag, while he yet kept himself close because of Saul the son of Kish: and they were among the mighty men, helpers of the war.^a^ 
-@2 They were armed with bows, and could use both the right hand and the left in hurling stones and shooting arrows out of a bow, even of Saul’s brethren of Benjamin. 
-@3 The chief was Ahiezer, then Joash, the sons of Shemaah the Gibeathite; and Jeziel, and Pelet, the sons of Azmaveth; and Berachah, and Jehu the Antothite,^b^ 
-@4 And Ismaiah the Gibeonite, a mighty man among the thirty, and over the thirty; and Jeremiah, and Jahaziel, and Johanan, and Josabad the Gederathite, 
-@5 Eluzai, and Jerimoth, and Bealiah, and Shemariah, and Shephatiah the Haruphite, 
-@6 Elkanah, and Jesiah, and Azareel, and Joezer, and Jashobeam, the Korhites, 
-@7 And Joelah, and Zebadiah, the sons of Jeroham of Gedor. 
-@8 And of the Gadites there separated themselves unto David into the hold to the wilderness men of might, and men of war fit for the battle, that could handle shield and buckler, whose faces were like the faces of lions, and were as swift as the roes upon the mountains;^c^ ^d^ 
-@9 Ezer the first, Obadiah the second, Eliab the third, 
-@10 Mishmannah the fourth, Jeremiah the fifth, 
-@11 Attai the sixth, Eliel the seventh, 
-@12 Johanan the eighth, Elzabad the ninth, 
-@13 Jeremiah the tenth, Machbanai the eleventh. 
-@14 These were of the sons of Gad, captains of the host: one of the least was over an hundred, and the greatest over a thousand.^e^ 
-@15 These are they that went over Jordan in the first month, when it had overflown all his banks; and they put to flight all them of the valleys, both toward the east, and toward the west.^f^ 
-@16 And there came of the children of Benjamin and Judah to the hold unto David. 
-@17 And David went out to meet them, and answered and said unto them, If ye be come peaceably unto me to help me, mine heart shall be knit unto you: but if ye be come to betray me to mine enemies, seeing there is no wrong in mine hands, the God of our fathers look thereon, and rebuke it.^g^ ^h^ ^i^ 
-@18 Then the spirit came upon Amasai, who was chief of the captains, and he said, Thine are we, David, and on thy side, thou son of Jesse: peace, peace be unto thee, and peace be to thine helpers; for thy God helpeth thee. Then David received them, and made them captains of the band.^j^ 
-@19 And there fell some of Manasseh to David, when he came with the Philistines against Saul to battle: but they helped them not: for the lords of the Philistines upon advisement sent him away, saying, He will fall to his master Saul to the jeopardy of our heads.^k^ 
-@20 As he went to Ziklag, there fell to him of Manasseh, Adnah, and Jozabad, and Jediael, and Michael, and Jozabad, and Elihu, and Zilthai, captains of the thousands that were of Manasseh. 
-@21 And they helped David against the band of the rovers: for they were all mighty men of valour, and were captains in the host.^l^ 
-@22 For at that time day by day there came to David to help him, until it was a great host, like the host of God. 
+@1 Now these are [they that came]{strong="H935" x-morph="strongMorph: TH8802"} to_David_H1732 to_Ziklag_H6860, [while he yet kept himself close]{strong="H6113" x-morph="strongMorph: TH8803"} because_H6440 of_Saul_H7586 the_son_H1121 of_Kish_H7027: and they were among_the_mighty_men_H1368, [helpers]{strong="H5826" x-morph="strongMorph: TH8802"} of_the_war_H4421.^a^ 
+@2 They were [armed]{strong="H5401" x-morph="strongMorph: TH8802"} with_bows_H7198, [and could use both the right hand]{strong="H3231" x-morph="strongMorph: TH8688"} [and the left]{strong="H8041" x-morph="strongMorph: TH8688"} in hurling stones_H68 and shooting arrows_H2671 out_of_a_bow_H7198, even [of Saul’s]{strong="H7586"} brethren_H251 of_Benjamin_H1144. 
+@3 The_chief_H7218 was Ahiezer_H295, then_Joash_H3101, the_sons_H1121 of_Shemaah_H8094 the_Gibeathite_H1395; and_Jeziel_H3149, and_Pelet_H6404, the_sons_H1121 of_Azmaveth_H5820; and_Berachah_H1294, and_Jehu_H3058 the_Antothite_H6069,^b^ 
+@4 And_Ismaiah_H3460 the_Gibeonite_H1393, a_mighty_man_H1368 among_the_thirty_H7970, and_over_the_thirty_H7970; and_Jeremiah_H3414, and_Jahaziel_H3166, and_Johanan_H3110, and_Josabad_H3107 the_Gederathite_H1452, 
+@5 Eluzai_H498, and_Jerimoth_H3406, and_Bealiah_H1183, and_Shemariah_H8114, and_Shephatiah_H8203 the_Haruphite_H2741, 
+@6 Elkanah_H511, and_Jesiah_H3449, and_Azareel_H5832, and_Joezer_H3134, and_Jashobeam_H3434, the_Korhites_H7145, 
+@7 And_Joelah_H3132, and_Zebadiah_H2069, the_sons_H1121 of_Jeroham_H3395 of_Gedor_H1446. 
+@8 And_of_the_Gadites_H1425 [there separated]{strong="H914" x-morph="strongMorph: TH8738"} themselves_unto_David_H1732 into_the_hold_H4679 to_the_wilderness_H4057 men_H1368 of_might_H2428, and men_H582 of_war_H6635 fit for_the_battle_H4421, [that could handle]{strong="H6186" x-morph="strongMorph: TH8802"} shield_H6793 and_buckler_H7420, whose_faces_H6440 were like the_faces_H6440 of_lions_H738, and were [as swift]{strong="H4116" x-morph="strongMorph: TH8763"} as_the_roes_H6643 upon_the_mountains_H2022;^c^ ^d^ 
+@9 Ezer_H5829 the_first_H7218, Obadiah_H5662 the_second_H8145, Eliab_H446 the_third_H7992, 
+@10 Mishmannah_H4925 the_fourth_H7243, Jeremiah_H3414 the_fifth_H2549, 
+@11 Attai_H6262 the_sixth_H8345, Eliel_H447 the_seventh_H7637, 
+@12 Johanan_H3110 the_eighth_H8066, Elzabad_H443 the_ninth_H8671, 
+@13 Jeremiah_H3414 the_tenth_H6224, Machbanai_H4344 [the eleventh]{strong="H6240 H6249"}. 
+@14 These were of_the_sons_H1121 of_Gad_H1410, captains_H7218 of_the_host_H6635: one_H259 of_the_least_H6996 was over_an_hundred_H3967, and_the_greatest_H1419 over_a_thousand_H505.^e^ 
+@15 These are [they that went over]{strong="H5674" x-morph="strongMorph: TH8804"} Jordan_H3383 in_the_first_H7223 month_H2320, [when it had overflown]{strong="H4390" x-morph="strongMorph: TH8764"} [all his banks]{strong="H1428 H1415" x-morph="strongMorph: TH8675"}; [and they put to flight]{strong="H1272" x-morph="strongMorph: TH8686"} all them of_the_valleys_H6010, both toward_the_east_H4217, and_toward_the_west_H4628.^f^ 
+@16 [And there came]{strong="H935" x-morph="strongMorph: TH8799"} of_the_children_H1121 of_Benjamin_H1144 and_Judah_H3063 to_the_hold_H4679 unto_David_H1732. 
+@17 And_David_H1732 [went out]{strong="H3318" x-morph="strongMorph: TH8799"} to_meet_H6440 [them, and answered]{strong="H6030" x-morph="strongMorph: TH8799"} [and said]{strong="H559" x-morph="strongMorph: TH8799"} [unto them, If ye be come]{strong="H935" x-morph="strongMorph: TH8804"} peaceably_H7965 [unto me to help]{strong="H5826" x-morph="strongMorph: TH8800"} [me, mine heart]{strong="H3824"} shall_be_knit_H3162 unto you: but if ye be come [to betray]{strong="H7411" x-morph="strongMorph: TH8763"} me_to_mine_enemies_H6862, seeing there is no_H3808 wrong_H2555 in_mine_hands_H3709, the_God_H430 of_our_fathers_H1 [look]{strong="H7200" x-morph="strongMorph: TH8799"} thereon, [and rebuke]{strong="H3198" x-morph="strongMorph: TH8686"} it.^g^ ^h^ ^i^ 
+@18 Then_the_spirit_H7307 [came]{strong="H3847" x-morph="strongMorph: TH8804"} upon_Amasai_H6022, who was chief_H7218 [of the captains]{strong="H7991 H7970" x-morph="strongMorph: TH8677"}, and he said, Thine are we, David_H1732, [and on thy side, thou son]{strong="H1121"} of_Jesse_H3448: peace_H7965, peace_H7965 be [unto thee, and peace]{strong="H7965"} be [to thine helpers]{strong="H5826" x-morph="strongMorph: TH8802"}; for_thy_God_H430 [helpeth ]{strong="H5826" x-morph="strongMorph: TH8804"} [thee. Then David]{strong="H1732"} [received ]{strong="H6901" x-morph="strongMorph: TH8762"} [them, and made]{strong="H5414" x-morph="strongMorph: TH8799"} them_captains_H7218 of_the_band_H1416.^j^ 
+@19 [And there fell]{strong="H5307" x-morph="strongMorph: TH8804"} some of_Manasseh_H4519 to_David_H1732, [when he came]{strong="H935" x-morph="strongMorph: TH8800"} with_the_Philistines_H6430 against_Saul_H7586 to_battle_H4421: [but they helped]{strong="H5826" x-morph="strongMorph: TH8804"} [them not: for the lords]{strong="H5633"} of_the_Philistines_H6430 upon_advisement_H6098 [sent]{strong="H7971" x-morph="strongMorph: TH8765"} [him away, saying]{strong="H559" x-morph="strongMorph: TH8800"}, [He will fall]{strong="H5307" x-morph="strongMorph: TH8799"} to_his_master_H113 Saul_H7586 to the jeopardy of our_heads_H7218.^k^ 
+@20 [As he went]{strong="H3212" x-morph="strongMorph: TH8800"} to_Ziklag_H6860, [there fell]{strong="H5307" x-morph="strongMorph: TH8804"} to_him_of_Manasseh_H4519, Adnah_H5734, and_Jozabad_H3107, and_Jediael_H3043, and_Michael_H4317, and_Jozabad_H3107, and_Elihu_H453, and_Zilthai_H6769, captains_H7218 of_the_thousands_H505 that were of_Manasseh_H4519. 
+@21 [And they helped]{strong="H5826" x-morph="strongMorph: TH8804"} David_H1732 against_the_band_H1416 of the rovers: for they were all_mighty_men_H1368 of_valour_H2428, and_were_captains_H8269 in_the_host_H6635.^l^ 
+@22 For at that time_H6256 day_H3117 by_day_H3117 [there came]{strong="H935" x-morph="strongMorph: TH8799"} to_David_H1732 [to help]{strong="H5826" x-morph="strongMorph: TH8800"} him, until it was a_great_H1419 host_H4264, like_the_host_H4264 of_God_H430. 
 ^a^[**12:1** while…: Heb. being yet shut up] ^b^[**12:3** Shemaah: or, Hasmaah] ^c^[**12:8** of war: Heb. of the host] ^d^[**12:8** as swift…: Heb. as the roes upon the mountains to make haste] ^e^[**12:14** one…: or, one that was least could resist an hundred, and the greatest a thousand] ^f^[**12:15** overflown: Heb. filled over] ^g^[**12:17** to meet…: Heb. before them] ^h^[**12:17** be knit: Heb. be one] ^i^[**12:17** wrong: or, violence] ^j^[**12:18** came…: Heb. clothed] ^k^[**12:19** to the…: Heb. on our heads] ^l^[**12:21** against…: or, with a band]
 
-@23 And these are the numbers of the bands that were ready armed to the war, and came to David to Hebron, to turn the kingdom of Saul to him, according to the word of the LORD.^a^ 
-@24 The children of Judah that bare shield and spear were six thousand and eight hundred, ready armed to the war.^b^ 
-@25 Of the children of Simeon, mighty men of valour for the war, seven thousand and one hundred. 
-@26 Of the children of Levi four thousand and six hundred. 
-@27 And Jehoiada was the leader of the Aaronites, and with him were three thousand and seven hundred; 
-@28 And Zadok, a young man mighty of valour, and of his father’s house twenty and two captains. 
-@29 And of the children of Benjamin, the kindred of Saul, three thousand: for hitherto the greatest part of them had kept the ward of the house of Saul.^c^ ^d^ 
-@30 And of the children of Ephraim twenty thousand and eight hundred, mighty men of valour, famous throughout the house of their fathers.^e^ 
-@31 And of the half tribe of Manasseh eighteen thousand, which were expressed by name, to come and make David king. 
-@32 And of the children of Issachar, which were men that had understanding of the times, to know what Israel ought to do; the heads of them were two hundred; and all their brethren were at their commandment. 
-@33 Of Zebulun, such as went forth to battle, expert in war, with all instruments of war, fifty thousand, which could keep rank: they were not of double heart.^f^ ^g^ ^h^ 
-@34 And of Naphtali a thousand captains, and with them with shield and spear thirty and seven thousand. 
-@35 And of the Danites expert in war twenty and eight thousand and six hundred. 
-@36 And of Asher, such as went forth to battle, expert in war, forty thousand.^i^ 
-@37 And on the other side of Jordan, of the Reubenites, and the Gadites, and of the half tribe of Manasseh, with all manner of instruments of war for the battle, an hundred and twenty thousand. 
-@38 All these men of war, that could keep rank, came with a perfect heart to Hebron, to make David king over all Israel: and all the rest also of Israel were of one heart to make David king. 
-@39 And there they were with David three days, eating and drinking: for their brethren had prepared for them. 
-@40 Moreover they that were nigh them, even unto Issachar and Zebulun and Naphtali, brought bread on asses, and on camels, and on mules, and on oxen, and meat, meal, cakes of figs, and bunches of raisins, and wine, and oil, and oxen, and sheep abundantly: for there was joy in Israel.^j^
+@23 And these are the_numbers_H4557 of_the_bands_H7218 that were [ready armed]{strong="H2502" x-morph="strongMorph: TH8803"} to_the_war_H6635, and [came]{strong="H935" x-morph="strongMorph: TH8804"} to_David_H1732 to_Hebron_H2275, [to turn]{strong="H5437" x-morph="strongMorph: TH8687"} the_kingdom_H4438 of_Saul_H7586 [to him, according to the word]{strong="H6310"} of the LORD.^a^ 
+@24 The_children_H1121 of_Judah_H3063 [that bare]{strong="H5375" x-morph="strongMorph: TH8802"} shield_H6793 and_spear_H7420 were six_H8337 thousand_H505 and_eight_H8083 hundred_H3967, [ready armed]{strong="H2502" x-morph="strongMorph: TH8803"} to_the_war_H6635.^b^ 
+@25 Of_the_children_H1121 of_Simeon_H8095, mighty_men_H1368 of_valour_H2428 for_the_war_H6635, seven_H7651 thousand_H505 and_one_hundred_H3967. 
+@26 Of_the_children_H1121 of_Levi_H3878 four_H702 thousand_H505 and_six_H8337 hundred_H3967. 
+@27 And_Jehoiada_H3077 was the_leader_H5057 of_the_Aaronites_H175, and with him were three_H7969 thousand_H505 and_seven_H7651 hundred_H3967; 
+@28 And_Zadok_H6659, a_young_man_H5288 mighty_H1368 of_valour_H2428, [and of his father’s]{strong="H1"} house_H1004 twenty_H6242 and_two_H8147 captains_H8269. 
+@29 And_of_the_children_H1121 of_Benjamin_H1144, the_kindred_H251 of_Saul_H7586, three_H7969 thousand_H505: for_hitherto_the_greatest_H4768 [part of them had kept]{strong="H8104" x-morph="strongMorph: TH8802"} the_ward_H4931 of_the_house_H1004 of_Saul_H7586.^c^ ^d^ 
+@30 And_of_the_children_H1121 of_Ephraim_H669 twenty_H6242 thousand_H505 and_eight_H8083 hundred_H3967, mighty_H1368 men_H582 of_valour_H2428, famous_H8034 throughout_the_house_H1004 of_their_fathers_H1.^e^ 
+@31 And_of_the_half_H2677 tribe_H4294 of_Manasseh_H4519 [eighteen]{strong="H6240 H8083"} thousand_H505, [which were expressed]{strong="H5344" x-morph="strongMorph: TH8738"} by_name_H8034, [to come]{strong="H935" x-morph="strongMorph: TH8800"} and_make_David_H1732 [king]{strong="H4427" x-morph="strongMorph: TH8687"}. 
+@32 And_of_the_children_H1121 of_Issachar_H3485, which were men [that had understanding]{strong="H3045 H998" x-morph="strongMorph: TH8802"} of_the_times_H6256, [to know]{strong="H3045" x-morph="strongMorph: TH8800"} what_Israel_H3478 [ought to do]{strong="H6213" x-morph="strongMorph: TH8799"}; the_heads_H7218 of them were two_hundred_H3967; and_all_their_brethren_H251 were at_their_commandment_H6310. 
+@33 Of_Zebulun_H2074, [such as went forth]{strong="H3318" x-morph="strongMorph: TH8802"} to_battle_H6635, [expert]{strong="H6186" x-morph="strongMorph: TH8802"} in_war_H4421, with_all_instruments_H3627 of_war_H4421, fifty_H2572 thousand_H505, [which could keep rank]{strong="H5737" x-morph="strongMorph: TH8800"}: they were not_of_double_H3820 heart_H3820.^f^ ^g^ ^h^ 
+@34 And_of_Naphtali_H5321 a_thousand_H505 captains_H8269, and_with_them_with_shield_H6793 and_spear_H2595 thirty_H7970 and_seven_H7651 thousand_H505. 
+@35 And_of_the_Danites_H1839 [expert]{strong="H6186" x-morph="strongMorph: TH8802"} in_war_H4421 twenty_H6242 and_eight_H8083 thousand_H505 and_six_H8337 hundred_H3967. 
+@36 And_of_Asher_H836, [such as went forth]{strong="H3318" x-morph="strongMorph: TH8802"} to_battle_H6635, [expert]{strong="H6186" x-morph="strongMorph: TH8800"} in_war_H4421, forty_H705 thousand_H505.^i^ 
+@37 And_on_the_other_side_H5676 of_Jordan_H3383, of_the_Reubenites_H7206, and_the_Gadites_H1425, and_of_the_half_H2677 tribe_H7626 of_Manasseh_H4519, with_all_manner_of_instruments_H3627 of_war_H6635 for_the_battle_H4421, an_hundred_H3967 and_twenty_H6242 thousand_H505. 
+@38 All_these_men_H582 of_war_H4421, [that could keep]{strong="H5737" x-morph="strongMorph: TH8802"} rank_H4634, [came]{strong="H935" x-morph="strongMorph: TH8804"} with_a_perfect_H8003 heart_H3820 to_Hebron_H2275, to_make_David_H1732 [king]{strong="H4427" x-morph="strongMorph: TH8687"} over_all_Israel_H3478: and_all_the_rest_H7611 also_of_Israel_H3478 were of_one_H259 heart_H3824 to_make_David_H1732 [king]{strong="H4427" x-morph="strongMorph: TH8687"}. 
+@39 And_there_they_were_with_David_H1732 three_H7969 days_H3117, [eating]{strong="H398" x-morph="strongMorph: TH8802"} [and drinking]{strong="H8354" x-morph="strongMorph: TH8802"}: for_their_brethren_H251 [had prepared]{strong="H3559" x-morph="strongMorph: TH8689"} for them. 
+@40 Moreover_they_that_were_nigh_H7138 them, even unto_Issachar_H3485 and_Zebulun_H2074 and_Naphtali_H5321, [brought]{strong="H935" x-morph="strongMorph: TH8688"} bread_H3899 on_asses_H2543, and_on_camels_H1581, and_on_mules_H6505, and_on_oxen_H1241, and meat_H3978, meal_H7058, cakes_H1690 [of figs, and bunches of raisins]{strong="H6778"}, and_wine_H3196, and_oil_H8081, and_oxen_H1241, and_sheep_H6629 abundantly_H7230: for there was joy_H8057 in_Israel_H3478.^j^
 ^a^[**12:23** bands: or, captains, or, men: Heb. heads] ^b^[**12:24** armed: or, prepared] ^c^[**12:29** kindred: Heb. brethren] ^d^[**12:29** the greatest…: Heb. a multitude of them] ^e^[**12:30** famous: Heb. men of names] ^f^[**12:33** expert…: or, rangers of battle, or, ranged in battle] ^g^[**12:33** keep…: or, set the battle in array] ^h^[**12:33** not…: Heb. without a heart and a heart] ^i^[**12:36** expert: or, keeping their rank] ^j^[**12:40** meat…: or, victual of meal] 
 
 # 13 
-@1 And David consulted with the captains of thousands and hundreds, and with every leader. 
-@2 And David said unto all the congregation of Israel, If it seem good unto you, and that it be of the LORD our God, let us send abroad unto our brethren every where, that are left in all the land of Israel, and with them also to the priests and Levites which are in their cities and suburbs, that they may gather themselves unto us:^a^ ^b^ 
-@3 And let us bring again the ark of our God to us: for we enquired not at it in the days of Saul.^c^ 
-@4 And all the congregation said that they would do so: for the thing was right in the eyes of all the people. 
-@5 So David gathered all Israel together, from Shihor of Egypt even unto the entering of Hemath, to bring the ark of God from Kirjath-jearim. 
-@6 And David went up, and all Israel, to Baalah, that is, to Kirjath-jearim, which belonged to Judah, to bring up thence the ark of God the LORD, that dwelleth between the cherubims, whose name is called on it. 
-@7 And they carried the ark of God in a new cart out of the house of Abinadab: and Uzza and Ahio drave the cart.^d^ 
-@8 And David and all Israel played before God with all their might, and with singing, and with harps, and with psalteries, and with timbrels, and with cymbals, and with trumpets.^e^ 
+@1 And_David_H1732 [consulted]{strong="H3289" x-morph="strongMorph: TH8735"} with_the_captains_H8269 of_thousands_H505 and_hundreds_H3967, and with_every_leader_H5057. 
+@2 And_David_H1732 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_all_the_congregation_H6951 of_Israel_H3478, If it seem [good]{strong="H2895" x-morph="strongMorph: TH8804"} unto you, and that it be of the LORD our_God_H430, [let us send]{strong="H7971" x-morph="strongMorph: TH8799"} [abroad]{strong="H6555" x-morph="strongMorph: TH8799"} unto_our_brethren_H251 every where, that are [left]{strong="H7604" x-morph="strongMorph: TH8737"} in_all_the_land_H776 of_Israel_H3478, and with them also to_the_priests_H3548 and_Levites_H3881 which are in_their_cities_H5892 and suburbs_H4054, [that they may gather]{strong="H6908" x-morph="strongMorph: TH8735"} themselves unto us:^a^ ^b^ 
+@3 [And let us bring again]{strong="H5437" x-morph="strongMorph: TH8686"} the_ark_H727 of_our_God_H430 [to us: for we enquired]{strong="H1875" x-morph="strongMorph: TH8804"} not_at_it_in_the_days_H3117 of_Saul_H7586.^c^ 
+@4 And_all_the_congregation_H6951 [said]{strong="H559" x-morph="strongMorph: TH8799"} [that they would do so]{strong="H6213" x-morph="strongMorph: TH8800"}: for_the_thing_H1697 [was right]{strong="H3474" x-morph="strongMorph: TH8804"} in_the_eyes_H5869 of_all_the_people_H5971. 
+@5 So_David_H1732 gathered_H6950 all_Israel_H3478 [together]{strong="H6950" x-morph="strongMorph: TH8686"}, from_Shihor_H7883 of_Egypt_H4714 [even unto the entering]{strong="H935" x-morph="strongMorph: TH8800"} of_Hemath_H2574, [to bring]{strong="H935" x-morph="strongMorph: TH8687"} the_ark_H727 of_God_H430 [from Kirjath-jearim]{strong="H7157"}. 
+@6 And_David_H1732 [went up]{strong="H5927" x-morph="strongMorph: TH8799"}, and_all_Israel_H3478, to_Baalah_H1173, that is, [to Kirjath-jearim]{strong="H7157"}, which belonged to_Judah_H3063, [to bring up]{strong="H5927" x-morph="strongMorph: TH8687"} thence_the_ark_H727 of_God_H430 the LORD, [that dwelleth]{strong="H3427" x-morph="strongMorph: TH8802"} between the_cherubims_H3742, whose_name_H8034 [is called]{strong="H7121" x-morph="strongMorph: TH8738"} on it. 
+@7 [And they carried]{strong="H7392" x-morph="strongMorph: TH8686"} the_ark_H727 of_God_H430 in_a_new_H2319 cart_H5699 out_of_the_house_H1004 of_Abinadab_H41: and_Uzza_H5798 and_Ahio_H283 [drave]{strong="H5090" x-morph="strongMorph: TH8802"} the_cart_H5699.^d^ 
+@8 And_David_H1732 and_all_Israel_H3478 [played]{strong="H7832" x-morph="strongMorph: TH8764"} before_H6440 God_H430 with all their might_H5797, and_with_singing_H7892, and_with_harps_H3658, and_with_psalteries_H5035, and_with_timbrels_H8596, and_with_cymbals_H4700, and_with_trumpets_H2689.^e^ 
 ^a^[**13:2** send…: Heb. break forth and send] ^b^[**13:2** in their…: Heb. in the cities of their suburbs] ^c^[**13:3** bring…: Heb. bring about] ^d^[**13:7** carried…: Heb. made the ark to ride] ^e^[**13:8** singing: Heb. songs]
 
-@9 And when they came unto the threshingfloor of Chidon, Uzza put forth his hand to hold the ark; for the oxen stumbled.^a^ ^b^ 
-@10 And the anger of the LORD was kindled against Uzza, and he smote him, because he put his hand to the ark: and there he died before God. 
-@11 And David was displeased, because the LORD had made a breach upon Uzza: wherefore that place is called Perez-uzza to this day.^c^ 
-@12 And David was afraid of God that day, saying, How shall I bring the ark of God home to me? 
-@13 So David brought not the ark home to himself to the city of David, but carried it aside into the house of Obed-edom the Gittite.^d^ 
-@14 And the ark of God remained with the family of Obed-edom in his house three months. And the LORD blessed the house of Obed-edom, and all that he had.
+@9 [And when they came]{strong="H935" x-morph="strongMorph: TH8799"} unto_the_threshingfloor_H1637 of_Chidon_H3592, Uzza_H5798 [put forth]{strong="H7971" x-morph="strongMorph: TH8799"} his_hand_H3027 [to hold]{strong="H270" x-morph="strongMorph: TH8800"} the_ark_H727; for_the_oxen_H1241 [stumbled]{strong="H8058" x-morph="strongMorph: TH8804"}.^a^ ^b^ 
+@10 And_the_anger_H639 of the LORD [was kindled]{strong="H2734" x-morph="strongMorph: TH8799"} against_Uzza_H5798, [and he smote]{strong="H5221" x-morph="strongMorph: TH8686"} [him, because he put]{strong="H7971" x-morph="strongMorph: TH8804"} his_hand_H3027 to_the_ark_H727: [and there he died]{strong="H4191" x-morph="strongMorph: TH8799"} before_H6440 God_H430. 
+@11 And_David_H1732 [was displeased]{strong="H2734" x-morph="strongMorph: TH8799"}, because the LORD [had made]{strong="H6555" x-morph="strongMorph: TH8804"} a_breach_H6556 upon_Uzza_H5798: wherefore_that_place_H4725 [is called]{strong="H7121" x-morph="strongMorph: TH8799"} [Perez-uzza]{strong="H6560"} to_this_day_H3117.^c^ 
+@12 And_David_H1732 [was afraid]{strong="H3372" x-morph="strongMorph: TH8799"} of_God_H430 that_day_H3117, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, How_H1963 [shall I bring]{strong="H935" x-morph="strongMorph: TH8686"} the_ark_H727 of_God_H430 home to me? 
+@13 So_David_H1732 [brought]{strong="H5493" x-morph="strongMorph: TH8689"} not_the_ark_H727 home to_himself_to_the_city_H5892 of_David_H1732, [but carried it aside]{strong="H5186" x-morph="strongMorph: TH8686"} into_the_house_H1004 [of Obed-edom]{strong="H5654"} the_Gittite_H1663.^d^ 
+@14 And_the_ark_H727 of_God_H430 [remained]{strong="H3427" x-morph="strongMorph: TH8799"} with_the_family_H1004 [of Obed-edom]{strong="H5654"} in_his_house_H1004 three_H7969 months_H2320. And the LORD [blessed]{strong="H1288" x-morph="strongMorph: TH8762"} the_house_H1004 [of Obed-edom]{strong="H5654"}, and all that he had.
 ^a^[**13:9** Chidon: also called Nachon] ^b^[**13:9** stumbled: or, shook it] ^c^[**13:11** Perez-uzza: that is, The breach of Uzza] ^d^[**13:13** brought: Heb. removed] 
 
 # 14 
-@1 Now Hiram king of Tyre sent messengers to David, and timber of cedars, with masons and carpenters, to build him an house. 
-@2 And David perceived that the LORD had confirmed him king over Israel, for his kingdom was lifted up on high, because of his people Israel. 
+@1 [Now Hiram]{strong="H2361 H2438" x-morph="strongMorph: TH8676"} king_H4428 of_Tyre_H6865 [sent]{strong="H7971" x-morph="strongMorph: TH8799"} messengers_H4397 to_David_H1732, and_timber_H6086 of_cedars_H730, with_masons_H7023 and_carpenters_H2796, [to build]{strong="H1129" x-morph="strongMorph: TH8800"} him_an_house_H1004. 
+@2 And_David_H1732 [perceived]{strong="H3045" x-morph="strongMorph: TH8799"} that the LORD [had confirmed]{strong="H3559" x-morph="strongMorph: TH8689"} him_king_H4428 over_Israel_H3478, for_his_kingdom_H4438 [was lifted up]{strong="H5375" x-morph="strongMorph: TH8738"} on_high_H4605, because_of_his_people_H5971 Israel_H3478. 
 
-@3 And David took more wives at Jerusalem: and David begat more sons and daughters.^a^ 
-@4 Now these are the names of his children which he had in Jerusalem; Shammua, and Shobab, Nathan, and Solomon, 
-@5 And Ibhar, and Elishua, and Elpalet, 
-@6 And Nogah, and Nepheg, and Japhia, 
-@7 And Elishama, and Beeliada, and Eliphalet.^b^ 
+@3 And_David_H1732 [took]{strong="H3947" x-morph="strongMorph: TH8799"} more_wives_H802 at_Jerusalem_H3389: and_David_H1732 [begat ]{strong="H3205" x-morph="strongMorph: TH8686"} more_sons_H1121 and_daughters_H1323.^a^ 
+@4 Now these are the_names_H8034 of his [children]{strong="H3205" x-morph="strongMorph: TH8803"} which_he_had_in_Jerusalem_H3389; Shammua_H8051, and_Shobab_H7727, Nathan_H5416, and_Solomon_H8010, 
+@5 And_Ibhar_H2984, and_Elishua_H474, and_Elpalet_H467, 
+@6 And_Nogah_H5052, and_Nepheg_H5298, and_Japhia_H3309, 
+@7 And_Elishama_H476, and_Beeliada_H1182, and_Eliphalet_H467.^b^ 
 ^a^[**14:3** more: Heb. yet] ^b^[**14:7** Beeliada: also called, Eliada]
 
-@8 And when the Philistines heard that David was anointed king over all Israel, all the Philistines went up to seek David. And David heard of it, and went out against them. 
-@9 And the Philistines came and spread themselves in the valley of Rephaim. 
-@10 And David enquired of God, saying, Shall I go up against the Philistines? and wilt thou deliver them into mine hand? And the LORD said unto him, Go up; for I will deliver them into thine hand. 
-@11 So they came up to Baal-perazim; and David smote them there. Then David said, God hath broken in upon mine enemies by mine hand like the breaking forth of waters: therefore they called the name of that place Baal-perazim.^a^ 
-@12 And when they had left their gods there, David gave a commandment, and they were burned with fire. 
-@13 And the Philistines yet again spread themselves abroad in the valley. 
-@14 Therefore David enquired again of God; and God said unto him, Go not up after them; turn away from them, and come upon them over against the mulberry trees. 
-@15 And it shall be, when thou shalt hear a sound of going in the tops of the mulberry trees, that then thou shalt go out to battle: for God is gone forth before thee to smite the host of the Philistines. 
-@16 David therefore did as God commanded him: and they smote the host of the Philistines from Gibeon even to Gazer.^b^ 
-@17 And the fame of David went out into all lands; and the LORD brought the fear of him upon all nations.
+@8 And_when_the_Philistines_H6430 [heard]{strong="H8085" x-morph="strongMorph: TH8799"} that_David_H1732 [was anointed]{strong="H4886" x-morph="strongMorph: TH8738"} king_H4428 over_all_Israel_H3478, all_the_Philistines_H6430 [went up]{strong="H5927" x-morph="strongMorph: TH8799"} [to seek]{strong="H1245" x-morph="strongMorph: TH8763"} David_H1732. And_David_H1732 [heard]{strong="H8085" x-morph="strongMorph: TH8799"} of it, [and went out]{strong="H3318" x-morph="strongMorph: TH8799"} against_H6440 them. 
+@9 And_the_Philistines_H6430 [came]{strong="H935" x-morph="strongMorph: TH8804"} [and spread]{strong="H6584" x-morph="strongMorph: TH8799"} themselves_in_the_valley_H6010 of_Rephaim_H7497. 
+@10 And_David_H1732 [enquired]{strong="H7592" x-morph="strongMorph: TH8799"} of_God_H430, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, [Shall I go up]{strong="H5927" x-morph="strongMorph: TH8799"} against_the_Philistines_H6430? [and wilt thou deliver]{strong="H5414" x-morph="strongMorph: TH8804"} them_into_mine_hand_H3027? And the LORD [said]{strong="H559" x-morph="strongMorph: TH8799"} [unto him, Go up]{strong="H5927" x-morph="strongMorph: TH8798"}; [for I will deliver]{strong="H5414" x-morph="strongMorph: TH8804"} them_into_thine_hand_H3027. 
+@11 [So they came up]{strong="H5927" x-morph="strongMorph: TH8799"} [to Baal-perazim]{strong="H1188"}; and_David_H1732 [smote]{strong="H5221" x-morph="strongMorph: TH8686"} [them there. Then David]{strong="H1732"} [said]{strong="H559" x-morph="strongMorph: TH8799"}, God_H430 [hath broken in]{strong="H6555" x-morph="strongMorph: TH8804"} [upon mine enemies]{strong="H341" x-morph="strongMorph: TH8802"} by_mine_hand_H3027 like_the_breaking_forth_H6556 of_waters_H4325: [therefore they called]{strong="H7121" x-morph="strongMorph: TH8804"} the_name_H8034 of_that_place_H4725 [Baal-perazim]{strong="H1188"}.^a^ 
+@12 [And when they had left]{strong="H5800" x-morph="strongMorph: TH8799"} their_gods_H430 [there, David]{strong="H1732"} [gave a commandment]{strong="H559" x-morph="strongMorph: TH8799"}, [and they were burned]{strong="H8313" x-morph="strongMorph: TH8735"} with_fire_H784. 
+@13 And_the_Philistines_H6430 [yet again]{strong="H3254" x-morph="strongMorph: TH8686"} [spread themselves abroad]{strong="H6584" x-morph="strongMorph: TH8799"} in_the_valley_H6010. 
+@14 Therefore_David_H1732 [enquired]{strong="H7592" x-morph="strongMorph: TH8799"} again_of_God_H430; and_God_H430 [said]{strong="H559" x-morph="strongMorph: TH8799"} [unto him, Go not up]{strong="H5927" x-morph="strongMorph: TH8799"} after_H310 [them; turn away]{strong="H5437" x-morph="strongMorph: TH8685"} [from them, and come]{strong="H935" x-morph="strongMorph: TH8804"} upon_them_over_against_H4136 the_mulberry_trees_H1057. 
+@15 [And it shall be, when thou shalt hear]{strong="H8085" x-morph="strongMorph: TH8800"} a_sound_H6963 of_going_H6807 in_the_tops_H7218 of_the_mulberry_trees_H1057, that [then thou shalt go out]{strong="H3318" x-morph="strongMorph: TH8799"} to_battle_H4421: for_God_H430 [is gone forth]{strong="H3318" x-morph="strongMorph: TH8804"} before_H6440 [thee to smite]{strong="H5221" x-morph="strongMorph: TH8687"} the_host_H4264 of_the_Philistines_H6430. 
+@16 David_H1732 [therefore did]{strong="H6213" x-morph="strongMorph: TH8799"} as_God_H430 [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} [him: and they smote]{strong="H5221" x-morph="strongMorph: TH8686"} the_host_H4264 of_the_Philistines_H6430 from_Gibeon_H1391 even_to_Gazer_H1507.^b^ 
+@17 And_the_fame_H8034 of_David_H1732 [went out]{strong="H3318" x-morph="strongMorph: TH8799"} into_all_lands_H776; and the LORD [brought]{strong="H5414" x-morph="strongMorph: TH8804"} the_fear_H6343 of_him_upon_all_nations_H1471.
 ^a^[**14:11** Baal-perazim: that is, A place of breaches] ^b^[**14:16** Gibeon: also called, Geba] 
 
 # 15 
-@1 And David made him houses in the city of David, and prepared a place for the ark of God, and pitched for it a tent. 
-@2 Then David said, None ought to carry the ark of God but the Levites: for them hath the LORD chosen to carry the ark of God, and to minister unto him for ever.^a^ 
-@3 And David gathered all Israel together to Jerusalem, to bring up the ark of the LORD unto his place, which he had prepared for it. 
-@4 And David assembled the children of Aaron, and the Levites: 
-@5 Of the sons of Kohath; Uriel the chief, and his brethren an hundred and twenty:^b^ 
-@6 Of the sons of Merari; Asaiah the chief, and his brethren two hundred and twenty: 
-@7 Of the sons of Gershom; Joel the chief, and his brethren an hundred and thirty: 
-@8 Of the sons of Elizaphan; Shemaiah the chief, and his brethren two hundred: 
-@9 Of the sons of Hebron; Eliel the chief, and his brethren fourscore: 
-@10 Of the sons of Uzziel; Amminadab the chief, and his brethren an hundred and twelve. 
-@11 And David called for Zadok and Abiathar the priests, and for the Levites, for Uriel, Asaiah, and Joel, Shemaiah, and Eliel, and Amminadab, 
-@12 And said unto them, Ye are the chief of the fathers of the Levites: sanctify yourselves, both ye and your brethren, that ye may bring up the ark of the LORD God of Israel unto the place that I have prepared for it. 
-@13 For because ye did it not at the first, the LORD our God made a breach upon us, for that we sought him not after the due order. 
-@14 So the priests and the Levites sanctified themselves to bring up the ark of the LORD God of Israel. 
-@15 And the children of the Levites bare the ark of God upon their shoulders with the staves thereon, as Moses commanded according to the word of the LORD. 
-@16 And David spake to the chief of the Levites to appoint their brethren to be the singers with instruments of musick, psalteries and harps and cymbals, sounding, by lifting up the voice with joy. 
-@17 So the Levites appointed Heman the son of Joel; and of his brethren, Asaph the son of Berechiah; and of the sons of Merari their brethren, Ethan the son of Kushaiah; 
-@18 And with them their brethren of the second degree, Zechariah, Ben, and Jaaziel, and Shemiramoth, and Jehiel, and Unni, Eliab, and Benaiah, and Maaseiah, and Mattithiah, and Elipheleh, and Mikneiah, and Obed-edom, and Jeiel, the porters. 
-@19 So the singers, Heman, Asaph, and Ethan, were appointed to sound with cymbals of brass; 
-@20 And Zechariah, and Aziel, and Shemiramoth, and Jehiel, and Unni, and Eliab, and Maaseiah, and Benaiah, with psalteries on Alamoth; 
-@21 And Mattithiah, and Elipheleh, and Mikneiah, and Obed-edom, and Jeiel, and Azaziah, with harps on the Sheminith to excel.^c^ 
-@22 And Chenaniah, chief of the Levites, was for song: he instructed about the song, because he was skilful.^d^ ^e^ 
-@23 And Berechiah and Elkanah were doorkeepers for the ark. 
-@24 And Shebaniah, and Jehoshaphat, and Nethaneel, and Amasai, and Zechariah, and Benaiah, and Eliezer, the priests, did blow with the trumpets before the ark of God: and Obed-edom and Jehiah were doorkeepers for the ark. 
+@1 And David [made]{strong="H6213" x-morph="strongMorph: TH8799"} him_houses_H1004 in_the_city_H5892 of_David_H1732, [and prepared]{strong="H3559" x-morph="strongMorph: TH8686"} a_place_H4725 for_the_ark_H727 of_God_H430, [and pitched]{strong="H5186" x-morph="strongMorph: TH8799"} for_it_a_tent_H168. 
+@2 Then_David_H1732 [said]{strong="H559" x-morph="strongMorph: TH8804"}, [None ought to carry]{strong="H5375" x-morph="strongMorph: TH8800"} the_ark_H727 of_God_H430 but_the_Levites_H3881: for them hath the LORD [chosen]{strong="H977" x-morph="strongMorph: TH8804"} [to carry]{strong="H5375" x-morph="strongMorph: TH8800"} the_ark_H727 of_God_H430, [and to minister]{strong="H8334" x-morph="strongMorph: TH8763"} unto_him_for_H5704 ever_H5769.^a^ 
+@3 And_David_H1732 gathered_H6950 all_Israel_H3478 [together]{strong="H6950" x-morph="strongMorph: TH8686"} to_Jerusalem_H3389, [to bring up]{strong="H5927" x-morph="strongMorph: TH8687"} the_ark_H727 of the LORD unto_his_place_H4725, [which he had prepared]{strong="H3559" x-morph="strongMorph: TH8689"} for it. 
+@4 And_David_H1732 [assembled]{strong="H622" x-morph="strongMorph: TH8799"} the_children_H1121 of_Aaron_H175, and_the_Levites_H3881: 
+@5 Of_the_sons_H1121 of_Kohath_H6955; Uriel_H222 the_chief_H8269, and_his_brethren_H251 an_hundred_H3967 and_twenty_H6242:^b^ 
+@6 Of_the_sons_H1121 of_Merari_H4847; Asaiah_H6222 the_chief_H8269, and_his_brethren_H251 two_hundred_H3967 and_twenty_H6242: 
+@7 Of_the_sons_H1121 of_Gershom_H1647; Joel_H3100 the_chief_H8269, and_his_brethren_H251 an_hundred_H3967 and_thirty_H7970: 
+@8 Of_the_sons_H1121 of_Elizaphan_H469; Shemaiah_H8098 the_chief_H8269, and_his_brethren_H251 two_hundred_H3967: 
+@9 Of_the_sons_H1121 of_Hebron_H2275; Eliel_H447 the_chief_H8269, and_his_brethren_H251 fourscore_H8084: 
+@10 Of_the_sons_H1121 of_Uzziel_H5816; Amminadab_H5992 the_chief_H8269, and_his_brethren_H251 an_hundred_H3967 [and twelve]{strong="H6240 H8147"}. 
+@11 And_David_H1732 [called]{strong="H7121" x-morph="strongMorph: TH8799"} for_Zadok_H6659 and_Abiathar_H54 the_priests_H3548, and_for_the_Levites_H3881, for_Uriel_H222, Asaiah_H6222, and_Joel_H3100, Shemaiah_H8098, and_Eliel_H447, and_Amminadab_H5992, 
+@12 [And said]{strong="H559" x-morph="strongMorph: TH8799"} unto them, Ye are the_chief_H7218 of_the_fathers_H1 of_the_Levites_H3881: [sanctify]{strong="H6942" x-morph="strongMorph: TH8690"} yourselves, both ye_and_your_brethren_H251, [that ye may bring up]{strong="H5927" x-morph="strongMorph: TH8689"} the_ark_H727 of the LORD God_H430 of_Israel_H3478 unto the place that [I have prepared]{strong="H3559" x-morph="strongMorph: TH8689"} for it. 
+@13 For because ye did it not_at_the_first_H7223, the LORD our_God_H430 [made a breach]{strong="H6555" x-morph="strongMorph: TH8804"} [upon us, for that we sought]{strong="H1875" x-morph="strongMorph: TH8804"} him_not_after_the_due_order_H4941. 
+@14 So_the_priests_H3548 and_the_Levites_H3881 [sanctified]{strong="H6942" x-morph="strongMorph: TH8691"} [themselves to bring up]{strong="H5927" x-morph="strongMorph: TH8687"} the_ark_H727 of the LORD God_H430 of_Israel_H3478. 
+@15 And_the_children_H1121 of_the_Levites_H3881 [bare]{strong="H5375" x-morph="strongMorph: TH8799"} the_ark_H727 of_God_H430 upon_their_shoulders_H3802 with_the_staves_H4133 [thereon, as Moses]{strong="H4872"} [commanded]{strong="H6680" x-morph="strongMorph: TH8765"} according_to_the_word_H1697 of the LORD. 
+@16 And_David_H1732 [spake]{strong="H559" x-morph="strongMorph: TH8799"} to_the_chief_H8269 of_the_Levites_H3881 [to appoint]{strong="H5975" x-morph="strongMorph: TH8687"} their_brethren_H251 to be [the singers]{strong="H7891" x-morph="strongMorph: TH8789"} with_instruments_H3627 of_musick_H7892, psalteries_H5035 and_harps_H3658 and_cymbals_H4700, [sounding]{strong="H8085" x-morph="strongMorph: TH8688"}, [by lifting up]{strong="H7311" x-morph="strongMorph: TH8687"} the_voice_H6963 with_joy_H8057. 
+@17 So_the_Levites_H3881 [appointed]{strong="H5975" x-morph="strongMorph: TH8686"} Heman_H1968 the_son_H1121 of_Joel_H3100; and_of_his_brethren_H251, Asaph_H623 the_son_H1121 of_Berechiah_H1296; and_of_the_sons_H1121 of_Merari_H4847 their_brethren_H251, Ethan_H387 the_son_H1121 of_Kushaiah_H6984; 
+@18 And_with_them_their_brethren_H251 of_the_second_H4932 degree, Zechariah_H2148, Ben_H1122, and_Jaaziel_H3268, and_Shemiramoth_H8070, and_Jehiel_H3171, and_Unni_H6042, Eliab_H446, and_Benaiah_H1141, and_Maaseiah_H4641, and_Mattithiah_H4993, and_Elipheleh_H466, and_Mikneiah_H4737, [and Obed-edom]{strong="H5654"}, and_Jeiel_H3273, the_porters_H7778. 
+@19 [So the singers]{strong="H7891" x-morph="strongMorph: TH8789"}, Heman_H1968, Asaph_H623, and_Ethan_H387, were appointed [to sound]{strong="H8085" x-morph="strongMorph: TH8687"} with_cymbals_H4700 of_brass_H5178; 
+@20 And_Zechariah_H2148, and_Aziel_H5815, and_Shemiramoth_H8070, and_Jehiel_H3171, and_Unni_H6042, and_Eliab_H446, and_Maaseiah_H4641, and_Benaiah_H1141, with_psalteries_H5035 on_Alamoth_H5961; 
+@21 And_Mattithiah_H4993, and_Elipheleh_H466, and_Mikneiah_H4737, [and Obed-edom]{strong="H5654"}, and_Jeiel_H3273, and_Azaziah_H5812, with_harps_H3658 on_the_Sheminith_H8067 [to excel]{strong="H5329" x-morph="strongMorph: TH8763"}.^c^ 
+@22 And_Chenaniah_H3663, chief_H8269 of_the_Levites_H3881, was for_song_H4853: he_instructed_H3256 about_the_song_H4853, because he was [skilful]{strong="H995" x-morph="strongMorph: TH8688"}.^d^ ^e^ 
+@23 And_Berechiah_H1296 and_Elkanah_H511 were doorkeepers_H7778 for_the_ark_H727. 
+@24 And_Shebaniah_H7645, and_Jehoshaphat_H3146, and_Nethaneel_H5417, and_Amasai_H6022, and_Zechariah_H2148, and_Benaiah_H1141, and_Eliezer_H461, the_priests_H3548, [did blow]{strong="H2690 H2690" x-morph="strongMorph: TH8764 strongMorph: TH8675 strongMorph: TH8688"} with_the_trumpets_H2689 before_H6440 the_ark_H727 of_God_H430: [and Obed-edom]{strong="H5654"} and_Jehiah_H3174 were doorkeepers_H7778 for_the_ark_H727. 
 ^a^[**15:2** None…: Heb. It is not to carry the ark of God, but for the Levites] ^b^[**15:5** brethren: or, kinsmen] ^c^[**15:21** on the…: or, on the eighth to oversee] ^d^[**15:22** was for…: or, was for the carriage: he instructed about the carriage] ^e^[**15:22** song: Heb. lifting up]
 
-@25 So David, and the elders of Israel, and the captains over thousands, went to bring up the ark of the covenant of the LORD out of the house of Obed-edom with joy. 
-@26 And it came to pass, when God helped the Levites that bare the ark of the covenant of the LORD, that they offered seven bullocks and seven rams. 
-@27 And David was clothed with a robe of fine linen, and all the Levites that bare the ark, and the singers, and Chenaniah the master of the song with the singers: David also had upon him an ephod of linen.^a^ 
-@28 Thus all Israel brought up the ark of the covenant of the LORD with shouting, and with sound of the cornet, and with trumpets, and with cymbals, making a noise with psalteries and harps. 
+@25 So_David_H1732, and_the_elders_H2205 of_Israel_H3478, and_the_captains_H8269 over_thousands_H505, [went]{strong="H1980" x-morph="strongMorph: TH8802"} [to bring up]{strong="H5927" x-morph="strongMorph: TH8687"} the_ark_H727 of_the_covenant_H1285 of the LORD out_of_the_house_H1004 [of Obed-edom]{strong="H5654"} with_joy_H8057. 
+@26 [And it came to pass, when God]{strong="H430"} [helped]{strong="H5826" x-morph="strongMorph: TH8800"} the_Levites_H3881 [that bare]{strong="H5375" x-morph="strongMorph: TH8802"} the_ark_H727 of_the_covenant_H1285 of the LORD, [that they offered]{strong="H2076" x-morph="strongMorph: TH8799"} seven_H7651 bullocks_H6499 and_seven_H7651 rams_H352. 
+@27 And_David_H1732 was [clothed]{strong="H3736" x-morph="strongMorph: TH8794"} with_a_robe_H4598 of_fine_linen_H948, and_all_the_Levites_H3881 [that bare]{strong="H5375" x-morph="strongMorph: TH8802"} the_ark_H727, [and the singers]{strong="H7891" x-morph="strongMorph: TH8789"}, and_Chenaniah_H3663 the_master_H8269 of_the_song_H4853 [with the singers]{strong="H7891" x-morph="strongMorph: TH8789"}: David_H1732 also had upon_him_an_ephod_H646 of_linen_H906.^a^ 
+@28 Thus_all_Israel_H3478 [brought up]{strong="H5927" x-morph="strongMorph: TH8688"} the_ark_H727 of_the_covenant_H1285 of the LORD with_shouting_H8643, and_with_sound_H6963 of_the_cornet_H7782, and_with_trumpets_H2689, and_with_cymbals_H4700, [making a noise]{strong="H8085" x-morph="strongMorph: TH8688"} with_psalteries_H5035 and_harps_H3658. 
 ^a^[**15:27** song: or, carriage]
 
-@29 And it came to pass, as the ark of the covenant of the LORD came to the city of David, that Michal the daughter of Saul looking out at a window saw king David dancing and playing: and she despised him in her heart. 
+@29 And it came to pass, as the_ark_H727 of_the_covenant_H1285 of the LORD [came]{strong="H935" x-morph="strongMorph: TH8804"} to_the_city_H5892 of_David_H1732, that_Michal_H4324 the_daughter_H1323 of_Saul_H7586 [looking out]{strong="H8259" x-morph="strongMorph: TH8738"} at_a_window_H2474 [saw]{strong="H7200" x-morph="strongMorph: TH8799"} king_H4428 David_H1732 [dancing]{strong="H7540" x-morph="strongMorph: TH8764"} [and playing]{strong="H7832" x-morph="strongMorph: TH8764"}: [and she despised]{strong="H959" x-morph="strongMorph: TH8799"} him_in_her_heart_H3820. 
 
 # 16 
-@1 So they brought the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt sacrifices and peace offerings before God. 
-@2 And when David had made an end of offering the burnt offerings and the peace offerings, he blessed the people in the name of the LORD. 
-@3 And he dealt to every one of Israel, both man and woman, to every one a loaf of bread, and a good piece of flesh, and a flagon of wine. 
+@1 [So they brought]{strong="H935" x-morph="strongMorph: TH8686"} the_ark_H727 of_God_H430, [and set]{strong="H3322" x-morph="strongMorph: TH8686"} it_in_the_midst_H8432 of_the_tent_H168 that_David_H1732 [had pitched]{strong="H5186" x-morph="strongMorph: TH8804"} [for it: and they offered]{strong="H7126" x-morph="strongMorph: TH8686"} burnt_sacrifices_H5930 and_peace_offerings_H8002 before_H6440 God_H430. 
+@2 And_when_David_H1732 [had made an end]{strong="H3615" x-morph="strongMorph: TH8762"} [of offering]{strong="H5927" x-morph="strongMorph: TH8687"} the_burnt_offerings_H5930 and_the_peace_offerings_H8002, [he blessed]{strong="H1288" x-morph="strongMorph: TH8762"} the_people_H5971 in_the_name_H8034 of the LORD. 
+@3 [And he dealt]{strong="H2505" x-morph="strongMorph: TH8762"} to_every_one_H376 of_Israel_H3478, both_man_H376 and_woman_H802, to_every_one_H376 a_loaf_H3603 of_bread_H3899, and_a_good_piece_of_flesh_H829, and_a_flagon_H809 of wine. 
 
-@4 And he appointed certain of the Levites to minister before the ark of the LORD, and to record, and to thank and praise the LORD God of Israel: 
-@5 Asaph the chief, and next to him Zechariah, Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah, and Obed-edom: and Jeiel with psalteries and with harps; but Asaph made a sound with cymbals;^a^ 
-@6 Benaiah also and Jahaziel the priests with trumpets continually before the ark of the covenant of God. 
+@4 [And he appointed]{strong="H5414" x-morph="strongMorph: TH8799"} certain of_the_Levites_H3881 [to minister]{strong="H8334" x-morph="strongMorph: TH8764"} before_H6440 the_ark_H727 of the LORD, [and to record]{strong="H2142" x-morph="strongMorph: TH8687"}, [and to thank]{strong="H3034" x-morph="strongMorph: TH8687"} [and praise]{strong="H1984" x-morph="strongMorph: TH8763"} the LORD God_H430 of_Israel_H3478: 
+@5 Asaph_H623 the_chief_H7218, and_next_H4932 to_him_Zechariah_H2148, Jeiel_H3273, and_Shemiramoth_H8070, and_Jehiel_H3171, and_Mattithiah_H4993, and_Eliab_H446, and_Benaiah_H1141, [and Obed-edom]{strong="H5654"}: and_Jeiel_H3273 [with psalteries]{strong="H3627 H5035"} and_with_harps_H3658; but_Asaph_H623 [made a sound]{strong="H8085" x-morph="strongMorph: TH8688"} with_cymbals_H4700;^a^ 
+@6 Benaiah_H1141 also_and_Jahaziel_H3166 the_priests_H3548 with_trumpets_H2689 continually_H8548 before_H6440 the_ark_H727 of_the_covenant_H1285 of_God_H430. 
 ^a^[**16:5** with psalteries…: Heb. with instruments of psalteries and harps]
 
-@7 Then on that day David delivered first this psalm to thank the LORD into the hand of Asaph and his brethren. 
-@8 Give thanks unto the LORD, call upon his name, make known his deeds among the people. 
-@9 Sing unto him, sing psalms unto him, talk ye of all his wondrous works. 
-@10 Glory ye in his holy name: let the heart of them rejoice that seek the LORD. 
-@11 Seek the LORD and his strength, seek his face continually. 
-@12 Remember his marvellous works that he hath done, his wonders, and the judgments of his mouth; 
-@13 O ye seed of Israel his servant, ye children of Jacob, his chosen ones. 
-@14 He is the LORD our God; his judgments are in all the earth. 
-@15 Be ye mindful always of his covenant; the word which he commanded to a thousand generations; 
-@16 Even of the covenant which he made with Abraham, and of his oath unto Isaac; 
-@17 And hath confirmed the same to Jacob for a law, and to Israel for an everlasting covenant, 
-@18 Saying, Unto thee will I give the land of Canaan, the lot of your inheritance;^a^ 
-@19 When ye were but few, even a few, and strangers in it.^b^ 
-@20 And when they went from nation to nation, and from one kingdom to another people; 
-@21 He suffered no man to do them wrong: yea, he reproved kings for their sakes, 
-@22 Saying, Touch not mine anointed, and do my prophets no harm. 
-@23 Sing unto the LORD, all the earth; shew forth from day to day his salvation. 
-@24 Declare his glory among the heathen; his marvellous works among all nations. 
-@25 For great is the LORD, and greatly to be praised: he also is to be feared above all gods. 
-@26 For all the gods of the people are idols: but the LORD made the heavens. 
-@27 Glory and honour are in his presence; strength and gladness are in his place. 
-@28 Give unto the LORD, ye kindreds of the people, give unto the LORD glory and strength. 
-@29 Give unto the LORD the glory due unto his name: bring an offering, and come before him: worship the LORD in the beauty of holiness. 
-@30 Fear before him, all the earth: the world also shall be stable, that it be not moved. 
-@31 Let the heavens be glad, and let the earth rejoice: and let men say among the nations, The LORD reigneth. 
-@32 Let the sea roar, and the fulness thereof: let the fields rejoice, and all that is therein. 
-@33 Then shall the trees of the wood sing out at the presence of the LORD, because he cometh to judge the earth. 
-@34 O give thanks unto the LORD; for he is good; for his mercy endureth for ever. 
-@35 And say ye, Save us, O God of our salvation, and gather us together, and deliver us from the heathen, that we may give thanks to thy holy name, and glory in thy praise. 
-@36 Blessed be the LORD God of Israel for ever and ever. And all the people said, Amen, and praised the LORD. 
+@7 Then_on_that_day_H3117 David_H1732 [delivered]{strong="H5414" x-morph="strongMorph: TH8804"} first_H7218 this psalm [to thank]{strong="H3034" x-morph="strongMorph: TH8687"} the LORD into_the_hand_H3027 of_Asaph_H623 and_his_brethren_H251. 
+@8 [Give thanks]{strong="H3034" x-morph="strongMorph: TH8685"} unto the LORD, [call]{strong="H7121" x-morph="strongMorph: TH8798"} upon_his_name_H8034, [make known]{strong="H3045" x-morph="strongMorph: TH8685"} his_deeds_H5949 among_the_people_H5971. 
+@9 [Sing]{strong="H7891" x-morph="strongMorph: TH8798"} [unto him, sing psalms]{strong="H2167" x-morph="strongMorph: TH8761"} [unto him, talk]{strong="H7878" x-morph="strongMorph: TH8798"} [ye of all his wondrous]{strong="H6381" x-morph="strongMorph: TH8737"} works. 
+@10 [Glory]{strong="H1984" x-morph="strongMorph: TH8690"} ye_in_his_holy_H6944 name_H8034: let_the_heart_H3820 [of them rejoice]{strong="H8055" x-morph="strongMorph: TH8799"} [that seek]{strong="H1245" x-morph="strongMorph: TH8764"} the LORD. 
+@11 [Seek]{strong="H1875" x-morph="strongMorph: TH8798"} the LORD and_his_strength_H5797, [seek]{strong="H1245" x-morph="strongMorph: TH8761"} his_face_H6440 continually_H8548. 
+@12 [Remember]{strong="H2142" x-morph="strongMorph: TH8798"} [his marvellous]{strong="H6381" x-morph="strongMorph: TH8737"} [works that he hath done]{strong="H6213" x-morph="strongMorph: TH8804"}, his_wonders_H4159, and_the_judgments_H4941 of_his_mouth_H6310; 
+@13 O_ye_seed_H2233 of_Israel_H3478 his_servant_H5650, ye_children_H1121 of_Jacob_H3290, his_chosen_ones_H972. 
+@14 He is the LORD our_God_H430; his_judgments_H4941 are in_all_the_earth_H776. 
+@15 [Be ye mindful]{strong="H2142" x-morph="strongMorph: TH8798"} always_H5769 of_his_covenant_H1285; the_word_H1697 which [he commanded]{strong="H6680" x-morph="strongMorph: TH8765"} to_a_thousand_H505 generations_H1755; 
+@16 Even of the covenant [which he made]{strong="H3772" x-morph="strongMorph: TH8804"} with_Abraham_H85, and_of_his_oath_H7621 unto_Isaac_H3327; 
+@17 [And hath confirmed]{strong="H5975" x-morph="strongMorph: TH8686"} the_same_to_Jacob_H3290 for_a_law_H2706, and to_Israel_H3478 for an_everlasting_H5769 covenant_H1285, 
+@18 [Saying]{strong="H559" x-morph="strongMorph: TH8800"}, [Unto thee will I give]{strong="H5414" x-morph="strongMorph: TH8799"} the_land_H776 of_Canaan_H3667, the_lot_H2256 of_your_inheritance_H5159;^a^ 
+@19 [When ye were but few]{strong="H4962 H4557"}, even_a_few_H4592, [and strangers]{strong="H1481" x-morph="strongMorph: TH8802"} in it.^b^ 
+@20 And when [they went]{strong="H1980" x-morph="strongMorph: TH8691"} from_nation_H1471 to_nation_H1471, and from one kingdom_H4467 to_another_H312 people_H5971; 
+@21 [He suffered]{strong="H3240" x-morph="strongMorph: TH8689"} no_man_H376 [to do them wrong]{strong="H6231" x-morph="strongMorph: TH8800"}: [yea, he reproved]{strong="H3198" x-morph="strongMorph: TH8686"} kings_H4428 for their sakes, 
+@22 Saying, [Touch]{strong="H5060" x-morph="strongMorph: TH8799"} not_mine_anointed_H4899, and_do_my_prophets_H5030 [no harm]{strong="H7489" x-morph="strongMorph: TH8686"}. 
+@23 [Sing]{strong="H7891" x-morph="strongMorph: TH8798"} unto the LORD, all_the_earth_H776; [shew forth]{strong="H1319" x-morph="strongMorph: TH8761"} from_day_H3117 to_day_H3117 his_salvation_H3444. 
+@24 [Declare]{strong="H5608" x-morph="strongMorph: TH8761"} his_glory_H3519 among_the_heathen_H1471; [his marvellous works]{strong="H6381" x-morph="strongMorph: TH8737"} among_all_nations_H5971. 
+@25 For_great_H1419 is the LORD, and_greatly_H3966 [to be praised]{strong="H1984" x-morph="strongMorph: TH8794"}: he also is [to be feared]{strong="H3372" x-morph="strongMorph: TH8737"} above_all_gods_H430. 
+@26 For_all_the_gods_H430 of_the_people_H5971 are idols_H457: but the LORD [made]{strong="H6213" x-morph="strongMorph: TH8804"} the_heavens_H8064. 
+@27 Glory_H1935 and_honour_H1926 are in_his_presence_H6440; strength_H5797 and_gladness_H2304 are in_his_place_H4725. 
+@28 [Give]{strong="H3051" x-morph="strongMorph: TH8798"} unto the LORD, ye_kindreds_H4940 of_the_people_H5971, [give]{strong="H3051" x-morph="strongMorph: TH8798"} unto the LORD glory_H3519 and_strength_H5797. 
+@29 [Give]{strong="H3051" x-morph="strongMorph: TH8798"} unto the LORD the_glory_H3519 due unto_his_name_H8034: [bring]{strong="H5375" x-morph="strongMorph: TH8798"} an_offering_H4503, [and come]{strong="H935" x-morph="strongMorph: TH8798"} before_H6440 [him: worship]{strong="H7812" x-morph="strongMorph: TH8690"} the LORD in_the_beauty_H1927 of_holiness_H6944. 
+@30 [Fear]{strong="H2342" x-morph="strongMorph: TH8798"} before_H6440 [him, all the earth]{strong="H776"}: the_world_H8398 [also shall be stable]{strong="H3559" x-morph="strongMorph: TH8735"}, [that it be not moved]{strong="H4131" x-morph="strongMorph: TH8735"}. 
+@31 Let_the_heavens_H8064 [be glad]{strong="H8055" x-morph="strongMorph: TH8799"}, and_let_the_earth_H776 [rejoice]{strong="H1523" x-morph="strongMorph: TH8799"}: and let men [say]{strong="H559" x-morph="strongMorph: TH8799"} among_the_nations_H1471, The LORD [reigneth]{strong="H4427" x-morph="strongMorph: TH8804"}. 
+@32 Let_the_sea_H3220 [roar]{strong="H7481" x-morph="strongMorph: TH8799"}, and_the_fulness_H4393 [thereof: let the fields]{strong="H7704"} [rejoice]{strong="H5970" x-morph="strongMorph: TH8799"}, and all that is therein. 
+@33 Then_shall_the_trees_H6086 of_the_wood_H3293 [sing out]{strong="H7442" x-morph="strongMorph: TH8762"} at_the_presence_H6440 of the LORD, [because he cometh]{strong="H935" x-morph="strongMorph: TH8804"} [to judge]{strong="H8199" x-morph="strongMorph: TH8800"} the_earth_H776. 
+@34 [O give thanks]{strong="H3034" x-morph="strongMorph: TH8685"} unto the LORD; for he is good_H2896; for_his_mercy_H2617 endureth for_ever_H5769. 
+@35 [And say]{strong="H559" x-morph="strongMorph: TH8798"} [ye, Save]{strong="H3467" x-morph="strongMorph: TH8685"} [us, O God]{strong="H430"} of_our_salvation_H3468, [and gather us together]{strong="H6908" x-morph="strongMorph: TH8761"}, [and deliver]{strong="H5337" x-morph="strongMorph: TH8685"} us_from_the_heathen_H1471, [that we may give thanks]{strong="H3034" x-morph="strongMorph: TH8687"} to_thy_holy_H6944 name_H8034, and [glory]{strong="H7623" x-morph="strongMorph: TH8692"} in_thy_praise_H8416. 
+@36 [Blessed]{strong="H1288" x-morph="strongMorph: TH8803"} be the LORD God_H430 of_Israel_H3478 for_ever_H5769 and_ever_H5769. And_all_the_people_H5971 [said]{strong="H559" x-morph="strongMorph: TH8799"}, Amen_H543, [and praised]{strong="H1984" x-morph="strongMorph: TH8763"} the LORD. 
 ^a^[**16:18** the lot: Heb. the cord] ^b^[**16:19** few, even: Heb. men of number, etc]
 
-@37 So he left there before the ark of the covenant of the LORD Asaph and his brethren, to minister before the ark continually, as every day’s work required: 
-@38 And Obed-edom with their brethren, threescore and eight; Obed-edom also the son of Jeduthun and Hosah to be porters: 
-@39 And Zadok the priest, and his brethren the priests, before the tabernacle of the LORD in the high place that was at Gibeon, 
-@40 To offer burnt offerings unto the LORD upon the altar of the burnt offering continually morning and evening, and to do according to all that is written in the law of the LORD, which he commanded Israel;^a^ 
-@41 And with them Heman and Jeduthun, and the rest that were chosen, who were expressed by name, to give thanks to the LORD, because his mercy endureth for ever; 
-@42 And with them Heman and Jeduthun with trumpets and cymbals for those that should make a sound, and with musical instruments of God. And the sons of Jeduthun were porters.^b^ 
-@43 And all the people departed every man to his house: and David returned to bless his house.
+@37 [So he left]{strong="H5800" x-morph="strongMorph: TH8799"} there_before_H6440 the_ark_H727 of_the_covenant_H1285 of the LORD Asaph_H623 and_his_brethren_H251, [to minister]{strong="H8334" x-morph="strongMorph: TH8763"} before_H6440 the_ark_H727 continually_H8548, [as every day’s]{strong="H3117"} work_H1697 required_H3117: 
+@38 [And Obed-edom]{strong="H5654"} with_their_brethren_H251, threescore_H8346 and_eight_H8083; [Obed-edom]{strong="H5654"} also_the_son_H1121 of_Jeduthun_H3038 and_Hosah_H2621 to be porters_H7778: 
+@39 And_Zadok_H6659 the_priest_H3548, and_his_brethren_H251 the_priests_H3548, before_H6440 the_tabernacle_H4908 of the LORD in_the_high_place_H1116 that was at_Gibeon_H1391, 
+@40 [To offer]{strong="H5927" x-morph="strongMorph: TH8687"} burnt_offerings_H5930 unto the LORD upon_the_altar_H4196 of_the_burnt_offering_H5930 continually_H8548 morning_H1242 and_evening_H6153, and to do [according to all that is written]{strong="H3789" x-morph="strongMorph: TH8803"} in_the_law_H8451 of the LORD, [which he commanded]{strong="H6680" x-morph="strongMorph: TH8765"} Israel_H3478;^a^ 
+@41 And_with_them_Heman_H1968 and_Jeduthun_H3038, and_the_rest_H7605 [that were chosen]{strong="H1305" x-morph="strongMorph: TH8803"}, [who were expressed]{strong="H5344" x-morph="strongMorph: TH8738"} by_name_H8034, [to give thanks]{strong="H3034" x-morph="strongMorph: TH8687"} to the LORD, because_his_mercy_H2617 endureth for_ever_H5769; 
+@42 And_with_them_Heman_H1968 and_Jeduthun_H3038 with_trumpets_H2689 and_cymbals_H4700 [for those that should make a sound]{strong="H8085" x-morph="strongMorph: TH8688"}, and_with_musical_H7892 instruments_H3627 of_God_H430. And_the_sons_H1121 of_Jeduthun_H3038 were porters_H8179.^b^ 
+@43 And_all_the_people_H5971 [departed]{strong="H3212" x-morph="strongMorph: TH8799"} every_man_H376 to_his_house_H1004: and_David_H1732 [returned]{strong="H5437" x-morph="strongMorph: TH8735"} [to bless]{strong="H1288" x-morph="strongMorph: TH8763"} his_house_H1004.
 ^a^[**16:40** morning…: Heb. in the morning, and in the evening] ^b^[**16:42** porters: Heb. for the gate] 
 
 # 17 
-@1 Now it came to pass, as David sat in his house, that David said to Nathan the prophet, Lo, I dwell in an house of cedars, but the ark of the covenant of the LORD remaineth under curtains. 
-@2 Then Nathan said unto David, Do all that is in thine heart; for God is with thee. 
+@1 [Now it came to pass, as David]{strong="H1732"} [sat]{strong="H3427" x-morph="strongMorph: TH8804"} in_his_house_H1004, that_David_H1732 [said]{strong="H559" x-morph="strongMorph: TH8799"} to_Nathan_H5416 the_prophet_H5030, [Lo, I dwell]{strong="H3427" x-morph="strongMorph: TH8802"} in_an_house_H1004 of_cedars_H730, but_the_ark_H727 of_the_covenant_H1285 of the LORD remaineth under_curtains_H3407. 
+@2 Then_Nathan_H5416 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_David_H1732, [Do]{strong="H6213" x-morph="strongMorph: TH8798"} all that is in_thine_heart_H3824; for_God_H430 is with thee. 
 
-@3 And it came to pass the same night, that the word of God came to Nathan, saying, 
-@4 Go and tell David my servant, Thus saith the LORD, Thou shalt not build me an house to dwell in: 
-@5 For I have not dwelt in an house since the day that I brought up Israel unto this day; but have gone from tent to tent, and from one tabernacle to another.^a^ 
-@6 Wheresoever I have walked with all Israel, spake I a word to any of the judges of Israel, whom I commanded to feed my people, saying, Why have ye not built me an house of cedars? 
-@7 Now therefore thus shalt thou say unto my servant David, Thus saith the LORD of hosts, I took thee from the sheepcote, even from following the sheep, that thou shouldest be ruler over my people Israel:^b^ 
-@8 And I have been with thee whithersoever thou hast walked, and have cut off all thine enemies from before thee, and have made thee a name like the name of the great men that are in the earth. 
-@9 Also I will ordain a place for my people Israel, and will plant them, and they shall dwell in their place, and shall be moved no more; neither shall the children of wickedness waste them any more, as at the beginning, 
-@10 And since the time that I commanded judges to be over my people Israel. Moreover I will subdue all thine enemies. Furthermore I tell thee that the LORD will build thee an house. 
+@3 And_it_came_to_pass_the_same_night_H3915, that_the_word_H1697 of_God_H430 came_to_Nathan_H5416, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@4 [Go]{strong="H3212" x-morph="strongMorph: TH8798"} [and tell]{strong="H559" x-morph="strongMorph: TH8804"} David_H1732 my_servant_H5650, [Thus saith]{strong="H559" x-morph="strongMorph: TH8804"} the LORD, [Thou shalt not build]{strong="H1129" x-morph="strongMorph: TH8799"} me_an_house_H1004 [to dwell in]{strong="H3427" x-morph="strongMorph: TH8800"}: 
+@5 [For I have not dwelt in]{strong="H3427" x-morph="strongMorph: TH8804"} an_house_H1004 since_the_day_H3117 [that I brought up]{strong="H5927" x-morph="strongMorph: TH8689"} Israel_H3478 unto_this_day_H3117; but_have_gone_from_tent_H168 to_tent_H168, and from one tabernacle_H4908 to another.^a^ 
+@6 [Wheresoever I have walked]{strong="H1980" x-morph="strongMorph: TH8694"} with_all_Israel_H3478, [spake]{strong="H1696" x-morph="strongMorph: TH8765"} I_a_word_H1697 to_any_H259 [of the judges]{strong="H8199" x-morph="strongMorph: TH8802"} of_Israel_H3478, [whom I commanded]{strong="H6680" x-morph="strongMorph: TH8765"} [to feed]{strong="H7462" x-morph="strongMorph: TH8800"} my_people_H5971, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, [Why have ye not built]{strong="H1129" x-morph="strongMorph: TH8804"} me_an_house_H1004 of_cedars_H730? 
+@7 [Now therefore thus shalt thou say]{strong="H559" x-morph="strongMorph: TH8799"} unto_my_servant_H5650 David_H1732, [Thus saith]{strong="H559" x-morph="strongMorph: TH8804"} the LORD of_hosts_H6635, [I took]{strong="H3947" x-morph="strongMorph: TH8804"} thee_from_the_sheepcote_H5116, even from_following_H310 the_sheep_H6629, that_thou_shouldest_be_ruler_H5057 over_my_people_H5971 Israel_H3478:^b^ 
+@8 [And I have been with thee whithersoever thou hast walked]{strong="H1980" x-morph="strongMorph: TH8804"}, [and have cut off]{strong="H3772" x-morph="strongMorph: TH8686"} [all thine enemies]{strong="H341" x-morph="strongMorph: TH8802"} from_before_H6440 [thee, and have made]{strong="H6213" x-morph="strongMorph: TH8804"} thee_a_name_H8034 like_the_name_H8034 of_the_great_men_H1419 that are in_the_earth_H776. 
+@9 [Also I will ordain]{strong="H7760" x-morph="strongMorph: TH8804"} a_place_H4725 for_my_people_H5971 Israel_H3478, [and will plant]{strong="H5193" x-morph="strongMorph: TH8804"} [them, and they shall dwell]{strong="H7931" x-morph="strongMorph: TH8804"} [in their place, and shall be moved]{strong="H7264" x-morph="strongMorph: TH8799"} [no more; neither shall the children]{strong="H1121"} of_wickedness_H5766 [waste]{strong="H1086" x-morph="strongMorph: TH8763"} [them any more]{strong="H3254" x-morph="strongMorph: TH8686"}, as_at_the_beginning_H7223, 
+@10 And_since_the_time_H3117 [that I commanded]{strong="H6680" x-morph="strongMorph: TH8765"} [judges]{strong="H8199" x-morph="strongMorph: TH8802"} to be over_my_people_H5971 Israel_H3478. [Moreover I will subdue]{strong="H3665" x-morph="strongMorph: TH8689"} [all thine enemies]{strong="H341" x-morph="strongMorph: TH8802"}. [Furthermore I tell]{strong="H5046" x-morph="strongMorph: TH8686"} thee that the LORD [will build]{strong="H1129" x-morph="strongMorph: TH8799"} thee_an_house_H1004. 
 ^a^[**17:5** have gone: Heb. have been] ^b^[**17:7** from following: Heb. from after]
 
-@11 And it shall come to pass, when thy days be expired that thou must go to be with thy fathers, that I will raise up thy seed after thee, which shall be of thy sons; and I will establish his kingdom. 
-@12 He shall build me an house, and I will stablish his throne for ever. 
-@13 I will be his father, and he shall be my son: and I will not take my mercy away from him, as I took it from him that was before thee: 
-@14 But I will settle him in mine house and in my kingdom for ever: and his throne shall be established for evermore. 
-@15 According to all these words, and according to all this vision, so did Nathan speak unto David. 
+@11 [And it shall come to pass, when thy days]{strong="H3117"} [be expired]{strong="H4390" x-morph="strongMorph: TH8804"} [that thou must go]{strong="H3212" x-morph="strongMorph: TH8800"} to be with_thy_fathers_H1, [that I will raise up]{strong="H6965" x-morph="strongMorph: TH8689"} thy_seed_H2233 after_H310 [thee, which shall be of thy sons]{strong="H1121"}; [and I will establish]{strong="H3559" x-morph="strongMorph: TH8689"} his_kingdom_H4438. 
+@12 [He shall build]{strong="H1129" x-morph="strongMorph: TH8799"} me_an_house_H1004, [and I will stablish]{strong="H3559" x-morph="strongMorph: TH8790"} his_throne_H3678 for_H5704 ever_H5769. 
+@13 I_will_be_his_father_H1, and_he_shall_be_my_son_H1121: and_I_will_not_take_H5493 my_mercy_H2617 [away]{strong="H5493" x-morph="strongMorph: TH8686"} [from him, as I took]{strong="H5493" x-morph="strongMorph: TH8689"} it from him that_was_before_H6440 thee: 
+@14 [But I will settle]{strong="H5975" x-morph="strongMorph: TH8689"} him_in_mine_house_H1004 and_in_my_kingdom_H4438 for_ever_H5769: and_his_throne_H3678 [shall be established]{strong="H3559" x-morph="strongMorph: TH8737"} for_H5704 evermore_H5769. 
+@15 According_to_all_these_words_H1697, and_according_to_all_this_vision_H2377, so_did_Nathan_H5416 [speak]{strong="H1696" x-morph="strongMorph: TH8765"} unto_David_H1732. 
 
-@16 And David the king came and sat before the LORD, and said, Who am I, O LORD God, and what is mine house, that thou hast brought me hitherto? 
-@17 And yet this was a small thing in thine eyes, O God; for thou hast also spoken of thy servant’s house for a great while to come, and hast regarded me according to the estate of a man of high degree, O LORD God. 
-@18 What can David speak more to thee for the honour of thy servant? for thou knowest thy servant. 
-@19 O LORD, for thy servant’s sake, and according to thine own heart, hast thou done all this greatness, in making known all these great things.^a^ 
-@20 O LORD, there is none like thee, neither is there any God beside thee, according to all that we have heard with our ears. 
-@21 And what one nation in the earth is like thy people Israel, whom God went to redeem to be his own people, to make thee a name of greatness and terribleness, by driving out nations from before thy people, whom thou hast redeemed out of Egypt? 
-@22 For thy people Israel didst thou make thine own people for ever; and thou, LORD, becamest their God. 
-@23 Therefore now, LORD, let the thing that thou hast spoken concerning thy servant and concerning his house be established for ever, and do as thou hast said. 
-@24 Let it even be established, that thy name may be magnified for ever, saying, The LORD of hosts is the God of Israel, even a God to Israel: and let the house of David thy servant be established before thee. 
-@25 For thou, O my God, hast told thy servant that thou wilt build him an house: therefore thy servant hath found in his heart to pray before thee.^b^ 
-@26 And now, LORD, thou art God, and hast promised this goodness unto thy servant: 
-@27 Now therefore let it please thee to bless the house of thy servant, that it may be before thee for ever: for thou blessest, O LORD, and it shall be blessed for ever.^c^
+@16 And_David_H1732 the_king_H4428 [came]{strong="H935" x-morph="strongMorph: TH8799"} [and sat]{strong="H3427" x-morph="strongMorph: TH8799"} before_H6440 the LORD, [and said]{strong="H559" x-morph="strongMorph: TH8799"}, Who am I, O LORD God_H430, and what is mine_house_H1004, [that thou hast brought]{strong="H935" x-morph="strongMorph: TH8689"} me_hitherto_H1988? 
+@17 And yet [this was a small thing]{strong="H6994" x-morph="strongMorph: TH8799"} in_thine_eyes_H5869, O_God_H430; for thou hast also [spoken]{strong="H1696" x-morph="strongMorph: TH8762"} [of thy servant’s]{strong="H5650"} house_H1004 for_a_great_while_to_come_H7350, [and hast regarded]{strong="H7200" x-morph="strongMorph: TH8804"} me_according_to_the_estate_H8448 of_a_man_H120 of_high_degree_H4609, O LORD God_H430. 
+@18 What_can_H3254 David_H1732 speak [more]{strong="H3254" x-morph="strongMorph: TH8686"} to_thee_for_the_honour_H3519 of_thy_servant_H5650? [for thou knowest]{strong="H3045" x-morph="strongMorph: TH8804"} thy_servant_H5650. 
+@19 O LORD, [for thy servant’s]{strong="H5650"} [sake, and according to thine own heart]{strong="H3820"}, [hast thou done]{strong="H6213" x-morph="strongMorph: TH8804"} all_this_greatness_H1420, [in making known]{strong="H3045" x-morph="strongMorph: TH8687"} all these great_things_H1420.^a^ 
+@20 O LORD, there is none like thee, neither is there any God_H430 beside_H2108 [thee, according to all that we have heard]{strong="H8085" x-morph="strongMorph: TH8804"} with_our_ears_H241. 
+@21 And_what_one_H259 nation_H1471 in_the_earth_H776 is like_thy_people_H5971 Israel_H3478, whom_God_H430 [went]{strong="H1980" x-morph="strongMorph: TH8804"} [to redeem]{strong="H6299" x-morph="strongMorph: TH8800"} to be his_own_people_H5971, [to make]{strong="H7760" x-morph="strongMorph: TH8800"} thee_a_name_H8034 of_greatness_H1420 [and terribleness]{strong="H3372" x-morph="strongMorph: TH8737"}, [by driving out]{strong="H1644" x-morph="strongMorph: TH8763"} nations_H1471 from_before_H6440 thy_people_H5971, [whom thou hast redeemed]{strong="H6299" x-morph="strongMorph: TH8804"} out_of_Egypt_H4714? 
+@22 For_thy_people_H5971 Israel_H3478 [didst thou make]{strong="H5414" x-morph="strongMorph: TH8799"} thine_own_people_H5971 for_H5704 ever_H5769; and thou, LORD, becamest_their_God_H430. 
+@23 Therefore now, LORD, let_the_thing_H1697 [that thou hast spoken]{strong="H1696" x-morph="strongMorph: TH8765"} concerning_thy_servant_H5650 and_concerning_his_house_H1004 [be established]{strong="H539" x-morph="strongMorph: TH8735"} for_H5704 ever_H5769, [and do]{strong="H6213" x-morph="strongMorph: TH8798"} [as thou hast said]{strong="H1696" x-morph="strongMorph: TH8765"}. 
+@24 [Let it even be established]{strong="H539" x-morph="strongMorph: TH8735"}, that_thy_name_H8034 [may be magnified]{strong="H1431" x-morph="strongMorph: TH8799"} for_H5704 ever_H5769, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, The LORD of_hosts_H6635 is the_God_H430 of_Israel_H3478, even a_God_H430 to_Israel_H3478: and let the_house_H1004 of_David_H1732 thy_servant_H5650 be [established]{strong="H3559" x-morph="strongMorph: TH8737"} before_H6440 thee. 
+@25 [For thou, O my God]{strong="H430"}, [hast told]{strong="H241 H1540" x-morph="strongMorph: TH8804"} thy_servant_H5650 [that thou wilt build]{strong="H1129" x-morph="strongMorph: TH8800"} him_an_house_H1004: therefore_thy_servant_H5650 [hath found]{strong="H4672" x-morph="strongMorph: TH8804"} in his heart [to pray]{strong="H6419" x-morph="strongMorph: TH8692"} before_H6440 thee.^b^ 
+@26 And now, LORD, thou_art_God_H430, [and hast promised]{strong="H1696" x-morph="strongMorph: TH8762"} this_goodness_H2896 unto_thy_servant_H5650: 
+@27 [Now therefore let it please]{strong="H2974" x-morph="strongMorph: TH8689"} [thee to bless]{strong="H1288" x-morph="strongMorph: TH8763"} the_house_H1004 of_thy_servant_H5650, that_it_may_be_before_H6440 thee_for_ever_H5769: [for thou blessest]{strong="H1288" x-morph="strongMorph: TH8765"}, O LORD, and it shall be [blessed]{strong="H1288" x-morph="strongMorph: TH8794"} for_ever_H5769.^c^
 ^a^[**17:19** great…: Heb. greatnesses] ^b^[**17:25** hast…: Heb. hast revealed the ear of thy servant] ^c^[**17:27** let…: or, it hath pleased thee] 
 
 # 18 
-@1 Now after this it came to pass, that David smote the Philistines, and subdued them, and took Gath and her towns out of the hand of the Philistines. 
-@2 And he smote Moab; and the Moabites became David’s servants, and brought gifts. 
+@1 Now_after_this_H310 [it came to pass, that David]{strong="H1732"} [smote]{strong="H5221" x-morph="strongMorph: TH8686"} the_Philistines_H6430, [and subdued]{strong="H3665" x-morph="strongMorph: TH8686"} [them, and took]{strong="H3947" x-morph="strongMorph: TH8799"} Gath_H1661 and_her_towns_H1323 out_of_the_hand_H3027 of_the_Philistines_H6430. 
+@2 [And he smote]{strong="H5221" x-morph="strongMorph: TH8686"} Moab_H4124; and_the_Moabites_H4124 [became David’s]{strong="H1732"} servants_H5650, and [brought]{strong="H5375" x-morph="strongMorph: TH8802"} gifts_H4503. 
 
-@3 And David smote Hadarezer king of Zobah unto Hamath, as he went to stablish his dominion by the river Euphrates.^a^ 
-@4 And David took from him a thousand chariots, and seven thousand horsemen, and twenty thousand footmen: David also houghed all the chariot horses, but reserved of them an hundred chariots.^b^ 
-@5 And when the Syrians of Damascus came to help Hadarezer king of Zobah, David slew of the Syrians two and twenty thousand men.^c^ 
-@6 Then David put garrisons in Syria-damascus; and the Syrians became David’s servants, and brought gifts. Thus the LORD preserved David whithersoever he went. 
-@7 And David took the shields of gold that were on the servants of Hadarezer, and brought them to Jerusalem. 
-@8 Likewise from Tibhath, and from Chun, cities of Hadarezer, brought David very much brass, wherewith Solomon made the brasen sea, and the pillars, and the vessels of brass.^d^ 
+@3 And_David_H1732 [smote]{strong="H5221" x-morph="strongMorph: TH8686"} Hadarezer_H1928 king_H4428 of_Zobah_H6678 unto_Hamath_H2574, [as he went]{strong="H3212" x-morph="strongMorph: TH8800"} [to stablish]{strong="H5324" x-morph="strongMorph: TH8687"} his_dominion_H3027 by_the_river_H5104 Euphrates_H6578.^a^ 
+@4 And_David_H1732 [took]{strong="H3920" x-morph="strongMorph: TH8799"} from_him_a_thousand_H505 chariots_H7393, and_seven_H7651 thousand_H505 horsemen_H6571, and_twenty_H6242 thousand_H505 [footmen]{strong="H7273 H376"}: David_H1732 [also houghed]{strong="H6131" x-morph="strongMorph: TH8762"} all_the_chariot_H7393 horses, [but reserved]{strong="H3498" x-morph="strongMorph: TH8686"} of_them_an_hundred_H3967 chariots_H7393.^b^ 
+@5 And_when_the_Syrians_H758 of_Damascus_H1834 [came]{strong="H935" x-morph="strongMorph: TH8799"} [to help]{strong="H5826" x-morph="strongMorph: TH8800"} Hadarezer_H1928 king_H4428 of_Zobah_H6678, David_H1732 [slew]{strong="H5221" x-morph="strongMorph: TH8686"} of_the_Syrians_H758 two_H8147 and_twenty_H6242 thousand_H505 men_H376.^c^ 
+@6 Then_David_H1732 [put]{strong="H7760" x-morph="strongMorph: TH8799"} garrisons [in Syria-damascus]{strong="H1834 H758"}; and_the_Syrians_H758 [became David’s]{strong="H1732"} servants_H5650, and [brought]{strong="H5375" x-morph="strongMorph: TH8802"} gifts_H4503. Thus the LORD [preserved]{strong="H3467" x-morph="strongMorph: TH8686"} David_H1732 [whithersoever he went]{strong="H1980" x-morph="strongMorph: TH8804"}. 
+@7 And_David_H1732 [took]{strong="H3947" x-morph="strongMorph: TH8799"} the_shields_H7982 of_gold_H2091 that_were_on_the_servants_H5650 of_Hadarezer_H1928, [and brought]{strong="H935" x-morph="strongMorph: TH8686"} them_to_Jerusalem_H3389. 
+@8 Likewise_from_Tibhath_H2880, and_from_Chun_H3560, cities_H5892 of_Hadarezer_H1928, [brought]{strong="H3947" x-morph="strongMorph: TH8804"} David_H1732 very_H3966 much_H7227 brass_H5178, wherewith_Solomon_H8010 [made]{strong="H6213" x-morph="strongMorph: TH8804"} the_brasen_H5178 sea_H3220, and_the_pillars_H5982, and_the_vessels_H3627 of_brass_H5178.^d^ 
 ^a^[**18:3** Hadarezer: or, Hadadezer] ^b^[**18:4** seven…: or, seven hundred] ^c^[**18:5** Damascus: Heb. Darmesek] ^d^[**18:8** Tibhath…: called in the book of Samuel Betah, and Berothai]
 
-@9 Now when Tou king of Hamath heard how David had smitten all the host of Hadarezer king of Zobah;^a^ 
-@10 He sent Hadoram his son to king David, to enquire of his welfare, and to congratulate him, because he had fought against Hadarezer, and smitten him; (for Hadarezer had war with Tou;) and with him all manner of vessels of gold and silver and brass.^b^ ^c^ ^d^ ^e^ 
+@9 Now_when_Tou_H8583 king_H4428 of_Hamath_H2574 [heard]{strong="H8085" x-morph="strongMorph: TH8799"} how_David_H1732 [had smitten]{strong="H5221" x-morph="strongMorph: TH8689"} all_the_host_H2428 of_Hadarezer_H1928 king_H4428 of_Zobah_H6678;^a^ 
+@10 [He sent]{strong="H7971" x-morph="strongMorph: TH8799"} Hadoram_H1913 his_son_H1121 to_king_H4428 David_H1732, [to enquire]{strong="H7592" x-morph="strongMorph: TH8800"} of_his_welfare_H7965, [and to congratulate]{strong="H1288" x-morph="strongMorph: TH8763"} [him, because he had fought]{strong="H3898" x-morph="strongMorph: TH8738"} against_Hadarezer_H1928, [and smitten]{strong="H5221" x-morph="strongMorph: TH8686"} [him; (for Hadarezer]{strong="H1928"} [had war]{strong="H4421 H376"} with_Tou_H8583;) and with him all_manner_of_vessels_H3627 of_gold_H2091 and_silver_H3701 and_brass_H5178.^b^ ^c^ ^d^ ^e^ 
 ^a^[**18:9** Tou: also called, Toi] ^b^[**18:10** Hadoram: also called, Joram] ^c^[**18:10** to enquire…: or, to salute] ^d^[**18:10** to congratulate: Heb. to bless] ^e^[**18:10** had war: Heb. was the man of wars]
 
-@11 Them also king David dedicated unto the LORD, with the silver and the gold that he brought from all these nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek. 
-@12 Moreover Abishai the son of Zeruiah slew of the Edomites in the valley of salt eighteen thousand.^a^ 
+@11 Them_also_king_H4428 David_H1732 [dedicated]{strong="H6942" x-morph="strongMorph: TH8689"} unto the LORD, with_the_silver_H3701 and_the_gold_H2091 [that he brought]{strong="H5375" x-morph="strongMorph: TH8804"} from all these nations_H1471; from_Edom_H123, and_from_Moab_H4124, and_from_the_children_H1121 of_Ammon_H5983, and_from_the_Philistines_H6430, and_from_Amalek_H6002. 
+@12 Moreover_Abishai_H52 the_son_H1121 of_Zeruiah_H6870 [slew]{strong="H5221" x-morph="strongMorph: TH8689"} of_the_Edomites_H123 in_the_valley_H1516 of_salt_H4417 [eighteen]{strong="H6240 H8083"} thousand_H505.^a^ 
 ^a^[**18:12** Abishai: Heb. Abshai]
 
-@13 And he put garrisons in Edom; and all the Edomites became David’s servants. Thus the LORD preserved David whithersoever he went. 
+@13 [And he put]{strong="H7760" x-morph="strongMorph: TH8799"} garrisons_H5333 in_Edom_H123; and_all_the_Edomites_H123 [became David’s]{strong="H1732"} servants_H5650. Thus the LORD [preserved]{strong="H3467" x-morph="strongMorph: TH8686"} David_H1732 [whithersoever he went]{strong="H1980" x-morph="strongMorph: TH8804"}. 
 
-@14 So David reigned over all Israel, and executed judgment and justice among all his people. 
-@15 And Joab the son of Zeruiah was over the host; and Jehoshaphat the son of Ahilud, recorder.^a^ 
-@16 And Zadok the son of Ahitub, and Abimelech the son of Abiathar, were the priests; and Shavsha was scribe;^b^ ^c^ 
-@17 And Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and the sons of David were chief about the king.^d^
+@14 So_David_H1732 [reigned]{strong="H4427" x-morph="strongMorph: TH8799"} over_all_Israel_H3478, [and executed]{strong="H6213" x-morph="strongMorph: TH8802"} judgment_H4941 and_justice_H6666 among_all_his_people_H5971. 
+@15 And_Joab_H3097 the_son_H1121 of_Zeruiah_H6870 was over_the_host_H6635; and_Jehoshaphat_H3092 the_son_H1121 of_Ahilud_H286, [recorder]{strong="H2142" x-morph="strongMorph: TH8688"}.^a^ 
+@16 And_Zadok_H6659 the_son_H1121 of_Ahitub_H285, and_Abimelech_H40 the_son_H1121 of_Abiathar_H54, were the_priests_H3548; and_Shavsha_H7798 [was scribe]{strong="H5608" x-morph="strongMorph: TH8802"};^b^ ^c^ 
+@17 And_Benaiah_H1141 the_son_H1121 of_Jehoiada_H3077 was over_the_Cherethites_H3774 and_the_Pelethites_H6432; and_the_sons_H1121 of_David_H1732 were chief_H7223 about_H3027 the_king_H4428.^d^
 ^a^[**18:15** recorder: or, remembrancer] ^b^[**18:16** Abimelech: also called, Ahimelech] ^c^[**18:16** Shavsha: also called Seraiah or Shisha] ^d^[**18:17** about…: Heb. at the hand of the king] 
 
 # 19 
-@1 Now it came to pass after this, that Nahash the king of the children of Ammon died, and his son reigned in his stead. 
-@2 And David said, I will shew kindness unto Hanun the son of Nahash, because his father shewed kindness to me. And David sent messengers to comfort him concerning his father. So the servants of David came into the land of the children of Ammon to Hanun, to comfort him. 
-@3 But the princes of the children of Ammon said to Hanun, Thinkest thou that David doth honour thy father, that he hath sent comforters unto thee? are not his servants come unto thee for to search, and to overthrow, and to spy out the land?^a^ 
-@4 Wherefore Hanun took David’s servants, and shaved them, and cut off their garments in the midst hard by their buttocks, and sent them away. 
-@5 Then there went certain, and told David how the men were served. And he sent to meet them: for the men were greatly ashamed. And the king said, Tarry at Jericho until your beards be grown, and then return. 
+@1 Now_it_came_to_pass_after_this_H310, that_Nahash_H5176 the_king_H4428 of_the_children_H1121 of_Ammon_H5983 [died]{strong="H4191" x-morph="strongMorph: TH8799"}, and_his_son_H1121 [reigned]{strong="H4427" x-morph="strongMorph: TH8799"} in his stead. 
+@2 And_David_H1732 [said]{strong="H559" x-morph="strongMorph: TH8799"}, [I will shew]{strong="H6213" x-morph="strongMorph: TH8799"} kindness_H2617 unto_Hanun_H2586 the_son_H1121 of_Nahash_H5176, because_his_father_H1 [shewed]{strong="H6213" x-morph="strongMorph: TH8804"} kindness_H2617 [to me. And David]{strong="H1732"} [sent]{strong="H7971" x-morph="strongMorph: TH8799"} messengers_H4397 [to comfort]{strong="H5162" x-morph="strongMorph: TH8763"} him_concerning_his_father_H1. So_the_servants_H5650 of_David_H1732 [came]{strong="H935" x-morph="strongMorph: TH8799"} into_the_land_H776 of_the_children_H1121 of_Ammon_H5983 to_Hanun_H2586, [to comfort]{strong="H5162" x-morph="strongMorph: TH8763"} him. 
+@3 But_the_princes_H8269 of_the_children_H1121 of_Ammon_H5983 [said]{strong="H559" x-morph="strongMorph: TH8799"} to_Hanun_H2586, Thinkest_H5869 thou_that_David_H1732 [doth honour]{strong="H3513" x-morph="strongMorph: TH8764"} thy_father_H1, [that he hath sent]{strong="H7971" x-morph="strongMorph: TH8804"} [comforters]{strong="H5162" x-morph="strongMorph: TH8764"} [unto thee? are not his servants]{strong="H5650"} [come]{strong="H935" x-morph="strongMorph: TH8804"} [unto thee for to search]{strong="H2713" x-morph="strongMorph: TH8800"}, [and to overthrow]{strong="H2015" x-morph="strongMorph: TH8800"}, [and to spy out]{strong="H7270" x-morph="strongMorph: TH8763"} the_land_H776?^a^ 
+@4 Wherefore_Hanun_H2586 [took]{strong="H3947" x-morph="strongMorph: TH8799"} [David’s]{strong="H1732"} servants_H5650, [and shaved]{strong="H1548" x-morph="strongMorph: TH8762"} [them, and cut off]{strong="H3772" x-morph="strongMorph: TH8799"} their_garments_H4063 in_the_midst_H2677 hard_by_their_buttocks_H4667, [and sent them away]{strong="H7971" x-morph="strongMorph: TH8762"}. 
+@5 [Then there went]{strong="H3212" x-morph="strongMorph: TH8799"} certain, [and told]{strong="H5046" x-morph="strongMorph: TH8686"} David_H1732 how_the_men_H582 [were served. And he sent]{strong="H7971" x-morph="strongMorph: TH8799"} [to meet]{strong="H7125" x-morph="strongMorph: TH8800"} [them: for the men]{strong="H582"} were_greatly_H3966 [ashamed]{strong="H3637" x-morph="strongMorph: TH8737"}. And_the_king_H4428 [said]{strong="H559" x-morph="strongMorph: TH8799"}, [Tarry]{strong="H3427" x-morph="strongMorph: TH8798"} at_Jericho_H3405 until_your_beards_H2206 [be grown]{strong="H6779" x-morph="strongMorph: TH8762"}, and then [return]{strong="H7725" x-morph="strongMorph: TH8804"}. 
 ^a^[**19:3** Thinkest…: Heb. In thine eyes doth David, etc]
 
-@6 And when the children of Ammon saw that they had made themselves odious to David, Hanun and the children of Ammon sent a thousand talents of silver to hire them chariots and horsemen out of Mesopotamia, and out of Syria-maachah, and out of Zobah.^a^ 
-@7 So they hired thirty and two thousand chariots, and the king of Maachah and his people; who came and pitched before Medeba. And the children of Ammon gathered themselves together from their cities, and came to battle. 
-@8 And when David heard of it, he sent Joab, and all the host of the mighty men. 
-@9 And the children of Ammon came out, and put the battle in array before the gate of the city: and the kings that were come were by themselves in the field. 
-@10 Now when Joab saw that the battle was set against him before and behind, he chose out of all the choice of Israel, and put them in array against the Syrians.^b^ ^c^ 
-@11 And the rest of the people he delivered unto the hand of Abishai his brother, and they set themselves in array against the children of Ammon.^d^ 
-@12 And he said, If the Syrians be too strong for me, then thou shalt help me: but if the children of Ammon be too strong for thee, then I will help thee. 
-@13 Be of good courage, and let us behave ourselves valiantly for our people, and for the cities of our God: and let the LORD do that which is good in his sight. 
-@14 So Joab and the people that were with him drew nigh before the Syrians unto the battle; and they fled before him. 
-@15 And when the children of Ammon saw that the Syrians were fled, they likewise fled before Abishai his brother, and entered into the city. Then Joab came to Jerusalem. 
+@6 And_when_the_children_H1121 of_Ammon_H5983 [saw]{strong="H7200" x-morph="strongMorph: TH8799"} [that they had made themselves odious]{strong="H887" x-morph="strongMorph: TH8694"} to_David_H1732, Hanun_H2586 and_the_children_H1121 of_Ammon_H5983 [sent]{strong="H7971" x-morph="strongMorph: TH8799"} a_thousand_H505 talents_H3603 of_silver_H3701 [to hire]{strong="H7936" x-morph="strongMorph: TH8800"} them_chariots_H7393 and_horsemen_H6571 out_of_Mesopotamia_H763, [and out of Syria-maachah]{strong="H4601 H758"}, and_out_of_Zobah_H6678.^a^ 
+@7 [So they hired]{strong="H7936" x-morph="strongMorph: TH8799"} thirty_H7970 and_two_H8147 thousand_H505 chariots_H7393, and_the_king_H4428 of_Maachah_H4601 and_his_people_H5971; [who came]{strong="H935" x-morph="strongMorph: TH8799"} [and pitched]{strong="H2583" x-morph="strongMorph: TH8799"} before_H6440 Medeba_H4311. And_the_children_H1121 of_Ammon_H5983 [gathered themselves together]{strong="H622" x-morph="strongMorph: TH8738"} from_their_cities_H5892, [and came]{strong="H935" x-morph="strongMorph: TH8799"} to_battle_H4421. 
+@8 And_when_David_H1732 [heard]{strong="H8085" x-morph="strongMorph: TH8799"} of it, [he sent]{strong="H7971" x-morph="strongMorph: TH8799"} Joab_H3097, and_all_the_host_H6635 of_the_mighty_men_H1368. 
+@9 And_the_children_H1121 of_Ammon_H5983 [came out]{strong="H3318" x-morph="strongMorph: TH8799"}, and_put_the_battle_H4421 [in array]{strong="H6186" x-morph="strongMorph: TH8799"} before_the_gate_H6607 of_the_city_H5892: and_the_kings_H4428 [that were come]{strong="H935" x-morph="strongMorph: TH8804"} were by_themselves_in_the_field_H7704. 
+@10 Now_when_Joab_H3097 [saw]{strong="H7200" x-morph="strongMorph: TH8799"} that_the_battle_H4421 was_set_against_him_before_H6440 and_behind_H268, [he chose out]{strong="H977" x-morph="strongMorph: TH8799"} [of all the choice]{strong="H977" x-morph="strongMorph: TH8803"} of_Israel_H3478, and put them [in array]{strong="H6186" x-morph="strongMorph: TH8799"} [against]{strong="H7125" x-morph="strongMorph: TH8800"} the_Syrians_H758.^b^ ^c^ 
+@11 And_the_rest_H3499 of_the_people_H5971 [he delivered]{strong="H5414" x-morph="strongMorph: TH8804"} unto_the_hand_H3027 of_Abishai_H52 his_brother_H251, and they set themselves [in array]{strong="H6186" x-morph="strongMorph: TH8799"} [against]{strong="H7125" x-morph="strongMorph: TH8800"} the_children_H1121 of_Ammon_H5983.^d^ 
+@12 [And he said]{strong="H559" x-morph="strongMorph: TH8799"}, If_the_Syrians_H758 [be too strong]{strong="H2388" x-morph="strongMorph: TH8799"} [for me, then thou shalt help]{strong="H8668"} [me: but if the children]{strong="H1121"} of_Ammon_H5983 [be too strong]{strong="H2388" x-morph="strongMorph: TH8799"} [for thee, then I will help]{strong="H3467" x-morph="strongMorph: TH8689"} thee. 
+@13 [Be of good courage]{strong="H2388" x-morph="strongMorph: TH8798"}, [and let us behave ourselves valiantly]{strong="H2388" x-morph="strongMorph: TH8691"} for_our_people_H5971, and_for_the_cities_H5892 of_our_God_H430: and let the LORD [do]{strong="H6213" x-morph="strongMorph: TH8799"} that which is good_H2896 in_his_sight_H5869. 
+@14 So_Joab_H3097 and_the_people_H5971 that were [with him drew nigh]{strong="H5066" x-morph="strongMorph: TH8799"} before_H6440 the_Syrians_H758 unto_the_battle_H4421; [and they fled]{strong="H5127" x-morph="strongMorph: TH8799"} before_H6440 him. 
+@15 And_when_the_children_H1121 of_Ammon_H5983 [saw]{strong="H7200" x-morph="strongMorph: TH8804"} that_the_Syrians_H758 [were fled]{strong="H5127" x-morph="strongMorph: TH8804"}, [they likewise fled]{strong="H5127" x-morph="strongMorph: TH8799"} before_H6440 Abishai_H52 his_brother_H251, [and entered]{strong="H935" x-morph="strongMorph: TH8799"} into_the_city_H5892. Then_Joab_H3097 [came]{strong="H935" x-morph="strongMorph: TH8799"} to_Jerusalem_H3389. 
 ^a^[**19:6** odious: Heb. to stink] ^b^[**19:10** the battle…: Heb. the face of the battle was] ^c^[**19:10** choice: or, young men] ^d^[**19:11** Abishai: Heb. Abshai]
 
-@16 And when the Syrians saw that they were put to the worse before Israel, they sent messengers, and drew forth the Syrians that were beyond the river: and Shophach the captain of the host of Hadarezer went before them.^a^ ^b^ 
-@17 And it was told David; and he gathered all Israel, and passed over Jordan, and came upon them, and set the battle in array against them. So when David had put the battle in array against the Syrians, they fought with him. 
-@18 But the Syrians fled before Israel; and David slew of the Syrians seven thousand men which fought in chariots, and forty thousand footmen, and killed Shophach the captain of the host. 
-@19 And when the servants of Hadarezer saw that they were put to the worse before Israel, they made peace with David, and became his servants: neither would the Syrians help the children of Ammon any more.
+@16 And_when_the_Syrians_H758 [saw]{strong="H7200" x-morph="strongMorph: TH8799"} [that they were put to the worse]{strong="H5062" x-morph="strongMorph: TH8738"} before_H6440 Israel_H3478, [they sent]{strong="H7971" x-morph="strongMorph: TH8799"} messengers_H4397, [and drew forth]{strong="H3318" x-morph="strongMorph: TH8686"} the_Syrians_H758 that were beyond_H5676 the_river_H5104: and_Shophach_H7780 the_captain_H8269 of_the_host_H6635 of_Hadarezer_H1928 went before_H6440 them.^a^ ^b^ 
+@17 [And it was told]{strong="H5046" x-morph="strongMorph: TH8714"} David_H1732; [and he gathered]{strong="H622" x-morph="strongMorph: TH8799"} all_Israel_H3478, [and passed over]{strong="H5674" x-morph="strongMorph: TH8799"} Jordan_H3383, [and came]{strong="H935" x-morph="strongMorph: TH8799"} upon them, and set the battle [in array]{strong="H6186" x-morph="strongMorph: TH8799"} [against them. So when David]{strong="H1732"} had_put_the_battle_H4421 [in array]{strong="H6186" x-morph="strongMorph: TH8799"} [against]{strong="H7125" x-morph="strongMorph: TH8800"} the_Syrians_H758, [they fought]{strong="H3898" x-morph="strongMorph: TH8735"} with him. 
+@18 But_the_Syrians_H758 [fled]{strong="H5127" x-morph="strongMorph: TH8799"} before_H6440 Israel_H3478; and_David_H1732 [slew]{strong="H2026" x-morph="strongMorph: TH8799"} of_the_Syrians_H758 seven_H7651 thousand_H505 men which fought in chariots_H7393, and_forty_H705 thousand_H505 [footmen]{strong="H7273 H376"}, [and killed]{strong="H4191" x-morph="strongMorph: TH8689"} Shophach_H7780 the_captain_H8269 of_the_host_H6635. 
+@19 And_when_the_servants_H5650 of_Hadarezer_H1928 [saw]{strong="H7200" x-morph="strongMorph: TH8799"} [that they were put to the worse]{strong="H5062" x-morph="strongMorph: TH8738"} before_H6440 Israel_H3478, [they made peace]{strong="H7999" x-morph="strongMorph: TH8686"} with_David_H1732, [and became his servants]{strong="H5647" x-morph="strongMorph: TH8799"}: [neither would]{strong="H14" x-morph="strongMorph: TH8804"} the_Syrians_H758 [help]{strong="H3467" x-morph="strongMorph: TH8687"} the_children_H1121 of_Ammon_H5983 any more.
 ^a^[**19:16** river: that is, Euphrates] ^b^[**19:16** Shophach: also called, Shobach] 
 
 # 20 
-@1 And it came to pass, that after the year was expired, at the time that kings go out to battle, Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David tarried at Jerusalem. And Joab smote Rabbah, and destroyed it.^a^ 
-@2 And David took the crown of their king from off his head, and found it to weigh a talent of gold, and there were precious stones in it; and it was set upon David’s head: and he brought also exceeding much spoil out of the city.^b^ 
-@3 And he brought out the people that were in it, and cut them with saws, and with harrows of iron, and with axes. Even so dealt David with all the cities of the children of Ammon. And David and all the people returned to Jerusalem. 
+@1 [And it came to pass, that after]{strong="H6256"} the_year_H8141 was_expired_H8666, at_the_time_H6256 that_kings_H4428 [go out]{strong="H3318" x-morph="strongMorph: TH8800"} to battle, Joab_H3097 [led forth]{strong="H5090" x-morph="strongMorph: TH8799"} the_power_H2428 of_the_army_H6635, [and wasted]{strong="H7843" x-morph="strongMorph: TH8686"} the_country_H776 of_the_children_H1121 of_Ammon_H5983, [and came]{strong="H935" x-morph="strongMorph: TH8799"} [and besieged]{strong="H6696" x-morph="strongMorph: TH8799"} Rabbah_H7237. But_David_H1732 [tarried]{strong="H3427" x-morph="strongMorph: TH8802"} at_Jerusalem_H3389. And_Joab_H3097 [smote]{strong="H5221" x-morph="strongMorph: TH8686"} Rabbah_H7237, [and destroyed]{strong="H2040" x-morph="strongMorph: TH8799"} it.^a^ 
+@2 And_David_H1732 [took]{strong="H3947" x-morph="strongMorph: TH8799"} the_crown_H5850 of_their_king_H4428 from_off_his_head_H7218, [and found]{strong="H4672" x-morph="strongMorph: TH8799"} it_to_weigh_H4948 a_talent_H3603 of_gold_H2091, and there were precious_H3368 stones_H68 [in it; and it was set upon David’s]{strong="H1732"} head_H7218: [and he brought]{strong="H3318" x-morph="strongMorph: TH8689"} also_exceeding_H3966 [much]{strong="H7235" x-morph="strongMorph: TH8687"} spoil_H7998 out_of_the_city_H5892.^b^ 
+@3 [And he brought out]{strong="H3318" x-morph="strongMorph: TH8689"} the_people_H5971 that were [in it, and cut]{strong="H7787" x-morph="strongMorph: TH8799"} them with_saws_H4050, and_with_harrows_H2757 of_iron_H1270, and_with_axes_H4050. [Even so dealt]{strong="H6213" x-morph="strongMorph: TH8799"} David_H1732 with_all_the_cities_H5892 of_the_children_H1121 of_Ammon_H5983. And_David_H1732 and_all_the_people_H5971 [returned]{strong="H7725" x-morph="strongMorph: TH8799"} to_Jerusalem_H3389. 
 ^a^[**20:1** after…: Heb. at the return of the year] ^b^[**20:2** to weigh: Heb. the weight of]
 
-@4 And it came to pass after this, that there arose war at Gezer with the Philistines; at which time Sibbechai the Hushathite slew Sippai, that was of the children of the giant: and they were subdued.^a^ ^b^ ^c^ ^d^ 
-@5 And there was war again with the Philistines; and Elhanan the son of Jair slew Lahmi the brother of Goliath the Gittite, whose spear staff was like a weaver’s beam.^e^ 
-@6 And yet again there was war at Gath, where was a man of great stature, whose fingers and toes were four and twenty, six on each hand, and six on each foot: and he also was the son of the giant.^f^ ^g^ 
-@7 But when he defied Israel, Jonathan the son of Shimea David’s brother slew him.^h^ ^i^ 
-@8 These were born unto the giant in Gath; and they fell by the hand of David, and by the hand of his servants.
+@4 And_it_came_to_pass_after_this_H310, [that there arose]{strong="H5975" x-morph="strongMorph: TH8799"} war_H4421 at_Gezer_H1507 with_the_Philistines_H6430; at_which_time_H227 Sibbechai_H5444 the_Hushathite_H2843 [slew]{strong="H5221" x-morph="strongMorph: TH8689"} Sippai_H5598, that was of_the_children_H3211 of_the_giant_H7497: [and they were subdued]{strong="H3665" x-morph="strongMorph: TH8735"}.^a^ ^b^ ^c^ ^d^ 
+@5 And_there_was_war_H4421 again_with_the_Philistines_H6430; and_Elhanan_H445 the_son_H1121 of_Jair_H3265 [slew]{strong="H5221" x-morph="strongMorph: TH8686"} Lahmi_H3902 the_brother_H251 of_Goliath_H1555 the_Gittite_H1663, whose_spear_H2595 staff_H6086 was [like a weaver’s]{strong="H707" x-morph="strongMorph: TH8802"} beam_H4500.^e^ 
+@6 And_yet_again_there_was_war_H4421 at_Gath_H1661, where_was_a_man_H376 of great stature_H4060, whose_fingers_H676 and_toes_H676 were four_H702 and_twenty_H6242, six_H8337 on each hand, and_six_H8337 on each foot: [and he also was the son]{strong="H3205" x-morph="strongMorph: TH8738"} of_the_giant_H7497.^f^ ^g^ 
+@7 [But when he defied]{strong="H2778" x-morph="strongMorph: TH8762"} Israel_H3478, Jonathan_H3083 the_son_H1121 of_Shimea_H8092 [David’s]{strong="H1732"} brother_H251 [slew]{strong="H5221" x-morph="strongMorph: TH8686"} him.^h^ ^i^ 
+@8 These_H411 [were born]{strong="H3205" x-morph="strongMorph: TH8738"} unto_the_giant_H7497 in_Gath_H1661; [and they fell]{strong="H5307" x-morph="strongMorph: TH8799"} by_the_hand_H3027 of_David_H1732, and_by_the_hand_H3027 of_his_servants_H5650.
 ^a^[**20:4** arose: or, continued: Heb. stood] ^b^[**20:4** Gezer: also called, Gob] ^c^[**20:4** Sippai: also called, Saph] ^d^[**20:4** the giant: or, Rapha] ^e^[**20:5** Jair: also called, Jaare-oregim] ^f^[**20:6** great…: Heb. measure] ^g^[**20:6** the son…: Heb. born to the giant, or, Rapha] ^h^[**20:7** defied: or, reproached] ^i^[**20:7** Shimea: also called Shammah] 
 
 # 21 
-@1 And Satan stood up against Israel, and provoked David to number Israel. 
-@2 And David said to Joab and to the rulers of the people, Go, number Israel from Beer-sheba even to Dan; and bring the number of them to me, that I may know it. 
-@3 And Joab answered, The LORD make his people an hundred times so many more as they be: but, my lord the king, are they not all my lord’s servants? why then doth my lord require this thing? why will he be a cause of trespass to Israel? 
-@4 Nevertheless the king’s word prevailed against Joab. Wherefore Joab departed, and went throughout all Israel, and came to Jerusalem. 
+@1 And_Satan_H7854 [stood up]{strong="H5975" x-morph="strongMorph: TH8799"} against_Israel_H3478, [and provoked]{strong="H5496" x-morph="strongMorph: TH8686"} David_H1732 [to number]{strong="H4487" x-morph="strongMorph: TH8800"} Israel_H3478. 
+@2 And_David_H1732 [said]{strong="H559" x-morph="strongMorph: TH8799"} to_Joab_H3097 and_to_the_rulers_H8269 of_the_people_H5971, [Go]{strong="H3212" x-morph="strongMorph: TH8798"}, [number]{strong="H5608" x-morph="strongMorph: TH8798"} Israel_H3478 [from Beer-sheba]{strong="H884"} even_to_Dan_H1835; [and bring]{strong="H935" x-morph="strongMorph: TH8685"} the_number_H4557 [of them to me, that I may know]{strong="H3045" x-morph="strongMorph: TH8799"} it. 
+@3 And_Joab_H3097 [answered]{strong="H559" x-morph="strongMorph: TH8799"}, The LORD make_his_people_H5971 an_hundred_H3967 times_H6471 [so many more]{strong="H3254" x-morph="strongMorph: TH8686"} as_they_H1992 be: [but, my lord]{strong="H113"} the_king_H4428, are [they not all my lord’s]{strong="H113"} servants_H5650? why_then_doth_my_lord_H113 [require]{strong="H1245" x-morph="strongMorph: TH8762"} [this thing? why will he be a cause of trespass]{strong="H819"} to_Israel_H3478? 
+@4 [Nevertheless the king’s]{strong="H4428"} word_H1697 [prevailed]{strong="H2388" x-morph="strongMorph: TH8804"} against_Joab_H3097. Wherefore_Joab_H3097 [departed]{strong="H3318" x-morph="strongMorph: TH8799"}, [and went]{strong="H1980" x-morph="strongMorph: TH8691"} throughout_all_Israel_H3478, [and came]{strong="H935" x-morph="strongMorph: TH8799"} to_Jerusalem_H3389. 
 
-@5 And Joab gave the sum of the number of the people unto David. And all they of Israel were a thousand thousand and an hundred thousand men that drew sword: and Judah was four hundred threescore and ten thousand men that drew sword. 
-@6 But Levi and Benjamin counted he not among them: for the king’s word was abominable to Joab. 
+@5 And_Joab_H3097 [gave]{strong="H5414" x-morph="strongMorph: TH8799"} the_sum_H4557 of_the_number_H4662 of_the_people_H5971 unto_David_H1732. And all they of Israel_H3478 were_a_thousand_H505 thousand_H505 and_an_hundred_H3967 thousand_H505 men_H376 [that drew]{strong="H8025" x-morph="strongMorph: TH8802"} sword_H2719: and_Judah_H3063 was four_H702 hundred_H3967 threescore_and_ten_H7657 thousand_H505 men_H376 [that drew]{strong="H8025" x-morph="strongMorph: TH8802"} sword_H2719. 
+@6 But_Levi_H3878 and_Benjamin_H1144 [counted]{strong="H6485" x-morph="strongMorph: TH8804"} he_not_among_H8432 [them: for the king’s]{strong="H4428"} word_H1697 [was abominable]{strong="H8581" x-morph="strongMorph: TH8738"} to_Joab_H3097. 
 
-@7 And God was displeased with this thing; therefore he smote Israel.^a^ 
-@8 And David said unto God, I have sinned greatly, because I have done this thing: but now, I beseech thee, do away the iniquity of thy servant; for I have done very foolishly. 
+@7 And_God_H430 [was displeased]{strong="H5869 H3415" x-morph="strongMorph: TH8799"} with_this_thing_H1697; [therefore he smote]{strong="H5221" x-morph="strongMorph: TH8686"} Israel_H3478.^a^ 
+@8 And_David_H1732 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_God_H430, [I have sinned]{strong="H2398" x-morph="strongMorph: TH8804"} greatly_H3966, [because I have done]{strong="H6213" x-morph="strongMorph: TH8804"} this_thing_H1697: [but now, I beseech thee, do away]{strong="H5674" x-morph="strongMorph: TH8685"} the_iniquity_H5771 of_thy_servant_H5650; for_I_have_done_very_H3966 [foolishly]{strong="H5528" x-morph="strongMorph: TH8738"}. 
 ^a^[**21:7** And…: Heb. And it was evil in the eyes of the LORD concerning this thing]
 
-@9 And the LORD spake unto Gad, David’s seer, saying, 
-@10 Go and tell David, saying, Thus saith the LORD, I offer thee three things: choose thee one of them, that I may do it unto thee.^a^ 
-@11 So Gad came to David, and said unto him, Thus saith the LORD, Choose thee^b^ 
-@12 Either three years’ famine; or three months to be destroyed before thy foes, while that the sword of thine enemies overtaketh thee; or else three days the sword of the LORD, even the pestilence, in the land, and the angel of the LORD destroying throughout all the coasts of Israel. Now therefore advise thyself what word I shall bring again to him that sent me. 
-@13 And David said unto Gad, I am in a great strait: let me fall now into the hand of the LORD; for very great are his mercies: but let me not fall into the hand of man.^c^ 
+@9 And the LORD [spake]{strong="H1696" x-morph="strongMorph: TH8762"} unto_Gad_H1410, [David’s]{strong="H1732"} seer_H2374, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, 
+@10 [Go]{strong="H3212" x-morph="strongMorph: TH8798"} [and tell]{strong="H1696" x-morph="strongMorph: TH8765"} David_H1732, [saying]{strong="H559" x-morph="strongMorph: TH8800"}, [Thus saith]{strong="H559" x-morph="strongMorph: TH8804"} the LORD, [I offer]{strong="H5186" x-morph="strongMorph: TH8802"} thee_three_H7969 things: [choose]{strong="H977" x-morph="strongMorph: TH8798"} thee_one_H259 of_them_H2007, [that I may do]{strong="H6213" x-morph="strongMorph: TH8799"} it unto thee.^a^ 
+@11 So_Gad_H1410 [came]{strong="H935" x-morph="strongMorph: TH8799"} to_David_H1732, [and said]{strong="H559" x-morph="strongMorph: TH8799"} [unto him, Thus saith]{strong="H559" x-morph="strongMorph: TH8804"} the LORD, [Choose]{strong="H6901" x-morph="strongMorph: TH8761"} thee^b^ 
+@12 Either_three_H7969 [years’]{strong="H8141"} famine_H7458; or_three_H7969 months_H2320 [to be destroyed]{strong="H5595" x-morph="strongMorph: TH8737"} before_H6440 thy_foes_H6862, while_that_the_sword_H2719 [of thine enemies]{strong="H341" x-morph="strongMorph: TH8802"} [overtaketh]{strong="H5381" x-morph="strongMorph: TH8688"} thee; or_H518 else_three_H7969 days_H3117 the_sword_H2719 of the LORD, even_the_pestilence_H1698, in_the_land_H776, and_the_angel_H4397 of the LORD [destroying]{strong="H7843" x-morph="strongMorph: TH8688"} throughout_all_the_coasts_H1366 of_Israel_H3478. [Now therefore advise]{strong="H7200" x-morph="strongMorph: TH8798"} thyself_what_word_H1697 [I shall bring again]{strong="H7725" x-morph="strongMorph: TH8686"} [to him that sent]{strong="H7971" x-morph="strongMorph: TH8802"} me. 
+@13 And_David_H1732 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_Gad_H1410, I_am_in_a_great_H3966 [strait]{strong="H6887" x-morph="strongMorph: TH8804"}: [let me fall]{strong="H5307" x-morph="strongMorph: TH8799"} now_into_the_hand_H3027 of the LORD; for_very_H3966 great_H7227 are his_mercies_H7356: [but let me not fall]{strong="H5307" x-morph="strongMorph: TH8799"} into_the_hand_H3027 of_man_H120.^c^ 
 ^a^[**21:10** offer: Heb. stretch out] ^b^[**21:11** Choose…: Heb. Take to thee] ^c^[**21:13** very great: or, very many]
 
-@14 So the LORD sent pestilence upon Israel: and there fell of Israel seventy thousand men. 
-@15 And God sent an angel unto Jerusalem to destroy it: and as he was destroying, the LORD beheld, and he repented him of the evil, and said to the angel that destroyed, It is enough, stay now thine hand. And the angel of the LORD stood by the threshingfloor of Ornan the Jebusite.^a^ 
-@16 And David lifted up his eyes, and saw the angel of the LORD stand between the earth and the heaven, having a drawn sword in his hand stretched out over Jerusalem. Then David and the elders of Israel, who were clothed in sackcloth, fell upon their faces. 
-@17 And David said unto God, Is it not I that commanded the people to be numbered? even I it is that have sinned and done evil indeed; but as for these sheep, what have they done? let thine hand, I pray thee, O LORD my God, be on me, and on my father’s house; but not on thy people, that they should be plagued. 
+@14 So the LORD [sent]{strong="H5414" x-morph="strongMorph: TH8799"} pestilence_H1698 upon_Israel_H3478: [and there fell]{strong="H5307" x-morph="strongMorph: TH8799"} of_Israel_H3478 seventy_H7657 thousand_H505 men_H376. 
+@15 And_God_H430 [sent]{strong="H7971" x-morph="strongMorph: TH8799"} an_angel_H4397 unto_Jerusalem_H3389 [to destroy]{strong="H7843" x-morph="strongMorph: TH8687"} [it: and as he was destroying]{strong="H7843" x-morph="strongMorph: TH8687"}, the LORD [beheld]{strong="H7200" x-morph="strongMorph: TH8804"}, [and he repented]{strong="H5162" x-morph="strongMorph: TH8735"} him_of_the_evil_H7451, [and said]{strong="H559" x-morph="strongMorph: TH8799"} to_the_angel_H4397 [that destroyed]{strong="H7843" x-morph="strongMorph: TH8688"}, It_is_enough_H7227, [stay]{strong="H7503" x-morph="strongMorph: TH8685"} now_thine_hand_H3027. And_the_angel_H4397 of the LORD [stood]{strong="H5975" x-morph="strongMorph: TH8802"} by_the_threshingfloor_H1637 of_Ornan_H771 the_Jebusite_H2983.^a^ 
+@16 And_David_H1732 [lifted up]{strong="H5375" x-morph="strongMorph: TH8799"} his_eyes_H5869, [and saw]{strong="H7200" x-morph="strongMorph: TH8799"} the_angel_H4397 of the LORD [stand]{strong="H5975" x-morph="strongMorph: TH8802"} between_the_earth_H776 and_the_heaven_H8064, [having a drawn]{strong="H8025" x-morph="strongMorph: TH8803"} sword_H2719 in_his_hand_H3027 [stretched out]{strong="H5186" x-morph="strongMorph: TH8803"} over_Jerusalem_H3389. Then_David_H1732 and_the_elders_H2205 of Israel, who were [clothed]{strong="H3680" x-morph="strongMorph: TH8794"} in_sackcloth_H8242, [fell]{strong="H5307" x-morph="strongMorph: TH8799"} upon_their_faces_H6440. 
+@17 And_David_H1732 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_God_H430, Is it not I that [commanded]{strong="H559" x-morph="strongMorph: TH8804"} the_people_H5971 [to be numbered]{strong="H4487" x-morph="strongMorph: TH8800"}? [even I it is that have sinned]{strong="H2398" x-morph="strongMorph: TH8804"} [and done evil]{strong="H7489" x-morph="strongMorph: TH8689"} [indeed]{strong="H7489" x-morph="strongMorph: TH8687"}; but as for these_sheep_H6629, [what have they done]{strong="H6213" x-morph="strongMorph: TH8804"}? let_thine_hand_H3027, I pray thee, O LORD my_God_H430, [be on me, and on my father’s]{strong="H1"} house_H1004; but_not_on_thy_people_H5971, that_they_should_be_plagued_H4046. 
 ^a^[**21:15** Ornan: also called, Araunah]
 
-@18 Then the angel of the LORD commanded Gad to say to David, that David should go up, and set up an altar unto the LORD in the threshingfloor of Ornan the Jebusite. 
-@19 And David went up at the saying of Gad, which he spake in the name of the LORD. 
-@20 And Ornan turned back, and saw the angel; and his four sons with him hid themselves. Now Ornan was threshing wheat.^a^ 
-@21 And as David came to Ornan, Ornan looked and saw David, and went out of the threshingfloor, and bowed himself to David with his face to the ground. 
-@22 Then David said to Ornan, Grant me the place of this threshingfloor, that I may build an altar therein unto the LORD: thou shalt grant it me for the full price: that the plague may be stayed from the people.^b^ 
-@23 And Ornan said unto David, Take it to thee, and let my lord the king do that which is good in his eyes: lo, I give thee the oxen also for burnt offerings, and the threshing instruments for wood, and the wheat for the meat offering; I give it all. 
-@24 And king David said to Ornan, Nay; but I will verily buy it for the full price: for I will not take that which is thine for the LORD, nor offer burnt offerings without cost. 
-@25 So David gave to Ornan for the place six hundred shekels of gold by weight. 
-@26 And David built there an altar unto the LORD, and offered burnt offerings and peace offerings, and called upon the LORD; and he answered him from heaven by fire upon the altar of burnt offering. 
-@27 And the LORD commanded the angel; and he put up his sword again into the sheath thereof. 
+@18 Then_the_angel_H4397 of the LORD [commanded]{strong="H559" x-morph="strongMorph: TH8804"} Gad_H1410 [to say]{strong="H559" x-morph="strongMorph: TH8800"} to_David_H1732, that_David_H1732 [should go up]{strong="H5927" x-morph="strongMorph: TH8799"}, [and set up]{strong="H6965" x-morph="strongMorph: TH8687"} an_altar_H4196 unto the LORD in_the_threshingfloor_H1637 of_Ornan_H771 the_Jebusite_H2983. 
+@19 And_David_H1732 [went up]{strong="H5927" x-morph="strongMorph: TH8799"} at_the_saying_H1697 of_Gad_H1410, [which he spake]{strong="H1696" x-morph="strongMorph: TH8765"} in_the_name_H8034 of the LORD. 
+@20 And_Ornan_H771 [turned back]{strong="H7725" x-morph="strongMorph: TH8799"}, [and saw]{strong="H7200" x-morph="strongMorph: TH8799"} the_angel_H4397; and_his_four_H702 sons_H1121 [with him hid]{strong="H2244" x-morph="strongMorph: TH8693"} [themselves. Now Ornan]{strong="H771"} [was threshing]{strong="H1758" x-morph="strongMorph: TH8804"} wheat_H2406.^a^ 
+@21 And_as_David_H1732 [came]{strong="H935" x-morph="strongMorph: TH8799"} to_Ornan_H771, Ornan_H771 [looked]{strong="H5027" x-morph="strongMorph: TH8686"} [and saw]{strong="H7200" x-morph="strongMorph: TH8799"} David_H1732, [and went out]{strong="H3318" x-morph="strongMorph: TH8799"} of_the_threshingfloor_H1637, [and bowed]{strong="H7812" x-morph="strongMorph: TH8691"} himself_to_David_H1732 with his face_H639 to_the_ground_H776. 
+@22 Then_David_H1732 [said]{strong="H559" x-morph="strongMorph: TH8799"} to_Ornan_H771, [Grant]{strong="H5414" x-morph="strongMorph: TH8798"} me_the_place_H4725 of this threshingfloor_H1637, [that I may build]{strong="H1129" x-morph="strongMorph: TH8799"} an_altar_H4196 therein unto the LORD: [thou shalt grant]{strong="H5414" x-morph="strongMorph: TH8798"} it_me_for_the_full_H4392 price_H3701: that_the_plague_H4046 [may be stayed]{strong="H6113" x-morph="strongMorph: TH8735"} from_the_people_H5971.^b^ 
+@23 And_Ornan_H771 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_David_H1732, [Take]{strong="H3947" x-morph="strongMorph: TH8798"} it [to thee, and let my lord]{strong="H113"} the_king_H4428 [do]{strong="H6213" x-morph="strongMorph: TH8799"} that which is good_H2896 in_his_eyes_H5869: [lo]{strong="H7200" x-morph="strongMorph: TH8798"}, [I give]{strong="H5414" x-morph="strongMorph: TH8804"} thee the_oxen_H1241 also for_burnt_offerings_H5930, and_the_threshing_instruments_H4173 for_wood_H6086, and_the_wheat_H2406 for_the_meat_offering_H4503; [I give]{strong="H5414" x-morph="strongMorph: TH8804"} it all. 
+@24 And_king_H4428 David_H1732 [said]{strong="H559" x-morph="strongMorph: TH8799"} to_Ornan_H771, [Nay; but I will verily]{strong="H7069" x-morph="strongMorph: TH8800"} [buy]{strong="H7069" x-morph="strongMorph: TH8799"} it_for_the_full_H4392 price_H3701: [for I will not take]{strong="H5375" x-morph="strongMorph: TH8799"} that which is thine for the LORD, [nor offer]{strong="H5927" x-morph="strongMorph: TH8687"} burnt_offerings_H5930 without_cost_H2600. 
+@25 So_David_H1732 [gave]{strong="H5414" x-morph="strongMorph: TH8799"} to_Ornan_H771 for_the_place_H4725 six_H8337 hundred_H3967 shekels_H8255 of_gold_H2091 by_weight_H4948. 
+@26 And_David_H1732 [built]{strong="H1129" x-morph="strongMorph: TH8799"} there_an_altar_H4196 unto the LORD, [and offered]{strong="H5927" x-morph="strongMorph: TH8686"} burnt_offerings_H5930 and_peace_offerings_H8002, [and called]{strong="H7121" x-morph="strongMorph: TH8799"} upon the LORD; [and he answered]{strong="H6030" x-morph="strongMorph: TH8799"} him_from_heaven_H8064 by_fire_H784 upon_the_altar_H4196 of_burnt_offering_H5930. 
+@27 And the LORD [commanded ]{strong="H559" x-morph="strongMorph: TH8799"} the_angel_H4397; and_he_put_up_H7725 his_sword_H2719 [again]{strong="H7725" x-morph="strongMorph: TH8686"} into_the_sheath_H5084 thereof. 
 ^a^[**21:20** And Ornan…: or, When Ornan turned back and saw the angel, then he and his four sons with him hid themselves] ^b^[**21:22** Grant: Heb. Give]
 
-@28 At that time when David saw that the LORD had answered him in the threshingfloor of Ornan the Jebusite, then he sacrificed there. 
-@29 For the tabernacle of the LORD, which Moses made in the wilderness, and the altar of the burnt offering, were at that season in the high place at Gibeon. 
-@30 But David could not go before it to enquire of God: for he was afraid because of the sword of the angel of the LORD. 
+@28 At_that_time_H6256 when_David_H1732 [saw]{strong="H7200" x-morph="strongMorph: TH8800"} that the LORD [had answered]{strong="H6030" x-morph="strongMorph: TH8804"} him_in_the_threshingfloor_H1637 of_Ornan_H771 the_Jebusite_H2983, [then he sacrificed]{strong="H2076" x-morph="strongMorph: TH8799"} there. 
+@29 For_the_tabernacle_H4908 of the LORD, which_Moses_H4872 [made]{strong="H6213" x-morph="strongMorph: TH8804"} in_the_wilderness_H4057, and_the_altar_H4196 of_the_burnt_offering_H5930, were at_that_season_H6256 in_the_high_place_H1116 at_Gibeon_H1391. 
+@30 But_David_H1732 [could]{strong="H3201" x-morph="strongMorph: TH8804"} [not go]{strong="H3212" x-morph="strongMorph: TH8800"} before_H6440 [it to enquire]{strong="H1875" x-morph="strongMorph: TH8800"} of_God_H430: [for he was afraid]{strong="H1204" x-morph="strongMorph: TH8738"} because_H6440 of_the_sword_H2719 of_the_angel_H4397 of the LORD. 
 
 # 22 
-@1 Then David said, This is the house of the LORD God, and this is the altar of the burnt offering for Israel. 
-@2 And David commanded to gather together the strangers that were in the land of Israel; and he set masons to hew wrought stones to build the house of God. 
-@3 And David prepared iron in abundance for the nails for the doors of the gates, and for the joinings; and brass in abundance without weight; 
-@4 Also cedar trees in abundance: for the Zidonians and they of Tyre brought much cedar wood to David. 
-@5 And David said, Solomon my son is young and tender, and the house that is to be builded for the LORD must be exceeding magnifical, of fame and of glory throughout all countries: I will therefore now make preparation for it. So David prepared abundantly before his death. 
+@1 Then_David_H1732 [said]{strong="H559" x-morph="strongMorph: TH8799"}, This is the_house_H1004 of the LORD God_H430, and this is the_altar_H4196 of_the_burnt_offering_H5930 for_Israel_H3478. 
+@2 And_David_H1732 [commanded]{strong="H559" x-morph="strongMorph: TH8799"} [to gather together]{strong="H3664" x-morph="strongMorph: TH8800"} the_strangers_H1616 that were in_the_land_H776 of_Israel_H3478; [and he set]{strong="H5975" x-morph="strongMorph: TH8686"} [masons]{strong="H2672" x-morph="strongMorph: TH8802"} [to hew]{strong="H2672" x-morph="strongMorph: TH8800"} wrought_H1496 stones_H68 [to build]{strong="H1129" x-morph="strongMorph: TH8800"} the_house_H1004 of_God_H430. 
+@3 And_David_H1732 [prepared]{strong="H3559" x-morph="strongMorph: TH8689"} iron_H1270 in_abundance_H7230 for_the_nails_H4548 for_the_doors_H1817 of_the_gates_H8179, and_for_the_joinings_H4226; and_brass_H5178 in_abundance_H7230 without_weight_H4948; 
+@4 Also_cedar_H730 trees_H6086 [in abundance]{strong="H4557 H369"}: for_the_Zidonians_H6722 and_they_of_Tyre_H6876 [brought]{strong="H935" x-morph="strongMorph: TH8689"} much_H7230 cedar_H730 wood_H6086 to_David_H1732. 
+@5 And_David_H1732 [said]{strong="H559" x-morph="strongMorph: TH8799"}, Solomon_H8010 my_son_H1121 is young_H5288 and_tender_H7390, and_the_house_H1004 that is [to be builded]{strong="H1129" x-morph="strongMorph: TH8800"} for the LORD must be exceeding_H4605 [magnifical]{strong="H1431" x-morph="strongMorph: TH8687"}, of_fame_H8034 and_of_glory_H8597 throughout_all_countries_H776: I will therefore [now make preparation]{strong="H3559" x-morph="strongMorph: TH8686"} [for it. So David]{strong="H1732"} [prepared]{strong="H3559" x-morph="strongMorph: TH8686"} abundantly_H7230 before_H6440 his_death_H4194. 
 
-@6 Then he called for Solomon his son, and charged him to build an house for the LORD God of Israel. 
-@7 And David said to Solomon, My son, as for me, it was in my mind to build an house unto the name of the LORD my God: 
-@8 But the word of the LORD came to me, saying, Thou hast shed blood abundantly, and hast made great wars: thou shalt not build an house unto my name, because thou hast shed much blood upon the earth in my sight. 
-@9 Behold, a son shall be born to thee, who shall be a man of rest; and I will give him rest from all his enemies round about: for his name shall be Solomon, and I will give peace and quietness unto Israel in his days.^a^ 
-@10 He shall build an house for my name; and he shall be my son, and I will be his father; and I will establish the throne of his kingdom over Israel for ever. 
-@11 Now, my son, the LORD be with thee; and prosper thou, and build the house of the LORD thy God, as he hath said of thee. 
-@12 Only the LORD give thee wisdom and understanding, and give thee charge concerning Israel, that thou mayest keep the law of the LORD thy God. 
-@13 Then shalt thou prosper, if thou takest heed to fulfil the statutes and judgments which the LORD charged Moses with concerning Israel: be strong, and of good courage; dread not, nor be dismayed. 
-@14 Now, behold, in my trouble I have prepared for the house of the LORD an hundred thousand talents of gold, and a thousand thousand talents of silver; and of brass and iron without weight; for it is in abundance: timber also and stone have I prepared; and thou mayest add thereto.^b^ 
-@15 Moreover there are workmen with thee in abundance, hewers and workers of stone and timber, and all manner of cunning men for every manner of work.^c^ 
-@16 Of the gold, the silver, and the brass, and the iron, there is no number. Arise therefore, and be doing, and the LORD be with thee. 
+@6 [Then he called]{strong="H7121" x-morph="strongMorph: TH8799"} for_Solomon_H8010 his_son_H1121, [and charged]{strong="H6680" x-morph="strongMorph: TH8762"} [him to build]{strong="H1129" x-morph="strongMorph: TH8800"} an_house_H1004 for the LORD God_H430 of_Israel_H3478. 
+@7 And_David_H1732 [said]{strong="H559" x-morph="strongMorph: TH8799"} to_Solomon_H8010, My_son_H1121, [as for me, it was in my mind]{strong="H3824"} [to build]{strong="H1129" x-morph="strongMorph: TH8800"} an_house_H1004 unto_the_name_H8034 of the LORD my_God_H430: 
+@8 But_the_word_H1697 of the LORD [came to me, saying]{strong="H559" x-morph="strongMorph: TH8800"}, [Thou hast shed]{strong="H8210" x-morph="strongMorph: TH8804"} blood_H1818 abundantly_H7230, [and hast made]{strong="H6213" x-morph="strongMorph: TH8804"} great_H1419 wars_H4421: [thou shalt not build]{strong="H1129" x-morph="strongMorph: TH8799"} an_house_H1004 unto_my_name_H8034, [because thou hast shed]{strong="H8210" x-morph="strongMorph: TH8804"} much_H7227 blood_H1818 upon_the_earth_H776 in_my_sight_H6440. 
+@9 [Behold, a son]{strong="H1121"} [shall be born]{strong="H3205" x-morph="strongMorph: TH8737"} [to thee, who shall be a man]{strong="H376"} of_rest_H4496; [and I will give him rest]{strong="H5117" x-morph="strongMorph: TH8689"} [from all his enemies]{strong="H341" x-morph="strongMorph: TH8802"} round_about_H5439: for_his_name_H8034 shall_be_Solomon_H8010, [and I will give]{strong="H5414" x-morph="strongMorph: TH8799"} peace_H7965 and_quietness_H8253 unto_Israel_H3478 in_his_days_H3117.^a^ 
+@10 [He shall build]{strong="H1129" x-morph="strongMorph: TH8799"} an_house_H1004 for_my_name_H8034; and_he_shall_be_my_son_H1121, and I will be his_father_H1; [and I will establish]{strong="H3559" x-morph="strongMorph: TH8689"} the_throne_H3678 of_his_kingdom_H4438 over_Israel_H3478 for_H5704 ever_H5769. 
+@11 [Now, my son]{strong="H1121"}, the LORD [be with thee; and prosper]{strong="H6743" x-morph="strongMorph: TH8689"} [thou, and build]{strong="H1129" x-morph="strongMorph: TH8804"} the_house_H1004 of the LORD thy_God_H430, [as he hath said]{strong="H1696" x-morph="strongMorph: TH8765"} of thee. 
+@12 Only the LORD [give]{strong="H5414" x-morph="strongMorph: TH8799"} thee_wisdom_H7922 and_understanding_H998, [and give thee charge]{strong="H6680" x-morph="strongMorph: TH8762"} concerning_Israel_H3478, [that thou mayest keep]{strong="H8104" x-morph="strongMorph: TH8800"} the_law_H8451 of the LORD thy_God_H430. 
+@13 [Then shalt thou prosper]{strong="H6743" x-morph="strongMorph: TH8686"}, [if thou takest heed]{strong="H8104" x-morph="strongMorph: TH8799"} [to fulfil]{strong="H6213" x-morph="strongMorph: TH8800"} the_statutes_H2706 and_judgments_H4941 which the LORD [charged]{strong="H6680" x-morph="strongMorph: TH8765"} Moses_H4872 with_concerning_Israel_H3478: [be strong]{strong="H2388" x-morph="strongMorph: TH8798"}, [and of good courage]{strong="H553" x-morph="strongMorph: TH8798"}; [dread]{strong="H3372" x-morph="strongMorph: TH8799"} [not, nor be dismayed]{strong="H2865" x-morph="strongMorph: TH8735"}. 
+@14 [Now, behold, in my trouble]{strong="H6040"} [I have prepared]{strong="H3559" x-morph="strongMorph: TH8689"} for_the_house_H1004 of the LORD an_hundred_H3967 thousand_H505 talents_H3603 of_gold_H2091, and_a_thousand_H505 thousand_H505 talents_H3603 of_silver_H3701; and_of_brass_H5178 and_iron_H1270 without_weight_H4948; for_it_is_in_abundance_H7230: timber_H6086 also_and_stone_H68 [have I prepared]{strong="H3559" x-morph="strongMorph: TH8689"}; [and thou mayest add]{strong="H3254" x-morph="strongMorph: TH8686"} thereto.^b^ 
+@15 Moreover there are [workmen]{strong="H4399 H6213" x-morph="strongMorph: TH8802"} with_thee_in_abundance_H7230, [hewers]{strong="H2672" x-morph="strongMorph: TH8802"} and_workers_H2796 of_stone_H68 and_timber_H6086, and_all_manner_of_cunning_men_H2450 for_every_manner_of_work_H4399.^c^ 
+@16 Of_the_gold_H2091, the_silver_H3701, and_the_brass_H5178, and_the_iron_H1270, there is no_number_H4557. [Arise]{strong="H6965" x-morph="strongMorph: TH8798"} therefore, [and be doing]{strong="H6213" x-morph="strongMorph: TH8798"}, and the LORD be with thee. 
 ^a^[**22:9** Solomon: that is, Peaceable] ^b^[**22:14** trouble: or, poverty] ^c^[**22:15** workers…: that is, masons and carpenters]
 
-@17 David also commanded all the princes of Israel to help Solomon his son, saying, 
-@18 Is not the LORD your God with you? and hath he not given you rest on every side? for he hath given the inhabitants of the land into mine hand; and the land is subdued before the LORD, and before his people. 
-@19 Now set your heart and your soul to seek the LORD your God; arise therefore, and build ye the sanctuary of the LORD God, to bring the ark of the covenant of the LORD, and the holy vessels of God, into the house that is to be built to the name of the LORD. 
+@17 David_H1732 [also commanded]{strong="H6680" x-morph="strongMorph: TH8762"} all_the_princes_H8269 of_Israel_H3478 [to help]{strong="H5826" x-morph="strongMorph: TH8800"} Solomon_H8010 his_son_H1121, saying, 
+@18 Is not the LORD your_God_H430 with you? and hath he not [given you rest]{strong="H5117" x-morph="strongMorph: TH8689"} on_every_side_H5439? [for he hath given]{strong="H5414" x-morph="strongMorph: TH8804"} [the inhabitants]{strong="H3427" x-morph="strongMorph: TH8802"} of_the_land_H776 into_mine_hand_H3027; and_the_land_H776 [is subdued]{strong="H3533" x-morph="strongMorph: TH8738"} before_H6440 the LORD, and_before_H6440 his_people_H5971. 
+@19 [Now set]{strong="H5414" x-morph="strongMorph: TH8798"} your_heart_H3824 and_your_soul_H5315 [to seek]{strong="H1875" x-morph="strongMorph: TH8800"} the LORD your_God_H430; [arise]{strong="H6965" x-morph="strongMorph: TH8798"} [therefore, and build]{strong="H1129" x-morph="strongMorph: TH8798"} ye_the_sanctuary_H4720 of the LORD God_H430, [to bring]{strong="H935" x-morph="strongMorph: TH8687"} the_ark_H727 of_the_covenant_H1285 of the LORD, and_the_holy_H6944 vessels_H3627 of_God_H430, into_the_house_H1004 [that is to be built]{strong="H1129" x-morph="strongMorph: TH8737"} to_the_name_H8034 of the LORD. 
 
 # 23 
-@1 So when David was old and full of days, he made Solomon his son king over Israel. 
+@1 So_when_David_H1732 [was old]{strong="H2204" x-morph="strongMorph: TH8804"} [and full]{strong="H7646" x-morph="strongMorph: TH8804"} of_days_H3117, he_made_Solomon_H8010 his_son_H1121 [king]{strong="H4427" x-morph="strongMorph: TH8686"} over_Israel_H3478. 
 
-@2 And he gathered together all the princes of Israel, with the priests and the Levites. 
-@3 Now the Levites were numbered from the age of thirty years and upward: and their number by their polls, man by man, was thirty and eight thousand. 
-@4 Of which, twenty and four thousand were to set forward the work of the house of the LORD; and six thousand were officers and judges:^a^ 
-@5 Moreover four thousand were porters; and four thousand praised the LORD with the instruments which I made, said David, to praise therewith. 
-@6 And David divided them into courses among the sons of Levi, namely, Gershon, Kohath, and Merari.^b^ 
+@2 [And he gathered together]{strong="H622" x-morph="strongMorph: TH8799"} all_the_princes_H8269 of_Israel_H3478, with_the_priests_H3548 and_the_Levites_H3881. 
+@3 Now_the_Levites_H3881 [were numbered]{strong="H5608" x-morph="strongMorph: TH8735"} from_the_age_H1121 of_thirty_H7970 years_H8141 and_upward_H4605: and_their_number_H4557 by_their_polls_H1538, man_by_man_H1397, was_thirty_H7970 and_eight_H8083 thousand_H505. 
+@4 Of_which_H428, twenty_H6242 and_four_H702 thousand_H505 were [to set forward]{strong="H5329" x-morph="strongMorph: TH8763"} the_work_H4399 of_the_house_H1004 of the LORD; and_six_H8337 thousand_H505 were [officers]{strong="H7860" x-morph="strongMorph: TH8802"} [and judges]{strong="H8199" x-morph="strongMorph: TH8802"}:^a^ 
+@5 Moreover_four_H702 thousand_H505 were porters_H7778; and_four_H702 thousand_H505 [praised]{strong="H1984" x-morph="strongMorph: TH8764"} the LORD with_the_instruments_H3627 [which I made]{strong="H6213" x-morph="strongMorph: TH8804"}, said David, [to praise]{strong="H1984" x-morph="strongMorph: TH8763"} therewith. 
+@6 And_David_H1732 [divided]{strong="H2505" x-morph="strongMorph: TH8735"} them_into_courses_H4256 among_the_sons_H1121 of_Levi_H3878, namely, Gershon_H1648, Kohath_H6955, and_Merari_H4847.^b^ 
 ^a^[**23:4** set…: or, oversee] ^b^[**23:6** courses: Heb. divisions]
 
-@7 Of the Gershonites were, Laadan, and Shimei.^a^ 
-@8 The sons of Laadan; the chief was Jehiel, and Zetham, and Joel, three. 
-@9 The sons of Shimei; Shelomith, and Haziel, and Haran, three. These were the chief of the fathers of Laadan. 
-@10 And the sons of Shimei were, Jahath, Zina, and Jeush, and Beriah. These four were the sons of Shimei.^b^ 
-@11 And Jahath was the chief, and Zizah the second: but Jeush and Beriah had not many sons; therefore they were in one reckoning, according to their father’s house.^c^ 
+@7 Of_the_Gershonites_H1649 were, Laadan_H3936, and_Shimei_H8096.^a^ 
+@8 The_sons_H1121 of_Laadan_H3936; the_chief_H7218 was Jehiel_H3171, and_Zetham_H2241, and_Joel_H3100, three_H7969. 
+@9 The_sons_H1121 of_Shimei_H8096; [Shelomith]{strong="H8013 H8019" x-morph="strongMorph: TH8675"}, and_Haziel_H2381, and_Haran_H2039, three_H7969. These were the_chief_H7218 of_the_fathers_H1 of_Laadan_H3936. 
+@10 And_the_sons_H1121 of_Shimei_H8096 were, Jahath_H3189, Zina_H2126, and_Jeush_H3266, and_Beriah_H1283. These_four_H702 were the_sons_H1121 of_Shimei_H8096.^b^ 
+@11 And_Jahath_H3189 was_the_chief_H7218, and_Zizah_H2125 the_second_H8145: but_Jeush_H3266 and_Beriah_H1283 [had not many]{strong="H7235" x-morph="strongMorph: TH8689"} sons_H1121; therefore_they_were_in_one_H259 reckoning_H6486, according to their [father’s]{strong="H1"} house_H1004.^c^ 
 ^a^[**23:7** Laadan: or, Libni] ^b^[**23:10** Zina: or, Zizah] ^c^[**23:11** had…: Heb. did not multiply sons]
 
-@12 The sons of Kohath; Amram, Izhar, Hebron, and Uzziel, four. 
-@13 The sons of Amram; Aaron and Moses: and Aaron was separated, that he should sanctify the most holy things, he and his sons for ever, to burn incense before the LORD, to minister unto him, and to bless in his name for ever. 
-@14 Now concerning Moses the man of God, his sons were named of the tribe of Levi. 
-@15 The sons of Moses were, Gershom, and Eliezer. 
-@16 Of the sons of Gershom, Shebuel was the chief.^a^ 
-@17 And the sons of Eliezer were, Rehabiah the chief. And Eliezer had none other sons; but the sons of Rehabiah were very many.^b^ ^c^ 
-@18 Of the sons of Izhar; Shelomith the chief.^d^ 
-@19 Of the sons of Hebron; Jeriah the first, Amariah the second, Jahaziel the third, and Jekameam the fourth. 
-@20 Of the sons of Uzziel; Michah the first, and Jesiah the second. 
+@12 The_sons_H1121 of_Kohath_H6955; Amram_H6019, Izhar_H3324, Hebron_H2275, and_Uzziel_H5816, four_H702. 
+@13 The_sons_H1121 of_Amram_H6019; Aaron_H175 and_Moses_H4872: and_Aaron_H175 [was separated]{strong="H914" x-morph="strongMorph: TH8735"}, [that he should sanctify]{strong="H6942" x-morph="strongMorph: TH8687"} the_most_H6944 holy_things_H6944, he_and_his_sons_H1121 for_H5704 ever_H5769, [to burn incense]{strong="H6999" x-morph="strongMorph: TH8687"} before_H6440 the LORD, [to minister]{strong="H8334" x-morph="strongMorph: TH8763"} [unto him, and to bless]{strong="H1288" x-morph="strongMorph: TH8763"} in_his_name_H8034 for_H5704 ever_H5769. 
+@14 Now concerning Moses_H4872 the_man_H376 of_God_H430, his_sons_H1121 [were named]{strong="H7121" x-morph="strongMorph: TH8735"} of_the_tribe_H7626 of_Levi_H3878. 
+@15 The_sons_H1121 of_Moses_H4872 were, Gershom_H1647, and_Eliezer_H461. 
+@16 Of_the_sons_H1121 of_Gershom_H1647, Shebuel_H7619 was the_chief_H7218.^a^ 
+@17 And_the_sons_H1121 of_Eliezer_H461 were, Rehabiah_H7345 the_chief_H7218. And_Eliezer_H461 had_none_other_H312 sons_H1121; but_the_sons_H1121 of_Rehabiah_H7345 were_very_H4605 [many]{strong="H7235" x-morph="strongMorph: TH8804"}.^b^ ^c^ 
+@18 Of_the_sons_H1121 of_Izhar_H3324; Shelomith_H8019 the_chief_H7218.^d^ 
+@19 Of_the_sons_H1121 of_Hebron_H2275; Jeriah_H3404 the_first_H7218, Amariah_H568 the_second_H8145, Jahaziel_H3166 the_third_H7992, and_Jekameam_H3360 the_fourth_H7243. 
+@20 Of_the_sons_H1121 of_Uzziel_H5816; Michah_H4318 the_first_H7218, and_Jesiah_H3449 the_second_H8145. 
 ^a^[**23:16** Shebuel: also called, Shubael] ^b^[**23:17** the chief: or, the first] ^c^[**23:17** very many: Heb. highly multiplied] ^d^[**23:18** Shelomith: also called, Shelomoth]
 
-@21 The sons of Merari; Mahli, and Mushi. The sons of Mahli; Eleazar, and Kish. 
-@22 And Eleazar died, and had no sons, but daughters: and their brethren the sons of Kish took them.^a^ 
-@23 The sons of Mushi; Mahli, and Eder, and Jeremoth, three. 
+@21 The_sons_H1121 of_Merari_H4847; Mahli_H4249, and_Mushi_H4187. The_sons_H1121 of_Mahli_H4249; Eleazar_H499, and_Kish_H7027. 
+@22 And_Eleazar_H499 [died]{strong="H4191" x-morph="strongMorph: TH8799"}, and_had_no_sons_H1121, but_daughters_H1323: and_their_brethren_H251 the_sons_H1121 of_Kish_H7027 [took]{strong="H5375" x-morph="strongMorph: TH8799"} them.^a^ 
+@23 The_sons_H1121 of_Mushi_H4187; Mahli_H4249, and_Eder_H5740, and_Jeremoth_H3406, three_H7969. 
 ^a^[**23:22** brethren: or, kinsmen]
 
-@24 These were the sons of Levi after the house of their fathers; even the chief of the fathers, as they were counted by number of names by their polls, that did the work for the service of the house of the LORD, from the age of twenty years and upward. 
-@25 For David said, The LORD God of Israel hath given rest unto his people, that they may dwell in Jerusalem for ever:^a^ 
-@26 And also unto the Levites; they shall no more carry the tabernacle, nor any vessels of it for the service thereof. 
-@27 For by the last words of David the Levites were numbered from twenty years old and above:^b^ 
-@28 Because their office was to wait on the sons of Aaron for the service of the house of the LORD, in the courts, and in the chambers, and in the purifying of all holy things, and the work of the service of the house of God;^c^ 
-@29 Both for the shewbread, and for the fine flour for meat offering, and for the unleavened cakes, and for that which is baked in the pan, and for that which is fried, and for all manner of measure and size;^d^ 
-@30 And to stand every morning to thank and praise the LORD, and likewise at even; 
-@31 And to offer all burnt sacrifices unto the LORD in the sabbaths, in the new moons, and on the set feasts, by number, according to the order commanded unto them, continually before the LORD: 
-@32 And that they should keep the charge of the tabernacle of the congregation, and the charge of the holy place, and the charge of the sons of Aaron their brethren, in the service of the house of the LORD.
+@24 These were the_sons_H1121 of_Levi_H3878 after_the_house_H1004 of_their_fathers_H1; even the_chief_H7218 of_the_fathers_H1, [as they were counted]{strong="H6485" x-morph="strongMorph: TH8803"} by_number_H4557 of_names_H8034 by_their_polls_H1538, [that did]{strong="H6213" x-morph="strongMorph: TH8802"} the_work_H4399 for_the_service_H5656 of_the_house_H1004 of the LORD, from_the_age_H1121 of_twenty_H6242 years_H8141 and_upward_H4605. 
+@25 For_David_H1732 [said]{strong="H559" x-morph="strongMorph: TH8804"}, The LORD God_H430 of_Israel_H3478 [hath given rest]{strong="H5117" x-morph="strongMorph: TH8689"} unto_his_people_H5971, [that they may dwell]{strong="H7931" x-morph="strongMorph: TH8799"} in_Jerusalem_H3389 for_ever_H5769:^a^ 
+@26 And_also_unto_the_Levites_H3881; they shall no more [carry]{strong="H5375" x-morph="strongMorph: TH8800"} the_tabernacle_H4908, nor_any_vessels_H3627 of_it_for_the_service_H5656 thereof. 
+@27 For_by_the_last_H314 words_H1697 of_David_H1732 the_Levites_H3881 were numbered_H4557 from_twenty_H6242 years_H8141 old_H1121 and_above_H4605:^b^ 
+@28 Because_their_office_H4612 was to_wait_H3027 on_the_sons_H1121 of_Aaron_H175 for_the_service_H5656 of_the_house_H1004 of the LORD, in_the_courts_H2691, and_in_the_chambers_H3957, and_in_the_purifying_H2893 of_all_holy_things_H6944, and_the_work_H4639 of_the_service_H5656 of_the_house_H1004 of_God_H430;^c^ 
+@29 [Both for the shewbread]{strong="H4635 H3899"}, and_for_the_fine_flour_H5560 for_meat_offering_H4503, and_for_the_unleavened_H4682 cakes_H7550, and for that which is baked in the_pan_H4227, [and for that which is fried]{strong="H7246" x-morph="strongMorph: TH8716"}, and_for_all_manner_of_measure_H4884 and_size_H4060;^d^ 
+@30 [And to stand]{strong="H5975" x-morph="strongMorph: TH8800"} every_morning_H1242 [to thank]{strong="H3034" x-morph="strongMorph: TH8687"} [and praise]{strong="H1984" x-morph="strongMorph: TH8763"} the LORD, and_likewise_at_even_H6153; 
+@31 [And to offer]{strong="H5927" x-morph="strongMorph: TH8687"} all_burnt_sacrifices_H5930 unto the LORD in_the_sabbaths_H7676, in_the_new_moons_H2320, and_on_the_set_feasts_H4150, by_number_H4557, according_to_the_order_H4941 [commanded unto them, continually]{strong="H8548"} before_H6440 the LORD: 
+@32 [And that they should keep]{strong="H8104" x-morph="strongMorph: TH8804"} the_charge_H4931 of_the_tabernacle_H168 of_the_congregation_H4150, and_the_charge_H4931 of_the_holy_H6944 place, and_the_charge_H4931 of_the_sons_H1121 of_Aaron_H175 their_brethren_H251, in_the_service_H5656 of_the_house_H1004 of the LORD.
 ^a^[**23:25** that…: or, and he dwelleth in Jerusalem, etc] ^b^[**23:27** numbered: Heb. number] ^c^[**23:28** their…: Heb. their station was at the hand of the sons of Aaron] ^d^[**23:29** pan: or, flat plate] 
 
 # 24 
-@1 Now these are the divisions of the sons of Aaron. The sons of Aaron; Nadab, and Abihu, Eleazar, and Ithamar. 
-@2 But Nadab and Abihu died before their father, and had no children: therefore Eleazar and Ithamar executed the priest’s office. 
-@3 And David distributed them, both Zadok of the sons of Eleazar, and Ahimelech of the sons of Ithamar, according to their offices in their service. 
-@4 And there were more chief men found of the sons of Eleazar than of the sons of Ithamar; and thus were they divided. Among the sons of Eleazar there were sixteen chief men of the house of their fathers, and eight among the sons of Ithamar according to the house of their fathers. 
-@5 Thus were they divided by lot, one sort with another; for the governors of the sanctuary, and governors of the house of God, were of the sons of Eleazar, and of the sons of Ithamar. 
-@6 And Shemaiah the son of Nethaneel the scribe, one of the Levites, wrote them before the king, and the princes, and Zadok the priest, and Ahimelech the son of Abiathar, and before the chief of the fathers of the priests and Levites: one principal household being taken for Eleazar, and one taken for Ithamar.^a^ 
-@7 Now the first lot came forth to Jehoiarib, the second to Jedaiah, 
-@8 The third to Harim, the fourth to Seorim, 
-@9 The fifth to Malchijah, the sixth to Mijamin, 
-@10 The seventh to Hakkoz, the eighth to Abijah, 
-@11 The ninth to Jeshua, the tenth to Shecaniah, 
-@12 The eleventh to Eliashib, the twelfth to Jakim, 
-@13 The thirteenth to Huppah, the fourteenth to Jeshebeab, 
-@14 The fifteenth to Bilgah, the sixteenth to Immer, 
-@15 The seventeenth to Hezir, the eighteenth to Aphses, 
-@16 The nineteenth to Pethahiah, the twentieth to Jehezekel, 
-@17 The one and twentieth to Jachin, the two and twentieth to Gamul, 
-@18 The three and twentieth to Delaiah, the four and twentieth to Maaziah. 
-@19 These were the orderings of them in their service to come into the house of the LORD, according to their manner, under Aaron their father, as the LORD God of Israel had commanded him. 
+@1 Now these are the_divisions_H4256 of_the_sons_H1121 of_Aaron_H175. The_sons_H1121 of_Aaron_H175; Nadab_H5070, and_Abihu_H30, Eleazar_H499, and_Ithamar_H385. 
+@2 But_Nadab_H5070 and_Abihu_H30 [died]{strong="H4191" x-morph="strongMorph: TH8799"} before_H6440 their_father_H1, and_had_no_children_H1121: therefore_Eleazar_H499 and_Ithamar_H385 [executed the priest’s office]{strong="H3547" x-morph="strongMorph: TH8762"}. 
+@3 And_David_H1732 [distributed]{strong="H2505" x-morph="strongMorph: TH8735"} [them, both Zadok]{strong="H6659"} of_the_sons_H1121 of_Eleazar_H499, and_Ahimelech_H288 of_the_sons_H1121 of_Ithamar_H385, according_to_their_offices_H6486 in_their_service_H5656. 
+@4 And_there_were_more_H7227 chief_H7218 men_H1397 [found]{strong="H4672" x-morph="strongMorph: TH8735"} of_the_sons_H1121 of_Eleazar_H499 than_of_the_sons_H1121 of_Ithamar_H385; and thus [were they divided]{strong="H2505" x-morph="strongMorph: TH8799"}. Among_the_sons_H1121 of_Eleazar_H499 there were [sixteen]{strong="H6240 H8337"} chief_men_H7218 of_the_house_H1004 of their fathers_H1, and_eight_H8083 among_the_sons_H1121 of_Ithamar_H385 according_to_the_house_H1004 of_their_fathers_H1. 
+@5 [Thus were they divided]{strong="H2505" x-morph="strongMorph: TH8799"} by_lot_H1486, one_sort_H428 with_another_H428; for_the_governors_H8269 of_the_sanctuary_H6944, and_governors_H8269 of the house of_God_H430, were_of_the_sons_H1121 of_Eleazar_H499, and_of_the_sons_H1121 of_Ithamar_H385. 
+@6 And_Shemaiah_H8098 the_son_H1121 of_Nethaneel_H5417 [the scribe]{strong="H5608" x-morph="strongMorph: TH8802"}, one of_the_Levites_H3881, [wrote]{strong="H3789" x-morph="strongMorph: TH8799"} them_before_H6440 the_king_H4428, and_the_princes_H8269, and_Zadok_H6659 the_priest_H3548, and_Ahimelech_H288 the_son_H1121 of_Abiathar_H54, and before the_chief_H7218 of_the_fathers_H1 of_the_priests_H3548 and_Levites_H3881: one_H259 principal_H1 household_H1004 [being taken]{strong="H270" x-morph="strongMorph: TH8803"} for_Eleazar_H499, and one [taken]{strong="H270" x-morph="strongMorph: TH8803"} for_Ithamar_H385.^a^ 
+@7 Now_the_first_H7223 lot_H1486 [came forth]{strong="H3318" x-morph="strongMorph: TH8799"} to_Jehoiarib_H3080, the_second_H8145 to_Jedaiah_H3048, 
+@8 The_third_H7992 to_Harim_H2766, the_fourth_H7243 to_Seorim_H8188, 
+@9 The_fifth_H2549 to_Malchijah_H4441, the_sixth_H8345 to_Mijamin_H4326, 
+@10 The_seventh_H7637 to_Hakkoz_H6976, the_eighth_H8066 to_Abijah_H29, 
+@11 The_ninth_H8671 to_Jeshua_H3442, the_tenth_H6224 to_Shecaniah_H7935, 
+@12 [The eleventh]{strong="H6240 H6249"} to_Eliashib_H475, [the twelfth]{strong="H6240 H8147"} to_Jakim_H3356, 
+@13 [The thirteenth]{strong="H6240 H7969"} to_Huppah_H2647, [the fourteenth]{strong="H6240 H702"} to_Jeshebeab_H3428, 
+@14 [The fifteenth]{strong="H6240 H2568"} to_Bilgah_H1083, [the sixteenth]{strong="H6240 H8337"} to_Immer_H564, 
+@15 [The seventeenth]{strong="H6240 H7651"} to_Hezir_H2387, [the eighteenth]{strong="H6240 H8083"} to_Aphses_H6483, 
+@16 [The nineteenth]{strong="H6240 H8672"} to_Pethahiah_H6611, the_twentieth_H6242 to_Jehezekel_H3168, 
+@17 The_one_H259 and_twentieth_H6242 to_Jachin_H3199, the_two_H8147 and_twentieth_H6242 to_Gamul_H1577, 
+@18 The_three_H7969 and_twentieth_H6242 to_Delaiah_H1806, the_four_H702 and_twentieth_H6242 to_Maaziah_H4590. 
+@19 These were the_orderings_H6486 of_them_in_their_service_H5656 [to come]{strong="H935" x-morph="strongMorph: TH8800"} into_the_house_H1004 of the LORD, according_to_their_manner_H4941, under_H3027 Aaron_H175 their_father_H1, as the LORD God_H430 of_Israel_H3478 [had commanded]{strong="H6680" x-morph="strongMorph: TH8765"} him. 
 ^a^[**24:6** principal…: Heb. house of the father]
 
-@20 And the rest of the sons of Levi were these: Of the sons of Amram; Shubael: of the sons of Shubael; Jehdeiah.^a^ 
-@21 Concerning Rehabiah: of the sons of Rehabiah, the first was Isshiah. 
-@22 Of the Izharites; Shelomoth: of the sons of Shelomoth; Jahath.^b^ 
-@23 And the sons of Hebron; Jeriah the first, Amariah the second, Jahaziel the third, Jekameam the fourth. 
-@24 Of the sons of Uzziel; Michah: of the sons of Michah; Shamir. 
-@25 The brother of Michah was Isshiah: of the sons of Isshiah; Zechariah. 
-@26 The sons of Merari were Mahli and Mushi: the sons of Jaaziah; Beno. 
+@20 [And the rest]{strong="H3498" x-morph="strongMorph: TH8737"} of_the_sons_H1121 of_Levi_H3878 were these: Of_the_sons_H1121 of_Amram_H6019; Shubael_H7619: of_the_sons_H1121 of_Shubael_H7619; Jehdeiah_H3165.^a^ 
+@21 Concerning_Rehabiah_H7345: of_the_sons_H1121 of_Rehabiah_H7345, the_first_H7218 was Isshiah_H3449. 
+@22 Of_the_Izharites_H3325; Shelomoth_H8013: of_the_sons_H1121 of_Shelomoth_H8013; Jahath_H3189.^b^ 
+@23 And_the_sons_H1121 of Hebron; Jeriah_H3404 the first, Amariah_H568 the_second_H8145, Jahaziel_H3166 the_third_H7992, Jekameam_H3360 the_fourth_H7243. 
+@24 Of the_sons_H1121 of_Uzziel_H5816; Michah_H4318: of_the_sons_H1121 of_Michah_H4318; Shamir_H8053. 
+@25 The_brother_H251 of_Michah_H4318 was Isshiah_H3449: of_the_sons_H1121 of_Isshiah_H3449; Zechariah_H2148. 
+@26 The_sons_H1121 of_Merari_H4847 were Mahli_H4249 and_Mushi_H4187: the_sons_H1121 of_Jaaziah_H3269; Beno_H1121. 
 ^a^[**24:20** Shubael: also called, Shebuel] ^b^[**24:22** Shelomoth: also called, Shelomith]
 
-@27 The sons of Merari by Jaaziah; Beno, and Shoham, and Zaccur, and Ibri. 
-@28 Of Mahli came Eleazar, who had no sons. 
-@29 Concerning Kish: the son of Kish was Jerahmeel. 
-@30 The sons also of Mushi; Mahli, and Eder, and Jerimoth. These were the sons of the Levites after the house of their fathers. 
-@31 These likewise cast lots over against their brethren the sons of Aaron in the presence of David the king, and Zadok, and Ahimelech, and the chief of the fathers of the priests and Levites, even the principal fathers over against their younger brethren. 
+@27 The_sons_H1121 of_Merari_H4847 by_Jaaziah_H3269; Beno_H1121, and_Shoham_H7719, and_Zaccur_H2139, and_Ibri_H5681. 
+@28 Of_Mahli_H4249 came Eleazar_H499, who_had_no_sons_H1121. 
+@29 Concerning_Kish_H7027: the_son_H1121 of_Kish_H7027 was Jerahmeel_H3396. 
+@30 The_sons_H1121 also_of_Mushi_H4187; Mahli_H4249, and_Eder_H5740, and_Jerimoth_H3406. These were the_sons_H1121 of_the_Levites_H3881 after_the_house_H1004 of_their_fathers_H1. 
+@31 [These likewise cast]{strong="H5307" x-morph="strongMorph: TH8686"} lots_H1486 over_against_H5980 their_brethren_H251 the_sons_H1121 of_Aaron_H175 in_the_presence_H6440 of_David_H1732 the_king_H4428, and_Zadok_H6659, and_Ahimelech_H288, and_the_chief_H7218 of_the_fathers_H1 of_the_priests_H3548 and_Levites_H3881, even_the_principal_H7218 fathers_H1 over_against_H5980 their_younger_H6996 brethren_H251. 
 
 # 25 
-@1 Moreover David and the captains of the host separated to the service of the sons of Asaph, and of Heman, and of Jeduthun, who should prophesy with harps, with psalteries, and with cymbals: and the number of the workmen according to their service was: 
-@2 Of the sons of Asaph; Zaccur, and Joseph, and Nethaniah, and Asarelah, the sons of Asaph under the hands of Asaph, which prophesied according to the order of the king.^a^ ^b^ 
-@3 Of Jeduthun: the sons of Jeduthun; Gedaliah, and Zeri, and Jeshaiah, Hashabiah, and Mattithiah, six, under the hands of their father Jeduthun, who prophesied with a harp, to give thanks and to praise the LORD.^c^ 
-@4 Of Heman: the sons of Heman; Bukkiah, Mattaniah, Uzziel, Shebuel, and Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, and Romamti-ezer, Joshbekashah, Mallothi, Hothir, and Mahazioth:^d^ ^e^ 
-@5 All these were the sons of Heman the king’s seer in the words of God, to lift up the horn. And God gave to Heman fourteen sons and three daughters.^f^ 
-@6 All these were under the hands of their father for song in the house of the LORD, with cymbals, psalteries, and harps, for the service of the house of God, according to the king’s order to Asaph, Jeduthun, and Heman.^g^ 
-@7 So the number of them, with their brethren that were instructed in the songs of the LORD, even all that were cunning, was two hundred fourscore and eight. 
+@1 Moreover_David_H1732 and_the_captains_H8269 of_the_host_H6635 [separated ]{strong="H914" x-morph="strongMorph: TH8686"} to_the_service_H5656 of_the_sons_H1121 of_Asaph_H623, and_of_Heman_H1968, and_of_Jeduthun_H3038, [who should prophesy]{strong="H5030 H5012" x-morph="strongMorph: TH8675 strongMorph: TH8737"} with_harps_H3658, with_psalteries_H5035, and_with_cymbals_H4700: and_the_number_H4557 [of the workmen]{strong="H4399 H582"} according_to_their_service_H5656 was: 
+@2 Of_the_sons_H1121 of_Asaph_H623; Zaccur_H2139, and_Joseph_H3130, and_Nethaniah_H5418, and_Asarelah_H841, the_sons_H1121 of_Asaph_H623 under_the_hands_H3027 of_Asaph_H623, [which prophesied]{strong="H5012" x-morph="strongMorph: TH8738"} according_to_the_order_H3027 of_the_king_H4428.^a^ ^b^ 
+@3 Of_Jeduthun_H3038: the_sons_H1121 of_Jeduthun_H3038; Gedaliah_H1436, and_Zeri_H6874, and_Jeshaiah_H3470, Hashabiah_H2811, and_Mattithiah_H4993, six_H8337, under_the_hands_H3027 of_their_father_H1 Jeduthun_H3038, [who prophesied]{strong="H5012" x-morph="strongMorph: TH8738"} with_a_harp_H3658, [to give thanks]{strong="H3034" x-morph="strongMorph: TH8687"} [and to praise]{strong="H1984" x-morph="strongMorph: TH8763"} the LORD.^c^ 
+@4 Of_Heman_H1968: the_sons_H1121 of_Heman_H1968; Bukkiah_H1232, Mattaniah_H4983, Uzziel_H5816, Shebuel_H7619, and_Jerimoth_H3406, Hananiah_H2608, Hanani_H2607, Eliathah_H448, Giddalti_H1437, [and Romamti-ezer]{strong="H7320"}, Joshbekashah_H3436, Mallothi_H4413, Hothir_H1956, and Mahazioth_H4238:^d^ ^e^ 
+@5 All these were the_sons_H1121 of_Heman_H1968 [the king’s]{strong="H4428"} seer_H2374 in_the_words_H1697 of_God_H430, [to lift up]{strong="H7311" x-morph="strongMorph: TH8687"} the_horn_H7161. And_God_H430 [gave]{strong="H5414" x-morph="strongMorph: TH8799"} to_Heman_H1968 [fourteen]{strong="H6240 H702"} sons_H1121 and_three_H7969 daughters_H1323.^f^ 
+@6 All these were under_the_hands_H3027 of_their_father_H1 for_song_H7892 in the_house_H1004 of the LORD, with_cymbals_H4700, psalteries_H5035, and_harps_H3658, for_the_service_H5656 of_the_house_H1004 of_God_H430, [according to the king’s]{strong="H4428"} order_H3027 to_Asaph_H623, Jeduthun_H3038, and_Heman_H1968.^g^ 
+@7 So_the_number_H4557 [of them, with their brethren]{strong="H251"} [that were instructed]{strong="H3925" x-morph="strongMorph: TH8794"} in_the_songs_H7892 of the LORD, even [all that were cunning]{strong="H995" x-morph="strongMorph: TH8688"}, was_two_hundred_H3967 fourscore_H8084 and_eight_H8083. 
 ^a^[**25:2** Asarelah: otherwise called Jesharelah] ^b^[**25:2** according…: Heb. by the hands of the king] ^c^[**25:3** Zeri: or, Izri] ^d^[**25:4** Uzziel: also called, Azareel] ^e^[**25:4** Shebuel: also called, Shubael] ^f^[**25:5** words: or, matters] ^g^[**25:6** according…: Heb. by the hands of the king]
 
-@8 And they cast lots, ward against ward, as well the small as the great, the teacher as the scholar. 
-@9 Now the first lot came forth for Asaph to Joseph: the second to Gedaliah, who with his brethren and sons were twelve: 
-@10 The third to Zaccur, he, his sons, and his brethren, were twelve: 
-@11 The fourth to Izri, he, his sons, and his brethren, were twelve: 
-@12 The fifth to Nethaniah, he, his sons, and his brethren, were twelve: 
-@13 The sixth to Bukkiah, he, his sons, and his brethren, were twelve: 
-@14 The seventh to Jesharelah, he, his sons, and his brethren, were twelve: 
-@15 The eighth to Jeshaiah, he, his sons, and his brethren, were twelve: 
-@16 The ninth to Mattaniah, he, his sons, and his brethren, were twelve: 
-@17 The tenth to Shimei, he, his sons, and his brethren, were twelve: 
-@18 The eleventh to Azareel, he, his sons, and his brethren, were twelve: 
-@19 The twelfth to Hashabiah, he, his sons, and his brethren, were twelve: 
-@20 The thirteenth to Shubael, he, his sons, and his brethren, were twelve: 
-@21 The fourteenth to Mattithiah, he, his sons, and his brethren, were twelve: 
-@22 The fifteenth to Jeremoth, he, his sons, and his brethren, were twelve: 
-@23 The sixteenth to Hananiah, he, his sons, and his brethren, were twelve: 
-@24 The seventeenth to Joshbekashah, he, his sons, and his brethren, were twelve: 
-@25 The eighteenth to Hanani, he, his sons, and his brethren, were twelve: 
-@26 The nineteenth to Mallothi, he, his sons, and his brethren, were twelve: 
-@27 The twentieth to Eliathah, he, his sons, and his brethren, were twelve: 
-@28 The one and twentieth to Hothir, he, his sons, and his brethren, were twelve: 
-@29 The two and twentieth to Giddalti, he, his sons, and his brethren, were twelve: 
-@30 The three and twentieth to Mahazioth, he, his sons, and his brethren, were twelve: 
-@31 The four and twentieth to Romamti-ezer, he, his sons, and his brethren, were twelve. 
+@8 [And they cast]{strong="H5307" x-morph="strongMorph: TH8686"} lots_H1486, ward_H4931 against_H5980 ward, as_well_the_small_H6996 as_the_great_H1419, [the teacher]{strong="H995" x-morph="strongMorph: TH8688"} as_the_scholar_H8527. 
+@9 Now_the_first_H7223 lot_H1486 [came forth]{strong="H3318" x-morph="strongMorph: TH8799"} for_Asaph_H623 to_Joseph_H3130: the_second_H8145 to_Gedaliah_H1436, who_with_his_brethren_H251 and_sons_H1121 were [twelve]{strong="H6240 H8147"}: 
+@10 The_third_H7992 to_Zaccur_H2139, he, his_sons_H1121, and_his_brethren_H251, were [twelve]{strong="H6240 H8147"}: 
+@11 The_fourth_H7243 to_Izri_H3339, he, his_sons_H1121, and_his_brethren_H251, were [twelve]{strong="H6240 H8147"}: 
+@12 The_fifth_H2549 to_Nethaniah_H5418, he, his_sons_H1121, and_his_brethren_H251, were [twelve]{strong="H6240 H8147"}: 
+@13 The_sixth_H8345 to_Bukkiah_H1232, he, his_sons_H1121, and_his_brethren_H251, were [twelve]{strong="H6240 H8147"}: 
+@14 The_seventh_H7637 to_Jesharelah_H3480, he, his_sons_H1121, and_his_brethren_H251, were [twelve]{strong="H6240 H8147"}: 
+@15 The_eighth_H8066 to_Jeshaiah_H3470, he, his_sons_H1121, and_his_brethren_H251, were [twelve]{strong="H6240 H8147"}: 
+@16 The_ninth_H8671 to_Mattaniah_H4983, he, his_sons_H1121, and_his_brethren_H251, were [twelve]{strong="H6240 H8147"}: 
+@17 The_tenth_H6224 to_Shimei_H8096, he, his_sons_H1121, and_his_brethren_H251, were [twelve]{strong="H6240 H8147"}: 
+@18 [The eleventh]{strong="H6240 H6249"} to_Azareel_H5832, he, his_sons_H1121, and_his_brethren_H251, were [twelve]{strong="H6240 H8147"}: 
+@19 [The twelfth]{strong="H6240 H8147"} to_Hashabiah_H2811, he, his_sons_H1121, and_his_brethren_H251, were [twelve]{strong="H6240 H8147"}: 
+@20 [The thirteenth]{strong="H6240 H7969"} to_Shubael_H7619, he, his_sons_H1121, and_his_brethren_H251, were [twelve]{strong="H6240 H8147"}: 
+@21 [The fourteenth]{strong="H6240 H702"} to_Mattithiah_H4993, he, his_sons_H1121, and_his_brethren_H251, were [twelve]{strong="H6240 H8147"}: 
+@22 [The fifteenth]{strong="H6240 H2568"} to_Jeremoth_H3406, he, his_sons_H1121, and_his_brethren_H251, were [twelve]{strong="H6240 H8147"}: 
+@23 [The sixteenth]{strong="H6240 H8337"} to_Hananiah_H2608, he, his_sons_H1121, and_his_brethren_H251, were [twelve]{strong="H6240 H8147"}: 
+@24 [The seventeenth]{strong="H6240 H7651"} to_Joshbekashah_H3436, he, his_sons_H1121, and_his_brethren_H251, were [twelve]{strong="H6240 H8147"}: 
+@25 [The eighteenth]{strong="H6240 H8083"} to_Hanani_H2607, he, his_sons_H1121, and_his_brethren_H251, were [twelve]{strong="H6240 H8147"}: 
+@26 [The nineteenth]{strong="H6240 H8672"} to_Mallothi_H4413, he, his_sons_H1121, and_his_brethren_H251, were [twelve]{strong="H6240 H8147"}: 
+@27 The_twentieth_H6242 to_Eliathah_H448, he, his_sons_H1121, and_his_brethren_H251, were [twelve]{strong="H6240 H8147"}: 
+@28 The_one_H259 and_twentieth_H6242 to_Hothir_H1956, he, his_sons_H1121, and_his_brethren_H251, were [twelve]{strong="H6240 H8147"}: 
+@29 The_two_H8147 and_twentieth_H6242 to_Giddalti_H1437, he, his_sons_H1121, and_his_brethren_H251, were [twelve]{strong="H6240 H8147"}: 
+@30 The_three_H7969 and_twentieth_H6242 to_Mahazioth_H4238, he, his_sons_H1121, and_his_brethren_H251, were [twelve]{strong="H6240 H8147"}: 
+@31 The_four_H702 and_twentieth_H6242 [to Romamti-ezer]{strong="H7320"}, he, his_sons_H1121, and_his_brethren_H251, were [twelve]{strong="H6240 H8147"}. 
 
 # 26 
-@1 Concerning the divisions of the porters: Of the Korhites was Meshelemiah the son of Kore, of the sons of Asaph.^a^ ^b^ 
-@2 And the sons of Meshelemiah were, Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth, 
-@3 Elam the fifth, Jehohanan the sixth, Elioenai the seventh. 
-@4 Moreover the sons of Obed-edom were, Shemaiah the firstborn, Jehozabad the second, Joah the third, and Sacar the fourth, and Nethaneel the fifth, 
-@5 Ammiel the sixth, Issachar the seventh, Peulthai the eighth: for God blessed him.^c^ 
-@6 Also unto Shemaiah his son were sons born, that ruled throughout the house of their father: for they were mighty men of valour. 
-@7 The sons of Shemaiah; Othni, and Rephael, and Obed, Elzabad, whose brethren were strong men, Elihu, and Semachiah. 
-@8 All these of the sons of Obed-edom: they and their sons and their brethren, able men for strength for the service, were threescore and two of Obed-edom. 
-@9 And Meshelemiah had sons and brethren, strong men, eighteen. 
-@10 Also Hosah, of the children of Merari, had sons; Simri the chief, (for though he was not the firstborn, yet his father made him the chief;) 
-@11 Hilkiah the second, Tebaliah the third, Zechariah the fourth: all the sons and brethren of Hosah were thirteen. 
-@12 Among these were the divisions of the porters, even among the chief men, having wards one against another, to minister in the house of the LORD. 
+@1 Concerning_the_divisions_H4256 of_the_porters_H7778: Of_the_Korhites_H7145 was Meshelemiah_H4920 the_son_H1121 of_Kore_H6981, of_the_sons_H1121 of_Asaph_H623.^a^ ^b^ 
+@2 And_the_sons_H1121 of_Meshelemiah_H4920 were, Zechariah_H2148 the_firstborn_H1060, Jediael_H3043 the_second_H8145, Zebadiah_H2069 the_third_H7992, Jathniel_H3496 the_fourth_H7243, 
+@3 Elam_H5867 the_fifth_H2549, Jehohanan_H3076 the_sixth_H8345, Elioenai_H454 the_seventh_H7637. 
+@4 Moreover_the_sons_H1121 [of Obed-edom]{strong="H5654"} were, Shemaiah_H8098 the_firstborn_H1060, Jehozabad_H3075 the_second_H8145, Joah_H3098 the_third_H7992, and_Sacar_H7940 the_fourth_H7243, and_Nethaneel_H5417 the_fifth_H2549, 
+@5 Ammiel_H5988 the_sixth_H8345, Issachar_H3485 the_seventh_H7637, Peulthai_H6469 the_eighth_H8066: for_God_H430 [blessed]{strong="H1288" x-morph="strongMorph: TH8765"} him.^c^ 
+@6 Also_unto_Shemaiah_H8098 his_son_H1121 were_sons_H1121 [born]{strong="H3205" x-morph="strongMorph: TH8738"}, that_ruled_H4474 throughout_the_house_H1004 of_their_father_H1: for they were mighty_men_H1368 of_valour_H2428. 
+@7 The_sons_H1121 of_Shemaiah_H8098; Othni_H6273, and_Rephael_H7501, and_Obed_H5744, Elzabad_H443, whose_brethren_H251 were strong_H2428 men_H1121, Elihu_H453, and_Semachiah_H5565. 
+@8 All_these_of_the_sons_H1121 [of Obed-edom]{strong="H5654"}: they_and_their_sons_H1121 and_their_brethren_H251, able_H2428 men_H376 for_strength_H3581 for_the_service_H5656, were threescore_H8346 and_two_H8147 [of Obed-edom]{strong="H5654"}. 
+@9 And_Meshelemiah_H4920 had_sons_H1121 and_brethren_H251, strong_H2428 men_H1121, [eighteen]{strong="H6240 H8083"}. 
+@10 Also_Hosah_H2621, of_the_children_H1121 of_Merari_H4847, had_sons_H1121; Simri_H8113 the_chief_H7218, (for though he_was_not_the_firstborn_H1060, yet_his_father_H1 [made]{strong="H7760" x-morph="strongMorph: TH8799"} him_the_chief_H7218;) 
+@11 Hilkiah_H2518 the_second_H8145, Tebaliah_H2882 the_third_H7992, Zechariah_H2148 the_fourth_H7243: all_the_sons_H1121 and_brethren_H251 of_Hosah_H2621 were [thirteen]{strong="H6240 H7969"}. 
+@12 Among these were the_divisions_H4256 of_the_porters_H7778, even among_the_chief_H7218 men_H1397, having wards_H4931 one_against_H5980 another_H251, [to minister]{strong="H8334" x-morph="strongMorph: TH8763"} in_the_house_H1004 of the LORD. 
 ^a^[**26:1** Meshelemiah: also called, Shelemiah] ^b^[**26:1** Asaph: also called, Ebiasaph] ^c^[**26:5** him: that is, Obed-edom]
 
-@13 And they cast lots, as well the small as the great, according to the house of their fathers, for every gate.^a^ 
-@14 And the lot eastward fell to Shelemiah. Then for Zechariah his son, a wise counsellor, they cast lots; and his lot came out northward.^b^ 
-@15 To Obed-edom southward; and to his sons the house of Asuppim.^c^ 
-@16 To Shuppim and Hosah the lot came forth westward, with the gate Shallecheth, by the causeway of the going up, ward against ward. 
-@17 Eastward were six Levites, northward four a day, southward four a day, and toward Asuppim two and two. 
-@18 At Parbar westward, four at the causeway, and two at Parbar. 
-@19 These are the divisions of the porters among the sons of Kore, and among the sons of Merari. 
+@13 [And they cast]{strong="H5307" x-morph="strongMorph: TH8686"} lots_H1486, as_well_the_small_H6996 as_the_great_H1419, according_to_the_house_H1004 of_their_fathers_H1, for_every_gate_H8179.^a^ 
+@14 And_the_lot_H1486 eastward_H4217 [fell]{strong="H5307" x-morph="strongMorph: TH8799"} to_Shelemiah_H8018. Then_for_Zechariah_H2148 his_son_H1121, a_wise_H7922 [counsellor]{strong="H3289" x-morph="strongMorph: TH8802"}, [they cast]{strong="H5307" x-morph="strongMorph: TH8689"} lots_H1486; and_his_lot_H1486 [came out]{strong="H3318" x-morph="strongMorph: TH8799"} northward_H6828.^b^ 
+@15 [To Obed-edom]{strong="H5654"} southward_H5045; and_to_his_sons_H1121 the_house_H1004 of_Asuppim_H624.^c^ 
+@16 To_Shuppim_H8206 and_Hosah_H2621 the lot came forth westward_H4628, with_the_gate_H8179 Shallecheth_H7996, by_the_causeway_H4546 [of the going up]{strong="H5927" x-morph="strongMorph: TH8802"}, ward_H4929 against_H5980 ward_H4929. 
+@17 Eastward_H4217 were six_H8337 Levites_H3881, northward_H6828 four_H702 a_day_H3117, southward_H5045 four_H702 a_day_H3117, and_toward_Asuppim_H624 two_H8147 and two_H8147. 
+@18 At_Parbar_H6503 westward_H4628, four_H702 at_the_causeway_H4546, and two_H8147 at_Parbar_H6503. 
+@19 These are the_divisions_H4256 of_the_porters_H7778 among_the_sons_H1121 of_Kore_H7145, and_among_the_sons_H1121 of_Merari_H4847. 
 ^a^[**26:13** as well…: or, as well for the small as for the great] ^b^[**26:14** Shelemiah: also called Meshelemiah] ^c^[**26:15** Asuppim: Heb. gatherings]
 
-@20 And of the Levites, Ahijah was over the treasures of the house of God, and over the treasures of the dedicated things.^a^ 
-@21 As concerning the sons of Laadan; the sons of the Gershonite Laadan, chief fathers, even of Laadan the Gershonite, were Jehieli.^b^ ^c^ 
-@22 The sons of Jehieli; Zetham, and Joel his brother, which were over the treasures of the house of the LORD. 
-@23 Of the Amramites, and the Izharites, the Hebronites, and the Uzzielites: 
-@24 And Shebuel the son of Gershom, the son of Moses, was ruler of the treasures. 
-@25 And his brethren by Eliezer; Rehabiah his son, and Jeshaiah his son, and Joram his son, and Zichri his son, and Shelomith his son. 
-@26 Which Shelomith and his brethren were over all the treasures of the dedicated things, which David the king, and the chief fathers, the captains over thousands and hundreds, and the captains of the host, had dedicated. 
-@27 Out of the spoils won in battles did they dedicate to maintain the house of the LORD.^d^ 
-@28 And all that Samuel the seer, and Saul the son of Kish, and Abner the son of Ner, and Joab the son of Zeruiah, had dedicated; and whosoever had dedicated any thing, it was under the hand of Shelomith, and of his brethren. 
+@20 And_of_the_Levites_H3881, Ahijah_H281 was over_the_treasures_H214 of_the_house_H1004 of_God_H430, and_over_the_treasures_H214 of_the_dedicated_things_H6944.^a^ 
+@21 As concerning the_sons_H1121 of_Laadan_H3936; the_sons_H1121 of_the_Gershonite_H1649 Laadan_H3936, chief_H7218 fathers_H1, even of_Laadan_H3936 the_Gershonite_H1649, were Jehieli_H3172.^b^ ^c^ 
+@22 The_sons_H1121 of_Jehieli_H3172; Zetham_H2241, and_Joel_H3100 his_brother_H251, which were over_the_treasures_H214 of_the_house_H1004 of the LORD. 
+@23 Of_the_Amramites_H6020, and the_Izharites_H3325, the_Hebronites_H2276, and the_Uzzielites_H5817: 
+@24 And_Shebuel_H7619 the_son_H1121 of_Gershom_H1647, the_son_H1121 of_Moses_H4872, was ruler_H5057 of_the_treasures_H214. 
+@25 And_his_brethren_H251 by_Eliezer_H461; Rehabiah_H7345 his_son_H1121, and_Jeshaiah_H3470 his_son_H1121, and_Joram_H3141 his_son_H1121, and_Zichri_H2147 his_son_H1121, [and Shelomith]{strong="H8013 H8019" x-morph="strongMorph: TH8675"} his_son_H1121. 
+@26 Which_Shelomith_H8013 and_his_brethren_H251 were over_all_the_treasures_H214 of_the_dedicated_things_H6944, which_David_H1732 the_king_H4428, and_the_chief_H7218 fathers_H1, the_captains_H8269 over_thousands_H505 and_hundreds_H3967, and_the_captains_H8269 of_the_host_H6635, [had dedicated]{strong="H6942" x-morph="strongMorph: TH8689"}. 
+@27 Out_of_the_spoils_H7998 won_in_battles_H4421 [did they dedicate]{strong="H6942" x-morph="strongMorph: TH8689"} [to maintain]{strong="H2388" x-morph="strongMorph: TH8763"} the_house_H1004 of the LORD.^d^ 
+@28 And_all_that_Samuel_H8050 [the seer]{strong="H7200" x-morph="strongMorph: TH8802"}, and_Saul_H7586 the_son_H1121 of_Kish_H7027, and_Abner_H74 the_son_H1121 of_Ner_H5369, and_Joab_H3097 the_son_H1121 of_Zeruiah_H6870, [had dedicated]{strong="H6942" x-morph="strongMorph: TH8689"}; and [whosoever had dedicated]{strong="H6942" x-morph="strongMorph: TH8688"} any thing, it was under_the_hand_H3027 of_Shelomith_H8019, and_of_his_brethren_H251. 
 ^a^[**26:20** dedicated…: Heb. holy things] ^b^[**26:21** Laadan: also called, Libni] ^c^[**26:21** Jehieli: also called, Jehiel] ^d^[**26:27** spoils…: Heb. battles and spoils]
 
-@29 Of the Izharites, Chenaniah and his sons were for the outward business over Israel, for officers and judges. 
-@30 And of the Hebronites, Hashabiah and his brethren, men of valour, a thousand and seven hundred, were officers among them of Israel on this side Jordan westward in all the business of the LORD, and in the service of the king.^a^ 
-@31 Among the Hebronites was Jerijah the chief, even among the Hebronites, according to the generations of his fathers. In the fortieth year of the reign of David they were sought for, and there were found among them mighty men of valour at Jazer of Gilead. 
-@32 And his brethren, men of valour, were two thousand and seven hundred chief fathers, whom king David made rulers over the Reubenites, the Gadites, and the half tribe of Manasseh, for every matter pertaining to God, and affairs of the king.^b^
+@29 Of_the_Izharites_H3325, Chenaniah_H3663 and_his_sons_H1121 were for_the_outward_H2435 business_H4399 over_Israel_H3478, [for officers]{strong="H7860" x-morph="strongMorph: TH8802"} [and judges]{strong="H8199" x-morph="strongMorph: TH8802"}. 
+@30 And of_the_Hebronites_H2276, Hashabiah_H2811 and_his_brethren_H251, men_H1121 of_valour_H2428, a_thousand_H505 and_seven_H7651 hundred_H3967, were officers_H6486 among_them_of_Israel_H3478 on_this_side_H5676 Jordan_H3383 westward_H4628 in_all_the_business_H4399 of the LORD, and_in_the_service_H5656 of_the_king_H4428.^a^ 
+@31 Among_the_Hebronites_H2276 was Jerijah_H3404 the_chief_H7218, even among_the_Hebronites_H2276, according_to_the_generations_H8435 of_his_fathers_H1. In_the_fortieth_H705 year_H8141 of_the_reign_H4438 of_David_H1732 [they were sought]{strong="H1875" x-morph="strongMorph: TH8738"} [for, and there were found]{strong="H4672" x-morph="strongMorph: TH8735"} among_them_mighty_men_H1368 of_valour_H2428 at_Jazer_H3270 of_Gilead_H1568. 
+@32 And_his_brethren_H251, men_H1121 of_valour_H2428, were two_thousand_H505 and_seven_H7651 hundred_H3967 chief_H7218 fathers_H1, whom_king_H4428 David_H1732 [made rulers]{strong="H6485" x-morph="strongMorph: TH8686"} over_the_Reubenites_H7206, the_Gadites_H1425, and_the_half_H2677 tribe_H7626 of_Manasseh_H4520, for_every_matter_H1697 pertaining_to_God_H430, and_affairs_H1697 of_the_king_H4428.^b^
 ^a^[**26:30** officers…: Heb. over the charge] ^b^[**26:32** affairs: Heb. thing] 
 
 # 27 
-@1 Now the children of Israel after their number, to wit, the chief fathers and captains of thousands and hundreds, and their officers that served the king in any matter of the courses, which came in and went out month by month throughout all the months of the year, of every course were twenty and four thousand. 
-@2 Over the first course for the first month was Jashobeam the son of Zabdiel: and in his course were twenty and four thousand. 
-@3 Of the children of Perez was the chief of all the captains of the host for the first month. 
-@4 And over the course of the second month was Dodai an Ahohite, and of his course was Mikloth also the ruler: in his course likewise were twenty and four thousand.^a^ 
-@5 The third captain of the host for the third month was Benaiah the son of Jehoiada, a chief priest: and in his course were twenty and four thousand.^b^ 
-@6 This is that Benaiah, who was mighty among the thirty, and above the thirty: and in his course was Ammizabad his son. 
-@7 The fourth captain for the fourth month was Asahel the brother of Joab, and Zebadiah his son after him: and in his course were twenty and four thousand. 
-@8 The fifth captain for the fifth month was Shamhuth the Izrahite: and in his course were twenty and four thousand. 
-@9 The sixth captain for the sixth month was Ira the son of Ikkesh the Tekoite: and in his course were twenty and four thousand. 
-@10 The seventh captain for the seventh month was Helez the Pelonite, of the children of Ephraim: and in his course were twenty and four thousand. 
-@11 The eighth captain for the eighth month was Sibbecai the Hushathite, of the Zarhites: and in his course were twenty and four thousand. 
-@12 The ninth captain for the ninth month was Abi-ezer the Anetothite, of the Benjamites: and in his course were twenty and four thousand. 
-@13 The tenth captain for the tenth month was Maharai the Netophathite, of the Zarhites: and in his course were twenty and four thousand. 
-@14 The eleventh captain for the eleventh month was Benaiah the Pirathonite, of the children of Ephraim: and in his course were twenty and four thousand. 
-@15 The twelfth captain for the twelfth month was Heldai the Netophathite, of Othniel: and in his course were twenty and four thousand.^c^ 
+@1 Now_the_children_H1121 of_Israel_H3478 after_their_number_H4557, to wit, the_chief_H7218 fathers_H1 and_captains_H8269 of_thousands_H505 and_hundreds_H3967, [and their officers]{strong="H7860" x-morph="strongMorph: TH8802"} [that served]{strong="H8334" x-morph="strongMorph: TH8764"} the_king_H4428 in_any_matter_H1697 of_the_courses_H4256, [which came in]{strong="H935" x-morph="strongMorph: TH8802"} [and went out]{strong="H3318" x-morph="strongMorph: TH8802"} month_H2320 by_month_H2320 throughout_all_the_months_H2320 of_the_year_H8141, of_every_H259 course_H4256 were twenty_H6242 and_four_H702 thousand_H505. 
+@2 Over_the_first_H7223 course_H4256 for_the_first_H7223 month_H2320 was Jashobeam_H3434 the_son_H1121 of_Zabdiel_H2068: and_in_his_course_H4256 were twenty_H6242 and_four_H702 thousand_H505. 
+@3 Of_the_children_H1121 of_Perez_H6557 was the_chief_H7218 of_all_the_captains_H8269 of_the_host_H6635 for_the_first_H7223 month_H2320. 
+@4 And_over_the_course_H4256 of_the_second_H8145 month_H2320 was Dodai_H1737 an_Ahohite_H266, and_of_his_course_H4256 was Mikloth_H4732 also_the_ruler_H5057: in_his_course_H4256 likewise were twenty_H6242 and_four_H702 thousand_H505.^a^ 
+@5 The_third_H7992 captain_H8269 of_the_host_H6635 for_the_third_H7992 month_H2320 was Benaiah_H1141 the_son_H1121 of_Jehoiada_H3077, a_chief_H7218 priest_H3548: and_in_his_course_H4256 were twenty_H6242 and_four_H702 thousand_H505.^b^ 
+@6 This is that Benaiah_H1141, who was mighty_H1368 among the_thirty_H7970, and_above_the_thirty_H7970: and_in_his_course_H4256 was Ammizabad_H5990 his_son_H1121. 
+@7 The_fourth_H7243 captain for_the_fourth_H7243 month_H2320 was Asahel_H6214 the_brother_H251 of_Joab_H3097, and_Zebadiah_H2069 his_son_H1121 after_H310 [him: and in his course]{strong="H4256"} were twenty_H6242 and_four_H702 thousand_H505. 
+@8 The_fifth_H2549 captain_H8269 for_the_fifth_H2549 month_H2320 was Shamhuth_H8049 the_Izrahite_H3155: and_in_his_course_H4256 were twenty_H6242 and_four_H702 thousand_H505. 
+@9 The_sixth_H8345 captain for_the_sixth_H8345 month_H2320 was Ira_H5896 the_son_H1121 of_Ikkesh_H6142 the_Tekoite_H8621: and_in_his_course_H4256 were twenty_H6242 and_four_H702 thousand_H505. 
+@10 The_seventh_H7637 captain for_the_seventh_H7637 month_H2320 was Helez_H2503 the_Pelonite_H6397, of_the_children_H1121 of_Ephraim_H669: and_in_his_course_H4256 were twenty_H6242 and_four_H702 thousand_H505. 
+@11 The_eighth_H8066 captain for_the_eighth_H8066 month_H2320 was Sibbecai_H5444 the_Hushathite_H2843, of_the_Zarhites_H2227: and_in_his_course_H4256 were twenty_H6242 and_four_H702 thousand_H505. 
+@12 The_ninth_H8671 captain for_the_ninth_H8671 month_H2320 was [Abi-ezer]{strong="H44"} the_Anetothite_H6069, of_the_Benjamites_H1145: and_in_his_course_H4256 were twenty_H6242 and_four_H702 thousand_H505. 
+@13 The_tenth_H6224 captain for_the_tenth_H6224 month_H2320 was Maharai_H4121 the_Netophathite_H5200, of_the_Zarhites_H2227: and_in_his_course_H4256 were twenty_H6242 and_four_H702 thousand_H505. 
+@14 [The eleventh]{strong="H6240 H6249"} captain [for the eleventh]{strong="H6240 H6249"} month_H2320 was Benaiah_H1141 the_Pirathonite_H6553, of_the_children_H1121 of_Ephraim_H669: and_in_his_course_H4256 were twenty_H6242 and_four_H702 thousand_H505. 
+@15 [The twelfth]{strong="H6240 H8147"} captain [for the twelfth]{strong="H6240 H8147"} month_H2320 was Heldai_H2469 the_Netophathite_H5200, of_Othniel_H6274: and_in_his_course_H4256 were twenty_H6242 and_four_H702 thousand_H505.^c^ 
 ^a^[**27:4** Dodai: also called, Dodo] ^b^[**27:5** chief…: or, principal officer] ^c^[**27:15** Heldai: also called, Heled]
 
-@16 Furthermore over the tribes of Israel: the ruler of the Reubenites was Eliezer the son of Zichri: of the Simeonites, Shephatiah the son of Maachah: 
-@17 Of the Levites, Hashabiah the son of Kemuel: of the Aaronites, Zadok: 
-@18 Of Judah, Elihu, one of the brethren of David: of Issachar, Omri the son of Michael:^a^ 
-@19 Of Zebulun, Ishmaiah the son of Obadiah: of Naphtali, Jerimoth the son of Azriel: 
-@20 Of the children of Ephraim, Hoshea the son of Azaziah: of the half tribe of Manasseh, Joel the son of Pedaiah: 
-@21 Of the half tribe of Manasseh in Gilead, Iddo the son of Zechariah: of Benjamin, Jaasiel the son of Abner: 
-@22 Of Dan, Azareel the son of Jeroham. These were the princes of the tribes of Israel. 
+@16 Furthermore_over_the_tribes_H7626 of_Israel_H3478: the_ruler_H5057 of_the_Reubenites_H7206 was Eliezer_H461 the_son_H1121 of_Zichri_H2147: of_the_Simeonites_H8099, Shephatiah_H8203 the_son_H1121 of_Maachah_H4601: 
+@17 Of_the_Levites_H3881, Hashabiah_H2811 the_son_H1121 of_Kemuel_H7055: of_the_Aaronites_H175, Zadok_H6659: 
+@18 Of_Judah_H3063, Elihu_H453, one of_the_brethren_H251 of_David_H1732: of_Issachar_H3485, Omri_H6018 the_son_H1121 of_Michael_H4317:^a^ 
+@19 Of_Zebulun_H2074, Ishmaiah_H3460 the_son_H1121 of_Obadiah_H5662: of_Naphtali_H5321, Jerimoth_H3406 the_son_H1121 of_Azriel_H5837: 
+@20 Of_the_children_H1121 of_Ephraim_H669, Hoshea_H1954 the_son_H1121 of_Azaziah_H5812: of_the_half_H2677 tribe_H7626 of_Manasseh_H4519, Joel_H3100 the_son_H1121 of_Pedaiah_H6305: 
+@21 Of_the_half_H2677 tribe of_Manasseh_H4519 in_Gilead_H1568, Iddo_H3035 the_son_H1121 of_Zechariah_H2148: of_Benjamin_H1144, Jaasiel_H3300 the_son_H1121 of_Abner_H74: 
+@22 Of_Dan_H1835, Azareel_H5832 the_son_H1121 of_Jeroham_H3395. These were the_princes_H8269 of_the_tribes_H7626 of_Israel_H3478. 
 ^a^[**27:18** Elihu: also called, Eliab]
 
-@23 But David took not the number of them from twenty years old and under: because the LORD had said he would increase Israel like to the stars of the heavens. 
-@24 Joab the son of Zeruiah began to number, but he finished not, because there fell wrath for it against Israel; neither was the number put in the account of the chronicles of king David.^a^ 
+@23 But_David_H1732 [took]{strong="H5375" x-morph="strongMorph: TH8804"} not_the_number_H4557 of_them_from_twenty_H6242 years_H8141 old_H1121 and_under_H4295: because the LORD [had said]{strong="H559" x-morph="strongMorph: TH8804"} [he would increase]{strong="H7235" x-morph="strongMorph: TH8687"} Israel_H3478 like_to_the_stars_H3556 of_the_heavens_H8064. 
+@24 Joab_H3097 the_son_H1121 of_Zeruiah_H6870 [began]{strong="H2490" x-morph="strongMorph: TH8689"} [to number]{strong="H4487" x-morph="strongMorph: TH8800"}, [but he finished]{strong="H3615" x-morph="strongMorph: TH8765"} [not, because there fell wrath]{strong="H7110"} for_it_H2063 against_Israel_H3478; neither_was_the_number_H4557 [put]{strong="H5927" x-morph="strongMorph: TH8804"} in_the_account_H4557 [of the chronicles]{strong="H3117 H1697"} of_king_H4428 David_H1732.^a^ 
 ^a^[**27:24** was: Heb. ascended]
 
-@25 And over the king’s treasures was Azmaveth the son of Adiel: and over the storehouses in the fields, in the cities, and in the villages, and in the castles, was Jehonathan the son of Uzziah: 
-@26 And over them that did the work of the field for tillage of the ground was Ezri the son of Chelub: 
-@27 And over the vineyards was Shimei the Ramathite: over the increase of the vineyards for the wine cellars was Zabdi the Shiphmite:^a^ 
-@28 And over the olive trees and the sycomore trees that were in the low plains was Baal-hanan the Gederite: and over the cellars of oil was Joash: 
-@29 And over the herds that fed in Sharon was Shitrai the Sharonite: and over the herds that were in the valleys was Shaphat the son of Adlai: 
-@30 Over the camels also was Obil the Ishmaelite: and over the asses was Jehdeiah the Meronothite: 
-@31 And over the flocks was Jaziz the Hagerite. All these were the rulers of the substance which was king David’s. 
-@32 Also Jonathan David’s uncle was a counsellor, a wise man, and a scribe: and Jehiel the son of Hachmoni was with the king’s sons:^b^ ^c^ 
-@33 And Ahithophel was the king’s counsellor: and Hushai the Archite was the king’s companion: 
-@34 And after Ahithophel was Jehoiada the son of Benaiah, and Abiathar: and the general of the king’s army was Joab.
+@25 [And over the king’s]{strong="H4428"} treasures_H214 was Azmaveth_H5820 the_son_H1121 of_Adiel_H5717: and_over_the_storehouses_H214 in_the_fields_H7704, in_the_cities_H5892, and_in_the_villages_H3723, and_in_the_castles_H4026, was Jehonathan_H3083 the_son_H1121 of_Uzziah_H5818: 
+@26 [And over them that did]{strong="H6213" x-morph="strongMorph: TH8802"} the_work_H4399 of_the_field_H7704 for_tillage_H5656 of_the_ground_H127 was Ezri_H5836 the_son_H1121 of_Chelub_H3620: 
+@27 And_over_the_vineyards_H3754 was Shimei_H8096 the_Ramathite_H7435: over_the_increase_of_the_vineyards_H3754 for_the_wine_H3196 cellars_H214 was Zabdi_H2067 the_Shiphmite_H8225:^a^ 
+@28 And_over_the_olive_trees_H2132 and_the_sycomore_trees_H8256 that were in_the_low_plains_H8219 was [Baal-hanan]{strong="H1177"} the_Gederite_H1451: and_over_the_cellars_H214 of_oil_H8081 was Joash_H3135: 
+@29 And_over_the_herds_H1241 [that fed]{strong="H7462" x-morph="strongMorph: TH8802"} in_Sharon_H8289 was Shitrai_H7861 the_Sharonite_H8290: and_over_the_herds_H1241 that were in_the_valleys_H6010 was Shaphat_H8202 the_son_H1121 of_Adlai_H5724: 
+@30 Over_the_camels_H1581 also was Obil_H179 the_Ishmaelite_H3459: and_over_the_asses_H860 was Jehdeiah_H3165 the_Meronothite_H4824: 
+@31 And_over_the_flocks_H6629 was Jaziz_H3151 the_Hagerite_H1905. All these were the_rulers_H8269 of_the_substance_H7399 which was king_H4428 [David’s]{strong="H1732"}. 
+@32 Also_Jonathan_H3083 [David’s]{strong="H1732"} uncle_H1730 [was a counsellor]{strong="H3289" x-morph="strongMorph: TH8802"}, [a wise]{strong="H995" x-morph="strongMorph: TH8688"} man_H376, [and a scribe]{strong="H5608" x-morph="strongMorph: TH8802"}: and_Jehiel_H3171 the_son_H1121 of_Hachmoni_H2453 was [with the king’s]{strong="H4428"} sons_H1121:^b^ ^c^ 
+@33 And_Ahithophel_H302 was [the king’s]{strong="H4428"} [counsellor]{strong="H3289" x-morph="strongMorph: TH8802"}: and_Hushai_H2365 the_Archite_H757 was [the king’s]{strong="H4428"} companion_H7453: 
+@34 And_after_H310 Ahithophel_H302 was Jehoiada_H3077 the_son_H1121 of_Benaiah_H1141, and_Abiathar_H54: and_the_general_H8269 [of the king’s]{strong="H4428"} army_H6635 was Joab_H3097.
 ^a^[**27:27** over the increase…: Heb. over that which was of the vineyards] ^b^[**27:32** scribe: or, secretary] ^c^[**27:32** son…: or, Hachmonite] 
 
 # 28 
-@1 And David assembled all the princes of Israel, the princes of the tribes, and the captains of the companies that ministered to the king by course, and the captains over the thousands, and captains over the hundreds, and the stewards over all the substance and possession of the king, and of his sons, with the officers, and with the mighty men, and with all the valiant men, unto Jerusalem.^a^ ^b^ ^c^ 
-@2 Then David the king stood up upon his feet, and said, Hear me, my brethren, and my people: As for me, I had in mine heart to build an house of rest for the ark of the covenant of the LORD, and for the footstool of our God, and had made ready for the building: 
-@3 But God said unto me, Thou shalt not build an house for my name, because thou hast been a man of war, and hast shed blood.^d^ 
-@4 Howbeit the LORD God of Israel chose me before all the house of my father to be king over Israel for ever: for he hath chosen Judah to be the ruler; and of the house of Judah, the house of my father; and among the sons of my father he liked me to make me king over all Israel: 
-@5 And of all my sons, (for the LORD hath given me many sons,) he hath chosen Solomon my son to sit upon the throne of the kingdom of the LORD over Israel. 
-@6 And he said unto me, Solomon thy son, he shall build my house and my courts: for I have chosen him to be my son, and I will be his father. 
-@7 Moreover I will establish his kingdom for ever, if he be constant to do my commandments and my judgments, as at this day.^e^ 
-@8 Now therefore in the sight of all Israel the congregation of the LORD, and in the audience of our God, keep and seek for all the commandments of the LORD your God: that ye may possess this good land, and leave it for an inheritance for your children after you for ever. 
+@1 And_David_H1732 [assembled]{strong="H6950" x-morph="strongMorph: TH8686"} all_the_princes_H8269 of_Israel_H3478, the_princes_H8269 of_the_tribes_H7626, and_the_captains_H8269 of_the_companies_H4256 [that ministered]{strong="H8334" x-morph="strongMorph: TH8764"} to_the_king_H4428 by_course_H4256, and_the_captains_H8269 over_the_thousands_H505, and_captains_H8269 over_the_hundreds_H3967, and_the_stewards_H8269 over_all_the_substance_H7399 and_possession_H4735 of_the_king_H4428, and_of_his_sons_H1121, with_the_officers_H5631, and_with_the_mighty_men_H1368, and_with_all_the_valiant_men_H2428, unto_Jerusalem_H3389.^a^ ^b^ ^c^ 
+@2 Then_David_H1732 the_king_H4428 [stood up]{strong="H6965" x-morph="strongMorph: TH8799"} upon_his_feet_H7272, [and said]{strong="H559" x-morph="strongMorph: TH8799"}, [Hear]{strong="H8085" x-morph="strongMorph: TH8798"} [me, my brethren]{strong="H251"}, and_my_people_H5971: As for me, I had in_mine_heart_H3824 [to build]{strong="H1129" x-morph="strongMorph: TH8800"} an_house_H1004 of_rest_H4496 for_the_ark_H727 of_the_covenant_H1285 of the LORD, [and for the footstool]{strong="H7272 H1916"} of_our_God_H430, [and had made ready]{strong="H3559" x-morph="strongMorph: TH8689"} [for the building]{strong="H1129" x-morph="strongMorph: TH8800"}: 
+@3 But_God_H430 [said]{strong="H559" x-morph="strongMorph: TH8804"} [unto me, Thou shalt not build]{strong="H1129" x-morph="strongMorph: TH8799"} an_house_H1004 for_my_name_H8034, because thou hast been a_man_H376 of_war_H4421, [and hast shed]{strong="H8210" x-morph="strongMorph: TH8804"} blood_H1818.^d^ 
+@4 Howbeit the LORD God_H430 of_Israel_H3478 [chose]{strong="H977" x-morph="strongMorph: TH8799"} me_before_all_the_house_H1004 of_my_father_H1 to_be_king_H4428 over_Israel_H3478 for_ever_H5769: [for he hath chosen]{strong="H977" x-morph="strongMorph: TH8804"} Judah_H3063 to be the_ruler_H5057; and_of_the_house_H1004 of_Judah_H3063, the_house_H1004 of_my_father_H1; and_among_the_sons_H1121 of_my_father_H1 [he liked]{strong="H7521" x-morph="strongMorph: TH8804"} me to make me [king]{strong="H4427" x-morph="strongMorph: TH8687"} over_all_Israel_H3478: 
+@5 And_of_all_my_sons_H1121, (for the LORD [hath given]{strong="H5414" x-morph="strongMorph: TH8804"} me_many_H7227 sons_H1121,) [he hath chosen]{strong="H977" x-morph="strongMorph: TH8799"} Solomon_H8010 my_son_H1121 [to sit]{strong="H3427" x-morph="strongMorph: TH8800"} upon_the_throne_H3678 of_the_kingdom_H4438 of the LORD over_Israel_H3478. 
+@6 [And he said]{strong="H559" x-morph="strongMorph: TH8799"} [unto me, Solomon]{strong="H8010"} thy_son_H1121, [he shall build]{strong="H1129" x-morph="strongMorph: TH8799"} my_house_H1004 and_my_courts_H2691: [for I have chosen]{strong="H977" x-morph="strongMorph: TH8804"} him to be my_son_H1121, and_I_will_be_his_father_H1. 
+@7 [Moreover I will establish]{strong="H3559" x-morph="strongMorph: TH8689"} his_kingdom_H4438 for_ever_H5769, [if he be constant]{strong="H2388" x-morph="strongMorph: TH8799"} [to do]{strong="H6213" x-morph="strongMorph: TH8800"} my_commandments_H4687 and_my_judgments_H4941, as_at_this_day_H3117.^e^ 
+@8 Now_therefore_in_the_sight_H5869 of_all_Israel_H3478 the_congregation_H6951 of the LORD, and_in_the_audience_H241 of_our_God_H430, [keep]{strong="H8104" x-morph="strongMorph: TH8798"} [and seek]{strong="H1875" x-morph="strongMorph: TH8798"} for_all_the_commandments_H4687 of the LORD your_God_H430: [that ye may possess]{strong="H3423" x-morph="strongMorph: TH8799"} this_good_H2896 land_H776, and leave it [for an inheritance]{strong="H5157" x-morph="strongMorph: TH8689"} for_your_children_H1121 after_H310 you_for_H5704 ever_H5769. 
 ^a^[**28:1** possession: or, cattle] ^b^[**28:1** and of…: or, and his sons] ^c^[**28:1** officers: or, eunuchs] ^d^[**28:3** blood: Heb. bloods] ^e^[**28:7** constant: Heb. strong]
 
-@9 And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind: for the LORD searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever. 
-@10 Take heed now; for the LORD hath chosen thee to build an house for the sanctuary: be strong, and do it. 
+@9 [And thou, Solomon]{strong="H8010"} my_son_H1121, [know]{strong="H3045" x-morph="strongMorph: TH8798"} thou_the_God_H430 of_thy_father_H1, [and serve]{strong="H5647" x-morph="strongMorph: TH8798"} him_with_a_perfect_H8003 heart_H3820 and_with_a_willing_H2655 mind_H5315: for the LORD [searcheth]{strong="H1875" x-morph="strongMorph: TH8802"} all_hearts_H3824, [and understandeth]{strong="H995" x-morph="strongMorph: TH8688"} all_the_imaginations_H3336 of_the_thoughts_H4284: [if thou seek]{strong="H1875" x-morph="strongMorph: TH8799"} [him, he will be found]{strong="H4672" x-morph="strongMorph: TH8735"} [of thee; but if thou forsake]{strong="H5800" x-morph="strongMorph: TH8799"} [him, he will cast thee off]{strong="H2186" x-morph="strongMorph: TH8686"} for_ever_H5703. 
+@10 [Take heed]{strong="H7200" x-morph="strongMorph: TH8798"} now; for the LORD [hath chosen]{strong="H977" x-morph="strongMorph: TH8804"} [thee to build]{strong="H1129" x-morph="strongMorph: TH8800"} an_house_H1004 for_the_sanctuary_H4720: [be strong]{strong="H2388" x-morph="strongMorph: TH8798"}, [and do]{strong="H6213" x-morph="strongMorph: TH8798"} it. 
 
-@11 Then David gave to Solomon his son the pattern of the porch, and of the houses thereof, and of the treasuries thereof, and of the upper chambers thereof, and of the inner parlours thereof, and of the place of the mercy seat, 
-@12 And the pattern of all that he had by the spirit, of the courts of the house of the LORD, and of all the chambers round about, of the treasuries of the house of God, and of the treasuries of the dedicated things:^a^ 
-@13 Also for the courses of the priests and the Levites, and for all the work of the service of the house of the LORD, and for all the vessels of service in the house of the LORD. 
-@14 He gave of gold by weight for things of gold, for all instruments of all manner of service; silver also for all instruments of silver by weight, for all instruments of every kind of service: 
-@15 Even the weight for the candlesticks of gold, and for their lamps of gold, by weight for every candlestick, and for the lamps thereof: and for the candlesticks of silver by weight, both for the candlestick, and also for the lamps thereof, according to the use of every candlestick. 
-@16 And by weight he gave gold for the tables of shewbread, for every table; and likewise silver for the tables of silver: 
-@17 Also pure gold for the fleshhooks, and the bowls, and the cups: and for the golden basons he gave gold by weight for every bason; and likewise silver by weight for every bason of silver: 
-@18 And for the altar of incense refined gold by weight; and gold for the pattern of the chariot of the cherubims, that spread out their wings, and covered the ark of the covenant of the LORD. 
-@19 All this, said David, the LORD made me understand in writing by his hand upon me, even all the works of this pattern. 
-@20 And David said to Solomon his son, Be strong and of good courage, and do it: fear not, nor be dismayed: for the LORD God, even my God, will be with thee; he will not fail thee, nor forsake thee, until thou hast finished all the work for the service of the house of the LORD. 
-@21 And, behold, the courses of the priests and the Levites, even they shall be with thee for all the service of the house of God: and there shall be with thee for all manner of workmanship every willing skilful man, for any manner of service: also the princes and all the people will be wholly at thy commandment.
+@11 Then_David_H1732 [gave]{strong="H5414" x-morph="strongMorph: TH8799"} to_Solomon_H8010 his_son_H1121 the_pattern_H8403 of_the_porch_H197, and_of_the_houses_H1004 [thereof, and of the treasuries]{strong="H1597"} [thereof, and of the upper chambers]{strong="H5944"} [thereof, and of the inner]{strong="H6442"} parlours_H2315 [thereof, and of the place]{strong="H1004"} of_the_mercy_seat_H3727, 
+@12 And_the_pattern_H8403 of_all_that_he_had_by_the_spirit_H7307, of_the_courts_H2691 of_the_house_H1004 of the LORD, and_of_all_the_chambers_H3957 round_about_H5439, of_the_treasuries_H214 of_the_house_H1004 of_God_H430, and_of_the_treasuries_H214 of_the_dedicated_things_H6944:^a^ 
+@13 Also_for_the_courses_H4256 of_the_priests_H3548 and_the_Levites_H3881, and_for_all_the_work_H4399 of_the_service_H5656 of_the_house_H1004 of the LORD, and_for_all_the_vessels_H3627 of_service_H5656 in_the_house_H1004 of the LORD. 
+@14 He gave of_gold_H2091 by_weight_H4948 for things of_gold_H2091, for_all_instruments_H3627 of_all_manner_of_service_H5656; silver also for_all_instruments_H3627 of_silver_H3701 by_weight_H4948, for_all_instruments_H3627 of_every_kind_of_service_H5656: 
+@15 Even_the_weight_H4948 for_the_candlesticks_H4501 of_gold_H2091, and_for_their_lamps_H5216 of_gold_H2091, by_weight_H4948 for_every_candlestick_H4501, and_for_the_lamps_H5216 [thereof: and for the candlesticks]{strong="H4501"} of_silver_H3701 by_weight_H4948, both for_the_candlestick_H4501, and also for_the_lamps_H5216 [thereof, according to the use]{strong="H5656"} of_every_candlestick_H4501. 
+@16 And_by_weight_H4948 he gave gold_H2091 for_the_tables_H7979 of_shewbread_H4635, for_every_table_H7979; and likewise silver_H3701 for_the_tables_H7979 of_silver_H3701: 
+@17 Also_pure_H2889 gold_H2091 for_the_fleshhooks_H4207, and_the_bowls_H4219, and_the_cups_H7184: and_for_the_golden_H2091 basons_H3713 he gave gold by_weight_H4948 for_every_bason_H3713; and likewise silver by_weight_H4948 for_every_bason_H3713 of_silver_H3701: 
+@18 And_for_the_altar_H4196 of_incense_H7004 [refined]{strong="H2212" x-morph="strongMorph: TH8794"} gold_H2091 by_weight_H4948; and_gold_H2091 for_the_pattern_H8403 of_the_chariot_H4818 of_the_cherubims_H3742, [that spread out]{strong="H6566" x-morph="strongMorph: TH8802"} their wings, [and covered]{strong="H5526" x-morph="strongMorph: TH8802"} the_ark_H727 of_the_covenant_H1285 of the LORD. 
+@19 All this, said David, the LORD [made me understand]{strong="H7919" x-morph="strongMorph: TH8689"} in_writing_H3791 by his hand_H3027 upon me, even all_the_works_H4399 of_this_pattern_H8403. 
+@20 And_David_H1732 [said]{strong="H559" x-morph="strongMorph: TH8799"} to_Solomon_H8010 his_son_H1121, [Be strong]{strong="H2388" x-morph="strongMorph: TH8798"} [and of good courage]{strong="H553" x-morph="strongMorph: TH8798"}, [and do]{strong="H6213" x-morph="strongMorph: TH8798"} it: [fear]{strong="H3372" x-morph="strongMorph: TH8799"} [not, nor be dismayed]{strong="H2865" x-morph="strongMorph: TH8735"}: for the LORD God_H430, even my_God_H430, will be [with thee; he will not fail]{strong="H7503" x-morph="strongMorph: TH8686"} [thee, nor forsake]{strong="H5800" x-morph="strongMorph: TH8799"} [thee, until thou hast finished]{strong="H3615" x-morph="strongMorph: TH8800"} all_the_work_H4399 for_the_service_H5656 of_the_house_H1004 of the LORD. 
+@21 [And, behold, the courses]{strong="H4256"} of_the_priests_H3548 and_the_Levites_H3881, even they shall be with thee for_all_the_service_H5656 of_the_house_H1004 of_God_H430: and there shall be with_thee_for_all_manner_of_workmanship_H4399 every_willing_H5081 skilful_man_H2451, for_any_manner_of_service_H5656: also_the_princes_H8269 and_all_the_people_H5971 will be wholly_at_thy_commandment_H1697.
 ^a^[**28:12** of all that…: Heb. of all that was with him] 
 
 # 29 
-@1 Furthermore David the king said unto all the congregation, Solomon my son, whom alone God hath chosen, is yet young and tender, and the work is great: for the palace is not for man, but for the LORD God. 
-@2 Now I have prepared with all my might for the house of my God the gold for things to be made of gold, and the silver for things of silver, and the brass for things of brass, the iron for things of iron, and wood for things of wood; onyx stones, and stones to be set, glistering stones, and of divers colours, and all manner of precious stones, and marble stones in abundance. 
-@3 Moreover, because I have set my affection to the house of my God, I have of mine own proper good, of gold and silver, which I have given to the house of my God, over and above all that I have prepared for the holy house, 
-@4 Even three thousand talents of gold, of the gold of Ophir, and seven thousand talents of refined silver, to overlay the walls of the houses withal: 
-@5 The gold for things of gold, and the silver for things of silver, and for all manner of work to be made by the hands of artificers. And who then is willing to consecrate his service this day unto the LORD?^a^ 
+@1 Furthermore_David_H1732 the_king_H4428 [said]{strong="H559" x-morph="strongMorph: TH8799"} unto_all_the_congregation_H6951, Solomon_H8010 my_son_H1121, whom_alone_H259 God_H430 [hath chosen]{strong="H977" x-morph="strongMorph: TH8804"}, is yet young_H5288 and_tender_H7390, and_the_work_H4399 is great_H1419: for_the_palace_H1002 is not_for_man_H120, but for the LORD God_H430. 
+@2 [Now I have prepared]{strong="H3559" x-morph="strongMorph: TH8689"} with_all_my_might_H3581 for_the_house_H1004 of_my_God_H430 the_gold_H2091 for things to be made of_gold_H2091, and_the_silver_H3701 for things of_silver_H3701, and_the_brass_H5178 for things of_brass_H5178, the_iron_H1270 for things of_iron_H1270, and_wood_H6086 for things of_wood_H6086; onyx_H7718 stones_H68, and stones to_be_set_H4394, glistering_H6320 stones_H68, and_of_divers_colours_H7553, and_all_manner_of_precious_H3368 stones_H68, and_marble_H7893 stones_H68 in_abundance_H7230. 
+@3 [Moreover, because I have set my affection]{strong="H7521" x-morph="strongMorph: TH8800"} to_the_house_H1004 of_my_God_H430, I_have_H3426 of_mine_own_proper_good_H5459, of_gold_H2091 and_silver_H3701, which [I have given]{strong="H5414" x-morph="strongMorph: TH8804"} to_the_house_H1004 of_my_God_H430, over_and_above_H4605 [all that I have prepared]{strong="H3559" x-morph="strongMorph: TH8689"} for_the_holy_H6944 house_H1004, 
+@4 Even three_H7969 thousand_H505 talents_H3603 of_gold_H2091, of_the_gold_H2091 of_Ophir_H211, and_seven_H7651 thousand_H505 talents_H3603 [of refined]{strong="H2212" x-morph="strongMorph: TH8794"} silver_H3701, [to overlay]{strong="H2902" x-morph="strongMorph: TH8800"} the_walls_H7023 of_the_houses_H1004 withal: 
+@5 The_gold_H2091 for things of_gold_H2091, and_the_silver_H3701 for things of_silver_H3701, and_for_all_manner_of_work_H4399 to be made by_the_hands_H3027 of_artificers_H2796. And who then [is willing]{strong="H5068" x-morph="strongMorph: TH8693"} [to consecrate]{strong="H4390" x-morph="strongMorph: TH8763"} his_service_H3027 this_day_H3117 unto the LORD?^a^ 
 ^a^[**29:5** consecrate his service: Heb. fill his hand]
 
-@6 Then the chief of the fathers and princes of the tribes of Israel, and the captains of thousands and of hundreds, with the rulers of the king’s work, offered willingly, 
-@7 And gave for the service of the house of God of gold five thousand talents and ten thousand drams, and of silver ten thousand talents, and of brass eighteen thousand talents, and one hundred thousand talents of iron. 
-@8 And they with whom precious stones were found gave them to the treasure of the house of the LORD, by the hand of Jehiel the Gershonite. 
-@9 Then the people rejoiced, for that they offered willingly, because with perfect heart they offered willingly to the LORD: and David the king also rejoiced with great joy. 
+@6 Then_the_chief_H8269 of_the_fathers_H1 and_princes_H8269 of_the_tribes_H7626 of_Israel_H3478, and_the_captains_H8269 of_thousands_H505 and_of_hundreds_H3967, with_the_rulers_H8269 [of the king’s]{strong="H4428"} work_H4399, [offered willingly]{strong="H5068" x-morph="strongMorph: TH8691"}, 
+@7 [And gave]{strong="H5414" x-morph="strongMorph: TH8799"} for_the_service_H5656 of_the_house_H1004 of_God_H430 of_gold_H2091 five_H2568 thousand_H505 talents_H3603 and_ten_thousand_H7239 drams_H150, and_of_silver_H3701 ten_H6235 thousand_H505 talents_H3603, and_of_brass_H5178 [eighteen]{strong="H7239 H8083"} thousand_H505 talents_H3603, and_one_hundred_H3967 thousand_H505 talents_H3603 of_iron_H1270. 
+@8 And they with whom precious stones_H68 [were found]{strong="H4672" x-morph="strongMorph: TH8737"} [gave]{strong="H5414" x-morph="strongMorph: TH8804"} them to_the_treasure_H214 of_the_house_H1004 of the LORD, by_the_hand_H3027 of_Jehiel_H3171 the_Gershonite_H1649. 
+@9 Then_the_people_H5971 [rejoiced]{strong="H8055" x-morph="strongMorph: TH8799"}, [for that they offered willingly]{strong="H5068" x-morph="strongMorph: TH8692"}, because_with_perfect_H8003 heart_H3820 [they offered willingly]{strong="H5068" x-morph="strongMorph: TH8694"} to the LORD: and_David_H1732 the_king_H4428 [also rejoiced]{strong="H8055" x-morph="strongMorph: TH8804"} with_great_H1419 joy_H8057. 
 
-@10 Wherefore David blessed the LORD before all the congregation: and David said, Blessed be thou, LORD God of Israel our father, for ever and ever. 
-@11 Thine, O LORD, is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heaven and in the earth is thine; thine is the kingdom, O LORD, and thou art exalted as head above all. 
-@12 Both riches and honour come of thee, and thou reignest over all; and in thine hand is power and might; and in thine hand it is to make great, and to give strength unto all. 
-@13 Now therefore, our God, we thank thee, and praise thy glorious name. 
-@14 But who am I, and what is my people, that we should be able to offer so willingly after this sort? for all things come of thee, and of thine own have we given thee.^a^ ^b^ 
-@15 For we are strangers before thee, and sojourners, as were all our fathers: our days on the earth are as a shadow, and there is none abiding.^c^ 
-@16 O LORD our God, all this store that we have prepared to build thee an house for thine holy name cometh of thine hand, and is all thine own. 
-@17 I know also, my God, that thou triest the heart, and hast pleasure in uprightness. As for me, in the uprightness of mine heart I have willingly offered all these things: and now have I seen with joy thy people, which are present here, to offer willingly unto thee.^d^ 
-@18 O LORD God of Abraham, Isaac, and of Israel, our fathers, keep this for ever in the imagination of the thoughts of the heart of thy people, and prepare their heart unto thee:^e^ 
-@19 And give unto Solomon my son a perfect heart, to keep thy commandments, thy testimonies, and thy statutes, and to do all these things, and to build the palace, for the which I have made provision. 
+@10 Wherefore_David_H1732 [blessed]{strong="H1288" x-morph="strongMorph: TH8762"} the LORD before_H5869 all_the_congregation_H6951: and_David_H1732 [said]{strong="H559" x-morph="strongMorph: TH8799"}, [Blessed]{strong="H1288" x-morph="strongMorph: TH8803"} be thou, LORD God_H430 of_Israel_H3478 our_father_H1, for_H5704 ever_H5769 and_ever_H5769. 
+@11 Thine, O LORD, is the_greatness_H1420, and_the_power_H1369, and_the_glory_H8597, and_the_victory_H5331, and_the_majesty_H1935: for all that is in_the_heaven_H8064 and_in_the_earth_H776 is thine; thine is the_kingdom_H4467, O LORD, [and thou art exalted]{strong="H4984" x-morph="strongMorph: TH8693"} as_head_H7218 above all. 
+@12 Both_riches_H6239 and_honour_H3519 come of_thee_H6440, [and thou reignest]{strong="H4910" x-morph="strongMorph: TH8802"} [over all; and in thine hand]{strong="H3027"} is power_H3581 and_might_H1369; and_in_thine_hand_H3027 it is [to make great]{strong="H1431" x-morph="strongMorph: TH8763"}, [and to give strength]{strong="H2388" x-morph="strongMorph: TH8763"} unto all. 
+@13 [Now therefore, our God]{strong="H430"}, [we thank]{strong="H3034" x-morph="strongMorph: TH8688"} [thee, and praise]{strong="H1984" x-morph="strongMorph: TH8764"} thy_glorious_H8597 name_H8034. 
+@14 But who am I, and what is my_people_H5971, [that we should be]{strong="H6113" x-morph="strongMorph: TH8799"} able_H3581 [to offer so willingly]{strong="H5068" x-morph="strongMorph: TH8692"} after this sort? for all things come [of thee, and of thine own]{strong="H3027"} [have we given]{strong="H5414" x-morph="strongMorph: TH8804"} thee.^a^ ^b^ 
+@15 For we are strangers_H1616 before_H6440 [thee, and sojourners]{strong="H8453"}, as were all_our_fathers_H1: our_days_H3117 on_the_earth_H776 are as_a_shadow_H6738, and there is none_abiding_H4723.^c^ 
+@16 O LORD our_God_H430, all_this_store_H1995 [that we have prepared]{strong="H3559" x-morph="strongMorph: TH8689"} [to build]{strong="H1129" x-morph="strongMorph: TH8800"} thee_an_house_H1004 for_thine_holy_H6944 name_H8034 cometh of_thine_hand_H3027, and is all thine own. 
+@17 [I know]{strong="H3045" x-morph="strongMorph: TH8804"} [also, my God]{strong="H430"}, [that thou triest]{strong="H974" x-morph="strongMorph: TH8802"} the_heart_H3824, [and hast pleasure]{strong="H7521" x-morph="strongMorph: TH8799"} in_uprightness_H3476. [As for me, in the uprightness]{strong="H4339"} of_mine_heart_H3824 [I have willingly offered]{strong="H5068" x-morph="strongMorph: TH8694"} [all these things: and now have I seen]{strong="H7200" x-morph="strongMorph: TH8804"} with_joy_H8057 thy_people_H5971, [which are present]{strong="H4672" x-morph="strongMorph: TH8738"} [here, to offer willingly]{strong="H5068" x-morph="strongMorph: TH8692"} unto thee.^d^ 
+@18 O LORD God_H430 of_Abraham_H85, Isaac_H3327, and_of_Israel_H3478, our_fathers_H1, [keep]{strong="H8104" x-morph="strongMorph: TH8798"} this_for_ever_H5769 in_the_imagination_H3336 of_the_thoughts_H4284 of_the_heart_H3824 of_thy_people_H5971, [and prepare]{strong="H3559" x-morph="strongMorph: TH8685"} their_heart_H3824 unto thee:^e^ 
+@19 [And give]{strong="H5414" x-morph="strongMorph: TH8798"} unto_Solomon_H8010 my_son_H1121 a_perfect_H8003 heart_H3824, [to keep]{strong="H8104" x-morph="strongMorph: TH8800"} thy_commandments_H4687, thy_testimonies_H5715, and_thy_statutes_H2706, [and to do]{strong="H6213" x-morph="strongMorph: TH8800"} all these things, [and to build]{strong="H1129" x-morph="strongMorph: TH8800"} the_palace_H1002, for [the which I have made provision]{strong="H3559" x-morph="strongMorph: TH8689"}. 
 ^a^[**29:14** be able: Heb. retain, or, obtain strength] ^b^[**29:14** of thine…: Heb. of thine hand] ^c^[**29:15** abiding: Heb. expectation] ^d^[**29:17** present: Heb. found] ^e^[**29:18** prepare: or, stablish]
 
-@20 And David said to all the congregation, Now bless the LORD your God. And all the congregation blessed the LORD God of their fathers, and bowed down their heads, and worshipped the LORD, and the king. 
-@21 And they sacrificed sacrifices unto the LORD, and offered burnt offerings unto the LORD, on the morrow after that day, even a thousand bullocks, a thousand rams, and a thousand lambs, with their drink offerings, and sacrifices in abundance for all Israel: 
-@22 And did eat and drink before the LORD on that day with great gladness. And they made Solomon the son of David king the second time, and anointed him unto the LORD to be the chief governor, and Zadok to be priest. 
+@20 And_David_H1732 [said]{strong="H559" x-morph="strongMorph: TH8799"} to_all_the_congregation_H6951, [Now bless]{strong="H1288" x-morph="strongMorph: TH8761"} the LORD your_God_H430. And_all_the_congregation_H6951 [blessed]{strong="H1288" x-morph="strongMorph: TH8762"} the LORD God_H430 of_their_fathers_H1, [and bowed down their heads]{strong="H6915" x-morph="strongMorph: TH8799"}, [and worshipped]{strong="H7812" x-morph="strongMorph: TH8691"} the LORD, and_the_king_H4428. 
+@21 [And they sacrificed]{strong="H2076" x-morph="strongMorph: TH8799"} sacrifices_H2077 unto the LORD, [and offered]{strong="H5927" x-morph="strongMorph: TH8686"} burnt_offerings_H5930 unto the LORD, on_the_morrow_H4283 after_that_day_H3117, even a_thousand_H505 bullocks_H6499, a_thousand_H505 rams_H352, and a_thousand_H505 lambs_H3532, with_their_drink_offerings_H5262, and_sacrifices_H2077 in_abundance_H7230 for_all_Israel_H3478: 
+@22 [And did eat]{strong="H398" x-morph="strongMorph: TH8799"} [and drink]{strong="H8354" x-morph="strongMorph: TH8799"} before_H6440 the LORD on_that_day_H3117 with_great_H1419 gladness_H8057. And_they_made_Solomon_H8010 the_son_H1121 of_David_H1732 [king]{strong="H4427" x-morph="strongMorph: TH8686"} the_second_time_H8145, [and anointed]{strong="H4886" x-morph="strongMorph: TH8799"} him unto the LORD to be the_chief_governor_H5057, and_Zadok_H6659 to be priest_H3548. 
 
-@23 Then Solomon sat on the throne of the LORD as king instead of David his father, and prospered; and all Israel obeyed him. 
-@24 And all the princes, and the mighty men, and all the sons likewise of king David, submitted themselves unto Solomon the king.^a^ 
-@25 And the LORD magnified Solomon exceedingly in the sight of all Israel, and bestowed upon him such royal majesty as had not been on any king before him in Israel. 
+@23 Then_Solomon_H8010 [sat on]{strong="H3427" x-morph="strongMorph: TH8799"} the_throne_H3678 of the LORD as_king_H4428 instead_of_David_H1732 his_father_H1, [and prospered]{strong="H6743" x-morph="strongMorph: TH8686"}; and_all_Israel_H3478 [obeyed]{strong="H8085" x-morph="strongMorph: TH8799"} him. 
+@24 And_all_the_princes_H8269, and_the_mighty_men_H1368, and_all_the_sons_H1121 likewise_of_king_H4428 David_H1732, [submitted themselves]{strong="H8478 H3027 H5414" x-morph="strongMorph: TH8804"} unto_Solomon_H8010 the_king_H4428.^a^ 
+@25 And the LORD [magnified ]{strong="H1431" x-morph="strongMorph: TH8762"} Solomon_H8010 exceedingly_H4605 in_the_sight_H5869 of_all_Israel_H3478, [and bestowed]{strong="H5414" x-morph="strongMorph: TH8799"} upon him such royal_H4438 majesty_H1935 as_had_not_been_on_any_king_H4428 before_H6440 him_in_Israel_H3478. 
 ^a^[**29:24** submitted…: Heb. gave the hand under Solomon]
 
-@26 Thus David the son of Jesse reigned over all Israel. 
-@27 And the time that he reigned over Israel was forty years; seven years reigned he in Hebron, and thirty and three years reigned he in Jerusalem. 
-@28 And he died in a good old age, full of days, riches, and honour: and Solomon his son reigned in his stead. 
-@29 Now the acts of David the king, first and last, behold, they are written in the book of Samuel the seer, and in the book of Nathan the prophet, and in the book of Gad the seer,^a^ 
-@30 With all his reign and his might, and the times that went over him, and over Israel, and over all the kingdoms of the countries. 
+@26 Thus_David_H1732 the_son_H1121 of_Jesse_H3448 [reigned]{strong="H4427" x-morph="strongMorph: TH8804"} over_all_Israel_H3478. 
+@27 And_the_time_H3117 [that he reigned]{strong="H4427" x-morph="strongMorph: TH8804"} over_Israel_H3478 was forty_H705 years_H8141; seven_H7651 years_H8141 [reigned]{strong="H4427" x-morph="strongMorph: TH8804"} he_in_Hebron_H2275, and_thirty_H7970 and_three_H7969 years [reigned]{strong="H4427" x-morph="strongMorph: TH8804"} he_in_Jerusalem_H3389. 
+@28 [And he died]{strong="H4191" x-morph="strongMorph: TH8799"} in_a_good_H2896 old_age_H7872, full_H7649 of_days_H3117, riches_H6239, and_honour_H3519: and_Solomon_H8010 his_son_H1121 [reigned]{strong="H4427" x-morph="strongMorph: TH8799"} in his stead. 
+@29 Now_the_acts_H1697 of_David_H1732 the_king_H4428, first_H7223 and_last_H314, behold, they are [written]{strong="H3789" x-morph="strongMorph: TH8803"} in_the_book_H1697 of_Samuel_H8050 [the seer]{strong="H7200" x-morph="strongMorph: TH8802"}, and_in_the_book_H1697 of_Nathan_H5416 the_prophet_H5030, and_in_the_book_H1697 of_Gad_H1410 the_seer_H2374,^a^ 
+@30 With_all_his_reign_H4438 and_his_might_H1369, and_the_times_H6256 [that went over]{strong="H5674" x-morph="strongMorph: TH8804"} [him, and over Israel]{strong="H3478"}, and_over_all_the_kingdoms_H4467 of_the_countries_H776. 
 ^a^[**29:29** book: or, history: Heb. words]
